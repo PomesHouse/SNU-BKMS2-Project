@@ -1,0 +1,100 @@
+[
+  {
+    "client_msg_id": "3f855b8d-50b7-4b09-b7f4-54638e7ee714",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "*[워크샵 공지]*\n안녕하세요\n5/19-20에 있을 워크샵과 관련하여 자차이동에 대한 문의가 많았는데, 교수님과 논의한 결과 공식 자격증 시험, 예비군 참여, 결혼식 등 *증빙 서류 및 자료를 제출할 수 있는 경우에 한해 자차이용을 허가하게되었습니다.*  자차 이용이 필요하신 분은 5월 12일 금요일까지 신청 설문지를 제출해주시기 바랍니다.\n(*신청 허가 되신 분들에 한해 다음주 중으로 단톡방을 개설할 예정입니다.)\n\n:arrow_forward:신청 기한: ~5/12 (금)\n:arrow_forward:신청 링크: \u003chttps://forms.gle/ahq3y7xTFrgVZwdB6\u003e",
+    "ts": "1683546839.912979",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U0302PLQ34Y",
+          "U02ULBJR9GE",
+          "U040MB3TGSE"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vA2F7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[워크샵 공지]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n안녕하세요\n5/19-20에 있을 워크샵과 관련하여 자차이동에 대한 문의가 많았는데, 교수님과 논의한 결과 공식 자격증 시험, 예비군 참여, 결혼식 등 "
+              },
+              {
+                "type": "text",
+                "text": "증빙 서류 및 자료를 제출할 수 있는 경우에 한해 자차이용을 허가하게되었습니다. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 자차 이용이 필요하신 분은 5월 12일 금요일까지 신청 설문지를 제출해주시기 바랍니다.\n(*신청 허가 되신 분들에 한해 다음주 중으로 단톡방을 개설할 예정입니다.)\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "arrow_forward",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "신청 기한: ~5/12 (금)\n"
+              },
+              {
+                "type": "emoji",
+                "name": "arrow_forward",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "신청 링크: "
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/ahq3y7xTFrgVZwdB6",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

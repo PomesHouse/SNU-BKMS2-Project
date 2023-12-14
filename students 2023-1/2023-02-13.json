@@ -1,0 +1,193 @@
+[
+  {
+    "client_msg_id": "2e9692fd-b264-4342-9251-84fccc8c782c",
+    "type": "message",
+    "user": "U01QUKKQ8GH",
+    "text": "[금융공학] \n이번 1학기에 최병선 교수님의 금융공학을 들으시는 분께서는 내일 오후 2시에 다음 줌 링크에 접속하여주시기 바랍니다. 교수님께서 학생들에게 미리 하실 말씀이 있다고 합니다. 어떤 말씀을 하실지 정확히 알지는 못하지만, 참여는 필수가 아닙니다. \n\n일시: 2월 14일 오후 2시\n링크: \u003chttps://snu-ac-kr.zoom.us/j/96096545841|https://snu-ac-kr.zoom.us/j/96096545841\u003e",
+    "ts": "1676269990.240229",
+    "thread_ts": "1676269990.240229",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01QUKKQ8GH",
+        "ts": "1676308714.083939"
+      }
+    ],
+    "latest_reply": "1676308714.083939",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U01QNHRHY0L",
+          "U01QV1SQJ57",
+          "U040M7VULN7"
+        ]
+      },
+      {
+        "name": "smile",
+        "count": 1,
+        "users": [
+          "U01QV1SQJ57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hw2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[금융공학] \n이번 1학기에 최병선 교수님의 금융공학을 들으시는 분께서는 내일 오후 2시에 다음 줌 링크에 접속하여주시기 바랍니다. 교수님께서 학생들에게 미리 하실 말씀이 있다고 합니다. 어떤 말씀을 하실지 정확히 알지는 못하지만, 참여는 필수가 아닙니다. \n\n일시: 2월 14일 오후 2시\n링크: "
+              },
+              {
+                "type": "link",
+                "url": "https://snu-ac-kr.zoom.us/j/96096545841",
+                "text": "https://snu-ac-kr.zoom.us/j/96096545841"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김호현",
+      "real_name": "김호현",
+      "display_name": "2기_김호현",
+      "team": "T01QA5S537V",
+      "name": "waterdream",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01QUKKQ8GH"
+    ]
+  },
+  {
+    "client_msg_id": "0f4d759f-f937-4923-8866-945243875970",
+    "type": "message",
+    "user": "U01QUKKQ8GH",
+    "text": "참고 교재 목차입니다.",
+    "ts": "1676308714.083939",
+    "thread_ts": "1676269990.240229",
+    "parent_user_id": "U01QUKKQ8GH",
+    "files": [
+      {
+        "id": "F04P9SNTVEZ",
+        "created": 1676308628,
+        "timestamp": 1676308628,
+        "name": "OShaughnessy_What-Works-on-Wall-Street-by-OShaughnessy_Table of Contents.pdf",
+        "title": "OShaughnessy_What-Works-on-Wall-Street-by-OShaughnessy_Table of Contents.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QUKKQ8GH",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 479544,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04P9SNTVEZ-OShaughnessy_What-Works-on-Wall-Street-by-OShaughnessy_Table of Contents.pdf",
+        "url_private_download": "attachments/F04P9SNTVEZ-OShaughnessy_What-Works-on-Wall-Street-by-OShaughnessy_Table of Contents.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QUKKQ8GH/F04P9SNTVEZ/oshaughnessy_what-works-on-wall-street-by-oshaughnessy_table_of_contents.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04P9SNTVEZ-35320f9ac5",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QDi8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "참고 교재 목차입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김호현",
+      "real_name": "김호현",
+      "display_name": "2기_김호현",
+      "team": "T01QA5S537V",
+      "name": "waterdream",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

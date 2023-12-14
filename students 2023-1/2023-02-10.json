@@ -1,0 +1,235 @@
+[
+  {
+    "client_msg_id": "f5ecc989-ddca-4cc9-bd6d-debe60ea3426",
+    "type": "message",
+    "user": "U02UT1Y2UJW",
+    "text": "안녕하세요\n석사과정 박성일 학생입니다.\n이 내용을 어디에 말씀드려야 할지 몰라서 우선 여기에 쓰게 되었습니다.\n\n다름 아니라 최근 GSDS 서버가 굉장히 활발히 사용되고 있는데요. GPU 1장만 잡아서 돌리려고 해도 몇시간씩은 기본으로 대기를 해야하는 상황입니다. 물론 이게 문제는 아닙니다. \n\n중요한 건 현재 GSDS 서버의 job의 대부분을 일부 소수의 학생들이 사용하고 있다는 것입니다. 4~5개는 기본이고 10개 15개 job이 특정 계정에서 실행되고 있는데 대부분 12시간 timeout을 꽉꽉 채워서 쓰고 있는 듯 합니다.\n\n무거운 작업을 돌리기 위해서 많은 gpu를 할당 받아 사용하는 것은 당연하다고 생각되지만, 문제는 GSDS 서버는 공용서버라는 점입니다. 누가 어떤 이유로 이렇게 많은 gpu를 쓰고 있는 지 알 방법도 없는 상황에서, 소수의 인원이 수많은 job을 반복해 던지다보면 서버 사용의 예측가능성이 매우 떨어질 수 밖에 없습니다. 결국엔 서버를 사용하는 학생들은 불확실성을 해결하기 위해 군비경쟁처럼 한번에 더 많은 job을 던지게 되고, 그렇게 되면 더 악순환이 되지 않을까 싶습니다.\n\n그래서 제안드리고 싶은 방법이 gpu를 10개 이상(혹은 n개 이상)으로 사용해야 하는 작업이 있을 때에는 사전에 어떠한 루트를 통해서든 작업내용, 작업량, 예상 소요시간 등을 타 학생들에게 미리 알려주는게 공유서버를 더 원활히 사용하는데 좋을 것 같은데 다른 분들의 의견이 궁금합니다.",
+    "ts": "1675997401.082039",
+    "thread_ts": "1675997401.082039",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U02UT2VQ9NF",
+        "ts": "1676002100.744629"
+      },
+      {
+        "user": "U01QAE573J7",
+        "ts": "1676021270.367079"
+      }
+    ],
+    "latest_reply": "1676021270.367079",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 2,
+        "users": [
+          "U02V5LTPGRX",
+          "U01QGD17SUU"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 17,
+        "users": [
+          "U02ULBHV58W",
+          "U02V5LS6USD",
+          "U02V5LTUGGH",
+          "U01PVEU4GMV",
+          "U040M7VULN7",
+          "U02V5LS84JV",
+          "U02UT2VQ9NF",
+          "U01Q9KXMSF8",
+          "U01QNJ9BB60",
+          "U02V5LRB5S5",
+          "U02UVASLMRS",
+          "U02UQ4BRJE9",
+          "U0302PHUHME",
+          "U01R678KWP2",
+          "U02V5LU0EGZ",
+          "U040C40QE6T",
+          "U0406PM050F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dmz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요\n석사과정 박성일 학생입니다.\n이 내용을 어디에 말씀드려야 할지 몰라서 우선 여기에 쓰게 되었습니다.\n\n다름 아니라 최근 GSDS 서버가 굉장히 활발히 사용되고 있는데요. GPU 1장만 잡아서 돌리려고 해도 몇시간씩은 기본으로 대기를 해야하는 상황입니다. 물론 이게 문제는 아닙니다. \n\n중요한 건 현재 GSDS 서버의 job의 대부분을 일부 소수의 학생들이 사용하고 있다는 것입니다. 4~5개는 기본이고 10개 15개 job이 특정 계정에서 실행되고 있는데 대부분 12시간 timeout을 꽉꽉 채워서 쓰고 있는 듯 합니다.\n\n무거운 작업을 돌리기 위해서 많은 gpu를 할당 받아 사용하는 것은 당연하다고 생각되지만, 문제는 GSDS 서버는 공용서버라는 점입니다. 누가 어떤 이유로 이렇게 많은 gpu를 쓰고 있는 지 알 방법도 없는 상황에서, 소수의 인원이 수많은 job을 반복해 던지다보면 서버 사용의 예측가능성이 매우 떨어질 수 밖에 없습니다. 결국엔 서버를 사용하는 학생들은 불확실성을 해결하기 위해 군비경쟁처럼 한번에 더 많은 job을 던지게 되고, 그렇게 되면 더 악순환이 되지 않을까 싶습니다.\n\n그래서 제안드리고 싶은 방법이 gpu를 10개 이상(혹은 n개 이상)으로 사용해야 하는 작업이 있을 때에는 사전에 어떠한 루트를 통해서든 작업내용, 작업량, 예상 소요시간 등을 타 학생들에게 미리 알려주는게 공유서버를 더 원활히 사용하는데 좋을 것 같은데 다른 분들의 의견이 궁금합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/32f847ec32c79ee2beb412338ef86d76.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "3기_박성일",
+      "real_name": "3기_박성일",
+      "display_name": "3기_박성일",
+      "team": "T01QA5S537V",
+      "name": "athjk3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01QAE573J7",
+      "U02UT2VQ9NF"
+    ]
+  },
+  {
+    "client_msg_id": "be6b0089-6c48-4b98-aa77-ee1a76e8154e",
+    "type": "message",
+    "user": "U02UT2VQ9NF",
+    "text": "안녕하세요. 글에서 지목된 일부 소수의 학생 중 하나입니다. :slightly_smiling_face: 말씀하신 바와 같이 군비경쟁적으로 잡을 던져왔던 것에 대해 인정하고, 앞으로는 사용하는 GPU의 개수를 10개 이내로 관리하도록 하겠습니다. (현재 필수적으로 돌려야하는 잡을 제외하고는 전부 내려둔 상태입니다.)\n\n몇몇 학생들이 job을 무차별적으로 던지는 상황에 무비판적으로 동조하다보니 많은 분들께 불편함을 초래하는 상황으로 이어진 것 같습니다.\n\n그 때 그러지 말고 성일님처럼 성숙하게 문제제기를 했었어야 했다는 후회가 듭니다. 이 문제에 대해 이야기를 꺼내주신 성일님께 감사하다는 말씀을 드리고 앞으로는 비슷한 일이 일어나지 않도록 하겠습니다.",
+    "ts": "1676002100.744629",
+    "thread_ts": "1675997401.082039",
+    "edited": {
+      "user": "U02UT2VQ9NF",
+      "ts": "1676002374.000000"
+    },
+    "parent_user_id": "U02UT1Y2UJW",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 5,
+        "users": [
+          "U02UVASLMRS",
+          "U02UQ4BRJE9",
+          "U01QGG6A5LJ",
+          "U02V5LS6USD",
+          "U040C40QE6T"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yW7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 글에서 지목된 일부 소수의 학생 중 하나입니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 말씀하신 바와 같이 군비경쟁적으로 잡을 던져왔던 것에 대해 인정하고, 앞으로는 사용하는 GPU의 개수를 10개 이내로 관리하도록 하겠습니다. (현재 필수적으로 돌려야하는 잡을 제외하고는 전부 내려둔 상태입니다.)\n\n몇몇 학생들이 job을 무차별적으로 던지는 상황에 무비판적으로 동조하다보니 많은 분들께 불편함을 초래하는 상황으로 이어진 것 같습니다.\n\n그 때 그러지 말고 성일님처럼 성숙하게 문제제기를 했었어야 했다는 후회가 듭니다. 이 문제에 대해 이야기를 꺼내주신 성일님께 감사하다는 말씀을 드리고 앞으로는 비슷한 일이 일어나지 않도록 하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+      "first_name": "3기_송종현",
+      "real_name": "3기_송종현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "hyeongoon",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a74b6611-cb54-4929-9f94-81b86ebc052e",
+    "type": "message",
+    "user": "U01QAE573J7",
+    "text": "관련하여 박성일 님께 저희 서버 관리자 중 한 명이 DM을 드렸을 겁니다. 곧 서버 이용과 관련하여 중요한 공지사항을 올릴 예정이니, 모두 꼼꼼히 읽어주시면 감사하겠습니다.",
+    "ts": "1676021270.367079",
+    "thread_ts": "1675997401.082039",
+    "parent_user_id": "U02UT1Y2UJW",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "ok_hand::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R7S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "관련하여 박성일 님께 저희 서버 관리자 중 한 명이 DM을 드렸을 겁니다. 곧 서버 이용과 관련하여 중요한 공지사항을 올릴 예정이니, 모두 꼼꼼히 읽어주시면 감사하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "1기_안규수",
+      "real_name": "1기_안규수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kyusu.ahn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "client_msg_id": "2428f7b8-19ad-4846-b6f7-f3ef7c858d29",
+    "type": "message",
+    "user": "U04QGUF264B",
+    "text": "혹시 301동에서 LAN으로 인터넷 연결 하시는 분, mac 사용자 분 중 ‘self-assgined ip’문제 발생하시는 분 해결하신 분 계실까요?\n환경: 바닥의 랜 포트에 랜선 연결 후 맥북 m1프로에 LAN to usb-A (and C 두 개 다 사용해 봄)을 이용하여 연결함.",
+    "ts": "1678946060.430189",
+    "files": [
+      {
+        "id": "F04UL201SQZ",
+        "created": 1678945983,
+        "timestamp": 1678945983,
+        "name": "Screenshot 2023-03-16 at 2.52.27 PM.png",
+        "title": "Screenshot 2023-03-16 at 2.52.27 PM.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U04QGUF264B",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 44694,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04UL201SQZ-Screenshot 2023-03-16 at 2.52.27 PM.png",
+        "url_private_download": "attachments/F04UL201SQZ-Screenshot 2023-03-16 at 2.52.27 PM.png",
+        "original_h": 384,
+        "original_w": 958,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04UL201SQZ-6fdec92f49/screenshot_2023-03-16_at_2.52.27_pm_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04UL201SQZ-6fdec92f49/screenshot_2023-03-16_at_2.52.27_pm_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04UL201SQZ-6fdec92f49/screenshot_2023-03-16_at_2.52.27_pm_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04UL201SQZ-6fdec92f49/screenshot_2023-03-16_at_2.52.27_pm_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 144,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04UL201SQZ-6fdec92f49/screenshot_2023-03-16_at_2.52.27_pm_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 192,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04UL201SQZ-6fdec92f49/screenshot_2023-03-16_at_2.52.27_pm_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 289,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U04QGUF264B/F04UL201SQZ/screenshot_2023-03-16_at_2.52.27_pm.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04UL201SQZ-c6f7f55324",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "count": 1,
+        "users": [
+          "U04QKG4K12Q"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mE69X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 301동에서 LAN으로 인터넷 연결 하시는 분, mac 사용자 분 중 ‘self-assgined ip’문제 발생하시는 분 해결하신 분 계실까요?\n환경: 바닥의 랜 포트에 랜선 연결 후 맥북 m1프로에 LAN to usb-A (and C 두 개 다 사용해 봄)을 이용하여 연결함."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5206aec1fd6d2c1122c65dd55becd6f1.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "한상빈",
+      "real_name": "한상빈",
+      "display_name": "4기_한상빈",
+      "team": "T01QA5S537V",
+      "name": "hsb9048",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

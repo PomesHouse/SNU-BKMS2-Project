@@ -1,0 +1,829 @@
+[
+  {
+    "client_msg_id": "2C9B8FC7-F7A5-496A-9994-90DBE839F0E6",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "[GSDS 롤:video_game: 대표선수 모집]\n안녕하세요 1기 성기홍입니다. 사회과학대학원에서 대학원들 사이 단결을 위해 GSDS와 LOL 결투 제의가 왔습니다. 선수 5명을 모집하오니 관심 있으신 분들은 댓글로 달아주시면 감사하겠습니다:grinning:",
+    "ts": "1625640066.160100",
+    "thread_ts": "1625640066.160100",
+    "edited": {
+      "user": "U01Q3A8TXU6",
+      "ts": "1625640080.000000"
+    },
+    "reply_count": 12,
+    "replies": [
+      {
+        "user": "U01Q3EP0E14",
+        "ts": "1625640096.160300"
+      },
+      {
+        "user": "U01R0307KEU",
+        "ts": "1625640108.160500"
+      },
+      {
+        "user": "U01QV1SQJ57",
+        "ts": "1625640161.161700"
+      },
+      {
+        "user": "U01Q75KNV1T",
+        "ts": "1625640298.162800"
+      },
+      {
+        "user": "U01Q3A8TXU6",
+        "ts": "1625640453.163600"
+      },
+      {
+        "user": "U01QNSM488Z",
+        "ts": "1625640666.164100"
+      },
+      {
+        "user": "U01Q1KFN4JK",
+        "ts": "1625642565.165200"
+      },
+      {
+        "user": "U01QNSMEY0Z",
+        "ts": "1625645052.167200"
+      },
+      {
+        "user": "U01Q1KM0M3R",
+        "ts": "1625660906.167700"
+      },
+      {
+        "user": "U01PVETQRRD",
+        "ts": "1625662688.168700"
+      },
+      {
+        "user": "U01QV1TE2UR",
+        "ts": "1625812983.173300"
+      },
+      {
+        "user": "U01Q3A8TXU6",
+        "ts": "1625814020.174400"
+      }
+    ],
+    "latest_reply": "1625814020.174400",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 15,
+        "users": [
+          "U01R678KWP2",
+          "U01PVEU3007",
+          "U01Q75KNV1T",
+          "U01QV1SQJ57",
+          "U01R0307KEU",
+          "U01PVETJY87",
+          "U01QNSM488Z",
+          "U01Q3EP0E14",
+          "U01Q1KFN4JK",
+          "U01Q1KQ03PZ",
+          "U01Q1KM0M3R",
+          "U01QAE5A9K5",
+          "U01Q3EPDBAA",
+          "U01R719DKK2",
+          "U01QDANUYVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UNM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 롤"
+              },
+              {
+                "type": "emoji",
+                "name": "video_game",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 대표선수 모집]\n안녕하세요 1기 성기홍입니다. 사회과학대학원에서 대학원들 사이 단결을 위해 GSDS와 LOL 결투 제의가 왔습니다. 선수 5명을 모집하오니 관심 있으신 분들은 댓글로 달아주시면 감사하겠습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "grinning",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 11,
+    "reply_users": [
+      "U01PVETQRRD",
+      "U01Q1KFN4JK",
+      "U01Q1KM0M3R",
+      "U01Q3A8TXU6",
+      "U01Q3EP0E14",
+      "U01Q75KNV1T",
+      "U01QNSM488Z",
+      "U01QNSMEY0Z",
+      "U01QV1SQJ57",
+      "U01QV1TE2UR",
+      "U01R0307KEU"
+    ]
+  },
+  {
+    "client_msg_id": "bd18b065-d78e-422a-8d10-f2969a8b07ad",
+    "type": "message",
+    "user": "U01Q3EP0E14",
+    "text": "미드/원딜 갑니다\n이번시즌 플레4 입니다",
+    "ts": "1625640096.160300",
+    "thread_ts": "1625640066.160100",
+    "edited": {
+      "user": "U01Q3EP0E14",
+      "ts": "1625640124.000000"
+    },
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 17,
+        "users": [
+          "U01Q75KNV1T",
+          "U01QV1SQJ57",
+          "U01PVEU3007",
+          "U01PVEU69BR",
+          "U01PVEU7QKH",
+          "U01QNSKMEDP",
+          "U01R0307KEU",
+          "U01PVEU1A07",
+          "U01QNSM488Z",
+          "U01PVET2C31",
+          "U01Q1KFN4JK",
+          "U01QNSMEY0Z",
+          "U01PVETQRRD",
+          "U01Q3EPDBAA",
+          "U01Q1KM0M3R",
+          "U01QZRUNBA4",
+          "U01QAE5BVEX"
+        ]
+      },
+      {
+        "name": "fire",
+        "count": 7,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01R0307KEU",
+          "U01QNSKMEDP",
+          "U01Q75KNV1T",
+          "U01PVEU98KH",
+          "U01Q3EPDBAA",
+          "U01QAE5BVEX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q8eq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "미드/원딜 갑니다\n이번시즌 플레4 입니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826751142355_2e2bc6d04d608acbe86e_72.png",
+      "first_name": "김우중",
+      "real_name": "김우중",
+      "display_name": "1기_김우중",
+      "team": "T01QA5S537V",
+      "name": "kimwj94",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5820b009-6e1e-4dd4-8316-840abca797b6",
+    "type": "message",
+    "user": "U01R0307KEU",
+    "text": "저요~~~ 하고 싶으나 ㅎㅎㅎㅎㅎㅎㅎ",
+    "ts": "1625640108.160500",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "stuck_out_tongue",
+        "count": 2,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01Q1KFN4JK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UC7fU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저요~~~ 하고 싶으나 ㅎㅎㅎㅎㅎㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826544690131_95406711f7e66c213a58_72.png",
+      "first_name": "KimEunhee",
+      "real_name": "KimEunhee",
+      "display_name": "1기_김은희",
+      "team": "T01QA5S537V",
+      "name": "kimhee96",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "17ef098d-8579-422a-94d6-06704f097b07",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "\u003c@U01QV1TE2UR\u003e 추천합니다!!! :D",
+    "ts": "1625640161.161700",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 8,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01Q75KNV1T",
+          "U01QGJL6SP5",
+          "U01Q1KFN4JK",
+          "U01QV1TE2UR",
+          "U01QNHRHY0L",
+          "U01Q1KM0M3R",
+          "U01QDA36FJR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S1U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01QV1TE2UR"
+              },
+              {
+                "type": "text",
+                "text": " 추천합니다!!! :D"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e72e110c-da04-487d-8af2-2dc78193c4f6",
+    "type": "message",
+    "user": "U01Q75KNV1T",
+    "text": "중계 있나요ㅎ",
+    "ts": "1625640298.162800",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 2,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01Q1KFN4JK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RIaq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "중계 있나요ㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1839499236017_e5a333503f5d47822279_72.jpg",
+      "first_name": "jwy4888",
+      "real_name": "jwy4888",
+      "display_name": "3기_장원영",
+      "team": "T01QA5S537V",
+      "name": "jwy4888",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "BEE8F2C9-D372-417B-9D1E-C7C50D1C4623",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "원영좌 옵 고고",
+    "ts": "1625640453.163600",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U01Q1KFN4JK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a7J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "원영좌 옵 고고"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "65a4e954-cefc-4afe-b67d-caaec72293e3",
+    "type": "message",
+    "user": "U01QNSM488Z",
+    "text": "Don’t forget that “Winning is a habit”….",
+    "ts": "1625640666.164100",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "i_love_you_hand_sign",
+        "count": 6,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01PVET2C31",
+          "U01Q75KNV1T",
+          "U01Q1KFN4JK",
+          "U01QAE5A9K5",
+          "U01Q3EPDBAA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5QQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Don’t forget that “Winning is a habit”…."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "1기_황태현",
+      "real_name": "1기_황태현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "th.hwang",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "30dd63db-b8ea-4ba6-8c03-da6a690f0ed9",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "\u003c@U01QV1TE2UR\u003e 두 번 추천합니다! 2기 중에서는 최상급 실력인 것으로 알고 있어서... ^^;",
+    "ts": "1625642565.165200",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U01QV1TE2UR",
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mYX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01QV1TE2UR"
+              },
+              {
+                "type": "text",
+                "text": " 두 번 추천합니다! 2기 중에서는 최상급 실력인 것으로 알고 있어서... ^^;"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "E23CA6C3-87CF-413A-91EC-A11BAE74058F",
+    "type": "message",
+    "user": "U01QNSMEY0Z",
+    "text": "중계좀요 ㅋㅋㅋㅋ",
+    "ts": "1625645052.167200",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "count": 2,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01Q3EPDBAA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=jN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "중계좀요 ㅋㅋㅋㅋ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-19/1885230055892_cd1a381e6e3c941511a5_72.png",
+      "first_name": "simonjisu",
+      "real_name": "simonjisu",
+      "display_name": "1기_장지수",
+      "team": "T01QA5S537V",
+      "name": "simonjisu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af69b680-3f40-4f56-99a6-c3ef557faad4",
+    "type": "message",
+    "user": "U01Q1KM0M3R",
+    "text": "김병찬 학생과 같이 지원합니다.. 병찬이는 원딜이고 저는 서폿입니다. 탑레는 병찬이는 골드고 저는 플레입니다!",
+    "ts": "1625660906.167700",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 5,
+        "users": [
+          "U01QV1SQJ57",
+          "U01QNHRHY0L",
+          "U01Q1KFN4JK",
+          "U01R719DKK2",
+          "U01QDANUYVB"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U01QNHRHY0L",
+          "U01Q1KFN4JK",
+          "U01Q75KNV1T",
+          "U01Q1KQ03PZ",
+          "U01Q3EPDBAA",
+          "U01QDANUYVB"
+        ]
+      },
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "count": 2,
+        "users": [
+          "U01QGKCRNPM",
+          "U01QV28FG4R"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fyx/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "김병찬 학생과 같이 지원합니다.. 병찬이는 원딜이고 저는 서폿입니다. 탑레는 병찬이는 골드고 저는 플레입니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1817667132535_f88779fead6aacc062af_72.png",
+      "first_name": "sha17",
+      "real_name": "sha17",
+      "display_name": "2기_하성수",
+      "team": "T01QA5S537V",
+      "name": "sha17",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a3896abe-a820-4882-81d6-fee6695424c6",
+    "type": "message",
+    "user": "U01PVETQRRD",
+    "text": "정글 자리 비었으면 지원해봅니다 탑레는 다이아입니다~~",
+    "ts": "1625662688.168700",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 9,
+        "users": [
+          "U01Q75KNV1T",
+          "U01QV1SQJ57",
+          "U01Q3EP0E14",
+          "U01Q3EPDBAA",
+          "U01PVEU1A07",
+          "U01QNSKMEDP",
+          "U01Q1KM0M3R",
+          "U01Q1KFN4JK",
+          "U01QAE5BVEX"
+        ]
+      },
+      {
+        "name": "fire",
+        "count": 3,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01Q3EP0E14",
+          "U01QNSKMEDP"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dpIS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "정글 자리 비었으면 지원해봅니다 탑레는 다이아입니다~~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0ba30ba67285974c6a31f084be27bbcd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "김석기",
+      "real_name": "김석기",
+      "display_name": "1기_김석기",
+      "team": "T01QA5S537V",
+      "name": "blaqdraq77",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

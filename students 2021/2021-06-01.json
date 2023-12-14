@@ -1,0 +1,133 @@
+[
+  {
+    "type": "message",
+    "user": "U01QUKKQ8GH",
+    "text": "\"Preserving Integrity in Online Social Networks\"\n내일 데이터 사이언스 세미나에서 강연할 Alon Halevy의 논문입니다.\n\n(원장님 말씀에 따르면) Halevy 박사는 데이터 통합과 인공지능 전문가로 Washington 대학교 교수, Google Research 등의 커리어를 거쳤습니다. 2019년부터 Facebook AI에서 인공지능 데이터를 관리하는 연구를 이끌고 있습니다.\n\nWen-Syan Li 교수님도 수업 중에 Halevy의 강연을 추천해준 게 생각나 링크를 같이 첨부합니다. \u003chttps://www.youtube.com/watch?v=bZSeY0ovghg\u003e",
+    "ts": "1622529204.005400",
+    "files": [
+      {
+        "id": "F0235KDAHLP",
+        "created": 1622528987,
+        "timestamp": 1622528987,
+        "name": "2009.10311.pdf",
+        "title": "2009.10311.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QUKKQ8GH",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 10949051,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0235KDAHLP-2009.10311.pdf",
+        "url_private_download": "attachments/F0235KDAHLP-2009.10311.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QUKKQ8GH/F0235KDAHLP/2009.10311.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F0235KDAHLP-f76fa83961",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 10,
+        "users": [
+          "U01QV1SQJ57",
+          "U01Q75KNV1T",
+          "U01QDA01NN9",
+          "U01QGD03WUC",
+          "U01QGKCUAJX",
+          "U01PVET2C31",
+          "U01Q1KM0M3R",
+          "U01Q9KJL8MC",
+          "U01QDANUYVB",
+          "U01R719DKK2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vm9yw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\"Preserving Integrity in Online Social Networks\"\n내일 데이터 사이언스 세미나에서 강연할 Alon Halevy의 논문입니다.\n\n(원장님 말씀에 따르면) Halevy 박사는 데이터 통합과 인공지능 전문가로 Washington 대학교 교수, Google Research 등의 커리어를 거쳤습니다. 2019년부터 Facebook AI에서 인공지능 데이터를 관리하는 연구를 이끌고 있습니다.\n\nWen-Syan Li 교수님도 수업 중에 Halevy의 강연을 추천해준 게 생각나 링크를 같이 첨부합니다. "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=bZSeY0ovghg",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김호현",
+      "real_name": "김호현",
+      "display_name": "2기_김호현",
+      "team": "T01QA5S537V",
+      "name": "waterdream",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

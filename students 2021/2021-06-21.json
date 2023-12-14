@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "96FCC7B7-229F-42BD-A67A-AB68022E4339",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "혹시 흰색 소나타 29수 0703 차주인분 계시나요? 지금 차 빼달라고 요청이 왔습니다ㅜㅜ",
+    "ts": "1624255148.058600",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UGWvh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 흰색 소나타 29수 0703 차주인분 계시나요? 지금 차 빼달라고 요청이 왔습니다ㅜㅜ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

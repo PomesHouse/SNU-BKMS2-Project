@@ -1,0 +1,78 @@
+[
+  {
+    "client_msg_id": "DEC87BD5-453E-46EB-82CB-EF0A3B815DB2",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "[긴급]\n3층 프린터실 컴퓨터 비밀번호 혹시 설정하신 분이나 설정하신 분을 아는 분은 행정실로 알려주시기 바랍니다!!:sob:",
+    "ts": "1626140323.181800",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "sob",
+        "count": 13,
+        "users": [
+          "U01QNSM488Z",
+          "U01QNHRHY0L",
+          "U01QV1SQJ57",
+          "U01PVETJY87",
+          "U01QAE5BVEX",
+          "U01Q75KNV1T",
+          "U01Q3EPDBAA",
+          "U01Q9KXMSF8",
+          "U01QAE5A9K5",
+          "U01R719DKK2",
+          "U01QDANUYVB",
+          "U01QV1TE2UR",
+          "U01QV28FG4R"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TEP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[긴급]\n"
+              },
+              {
+                "type": "text",
+                "text": "3층 프린터실 컴퓨터 비밀번호 혹시 설정하신 분이나 설정하신 분을 아는 분은 행정실로 알려주시기 바랍니다!!"
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "client_msg_id": "21065a4d-d23d-4445-b224-5eaa16871bf7",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023년 4월 각 군 현역병 모집 계획\u0026gt;\n\n병무청에서는 병역의무자의 전공, 자격ㆍ면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 하는 현역병 모집제도를 운영하고 있습니다. *2023년 4월 지원하여 2023년 7월 입영예정*인 각 군 현역병 모집일정을 게시하오니 학생 여러분께서는 병역의무 이행에 참고하시기 바랍니다.",
+    "ts": "1680166934.182419",
+    "files": [
+      {
+        "id": "F051CM1HVB3",
+        "created": 1680166917,
+        "timestamp": 1680166917,
+        "name": "2023년 4월 각 군 현역병 모집계획.hwpx",
+        "title": "2023년 4월 각 군 현역병 모집계획.hwpx",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 54655,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F051CM1HVB3-2023년 4월 각 군 현역병 모집계획.hwpx",
+        "url_private_download": "attachments/F051CM1HVB3-2023년 4월 각 군 현역병 모집계획.hwpx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F051CM1HVB3/2023____4__________________________________.hwpx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F051CM1HVB3-ff1a4474ba",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8xZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023년 4월 각 군 현역병 모집 계획\u003e\n\n병무청에서는 병역의무자의 전공, 자격ㆍ면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 하는 현역병 모집제도를 운영하고 있습니다. "
+              },
+              {
+                "type": "text",
+                "text": "2023년 4월 지원하여 2023년 7월 입영예정",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "인 각 군 현역병 모집일정을 게시하오니 학생 여러분께서는 병역의무 이행에 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

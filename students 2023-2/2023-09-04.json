@@ -1,0 +1,572 @@
+[
+  {
+    "client_msg_id": "841265d4-0b04-4dd9-ab14-03a4a439da69",
+    "type": "message",
+    "user": "U04R6NS3924",
+    "text": ":coffee: [커피위원회]\n안녕하세요, 커피위원회입니다:blush: 커피 머신 이용 방법 및 운영비 모금 참여 안내해 드립니다.\n(3층 탕비실에 있는  \"DeLonghi\" 머신은 누구나 자유롭게 사용할 수 있는 공용 머신입니다.)\n\n\n1. 이용 방법 :teapot:\n\u0026gt; • *위치: 3층 탕비실(싱크대 왼쪽)*\n\u0026gt; • 자세한 내용은 하단의 이미지 참고\n2. 운영비 현황:receipt:\n\u0026gt; • *잔액:* 139,870*원*\n\u0026gt; • 운영 내역: \u003chttps://docs.google.com/spreadsheets/d/1QtE3OCjo97Oj2cS77NOB7f36XA0Ihat-6zlSFYourkk/edit?usp=sharing|링크\u003e\n3. 운영비 모금 참여 :seedling:\n커피머신은 저희 학생들의 자발적인 모금에 따라 운영중입니다. 희망하시는 분은 계좌이체를 통해 모금에 참여할 수 있습니다.\n누락 방지를 위해 송금 후 꼭:sparkles: \u003c@U04R6NS3924\u003e 으로 DM:sparkles:부탁드립니다.\n운영 *참여 여부, 참여 금액 모두 강제가 아닙니다!*\n\u0026gt; • 계좌이체 : 최예은 - 하나은행 36491060849107\n\u0026gt; • 운영비 관리를 위해 가급적 5천원 단위로 참여해 주시면 감사하겠습니다 :)\n+ 기타 커피위원회 운영과 관련한 질문 및 의견도 언제나 환영입니다!(댓글/DM)",
+    "ts": "1693793142.757169",
+    "thread_ts": "1693793142.757169",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U04R6NS3924",
+        "ts": "1693810576.438639"
+      }
+    ],
+    "latest_reply": "1693810576.438639",
+    "files": [
+      {
+        "id": "F05QSV6L5FU",
+        "created": 1693793123,
+        "timestamp": 1693793123,
+        "name": "커피머신_이용방법_1.jpg",
+        "title": "커피머신_이용방법_1.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U04R6NS3924",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 91671,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05QSV6L5FU-커피머신_이용방법_1.jpg",
+        "url_private_download": "attachments/F05QSV6L5FU-커피머신_이용방법_1.jpg",
+        "original_h": 945,
+        "original_w": 720,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05QSV6L5FU-3a0f5774b3/__________________________1_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05QSV6L5FU-3a0f5774b3/__________________________1_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05QSV6L5FU-3a0f5774b3/__________________________1_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05QSV6L5FU-3a0f5774b3/__________________________1_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 274,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05QSV6L5FU-3a0f5774b3/__________________________1_480.jpg",
+        "thumb_480_w": 366,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05QSV6L5FU-3a0f5774b3/__________________________1_720.jpg",
+        "thumb_720_w": 549,
+        "thumb_720_h": 720,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U04R6NS3924/F05QSV6L5FU/__________________________1.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QSV6L5FU-f8b908054c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05RGLCBZ88",
+        "created": 0,
+        "timestamp": 0,
+        "name": "",
+        "title": "",
+        "mimetype": "",
+        "image_exif_rotation": 0,
+        "filetype": "",
+        "pretty_type": "",
+        "user": "",
+        "mode": "tombstone",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 0,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05RGLCBZ88-",
+        "url_private_download": "attachments/F05RGLCBZ88-",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "",
+        "permalink_public": "",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U02ULBHV58W",
+          "U01PVEU1A07",
+          "U02V5LT4DLZ",
+          "U02V5LS84JV",
+          "U0302PLQ34Y",
+          "U040M7VULN7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M1n6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "coffee",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " [커피위원회]\n안녕하세요, 커피위원회입니다"
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 커피 머신 이용 방법 및 운영비 모금 참여 안내해 드립니다.\n(3층 탕비실에 있는  \"DeLonghi\" 머신은 누구나 자유롭게 사용할 수 있는 공용 머신입니다.)\n\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc6a9 \\ubc29\\ubc95 \"},{\"type\":\"emoji\",\"name\":\"teapot\",\"unicode\":\"1fad6\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc704\\uce58: 3\\uce35 \\ud0d5\\ube44\\uc2e4(\\uc2f1\\ud06c\\ub300 \\uc67c\\ucabd)\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc790\\uc138\\ud55c \\ub0b4\\uc6a9\\uc740 \\ud558\\ub2e8\\uc758 \\uc774\\ubbf8\\uc9c0 \\ucc38\\uace0\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n2. 운영비 현황"
+              },
+              {
+                "type": "emoji",
+                "name": "receipt",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc794\\uc561: \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"139,870\"},{\"type\":\"text\",\"text\":\"\\uc6d0\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b4\\uc601 \\ub0b4\\uc5ed: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1QtE3OCjo97Oj2cS77NOB7f36XA0Ihat-6zlSFYourkk\\/edit?usp=sharing\",\"text\":\"\\ub9c1\\ud06c\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n3. 운영비 모금 참여 "
+              },
+              {
+                "type": "emoji",
+                "name": "seedling",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n커피머신은 저희 학생들의 자발적인 모금에 따라 운영중입니다. 희망하시는 분은 계좌이체를 통해 모금에 참여할 수 있습니다.\n누락 방지를 위해 송금 후 꼭"
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U04R6NS3924"
+              },
+              {
+                "type": "text",
+                "text": " 으로 DM"
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "부탁드립니다.\n운영"
+              },
+              {
+                "type": "text",
+                "text": " 참여 여부, 참여 금액 모두 강제가 아닙니다!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uacc4\\uc88c\\uc774\\uccb4 : \\ucd5c\\uc608\\uc740 - \\ud558\\ub098\\uc740\\ud589 36491060849107\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b4\\uc601\\ube44 \\uad00\\ub9ac\\ub97c \\uc704\\ud574 \\uac00\\uae09\\uc801 5\\ucc9c\\uc6d0 \\ub2e8\\uc704\\ub85c \\ucc38\\uc5ec\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4 :)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n+ 기타 커피위원회 운영과 관련한 질문 및 의견도 언제나 환영입니다!(댓글/DM)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f0955652181e10e386c6983adf4f176a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "4기_최예은",
+      "real_name": "4기_최예은",
+      "display_name": "4기_최예은",
+      "team": "T01QA5S537V",
+      "name": "greenrosiechoi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U04R6NS3924"
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U04131QR6MA",
+    "text": "안녕하세요, 9월 탕비실 청소를 AIoT에서 맡게 되어 공지드립니다.\n\n*9월 7일 목요일 늦은 오후*에 냉장고 및 탕비실 청소를 진행하겠습니다.\n아래의 링크에 탕비실 청소 가이드라인이 있으니 참고하시고 사전에 미리 물품 정리를 해주시기 바랍니다.",
+    "ts": "1693800794.823249",
+    "attachments": [
+      {
+        "color": "D0D0D0",
+        "fallback": "[July 26th, 2022 2:52 PM] kimjoohyoen: 안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+        "author_id": "U01QGKCT067",
+        "author_name": "2기_김주현",
+        "author_subname": "2기_김주현",
+        "author_link": "https://snugsds.slack.com/team/U01QGKCT067",
+        "author_icon": "https://secure.gravatar.com/avatar/c6966545056a08d1f4311a48cc662172.jpg?s=48\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-48.png",
+        "text": "안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+        "from_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "Slack Conversation",
+        "ts": 1658814777.571799
+      }
+    ],
+    "edited": {
+      "user": "U04131QR6MA",
+      "ts": "1693800864.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U0302PLQ34Y",
+          "U0406PM050F",
+          "U02ULBHV58W",
+          "U040ZVCKKND"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7h+r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요, 9월 탕비실 청소를 AIoT에서 맡게 되어 공지드립니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "9월 7일 목요일 늦은 오후",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 냉장고 및 탕비실 청소를 진행하겠습니다.\n아래의 링크에 탕비실 청소 가이드라인이 있으니 참고하시고 사전에 미리 물품 정리를 해주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/81edc3405563161acce042e83a1e451b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "3.5기_박세현",
+      "real_name": "3.5기_박세현",
+      "display_name": "3.5기_박세현",
+      "team": "T01QA5S537V",
+      "name": "heon843",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8f42adff-8214-4f2a-94b1-1377643614a6",
+    "type": "message",
+    "user": "U040M7VULN7",
+    "text": "*[2023년도 2학기 942동 사물함 신청 추가공지]*\n• _*신청 기간: 9월 4일 월요일 오후 11시 59분*_\n• 신청 방법: 선착순 200명 구글 설문지 신청 _(구글 계정 로그인 필요/1인 1회 제출 제한)_\n• 신청 링크: \u003chttps://forms.gle/xMv6nPDWhvmYX6PVA\u003e\n• 사물함 배정: 사용 신청자 대상 랜덤 추첨하여 9월 *5일* 중 슬랙 공지\n안녕하세요. GSDS 학생회입니다.\n\n2023년도 2학기 사물함을 사용하실 분들은 신청 기간 내에 신청 링크로 신청을 해주시기 바랍니다. 이번 학기 사용 가능한 사물함 개수는 *200개*입니다. 오늘 자정까지 추가 신청 가능합니다. 감사합니다.",
+    "ts": "1693807660.757049",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hp=Yr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[2023년도 2학기 942동 사물함 신청 추가공지]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad \\uae30\\uac04: 9\\uc6d4 4\\uc77c \\uc6d4\\uc694\\uc77c \\uc624\\ud6c4 11\\uc2dc 59\\ubd84\",\"style\":{\"bold\":true,\"italic\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad \\ubc29\\ubc95: \\uc120\\ucc29\\uc21c 200\\uba85 \\uad6c\\uae00 \\uc124\\ubb38\\uc9c0 \\uc2e0\\uccad \"},{\"type\":\"text\",\"text\":\"(\\uad6c\\uae00 \\uacc4\\uc815 \\ub85c\\uadf8\\uc778 \\ud544\\uc694\\/1\\uc778 1\\ud68c \\uc81c\\ucd9c \\uc81c\\ud55c)\",\"style\":{\"italic\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad \\ub9c1\\ud06c: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/xMv6nPDWhvmYX6PVA\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\ubb3c\\ud568 \\ubc30\\uc815: \\uc0ac\\uc6a9 \\uc2e0\\uccad\\uc790 \\ub300\\uc0c1 \\ub79c\\ub364 \\ucd94\\ucca8\\ud558\\uc5ec 9\\uc6d4 \"},{\"type\":\"text\",\"text\":\"5\\uc77c\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\uc911 \\uc2ac\\ub799 \\uacf5\\uc9c0\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n안녕하세요. GSDS 학생회입니다.\n\n2023년도 2학기 사물함을 사용하실 분들은 신청 기간 내에 신청 링크로 신청을 해주시기 바랍니다. 이번 학기 사용 가능한 사물함 개수는 "
+              },
+              {
+                "type": "text",
+                "text": "200개",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "입니다. 오늘 자정까지 추가 신청 가능합니다. 감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "허상우",
+      "real_name": "허상우",
+      "display_name": "3.5기_허상우",
+      "team": "T01QA5S537V",
+      "name": "sh10hsw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "25a0db0c-df25-4f8d-9caf-f03ed3c81eff",
+    "type": "message",
+    "user": "U04R6NS3924",
+    "ts": "1693810576.438639",
+    "thread_ts": "1693793142.757169",
+    "parent_user_id": "U04R6NS3924",
+    "files": [
+      {
+        "id": "F05QW50Q5GC",
+        "created": 1693810548,
+        "timestamp": 1693810548,
+        "name": "커피머신_이용방법_2.jpg",
+        "title": "커피머신_이용방법_2.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U04R6NS3924",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 184475,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05QW50Q5GC-커피머신_이용방법_2.jpg",
+        "url_private_download": "attachments/F05QW50Q5GC-커피머신_이용방법_2.jpg",
+        "original_h": 1464,
+        "original_w": 1117,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05QW50Q5GC-a86b5d7789/__________________________2_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05QW50Q5GC-a86b5d7789/__________________________2_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05QW50Q5GC-a86b5d7789/__________________________2_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05QW50Q5GC-a86b5d7789/__________________________2_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 275,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05QW50Q5GC-a86b5d7789/__________________________2_480.jpg",
+        "thumb_480_w": 366,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05QW50Q5GC-a86b5d7789/__________________________2_720.jpg",
+        "thumb_720_w": 549,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05QW50Q5GC-a86b5d7789/__________________________2_960.jpg",
+        "thumb_960_w": 732,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05QW50Q5GC-a86b5d7789/__________________________2_1024.jpg",
+        "thumb_1024_w": 781,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U04R6NS3924/F05QW50Q5GC/__________________________2.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QW50Q5GC-4fdda6b56c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f0955652181e10e386c6983adf4f176a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "4기_최예은",
+      "real_name": "4기_최예은",
+      "display_name": "4기_최예은",
+      "team": "T01QA5S537V",
+      "name": "greenrosiechoi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

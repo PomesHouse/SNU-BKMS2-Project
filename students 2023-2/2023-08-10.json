@@ -1,0 +1,183 @@
+[
+  {
+    "client_msg_id": "f5275b47-f47e-4e16-8076-06b55c277579",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "*[GSDS 학생회] 학생회칙 2차 개정본 업로드*\n\n안녕하세요 GSDS 학생회 입니다.\nGSDS 학생회에는 학생회와 운영위원회 전반의 선출, 권리와 의무를 담고 있는 학생회칙이 있습니다.\n2020년 7월에 처음 제정되었고 그동안 생긴 변경사항들을 반영하기 위해 올해 2월에 학생회와 운영위원회의 동의를 받아 2차 개정을 진행했습니다.\n\n2차 개정의 주된 내용은 다음과 같습니다.\n#################################\n• 학생회와 운영위원회의 구성 개편\n    ◦ 기존 회칙에서는 학생대표단과 운영위원회가 명확하게 구분되지 않아 이를 명시했습니다.\n• 학생 대표의 지위 및 임기 개편\n    ◦ 2023년도 1학기부터 학생대표의 임기가 6개월로 개편되어 이를 명시했습니다.\n• 자리 배정 방법 개편\n    ◦ 2023년도 1학기부터 자리 배정 방법이 개편되어 이를 명시했습니다.\n#################################\n\n개정된 부분은 파란 글씨로 되어있으며, 개정 이후로부터 업로드까지 시간이 오래 걸린 점 죄송합니다.\n\n감사합니다.",
+    "ts": "1691656907.260289",
+    "thread_ts": "1691656907.260289",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U04RD26CJ5N",
+        "ts": "1692338147.267149"
+      }
+    ],
+    "latest_reply": "1692338147.267149",
+    "files": [
+      {
+        "id": "F05M6QRN3A6",
+        "created": 1691656851,
+        "timestamp": 1691656851,
+        "name": "서울대학교 데이터사이언스 대학원 학생회 회칙(공지용).pdf",
+        "title": "서울대학교 데이터사이언스 대학원 학생회 회칙(공지용).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U02ULBH3TEJ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 191771,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05M6QRN3A6-서울대학교 데이터사이언스 대학원 학생회 회칙(공지용).pdf",
+        "url_private_download": "attachments/F05M6QRN3A6-서울대학교 데이터사이언스 대학원 학생회 회칙(공지용).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U02ULBH3TEJ/F05M6QRN3A6/______________________________________________________________________________________________________________________________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05M6QRN3A6-f125e56b9f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U0302PLQ34Y",
+          "U040M7VULN7",
+          "U040ZVCNVU1",
+          "U0302PHUHME",
+          "U040C40QE6T",
+          "U02ULBHV58W"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTRU2V"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b37",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 학생회] 학생회칙 2차 개정본 업로드",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요 GSDS 학생회 입니다.\nGSDS 학생회에는 학생회와 운영위원회 전반의 선출, 권리와 의무를 담고 있는 학생회칙이 있습니다.\n2020년 7월에 처음 제정되었고 그동안 생긴 변경사항들을 반영하기 위해 올해 2월에 학생회와 운영위원회의 동의를 받아 2차 개정을 진행했습니다.\n\n2차 개정의 주된 내용은 다음과 같습니다.\n#################################\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc0dd\\ud68c\\uc640 \\uc6b4\\uc601\\uc704\\uc6d0\\ud68c\\uc758 \\uad6c\\uc131 \\uac1c\\ud3b8\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\uc874 \\ud68c\\uce59\\uc5d0\\uc11c\\ub294 \\ud559\\uc0dd\\ub300\\ud45c\\ub2e8\\uacfc \\uc6b4\\uc601\\uc704\\uc6d0\\ud68c\\uac00 \\uba85\\ud655\\ud558\\uac8c \\uad6c\\ubd84\\ub418\\uc9c0 \\uc54a\\uc544 \\uc774\\ub97c \\uba85\\uc2dc\\ud588\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc0dd \\ub300\\ud45c\\uc758 \\uc9c0\\uc704 \\ubc0f \\uc784\\uae30 \\uac1c\\ud3b8\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2023\\ub144\\ub3c4 1\\ud559\\uae30\\ubd80\\ud130 \\ud559\\uc0dd\\ub300\\ud45c\\uc758 \\uc784\\uae30\\uac00 6\\uac1c\\uc6d4\\ub85c \\uac1c\\ud3b8\\ub418\\uc5b4 \\uc774\\ub97c \\uba85\\uc2dc\\ud588\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc790\\ub9ac \\ubc30\\uc815 \\ubc29\\ubc95 \\uac1c\\ud3b8\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2023\\ub144\\ub3c4 1\\ud559\\uae30\\ubd80\\ud130 \\uc790\\ub9ac \\ubc30\\uc815 \\ubc29\\ubc95\\uc774 \\uac1c\\ud3b8\\ub418\\uc5b4 \\uc774\\ub97c \\uba85\\uc2dc\\ud588\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "#################################\n\n개정된 부분은 파란 글씨로 되어있으며, 개정 이후로부터 업로드까지 시간이 오래 걸린 점 죄송합니다.\n\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U04RD26CJ5N"
+    ]
+  }
+]

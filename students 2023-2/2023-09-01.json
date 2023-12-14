@@ -1,0 +1,271 @@
+[
+  {
+    "client_msg_id": "cdabd512-2993-474b-9024-f88eeae37c0e",
+    "type": "message",
+    "user": "U041B24C16U",
+    "text": "4층 탕비실에 푸라닭 반마리 있습니다! 드시고 싶으신 분들 있으면 드시고, 없으시다면 4시에 치우겠습니다",
+    "ts": "1693544127.176769",
+    "files": [
+      {
+        "id": "F05QG6WRZEH",
+        "created": 1693544116,
+        "timestamp": 1693544116,
+        "name": "20230901_135406.jpg",
+        "title": "20230901_135406.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U041B24C16U",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 411534,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05QG6WRZEH-20230901_135406.jpg",
+        "url_private_download": "attachments/F05QG6WRZEH-20230901_135406.jpg",
+        "original_h": 4000,
+        "original_w": 3000,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05QG6WRZEH-eb2da19b85/20230901_135406_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05QG6WRZEH-eb2da19b85/20230901_135406_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05QG6WRZEH-eb2da19b85/20230901_135406_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05QG6WRZEH-eb2da19b85/20230901_135406_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05QG6WRZEH-eb2da19b85/20230901_135406_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05QG6WRZEH-eb2da19b85/20230901_135406_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05QG6WRZEH-eb2da19b85/20230901_135406_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05QG6WRZEH-eb2da19b85/20230901_135406_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U041B24C16U/F05QG6WRZEH/20230901_135406.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QG6WRZEH-3fc4c5ac24",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gpj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "4층 탕비실에 푸라닭 반마리 있습니다! 드시고 싶으신 분들 있으면 드시고, 없으시다면 4시에 치우겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6e3edd260f27e6cb7286ff405bdbd104.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-72.png",
+      "first_name": "Jihoo",
+      "real_name": "Jihoo Park",
+      "display_name": "3.5기_박지후",
+      "team": "T01QA5S537V",
+      "name": "jihoopark",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2007c6e5-14f9-4dc0-974a-240d848cf289",
+    "type": "message",
+    "user": "U02ULBHV58W",
+    "text": ":coffee: [커피위원회]\n안녕하세요.\n3층 탕비실 커피머신 관리해주실 분을 새로 모집하고자 합니다.\n\n•  운영비 관리\n•   3층 탕비실 커피머신 관리, 원두 주문 등\n커피 즐기시는 분, 학교 자주 오시는 분은 제게 DM으로 지원해 주시면 감사하겠습니다.",
+    "ts": "1693548225.973389",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MsxN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "coffee",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " [커피위원회]\n안녕하세요.\n3층 탕비실 커피머신 관리해주실 분을 새로 모집하고자 합니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\uc6b4\\uc601\\ube44 \\uad00\\ub9ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"  3\\uce35 \\ud0d5\\ube44\\uc2e4 \\ucee4\\ud53c\\uba38\\uc2e0 \\uad00\\ub9ac, \\uc6d0\\ub450 \\uc8fc\\ubb38 \\ub4f1\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n커피 즐기시는 분, 학교 자주 오시는 분은 제게 DM으로 지원해 주시면 감사하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "3기_이승주",
+      "real_name": "3기_이승주",
+      "display_name": "3기_이승주",
+      "team": "T01QA5S537V",
+      "name": "lotusist",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d156378-5171-4601-b6d5-f1546fd5d60c",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "안녕하세요. 4기 박사과정 김병찬입니다.\n\n관심있으신 분은 설문 링크에 들어가서 작성해주시면 될거같습니다!\n신입 공채와 관련된 내용입니다~\n\n-----------------------------------------------------------------------------\n안녕하세요 2기 석사 졸업생 박승준입니다.\n2023년 9월 5일(화) ~ 6일(수) 9:00 ~ 17:00 양일간 서울대학교 종합체육관 (71동)에서 삼성전자 DX부문 리쿠르팅 행사가 있습니다.\n저는 삼성전자 DX부문의 선행 연구소인 삼성리서치(SR) 소속으로 참여하게 되었는데요. 체육관에서 진행되는 행사와는 별도로 데이터사이언스 대학원 학생 중에 이번 학기 신입공채 지원 예정자가 있으면 간단한 커피 타임과 함께 회사 관련 궁금한 점이나 입사 절차에 대한 설명을 드리고자 합니다. 시간은 9월 5일 - 6일 중이며 아래 설문을 통해 참석자를 취합한 뒤 따로 연락을 드리고자 합니다. 삼성리서치 또는 삼성전자에서 S/W 개발자로서의 커리어를 생각하시는 분이시라면 부담 없이 참석해주시면 감사하겠습니다.\n\n사전 설문 링크: \u003chttps://docs.google.com/forms/d/e/1FAIpQLSdHQ9rISxrP19cd7T1bb8DXuguDhB3cMhNlQy_30O3oVwiqZg/viewform?usp=sf_link\u003e",
+    "ts": "1693552749.560429",
+    "edited": {
+      "user": "U01QV1SQJ57",
+      "ts": "1693552996.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 19,
+        "users": [
+          "U01QV1SQJ57",
+          "U04QKG4K12Q",
+          "U0302PLQ34Y",
+          "U04QE496FTP",
+          "U02UVAT3BPW",
+          "U01QNSM488Z",
+          "U04R20KG9JM",
+          "U04QKG4QTS8",
+          "U01QNMUAUKW",
+          "U01QGKCT067",
+          "U02V5LS84JV",
+          "U02UQ4D8L2Z",
+          "U02UJC5BU8P",
+          "U02UT1YNY6N",
+          "U01QV28FG4R",
+          "U01QGJL6SP5",
+          "U040M7VULN7",
+          "U01QDA36FJR",
+          "U04131QR6MA"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U04R6NRBD1N"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UtUV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 4기 박사과정 김병찬입니다.\n\n관심있으신 분은 설문 링크에 들어가서 작성해주시면 될거같습니다!\n신입 공채와 관련된 내용입니다~\n\n-----------------------------------------------------------------------------\n안녕하세요 2기 석사 졸업생 박승준입니다.\n2023년 9월 5일(화) ~ 6일(수) 9:00 ~ 17:00 양일간 서울대학교 종합체육관 (71동)에서 삼성전자 DX부문 리쿠르팅 행사가 있습니다.\n저는 삼성전자 DX부문의 선행 연구소인 삼성리서치(SR) 소속으로 참여하게 되었는데요. 체육관에서 진행되는 행사와는 별도로 데이터사이언스 대학원 학생 중에 이번 학기 신입공채 지원 예정자가 있으면 간단한 커피 타임과 함께 회사 관련 궁금한 점이나 입사 절차에 대한 설명을 드리고자 합니다. 시간은 9월 5일 - 6일 중이며 아래 설문을 통해 참석자를 취합한 뒤 따로 연락을 드리고자 합니다. 삼성리서치 또는 삼성전자에서 S/W 개발자로서의 커리어를 생각하시는 분이시라면 부담 없이 참석해주시면 감사하겠습니다.\n\n사전 설문 링크: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdHQ9rISxrP19cd7T1bb8DXuguDhB3cMhNlQy_30O3oVwiqZg/viewform?usp=sf_link",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

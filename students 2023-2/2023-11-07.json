@@ -1,0 +1,74 @@
+[
+  {
+    "client_msg_id": "7a2977a0-b319-4aa8-9fe5-59556a106de1",
+    "type": "message",
+    "user": "U04QGUCLWCB",
+    "text": "안녕하세요, 11월 탕비실 청소는 Ski랩에서 담당하게 되었습니다.\n\n11월 21일 화요일 저녁에 냉장고 및 탕비실 청소를 진행할 예정이니, 아래 링크의 가이드라인을 참조해 미리 물품을 정리해주시기 바랍니다.\n\n\u003chttps://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799|https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799\u003e\n\n(이름과 유통기한이 모두 적혀있지 않으면 폐기 처분 된다는 점, 특히 유의해주시기 바랍니다.)",
+    "ts": "1699317846.362469",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 9,
+        "users": [
+          "U04QGUCSQRZ",
+          "U02ULBHV58W",
+          "U05Q2AYCQ8M",
+          "U0302PLQ34Y",
+          "U04Q2G3LS15",
+          "U0406PM050F",
+          "U04Q2G4KNTZ",
+          "U02UT1Y2UJW",
+          "U02UQ4BAMB7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VEcjM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요, 11월 탕비실 청소는 Ski랩에서 담당하게 되었습니다.\n\n11월 21일 화요일 저녁에 냉장고 및 탕비실 청소를 진행할 예정이니, 아래 링크의 가이드라인을 참조해 미리 물품을 정리해주시기 바랍니다.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+                "text": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799"
+              },
+              {
+                "type": "text",
+                "text": "\n\n(이름과 유통기한이 모두 적혀있지 않으면 폐기 처분 된다는 점, 특히 유의해주시기 바랍니다.)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/dade900156df83470d9c3a85da3df157.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "4기_손혜린",
+      "real_name": "4기_손혜린",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "domirondo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

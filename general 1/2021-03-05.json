@@ -1,0 +1,200 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "set the channel description: 공지사항\n\nThis channel is for official announcements",
+    "ts": "1614936730.001400",
+    "subtype": "channel_purpose",
+    "purpose": "공지사항\n\nThis channel is for official announcements",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9a5f3b30-a9ba-4bdf-92bf-9b776860e736",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "안녕하세요 저희 데이터사이언스 대학원 공식 소통 공간을 팀즈에서 슬랙으로 전환하였습니다! 편한 이용 되시길 바랍니다 :)",
+    "ts": "1614938619.007600",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 15,
+        "users": [
+          "U01PVETMX2T",
+          "U01QAE573J7",
+          "U01Q386CMKQ",
+          "U01PVEU3007",
+          "U01QZRUNBA4",
+          "U01PVEU1A07",
+          "U01Q3EP0E14",
+          "U01QGD03WUC",
+          "U01QNSM8WNM",
+          "U01Q75KNV1T",
+          "U01R678KWP2",
+          "U01PVET2C31",
+          "U01R689L5KJ",
+          "U01QNSMEY0Z",
+          "U01R719DKK2"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 3,
+        "users": [
+          "U01PVEU98KH",
+          "U01QNSM8WNM",
+          "U01Q75KNV1T"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZQ9g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요 저희 데이터사이언스 대학원 공식 소통 공간을 팀즈에서 슬랙으로 전환하였습니다! 편한 이용 되시길 바랍니다 :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8cf0db93-58f0-48fe-8475-f1d87b039263",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "그리고 각자 Display Name을 #기_이름 (ex. 1기_성기홍) 으로 바꿔주시면 매우 감사하겠습니다~",
+    "ts": "1614938849.009200",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 13,
+        "users": [
+          "U01PVETJY87",
+          "U01QAE573J7",
+          "U01QZRUNBA4",
+          "U01QNSM8WNM",
+          "U01Q75KNV1T",
+          "U01QUKKQ8GH",
+          "U01Q3EPDBAA",
+          "U01Q386CMKQ",
+          "U01R678KWP2",
+          "U01PVET2C31",
+          "U01QNSMEY0Z",
+          "U01QGD03WUC",
+          "U01R719DKK2"
+        ]
+      },
+      {
+        "name": "ok",
+        "count": 6,
+        "users": [
+          "U01R0307KEU",
+          "U01QNSM8WNM",
+          "U01Q75KNV1T",
+          "U01QNSMDGF3",
+          "U01PVET2C31",
+          "U01QGGBLAGJ"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 5,
+        "users": [
+          "U01PVETV83H",
+          "U01PVEU1A07",
+          "U01QNSM8WNM",
+          "U01Q75KNV1T",
+          "U01PVET2C31"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7b3=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그리고 각자 Display Name을 #기_이름 (ex. 1기_성기홍) 으로 바꿔주시면 매우 감사하겠습니다~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

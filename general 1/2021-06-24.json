@@ -1,0 +1,250 @@
+[
+  {
+    "client_msg_id": "100b273f-e1e5-44b1-9516-a1bd0f7e4780",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e\n\n\u0026lt;3층 출입 통제 안내\u0026gt;\n\n21학년도 1학기 논자시 구술고사 관련으로 6월 25일 (금요일) *13:00~18:20 까지 3층 출입을 통제*합니다.",
+    "ts": "1624521656.073900",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+bY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\n\u003c3층 출입 통제 안내\u003e\n\n21학년도 1학기 논자시 구술고사 관련으로 6월 25일 (금요일) "
+              },
+              {
+                "type": "text",
+                "text": "13:00~18:20 까지 3층 출입을 통제",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "bb464cf5-e087-4bcf-8117-f3c6c7180eab",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt; 942동 주차장 이용 안내 \u0026gt;*\n\n942동에는 여러 기관(데이터사이언스대학원, 산학협력단, AI연구원, 메이커스페이스)이 함께 입주하여 공동으로 사용하고 있습니다.\n*최근 주차난 심화로 내부민원이 자주 발생하고 있어 「서울대학교 교통 관리 규정」에 근거 하여 캠퍼스 내부와 동일하게 운영*하고자 합니다.\n\n※ 「서울대학교 교통 관리 규정」 상 주자창 이용 대상자\n 「서울대학교 교통 관리 규정」 제12조(주차장 이용대상자(이하 '이용대상자'라 한다)는 다음 각 호의 어느 하나에 해당 하는 사람으로 한다.\n1.교직원(시간강사 포함) 2.연구원 *3.학생(장애인과 박사과정에 한함)* 4.구내업소 직원 5.그 밖에 대학을 방문 하는 사람\n\n이에 따라, *석사과정 학생분들은 942동 주차장 이용을 금지* 하오니 협조하여 주시기 바라며, 향후 주차장 이용 시 주차금지 스티커를 부착할 수 있으니 유의하여 주시기 바랍니다.\n*또한 박사과정 학생분들은 주차장 이용 시 이중주차를 금하여 주시고, 이중 주차 시 반드시 차량에 전화번호를 남겨주시기 바랍니다.* ",
+    "ts": "1624522994.080200",
+    "thread_ts": "1624522994.080200",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01QNSMDGF3",
+        "ts": "1624524607.083000"
+      }
+    ],
+    "latest_reply": "1624524607.083000",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "scream",
+        "count": 4,
+        "users": [
+          "U01Q3EPDBAA",
+          "U01QNSMDGF3",
+          "U01Q3A8TXU6",
+          "U01QGJL6SP5"
+        ]
+      },
+      {
+        "name": "thinking_face",
+        "count": 4,
+        "users": [
+          "U01R719DKK2",
+          "U01QDA36FJR",
+          "U01QGJL6SP5",
+          "U01Q3EPDBAA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CJ7fC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 942동 주차장 이용 안내 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n942동에는 여러 기관(데이터사이언스대학원, 산학협력단, AI연구원, 메이커스페이스)이 함께 입주하여 공동으로 사용하고 있습니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "최근 주차난 심화로 내부민원이 자주 발생하고 있어 「서울대학교 교통 관리 규정」에 근거 하여 캠퍼스 내부와 동일하게 운영",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하고자 합니다.\n\n※ 「서울대학교 교통 관리 규정」 상 주자창 이용 대상자\n 「서울대학교 교통 관리 규정」 제12조(주차장 이용대상자(이하 '이용대상자'라 한다)는 다음 각 호의 어느 하나에 해당 하는 사람으로 한다.\n1.교직원(시간강사 포함) 2.연구원"
+              },
+              {
+                "type": "text",
+                "text": " 3.학생(장애인과 박사과정에 한함)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 4.구내업소 직원 5.그 밖에 대학을 방문 하는 사람\n\n이에 따라, "
+              },
+              {
+                "type": "text",
+                "text": "석사과정 학생분들은 942동 주차장 이용을 금지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 하오니 협조하여 주시기 바라며, 향후 주차장 이용 시 주차금지 스티커를 부착할 수 있으니 유의하여 주시기 바랍니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "또한 박사과정 학생분들은 주차장 이용 시 이중주차를 금하여 주시고, 이중 주차 시 반드시 차량에 전화번호를 남겨주시기 바랍니다. ",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01QNSMDGF3"
+    ]
+  },
+  {
+    "client_msg_id": "CF6D25F8-97AE-4144-AB21-6B3B006029AE",
+    "type": "message",
+    "user": "U01QNSMDGF3",
+    "text": "다른 건물 소속 사람이 데싸 건물에 주차하는 경우만 막는건 부족한가요? 교내 어린이집에서 아이 픽업하느라 차를 가지고 다녀야하는데.. :disappointed_relieved: ",
+    "ts": "1624524607.083000",
+    "thread_ts": "1624522994.080200",
+    "edited": {
+      "user": "U01QNSMDGF3",
+      "ts": "1624524644.000000"
+    },
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8S721",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "다른 건물 소속 사람이 데싸 건물에 주차하는 경우만 막는건 부족한가요? 교내 어린이집에서 아이 픽업하느라 차를 가지고 다녀야하는데.. "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed_relieved",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/359dc98921adc6a6f1279b431734408c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "박민혜",
+      "real_name": "박민혜",
+      "display_name": "1기_박민혜",
+      "team": "T01QA5S537V",
+      "name": "minhye11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,199 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;「서울대학교 학생연구자 지원 규정」제정(안) 공청회 개최 안내\u0026gt;*\n\n「서울대학교 학생연구자 지원 규정」제정(안)의 내용을 학내 구성원들에게 알리고, 다양한 구성원들의 참여와 토론을 통해 의견수렴 및 제정(안)을 내실화하고자 아래와 같이 공청회를 개최한다고 하니 많은 참여 바랍니다.\n\n   ○ 일시: 2021. 8. 9.(월), 15:00 ~ 17:30\n   ○ 참여: 아래의 ZOOM 화상회의 링크로 온라인 접속(최대 300명 접속 가능, 접속인원내에서 선착순 참여)\n    - \u003chttps://snu-ac-kr.zoom.us/j/89730534873?pwd=OUdjZUhZMXZKakdJbWJPWXk0Q0Fpdz09\u003e\n      (참석 비밀번호: research)\n   ○ 사전신청: 자유토론시 발언을 원하는 참여자는 아래 방법에 따라 사전 신청\n    - 신청방법: 2021.8.5.(목)까지 이메일(\u003cmailto:snuehtics@snu.ac.kr|snuehtics@snu.ac.kr\u003e) 신청\n    - 신청서 기재사항: 이름, 소속, 직위(교원, 대학원생 등), 이메일, 핸드폰번호, 발언요지\n    ※ 사전 신청자 우선 발언 후, 현장에서 자유 참여 가능\n   ○ 문의: 연구윤리팀(02-880-2074, \u003cmailto:snuethics@snu.ac.kr|snuethics@snu.ac.kr\u003e)",
+    "ts": "1627866544.000600",
+    "files": [
+      {
+        "id": "F02A7AYQP97",
+        "created": 1627866538,
+        "timestamp": 1627866538,
+        "name": "「서울대학교 학생연구자 지원 규정」 제정(안) 공청회 개최 안내 포스터.pdf",
+        "title": "「서울대학교 학생연구자 지원 규정」 제정(안) 공청회 개최 안내 포스터.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 728037,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02A7AYQP97-「서울대학교 학생연구자 지원 규정」 제정(안) 공청회 개최 안내 포스터.pdf",
+        "url_private_download": "attachments/F02A7AYQP97-「서울대학교 학생연구자 지원 규정」 제정(안) 공청회 개최 안내 포스터.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02A7AYQP97/_________________________________________________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02A7AYQP97-69512b4fca",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pI3h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c「서울대학교 학생연구자 지원 규정」제정(안) 공청회 개최 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n「서울대학교 학생연구자 지원 규정」제정(안)의 내용을 학내 구성원들에게 알리고, 다양한 구성원들의 참여와 토론을 통해 의견수렴 및 제정(안)을 내실화하고자 아래와 같이 공청회를 개최한다고 하니 많은 참여 바랍니다.\n\n   ○ 일시: 2021. 8. 9.(월), 15:00 ~ 17:30\n   ○ 참여: 아래의 ZOOM 화상회의 링크로 온라인 접속(최대 300명 접속 가능, 접속인원내에서 선착순 참여)\n    - "
+              },
+              {
+                "type": "link",
+                "url": "https://snu-ac-kr.zoom.us/j/89730534873?pwd=OUdjZUhZMXZKakdJbWJPWXk0Q0Fpdz09",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n      (참석 비밀번호: research)\n   ○ 사전신청: 자유토론시 발언을 원하는 참여자는 아래 방법에 따라 사전 신청\n    - 신청방법: 2021.8.5.(목)까지 이메일("
+              },
+              {
+                "type": "link",
+                "url": "mailto:snuehtics@snu.ac.kr",
+                "text": "snuehtics@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ") 신청\n    - 신청서 기재사항: 이름, 소속, 직위(교원, 대학원생 등), 이메일, 핸드폰번호, 발언요지\n    ※ 사전 신청자 우선 발언 후, 현장에서 자유 참여 가능\n   ○ 문의: 연구윤리팀(02-880-2074, "
+              },
+              {
+                "type": "link",
+                "url": "mailto:snuethics@snu.ac.kr",
+                "text": "snuethics@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "96bb1911-8444-43f0-b72b-2841d0c964a9",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "[가천대학교 약학대학 사회약학] 보건의료 통계분석 연구원 모집\n\n가천대학교 약학대학 사회약학 연구실에서 보건의료 빅데이터를 이용한 연구를 진행하고 있습니다. 연구에 함께 참여할 통계 연구원을 모집합니다.\n    \n1. 모집부문\n- 보건의료(건강보험자료, 장기요양보험자료) 통계분석 과제 연구원(석사과정 2학기 이상)\n : 1명\n    \n2. 근무조건\n- 근무형태: 과제 연구원 (가천대학교 약학대학 사회약학 장선미 교수님 연구실)\n- 근무일시: 주 2~3일 (점심시간 제외 하루 7시간 근무)\n  09:00 ~ 17:00 또는 10:00 ~ 18:00\n- 근무장소: 국민건강보험공단 분석센터 (명동 또는 당산)\n- 급여: 17만원/일 (8시간 근무 기준), 근무 시간은 조정 가능함\n    \n3. 담당업무\n- 건강보험청구자료 분석: 약물 사용양상 분석, 건강결과(health outcome) 연구\n- 통계분석, 논문 작성\n    \n4. 지원자격\n건강보험청구자료 분석 경험자 (석사과정 2학기 이상)\nSAS 가능자\n통계학, 수학, 보건학, 의학, 약학, 간호학 등 전공 관련자(의약학 관련 지식이 반드시 필요한 것은 아님)\n- SCI급 논문을 쓰고자 하는 열의가 있으신 분 환영\n    \n5. 채용일정 및 지원방법\n- 접수 기간: 채용 시 마감\n- 접수 및 문의: 이메일 접수(\u003cmailto:shjang@gachon.ac.kr|shjang@gachon.ac.kr\u003e)\n    \n6. 제출서류\n- 간략한 이력서 (연락처 및 경력 등 작성 바람)\n (연구 및 통계분석 경력 포함 우대)\n    \n7. 비고 : 건강보험(의료이용) 자료, 약물사용 자료, 장기요양보험자료까지 분석함으로써 건강보험 부분 빅데이터 모두에 접근 및 숙련 가능함",
+    "ts": "1627890891.000900",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K6VhL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[가천대학교 약학대학 사회약학] 보건의료 통계분석 연구원 모집\n\n가천대학교 약학대학 사회약학 연구실에서 보건의료 빅데이터를 이용한 연구를 진행하고 있습니다. 연구에 함께 참여할 통계 연구원을 모집합니다.\n    \n1. 모집부문\n- 보건의료(건강보험자료, 장기요양보험자료) 통계분석 과제 연구원(석사과정 2학기 이상)\n : 1명\n    \n2. 근무조건\n- 근무형태: 과제 연구원 (가천대학교 약학대학 사회약학 장선미 교수님 연구실)\n- 근무일시: 주 2~3일 (점심시간 제외 하루 7시간 근무)\n  09:00 ~ 17:00 또는 10:00 ~ 18:00\n- 근무장소: 국민건강보험공단 분석센터 (명동 또는 당산)\n- 급여: 17만원/일 (8시간 근무 기준), 근무 시간은 조정 가능함\n    \n3. 담당업무\n- 건강보험청구자료 분석: 약물 사용양상 분석, 건강결과(health outcome) 연구\n- 통계분석, 논문 작성\n    \n4. 지원자격\n건강보험청구자료 분석 경험자 (석사과정 2학기 이상)\nSAS 가능자\n통계학, 수학, 보건학, 의학, 약학, 간호학 등 전공 관련자(의약학 관련 지식이 반드시 필요한 것은 아님)\n- SCI급 논문을 쓰고자 하는 열의가 있으신 분 환영\n    \n5. 채용일정 및 지원방법\n- 접수 기간: 채용 시 마감\n- 접수 및 문의: 이메일 접수("
+              },
+              {
+                "type": "link",
+                "url": "mailto:shjang@gachon.ac.kr",
+                "text": "shjang@gachon.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")\n    \n6. 제출서류\n- 간략한 이력서 (연락처 및 경력 등 작성 바람)\n (연구 및 통계분석 경력 포함 우대)\n    \n7. 비고 : 건강보험(의료이용) 자료, 약물사용 자료, 장기요양보험자료까지 분석함으로써 건강보험 부분 빅데이터 모두에 접근 및 숙련 가능함"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "client_msg_id": "d92fdb6d-2df8-4184-b24e-66f4ce51d42d",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "현재 사고 경위분석중에 있으며, 접속은 금요일 부터 가능 할것으로 판단 됩니다. 해당 내용은 추후 업데이트 하도록 하겠습니다.",
+    "ts": "1629881638.053600",
+    "thread_ts": "1629707264.034600",
+    "parent_user_id": "U01QAE5A9K5",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LumhK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "현재 사고 경위분석중에 있으며, 접속은 금요일 부터 가능 할것으로 판단 됩니다. 해당 내용은 추후 업데이트 하도록 하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

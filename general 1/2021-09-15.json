@@ -1,0 +1,69 @@
+[
+  {
+    "client_msg_id": "58b73cd5-f2f0-4041-8554-841d11b8499b",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*[공지] 세미나실 1 (308호) 책상 파손 알림*\n\n책상 파손 관련하여 부품 수급의 문제로 당장 수리가 불가하여 세미나실 한쪽에 치워놓았습니다.\n사용 시 위험하오니 이용에 주의 바랍니다.\n아울러 우리 모두가 사용하는 공용물품이므로 책상에 쓰레기, 볼펜자국, 음식물 흔적, 유리벽에 메모한 내역 등 깨끗히 정리해 주시기 바랍니다 :disappointed:",
+    "ts": "1631673202.079300",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "cry",
+        "count": 1,
+        "users": [
+          "U01Q75KNV1T"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TbNr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[공지] 세미나실 1 (308호) 책상 파손 알림",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n책상 파손 관련하여 부품 수급의 문제로 당장 수리가 불가하여 세미나실 한쪽에 치워놓았습니다.\n사용 시 위험하오니 이용에 주의 바랍니다.\n아울러 우리 모두가 사용하는 공용물품이므로 책상에 쓰레기, 볼펜자국, 음식물 흔적, 유리벽에 메모한 내역 등 깨끗히 정리해 주시기 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "disappointed",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

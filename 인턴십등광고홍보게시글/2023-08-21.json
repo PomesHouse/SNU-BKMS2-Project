@@ -1,0 +1,106 @@
+[
+  {
+    "client_msg_id": "c2efe78f-492c-4f2d-a110-339afe3d34e8",
+    "type": "message",
+    "user": "U02V5LS84JV",
+    "text": "위 투표하신분들 내일 302호에서 행사 진행 예정이니 참고하시기 바랍니다:pray:",
+    "ts": "1692592958.629629",
+    "thread_ts": "1690354492.705189",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sYn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "위 투표하신분들 내일 302호에서 행사 진행 예정이니 참고하시기 바랍니다"
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "이효진",
+      "real_name": "이효진",
+      "display_name": "3기_이효진",
+      "team": "T01QA5S537V",
+      "name": "sarahhyojin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c2efe78f-492c-4f2d-a110-339afe3d34e8",
+    "type": "message",
+    "user": "U02V5LS84JV",
+    "text": "위 투표하신분들 내일 302호에서 행사 진행 예정이니 참고하시기 바랍니다:pray:",
+    "ts": "1692592958.629629",
+    "thread_ts": "1690354492.705189",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sYn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "위 투표하신분들 내일 302호에서 행사 진행 예정이니 참고하시기 바랍니다"
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "이효진",
+      "real_name": "이효진",
+      "display_name": "3기_이효진",
+      "team": "T01QA5S537V",
+      "name": "sarahhyojin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

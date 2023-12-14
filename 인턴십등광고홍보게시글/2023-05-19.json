@@ -1,0 +1,57 @@
+[
+  {
+    "client_msg_id": "ab81e81f-e4b7-49fc-911d-7b7fea2bef54",
+    "type": "message",
+    "user": "U02ULBHV58W",
+    "text": "안녕하세요. \n박현우 교수님 연구실에서 특별 세미나를 진행합니다.\n\n이번 세미나에서는 Wisconsin 대학에서 Healthcare Operations 분야의 전문가로 활동 중인 Hessam Bavafa 교수님을 모시게 되었습니다. 교수님께서는 실제 의료 기록에 대한 과학적인 분석 방법과 그로부터 얻은 인사이트에 대해 소개해주실 예정입니다.\n\n세미나는 GSDS에서 대면으로 진행하며, 줌으로 동시 송출 계획입니다. 관심있는 분들 많은 참여 부탁드립니다.\n\n일시: 2023년 5월 22일 오후 2시\n장소: 942동 309호\nzoom: \u003chttps://snu-ac-kr.zoom.us/j/99440270733|https://snu-ac-kr.zoom.us/j/99440270733\u003e\n\nTitle: Beyond Means: Unpacking Performance Variability\n\nAbstract: Little is known about how people-centric factors affect the shape of service time distributions",
+    "ts": "1684486149.149869",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R0k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. \n박현우 교수님 연구실에서 특별 세미나를 진행합니다.\n\n이번 세미나에서는 Wisconsin 대학에서 Healthcare Operations 분야의 전문가로 활동 중인 Hessam Bavafa 교수님을 모시게 되었습니다. 교수님께서는 실제 의료 기록에 대한 과학적인 분석 방법과 그로부터 얻은 인사이트에 대해 소개해주실 예정입니다.\n\n세미나는 GSDS에서 대면으로 진행하며, 줌으로 동시 송출 계획입니다. 관심있는 분들 많은 참여 부탁드립니다.\n\n일시: 2023년 5월 22일 오후 2시\n장소: 942동 309호\nzoom: "
+              },
+              {
+                "type": "link",
+                "url": "https://snu-ac-kr.zoom.us/j/99440270733",
+                "text": "https://snu-ac-kr.zoom.us/j/99440270733"
+              },
+              {
+                "type": "text",
+                "text": "\n\nTitle: Beyond Means: Unpacking Performance Variability\n\nAbstract: Little is known about how people-centric factors affect the shape of service time distributions"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "3기_이승주",
+      "real_name": "3기_이승주",
+      "display_name": "3기_이승주",
+      "team": "T01QA5S537V",
+      "name": "lotusist",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

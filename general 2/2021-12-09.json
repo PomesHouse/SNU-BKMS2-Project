@@ -1,0 +1,258 @@
+[
+  {
+    "client_msg_id": "1240a6d8-b07a-43af-9865-7a09890fadb8",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e\n\n2022학년도 데이터사이언스대학원 신입생모집 면접 및 구술고사가 12월 20일 (월요일) 예정되어있습니다.\n\n관련하여 수험생 인솔, 면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 DM으로 연락주시면 감사하겠습니다 ^^ !!\n\n일시: 2021년 12월 17일 1시간, 20일 11:30~18:00\n장소: 942동 3~4층\n\n ※수당 지급될 예정입니다 ^^ ※",
+    "ts": "1639012794.110800",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "69tR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n\n2022학년도 데이터사이언스대학원 신입생모집 면접 및 구술고사가 12월 20일 (월요일) 예정되어있습니다.\n\n관련하여 수험생 인솔, 면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 DM으로 연락주시면 감사하겠습니다 ^^ !!\n\n일시: 2021년 12월 17일 1시간, 20일 11:30~18:00\n장소: 942동 3~4층\n\n ※수당 지급될 예정입니다 ^^ ※"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4381b9bc-5c0b-4a1b-a817-b1a294bf9687",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u003c!channel\u003e [긴급공지] 우리 대학원 미화 선생님께서 내일 (2021.12.10.(금)) 건강상의 이유로 휴무입니다.*\n*금~일까지 청소가 불가하오니 냄새가 많이나는 음식물 등 개인 쓰레기 배출시 참고 부탁 드립니다* :slightly_smiling_face:\n*그럼 좋은 하루 보내세요.*",
+    "ts": "1639034627.114100",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "39C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " [긴급공지] 우리 대학원 미화 선생님께서 내일 (2021.12.10.(금)) 건강상의 이유로 휴무입니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "금~일까지 청소가 불가하오니 냄새가 많이나는 음식물 등 개인 쓰레기 배출시 참고 부탁 드립니다 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "그럼 좋은 하루 보내세요.",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "aabef2a8-7f95-49ca-bb68-7967e6b6a922",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt; 2022년 삼성드림클래스 대학생 멘토 선발 안내 \u0026gt;\n\n 삼성드림클래스사업단에서 대학생 멘토를 아래와 같이 선발하오니, 관심있는 학생들의 많은 지원 바랍니다.\n  가. 활동기간: 2022. 3. 1. ~ 2023. 2. 28.(1년간)\n  나. 지원자격: 전체 활동기간에 활동 가능한 국내 대학(원) 재학생\n      ※ 2022년 중 수료생, 학기초과자는 제외, 활동약정기간중 휴학시 활동 지속 가능\n  다. 활동내용: 온라인 학급 담임으로 중학생 10명 내외 담당, 실시간 멘토링(학습 진도 관리 및 생활 상담)\n  라. 활동시간: 주 5시간\n  마. 지원서 접수: 2021. 12. 6.(월) 14:00 ~ 12. 20.(월) 10:00, 삼성드림클래스 홈페이지(\u003chttp://www.dreamclass.org|www.dreamclass.org\u003e)에서 접수\n  바. 장학금: 300만원(타장학금과 중복 수혜 가능)\n  사. 문의처: 02-2014-6875(삼성복지재단)\n\n관련하여 자세한 내요은 첨부의 안내문 참고 바랍니다 :blob-grin:",
+    "ts": "1639036053.115900",
+    "files": [
+      {
+        "id": "F02Q05LJQTF",
+        "created": 1639036049,
+        "timestamp": 1639036049,
+        "name": "2022년 1학기 삼성드림클래스 대학생멘토 선발.zip",
+        "title": "2022년 1학기 삼성드림클래스 대학생멘토 선발.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 277679,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02Q05LJQTF-2022년 1학기 삼성드림클래스 대학생멘토 선발.zip",
+        "url_private_download": "attachments/F02Q05LJQTF-2022년 1학기 삼성드림클래스 대학생멘토 선발.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02Q05LJQTF/2022____1___________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02Q05LJQTF-e78a29738f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GmEUm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 2022년 삼성드림클래스 대학생 멘토 선발 안내 \u003e\n\n 삼성드림클래스사업단에서 대학생 멘토를 아래와 같이 선발하오니, 관심있는 학생들의 많은 지원 바랍니다.\n  가. 활동기간: 2022. 3. 1. ~ 2023. 2. 28.(1년간)\n  나. 지원자격: 전체 활동기간에 활동 가능한 국내 대학(원) 재학생\n      ※ 2022년 중 수료생, 학기초과자는 제외, 활동약정기간중 휴학시 활동 지속 가능\n  다. 활동내용: 온라인 학급 담임으로 중학생 10명 내외 담당, 실시간 멘토링(학습 진도 관리 및 생활 상담)\n  라. 활동시간: 주 5시간\n  마. 지원서 접수: 2021. 12. 6.(월) 14:00 ~ 12. 20.(월) 10:00, 삼성드림클래스 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "http://www.dreamclass.org",
+                "text": "www.dreamclass.org"
+              },
+              {
+                "type": "text",
+                "text": ")에서 접수\n  바. 장학금: 300만원(타장학금과 중복 수혜 가능)\n  사. 문의처: 02-2014-6875(삼성복지재단)\n\n관련하여 자세한 내요은 첨부의 안내문 참고 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "blob-grin",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

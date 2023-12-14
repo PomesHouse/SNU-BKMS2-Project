@@ -1,0 +1,349 @@
+[
+  {
+    "client_msg_id": "7742659e-f40a-46b6-94f9-ce9728fd8d25",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "논문유사도 검색프로그램 \"Turnitin\" 활용법 교육\n\n    학내 연구자의 연구부정행위 예방을 위해 논문유사도 검색프로그램 \"Turnitin\"을 구매하여 제공하고 있습니다.\n\n   이와 관련하여 아래와 같이「논문유사도 검색프로그램 \"Turnitin\" 활용법」교육을 진행하오니 관심있는 분들의 많은 참여 부탁드립니다.\n\n   교육 주요 내용\n\n   가. 일시: 2022.3.28.(월) 14:00~14:45 (영문강의), 15:00~15:45 (국문강의)\n\n   나. 대상: 학부생, 대학원생, 연구원 등\n\n   다. 주제: 논문유사도 검색프로그램 \"Turnitin\" 활용법\n\n   라. 내용: 표절방지 논문유사도검사 사용법, 영어 논문 검토를 위한 자동 영문법 체크 기능 등\n\n   마. 교육 방법: zoom을 활용한 온라인 실시간 교육\n\n   바. 강사: 턴잇인코리아 김미경 차장\n\n   사. 신청방법: 교육 시작 전까지 아래 링크로 접속하여 사전 등록\n\n    - 국문강의: \u003chttps://turnitin.zoom.us/webinar/register/WN_IKgkaCXISg-OeyzUueE09g\u003e\n\n     - 영문강의: \u003chttps://turnitin.zoom.us/webinar/register/WN_RdUSjNRpTbWS_LGupRqWcg\u003e\n\n   ※ 사전 등록 시 입력한 이메일로 안내 메일 발송.",
+    "ts": "1647840629.815329",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "naR9Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "논문유사도 검색프로그램 \"Turnitin\" 활용법 교육\n\n    학내 연구자의 연구부정행위 예방을 위해 논문유사도 검색프로그램 \"Turnitin\"을 구매하여 제공하고 있습니다.\n\n   이와 관련하여 아래와 같이「논문유사도 검색프로그램 \"Turnitin\" 활용법」교육을 진행하오니 관심있는 분들의 많은 참여 부탁드립니다.\n\n   교육 주요 내용\n\n   가. 일시: 2022.3.28.(월) 14:00~14:45 (영문강의), 15:00~15:45 (국문강의)\n\n   나. 대상: 학부생, 대학원생, 연구원 등\n\n   다. 주제: 논문유사도 검색프로그램 \"Turnitin\" 활용법\n\n   라. 내용: 표절방지 논문유사도검사 사용법, 영어 논문 검토를 위한 자동 영문법 체크 기능 등\n\n   마. 교육 방법: zoom을 활용한 온라인 실시간 교육\n\n   바. 강사: 턴잇인코리아 김미경 차장\n\n   사. 신청방법: 교육 시작 전까지 아래 링크로 접속하여 사전 등록\n\n    - 국문강의: "
+              },
+              {
+                "type": "link",
+                "url": "https://turnitin.zoom.us/webinar/register/WN_IKgkaCXISg-OeyzUueE09g",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n     - 영문강의: "
+              },
+              {
+                "type": "link",
+                "url": "https://turnitin.zoom.us/webinar/register/WN_RdUSjNRpTbWS_LGupRqWcg",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n   ※ 사전 등록 시 입력한 이메일로 안내 메일 발송."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1ebc99f3-2c49-4934-bc1d-979b0624aed6",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e \u0026lt;데이터사이언스대학원 2022학년도 1학기 학위논문 제출 및 심사시행\u0026gt;\n\n2022학년도 1학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 안내 드리니 해당되시는 분들께서는 각 일자 및 준비 사항을 확인하여 주시기 바랍니다.\n\n반드시 첨부된 파일의 내용도 확인하시어 준비하시기 바랍니다.\n\n*ㅁ 논문제출 예정자 등록   (온라인 신청)*\n∙ 2022. 4. 6. (수) ~4. 18. (월) \u0026lt;13일간\u0026gt;\n   ※ 학생 개인별로 mysnu에 로그인하여 신청 함.\n\n*ㅁ  논문심사료 납부*\n∙ 2022. 4. 19.(화)～5. 6.(금) \u0026lt;평일, 09:00-17:00, 13일간\u0026gt;\n   ※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.\n\n*ㅁ 논문심사*\n*∙  논문계획서 제출: 2022년 5월 18일 (수) ~ 19(목) 13:00까지 (시간엄수)* \n*∙ 예비심사: 2022년 5월 20일 (금요일)*\n - 논문 진행 상황 공유\n - 영문, 국문에 상관없이 10페이지의 proposal 제출\n - 10분 발표와 5분 질문 (총 15분)\n*∙ 심사용 논문제출: 2022년 6월 22일 (수)* \n  ※심사용 논문 PDF파일을 행정실 및 심사위원에게 직접 메일 제출\n*∙ 최종심사: 2022년 6월 24일 (금요일)*\n*∙ 종결: 2022년 7월 18일 (월요일)* \n\n*ㅁ 최종 인준논문제출  〔각 대학(원) → 도서관〕* \n∙ 2022. 7. 22.(금)∼8. 8.(월) 24:00 \u0026lt;18일간\u0026gt;\n  ※ 책자논문 제출 없이 원문파일만 제출\n  ※ 마감 이후 제출/수정 불가\n  ※ 논문을 제출하지 않을 경우 학위를 받을 수 없음\n  ※ 논문제출 방법, 학생 안내자료 등은 별도 공지\n\n관련문의: 행정실 김민서 (\u003cmailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr\u003e, 880 1331)",
+    "ts": "1647851814.839119",
+    "files": [
+      {
+        "id": "F037YH0EQDA",
+        "created": 1647850834,
+        "timestamp": 1647850834,
+        "name": "2022학년도 1학기 데이터사이언스대학원 논문심사 - 석사학위 논문계획서 심사계획.pdf",
+        "title": "2022학년도 1학기 데이터사이언스대학원 논문심사 - 석사학위 논문계획서 심사계획.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 51225,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F037YH0EQDA-2022학년도 1학기 데이터사이언스대학원 논문심사 - 석사학위 논문계획서 심사계획.pdf",
+        "url_private_download": "attachments/F037YH0EQDA-2022학년도 1학기 데이터사이언스대학원 논문심사 - 석사학위 논문계획서 심사계획.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F037YH0EQDA/2022__________1___________________________________________________-__________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F037YH0EQDA-a9ccf6a84a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F0388QXC6QH",
+        "created": 1647850845,
+        "timestamp": 1647850845,
+        "name": "2022학년도 1학기 데이터사이언스대학원 논문심사 - 석사학위 논문 심사계획.pdf",
+        "title": "2022학년도 1학기 데이터사이언스대학원 논문심사 - 석사학위 논문 심사계획.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 76331,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0388QXC6QH-2022학년도 1학기 데이터사이언스대학원 논문심사 - 석사학위 논문 심사계획.pdf",
+        "url_private_download": "attachments/F0388QXC6QH-2022학년도 1학기 데이터사이언스대학원 논문심사 - 석사학위 논문 심사계획.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0388QXC6QH/2022__________1___________________________________________________-_________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F0388QXC6QH-6b02a3a638",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e+/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " \u003c데이터사이언스대학원 2022학년도 1학기 학위논문 제출 및 심사시행\u003e\n\n2022학년도 1학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 안내 드리니 해당되시는 분들께서는 각 일자 및 준비 사항을 확인하여 주시기 바랍니다.\n\n반드시 첨부된 파일의 내용도 확인하시어 준비하시기 바랍니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "ㅁ 논문제출 예정자 등록   (온라인 신청)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n∙ 2022. 4. 6. (수) ~4. 18. (월) \u003c13일간\u003e\n   ※ 학생 개인별로 mysnu에 로그인하여 신청 함.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "ㅁ  논문심사료 납부",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n∙ 2022. 4. 19.(화)～5. 6.(금) \u003c평일, 09:00-17:00, 13일간\u003e\n   ※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "ㅁ 논문심사",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "∙  논문계획서 제출: 2022년 5월 18일 (수) ~ 19(목) 13:00까지 (시간엄수) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "∙ 예비심사: 2022년 5월 20일 (금요일)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n - 논문 진행 상황 공유\n - 영문, 국문에 상관없이 10페이지의 proposal 제출\n - 10분 발표와 5분 질문 (총 15분)\n"
+              },
+              {
+                "type": "text",
+                "text": "∙ 심사용 논문제출: 2022년 6월 22일 (수) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  ※심사용 논문 PDF파일을 행정실 및 심사위원에게 직접 메일 제출\n"
+              },
+              {
+                "type": "text",
+                "text": "∙ 최종심사: 2022년 6월 24일 (금요일)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "∙ 종결: 2022년 7월 18일 (월요일) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "ㅁ 최종 인준논문제출  〔각 대학(원) → 도서관〕 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n∙ 2022. 7. 22.(금)∼8. 8.(월) 24:00 \u003c18일간\u003e\n  ※ 책자논문 제출 없이 원문파일만 제출\n  ※ 마감 이후 제출/수정 불가\n  ※ 논문을 제출하지 않을 경우 학위를 받을 수 없음\n  ※ 논문제출 방법, 학생 안내자료 등은 별도 공지\n\n관련문의: 행정실 김민서 ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:pocahontas@snu.ac.kr",
+                "text": "pocahontas@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ", 880 1331)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

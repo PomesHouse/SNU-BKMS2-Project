@@ -1,0 +1,61 @@
+[
+  {
+    "client_msg_id": "52ab06dd-df98-4556-9de3-cba3d4247061",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e 지금 현재 건물 전체에 나는 타는 듯한 냄새는 배관 용접 공사로 인한 냄새라고 합니다. 지하1층~5층까지 확인하였고 용접으로인한 냄새임을 공사하시는 분들께 확인받았습니다.  불이 나거나 한 것은 아니라고 하니 안심하시기 바랍니다. :pray:",
+    "ts": "1638434355.096300",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1638434750.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H1oTf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " 지금 현재 건물 전체에 나는 타는 듯한 냄새는 배관 용접 공사로 인한 냄새라고 합니다. 지하1층~5층까지 확인하였고 용접으로인한 냄새임을 공사하시는 분들께 확인받았습니다.  불이 나거나 한 것은 아니라고 하니 안심하시기 바랍니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

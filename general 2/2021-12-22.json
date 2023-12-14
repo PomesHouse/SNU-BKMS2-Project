@@ -1,0 +1,308 @@
+[
+  {
+    "client_msg_id": "df2adf83-b057-45f5-b9fb-096b8fba56e7",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e *\u0026lt; 승강기 교체로 인한 쓰레기통 사용 중지 안내 \u0026gt;*\n\n*안녕하세요, 내일 오전부터 승강기 교체 작업이 2월까지 진행될 예정입니다.*\n*별도의 안내가 있을 때까지 1층의 임시 쓰레기통을 이용해 주시기 바랍니다. (사진 참고)*\n\n• 배달음식 먹은 후 음식물 쓰레기 잘 처리해서 버리기\n• 개인 택배 박스 등 1층에 직접 버리기\n• 화장실 쓰레기통에 개인 쓰레기 버리지 말기(테이크아웃컵, 음료수 캔, 병 등)\n우리 대학원에 미화선생님이 여자 선생님으로 75L 쓰레기 봉투를 옮길 때 체력적으로 힘들 수 있습니다.\n이용에 불편함은 물론 있겠지만,  교체기간 동안 우리 모두 협조해 주시면 감사하겠습니다. :blob_owo:\n관련하여 추가 문의사항 있으시면 DM주세요 !",
+    "ts": "1640133342.145100",
+    "files": [
+      {
+        "id": "F02RJ8ML5E1",
+        "created": 1640133218,
+        "timestamp": 1640133218,
+        "name": "임시쓰레기통.jpg",
+        "title": "임시쓰레기통.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2875807,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02RJ8ML5E1-임시쓰레기통.jpg",
+        "url_private_download": "attachments/F02RJ8ML5E1-임시쓰레기통.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02RJ8ML5E1-a3435ba4e8/___________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02RJ8ML5E1-a3435ba4e8/___________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02RJ8ML5E1-a3435ba4e8/___________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02RJ8ML5E1-a3435ba4e8/___________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02RJ8ML5E1-a3435ba4e8/___________________480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02RJ8ML5E1-a3435ba4e8/___________________720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02RJ8ML5E1-a3435ba4e8/___________________960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02RJ8ML5E1-a3435ba4e8/___________________1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02RJ8ML5E1/__________________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02RJ8ML5E1-51d541b6ab",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U6EOR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "\u003c 승강기 교체로 인한 쓰레기통 사용 중지 안내 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "안녕하세요, 내일 오전부터 승강기 교체 작업이 2월까지 진행될 예정입니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "별도의 안내가 있을 때까지 1층의 임시 쓰레기통을 이용해 주시기 바랍니다. (사진 참고)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc30\\ub2ec\\uc74c\\uc2dd \\uba39\\uc740 \\ud6c4 \\uc74c\\uc2dd\\ubb3c \\uc4f0\\ub808\\uae30 \\uc798 \\ucc98\\ub9ac\\ud574\\uc11c \\ubc84\\ub9ac\\uae30\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\uc778 \\ud0dd\\ubc30 \\ubc15\\uc2a4 \\ub4f1 1\\uce35\\uc5d0 \\uc9c1\\uc811 \\ubc84\\ub9ac\\uae30\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud654\\uc7a5\\uc2e4 \\uc4f0\\ub808\\uae30\\ud1b5\\uc5d0 \\uac1c\\uc778 \\uc4f0\\ub808\\uae30 \\ubc84\\ub9ac\\uc9c0 \\ub9d0\\uae30(\\ud14c\\uc774\\ud06c\\uc544\\uc6c3\\ucef5, \\uc74c\\ub8cc\\uc218 \\uce94, \\ubcd1 \\ub4f1)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n우리 대학원에 미화선생님이 여자 선생님으로 75L 쓰레기 봉투를 옮길 때 체력적으로 힘들 수 있습니다.\n이용에 불편함은 물론 있겠지만,  교체기간 동안 우리 모두 협조해 주시면 감사하겠습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "blob_owo",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n관련하여 추가 문의사항 있으시면 DM주세요 !"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e62861ee-b390-46a1-8984-3f4d95e7c238",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;주한미국대사관 주관 학생행사 홍보 요청 (Town Hall Meeting)\u0026gt;\n\n한미국대사관 주관으로 한미 관계에 대한 온라인 학생토론 행사가 아래와 같이 개최 될 예정이오니 관심있는 학생분들의 많은 참여 바랍니다.\n \n가. 행 사 명: Town Hall Meeting - Z세대가 생각하는 한-미 관계에 대하여\n나. 개최일시: 2021년 12월 28일 화요일, 오후 2시\n다. 개최방식: 온라인 (ZOOM) * 참가자 대상 접속링크 추후 안내될 예정\n라. 등록방법: 온라인 등록 (링크: \u003chttp://bit.ly/SeoulPDTownhall\u003e)\n마. 문 의 처: \u003cmailto:SeoulPDTownhall@state.gov|SeoulPDTownhall@state.gov\u003e",
+    "ts": "1640133498.145700",
+    "attachments": [
+      {
+        "fallback": "Google Docs: RSVP to the Town Hall Meeting",
+        "id": 1,
+        "title": "RSVP to the Town Hall Meeting",
+        "title_link": "http://bit.ly/SeoulPDTownhall",
+        "text": "2021년 12월 28일 화요일 오후 2시, 타운홀 미팅이 시작됩니다. 한국어로 진행되지만 동시통역이 제공되기 때문에 한국말과 영어 중 편안한 언어로 참여하실 수 있습니다. 참석을 희망하시는 분들은 아래의 정보를 입력해 주세요. 정보는 한글 또는 영어 중 편안한 언어로 작성해주세요. 감사합니다. Town Hall Meeting begins at 2 p.m. on Tuesday, December 28, 2021. We will discuss in Korean, but you can join either in Korean or English because we provide simultaneous interpretation. Please insert the information below to join the meeting, either in Korean or English as you please. Thank you.",
+        "image_url": "https://lh5.googleusercontent.com/j3iZ9fDt3B363HuZpGx4S1albUKEBBoAGwnEauIeOaMkB_-p5DHaKagM-HyM_txG5BEmMZsWZ6Q",
+        "service_name": "Google Docs",
+        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+        "from_url": "http://bit.ly/SeoulPDTownhall",
+        "original_url": "http://bit.ly/SeoulPDTownhall",
+        "blocks": null
+      }
+    ],
+    "files": [
+      {
+        "id": "F02REGC7K3Q",
+        "created": 1640133492,
+        "timestamp": 1640133492,
+        "name": "포스터.jpg",
+        "title": "포스터.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 688660,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02REGC7K3Q-포스터.jpg",
+        "url_private_download": "attachments/F02REGC7K3Q-포스터.jpg",
+        "original_h": 3246,
+        "original_w": 2281,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02REGC7K3Q-67fc4d413b/__________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02REGC7K3Q-67fc4d413b/__________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02REGC7K3Q-67fc4d413b/__________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02REGC7K3Q-67fc4d413b/__________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 253,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02REGC7K3Q-67fc4d413b/__________480.jpg",
+        "thumb_480_w": 337,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02REGC7K3Q-67fc4d413b/__________720.jpg",
+        "thumb_720_w": 506,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02REGC7K3Q-67fc4d413b/__________960.jpg",
+        "thumb_960_w": 675,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02REGC7K3Q-67fc4d413b/__________1024.jpg",
+        "thumb_1024_w": 720,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02REGC7K3Q/_________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02REGC7K3Q-c9fdf3e139",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K8b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c주한미국대사관 주관 학생행사 홍보 요청 (Town Hall Meeting)\u003e\n\n한미국대사관 주관으로 한미 관계에 대한 온라인 학생토론 행사가 아래와 같이 개최 될 예정이오니 관심있는 학생분들의 많은 참여 바랍니다.\n \n가. 행 사 명: Town Hall Meeting - Z세대가 생각하는 한-미 관계에 대하여\n나. 개최일시: 2021년 12월 28일 화요일, 오후 2시\n다. 개최방식: 온라인 (ZOOM) * 참가자 대상 접속링크 추후 안내될 예정\n라. 등록방법: 온라인 등록 (링크: "
+              },
+              {
+                "type": "link",
+                "url": "http://bit.ly/SeoulPDTownhall",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ")\n마. 문 의 처: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:SeoulPDTownhall@state.gov",
+                "text": "SeoulPDTownhall@state.gov"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

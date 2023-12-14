@@ -1,0 +1,92 @@
+[
+  {
+    "client_msg_id": "688c5311-9c27-402d-84fa-7ebb4505c613",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "안녕하세요? 내년에 정부에서 데이터직 국가공무원 35명을 첫 선발한다는 기사가 있어 공유합니다. 진로에 있어서 공적영역에 관심있는 분들은 참고하시면 좋겠습니다. 다들 평안한 성탄절 연휴 보내시길 바랍니다!\n\n\u003chttp://www.lec.co.kr/news/articleView.html?idxno=741381\u003e",
+    "ts": "1671786438.094059",
+    "attachments": [
+      {
+        "fallback": "법률저널: 내년 데이터직 국가공무원 35명 첫 선발....의미는?",
+        "id": 1,
+        "title": "내년 데이터직 국가공무원 35명 첫 선발....의미는?",
+        "title_link": "http://www.lec.co.kr/news/articleView.html?idxno=741381",
+        "text": "[법률저널=이성진 기자] 내년 국가공무원 임용 공개경쟁 채용시험에서 전산직렬 중 ‘데이터’ 직류가 처음 신설돼 시행된다. 인사혁신처는 지난 18일 ‘2023년도 국가공무원 공채시험 선발 규모’를 사전 안내하며 “빅데이터 분석·활용 등 새로운 행정수요에 정부가 과학적, 선제적으로 대응할 수 있도록 각종 데이터 행정업무를 수행할 데이터직 공무원을 최초로 선발한다”고 밝혔다.선발 인원은 5급 4명, 7급 17명, 9급 14명이다. 인사처가 선발인원 등을 예년보다 앞당겨 발표한 것 또한 이러한 테이터 직류를 최초로 선발하면서 이 시험을 준",
+        "thumb_url": "http://www.lec.co.kr/news/thumbnail/202212/741381_75118_5830_v150.jpg",
+        "service_name": "법률저널",
+        "from_url": "http://www.lec.co.kr/news/articleView.html?idxno=741381",
+        "original_url": "http://www.lec.co.kr/news/articleView.html?idxno=741381",
+        "blocks": null,
+        "ts": 1671613310
+      }
+    ],
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 16,
+        "users": [
+          "U01QV1SQJ57",
+          "U02UT1YNY6N",
+          "U0406PM050F",
+          "U02V5LT4DLZ",
+          "U01QGG6A5LJ",
+          "U01QV28FG4R",
+          "U02V5LU4ED7",
+          "U02V5LTKMPT",
+          "U040M7VULN7",
+          "U02V5LUDBAM",
+          "U01QGKCT067",
+          "U040ENMTCEA",
+          "U02UVATUSLU",
+          "U02UVAUFSRJ",
+          "U02UT1YMCDQ",
+          "U01R688KH6U"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eegS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요? 내년에 정부에서 데이터직 국가공무원 35명을 첫 선발한다는 기사가 있어 공유합니다. 진로에 있어서 공적영역에 관심있는 분들은 참고하시면 좋겠습니다. 다들 평안한 성탄절 연휴 보내시길 바랍니다!\n\n"
+              },
+              {
+                "type": "link",
+                "url": "http://www.lec.co.kr/news/articleView.html?idxno=741381",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

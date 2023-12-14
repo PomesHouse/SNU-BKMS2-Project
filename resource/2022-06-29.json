@@ -1,0 +1,226 @@
+[
+  {
+    "client_msg_id": "a50bad06-0520-40f7-8610-487c2ca1e957",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "서울대학교 사범대학에서 AI와 관련된 학습과학 심포지엄을 진행한다고 하니 관심있는 분들의 많은 참여를 바랍니다!\n\n*\u0026lt; 학습과학 심포지엄 \u0026gt;*\n*주제: 학습과학의 미래: AI, 두뇌, 교육 융합연구*\n*일시: 7월 7일 09:00~12:00*\n*대면: 서울대학교 12동 401호*\n*비대면: \u003chttps://bit.ly/snulss0707\u003e (줌 링크)*\n강연자: 시드니 대학교 김민강 교수, 카네기멜론 대학교 Carolyn Rose 교수, 난양 공과대학교 Kenneth Lim 박사\n사전신청: \u003chttps://forms.gle/6nYhFjDDGgggAr2bA\u003e (기한: ~2022. 07. 04 (월) 23:59까지)\n문의: 기획행정실 함윤희(\u003cmailto:stream3004@snu.ac.kr|stream3004@snu.ac.kr\u003e, 880-8876)",
+    "ts": "1656467402.823909",
+    "attachments": [
+      {
+        "fallback": "Zoom Video: Join our Cloud HD Video Meeting",
+        "id": 1,
+        "title": "Join our Cloud HD Video Meeting",
+        "title_link": "https://bit.ly/snulss0707",
+        "text": "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars across mobile, desktop, and room systems. Zoom Rooms is the original software-based conference room solution used around the world in board, conference, huddle, and training rooms, as well as executive offices and classrooms. Founded in 2011, Zoom helps businesses and organizations bring their teams together in a frictionless environment to get more done. Zoom is a publicly traded company headquartered in San Jose, CA.",
+        "service_name": "Zoom Video",
+        "service_icon": "https://snu-ac-kr.zoom.us/zoom.ico",
+        "from_url": "https://bit.ly/snulss0707",
+        "original_url": "https://bit.ly/snulss0707",
+        "blocks": null
+      },
+      {
+        "fallback": "Google Docs: 2022 학습과학 심포지엄 사전 신청",
+        "id": 2,
+        "title": "2022 학습과학 심포지엄 사전 신청",
+        "title_link": "https://forms.gle/6nYhFjDDGgggAr2bA",
+        "text": "신청기간: ~2022. 7. 4. (월) 23:59까지 일시: 7월 7일 09:00~12:00 주제: 학습과학의 미래: AI, 두뇌, 교육 융합연구 대면: 서울대학교 12동 401호 비대면: \u003chttps://bit.ly/snulss0707\u003e (줌 링크)",
+        "image_url": "https://lh5.googleusercontent.com/EzK5Y4K9aH5dns6j1cjxYQw-GQ-ykY8RwXydEPr3IlnnSrgnb5nAzDcDNX48rGatl8xtilu5CoE",
+        "service_name": "Google Docs",
+        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+        "from_url": "https://forms.gle/6nYhFjDDGgggAr2bA",
+        "original_url": "https://forms.gle/6nYhFjDDGgggAr2bA",
+        "blocks": null
+      }
+    ],
+    "files": [
+      {
+        "id": "F03M5618NH5",
+        "created": 1656467362,
+        "timestamp": 1656467362,
+        "name": "학습과학심포지움.jpg",
+        "title": "학습과학심포지움.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01Q1KFN4JK",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 124783,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03M5618NH5-학습과학심포지움.jpg",
+        "url_private_download": "attachments/F03M5618NH5-학습과학심포지움.jpg",
+        "original_h": 843,
+        "original_w": 593,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03M5618NH5-d3047937af/________________________________________________________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03M5618NH5-d3047937af/________________________________________________________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03M5618NH5-d3047937af/________________________________________________________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03M5618NH5-d3047937af/________________________________________________________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 253,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03M5618NH5-d3047937af/________________________________________________________________480.jpg",
+        "thumb_480_w": 338,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03M5618NH5-d3047937af/________________________________________________________________720.jpg",
+        "thumb_720_w": 506,
+        "thumb_720_h": 720,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F03M5618NH5/_______________________________________________________________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03M5618NH5-e57f6040d3",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8T+p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "서울대학교 사범대학에서 AI와 관련된 학습과학 심포지엄을 진행한다고 하니 관심있는 분들의 많은 참여를 바랍니다!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "\u003c 학습과학 심포지엄 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "주제: 학습과학의 미래: AI, 두뇌, 교육 융합연구",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "일시: 7월 7일 09:00~12:00",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "대면: 서울대학교 12동 401호",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "비대면: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/snulss0707",
+                "text": "",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " (줌 링크)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n강연자: 시드니 대학교 김민강 교수, 카네기멜론 대학교 Carolyn Rose 교수, 난양 공과대학교 Kenneth Lim 박사\n사전신청: "
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/6nYhFjDDGgggAr2bA",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " (기한: ~2022. 07. 04 (월) 23:59까지)\n문의: 기획행정실 함윤희("
+              },
+              {
+                "type": "link",
+                "url": "mailto:stream3004@snu.ac.kr",
+                "text": "stream3004@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ", 880-8876)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

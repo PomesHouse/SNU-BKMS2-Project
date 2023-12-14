@@ -1,0 +1,747 @@
+[
+  {
+    "client_msg_id": "57fa0f5d-30a3-4c88-9dfb-beaa04755522",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "*[공지] 개인물품 임시 보관 장소 안내*\n\n학생회에서 알려드립니다.\n\n행정실의 양해를 얻어 좌석을 재배치할 때까지 *개인 물품(예: 모니터)을 보관할 수 있는 장소를 확보*했습니다.\n\n*다음 주 월요일(3/13) 오전까지 각 연구실 별로 해당 공간에 짐을 보관하실 수 있으니* 이용에 참고하시길 바랍니다.\n(스터디 등의 용도로 해당 공간을 사용할 예정이었던 분들은 해당 기간 동안만 4층 세미나실을 사용해주시길 부탁드립니다.)\n\n감사합니다!\n\n*지도교수 - 임시 보관 장소* \n\n차상균 \u0026amp; Wen-Syan Li - 305(focus room)\n박현우- 307(focus room)\n\n이준석- 308(세미나실)\n오민환- 309(세미나실)\n\n김형신- 310(innovation lab)\n이상학- 311(innovation lab)\n이승근- 312(innovation lab)\n신효필- 313(innovation lab)\n이재진- 314(innovation lab)",
+    "ts": "1646881538.914439",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 12,
+        "users": [
+          "U01R678KWP2",
+          "U01PVEU1A07",
+          "U01QV1WAPL1",
+          "U01QNSM488Z",
+          "U01QGKD09K5",
+          "U01QV1PBKUZ",
+          "U01QDA36FJR",
+          "U01QGKC5W03",
+          "U01QV1SQJ57",
+          "U01QGJUT403",
+          "U01QNJ9BB60",
+          "U01QV28F01X"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QkC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[공지] 개인물품 임시 보관 장소 안내",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n학생회에서 알려드립니다.\n\n행정실의 양해를 얻어 좌석을 재배치할 때까지 "
+              },
+              {
+                "type": "text",
+                "text": "개인 물품(예: 모니터)을 보관할 수 있는 장소를 확보",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "했습니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "다음 주 월요일(3/13) 오전까지 각 연구실 별로 해당 공간에 짐을 보관하실 수 있으니",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 이용에 참고하시길 바랍니다.\n(스터디 등의 용도로 해당 공간을 사용할 예정이었던 분들은 해당 기간 동안만 4층 세미나실을 사용해주시길 부탁드립니다.)\n\n감사합니다!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "지도교수 - 임시 보관 장소 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n차상균 \u0026 Wen-Syan Li - 305(focus room)\n박현우- 307(focus room)\n\n이준석- 308(세미나실)\n오민환- 309(세미나실)\n\n김형신- 310(innovation lab)\n이상학- 311(innovation lab)\n이승근- 312(innovation lab)\n신효필- 313(innovation lab)\n이재진- 314(innovation lab)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7d30791b-276c-4ec9-a71c-be30fa029a1f",
+    "type": "message",
+    "user": "U02ULBHV58W",
+    "text": "3층 탕비실 커피머신에 자꾸 에러가 뜨는데 혹시 해결 방법 아시는 분 계신지요?",
+    "ts": "1646883077.966539",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PtMG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "3층 탕비실 커피머신에 자꾸 에러가 뜨는데 혹시 해결 방법 아시는 분 계신지요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "3기_이승주",
+      "real_name": "3기_이승주",
+      "display_name": "3기_이승주",
+      "team": "T01QA5S537V",
+      "name": "lotusist",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "937ddbc0-5ee2-43ad-a268-3eadd31205ed",
+    "type": "message",
+    "user": "U01PVEU1A07",
+    "text": "안녕하세요. 박사과정 1기 남기성입니다.\n\n우리 건물 3층의 탕비실 커피머신은 학생들의 *자발적 모금*으로 운영되고 있습니다.\n그동안은 제가 모금 및 원두 재고 관리를 해왔었는데, 최근에 제가 제때 관리를 못하게 되는 일이 종종 발생하여\n2기 혹은 3기의 다른 분이 맡아주시면 좋을 것 같아서 메시지 드립니다. (이왕이면 학교에 자주 오시고, 커피를 자주 드시는 분이 하시면 더 좋을 것 같습니다.)\n재고 관리자에게는 \"원두를 본인 취향대로 결정할 수 있는 권한이 있다\"는 메리트 정도는 있습니다. :sweat_smile:\n혹시 모금 및 재고 관리를 맡아주실 분이 계시면 DM 주시면 감사하겠습니다.\n참고로 지금까지의 회비 관리대장을 첨부해드리니, 대략적인 모금/구입 주기를 참고하시면 될 것 같습니다.\n\u003chttps://docs.google.com/spreadsheets/d/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA/edit?usp=sharing\u003e",
+    "ts": "1646885939.547749",
+    "thread_ts": "1646885939.547749",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01QNSM488Z",
+        "ts": "1646890988.546949"
+      },
+      {
+        "user": "U01PVEU1A07",
+        "ts": "1646980236.336449"
+      }
+    ],
+    "latest_reply": "1646980236.336449",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "clap",
+        "count": 17,
+        "users": [
+          "U01QGKD09K5",
+          "U01PVEU7QKH",
+          "U01Q1KFN4JK",
+          "U02V5LS84JV",
+          "U01Q75KNV1T",
+          "U01QNSM488Z",
+          "U01Q386CMKQ",
+          "U02UT2VBBR9",
+          "U01QDA36FJR",
+          "U02ULBH9YS2",
+          "U01QV28F01X",
+          "U01QV1WAPL1",
+          "U02V5LT2XFB",
+          "U02UT2TFZ8B",
+          "U01QV28FG4R",
+          "U02UQ4BAMB7",
+          "U02ULBH3TEJ"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 9,
+        "users": [
+          "U01QV1SQJ57",
+          "U01Q1KFN4JK",
+          "U02V5LS84JV",
+          "U01Q75KNV1T",
+          "U01QAE5A9K5",
+          "U01QNSM488Z",
+          "U01QDA36FJR",
+          "U02ULBHV58W",
+          "U01QV28FG4R"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j2to",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 박사과정 1기 남기성입니다.\n\n우리 건물 3층의 탕비실 커피머신은 학생들의 "
+              },
+              {
+                "type": "text",
+                "text": "자발적 모금",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "으로 운영되고 있습니다.\n그동안은 제가 모금 및 원두 재고 관리를 해왔었는데, 최근에 제가 제때 관리를 못하게 되는 일이 종종 발생하여\n2기 혹은 3기의 다른 분이 맡아주시면 좋을 것 같아서 메시지 드립니다. (이왕이면 학교에 자주 오시고, 커피를 자주 드시는 분이 하시면 더 좋을 것 같습니다.)\n재고 관리자에게는 \"원두를 본인 취향대로 결정할 수 있는 권한이 있다\"는 메리트 정도는 있습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n혹시 모금 및 재고 관리를 맡아주실 분이 계시면 DM 주시면 감사하겠습니다.\n참고로 지금까지의 회비 관리대장을 첨부해드리니, 대략적인 모금/구입 주기를 참고하시면 될 것 같습니다.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "1기_남기성",
+      "real_name": "1기_남기성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kisung.nam",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01PVEU1A07",
+      "U01QNSM488Z"
+    ]
+  },
+  {
+    "client_msg_id": "fffac8ac-00b8-4774-a31a-986e7143d257",
+    "type": "message",
+    "user": "U01QNSM488Z",
+    "text": "그동안 감사했습니다. :coffee:",
+    "ts": "1646890988.546949",
+    "thread_ts": "1646885939.547749",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "coffee",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "acY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "그동안 감사했습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "coffee",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "1기_황태현",
+      "real_name": "1기_황태현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "th.hwang",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a492af6-defb-4e8d-8911-bbfb16250228",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "안녕하세요. 석사과정 2기 김병찬입니다.\n\n박사과정 1기 황태현님을 대신해서 글을 올립니다!!!\n\n3층과 4층 탕비실에 아이스크림을 많이 넣어놨습니다 :pray:\n(설렉션, 말랑카우바, 찰떡아이스.. 등등이 있습니다!)\n\n최근 날씨가 더워지기도 하고 ㅎㅎ\n\n다음주에 자리 이동하시면서 출출하실 때 하나씩 드시면 좋을 거 같습니다!\n\n다들 이번 학기도 힘내세요!!!  :blush:\n\nSNU GSDS 화이팅!",
+    "ts": "1646900998.340139",
+    "edited": {
+      "user": "U01QV1SQJ57",
+      "ts": "1646901338.000000"
+    },
+    "files": [
+      {
+        "id": "F036H7REDGU",
+        "created": 1646900951,
+        "timestamp": 1646900951,
+        "name": "D7E46BED-DEF4-4028-9C24-56E4E89155C4.heic",
+        "title": "D7E46BED-DEF4-4028-9C24-56E4E89155C4.heic",
+        "mimetype": "image/heic",
+        "image_exif_rotation": 0,
+        "filetype": "heic",
+        "pretty_type": "HEIF",
+        "user": "U01QV1SQJ57",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2477834,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F036H7REDGU-D7E46BED-DEF4-4028-9C24-56E4E89155C4.heic",
+        "url_private_download": "attachments/F036H7REDGU-D7E46BED-DEF4-4028-9C24-56E4E89155C4.heic",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F036H7REDGU-2d3853d085/d7e46bed-def4-4028-9c24-56e4e89155c4_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F036H7REDGU-2d3853d085/d7e46bed-def4-4028-9c24-56e4e89155c4_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F036H7REDGU-2d3853d085/d7e46bed-def4-4028-9c24-56e4e89155c4_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F036H7REDGU-2d3853d085/d7e46bed-def4-4028-9c24-56e4e89155c4_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F036H7REDGU-2d3853d085/d7e46bed-def4-4028-9c24-56e4e89155c4_480.png",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F036H7REDGU-2d3853d085/d7e46bed-def4-4028-9c24-56e4e89155c4_720.png",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F036H7REDGU-2d3853d085/d7e46bed-def4-4028-9c24-56e4e89155c4_960.png",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F036H7REDGU-2d3853d085/d7e46bed-def4-4028-9c24-56e4e89155c4_1024.png",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F036H7REDGU/d7e46bed-def4-4028-9c24-56e4e89155c4.heic",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F036H7REDGU-4fcf3ed9fc",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F036ET93ACT",
+        "created": 1646900959,
+        "timestamp": 1646900959,
+        "name": "E0F146F0-AD31-443E-AB50-AB84DECCEB6E.heic",
+        "title": "E0F146F0-AD31-443E-AB50-AB84DECCEB6E.heic",
+        "mimetype": "image/heic",
+        "image_exif_rotation": 0,
+        "filetype": "heic",
+        "pretty_type": "HEIF",
+        "user": "U01QV1SQJ57",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2368838,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F036ET93ACT-E0F146F0-AD31-443E-AB50-AB84DECCEB6E.heic",
+        "url_private_download": "attachments/F036ET93ACT-E0F146F0-AD31-443E-AB50-AB84DECCEB6E.heic",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F036ET93ACT-cbff2f5a31/e0f146f0-ad31-443e-ab50-ab84decceb6e_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F036ET93ACT-cbff2f5a31/e0f146f0-ad31-443e-ab50-ab84decceb6e_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F036ET93ACT-cbff2f5a31/e0f146f0-ad31-443e-ab50-ab84decceb6e_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F036ET93ACT-cbff2f5a31/e0f146f0-ad31-443e-ab50-ab84decceb6e_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F036ET93ACT-cbff2f5a31/e0f146f0-ad31-443e-ab50-ab84decceb6e_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F036ET93ACT-cbff2f5a31/e0f146f0-ad31-443e-ab50-ab84decceb6e_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F036ET93ACT-cbff2f5a31/e0f146f0-ad31-443e-ab50-ab84decceb6e_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F036ET93ACT-cbff2f5a31/e0f146f0-ad31-443e-ab50-ab84decceb6e_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F036ET93ACT/e0f146f0-ad31-443e-ab50-ab84decceb6e.heic",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F036ET93ACT-acb84920f4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F036C123S4V",
+        "created": 1646900968,
+        "timestamp": 1646900968,
+        "name": "D5ABBE04-207E-418F-A6C8-AFCB019B657B.heic",
+        "title": "D5ABBE04-207E-418F-A6C8-AFCB019B657B.heic",
+        "mimetype": "image/heic",
+        "image_exif_rotation": 0,
+        "filetype": "heic",
+        "pretty_type": "HEIF",
+        "user": "U01QV1SQJ57",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2187030,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F036C123S4V-D5ABBE04-207E-418F-A6C8-AFCB019B657B.heic",
+        "url_private_download": "attachments/F036C123S4V-D5ABBE04-207E-418F-A6C8-AFCB019B657B.heic",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F036C123S4V-bea186b4a3/d5abbe04-207e-418f-a6c8-afcb019b657b_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F036C123S4V-bea186b4a3/d5abbe04-207e-418f-a6c8-afcb019b657b_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F036C123S4V-bea186b4a3/d5abbe04-207e-418f-a6c8-afcb019b657b_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F036C123S4V-bea186b4a3/d5abbe04-207e-418f-a6c8-afcb019b657b_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F036C123S4V-bea186b4a3/d5abbe04-207e-418f-a6c8-afcb019b657b_480.png",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F036C123S4V-bea186b4a3/d5abbe04-207e-418f-a6c8-afcb019b657b_720.png",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F036C123S4V-bea186b4a3/d5abbe04-207e-418f-a6c8-afcb019b657b_960.png",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F036C123S4V-bea186b4a3/d5abbe04-207e-418f-a6c8-afcb019b657b_1024.png",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F036C123S4V/d5abbe04-207e-418f-a6c8-afcb019b657b.heic",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F036C123S4V-9d5087047f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F036TFZL7BK",
+        "created": 1646900977,
+        "timestamp": 1646900977,
+        "name": "B6F52BD3-4EA5-4A4E-91BA-B6D062804ECA.heic",
+        "title": "B6F52BD3-4EA5-4A4E-91BA-B6D062804ECA.heic",
+        "mimetype": "image/heic",
+        "image_exif_rotation": 0,
+        "filetype": "heic",
+        "pretty_type": "HEIF",
+        "user": "U01QV1SQJ57",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2699263,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F036TFZL7BK-B6F52BD3-4EA5-4A4E-91BA-B6D062804ECA.heic",
+        "url_private_download": "attachments/F036TFZL7BK-B6F52BD3-4EA5-4A4E-91BA-B6D062804ECA.heic",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F036TFZL7BK-8dd91d7977/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F036TFZL7BK-8dd91d7977/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F036TFZL7BK-8dd91d7977/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F036TFZL7BK-8dd91d7977/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F036TFZL7BK-8dd91d7977/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F036TFZL7BK-8dd91d7977/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F036TFZL7BK-8dd91d7977/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F036TFZL7BK-8dd91d7977/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F036TFZL7BK/b6f52bd3-4ea5-4a4e-91ba-b6d062804eca.heic",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F036TFZL7BK-568307a5c5",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "icecream",
+        "count": 44,
+        "users": [
+          "U01R678KWP2",
+          "U01Q1KQ03PZ",
+          "U01QV28F01X",
+          "U01QGKCRNPM",
+          "U01PVEU7QKH",
+          "U02V5LRB5S5",
+          "U01QNMUAUKW",
+          "U02UJC5BU8P",
+          "U01QNSM488Z",
+          "U01QV1WAPL1",
+          "U01QGKCT067",
+          "U01Q1KFN4JK",
+          "U02V5LT2XFB",
+          "U02V5LS6USD",
+          "U01QV1SQJ57",
+          "U01QV1PBKUZ",
+          "U0302PLQ34Y",
+          "U01QAE5A9K5",
+          "U01QGKD09K5",
+          "U01QGJL6SP5",
+          "U01R719DKK2",
+          "U02UT2VBBR9",
+          "U01Q1KM0M3R",
+          "U02V5LRSE2V",
+          "U02V5LS84JV",
+          "U02UT1YNY6N",
+          "U02UT2U1PFV",
+          "U0302PKMR6C",
+          "U01QDANUYVB",
+          "U02UT2TFZ8B",
+          "U01PVEU1A07",
+          "U01QV28FG4R",
+          "U01Q75KNV1T",
+          "U01QGKC4BM1",
+          "U02V5LUDBAM",
+          "U02UVATUSLU",
+          "U01QNJ9BB60",
+          "U02UQ4BAMB7",
+          "U02ULBH3TEJ",
+          "U01PVET2C31",
+          "U02UT1XUGFL",
+          "U02P4QDPG2W",
+          "U02V5LT4DLZ",
+          "U0302PHUHME"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 29,
+        "users": [
+          "U01Q9KXMSF8",
+          "U01QGKCRNPM",
+          "U01QGJUT403",
+          "U01Q1KFN4JK",
+          "U02UVAUFSRJ",
+          "U02V5LS6USD",
+          "U01QV1PBKUZ",
+          "U02ULBHV58W",
+          "U01R719DKK2",
+          "U01Q1KM0M3R",
+          "U02V5LRSE2V",
+          "U02ULBJR9GE",
+          "U02V5LS84JV",
+          "U02UT1YNY6N",
+          "U02UT2U1PFV",
+          "U01PVEU1A07",
+          "U01QV28FG4R",
+          "U01Q75KNV1T",
+          "U01QGKC4BM1",
+          "U02UQ4CMR7X",
+          "U01QNJ9BB60",
+          "U02UQ4CHX3P",
+          "U02UT2VQ9NF",
+          "U01PVET2C31",
+          "U0302PK342C",
+          "U02P4QDPG2W",
+          "U01QNHRHY0L",
+          "U02V5LT4DLZ",
+          "U02UQ4BRJE9"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "17X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 석사과정 2기 김병찬입니다.\n\n박사과정 1기 황태현님을 대신해서 글을 올립니다!!!\n\n3층과 4층 탕비실에 아이스크림을 많이 넣어놨습니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n(설렉션, 말랑카우바, 찰떡아이스.. 등등이 있습니다!)\n\n최근 날씨가 더워지기도 하고 ㅎㅎ\n\n다음주에 자리 이동하시면서 출출하실 때 하나씩 드시면 좋을 거 같습니다!\n\n다들 이번 학기도 힘내세요!!!  "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\nSNU GSDS 화이팅!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

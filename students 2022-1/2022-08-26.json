@@ -1,0 +1,226 @@
+[
+  {
+    "client_msg_id": "a6e64b2a-d701-4058-ad06-c2f5f63e31d4",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "*[학생회] 2022학년도 2학기 자리 재배정 일정 안내* \n\n*일시: 8월 31일 오후 3시*\n\n*장소: 온라인 zoom (아래에 링크 제공)* \n\n*방법: 랜덤 알고리즘을 통한 무작위 추첨*\n\n\n학생회에서 알려드립니다.\n\n2022학년도 2학기를 맞이하여 자리 재배정 및 관련 일정을 미리 말씀드립니다.\n\n8월 30일(화)에 강의실 301호에 추가 좌석 30개가 더 들어오기로 되어 있습니다.\n(신규 좌석 배치 때 기타 물품(모니터, 스탠드, 멀티탭) 등은 반입이 약간 늦어질 수 있는 점은 양해 부탁드립니다. 301호에도 곧 공유기가 설치될 예정입니다.)\n\n*이에 따라 그 다음 날인 8월 31일 오후 3시에 자리 재배정을 랜덤 추첨으로 진행하고자 합니다.*\n\n*그리고 새학기가 시작되는 9월 1일(목)에 바로 자리 이동을 할 예정입니다.*\n*(이에 대해서는 차후에 보다 자세히 공지해드리겠습니다.)*\n\n\n참고로 운영위원회에서 재확인 및 결정한 재배정 원칙은 아래와 같습니다.\n\n• 박사후 연구원 제외 전원 랜덤으로 배정\n• 좌석 재배정 후 불가피한 상황에 따른 좌석 변경 요청이 들어올 경우에만 학생회 측에서 기타 좌석으로의 변경을 고려 및 중재함 \n• 좌석 재배정 후 상호간의 합의에 의한 자리 변경이 있을 경우 물품 관리를 위해 반드시 학생회 측에 변경 사항을 알릴 것  \n이상입니다. 자리 재배정 관련 일정을 참고하시어 자리 이동에 무리가 없도록 미리 준비해주시면 감사하겠습니다!",
+    "ts": "1661497511.188199",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 7,
+        "users": [
+          "U02ULBHV58W",
+          "U02UT2TFZ8B",
+          "U01PVEU1A07",
+          "U0302PLQ34Y",
+          "U0302PHUHME",
+          "U02P4QDPG2W",
+          "U02UQ4CHX3P"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WP=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[학생회] 2022학년도 2학기 자리 재배정 일정 안내 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "일시: 8월 31일 오후 3시",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "장소: 온라인 zoom (아래에 링크 제공) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "방법: 랜덤 알고리즘을 통한 무작위 추첨",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n학생회에서 알려드립니다.\n\n2022학년도 2학기를 맞이하여 자리 재배정 및 관련 일정을 미리 말씀드립니다.\n\n8월 30일(화)에 강의실 301호에 추가 좌석 30개가 더 들어오기로 되어 있습니다.\n(신규 좌석 배치 때 기타 물품(모니터, 스탠드, 멀티탭) 등은 반입이 약간 늦어질 수 있는 점은 양해 부탁드립니다. 301호에도 곧 공유기가 설치될 예정입니다.)\n\n"
+              },
+              {
+                "type": "text",
+                "text": "이에 따라 그 다음 날인 8월 31일 오후 3시에 자리 재배정을 랜덤 추첨으로 진행하고자 합니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "그리고 새학기가 시작되는 9월 1일(목)에 바로 자리 이동을 할 예정입니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "(이에 대해서는 차후에 보다 자세히 공지해드리겠습니다.)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n참고로 운영위원회에서 재확인 및 결정한 재배정 원칙은 아래와 같습니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc15\\uc0ac\\ud6c4 \\uc5f0\\uad6c\\uc6d0 \\uc81c\\uc678 \\uc804\\uc6d0 \\ub79c\\ub364\\uc73c\\ub85c \\ubc30\\uc815\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc88c\\uc11d \\uc7ac\\ubc30\\uc815 \\ud6c4 \\ubd88\\uac00\\ud53c\\ud55c \\uc0c1\\ud669\\uc5d0 \\ub530\\ub978 \\uc88c\\uc11d \\ubcc0\\uacbd \\uc694\\uccad\\uc774 \\ub4e4\\uc5b4\\uc62c \\uacbd\\uc6b0\\uc5d0\\ub9cc \\ud559\\uc0dd\\ud68c \\uce21\\uc5d0\\uc11c \\uae30\\ud0c0 \\uc88c\\uc11d\\uc73c\\ub85c\\uc758 \\ubcc0\\uacbd\\uc744 \\uace0\\ub824 \\ubc0f \\uc911\\uc7ac\\ud568 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc88c\\uc11d \\uc7ac\\ubc30\\uc815 \\ud6c4 \\uc0c1\\ud638\\uac04\\uc758 \\ud569\\uc758\\uc5d0 \\uc758\\ud55c \\uc790\\ub9ac \\ubcc0\\uacbd\\uc774 \\uc788\\uc744 \\uacbd\\uc6b0 \\ubb3c\\ud488 \\uad00\\ub9ac\\ub97c \\uc704\\ud574 \\ubc18\\ub4dc\\uc2dc \\ud559\\uc0dd\\ud68c \\uce21\\uc5d0 \\ubcc0\\uacbd \\uc0ac\\ud56d\\uc744 \\uc54c\\ub9b4 \\uac83  \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n이상입니다. 자리 재배정 관련 일정을 참고하시어 자리 이동에 무리가 없도록 미리 준비해주시면 감사하겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3abfd4ad-276e-407c-a48d-f46ac9a8ca9a",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "Zoom 회의 참가\n\u003chttps://snu-ac-kr.zoom.us/j/97425337460?pwd=SkExMEVKYnhUekNLL1RTVWgwZWdPQT09\u003e\n\n회의 ID: 974 2533 7460\n암호: 750304\n한 번의 탭으로 오디오 회의에 참가\n\u003ctel:+13462487799|+13462487799\u003e,,97425337460#,,,,*750304# 미국 (Houston)\n\u003ctel:+13863475053|+13863475053\u003e,,97425337460#,,,,*750304# 미국",
+    "ts": "1661497565.443039",
+    "edited": {
+      "user": "U01Q1KFN4JK",
+      "ts": "1661497984.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pIt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Zoom 회의 참가\n"
+              },
+              {
+                "type": "link",
+                "url": "https://snu-ac-kr.zoom.us/j/97425337460?pwd=SkExMEVKYnhUekNLL1RTVWgwZWdPQT09",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n회의 ID: 974 2533 7460\n암호: 750304\n한 번의 탭으로 오디오 회의에 참가\n"
+              },
+              {
+                "type": "link",
+                "url": "tel:+13462487799",
+                "text": "+13462487799"
+              },
+              {
+                "type": "text",
+                "text": ",,97425337460#,,,,*750304# 미국 (Houston)\n"
+              },
+              {
+                "type": "link",
+                "url": "tel:+13863475053",
+                "text": "+13863475053"
+              },
+              {
+                "type": "text",
+                "text": ",,97425337460#,,,,*750304# 미국"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

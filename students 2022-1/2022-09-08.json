@@ -1,0 +1,62 @@
+[
+  {
+    "type": "message",
+    "user": "U040ENMBB1C",
+    "text": "\u003c@U040ENMBB1C\u003e has joined the channel",
+    "ts": "1662609786.593819",
+    "subtype": "channel_join",
+    "inviter": "U01Q1KFN4JK",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-11/4194772773542_fc4d0df428680f769784_72.jpg",
+      "first_name": "Keon",
+      "real_name": "Keon Vin Park",
+      "display_name": "3.5기_박건빈",
+      "team": "T01QA5S537V",
+      "name": "kbpark16",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U041B24P34G",
+    "text": "\u003c@U041B24P34G\u003e has joined the channel",
+    "ts": "1662609811.595779",
+    "subtype": "channel_join",
+    "inviter": "U01Q1KFN4JK",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/187937d12a502b5be9ec44013625d6be.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "3.5기_한지훈",
+      "real_name": "3.5기_한지훈",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "joon7092",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,3288 @@
+[
+  {
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "\u003c@U01Q3A8TXU6\u003e has joined the channel",
+    "ts": "1632125210.000200",
+    "subtype": "channel_join",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "set the channel description: GSDS cluster 관련 공지 및 매뉴얼 배포를 위한 공간입니다. Cluster 관련 질문이나 소통을 위한 공간은 아니므로, 관련 질문은 연구실 별 클러스터 담당자에게 해주시기 바랍니다.",
+    "ts": "1632125211.000300",
+    "subtype": "channel_purpose",
+    "purpose": "GSDS cluster 관련 공지 및 매뉴얼 배포를 위한 공간입니다. Cluster 관련 질문이나 소통을 위한 공간은 아니므로, 관련 질문은 연구실 별 클러스터 담당자에게 해주시기 바랍니다.",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QAE573J7",
+    "text": "\u003c@U01QAE573J7\u003e has joined the channel",
+    "ts": "1632125394.000500",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "1기_안규수",
+      "real_name": "1기_안규수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kyusu.ahn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QAE5A9K5",
+    "text": "\u003c@U01QAE5A9K5\u003e has joined the channel",
+    "ts": "1632125404.000700",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "3기_손영준",
+      "real_name": "3기_손영준",
+      "display_name": "3기_손영준",
+      "team": "T01QA5S537V",
+      "name": "jun041577",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QEH02VGV",
+    "text": "\u003c@U01QEH02VGV\u003e has joined the channel",
+    "ts": "1632125814.000900",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/44821b748f3e1a9ddf00f3d9a8829c88.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "2기_안지용",
+      "real_name": "2기_안지용",
+      "display_name": "2기_안지용",
+      "team": "T01QA5S537V",
+      "name": "ahn718",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETMX2T",
+    "text": "\u003c@U01PVETMX2T\u003e has joined the channel",
+    "ts": "1632125814.001100",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a9240866dca95e1a60cd907be3bed8e1.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "1기_임재환",
+      "real_name": "1기_임재환",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "amethyst",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R688QZ16",
+    "text": "\u003c@U01R688QZ16\u003e has joined the channel",
+    "ts": "1632125815.001300",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9c7cfe8dcf90be8ba3486e0b50726da5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "4.5기_안지용",
+      "real_name": "4.5기_안지용",
+      "display_name": "4.5기_안지용",
+      "team": "T01QA5S537V",
+      "name": "an718",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "\u003c@U01R67PKD7S\u003e has joined the channel",
+    "ts": "1632125815.001500",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "\u003c@U01QV1SQJ57\u003e has joined the channel",
+    "ts": "1632125815.001800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q3EPDBAA",
+    "text": "\u003c@U01Q3EPDBAA\u003e has joined the channel",
+    "ts": "1632125815.002000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
+      "first_name": "Junbum",
+      "real_name": "Junbum Lee",
+      "display_name": "1기_이준범",
+      "team": "T01QA5S537V",
+      "name": "beomi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETQRRD",
+    "text": "\u003c@U01PVETQRRD\u003e has joined the channel",
+    "ts": "1632125815.002200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/0ba30ba67285974c6a31f084be27bbcd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "김석기",
+      "real_name": "김석기",
+      "display_name": "1기_김석기",
+      "team": "T01QA5S537V",
+      "name": "blaqdraq77",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSMC29X",
+    "text": "\u003c@U01QNSMC29X\u003e has joined the channel",
+    "ts": "1632125815.002400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-07-27/3879572966528_eefd9fa07e2f0ed0321b_72.jpg",
+      "first_name": "김예하",
+      "real_name": "김예하",
+      "display_name": "1.5기_김예하",
+      "team": "T01QA5S537V",
+      "name": "blueyeha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSM8WNM",
+    "text": "\u003c@U01QNSM8WNM\u003e has joined the channel",
+    "ts": "1632125815.002600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/b4dba8309495a0617276e01e73938c5e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "임보라",
+      "real_name": "임보라",
+      "display_name": "1기_임보라",
+      "team": "T01QA5S537V",
+      "name": "boralim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVET2C31",
+    "text": "\u003c@U01PVET2C31\u003e has joined the channel",
+    "ts": "1632125815.002800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "1기_장창섭",
+      "real_name": "1기_장창섭",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "charlie9007",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QA82PZFU",
+    "text": "\u003c@U01QA82PZFU\u003e has joined the channel",
+    "ts": "1632125815.003000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1819582613302_b6ba96946556be09c976_72.png",
+      "first_name": "dataofyou",
+      "real_name": "dataofyou",
+      "display_name": "1기_권예훈",
+      "team": "T01QA5S537V",
+      "name": "dataofyou",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R689L5KJ",
+    "text": "\u003c@U01R689L5KJ\u003e has joined the channel",
+    "ts": "1632125815.003200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1817838162567_d155dbe0ec1cbbbfe1f9_72.jpg",
+      "first_name": "임찬송",
+      "real_name": "임찬송",
+      "display_name": "2기_임찬송",
+      "team": "T01QA5S537V",
+      "name": "dlacksthd94",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNMUAUKW",
+    "text": "\u003c@U01QNMUAUKW\u003e has joined the channel",
+    "ts": "1632125815.003400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2b1495435b2113be4f58e565cb3a27ae.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "",
+      "real_name": "2기_김도균",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "dokyunkim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q75K2129",
+    "text": "\u003c@U01Q75K2129\u003e has joined the channel",
+    "ts": "1632125816.003600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/547913b677de0dff1bcc524a974f34c7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "",
+      "real_name": "1기_이세종",
+      "display_name": "1기_이세종",
+      "team": "T01QA5S537V",
+      "name": "genie23",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QV1TE2UR",
+    "text": "\u003c@U01QV1TE2UR\u003e has joined the channel",
+    "ts": "1632125816.003800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1845061592593_2e0cee650a22445613f3_72.png",
+      "first_name": "길광연",
+      "real_name": "길광연",
+      "display_name": "2기 길광연",
+      "team": "T01QA5S537V",
+      "name": "gil9103",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QA85T90A",
+    "text": "\u003c@U01QA85T90A\u003e has joined the channel",
+    "ts": "1632125816.004000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+      "first_name": "gundo0102",
+      "real_name": "gundo0102",
+      "display_name": "3기_박건도",
+      "team": "T01QA5S537V",
+      "name": "gundo0102",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "\u003c@U01Q1KFN4JK\u003e has joined the channel",
+    "ts": "1632125816.004200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q75K6FB7",
+    "text": "\u003c@U01Q75K6FB7\u003e has joined the channel",
+    "ts": "1632125816.004400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/ee3fc7a2d4db53b682dc3c169b4d8caf.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "1기_이인회",
+      "real_name": "1기_이인회",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "inhoelee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVEU4GMV",
+    "text": "\u003c@U01PVEU4GMV\u003e has joined the channel",
+    "ts": "1632125816.004600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/03643a686e46f4b2ef048c7e650bdcf3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+      "first_name": "1기_임재영",
+      "real_name": "1기_임재영",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "jaeyoung.rim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETJY87",
+    "text": "\u003c@U01PVETJY87\u003e has joined the channel",
+    "ts": "1632125816.004800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-04-21/3419350914099_f05e481936c6ff2eb723_72.png",
+      "first_name": "1기_정지원",
+      "real_name": "1기_정지원",
+      "display_name": "1기_정지원",
+      "team": "T01QA5S537V",
+      "name": "jiwon4j",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETPES3",
+    "text": "\u003c@U01PVETPES3\u003e has joined the channel",
+    "ts": "1632125816.005000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6d4af6f3e3e21d0a44226adf5e309361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "1기_박진원",
+      "real_name": "1기_박진원",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "jwpark127",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q75KNV1T",
+    "text": "\u003c@U01Q75KNV1T\u003e has joined the channel",
+    "ts": "1632125816.005200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1839499236017_e5a333503f5d47822279_72.jpg",
+      "first_name": "jwy4888",
+      "real_name": "jwy4888",
+      "display_name": "3기_장원영",
+      "team": "T01QA5S537V",
+      "name": "jwy4888",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R0307KEU",
+    "text": "\u003c@U01R0307KEU\u003e has joined the channel",
+    "ts": "1632125816.005400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826544690131_95406711f7e66c213a58_72.png",
+      "first_name": "KimEunhee",
+      "real_name": "KimEunhee",
+      "display_name": "1기_김은희",
+      "team": "T01QA5S537V",
+      "name": "kimhee96",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q3EP0E14",
+    "text": "\u003c@U01Q3EP0E14\u003e has joined the channel",
+    "ts": "1632125816.005600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826751142355_2e2bc6d04d608acbe86e_72.png",
+      "first_name": "김우중",
+      "real_name": "김우중",
+      "display_name": "1기_김우중",
+      "team": "T01QA5S537V",
+      "name": "kimwj94",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVEU1A07",
+    "text": "\u003c@U01PVEU1A07\u003e has joined the channel",
+    "ts": "1632125816.005800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "1기_남기성",
+      "real_name": "1기_남기성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kisung.nam",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q9KXMSF8",
+    "text": "\u003c@U01Q9KXMSF8\u003e has joined the channel",
+    "ts": "1632125817.006000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/ffbcc22a320d119bf23a35fdcd9e4d97.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+      "first_name": "김주은",
+      "real_name": "김주은",
+      "display_name": "2기_김주은",
+      "team": "T01QA5S537V",
+      "name": "kje980714",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVEU98KH",
+    "text": "\u003c@U01PVEU98KH\u003e has joined the channel",
+    "ts": "1632125817.006200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a7e39a3649eb0372be7b0330d3c40062.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "1기_채규욱",
+      "real_name": "1기_채규욱",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kwchai",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVEU7QKH",
+    "text": "\u003c@U01PVEU7QKH\u003e has joined the channel",
+    "ts": "1632125817.006400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826744330467_a78c63fa43a0d5672bbf_72.png",
+      "first_name": "3기_이준형",
+      "real_name": "3기_이준형",
+      "display_name": "3기_이준형",
+      "team": "T01QA5S537V",
+      "name": "lrainsoul",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSM5STT",
+    "text": "\u003c@U01QNSM5STT\u003e has joined the channel",
+    "ts": "1632125817.006600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-06/1836421447860_d2ff22f432fa2cd4f9b0_72.png",
+      "first_name": "김선유",
+      "real_name": "김선유",
+      "display_name": "3기_김선유",
+      "team": "T01QA5S537V",
+      "name": "meoignis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSMDGF3",
+    "text": "\u003c@U01QNSMDGF3\u003e has joined the channel",
+    "ts": "1632125817.006800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/359dc98921adc6a6f1279b431734408c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "박민혜",
+      "real_name": "박민혜",
+      "display_name": "1기_박민혜",
+      "team": "T01QA5S537V",
+      "name": "minhye11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q386CMKQ",
+    "text": "\u003c@U01Q386CMKQ\u003e has joined the channel",
+    "ts": "1632125817.007000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826260082339_3eb2f7686c0824cf17e0_72.jpg",
+      "first_name": "Na",
+      "real_name": "Na Yeon Kim",
+      "display_name": "1기_김나연",
+      "team": "T01QA5S537V",
+      "name": "nayeonkim1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSMG8JV",
+    "text": "\u003c@U01QNSMG8JV\u003e has joined the channel",
+    "ts": "1632125817.007200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/74197d2bc4d0746a6eef0ff3024dee67.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "서나래",
+      "real_name": "서나래",
+      "display_name": "1기_서나래",
+      "team": "T01QA5S537V",
+      "name": "nrseo730",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": "\u003c@U01QZRUNBA4\u003e has joined the channel",
+    "ts": "1632125817.007400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U02CR2RURLK",
+    "text": "\u003c@U02CR2RURLK\u003e has joined the channel",
+    "ts": "1632125817.007600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-08-29/2429872324373_9ec43ab0f5cc8acc04aa_72.png",
+      "first_name": "1기_유은이",
+      "real_name": "1기_유은이",
+      "display_name": "1기_유은이",
+      "team": "T01QA5S537V",
+      "name": "onlyou0416",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNHEAS0L",
+    "text": "\u003c@U01QNHEAS0L\u003e has joined the channel",
+    "ts": "1632125817.007800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1832629466243_2592ca4f42554cbd2e45_72.png",
+      "first_name": "박주연",
+      "real_name": "박주연",
+      "display_name": "2기_박주연",
+      "team": "T01QA5S537V",
+      "name": "pjy0562",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETHKF1",
+    "text": "\u003c@U01PVETHKF1\u003e has joined the channel",
+    "ts": "1632125817.008000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/be84ebc6ca5da495140ae8afe5d15b50.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "CheHyun",
+      "real_name": "CheHyun Lee",
+      "display_name": "1기_이채현",
+      "team": "T01QA5S537V",
+      "name": "saga1214",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q1KM0M3R",
+    "text": "\u003c@U01Q1KM0M3R\u003e has joined the channel",
+    "ts": "1632125817.008200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1817667132535_f88779fead6aacc062af_72.png",
+      "first_name": "sha17",
+      "real_name": "sha17",
+      "display_name": "2기_하성수",
+      "team": "T01QA5S537V",
+      "name": "sha17",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSKMEDP",
+    "text": "\u003c@U01QNSKMEDP\u003e has joined the channel",
+    "ts": "1632125817.008400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1817564694615_9c2fcfe3c613e19d0cbd_72.png",
+      "first_name": "silkyday",
+      "real_name": "silkyday",
+      "display_name": "1기_강동식",
+      "team": "T01QA5S537V",
+      "name": "silkyday",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSMEY0Z",
+    "text": "\u003c@U01QNSMEY0Z\u003e has joined the channel",
+    "ts": "1632125818.008600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-19/1885230055892_cd1a381e6e3c941511a5_72.png",
+      "first_name": "simonjisu",
+      "real_name": "simonjisu",
+      "display_name": "1기_장지수",
+      "team": "T01QA5S537V",
+      "name": "simonjisu",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVEU69BR",
+    "text": "\u003c@U01PVEU69BR\u003e has joined the channel",
+    "ts": "1632125818.008800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/34652aec90b036461f033a7a91a92f83.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "1기_김장호",
+      "real_name": "1기_김장호",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "smkjh1028",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QAE58QV9",
+    "text": "\u003c@U01QAE58QV9\u003e has joined the channel",
+    "ts": "1632125818.009000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/b24a18f76cc0819a5332e88a6c2ce918.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "Junho",
+      "real_name": "Junho Min",
+      "display_name": "1기_민준호",
+      "team": "T01QA5S537V",
+      "name": "snu11mjh",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGJUT403",
+    "text": "\u003c@U01QGJUT403\u003e has joined the channel",
+    "ts": "1632125818.009200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/7dd1ebe9e10651b4e9a6551ae387e8fa.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "이소람",
+      "real_name": "이소람",
+      "display_name": "2기_이소람",
+      "team": "T01QA5S537V",
+      "name": "soram1006",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QAE5BVEX",
+    "text": "\u003c@U01QAE5BVEX\u003e has joined the channel",
+    "ts": "1632125818.009400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1830102632611_08691f2604aa6ac50218_72.jpg",
+      "first_name": "송재헌",
+      "real_name": "송재헌",
+      "display_name": "3기_송재헌",
+      "team": "T01QA5S537V",
+      "name": "steve2972",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSM488Z",
+    "text": "\u003c@U01QNSM488Z\u003e has joined the channel",
+    "ts": "1632125818.009600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "1기_황태현",
+      "real_name": "1기_황태현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "th.hwang",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QDANUYVB",
+    "text": "\u003c@U01QDANUYVB\u003e has joined the channel",
+    "ts": "1632125818.009800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
+      "first_name": "박성찬",
+      "real_name": "박성찬",
+      "display_name": "2기_박성찬",
+      "team": "T01QA5S537V",
+      "name": "warld2234",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QUKKQ8GH",
+    "text": "\u003c@U01QUKKQ8GH\u003e has joined the channel",
+    "ts": "1632125819.010000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김호현",
+      "real_name": "김호현",
+      "display_name": "2기_김호현",
+      "team": "T01QA5S537V",
+      "name": "waterdream",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSMAC0H",
+    "text": "\u003c@U01QNSMAC0H\u003e has joined the channel",
+    "ts": "1632125819.010200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1838922907601_22e2a9b754527829a456_72.png",
+      "first_name": "Jiyun",
+      "real_name": "Jiyun Kim",
+      "display_name": "1기_김지윤",
+      "team": "T01QA5S537V",
+      "name": "wimara28",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETSAGP",
+    "text": "\u003c@U01PVETSAGP\u003e has joined the channel",
+    "ts": "1632125819.010400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/93ad8ed3d2e5c35f1c08105efac0d1ff.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "1기_백유빈",
+      "real_name": "1기_백유빈",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "banca321",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKC5W03",
+    "text": "\u003c@U01QGKC5W03\u003e has joined the channel",
+    "ts": "1632125819.010700",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/37c05aabef91904d96e1dfc4bd8def4c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "김태한",
+      "real_name": "김태한",
+      "display_name": "2기_김태한",
+      "team": "T01QA5S537V",
+      "name": "bigflag07",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U02B19BV9ST",
+    "text": "\u003c@U02B19BV9ST\u003e has joined the channel",
+    "ts": "1632125819.010900",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-08-17/2402666635569_1c76cb8caca5e57b9783_72.png",
+      "first_name": "Peter",
+      "real_name": "Peter Kang",
+      "display_name": "2기_강창훈",
+      "team": "T01QA5S537V",
+      "name": "chkang96",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKCUAJX",
+    "text": "\u003c@U01QGKCUAJX\u003e has joined the channel",
+    "ts": "1632125819.011100",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856850722064_b0db75079ec8fe5ad451_72.png",
+      "first_name": "2기_조민수",
+      "real_name": "2기_조민수",
+      "display_name": "2기_조민수",
+      "team": "T01QA5S537V",
+      "name": "chominsoo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGGBLAGJ",
+    "text": "\u003c@U01QGGBLAGJ\u003e has joined the channel",
+    "ts": "1632125819.011300",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838722982628_8065960761890fcb0206_72.png",
+      "first_name": "chominsoo",
+      "real_name": "chominsoo",
+      "display_name": "2기_조민수 (snu이메일)",
+      "team": "T01QA5S537V",
+      "name": "chominsoo323",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QV2RMT17",
+    "text": "\u003c@U01QV2RMT17\u003e has joined the channel",
+    "ts": "1632125819.011600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/d964473ece03ce02f543e5dd0c5ff5eb.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "dayeon36",
+      "real_name": "dayeon36",
+      "display_name": "2기_강다연",
+      "team": "T01QA5S537V",
+      "name": "dayeon36",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QZ0NQW5P",
+    "text": "\u003c@U01QZ0NQW5P\u003e has joined the channel",
+    "ts": "1632125819.011800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1849022894193_871d4d8d54a9dd69ef3f_72.png",
+      "first_name": "박은지",
+      "real_name": "박은지",
+      "display_name": "2기_박은지",
+      "team": "T01QA5S537V",
+      "name": "dmswl4743",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKD09K5",
+    "text": "\u003c@U01QGKD09K5\u003e has joined the channel",
+    "ts": "1632125820.012200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "어경선",
+      "real_name": "어경선",
+      "display_name": "2기_어경선",
+      "team": "T01QA5S537V",
+      "name": "eks104",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q9KXJWB0",
+    "text": "\u003c@U01Q9KXJWB0\u003e has joined the channel",
+    "ts": "1632125820.012400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f994450d5f819f558e80687c7c93d87b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "이상호",
+      "real_name": "이상호",
+      "display_name": "2기_이상호",
+      "team": "T01QA5S537V",
+      "name": "ethan35.lee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QV1PBKUZ",
+    "text": "\u003c@U01QV1PBKUZ\u003e has joined the channel",
+    "ts": "1632125820.012700",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-15/1865580143060_c8cd9db7c1c2f4d45cd7_72.jpg",
+      "first_name": "황예진",
+      "real_name": "황예진",
+      "display_name": "2기_황예진",
+      "team": "T01QA5S537V",
+      "name": "evergreen97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNJ9E6NQ",
+    "text": "\u003c@U01QNJ9E6NQ\u003e has joined the channel",
+    "ts": "1632125820.012900",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-08-03/2338296047093_f9a79269dd543a5d97d0_72.jpg",
+      "first_name": "",
+      "real_name": "Kwangyeon Gill",
+      "display_name": "Kwangyeon Gill",
+      "team": "T01QA5S537V",
+      "name": "gil9103837",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q9KJL8MC",
+    "text": "\u003c@U01Q9KJL8MC\u003e has joined the channel",
+    "ts": "1632125820.013200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a8613218496bf84cd2b1198922a5d1be.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "2기_김희수",
+      "real_name": "2기_김희수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "heuisujkim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R688KH6U",
+    "text": "\u003c@U01R688KH6U\u003e has joined the channel",
+    "ts": "1632125820.013500",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856666043424_601cbefeb1a52cb932f2_72.png",
+      "first_name": "2기_이윤섭",
+      "real_name": "2기_이윤섭",
+      "display_name": "2기_이윤섭",
+      "team": "T01QA5S537V",
+      "name": "iyunseob4",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETV83H",
+    "text": "\u003c@U01PVETV83H\u003e has joined the channel",
+    "ts": "1632125820.013700",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1832466060148_1534da1d255f371f185a_72.png",
+      "first_name": "James",
+      "real_name": "James Chang",
+      "display_name": "1기_장재원",
+      "team": "T01QA5S537V",
+      "name": "jaewon415",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U02BD3EV4DQ",
+    "text": "\u003c@U02BD3EV4DQ\u003e has joined the channel",
+    "ts": "1632125820.013900",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/947eb2a69263f1ae57843b4fac0f1b83.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "2기_문정현",
+      "real_name": "2기_문정현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "jake122297",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGJL6SP5",
+    "text": "\u003c@U01QGJL6SP5\u003e has joined the channel",
+    "ts": "1632125821.014100",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6a94f58f0bc82e36189ce7d8731cd6ce.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "이중규",
+      "real_name": "이중규",
+      "display_name": "4기_이중규",
+      "team": "T01QA5S537V",
+      "name": "jklee0717",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U02C3D2T0BS",
+    "text": "\u003c@U02C3D2T0BS\u003e has joined the channel",
+    "ts": "1632125821.014300",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/79ae2bfc5eb9eaeca53e5d2c9cc10831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "이준호",
+      "real_name": "이준호",
+      "display_name": "2기_이준호",
+      "team": "T01QA5S537V",
+      "name": "joon2003",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKCJY3V",
+    "text": "\u003c@U01QGKCJY3V\u003e has joined the channel",
+    "ts": "1632125821.014600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-09/1832883021829_d1e05b33d7b5a1622906_72.jpg",
+      "first_name": "김태경",
+      "real_name": "김태경",
+      "display_name": "2기_김태경",
+      "team": "T01QA5S537V",
+      "name": "kim.taekyoung",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKCT067",
+    "text": "\u003c@U01QGKCT067\u003e has joined the channel",
+    "ts": "1632125821.014800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c6966545056a08d1f4311a48cc662172.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "2기_김주현",
+      "real_name": "2기_김주현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kimjoohyoen",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QUKKQVS5",
+    "text": "\u003c@U01QUKKQVS5\u003e has joined the channel",
+    "ts": "1632125821.015000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1e5e782004a0824035db36ac4db4bb10.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "",
+      "real_name": "kjw900106",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kjw900106",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QV1WAPL1",
+    "text": "\u003c@U01QV1WAPL1\u003e has joined the channel",
+    "ts": "1632125821.015200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1825660672566_06f8689d1fa538401ca7_72.jpg",
+      "first_name": "Jongwon",
+      "real_name": "Jongwon Kim",
+      "display_name": "2기_김종원",
+      "team": "T01QA5S537V",
+      "name": "kjwon21",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q1KQ03PZ",
+    "text": "\u003c@U01Q1KQ03PZ\u003e has joined the channel",
+    "ts": "1632125821.015400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/010193c5f7cb49d3aa32f5edfe958a80.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "심규태",
+      "real_name": "심규태",
+      "display_name": "2기_심규태",
+      "team": "T01QA5S537V",
+      "name": "ktshim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R678KWP2",
+    "text": "\u003c@U01R678KWP2\u003e has joined the channel",
+    "ts": "1632125821.015700",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
+      "first_name": "조동규",
+      "real_name": "조동규",
+      "display_name": "2기_조동규",
+      "team": "T01QA5S537V",
+      "name": "kulupapa1127",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R719DKK2",
+    "text": "\u003c@U01R719DKK2\u003e has joined the channel",
+    "ts": "1632125821.016000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1830130142149_2a7ef82e3f4173451b1c_72.jpg",
+      "first_name": "나두리",
+      "real_name": "나두리",
+      "display_name": "2기_나두리",
+      "team": "T01QA5S537V",
+      "name": "ndr0419",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q1KSQT1D",
+    "text": "\u003c@U01Q1KSQT1D\u003e has joined the channel",
+    "ts": "1632125822.016200",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/584434049821cd020994e3e384829d15.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "2기_박은재",
+      "real_name": "2기_박은재",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "parkej951",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNHRHY0L",
+    "text": "\u003c@U01QNHRHY0L\u003e has joined the channel",
+    "ts": "1632125822.016400",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829350392565_25a1f5ab808bbd53f949_72.png",
+      "first_name": "Seung",
+      "real_name": "Seung Joon Park",
+      "display_name": "2기_박승준",
+      "team": "T01QA5S537V",
+      "name": "parksoonjune",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGCLCLRY",
+    "text": "\u003c@U01QGCLCLRY\u003e has joined the channel",
+    "ts": "1632125822.016600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/46f739e0fd47e6ed43c2d888839f245e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "동희진",
+      "real_name": "동희진",
+      "display_name": "2기_동희진",
+      "team": "T01QA5S537V",
+      "name": "primary_dong",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R688N9BJ",
+    "text": "\u003c@U01R688N9BJ\u003e has joined the channel",
+    "ts": "1632125822.016800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+      "first_name": "Jinwoong",
+      "real_name": "Jinwoong Kim",
+      "display_name": "2기_김진웅",
+      "team": "T01QA5S537V",
+      "name": "qazcde.k",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGG6A5LJ",
+    "text": "\u003c@U01QGG6A5LJ\u003e has joined the channel",
+    "ts": "1632125822.017000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1845178163313_ec8016a9186a6e00037d_72.png",
+      "first_name": "2기_정석호",
+      "real_name": "2기_정석호",
+      "display_name": "2기_정석호",
+      "team": "T01QA5S537V",
+      "name": "seokho92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QV28FG4R",
+    "text": "\u003c@U01QV28FG4R\u003e has joined the channel",
+    "ts": "1632125822.017300",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a722d3759ab2de407f43776dcdd8f9af.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "Seoyoung",
+      "real_name": "Seoyoung Lee",
+      "display_name": "2기_이서영",
+      "team": "T01QA5S537V",
+      "name": "seoyoung1215",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01Q9KXLH7Y",
+    "text": "\u003c@U01Q9KXLH7Y\u003e has joined the channel",
+    "ts": "1632125822.017600",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-06-28/2223215238452_c8982ba562686cde096e_72.png",
+      "first_name": "",
+      "real_name": "park sungchan",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "shawnpark5605",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c@U01QNJ7PWRX\u003e has joined the channel",
+    "ts": "1632125822.017800",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKCRNPM",
+    "text": "\u003c@U01QGKCRNPM\u003e has joined the channel",
+    "ts": "1632125822.018000",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856445839408_bfd036d28a4ec872295f_72.png",
+      "first_name": "박수연",
+      "real_name": "박수연",
+      "display_name": "2기_박수연",
+      "team": "T01QA5S537V",
+      "name": "soopark0221",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QDA36FJR",
+    "text": "\u003c@U01QDA36FJR\u003e has joined the channel",
+    "ts": "1632125823.018300",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3447a3bb6101a995f163b5fc40f66865.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "손성욱",
+      "real_name": "손성욱",
+      "display_name": "2기_손성욱",
+      "team": "T01QA5S537V",
+      "name": "sungwookson",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QDA01NN9",
+    "text": "\u003c@U01QDA01NN9\u003e has joined the channel",
+    "ts": "1632125823.018500",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
+      "first_name": "Young",
+      "real_name": "Young Chung",
+      "display_name": "2기_정채영",
+      "team": "T01QA5S537V",
+      "name": "thisisyoung21",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01SXEG547P",
+    "text": "\u003c@U01SXEG547P\u003e has joined the channel",
+    "ts": "1632125823.018700",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/25494367b84a10150de0834611c85d0a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "1기_최지인",
+      "real_name": "1기_최지인",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "wisecat",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QUKKMVBK",
+    "text": "\u003c@U01QUKKMVBK\u003e has joined the channel",
+    "ts": "1632125823.018900",
+    "subtype": "channel_join",
+    "inviter": "U01QAE573J7",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f3ef663beba67d52870ea789e954a7fc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "wizgm2010",
+      "real_name": "wizgm2010",
+      "display_name": "Chaeyoung",
+      "team": "T01QA5S537V",
+      "name": "wizgm2010",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETLHU7",
+    "text": "\u003c@U01PVETLHU7\u003e has joined the channel",
+    "ts": "1632126034.019200",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/763a0fda748e573399fcfceaea911c10.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "Seuk",
+      "real_name": "Seuk in Jun",
+      "display_name": "1기_전석인",
+      "team": "T01QA5S537V",
+      "name": "wjstjrd1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVEU3007",
+    "text": "\u003c@U01PVEU3007\u003e has joined the channel",
+    "ts": "1632126034.019400",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/44ce60d9ca2626a0380db11d1d70fc00.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "최영은",
+      "real_name": "최영은",
+      "display_name": "1기_최영은",
+      "team": "T01QA5S537V",
+      "name": "yechoi7",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QAE5DERZ",
+    "text": "\u003c@U01QAE5DERZ\u003e has joined the channel",
+    "ts": "1632126034.019700",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-09/1847548809364_34c58a403222aee8100b_72.png",
+      "first_name": "1기_장우석",
+      "real_name": "1기_장우석",
+      "display_name": "1기_장우석",
+      "team": "T01QA5S537V",
+      "name": "wscwsc92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGD03WUC",
+    "text": "\u003c@U01QGD03WUC\u003e has joined the channel",
+    "ts": "1632126034.019900",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1850465314224_d80690ecb59c4004c2a6_72.png",
+      "first_name": "woochulee",
+      "real_name": "woochulee",
+      "display_name": "1기_이우철",
+      "team": "T01QA5S537V",
+      "name": "woochulee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGD17SUU",
+    "text": "\u003c@U01QGD17SUU\u003e has joined the channel",
+    "ts": "1632126034.020100",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f1fd9a5527c7c5f0cc0e1b674dff08f0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Yesong",
+      "real_name": "Yesong Choe",
+      "display_name": "1기_최예송",
+      "team": "T01QA5S537V",
+      "name": "yesong",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKC33BM",
+    "text": "\u003c@U01QGKC33BM\u003e has joined the channel",
+    "ts": "1632126034.020300",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2dfdd2ce6c0bb3fb4e7dc4b5f2e8112f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "4.5기_전예지",
+      "real_name": "4.5기_전예지",
+      "display_name": "4.5기_전예지",
+      "team": "T01QA5S537V",
+      "name": "yejichun",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKC4BM1",
+    "text": "\u003c@U01QGKC4BM1\u003e has joined the channel",
+    "ts": "1632126034.020500",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1825742890934_20ad4d4658d40944932f_72.png",
+      "first_name": "yuria1275",
+      "real_name": "yuria1275",
+      "display_name": "2기_박지수",
+      "team": "T01QA5S537V",
+      "name": "yuria1275",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNJ98FA8",
+    "text": "\u003c@U01QNJ98FA8\u003e has joined the channel",
+    "ts": "1632126035.020700",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/55f3d427dbb5a6156e6d28622911b46f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "2기_강제원",
+      "real_name": "2기_강제원",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "zunejw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNJ9BB60",
+    "text": "\u003c@U01QNJ9BB60\u003e has joined the channel",
+    "ts": "1632126035.020900",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c8c3ce1033ad6c47b2976c54fc57a136.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "2기_서아름",
+      "real_name": "2기_서아름",
+      "display_name": "2기_서아름",
+      "team": "T01QA5S537V",
+      "name": "yyyt463",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNSM7H09",
+    "text": "\u003c@U01QNSM7H09\u003e has joined the channel",
+    "ts": "1632126035.021100",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8eeb85eaf31bad5eba01bdb9c12f2ae1.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "",
+      "real_name": "이경민",
+      "display_name": "이경민",
+      "team": "T01QA5S537V",
+      "name": "zmfflrgoqhk",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QV28F01X",
+    "text": "\u003c@U01QV28F01X\u003e has joined the channel",
+    "ts": "1632126035.021300",
+    "subtype": "channel_join",
+    "inviter": "U01Q3A8TXU6",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/b6bc5cf9640275389d0def700f0acea5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "2기_최유림",
+      "real_name": "2기_최유림",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "yrchoi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "50cdc123-2d1d-4447-a005-6a278f472ec6",
+    "type": "message",
+    "user": "U01QAE573J7",
+    "text": "안녕하세요. GSDS Cluster 관리자입니다.\n\n본 채널은 매뉴얼 공유, 클러스터 관련 공지를 위한 일방향 소통 채널입니다.\n클러스터 관련 질문 등은 각 연구실 별 클러스터 담당자에게 해주시기 바랍니다.\n\n아울러 서버 개편 작업이 마무리 단계에 있으며, 9/23(목) 오후 중 정식 서비스 오픈 예정입니다.\n유저 사용 레벨에서 변경 사항이 상당 부분 있으며, 매뉴얼이 금명일 간 본 채널을 통해 공유될 예정입니다.\n\n며칠 후 예정된 논자시 응시자 분들이 사전에 매뉴얼을 보실 수 있도록 미리 공유드리고,\n설명회는 사전에 공지된대로 9/28(화) 17시에 진행 예정입니다.\n\n신청하신 신규 계정은 서버 정식 서비스 오픈 전에 개별 메일로 공지될 예정입니다.\n아직 신청하지 못한 분은 지금 즉시 신청해주시기 바랍니다.\n향후에는 계정 생성을 매주 금요일에만 진행할 예정입니다.\n\nGSDS Cluster 관리자 드림.",
+    "ts": "1632126322.024600",
+    "edited": {
+      "user": "U01QAE573J7",
+      "ts": "1632128608.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 16,
+        "users": [
+          "U01Q386CMKQ",
+          "U01PVEU69BR",
+          "U01R67PKD7S",
+          "U01PVEU4GMV",
+          "U01R719DKK2",
+          "U01QV1WAPL1",
+          "U01QNSMC29X",
+          "U01QA85T90A",
+          "U01PVEU1A07",
+          "U01QGD03WUC",
+          "U01PVET2C31",
+          "U01QGKD09K5",
+          "U01QAE5DERZ",
+          "U01QGG6A5LJ",
+          "U01R688QZ16",
+          "U01Q75KNV1T"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 5,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01PVEU1A07",
+          "U01R0307KEU",
+          "U01PVET2C31",
+          "U01Q75KNV1T"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wZs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. GSDS Cluster 관리자입니다.\n\n본 채널은 매뉴얼 공유, 클러스터 관련 공지를 위한 일방향 소통 채널입니다.\n클러스터 관련 질문 등은 각 연구실 별 클러스터 담당자에게 해주시기 바랍니다.\n\n아울러 서버 개편 작업이 마무리 단계에 있으며, 9/23(목) 오후 중 정식 서비스 오픈 예정입니다.\n유저 사용 레벨에서 변경 사항이 상당 부분 있으며, 매뉴얼이 금명일 간 본 채널을 통해 공유될 예정입니다.\n\n며칠 후 예정된 논자시 응시자 분들이 사전에 매뉴얼을 보실 수 있도록 미리 공유드리고,\n설명회는 사전에 공지된대로 9/28(화) 17시에 진행 예정입니다.\n\n신청하신 신규 계정은 서버 정식 서비스 오픈 전에 개별 메일로 공지될 예정입니다.\n아직 신청하지 못한 분은 지금 즉시 신청해주시기 바랍니다.\n향후에는 계정 생성을 매주 금요일에만 진행할 예정입니다.\n\nGSDS Cluster 관리자 드림."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "1기_안규수",
+      "real_name": "1기_안규수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kyusu.ahn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QAE573J7",
+    "text": "*\u0026lt;GSDS Cluster Manual V1.0 배포\u0026gt;*\n• 2021. 09. 서버 포맷 및 개편 후 작성한 최초 버전\n• 주요 내용: \n    ◦ 개편 서버 현황 및 정책\n    ◦ Slurm, Jupyter 사용 방법\n• 연구실 별 서버 담당자는 향후 매뉴얼 배포 시 랩 전체 공유해주시기 바랍니다.\n    ◦ 사유: Slack에는 교수님들과 GSDS 외부의 연구원이 포함되어 있지 않음\n• 금번 서버 포맷은 서버 외부 침입으로 인하여 중앙 전산원으로부터 권고 받아 진행된 만큼, 각자의 계정 보안 유지 (철저한 비밀번호, 외부인 대여 금지)에 만전을 기해주시기 바랍니다. *개인의 보안 유지가 곧 우리 대학원 전체 연구 데이터에 대한 보안과 직결됨을 인지해주시기 바랍니다.* ",
+    "ts": "1632139930.030200",
+    "edited": {
+      "user": "U01QAE573J7",
+      "ts": "1632142143.000000"
+    },
+    "files": [
+      {
+        "id": "F02FPAM0272",
+        "created": 1632139899,
+        "timestamp": 1632139899,
+        "name": "패스워드선택및이용가이드.pdf",
+        "title": "패스워드선택및이용가이드.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QAE573J7",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2637872,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02FPAM0272-패스워드선택및이용가이드.pdf",
+        "url_private_download": "attachments/F02FPAM0272-패스워드선택및이용가이드.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QAE573J7/F02FPAM0272/____________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02FPAM0272-1a5dfa2c8f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F02FPALBUGG",
+        "created": 0,
+        "timestamp": 0,
+        "name": "",
+        "title": "",
+        "mimetype": "",
+        "image_exif_rotation": 0,
+        "filetype": "",
+        "pretty_type": "",
+        "user": "",
+        "mode": "tombstone",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 0,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02FPALBUGG-",
+        "url_private_download": "attachments/F02FPALBUGG-",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "",
+        "permalink_public": "",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 12,
+        "users": [
+          "U01QGD03WUC",
+          "U01R0307KEU",
+          "U01PVEU4GMV",
+          "U01QV1WAPL1",
+          "U01PVET2C31",
+          "U01QGKD09K5",
+          "U01QNJ7PWRX",
+          "U01QAE5DERZ",
+          "U01QDA36FJR",
+          "U01R688QZ16",
+          "U01PVEU98KH",
+          "U01R688KH6U"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 5,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01R0307KEU",
+          "U01PVEU4GMV",
+          "U01PVET2C31",
+          "U01R688QZ16"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WC1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003cGSDS Cluster Manual V1.0 배포\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2021. 09. \\uc11c\\ubc84 \\ud3ec\\ub9f7 \\ubc0f \\uac1c\\ud3b8 \\ud6c4 \\uc791\\uc131\\ud55c \\ucd5c\\ucd08 \\ubc84\\uc804\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc694 \\ub0b4\\uc6a9: \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\ud3b8 \\uc11c\\ubc84 \\ud604\\ud669 \\ubc0f \\uc815\\ucc45\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Slurm, Jupyter \\uc0ac\\uc6a9 \\ubc29\\ubc95\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5f0\\uad6c\\uc2e4 \\ubcc4 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\ub294 \\ud5a5\\ud6c4 \\ub9e4\\ub274\\uc5bc \\ubc30\\ud3ec \\uc2dc \\ub7a9 \\uc804\\uccb4 \\uacf5\\uc720\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc720: Slack\\uc5d0\\ub294 \\uad50\\uc218\\ub2d8\\ub4e4\\uacfc GSDS \\uc678\\ubd80\\uc758 \\uc5f0\\uad6c\\uc6d0\\uc774 \\ud3ec\\ud568\\ub418\\uc5b4 \\uc788\\uc9c0 \\uc54a\\uc74c\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae08\\ubc88 \\uc11c\\ubc84 \\ud3ec\\ub9f7\\uc740 \\uc11c\\ubc84 \\uc678\\ubd80 \\uce68\\uc785\\uc73c\\ub85c \\uc778\\ud558\\uc5ec \\uc911\\uc559 \\uc804\\uc0b0\\uc6d0\\uc73c\\ub85c\\ubd80\\ud130 \\uad8c\\uace0 \\ubc1b\\uc544 \\uc9c4\\ud589\\ub41c \\ub9cc\\ud07c, \\uac01\\uc790\\uc758 \\uacc4\\uc815 \\ubcf4\\uc548 \\uc720\\uc9c0 (\\ucca0\\uc800\\ud55c \\ube44\\ubc00\\ubc88\\ud638, \\uc678\\ubd80\\uc778 \\ub300\\uc5ec \\uae08\\uc9c0)\\uc5d0 \\ub9cc\\uc804\\uc744 \\uae30\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. \"},{\"type\":\"text\",\"text\":\"\\uac1c\\uc778\\uc758 \\ubcf4\\uc548 \\uc720\\uc9c0\\uac00 \\uace7 \\uc6b0\\ub9ac \\ub300\\ud559\\uc6d0 \\uc804\\uccb4 \\uc5f0\\uad6c \\ub370\\uc774\\ud130\\uc5d0 \\ub300\\ud55c \\ubcf4\\uc548\\uacfc \\uc9c1\\uacb0\\ub428\\uc744 \\uc778\\uc9c0\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. \",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "1기_안규수",
+      "real_name": "1기_안규수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kyusu.ahn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

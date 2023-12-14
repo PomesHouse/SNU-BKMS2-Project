@@ -1,0 +1,153 @@
+[
+  {
+    "client_msg_id": "9bc9dfbd-6ec4-4f5e-b91d-69a2080fd716",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;2023년 제3회 중앙도서관 연구력 강화 워크숍 개최 안내\u0026gt;*\n중앙도서관은 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위해 연구력 강화 워크숍을 다음과 같이 오프라인으로 개최함을 안내드리오니 관심 있는 구성원은 참여 바랍니다.\n  가. 제 목: *[오프라인]* 2023년 제3회 중앙도서관 연구력 강화 워크숍 - 과학 출판에서의 ChatGPT 등 AI툴 활용\n  나. 일 시: 2023. 6. 15.(목) 15:00 ~ 16:30\n  다. 참여방법: *온라인 사전 신청(필수) 후, 시간에 맞추어 교육장 내 착석*\n     ※사전신청 URL: \u003chttps://url.kr/w3cgp7\u003e\n  라. 강 사: Henrik Rudolph(Editor-in-chief, Applied Surface Science of Elsevier)\n  마. 세부내용\n    - AI툴의 장단점: 문헌 검토, 요약, 언어 편집 지원 기능 포함\n    - 저자권(Authorship)의 문제\n    - AI가 과학 논문의 저자로 간주될 수 있는지에 대한 논쟁\n    - 다양한 예시 및 연구 사례를 통해 파악하는 AI 활용 과학 출판의 현 상황",
+    "ts": "1685405506.884429",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1685405522.000000"
+    },
+    "files": [
+      {
+        "id": "F059T0L263G",
+        "created": 1685405462,
+        "timestamp": 1685405462,
+        "name": "2023년 제3회 중앙도서관 연구력 강화 워크숍 홍보 이미지(QR코드 포함).jpg",
+        "title": "2023년 제3회 중앙도서관 연구력 강화 워크숍 홍보 이미지(QR코드 포함).jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 166450,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F059T0L263G-2023년 제3회 중앙도서관 연구력 강화 워크숍 홍보 이미지(QR코드 포함).jpg",
+        "url_private_download": "attachments/F059T0L263G-2023년 제3회 중앙도서관 연구력 강화 워크숍 홍보 이미지(QR코드 포함).jpg",
+        "original_h": 1260,
+        "original_w": 891,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F059T0L263G-a996aafb8d/2023_______3________________________________________________________________qr_______________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F059T0L263G-a996aafb8d/2023_______3________________________________________________________________qr_______________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F059T0L263G-a996aafb8d/2023_______3________________________________________________________________qr_______________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F059T0L263G-a996aafb8d/2023_______3________________________________________________________________qr_______________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 255,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F059T0L263G-a996aafb8d/2023_______3________________________________________________________________qr_______________480.jpg",
+        "thumb_480_w": 339,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F059T0L263G-a996aafb8d/2023_______3________________________________________________________________qr_______________720.jpg",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F059T0L263G-a996aafb8d/2023_______3________________________________________________________________qr_______________960.jpg",
+        "thumb_960_w": 679,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F059T0L263G-a996aafb8d/2023_______3________________________________________________________________qr_______________1024.jpg",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F059T0L263G/2023_______3________________________________________________________________qr______________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F059T0L263G-656cd6b970",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Zk4Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023년 제3회 중앙도서관 연구력 강화 워크숍 개최 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n중앙도서관은 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위해 연구력 강화 워크숍을 다음과 같이 오프라인으로 개최함을 안내드리오니 관심 있는 구성원은 참여 바랍니다.\n  가. 제 목: "
+              },
+              {
+                "type": "text",
+                "text": "[오프라인]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 2023년 제3회 중앙도서관 연구력 강화 워크숍 - 과학 출판에서의 ChatGPT 등 AI툴 활용\n  나. 일 시: 2023. 6. 15.(목) 15:00 ~ 16:30\n  다. 참여방법: "
+              },
+              {
+                "type": "text",
+                "text": "온라인 사전 신청(필수) 후, 시간에 맞추어 교육장 내 착석",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n     ※사전신청 URL: "
+              },
+              {
+                "type": "link",
+                "url": "https://url.kr/w3cgp7",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n  라. 강 사: Henrik Rudolph(Editor-in-chief, Applied Surface Science of Elsevier)\n  마. 세부내용\n    - AI툴의 장단점: 문헌 검토, 요약, 언어 편집 지원 기능 포함\n    - 저자권(Authorship)의 문제\n    - AI가 과학 논문의 저자로 간주될 수 있는지에 대한 논쟁\n    - 다양한 예시 및 연구 사례를 통해 파악하는 AI 활용 과학 출판의 현 상황"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

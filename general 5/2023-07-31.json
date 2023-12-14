@@ -1,0 +1,111 @@
+[
+  {
+    "client_msg_id": "5eae0ae7-368c-4d3e-a064-1107c53f6288",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt; 「학내 1회용품 사용 줄이기」  안내 \u0026gt;\n\n최근 1회용품 사용이 증가하고 환경오염 등 사회적 문제를 야기하고 있어 정부에서는 「1회용품 사용 줄이기」를 확대·강화하고 있습니다. 이에, 관악구청에서 1회 용품 줄이기 동참 협조 요청이 있어 안내드리오니, 학생 여러분 께서는 1회용품 줄이기에 적극 동참하여 주시기 바랍니다.",
+    "ts": "1690788266.832009",
+    "files": [
+      {
+        "id": "F05L5TVHR2L",
+        "created": 1690788252,
+        "timestamp": 1690788252,
+        "name": "4.Bye Bye Plastic 포스터_230703.png",
+        "title": "4.Bye Bye Plastic 포스터_230703.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 754300,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05L5TVHR2L-4.Bye Bye Plastic 포스터_230703.png",
+        "url_private_download": "attachments/F05L5TVHR2L-4.Bye Bye Plastic 포스터_230703.png",
+        "original_h": 1684,
+        "original_w": 1190,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05L5TVHR2L-2b3ff2c471/4.bye_bye_plastic___________230703_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05L5TVHR2L-2b3ff2c471/4.bye_bye_plastic___________230703_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05L5TVHR2L-2b3ff2c471/4.bye_bye_plastic___________230703_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05L5TVHR2L-2b3ff2c471/4.bye_bye_plastic___________230703_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 254,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05L5TVHR2L-2b3ff2c471/4.bye_bye_plastic___________230703_480.png",
+        "thumb_480_w": 339,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05L5TVHR2L-2b3ff2c471/4.bye_bye_plastic___________230703_720.png",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05L5TVHR2L-2b3ff2c471/4.bye_bye_plastic___________230703_960.png",
+        "thumb_960_w": 678,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05L5TVHR2L-2b3ff2c471/4.bye_bye_plastic___________230703_1024.png",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05L5TVHR2L/4.bye_bye_plastic___________230703.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05L5TVHR2L-5cff5e91c3",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QZCrS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 「학내 1회용품 사용 줄이기」  안내 \u003e\n\n최근 1회용품 사용이 증가하고 환경오염 등 사회적 문제를 야기하고 있어 정부에서는 「1회용품 사용 줄이기」를 확대·강화하고 있습니다. 이에, 관악구청에서 1회 용품 줄이기 동참 협조 요청이 있어 안내드리오니, 학생 여러분 께서는 1회용품 줄이기에 적극 동참하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

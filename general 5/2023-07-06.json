@@ -1,0 +1,146 @@
+[
+  {
+    "client_msg_id": "481c536b-415e-469c-b1c2-6e63f349e864",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;1:1 화상영어 링글 : 채용설명회 안내\u0026gt;\n\n\u0026gt; *1:1 화상영어플랫폼 링글에서 서울대 데이터 사이언스 대학원 학우분들을 대상으로 채용 설명회를 진행합니다.*\n\u0026gt; 가장 최근 링글에서 오픈 베타로 릴리즈한 CAF 영어진단모델 (AI 진단)을 중심으로 링글 프로덕트에 대한 설명을 드릴 예정이며,\n\u0026gt; 현재 링글에서 ML파트 인턴으로 근무 중인 데이터사이언스 대학원 22학번 학우의 생생한 스토리텔링도 함께 진행됩니다.\n\u0026gt; \n\u0026gt; 에듀테크, 스타트업, ML 등에 관심이 있는 분들이라면 참여하시어서 많은 정보 얻어가시면 좋겠습니다. \n\u0026gt; 당일 설명회에서 구체적인 포지션, 필요 스킬셋, 링글 Tech팀에 대한 추가적인 설명이 진행됩니다. \n\u0026gt; 간단한 식사도 제공되니 취업을 고민하고 계신 학우님들과 함께 많은 이야기 나누는 기회가 되길 바랍니다.  \n\u0026gt; *사전 신청 URL : \u003chttps://forms.gle/JmzGiA4rEayNhzWX7\u003e*\n\u0026gt; *JD: \u003chttps://career.ringleplus.com/fd62fa9a-331d-4c12-a4ec-8540795b90a7\u003e*\n\u0026gt; \n\u0026gt; 일시: 7월 13일(목) 오후 5:30\n\u0026gt; 장소:  942동 3층 데이터사이언스대학원 302호 강의실",
+    "ts": "1688633271.770979",
+    "attachments": [
+      {
+        "fallback": "Google Docs: 링글 채용 설명회에 초대합니다.",
+        "id": 1,
+        "title": "링글 채용 설명회에 초대합니다.",
+        "title_link": "https://forms.gle/JmzGiA4rEayNhzWX7",
+        "image_url": "https://lh3.googleusercontent.com/T3Mr7iHpNjJ89AfeEzGPEg7yWnHLwqh3dkJoyAvR3_07AtGNhuQQWzNn72uDT48yKkMY5ImbZcs",
+        "service_name": "Google Docs",
+        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+        "from_url": "https://forms.gle/JmzGiA4rEayNhzWX7",
+        "original_url": "https://forms.gle/JmzGiA4rEayNhzWX7",
+        "blocks": null
+      },
+      {
+        "fallback": "[석/박사] ML Engineer",
+        "id": 2,
+        "title": "[석/박사] ML Engineer",
+        "title_link": "https://career.ringleplus.com/fd62fa9a-331d-4c12-a4ec-8540795b90a7",
+        "text": "Why Ringle",
+        "image_url": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F01cf1072-5ff1-409f-8cad-ef185f0517cf%2F%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB_%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC.png\u0026blockId=fd62fa9a-331d-4c12-a4ec-8540795b90a7\u0026width=2400",
+        "service_name": "career.ringleplus.com",
+        "service_icon": "https://oopy.lazyrockets.com/api/rest/cdn/image/8a106162-64d2-4036-9407-004b08aaf22f.png?d=16",
+        "from_url": "https://career.ringleplus.com/fd62fa9a-331d-4c12-a4ec-8540795b90a7",
+        "original_url": "https://career.ringleplus.com/fd62fa9a-331d-4c12-a4ec-8540795b90a7",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1688688017.000000"
+    },
+    "files": [
+      {
+        "id": "F05G4UC7N2D",
+        "created": 1688633266,
+        "timestamp": 1688633266,
+        "name": "_SNUxRingle._005.png",
+        "title": "_SNUxRingle._005.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 605532,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05G4UC7N2D-_SNUxRingle._005.png",
+        "url_private_download": "attachments/F05G4UC7N2D-_SNUxRingle._005.png",
+        "original_h": 1920,
+        "original_w": 1920,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05G4UC7N2D-1025aa786b/_snuxringle._005_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05G4UC7N2D-1025aa786b/_snuxringle._005_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05G4UC7N2D-1025aa786b/_snuxringle._005_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05G4UC7N2D-1025aa786b/_snuxringle._005_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05G4UC7N2D-1025aa786b/_snuxringle._005_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05G4UC7N2D-1025aa786b/_snuxringle._005_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05G4UC7N2D-1025aa786b/_snuxringle._005_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05G4UC7N2D-1025aa786b/_snuxringle._005_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05G4UC7N2D/_snuxringle._005.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05G4UC7N2D-20b36e14d0",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FLVh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c1:1 화상영어 링글 : 채용설명회 안내\u003e\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_quote",
+            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"1:1 \\ud654\\uc0c1\\uc601\\uc5b4\\ud50c\\ub7ab\\ud3fc \\ub9c1\\uae00\\uc5d0\\uc11c \\uc11c\\uc6b8\\ub300 \\ub370\\uc774\\ud130 \\uc0ac\\uc774\\uc5b8\\uc2a4 \\ub300\\ud559\\uc6d0 \\ud559\\uc6b0\\ubd84\\ub4e4\\uc744 \\ub300\\uc0c1\\uc73c\\ub85c \\ucc44\\uc6a9 \\uc124\\uba85\\ud68c\\ub97c \\uc9c4\\ud589\\ud569\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\\uac00\\uc7a5 \\ucd5c\\uadfc \\ub9c1\\uae00\\uc5d0\\uc11c \\uc624\\ud508 \\ubca0\\ud0c0\\ub85c \\ub9b4\\ub9ac\\uc988\\ud55c CAF \\uc601\\uc5b4\\uc9c4\\ub2e8\\ubaa8\\ub378 (AI \\uc9c4\\ub2e8)\\uc744 \\uc911\\uc2ec\\uc73c\\ub85c \\ub9c1\\uae00 \\ud504\\ub85c\\ub355\\ud2b8\\uc5d0 \\ub300\\ud55c \\uc124\\uba85\\uc744 \\ub4dc\\ub9b4 \\uc608\\uc815\\uc774\\uba70,\\n\\ud604\\uc7ac \\ub9c1\\uae00\\uc5d0\\uc11c ML\\ud30c\\ud2b8 \\uc778\\ud134\\uc73c\\ub85c \\uadfc\\ubb34 \\uc911\\uc778 \\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4 \\ub300\\ud559\\uc6d0 22\\ud559\\ubc88 \\ud559\\uc6b0\\uc758 \\uc0dd\\uc0dd\\ud55c \\uc2a4\\ud1a0\\ub9ac\\ud154\\ub9c1\\ub3c4 \\ud568\\uaed8 \\uc9c4\\ud589\\ub429\\ub2c8\\ub2e4.\\n\\n\\uc5d0\\ub4c0\\ud14c\\ud06c, \\uc2a4\\ud0c0\\ud2b8\\uc5c5, ML \\ub4f1\\uc5d0 \\uad00\\uc2ec\\uc774 \\uc788\\ub294 \\ubd84\\ub4e4\\uc774\\ub77c\\uba74 \\ucc38\\uc5ec\\ud558\\uc2dc\\uc5b4\\uc11c \\ub9ce\\uc740 \\uc815\\ubcf4 \\uc5bb\\uc5b4\\uac00\\uc2dc\\uba74 \\uc88b\\uaca0\\uc2b5\\ub2c8\\ub2e4. \\n\\ub2f9\\uc77c \\uc124\\uba85\\ud68c\\uc5d0\\uc11c \\uad6c\\uccb4\\uc801\\uc778 \\ud3ec\\uc9c0\\uc158, \\ud544\\uc694 \\uc2a4\\ud0ac\\uc14b, \\ub9c1\\uae00 Tech\\ud300\\uc5d0 \\ub300\\ud55c \\ucd94\\uac00\\uc801\\uc778 \\uc124\\uba85\\uc774 \\uc9c4\\ud589\\ub429\\ub2c8\\ub2e4. \\n\\uac04\\ub2e8\\ud55c \\uc2dd\\uc0ac\\ub3c4 \\uc81c\\uacf5\\ub418\\ub2c8 \\ucde8\\uc5c5\\uc744 \\uace0\\ubbfc\\ud558\\uace0 \\uacc4\\uc2e0 \\ud559\\uc6b0\\ub2d8\\ub4e4\\uacfc \\ud568\\uaed8 \\ub9ce\\uc740 \\uc774\\uc57c\\uae30 \\ub098\\ub204\\ub294 \\uae30\\ud68c\\uac00 \\ub418\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4.  \\n\"},{\"type\":\"text\",\"text\":\"\\uc0ac\\uc804 \\uc2e0\\uccad URL : \",\"style\":{\"bold\":true}},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/JmzGiA4rEayNhzWX7\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"text\",\"text\":\"JD: \",\"style\":{\"bold\":true}},{\"type\":\"link\",\"url\":\"https:\\/\\/career.ringleplus.com\\/fd62fa9a-331d-4c12-a4ec-8540795b90a7\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\\n\\uc77c\\uc2dc: 7\\uc6d4 13\\uc77c(\\ubaa9) \\uc624\\ud6c4 5:30\\n\\uc7a5\\uc18c:  942\\ub3d9 3\\uce35 \\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub300\\ud559\\uc6d0 302\\ud638 \\uac15\\uc758\\uc2e4\"}]}"
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

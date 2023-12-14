@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "1a2e5ff1-34c2-4c52-a4df-ad3262e0548a",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022년 8월 관악캠퍼스 소방차 진입 합동훈련 실시 안내\u0026gt;\n관악캠퍼스 내 화재 등 긴급상황에 대비하여 관악소방서와 소방차 진입 합동훈련을 아래와 같이 실시하고자 하오니,\n훈련이 원활하게 진행될 수 있도록 협조하여 주시기 바랍니다.\n\n  1. 훈련일시: 2022. 8. 12.(금) 10:00\n    ※ 관악소방서 사정에 따라 일정이 변경될 수 있으며 훈련일정 변경 시 포털 게시판 공지 예정\n  2. 훈련장소: 정문-순환도로-나들문 9번 게이트-음악대학 및 미술대학(50 ~ 55동), 예술계복합연구동(74동) 부근\n  3. 훈련내용: 소방차 진입 훈련\n  4. 훈련차량: 관악소방서 및 캠퍼스안전반 차량\n  5. 문의사항\n    가. 캠퍼스관리과: 02-880-5131\n    나. 캠퍼스안전반: 02-880-8112, 8119\n    다. 관악소방서 현장대응단: 02-883-8119",
+    "ts": "1659948800.737279",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TTPSG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022년 8월 관악캠퍼스 소방차 진입 합동훈련 실시 안내\u003e\n관악캠퍼스 내 화재 등 긴급상황에 대비하여 관악소방서와 소방차 진입 합동훈련을 아래와 같이 실시하고자 하오니,\n훈련이 원활하게 진행될 수 있도록 협조하여 주시기 바랍니다.\n\n  1. 훈련일시: 2022. 8. 12.(금) 10:00\n    ※ 관악소방서 사정에 따라 일정이 변경될 수 있으며 훈련일정 변경 시 포털 게시판 공지 예정\n  2. 훈련장소: 정문-순환도로-나들문 9번 게이트-음악대학 및 미술대학(50 ~ 55동), 예술계복합연구동(74동) 부근\n  3. 훈련내용: 소방차 진입 훈련\n  4. 훈련차량: 관악소방서 및 캠퍼스안전반 차량\n  5. 문의사항\n    가. 캠퍼스관리과: 02-880-5131\n    나. 캠퍼스안전반: 02-880-8112, 8119\n    다. 관악소방서 현장대응단: 02-883-8119"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

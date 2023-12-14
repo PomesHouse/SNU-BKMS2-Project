@@ -1,0 +1,126 @@
+[
+  {
+    "client_msg_id": "0121b326-a5c2-404a-a765-4b3e866b6a96",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;308호 세미나실 웹캠 반납 요청\u0026gt;\n\n308호 세미나실에 설치된 웹캠이 분실되었습니다. (사진 참고)\n\n해당 호실의 웹캠을 잠시 대여 후 반납하지 않으셨다면\n\n4월 30일까지 308호 세미나실에 다시 설치해 주시기 바랍니다.\n\n*대학원 공공물품(멀티탭, 스탠드, 모니터, 웹캠 등)은 반드시 지정된 위치에서만 사용해 주십시오.* \n\n설치된 CCTV는 오로지 방범용으로만 활용될 수 있도록 모두가 각별히 주의해 주시기 바랍니다.",
+    "ts": "1651047334.493429",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1651047378.000000"
+    },
+    "files": [
+      {
+        "id": "F03CPCSRNTH",
+        "created": 1651047325,
+        "timestamp": 1651047325,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 916544,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03CPCSRNTH-image.png",
+        "url_private_download": "attachments/F03CPCSRNTH-image.png",
+        "original_h": 785,
+        "original_w": 1051,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03CPCSRNTH-44b8d55891/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03CPCSRNTH-44b8d55891/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03CPCSRNTH-44b8d55891/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03CPCSRNTH-44b8d55891/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 269,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03CPCSRNTH-44b8d55891/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 359,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03CPCSRNTH-44b8d55891/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 538,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03CPCSRNTH-44b8d55891/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 717,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03CPCSRNTH-44b8d55891/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 765,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03CPCSRNTH/image.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03CPCSRNTH-fc33dd0d37",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zkX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c308호 세미나실 웹캠 반납 요청\u003e\n\n308호 세미나실에 설치된 웹캠이 분실되었습니다. (사진 참고)\n\n해당 호실의 웹캠을 잠시 대여 후 반납하지 않으셨다면\n\n4월 30일까지 308호 세미나실에 다시 설치해 주시기 바랍니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "대학원 공공물품(멀티탭, 스탠드, 모니터, 웹캠 등)은 반드시 지정된 위치에서만 사용해 주십시오. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n설치된 CCTV는 오로지 방범용으로만 활용될 수 있도록 모두가 각별히 주의해 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

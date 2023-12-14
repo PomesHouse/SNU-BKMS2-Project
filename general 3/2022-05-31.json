@@ -1,0 +1,299 @@
+[
+  {
+    "client_msg_id": "e830df5c-4d62-4d8b-8a50-77579e6ef6da",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;데이터사이언스대학원 콜로키움 행사 안내\u0026gt;\n2022 삼성 호암상 수상기념 콜로키움을 아래와 같이 개최하오니 많은 관심 부탁드립니다.\n1. 행사명 : 2022 삼성 호암상 수상기념 콜로키움(Scaling Academic Research to Disruptive Innovation)\n2. 일 시 : 2022. 6. 2.(목) 11:00 ~ 12:00\n3. 장 소 : 942동 301호\n4. 강연자 : 차상균 데이터사이언스대학원장, 황승진 스탠퍼드대학 교수, 이인식 Vertex Ventures 대표",
+    "ts": "1653961231.870309",
+    "files": [
+      {
+        "id": "F03HCUW8V46",
+        "created": 1653961176,
+        "timestamp": 1653961176,
+        "name": "행사포스터.jpg",
+        "title": "행사포스터.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 746341,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03HCUW8V46-행사포스터.jpg",
+        "url_private_download": "attachments/F03HCUW8V46-행사포스터.jpg",
+        "original_h": 1685,
+        "original_w": 1191,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03HCUW8V46-70b6b1104b/________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03HCUW8V46-70b6b1104b/________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03HCUW8V46-70b6b1104b/________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03HCUW8V46-70b6b1104b/________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 254,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03HCUW8V46-70b6b1104b/________________480.jpg",
+        "thumb_480_w": 339,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03HCUW8V46-70b6b1104b/________________720.jpg",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03HCUW8V46-70b6b1104b/________________960.jpg",
+        "thumb_960_w": 679,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03HCUW8V46-70b6b1104b/________________1024.jpg",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03HCUW8V46/_______________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03HCUW8V46-2c3c404340",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8h+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c데이터사이언스대학원 콜로키움 행사 안내\u003e\n2022 삼성 호암상 수상기념 콜로키움을 아래와 같이 개최하오니 많은 관심 부탁드립니다.\n1. 행사명 : 2022 삼성 호암상 수상기념 콜로키움(Scaling Academic Research to Disruptive Innovation)\n2. 일 시 : 2022. 6. 2.(목) 11:00 ~ 12:00\n3. 장 소 : 942동 301호\n4. 강연자 : 차상균 데이터사이언스대학원장, 황승진 스탠퍼드대학 교수, 이인식 Vertex Ventures 대표"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ca26ffb4-2165-4886-8df9-58597d040802",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "US-Korea Conference 2022 개최안내\n\n서울대학교에서 공식 후원하고 있는 한미 과학기술 학술대회(US-Korea Conference)가 8월 17일 개최될 예정이니 관심있는 분들께서는 붙임의 파일을 확인하여 주시기 바랍니다.\n\n1. 개최일시: 2022. 8. 17.(수) ~ 8. 20. (토)\n2. 개최장소: 미국 워싱턴 DC. (Hyatt Regency Crystal City, Arlington, VA)\n3. 주최/주관: 재미한인과학기술자협회(KSEA), 한국과학기술단체총연합회(KOFST), 한미과학기술협력센터(KUSCO)\n4. 주 제: Science and Technology in the Wake of the Pandemic\n5. 분야별 심포지엄 (13개 분야): 물리, 화학, 수학/통계, 생물학, 농업기술, 의약학, 공학, 전기/전자, 컴퓨터 공학등 *세부 분야 홈페이지 링크 참조\n6. 홈페이지 링크: \u003chttps://ukc.ksea.org/ukc2022/\u003e\n7. 논문접수(1 page): 2022년 6월 1일까지 홈페이지 온라인 접수",
+    "ts": "1653974947.218229",
+    "attachments": [
+      {
+        "fallback": "ukc 2022: UKC 2022",
+        "id": 1,
+        "title": "UKC 2022",
+        "title_link": "https://ukc.ksea.org/ukc2022/",
+        "text": "Science and Technology in the Wake of the Pandemic. Distinguished Chair Professor and Dean Emeritus, the Baskin School of Engineering, UC Santa Cruz; Chancellor Emeritus of UC Merced; President Emeritus of KAIST, Steve Kang and Founder \u0026amp; Chief Executive Officer, Cognosante, Y. Michele Kang",
+        "image_url": "https://ukc.ksea.org/ukc2022/wp-content/uploads/2021/09/ukc-2022-rect-crop.png",
+        "service_name": "ukc 2022",
+        "service_icon": "https://ukc.ksea.org/ukc2022/wp-content/uploads/2021/09/cropped-ukc-2022-rect-crop-180x180.png",
+        "from_url": "https://ukc.ksea.org/ukc2022/",
+        "original_url": "https://ukc.ksea.org/ukc2022/",
+        "fields": [
+          {
+            "title": "Est. reading time",
+            "value": "1 minute",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "files": [
+      {
+        "id": "F03J9RVG2C8",
+        "created": 1653974943,
+        "timestamp": 1653974943,
+        "name": "UKC 2022 Brochure.pdf",
+        "title": "UKC 2022 Brochure.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1466149,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03J9RVG2C8-UKC 2022 Brochure.pdf",
+        "url_private_download": "attachments/F03J9RVG2C8-UKC 2022 Brochure.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03J9RVG2C8/ukc_2022_brochure.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03J9RVG2C8-433fbf9c55",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2ijl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "US-Korea Conference 2022 개최안내\n\n서울대학교에서 공식 후원하고 있는 한미 과학기술 학술대회(US-Korea Conference)가 8월 17일 개최될 예정이니 관심있는 분들께서는 붙임의 파일을 확인하여 주시기 바랍니다.\n\n1. 개최일시: 2022. 8. 17.(수) ~ 8. 20. (토)\n2. 개최장소: 미국 워싱턴 DC. (Hyatt Regency Crystal City, Arlington, VA)\n3. 주최/주관: 재미한인과학기술자협회(KSEA), 한국과학기술단체총연합회(KOFST), 한미과학기술협력센터(KUSCO)\n4. 주 제: Science and Technology in the Wake of the Pandemic\n5. 분야별 심포지엄 (13개 분야): 물리, 화학, 수학/통계, 생물학, 농업기술, 의약학, 공학, 전기/전자, 컴퓨터 공학등 *세부 분야 홈페이지 링크 참조\n6. 홈페이지 링크: "
+              },
+              {
+                "type": "link",
+                "url": "https://ukc.ksea.org/ukc2022/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n7. 논문접수(1 page): 2022년 6월 1일까지 홈페이지 온라인 접수"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7be35e5f-0eb3-4d0a-ac61-a89e9a827088",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "네, 하지만 면담진행시 교수님들께 통합과정생임을 다시 한 번 말씀해주시기 바랍니다.",
+    "ts": "1653975791.983389",
+    "thread_ts": "1653641921.529899",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SU=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네, 하지만 면담진행시 교수님들께 통합과정생임을 다시 한 번 말씀해주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

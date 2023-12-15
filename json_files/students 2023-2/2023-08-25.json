@@ -1,197 +1,199 @@
-[
-  {
-    "client_msg_id": "0b42beaa-db47-46c1-bf71-ce5005e1bb61",
-    "type": "message",
-    "user": "U0302PLQ34Y",
-    "ts": "1692933822.149639",
-    "thread_ts": "1692755627.206719",
-    "parent_user_id": "U040M7VULN7",
-    "files": [
-      {
-        "id": "F05PDEY0GRK",
-        "created": 1692933818,
-        "timestamp": 1692933818,
-        "name": "Uncertainty-Guided _Online Test-Time Adaptation_via Meta-Learning.pdf",
-        "title": "Uncertainty-Guided _Online Test-Time Adaptation_via Meta-Learning.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U0302PLQ34Y",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 4884848,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05PDEY0GRK-Uncertainty-Guided _Online Test-Time Adaptation_via Meta-Learning.pdf",
-        "url_private_download": "attachments/F05PDEY0GRK-Uncertainty-Guided _Online Test-Time Adaptation_via Meta-Learning.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U0302PLQ34Y/F05PDEY0GRK/uncertainty-guided__online_test-time_adaptation_via_meta-learning.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05PDEY0GRK-3191283ed0",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "raised_hands",
-        "count": 1,
-        "users": [
-          "U040ENLD4QN"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      },
-      {
-        "name": "raised_hands::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U04R6NS3924",
-          "U02ULBHV58W"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2023-07-12/5590776974256_ce997b79a8d558c5ccc5_72.jpg",
-      "first_name": "채규병",
-      "real_name": "채규병",
-      "display_name": "3기_채규병",
-      "team": "T01QA5S537V",
-      "name": "kyubyung91",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "dfcb5571-7d8e-4f20-a30c-b51e1be700c2",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "*\u0026lt;4층 책꽂이 정리 요청\u0026gt;*\n\n안녕하세요. 천둥연구실 안규수입니다.\n원장님께서 4층 책꽂이에 쌓여있는 책을 북앤드로 정리하라고 하셔서\n다음주 월요일 오후에 저희 연구실에서 정리하려고 합니다.\n\n현재 4층 연구공간을 이용 중인 각 연구실에서 프린터 등의 물품을 책꽂이에 올려두셨는데,\n책 정리를 마친 이후에 자리가 남으면 해당 공간을 이용하셔도 되는데,\n자리가 모자랄 수도 있고, 정리하다가 파손 등의 위험을 최소화하기 위하여,\n월요일 오전까지 책꽂이에 있는 모든 물품을 우선 이동해주시기를 부탁드립니다.\n\n월요일 오후에 정리할 예정이므로,\n화요일 오전에 보시고 남아있는 자리는 자유로이 사용하셔도 됩니다.\n\n감사합니다.",
-    "ts": "1692947542.573229",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "raised_hands::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      },
-      {
-        "name": "raised_hands",
-        "count": 2,
-        "users": [
-          "U0302PLQ34Y",
-          "U02UVAT3BPW"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "egr",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c4층 책꽂이 정리 요청\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요. 천둥연구실 안규수입니다.\n원장님께서 4층 책꽂이에 쌓여있는 책을 북앤드로 정리하라고 하셔서\n다음주 월요일 오후에 저희 연구실에서 정리하려고 합니다.\n\n현재 4층 연구공간을 이용 중인 각 연구실에서 프린터 등의 물품을 책꽂이에 올려두셨는데,\n책 정리를 마친 이후에 자리가 남으면 해당 공간을 이용하셔도 되는데,\n자리가 모자랄 수도 있고, 정리하다가 파손 등의 위험을 최소화하기 위하여,\n월요일 오전까지 책꽂이에 있는 모든 물품을 우선 이동해주시기를 부탁드립니다.\n\n월요일 오후에 정리할 예정이므로,\n화요일 오전에 보시고 남아있는 자리는 자유로이 사용하셔도 됩니다.\n\n감사합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "0b42beaa-db47-46c1-bf71-ce5005e1bb61",
+			"type": "message",
+			"user": "U0302PLQ34Y",
+			"ts": "1692933822.149639",
+			"thread_ts": "1692755627.206719",
+			"parent_user_id": "U040M7VULN7",
+			"files": [
+				{
+					"id": "F05PDEY0GRK",
+					"created": 1692933818,
+					"timestamp": 1692933818,
+					"name": "Uncertainty-Guided _Online Test-Time Adaptation_via Meta-Learning.pdf",
+					"title": "Uncertainty-Guided _Online Test-Time Adaptation_via Meta-Learning.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U0302PLQ34Y",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 4884848,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05PDEY0GRK-Uncertainty-Guided _Online Test-Time Adaptation_via Meta-Learning.pdf",
+					"url_private_download": "attachments/F05PDEY0GRK-Uncertainty-Guided _Online Test-Time Adaptation_via Meta-Learning.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U0302PLQ34Y/F05PDEY0GRK/uncertainty-guided__online_test-time_adaptation_via_meta-learning.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05PDEY0GRK-3191283ed0",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "raised_hands",
+					"count": 1,
+					"users": [
+						"U040ENLD4QN"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				},
+				{
+					"name": "raised_hands::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U04R6NS3924",
+						"U02ULBHV58W"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2023-07-12/5590776974256_ce997b79a8d558c5ccc5_72.jpg",
+				"first_name": "채규병",
+				"real_name": "채규병",
+				"display_name": "3기_채규병",
+				"team": "T01QA5S537V",
+				"name": "kyubyung91",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "dfcb5571-7d8e-4f20-a30c-b51e1be700c2",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "*&lt;4층 책꽂이 정리 요청&gt;*\n\n안녕하세요. 천둥연구실 안규수입니다.\n원장님께서 4층 책꽂이에 쌓여있는 책을 북앤드로 정리하라고 하셔서\n다음주 월요일 오후에 저희 연구실에서 정리하려고 합니다.\n\n현재 4층 연구공간을 이용 중인 각 연구실에서 프린터 등의 물품을 책꽂이에 올려두셨는데,\n책 정리를 마친 이후에 자리가 남으면 해당 공간을 이용하셔도 되는데,\n자리가 모자랄 수도 있고, 정리하다가 파손 등의 위험을 최소화하기 위하여,\n월요일 오전까지 책꽂이에 있는 모든 물품을 우선 이동해주시기를 부탁드립니다.\n\n월요일 오후에 정리할 예정이므로,\n화요일 오전에 보시고 남아있는 자리는 자유로이 사용하셔도 됩니다.\n\n감사합니다.",
+			"ts": "1692947542.573229",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "raised_hands::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				},
+				{
+					"name": "raised_hands",
+					"count": 2,
+					"users": [
+						"U0302PLQ34Y",
+						"U02UVAT3BPW"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "egr",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<4층 책꽂이 정리 요청>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요. 천둥연구실 안규수입니다.\n원장님께서 4층 책꽂이에 쌓여있는 책을 북앤드로 정리하라고 하셔서\n다음주 월요일 오후에 저희 연구실에서 정리하려고 합니다.\n\n현재 4층 연구공간을 이용 중인 각 연구실에서 프린터 등의 물품을 책꽂이에 올려두셨는데,\n책 정리를 마친 이후에 자리가 남으면 해당 공간을 이용하셔도 되는데,\n자리가 모자랄 수도 있고, 정리하다가 파손 등의 위험을 최소화하기 위하여,\n월요일 오전까지 책꽂이에 있는 모든 물품을 우선 이동해주시기를 부탁드립니다.\n\n월요일 오후에 정리할 예정이므로,\n화요일 오전에 보시고 남아있는 자리는 자유로이 사용하셔도 됩니다.\n\n감사합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

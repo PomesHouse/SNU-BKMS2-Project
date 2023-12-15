@@ -1,255 +1,257 @@
-[
-  {
-    "client_msg_id": "0560b9ea-2ae6-4910-80eb-1d3c1393a363",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "지난 학기에 취소되었던 Kellogg의 Brian Uzzi 교수님 강연이 아래와 같이 다시 열리게 되었으니, 관심있는 분은 참석 바랍니다.\n\n============================================================\n\n*서울대학교 경영대학* \n*전략 및 국제경영 Department Seminar Series*\n5월 12일 (금) 10:30am-12:00pm\n경영대학 59동 (LG관) 401호\n\n*“Human and Machine Approaches that Boost Scientific and Technological Impact*\n*Brian Uzzi 교수 (Northwestern University)* \n\u003chttps://www.kellogg.northwestern.edu/faculty/uzzi/htm/\u003e\n\n\n“To raise new questions, new possibilities, to regard old problems from a new angle, said Albert Einstein, “requires creative imagination and marks real advance in science.” As such, science seeks to unlock the secrets of innovation and promote it widely. Nevertheless, key measures indicate a growing gap between actual and expected innovation rates. More papers fail than pass replication tests and journal papers, grants, and patents tend to deepen conventional thinking rather than advance new ideas. In this talk, I will present two studies that use AI to help advance scientific innovation. In study 1, we trained an AI model to estimate a paper’s replicability using “ground truth” data, and then tested the model’s generalizability on an extensive set of out-of-sample studies. AI predicts replicability better than reviewers and on par with prediction markets, the best present-day method for predicting replicability. We then conduct a discipline-wide census of replicability in Psychology. We find replicability varies by subfield, research design methods, but not institutional prestige. Further, researchers’ past research records and social media strongly predict replicability; in particular, media attention predicts non-replication. In study 2, we use new data on almost 4M U.S., 2M EU, and 250K Canadian patent applications to test AI’s ability to identify hit innovations using only patent application data. We find that AI predicts hits with 95% accuracy and reveals that a hit innovation’s potential is not based on its individual capabilities but its interdependency with other innovations that collectively divide and conquer large problems in ways that singular breakthrough innovations did in the past.\n\nPapers can be found here:\nYang, Yang, Youyou Wu, and Brian Uzzi. \"Estimating the deep replicability of scientific findings using human and artificial intelligence\", Proceedings of the National Academy of Science, May 2020.\nWu, Youyou, Yang Yang and Brian Uzzi. \"A discipline-wide investigation of the replicability of Psychology papers over the past two decades\", PNAS, 120 (6) e2208863120, January 30, 2023",
-    "ts": "1683614268.903599",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Qmo",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "지난 학기에 취소되었던 Kellogg의 Brian Uzzi 교수님 강연이 아래와 같이 다시 열리게 되었으니, 관심있는 분은 참석 바랍니다.\n\n============================================================\n\n"
-              },
-              {
-                "type": "text",
-                "text": "서울대학교 경영대학 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "전략 및 국제경영 Department Seminar Series",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n5월 12일 (금) 10:30am-12:00pm\n경영대학 59동 (LG관) 401호\n\n"
-              },
-              {
-                "type": "text",
-                "text": "“Human and Machine Approaches that Boost Scientific and Technological Impact",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "Brian Uzzi 교수 (Northwestern University) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "link",
-                "url": "https://www.kellogg.northwestern.edu/faculty/uzzi/htm/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n\n\n“To raise new questions, new possibilities, to regard old problems from a new angle, said Albert Einstein, “requires creative imagination and marks real advance in science.” As such, science seeks to unlock the secrets of innovation and promote it widely. Nevertheless, key measures indicate a growing gap between actual and expected innovation rates. More papers fail than pass replication tests and journal papers, grants, and patents tend to deepen conventional thinking rather than advance new ideas. In this talk, I will present two studies that use AI to help advance scientific innovation. In study 1, we trained an AI model to estimate a paper’s replicability using “ground truth” data, and then tested the model’s generalizability on an extensive set of out-of-sample studies. AI predicts replicability better than reviewers and on par with prediction markets, the best present-day method for predicting replicability. We then conduct a discipline-wide census of replicability in Psychology. We find replicability varies by subfield, research design methods, but not institutional prestige. Further, researchers’ past research records and social media strongly predict replicability; in particular, media attention predicts non-replication. In study 2, we use new data on almost 4M U.S., 2M EU, and 250K Canadian patent applications to test AI’s ability to identify hit innovations using only patent application data. We find that AI predicts hits with 95% accuracy and reveals that a hit innovation’s potential is not based on its individual capabilities but its interdependency with other innovations that collectively divide and conquer large problems in ways that singular breakthrough innovations did in the past.\n\nPapers can be found here:\nYang, Yang, Youyou Wu, and Brian Uzzi. \"Estimating the deep replicability of scientific findings using human and artificial intelligence\", Proceedings of the National Academy of Science, May 2020.\nWu, Youyou, Yang Yang and Brian Uzzi. \"A discipline-wide investigation of the replicability of Psychology papers over the past two decades\", PNAS, 120 (6) e2208863120, January 30, 2023"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "03f5d088-bab4-4565-be7d-8a6cc1c47911",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;연구윤리 관련 자료(부실의심 또는 약탈적 학술지 이용 예방) 발간 안내\u0026gt;*\n\n관련: 한국연구재단 윤리정책팀-10367(2023.5.4.)\n한국연구재단에서 대학연구자들이 *부실의심 또는 약탈적 학술지 출판의 심각성을 인식하고 예방*할 수 있도록「부실의심 또는 약탈적 학술지 이용 예방」교육자료를 발간하였음을 알려드리오니 참고하시기 바랍니다\n※ 연구윤리정보포털(\u003chttps://www.cre.re.kr\u003e) 에서 다운로드 가능\n  - 연구윤리정보포털 '연구윤리 활동지원' → '가이드라인'",
-    "ts": "1683619837.611609",
-    "attachments": [
-      {
-        "fallback": "연구윤리정보포털",
-        "id": 1,
-        "title": "연구윤리정보포털",
-        "title_link": "https://www.cre.re.kr/",
-        "text": "책임있는 연구! 바람직한 연구를 위해 연구자가 추구해야 할 정직성, 정확성, 효율성, 객관성을 잘 준수하여 연구진실성을 확보합니다.",
-        "image_url": "https://www.cre.re.kr/assets/img/content/sub05/CI_2.png",
-        "service_name": "cre.re.kr",
-        "from_url": "https://www.cre.re.kr/",
-        "original_url": "https://www.cre.re.kr",
-        "blocks": null
-      }
-    ],
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1683619874.000000"
-    },
-    "files": [
-      {
-        "id": "F056NCATWLE",
-        "created": 1683619768,
-        "timestamp": 1683619768,
-        "name": "부실의심 또는 약탈적 학술지 이용 예방 교육자료.pdf",
-        "title": "부실의심 또는 약탈적 학술지 이용 예방 교육자료.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3646073,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F056NCATWLE-부실의심 또는 약탈적 학술지 이용 예방 교육자료.pdf",
-        "url_private_download": "attachments/F056NCATWLE-부실의심 또는 약탈적 학술지 이용 예방 교육자료.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F056NCATWLE/__________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F056NCATWLE-7d9fa30181",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "MLoy8",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c연구윤리 관련 자료(부실의심 또는 약탈적 학술지 이용 예방) 발간 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n관련: 한국연구재단 윤리정책팀-10367(2023.5.4.)\n한국연구재단에서 대학연구자들이 "
-              },
-              {
-                "type": "text",
-                "text": "부실의심 또는 약탈적 학술지 출판의 심각성을 인식하고 예방",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "할 수 있도록「부실의심 또는 약탈적 학술지 이용 예방」교육자료를 발간하였음을 알려드리오니 참고하시기 바랍니다\n※ 연구윤리정보포털("
-              },
-              {
-                "type": "link",
-                "url": "https://www.cre.re.kr",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") 에서 다운로드 가능\n  - 연구윤리정보포털 '연구윤리 활동지원' → '가이드라인'"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "0560b9ea-2ae6-4910-80eb-1d3c1393a363",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "지난 학기에 취소되었던 Kellogg의 Brian Uzzi 교수님 강연이 아래와 같이 다시 열리게 되었으니, 관심있는 분은 참석 바랍니다.\n\n============================================================\n\n*서울대학교 경영대학* \n*전략 및 국제경영 Department Seminar Series*\n5월 12일 (금) 10:30am-12:00pm\n경영대학 59동 (LG관) 401호\n\n*“Human and Machine Approaches that Boost Scientific and Technological Impact*\n*Brian Uzzi 교수 (Northwestern University)* \n<https://www.kellogg.northwestern.edu/faculty/uzzi/htm/>\n\n\n“To raise new questions, new possibilities, to regard old problems from a new angle, said Albert Einstein, “requires creative imagination and marks real advance in science.” As such, science seeks to unlock the secrets of innovation and promote it widely. Nevertheless, key measures indicate a growing gap between actual and expected innovation rates. More papers fail than pass replication tests and journal papers, grants, and patents tend to deepen conventional thinking rather than advance new ideas. In this talk, I will present two studies that use AI to help advance scientific innovation. In study 1, we trained an AI model to estimate a paper’s replicability using “ground truth” data, and then tested the model’s generalizability on an extensive set of out-of-sample studies. AI predicts replicability better than reviewers and on par with prediction markets, the best present-day method for predicting replicability. We then conduct a discipline-wide census of replicability in Psychology. We find replicability varies by subfield, research design methods, but not institutional prestige. Further, researchers’ past research records and social media strongly predict replicability; in particular, media attention predicts non-replication. In study 2, we use new data on almost 4M U.S., 2M EU, and 250K Canadian patent applications to test AI’s ability to identify hit innovations using only patent application data. We find that AI predicts hits with 95% accuracy and reveals that a hit innovation’s potential is not based on its individual capabilities but its interdependency with other innovations that collectively divide and conquer large problems in ways that singular breakthrough innovations did in the past.\n\nPapers can be found here:\nYang, Yang, Youyou Wu, and Brian Uzzi. \"Estimating the deep replicability of scientific findings using human and artificial intelligence\", Proceedings of the National Academy of Science, May 2020.\nWu, Youyou, Yang Yang and Brian Uzzi. \"A discipline-wide investigation of the replicability of Psychology papers over the past two decades\", PNAS, 120 (6) e2208863120, January 30, 2023",
+			"ts": "1683614268.903599",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Qmo",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "지난 학기에 취소되었던 Kellogg의 Brian Uzzi 교수님 강연이 아래와 같이 다시 열리게 되었으니, 관심있는 분은 참석 바랍니다.\n\n============================================================\n\n"
+								},
+								{
+									"type": "text",
+									"text": "서울대학교 경영대학 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "전략 및 국제경영 Department Seminar Series",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n5월 12일 (금) 10:30am-12:00pm\n경영대학 59동 (LG관) 401호\n\n"
+								},
+								{
+									"type": "text",
+									"text": "“Human and Machine Approaches that Boost Scientific and Technological Impact",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "Brian Uzzi 교수 (Northwestern University) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "link",
+									"url": "https://www.kellogg.northwestern.edu/faculty/uzzi/htm/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n\n\n“To raise new questions, new possibilities, to regard old problems from a new angle, said Albert Einstein, “requires creative imagination and marks real advance in science.” As such, science seeks to unlock the secrets of innovation and promote it widely. Nevertheless, key measures indicate a growing gap between actual and expected innovation rates. More papers fail than pass replication tests and journal papers, grants, and patents tend to deepen conventional thinking rather than advance new ideas. In this talk, I will present two studies that use AI to help advance scientific innovation. In study 1, we trained an AI model to estimate a paper’s replicability using “ground truth” data, and then tested the model’s generalizability on an extensive set of out-of-sample studies. AI predicts replicability better than reviewers and on par with prediction markets, the best present-day method for predicting replicability. We then conduct a discipline-wide census of replicability in Psychology. We find replicability varies by subfield, research design methods, but not institutional prestige. Further, researchers’ past research records and social media strongly predict replicability; in particular, media attention predicts non-replication. In study 2, we use new data on almost 4M U.S., 2M EU, and 250K Canadian patent applications to test AI’s ability to identify hit innovations using only patent application data. We find that AI predicts hits with 95% accuracy and reveals that a hit innovation’s potential is not based on its individual capabilities but its interdependency with other innovations that collectively divide and conquer large problems in ways that singular breakthrough innovations did in the past.\n\nPapers can be found here:\nYang, Yang, Youyou Wu, and Brian Uzzi. \"Estimating the deep replicability of scientific findings using human and artificial intelligence\", Proceedings of the National Academy of Science, May 2020.\nWu, Youyou, Yang Yang and Brian Uzzi. \"A discipline-wide investigation of the replicability of Psychology papers over the past two decades\", PNAS, 120 (6) e2208863120, January 30, 2023"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "03f5d088-bab4-4565-be7d-8a6cc1c47911",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;연구윤리 관련 자료(부실의심 또는 약탈적 학술지 이용 예방) 발간 안내&gt;*\n\n관련: 한국연구재단 윤리정책팀-10367(2023.5.4.)\n한국연구재단에서 대학연구자들이 *부실의심 또는 약탈적 학술지 출판의 심각성을 인식하고 예방*할 수 있도록「부실의심 또는 약탈적 학술지 이용 예방」교육자료를 발간하였음을 알려드리오니 참고하시기 바랍니다\n※ 연구윤리정보포털(<https://www.cre.re.kr>) 에서 다운로드 가능\n  - 연구윤리정보포털 '연구윤리 활동지원' → '가이드라인'",
+			"ts": "1683619837.611609",
+			"attachments": [
+				{
+					"fallback": "연구윤리정보포털",
+					"id": 1,
+					"title": "연구윤리정보포털",
+					"title_link": "https://www.cre.re.kr/",
+					"text": "책임있는 연구! 바람직한 연구를 위해 연구자가 추구해야 할 정직성, 정확성, 효율성, 객관성을 잘 준수하여 연구진실성을 확보합니다.",
+					"image_url": "https://www.cre.re.kr/assets/img/content/sub05/CI_2.png",
+					"service_name": "cre.re.kr",
+					"from_url": "https://www.cre.re.kr/",
+					"original_url": "https://www.cre.re.kr",
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1683619874.000000"
+			},
+			"files": [
+				{
+					"id": "F056NCATWLE",
+					"created": 1683619768,
+					"timestamp": 1683619768,
+					"name": "부실의심 또는 약탈적 학술지 이용 예방 교육자료.pdf",
+					"title": "부실의심 또는 약탈적 학술지 이용 예방 교육자료.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3646073,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F056NCATWLE-부실의심 또는 약탈적 학술지 이용 예방 교육자료.pdf",
+					"url_private_download": "attachments/F056NCATWLE-부실의심 또는 약탈적 학술지 이용 예방 교육자료.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F056NCATWLE/__________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F056NCATWLE-7d9fa30181",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "MLoy8",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<연구윤리 관련 자료(부실의심 또는 약탈적 학술지 이용 예방) 발간 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n관련: 한국연구재단 윤리정책팀-10367(2023.5.4.)\n한국연구재단에서 대학연구자들이 "
+								},
+								{
+									"type": "text",
+									"text": "부실의심 또는 약탈적 학술지 출판의 심각성을 인식하고 예방",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "할 수 있도록「부실의심 또는 약탈적 학술지 이용 예방」교육자료를 발간하였음을 알려드리오니 참고하시기 바랍니다\n※ 연구윤리정보포털("
+								},
+								{
+									"type": "link",
+									"url": "https://www.cre.re.kr",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") 에서 다운로드 가능\n  - 연구윤리정보포털 '연구윤리 활동지원' → '가이드라인'"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

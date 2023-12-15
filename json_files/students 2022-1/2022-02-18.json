@@ -1,619 +1,621 @@
-[
-  {
-    "type": "message",
-    "user": "U033LSELLQM",
-    "text": "\u003c@U033LSELLQM\u003e has joined the channel",
-    "ts": "1645174077.495459",
-    "subtype": "channel_join",
-    "inviter": "U01QDA01NN9",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": null,
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ee562b64-e7f7-4159-8c38-1a21e78fce39",
-    "type": "message",
-    "user": "U01QDA01NN9",
-    "text": "2022년 학생대표단 선출 후보 공지드립니다.",
-    "ts": "1645175755.048869",
-    "files": [
-      {
-        "id": "F0342HGGLGZ",
-        "created": 1645175739,
-        "timestamp": 1645175739,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QDA01NN9",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 212744,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0342HGGLGZ-image.png",
-        "url_private_download": "attachments/F0342HGGLGZ-image.png",
-        "original_h": 788,
-        "original_w": 1174,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 242,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 322,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 483,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 644,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 687,
-        "permalink": "https://snugsds.slack.com/files/U01QDA01NN9/F0342HGGLGZ/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0342HGGLGZ-b27e015b9c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F033H9NDE5U",
-        "created": 0,
-        "timestamp": 0,
-        "name": "",
-        "title": "",
-        "mimetype": "",
-        "image_exif_rotation": 0,
-        "filetype": "",
-        "pretty_type": "",
-        "user": "",
-        "mode": "tombstone",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 0,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F033H9NDE5U-",
-        "url_private_download": "attachments/F033H9NDE5U-",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "",
-        "permalink_public": "",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "2cj7P",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022년 학생대표단 선출 후보 공지드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
-      "first_name": "Young",
-      "real_name": "Young Chung",
-      "display_name": "2기_정채영",
-      "team": "T01QA5S537V",
-      "name": "thisisyoung21",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "372194c8-42df-4f0a-aaa7-77af93368bbd",
-    "type": "message",
-    "user": "U01QDA01NN9",
-    "ts": "1645176018.548139",
-    "files": [
-      {
-        "id": "F034DN4DHDE",
-        "created": 1645176015,
-        "timestamp": 1645176015,
-        "name": "학생대표단 최종후보 공지.hwp",
-        "title": "학생대표단 최종후보 공지.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QDA01NN9",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 859136,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F034DN4DHDE-학생대표단 최종후보 공지.hwp",
-        "url_private_download": "attachments/F034DN4DHDE-학생대표단 최종후보 공지.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QDA01NN9/F034DN4DHDE/___________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F034DN4DHDE-e479f0b928",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
-      "first_name": "Young",
-      "real_name": "Young Chung",
-      "display_name": "2기_정채영",
-      "team": "T01QA5S537V",
-      "name": "thisisyoung21",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U033LSELLQM",
-    "text": "*This polly is closed.* \u003c@U01QDA01NN9\u003e has a polly for you! Votes in this polly are anonymous :lock:.",
-    "ts": "1645176610.355239",
-    "edited": {
-      "user": "B033PPVGHTM",
-      "ts": "1645349406.000000"
-    },
-    "bot_id": "B033PPVGHTM",
-    "bot_profile": {
-      "app_id": "A04E6JX41",
-      "icons": {
-        "image_36": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_36.png",
-        "image_48": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_48.png",
-        "image_72": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_72.png"
-      },
-      "id": "B033PPVGHTM",
-      "name": "Polly",
-      "team_id": "T01QA5S537V",
-      "updated": 1645173446
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "section",
-        "text": {
-          "type": "mrkdwn",
-          "text": "*2022년도 학생대표단 선출 후보 선출에 동의하는지에 대해 응답부탁드립니다. \u003c!date^00000000^{_}|*\u003e익명으로 진행하며, 단독후보이기에 동의여부만 응답해주시면 됩니다.*\n",
-          "verbatim": true
-        },
-        "block_id": "0U3",
-        "accessory": {
-          "type": "overflow",
-          "action_id": "PollMessage(jkx2ZtRCEgdkbcysv).PollMessageOverflowMenu()",
-          "options": [
-            {
-              "text": {
-                "type": "plain_text",
-                "text": "Settings",
-                "emoji": true
-              },
-              "value": "settings"
-            }
-          ]
-        }
-      },
-      {
-        "type": "section",
-        "text": {
-          "type": "mrkdwn",
-          "text": "This polly is closed.",
-          "verbatim": true
-        },
-        "block_id": "H3G"
-      },
-      {
-        "type": "section",
-        "block_id": "8h=W",
-        "fields": [
-          {
-            "type": "mrkdwn",
-            "text": "동의  \n\n`████████████████████████ ⁢`  |  96% (43)",
-            "verbatim": true
-          },
-          {
-            "type": "mrkdwn",
-            "text": "비동의  \n\n`█ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  4% (2)",
-            "verbatim": true
-          }
-        ]
-      },
-      {
-        "type": "context",
-        "block_id": "++FN/",
-        "elements": [
-          {
-            "type": "mrkdwn",
-            "text": "*Total Votes*: 45",
-            "verbatim": true
-          }
-        ]
-      },
-      {
-        "type": "actions",
-        "block_id": "67JQ",
-        "elements": [
-          {
-            "type": "button",
-            "text": {
-              "type": "plain_text",
-              "text": "View All Responses",
-              "emoji": true
-            },
-            "action_id": "PollMessage(jkx2ZtRCEgdkbcysv).ViewAllResponsesButton"
-          }
-        ]
-      },
-      {
-        "type": "divider",
-        "block_id": "SjBGm"
-      },
-      {
-        "type": "context",
-        "block_id": "fHq",
-        "elements": [
-          {
-            "type": "mrkdwn",
-            "text": "Sender: @Young Chung (2기_정채영) | :lock: *Responses:* Anonymous | *:clock930: Closed: *\u003c!date^1645349400^{date_short} at {time}|Feb 20, 2022 at 09:30 AM\u003e\n\n:smile: Get insight on your meeting’s effectiveness with our \u003chttps://app.polly.ai/templates/?templateId=meeting-feedback\u0026amp;utm_source=slack\u0026amp;utm_medium=app\u0026amp;utm_term=meeting-feedback-template|meeting feedback template\u003e",
-            "verbatim": true
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": null,
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "819cbb37-4d6a-4ffa-bff5-995ea93c4206",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "안녕하세요. GSDS 여러분, 늦은 밤이지만 이번에 있는 학생 대표단을 대표하여 저희에게 찬성표를 던져주셨으면 하는 마음에 7가지 약속과 출마선언문을 올립니다. 여러분의 관심과 지지가 꼭 필요하오니 소중한 시간을 내어 찬성표를 던져주시길 바랍니다. 감사합니다!",
-    "ts": "1645187637.414829",
-    "files": [
-      {
-        "id": "F033QQU4F6W",
-        "created": 1645187586,
-        "timestamp": 1645187586,
-        "name": "Pavers 7가지 약속.PNG",
-        "title": "Pavers 7가지 약속.PNG",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01Q1KFN4JK",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 28387,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F033QQU4F6W-Pavers 7가지 약속.PNG",
-        "url_private_download": "attachments/F033QQU4F6W-Pavers 7가지 약속.PNG",
-        "original_h": 320,
-        "original_w": 746,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 154,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 206,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 309,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F033QQU4F6W/pavers_7_____________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F033QQU4F6W-2ca1ea8e43",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F034EHKPPJL",
-        "created": 1645187588,
-        "timestamp": 1645187588,
-        "name": "Pavers 출마선언문.docx",
-        "title": "Pavers 출마선언문.docx",
-        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "image_exif_rotation": 0,
-        "filetype": "docx",
-        "pretty_type": "Word 문서",
-        "user": "U01Q1KFN4JK",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 23268,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F034EHKPPJL-Pavers 출마선언문.docx",
-        "url_private_download": "attachments/F034EHKPPJL-Pavers 출마선언문.docx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F034EHKPPJL/pavers________________.docx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F034EHKPPJL-8df5e11813",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "raised_hands",
-        "count": 12,
-        "users": [
-          "U01QAE5DERZ",
-          "U01R678KWP2",
-          "U01QV1WAPL1",
-          "U01Q75K6FB7",
-          "U01Q9KXMSF8",
-          "U01QNSM488Z",
-          "U01QAE573J7",
-          "U01Q1KQ03PZ",
-          "U01QV1SQJ57",
-          "U01R688KH6U",
-          "U01QAE58QV9",
-          "U01QGJL6SP5"
-        ]
-      },
-      {
-        "name": "pray",
-        "count": 4,
-        "users": [
-          "U01R678KWP2",
-          "U01QGKCT067",
-          "U01QAE573J7",
-          "U01R688KH6U"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01R688KH6U"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "oOBT",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요. GSDS 여러분, 늦은 밤이지만 이번에 있는 학생 대표단을 대표하여 저희에게 찬성표를 던져주셨으면 하는 마음에 7가지 약속과 출마선언문을 올립니다. 여러분의 관심과 지지가 꼭 필요하오니 소중한 시간을 내어 찬성표를 던져주시길 바랍니다. 감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U033LSELLQM",
+			"text": "<@U033LSELLQM> has joined the channel",
+			"ts": "1645174077.495459",
+			"subtype": "channel_join",
+			"inviter": "U01QDA01NN9",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": null,
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ee562b64-e7f7-4159-8c38-1a21e78fce39",
+			"type": "message",
+			"user": "U01QDA01NN9",
+			"text": "2022년 학생대표단 선출 후보 공지드립니다.",
+			"ts": "1645175755.048869",
+			"files": [
+				{
+					"id": "F0342HGGLGZ",
+					"created": 1645175739,
+					"timestamp": 1645175739,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QDA01NN9",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 212744,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0342HGGLGZ-image.png",
+					"url_private_download": "attachments/F0342HGGLGZ-image.png",
+					"original_h": 788,
+					"original_w": 1174,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 242,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 322,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 483,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 644,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0342HGGLGZ-09d258cd18/image_1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 687,
+					"permalink": "https://snugsds.slack.com/files/U01QDA01NN9/F0342HGGLGZ/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0342HGGLGZ-b27e015b9c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F033H9NDE5U",
+					"created": 0,
+					"timestamp": 0,
+					"name": "",
+					"title": "",
+					"mimetype": "",
+					"image_exif_rotation": 0,
+					"filetype": "",
+					"pretty_type": "",
+					"user": "",
+					"mode": "tombstone",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 0,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F033H9NDE5U-",
+					"url_private_download": "attachments/F033H9NDE5U-",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "",
+					"permalink_public": "",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "2cj7P",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022년 학생대표단 선출 후보 공지드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
+				"first_name": "Young",
+				"real_name": "Young Chung",
+				"display_name": "2기_정채영",
+				"team": "T01QA5S537V",
+				"name": "thisisyoung21",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "372194c8-42df-4f0a-aaa7-77af93368bbd",
+			"type": "message",
+			"user": "U01QDA01NN9",
+			"ts": "1645176018.548139",
+			"files": [
+				{
+					"id": "F034DN4DHDE",
+					"created": 1645176015,
+					"timestamp": 1645176015,
+					"name": "학생대표단 최종후보 공지.hwp",
+					"title": "학생대표단 최종후보 공지.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QDA01NN9",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 859136,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F034DN4DHDE-학생대표단 최종후보 공지.hwp",
+					"url_private_download": "attachments/F034DN4DHDE-학생대표단 최종후보 공지.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QDA01NN9/F034DN4DHDE/___________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F034DN4DHDE-e479f0b928",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
+				"first_name": "Young",
+				"real_name": "Young Chung",
+				"display_name": "2기_정채영",
+				"team": "T01QA5S537V",
+				"name": "thisisyoung21",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U033LSELLQM",
+			"text": "*This polly is closed.* <@U01QDA01NN9> has a polly for you! Votes in this polly are anonymous :lock:.",
+			"ts": "1645176610.355239",
+			"edited": {
+				"user": "B033PPVGHTM",
+				"ts": "1645349406.000000"
+			},
+			"bot_id": "B033PPVGHTM",
+			"bot_profile": {
+				"app_id": "A04E6JX41",
+				"icons": {
+					"image_36": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_36.png",
+					"image_48": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_48.png",
+					"image_72": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_72.png"
+				},
+				"id": "B033PPVGHTM",
+				"name": "Polly",
+				"team_id": "T01QA5S537V",
+				"updated": 1645173446
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "section",
+					"text": {
+						"type": "mrkdwn",
+						"text": "*2022년도 학생대표단 선출 후보 선출에 동의하는지에 대해 응답부탁드립니다. <!date^00000000^{_}|*>익명으로 진행하며, 단독후보이기에 동의여부만 응답해주시면 됩니다.*\n",
+						"verbatim": true
+					},
+					"block_id": "0U3",
+					"accessory": {
+						"type": "overflow",
+						"action_id": "PollMessage(jkx2ZtRCEgdkbcysv).PollMessageOverflowMenu()",
+						"options": [
+							{
+								"text": {
+									"type": "plain_text",
+									"text": "Settings",
+									"emoji": true
+								},
+								"value": "settings"
+							}
+						]
+					}
+				},
+				{
+					"type": "section",
+					"text": {
+						"type": "mrkdwn",
+						"text": "This polly is closed.",
+						"verbatim": true
+					},
+					"block_id": "H3G"
+				},
+				{
+					"type": "section",
+					"block_id": "8h=W",
+					"fields": [
+						{
+							"type": "mrkdwn",
+							"text": "동의  \n\n`████████████████████████ ⁢`  |  96% (43)",
+							"verbatim": true
+						},
+						{
+							"type": "mrkdwn",
+							"text": "비동의  \n\n`█ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  4% (2)",
+							"verbatim": true
+						}
+					]
+				},
+				{
+					"type": "context",
+					"block_id": "++FN/",
+					"elements": [
+						{
+							"type": "mrkdwn",
+							"text": "*Total Votes*: 45",
+							"verbatim": true
+						}
+					]
+				},
+				{
+					"type": "actions",
+					"block_id": "67JQ",
+					"elements": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "View All Responses",
+								"emoji": true
+							},
+							"action_id": "PollMessage(jkx2ZtRCEgdkbcysv).ViewAllResponsesButton"
+						}
+					]
+				},
+				{
+					"type": "divider",
+					"block_id": "SjBGm"
+				},
+				{
+					"type": "context",
+					"block_id": "fHq",
+					"elements": [
+						{
+							"type": "mrkdwn",
+							"text": "Sender: @Young Chung (2기_정채영) | :lock: *Responses:* Anonymous | *:clock930: Closed: *<!date^1645349400^{date_short} at {time}|Feb 20, 2022 at 09:30 AM>\n\n:smile: Get insight on your meeting’s effectiveness with our <https://app.polly.ai/templates/?templateId=meeting-feedback&amp;utm_source=slack&amp;utm_medium=app&amp;utm_term=meeting-feedback-template|meeting feedback template>",
+							"verbatim": true
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": null,
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "819cbb37-4d6a-4ffa-bff5-995ea93c4206",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "안녕하세요. GSDS 여러분, 늦은 밤이지만 이번에 있는 학생 대표단을 대표하여 저희에게 찬성표를 던져주셨으면 하는 마음에 7가지 약속과 출마선언문을 올립니다. 여러분의 관심과 지지가 꼭 필요하오니 소중한 시간을 내어 찬성표를 던져주시길 바랍니다. 감사합니다!",
+			"ts": "1645187637.414829",
+			"files": [
+				{
+					"id": "F033QQU4F6W",
+					"created": 1645187586,
+					"timestamp": 1645187586,
+					"name": "Pavers 7가지 약속.PNG",
+					"title": "Pavers 7가지 약속.PNG",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01Q1KFN4JK",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 28387,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F033QQU4F6W-Pavers 7가지 약속.PNG",
+					"url_private_download": "attachments/F033QQU4F6W-Pavers 7가지 약속.PNG",
+					"original_h": 320,
+					"original_w": 746,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 154,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 206,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F033QQU4F6W-8950214422/pavers_7______________720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 309,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F033QQU4F6W/pavers_7_____________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F033QQU4F6W-2ca1ea8e43",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F034EHKPPJL",
+					"created": 1645187588,
+					"timestamp": 1645187588,
+					"name": "Pavers 출마선언문.docx",
+					"title": "Pavers 출마선언문.docx",
+					"mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+					"image_exif_rotation": 0,
+					"filetype": "docx",
+					"pretty_type": "Word 문서",
+					"user": "U01Q1KFN4JK",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 23268,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F034EHKPPJL-Pavers 출마선언문.docx",
+					"url_private_download": "attachments/F034EHKPPJL-Pavers 출마선언문.docx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F034EHKPPJL/pavers________________.docx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F034EHKPPJL-8df5e11813",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "raised_hands",
+					"count": 12,
+					"users": [
+						"U01QAE5DERZ",
+						"U01R678KWP2",
+						"U01QV1WAPL1",
+						"U01Q75K6FB7",
+						"U01Q9KXMSF8",
+						"U01QNSM488Z",
+						"U01QAE573J7",
+						"U01Q1KQ03PZ",
+						"U01QV1SQJ57",
+						"U01R688KH6U",
+						"U01QAE58QV9",
+						"U01QGJL6SP5"
+					]
+				},
+				{
+					"name": "pray",
+					"count": 4,
+					"users": [
+						"U01R678KWP2",
+						"U01QGKCT067",
+						"U01QAE573J7",
+						"U01R688KH6U"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01R688KH6U"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "oOBT",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요. GSDS 여러분, 늦은 밤이지만 이번에 있는 학생 대표단을 대표하여 저희에게 찬성표를 던져주셨으면 하는 마음에 7가지 약속과 출마선언문을 올립니다. 여러분의 관심과 지지가 꼭 필요하오니 소중한 시간을 내어 찬성표를 던져주시길 바랍니다. 감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

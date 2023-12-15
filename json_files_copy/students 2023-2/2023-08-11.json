@@ -1,0 +1,320 @@
+[
+  {
+    "client_msg_id": "2e7abcba-5aa0-4932-8c01-5b25578f16f9",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "피자 세팅 완료됐습니다~!",
+    "ts": "1691724320.304869",
+    "thread_ts": "1691569977.852299",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JqIrn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "피자 세팅 완료됐습니다~!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2e7abcba-5aa0-4932-8c01-5b25578f16f9",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "피자 세팅 완료됐습니다~!",
+    "ts": "1691724320.304869",
+    "thread_ts": "1691569977.852299",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JqIrn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "피자 세팅 완료됐습니다~!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d93e2b95-052a-4f58-b612-3f7cde895197",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "남은 피자 3층 탕비실에 있습니다!",
+    "ts": "1691729246.029069",
+    "thread_ts": "1691569977.852299",
+    "subtype": "thread_broadcast",
+    "parent_user_id": "U02V5LS84JV",
+    "files": [
+      {
+        "id": "F05MR7DHYNM",
+        "created": 1691729232,
+        "timestamp": 1691729232,
+        "name": "IMG_20230811_134703.jpg",
+        "title": "IMG_20230811_134703.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02ULBH3TEJ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 430822,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05MR7DHYNM-IMG_20230811_134703.jpg",
+        "url_private_download": "attachments/F05MR7DHYNM-IMG_20230811_134703.jpg",
+        "original_h": 4032,
+        "original_w": 1908,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 170,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_480.jpg",
+        "thumb_480_w": 227,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_720.jpg",
+        "thumb_720_w": 341,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_960.jpg",
+        "thumb_960_w": 454,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_1024.jpg",
+        "thumb_1024_w": 485,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U02ULBH3TEJ/F05MR7DHYNM/img_20230811_134703.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05MR7DHYNM-106b431a07",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U2Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "남은 피자 3층 탕비실에 있습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d93e2b95-052a-4f58-b612-3f7cde895197",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "남은 피자 3층 탕비실에 있습니다!",
+    "ts": "1691729246.029069",
+    "thread_ts": "1691569977.852299",
+    "subtype": "thread_broadcast",
+    "parent_user_id": "U02V5LS84JV",
+    "files": [
+      {
+        "id": "F05MR7DHYNM",
+        "created": 1691729232,
+        "timestamp": 1691729232,
+        "name": "IMG_20230811_134703.jpg",
+        "title": "IMG_20230811_134703.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02ULBH3TEJ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 430822,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05MR7DHYNM-IMG_20230811_134703.jpg",
+        "url_private_download": "attachments/F05MR7DHYNM-IMG_20230811_134703.jpg",
+        "original_h": 4032,
+        "original_w": 1908,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 170,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_480.jpg",
+        "thumb_480_w": 227,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_720.jpg",
+        "thumb_720_w": 341,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_960.jpg",
+        "thumb_960_w": 454,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05MR7DHYNM-56327ea9f4/img_20230811_134703_1024.jpg",
+        "thumb_1024_w": 485,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U02ULBH3TEJ/F05MR7DHYNM/img_20230811_134703.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05MR7DHYNM-106b431a07",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U2Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "남은 피자 3층 탕비실에 있습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

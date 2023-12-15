@@ -1,0 +1,114 @@
+[
+  {
+    "client_msg_id": "4b9c5746-ada1-4f69-a388-bcb765c7d1fa",
+    "type": "message",
+    "user": "U01QGKCT067",
+    "text": "안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+    "ts": "1658814777.571799",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 22,
+        "users": [
+          "U01QGD17SUU",
+          "U01R678KWP2",
+          "U0302PLQ34Y",
+          "U01QGKD09K5",
+          "U0302PHUHME",
+          "U01PVEU1A07",
+          "U01QAE573J7",
+          "U02ULBHV58W",
+          "U02UT1XUGFL",
+          "U01QDA01NN9",
+          "U01QV1WAPL1",
+          "U02V5LS84JV",
+          "U01Q1KQ03PZ",
+          "U02P4QDPG2W",
+          "U02UT2U1PFV",
+          "U02UCD2C9V5",
+          "U02V5LU4ED7",
+          "U02V5LTUGGH",
+          "U01R688KH6U",
+          "U02UQ4CE0AH",
+          "U01R689L5KJ",
+          "U01QV28FG4R"
+        ]
+      },
+      {
+        "name": "broom",
+        "count": 6,
+        "users": [
+          "U01R678KWP2",
+          "U0302PLQ34Y",
+          "U01QGKD09K5",
+          "U01QV1SQJ57",
+          "U02V5LU4ED7",
+          "U01R688KH6U"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wDV9c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 "
+              },
+              {
+                "type": "text",
+                "text": "수요일(27일) 오후 4시 30분",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub0c9\\uc7a5\\uace0\\uc5d0 \\uc2dd\\ud488\\uc744 \\ubcf4\\uad00\\ud560 \\uc2dc \\ubc18\\ub4dc\\uc2dc \"},{\"type\":\"text\",\"text\":\"\\uc774\\ub984\\uacfc \\ubcf4\\uc874\\uae30\\uac04\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc744 \\uba85\\uc2dc\\ud574\\uc8fc\\uc138\\uc694. \"},{\"type\":\"text\",\"text\":\"\\uc774\\ub984\\uc774\\ub098 \\ubcf4\\uc874\\uae30\\uac04 \\ub458 \\uc911 \\ud558\\ub098\\ub77c\\ub3c4 \\ubbf8\\ube44\\ub418\\uc5b4 \\uc788\\ub294 \\uacbd\\uc6b0 \\ubaa8\\ub450 \\ubc84\\ub9ac\\ub3c4\\ub85d \\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub0c9\\uc7a5\\uace0\\uc5d0 \\uacfc\\ub3c4\\ud558\\uac8c \\uacf5\\uac04\\uc744 \\ucc28\\uc9c0\\ud558\\ub294(\\ud2b9\\ud788, \\ub0c9\\ub3d9\\uc2e4\\uc5d0 \\ubcf4\\uad00\\ud558\\ub294 \\ub300\\ub7c9\\uc758 \\ub2ed\\uac00\\uc2b4\\uc0b4, \\ubc00\\ud0a4\\ud2b8)  \\uc2dd\\ud488\\uc758 \\uacbd\\uc6b0 \\ud0c0\\uc778\\uc758 \\uc0ac\\uc6a9\\uc744 \\uc81c\\ud55c\\ud560 \\uc218 \\uc788\\uae30\\uc5d0 \\uc9c0\\uae08\\uae4c\\uc9c0\\ub294 \\uacbd\\uace0 \\uc218\\uc900\\uc5d0\\uc11c \\uadf8\\ucce4\\uc9c0\\ub9cc, \"},{\"type\":\"text\",\"text\":\"\\ub0b4\\uc77c \\uc815\\ub9ac\\ub97c \\ud3ec\\ud568\\ud55c \\ud5a5\\ud6c4 \\ubaa8\\ub4e0 \\uc815\\ub9ac \\uc77c\\uc815\\uc5d0\\uc11c \\uc774\\ub984\\uacfc \\ubcf4\\uc874\\uae30\\uac04\\uc774 \\uba85\\uc2dc\\ub418\\uc5b4\\uc788\\ub2e4\\ud558\\ub354\\ub77c\\ub3c4, \\uacfc\\ub3c4\\ud558\\uac8c \\uc790\\ub9ac\\ub97c \\ucc28\\uc9c0\\ud558\\uace0 \\uc788\\ub2e4\\uace0 \\ud310\\ub2e8\\ud560 \\uc2dc \\ud574\\ub2f9 \\ubb3c\\ud488\\uc758 \\uc18c\\uc720\\uc8fc\\uc5d0\\uac8c \\ub3cc\\ub824\\uc8fc\\uac70\\ub098 \\uc774\\ub984\\uc774 \\uc5c6\\uc744 \\uacbd\\uc6b0 \\uc804\\ub7c9 \\ud3d0\\uae30\\ucc98\\ub9ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub0b4\\uc77c \\uc815\\ub9ac\\uc5d0\\uc11c\\ub294 \\uc2f1\\ud06c\\ub300 \\uc11c\\ub78d\\uc7a5\\uc5d0 \\ubcf4\\uad00\\ub418\\uc5b4\\uc788\\ub294 \\uc2dd\\ud488, \\ubb3c\\ud488 \\ubaa8\\ub450 \\uc774\\ub984\\uacfc \\ubcf4\\uc874\\uae30\\uac04\\uc774 \\uba85\\uc2dc\\ub418\\uc5b4\\uc788\\uc9c0 \\uc54a\\uc740 \\uacbd\\uc6b0 \\ubc84\\ub9ac\\uaca0\\uc2b5\\ub2c8\\ub2e4. \"},{\"type\":\"text\",\"text\":\"\\uc11c\\ub78d\\uc7a5\\uc5d0 \\uce6b\\uc194 \\ub4f1\\uc744 \\ud3ec\\ud568\\ud55c \\uc138\\uba74\\ub3c4\\uad6c, \\ub18d\\uad6c\\uacf5 \\ub4f1\\ub3c4 \\uc788\\ub294\\ub370 \\uc2dd\\ud488, \\ubb3c\\ud488 \\uad00\\uacc4\\uc5c6\\uc774 \\ubaa8\\ub450 \\ud3d0\\uae30\\ucc98\\ub9ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4. \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ubc30\\ub2ec\\uc74c\\uc2dd\\uc744 \\uba39\\uc744 \\ub54c \\uc0ac\\uc6a9\\ud560\\ub9cc\\ud55c \\uc77c\\ud68c\\uc6a9\\ud488 \\ub4f1\\uc758 \\uacbd\\uc6b0\\ub294 \\uc800\\ud76c\\uac00 \\ub530\\ub85c \\ubcf4\\uad00\\uc7a5\\uc18c\\ub97c \\ucd94\\ud6c4 \\ub9d0\\uc500\\ub4dc\\ub9ac\\uac70\\ub098 \\uad6c\\uc5ed\\uc744 \\uc81c\\ud55c\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c6966545056a08d1f4311a48cc662172.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "2기_김주현",
+      "real_name": "2기_김주현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kimjoohyoen",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

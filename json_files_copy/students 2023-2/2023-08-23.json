@@ -1,0 +1,154 @@
+[
+  {
+    "client_msg_id": "d70b21e8-ae41-458a-bf2d-3184ee4b07d0",
+    "type": "message",
+    "user": "U040M7VULN7",
+    "text": "*[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar* :pizza:\n\n안녕하세요 GSDS 학생회 입니다.:saluting_face:\n금주 8월 25일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 8월 25일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제:\n• 최유림 (김형신 교수님 연구실): SlAction: Non-intrusive, Lightweight Obstructive Sleep Apnea Detection using Infrared Video\n• 채규병 (김태섭 교수님 연구실): Uncertainty-Guided Online Test-Time Adaptation via Meta-Learning\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!",
+    "ts": "1692755627.206719",
+    "thread_ts": "1692755627.206719",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0302PLQ34Y",
+        "ts": "1692933822.149639"
+      }
+    ],
+    "latest_reply": "1692933822.149639",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pizza",
+        "count": 49,
+        "users": [
+          "U01PVEU1A07",
+          "U02UT1XABT4",
+          "U02V5LTPGRX",
+          "U04QE49RPV3",
+          "U01QNSM488Z",
+          "U02V5LS84JV",
+          "U02V5LTRU2V",
+          "U040ZVCKKND",
+          "U04QGUFBFR9",
+          "U01QV28F01X",
+          "U04QE4ASJP7",
+          "U02UT1YMCDQ",
+          "U02UQ4CE0AH",
+          "U01R67PKD7S",
+          "U01QGG6A5LJ",
+          "U01QV1SQJ57",
+          "U02UT1XUGFL",
+          "U01QA85T90A",
+          "U040ZVCNVU1",
+          "U040ENLD4QN",
+          "U02HT1G61QF",
+          "U02UQ4CMR7X",
+          "U040ZVD3C0H",
+          "U04Q2G35DTR",
+          "U040M7VULN7",
+          "U040PQB9R1A",
+          "U02ULBKA8DU",
+          "U02BD3EV4DQ",
+          "U04QVM59W0H",
+          "U04QE4AFJ69",
+          "U04QGUEEHJ7",
+          "U04R6NRPJC8",
+          "U01QAE5A9K5",
+          "U04QE496FTP",
+          "U04R6NS3924",
+          "U01PVEU98KH",
+          "U04R6NQRDK2",
+          "U01QGJL6SP5",
+          "U0302PJRNTA",
+          "U04QVLEGY3B",
+          "U04131QR6MA",
+          "U041GBXK5A4",
+          "U02V5LRB5S5",
+          "U02UCD1RBNK",
+          "U040ZVDSA0H",
+          "U02UCD2C9V5",
+          "U02UQ4BRJE9",
+          "U04QKG52VFE",
+          "U040MB3TGSE"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cq5z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요 GSDS 학생회 입니다."
+              },
+              {
+                "type": "emoji",
+                "name": "saluting_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n금주 8월 25일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 8월 25일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucd5c\\uc720\\ub9bc (\\uae40\\ud615\\uc2e0 \\uad50\\uc218\\ub2d8 \\uc5f0\\uad6c\\uc2e4): SlAction: Non-intrusive, Lightweight Obstructive Sleep Apnea Detection using Infrared Video\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc44\\uaddc\\ubcd1 (\\uae40\\ud0dc\\uc12d \\uad50\\uc218\\ub2d8 \\uc5f0\\uad6c\\uc2e4): Uncertainty-Guided Online Test-Time Adaptation via Meta-Learning\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "허상우",
+      "real_name": "허상우",
+      "display_name": "3.5기_허상우",
+      "team": "T01QA5S537V",
+      "name": "sh10hsw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0302PLQ34Y"
+    ]
+  }
+]

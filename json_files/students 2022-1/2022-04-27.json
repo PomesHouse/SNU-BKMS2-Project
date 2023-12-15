@@ -1,100 +1,102 @@
-[
-  {
-    "client_msg_id": "6cc3eee2-f493-4193-bcbd-6a1a5cf0d15a",
-    "type": "message",
-    "user": "U01Q75KNV1T",
-    "text": "3층 탕비실 전자레인지 내부 상태가 끔찍해서 급한대로 닿는대로 대충 청소했습니다. (4층은 어떤지 모르겠네요..)\n(특히 국물 있는) 음식을 조리하실 때는 접시 등을 함께 이용해주시면 감사하겠습니다:slightly_smiling_face:",
-    "ts": "1651047026.572729",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "clap",
-        "count": 32,
-        "users": [
-          "U01QGKD09K5",
-          "U01QV1WAPL1",
-          "U01Q75K6FB7",
-          "U01Q9KXMSF8",
-          "U01QNSM488Z",
-          "U01Q1KM0M3R",
-          "U02UQ4CHX3P",
-          "U02UVAT3BPW",
-          "U02V5LT4DLZ",
-          "U01QDA36FJR",
-          "U01QAE5DERZ",
-          "U01R689L5KJ",
-          "U01Q1KFN4JK",
-          "U02ULBJR9GE",
-          "U02UT1XUGFL",
-          "U01QV1PBKUZ",
-          "U01PVEU1A07",
-          "U02UT1YNY6N",
-          "U02UT2U1PFV",
-          "U01QNSM5STT",
-          "U01Q386CMKQ",
-          "U02ULBJGHF0",
-          "U0302PKMR6C",
-          "U02ULBHV58W",
-          "U01QNMUAUKW",
-          "U0302PHUHME",
-          "U02P4QDPG2W",
-          "U01QNHRHY0L",
-          "U01QV28FG4R",
-          "U02V5LUDBAM",
-          "U0302PLQ34Y",
-          "U02V5LRSE2V"
-        ]
-      },
-      {
-        "name": "male-police-officer",
-        "count": 1,
-        "users": [
-          "U01QV28FG4R"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "rsq",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "3층 탕비실 전자레인지 내부 상태가 끔찍해서 급한대로 닿는대로 대충 청소했습니다. (4층은 어떤지 모르겠네요..)\n(특히 국물 있는) 음식을 조리하실 때는 접시 등을 함께 이용해주시면 감사하겠습니다"
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1839499236017_e5a333503f5d47822279_72.jpg",
-      "first_name": "jwy4888",
-      "real_name": "jwy4888",
-      "display_name": "3기_장원영",
-      "team": "T01QA5S537V",
-      "name": "jwy4888",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "6cc3eee2-f493-4193-bcbd-6a1a5cf0d15a",
+			"type": "message",
+			"user": "U01Q75KNV1T",
+			"text": "3층 탕비실 전자레인지 내부 상태가 끔찍해서 급한대로 닿는대로 대충 청소했습니다. (4층은 어떤지 모르겠네요..)\n(특히 국물 있는) 음식을 조리하실 때는 접시 등을 함께 이용해주시면 감사하겠습니다:slightly_smiling_face:",
+			"ts": "1651047026.572729",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "clap",
+					"count": 32,
+					"users": [
+						"U01QGKD09K5",
+						"U01QV1WAPL1",
+						"U01Q75K6FB7",
+						"U01Q9KXMSF8",
+						"U01QNSM488Z",
+						"U01Q1KM0M3R",
+						"U02UQ4CHX3P",
+						"U02UVAT3BPW",
+						"U02V5LT4DLZ",
+						"U01QDA36FJR",
+						"U01QAE5DERZ",
+						"U01R689L5KJ",
+						"U01Q1KFN4JK",
+						"U02ULBJR9GE",
+						"U02UT1XUGFL",
+						"U01QV1PBKUZ",
+						"U01PVEU1A07",
+						"U02UT1YNY6N",
+						"U02UT2U1PFV",
+						"U01QNSM5STT",
+						"U01Q386CMKQ",
+						"U02ULBJGHF0",
+						"U0302PKMR6C",
+						"U02ULBHV58W",
+						"U01QNMUAUKW",
+						"U0302PHUHME",
+						"U02P4QDPG2W",
+						"U01QNHRHY0L",
+						"U01QV28FG4R",
+						"U02V5LUDBAM",
+						"U0302PLQ34Y",
+						"U02V5LRSE2V"
+					]
+				},
+				{
+					"name": "male-police-officer",
+					"count": 1,
+					"users": [
+						"U01QV28FG4R"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "rsq",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "3층 탕비실 전자레인지 내부 상태가 끔찍해서 급한대로 닿는대로 대충 청소했습니다. (4층은 어떤지 모르겠네요..)\n(특히 국물 있는) 음식을 조리하실 때는 접시 등을 함께 이용해주시면 감사하겠습니다"
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1839499236017_e5a333503f5d47822279_72.jpg",
+				"first_name": "jwy4888",
+				"real_name": "jwy4888",
+				"display_name": "3기_장원영",
+				"team": "T01QA5S537V",
+				"name": "jwy4888",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

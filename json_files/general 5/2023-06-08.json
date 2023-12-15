@@ -1,324 +1,326 @@
-[
-  {
-    "client_msg_id": "ccca6539-9b0b-440e-8648-3de8f6bc5bb5",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023년 서울대학교 창업동아리 모집 안내\u0026gt;\n\n우수 창업 아이디어를 보유한 학생 창업팀을 발굴하여 창업 실무 능력 향상과 사업화 지원을 위한 *「2023년 서울대학교 창업동아리」*를 모집하오니 창업에 관심이 있는 학생께서는 참고하시기 바랍니다.\n  1. 신청자격: 대표 1인을 포함하여 *2인 이상*으로 구성된 *예비창업팀*\n    가. *대표: 본교 \"학사과정\" 학생*(휴학생 지원 가능)\n    나. *팀원: 대학(원) 학생*(졸업생 및 일반인 참여 불가)\n    다. 지도교수: 본교 소속 전임 또는 비전임교원 ※ 지도교수가 없는 경우에도 신청 가능하나 선정 권고\n  2. 선정규모: 10팀 내외\n  3. 활동기간: 2023. 7.~2024. 1.\n  4. 지원사항: 창업동아리 활동 운영비 최대 350만원(차등지원) 및 사업화 관련 멘토·공간·지원 프로그램(IBK 창공 프로그램 연계)\n  5. 신청기한: *2023. 6. 20.(화) 18:00까지*\n  6. 신청방법: 창업지원단 홈페이지(\u003chttps://startup.snu.ac.kr\u003e) 프로그램 신청에서 신청 및 서류 제출",
-    "ts": "1686268629.605109",
-    "attachments": [
-      {
-        "fallback": "서울대학교 창업지원단",
-        "id": 1,
-        "title": "서울대학교 창업지원단",
-        "title_link": "https://startup.snu.ac.kr/",
-        "text": "서울대학교 창업지원단 소개, 공간예약, 디바이스 대여, 프로그램 신청",
-        "thumb_url": "https://startup.snu.ac.kr/thumb.file?category=preview\u0026fileId=201\u0026width=800\u0026height=400",
-        "service_name": "startup.snu.ac.kr",
-        "from_url": "https://startup.snu.ac.kr/",
-        "original_url": "https://startup.snu.ac.kr",
-        "blocks": null
-      }
-    ],
-    "files": [
-      {
-        "id": "F05B9R04JFR",
-        "created": 1686268595,
-        "timestamp": 1686268595,
-        "name": "2023년도 서울대학교 창업동아리 모집 공고.hwp",
-        "title": "2023년도 서울대학교 창업동아리 모집 공고.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 63488,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05B9R04JFR-2023년도 서울대학교 창업동아리 모집 공고.hwp",
-        "url_private_download": "attachments/F05B9R04JFR-2023년도 서울대학교 창업동아리 모집 공고.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05B9R04JFR/2023____________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05B9R04JFR-0cfe329110",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05BQ7RRC9Z",
-        "created": 1686268603,
-        "timestamp": 1686268603,
-        "name": "2023년도 서울대학교 창업동아리 신청 서식.hwp",
-        "title": "2023년도 서울대학교 창업동아리 신청 서식.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 70144,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05BQ7RRC9Z-2023년도 서울대학교 창업동아리 신청 서식.hwp",
-        "url_private_download": "attachments/F05BQ7RRC9Z-2023년도 서울대학교 창업동아리 신청 서식.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05BQ7RRC9Z/2023____________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05BQ7RRC9Z-84a2522351",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05C30QK3KK",
-        "created": 1686268605,
-        "timestamp": 1686268605,
-        "name": "★[포스터] 2023년 서울대학교 창업동아리 모집 공고.jpg",
-        "title": "★[포스터] 2023년 서울대학교 창업동아리 모집 공고.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 4334294,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05C30QK3KK-★[포스터] 2023년 서울대학교 창업동아리 모집 공고.jpg",
-        "url_private_download": "attachments/F05C30QK3KK-★[포스터] 2023년 서울대학교 창업동아리 모집 공고.jpg",
-        "original_h": 7016,
-        "original_w": 4961,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05C30QK3KK/_______________2023_________________________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05C30QK3KK-1ceb2d002e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "AuM9c",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 서울대학교 창업동아리 모집 안내\u003e\n\n우수 창업 아이디어를 보유한 학생 창업팀을 발굴하여 창업 실무 능력 향상과 사업화 지원을 위한 "
-              },
-              {
-                "type": "text",
-                "text": "「2023년 서울대학교 창업동아리」",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "를 모집하오니 창업에 관심이 있는 학생께서는 참고하시기 바랍니다.\n  1. 신청자격: 대표 1인을 포함하여 "
-              },
-              {
-                "type": "text",
-                "text": "2인 이상",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "으로 구성된 "
-              },
-              {
-                "type": "text",
-                "text": "예비창업팀",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    가. "
-              },
-              {
-                "type": "text",
-                "text": "대표: 본교 \"학사과정\" 학생",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(휴학생 지원 가능)\n    나. "
-              },
-              {
-                "type": "text",
-                "text": "팀원: 대학(원) 학생",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(졸업생 및 일반인 참여 불가)\n    다. 지도교수: 본교 소속 전임 또는 비전임교원 ※ 지도교수가 없는 경우에도 신청 가능하나 선정 권고\n  2. 선정규모: 10팀 내외\n  3. 활동기간: 2023. 7.~2024. 1.\n  4. 지원사항: 창업동아리 활동 운영비 최대 350만원(차등지원) 및 사업화 관련 멘토·공간·지원 프로그램(IBK 창공 프로그램 연계)\n  5. 신청기한: "
-              },
-              {
-                "type": "text",
-                "text": "2023. 6. 20.(화) 18:00까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  6. 신청방법: 창업지원단 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "https://startup.snu.ac.kr",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") 프로그램 신청에서 신청 및 서류 제출"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ccca6539-9b0b-440e-8648-3de8f6bc5bb5",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023년 서울대학교 창업동아리 모집 안내&gt;\n\n우수 창업 아이디어를 보유한 학생 창업팀을 발굴하여 창업 실무 능력 향상과 사업화 지원을 위한 *「2023년 서울대학교 창업동아리」*를 모집하오니 창업에 관심이 있는 학생께서는 참고하시기 바랍니다.\n  1. 신청자격: 대표 1인을 포함하여 *2인 이상*으로 구성된 *예비창업팀*\n    가. *대표: 본교 \"학사과정\" 학생*(휴학생 지원 가능)\n    나. *팀원: 대학(원) 학생*(졸업생 및 일반인 참여 불가)\n    다. 지도교수: 본교 소속 전임 또는 비전임교원 ※ 지도교수가 없는 경우에도 신청 가능하나 선정 권고\n  2. 선정규모: 10팀 내외\n  3. 활동기간: 2023. 7.~2024. 1.\n  4. 지원사항: 창업동아리 활동 운영비 최대 350만원(차등지원) 및 사업화 관련 멘토·공간·지원 프로그램(IBK 창공 프로그램 연계)\n  5. 신청기한: *2023. 6. 20.(화) 18:00까지*\n  6. 신청방법: 창업지원단 홈페이지(<https://startup.snu.ac.kr>) 프로그램 신청에서 신청 및 서류 제출",
+			"ts": "1686268629.605109",
+			"attachments": [
+				{
+					"fallback": "서울대학교 창업지원단",
+					"id": 1,
+					"title": "서울대학교 창업지원단",
+					"title_link": "https://startup.snu.ac.kr/",
+					"text": "서울대학교 창업지원단 소개, 공간예약, 디바이스 대여, 프로그램 신청",
+					"thumb_url": "https://startup.snu.ac.kr/thumb.file?category=preview&fileId=201&width=800&height=400",
+					"service_name": "startup.snu.ac.kr",
+					"from_url": "https://startup.snu.ac.kr/",
+					"original_url": "https://startup.snu.ac.kr",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F05B9R04JFR",
+					"created": 1686268595,
+					"timestamp": 1686268595,
+					"name": "2023년도 서울대학교 창업동아리 모집 공고.hwp",
+					"title": "2023년도 서울대학교 창업동아리 모집 공고.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 63488,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05B9R04JFR-2023년도 서울대학교 창업동아리 모집 공고.hwp",
+					"url_private_download": "attachments/F05B9R04JFR-2023년도 서울대학교 창업동아리 모집 공고.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05B9R04JFR/2023____________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05B9R04JFR-0cfe329110",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05BQ7RRC9Z",
+					"created": 1686268603,
+					"timestamp": 1686268603,
+					"name": "2023년도 서울대학교 창업동아리 신청 서식.hwp",
+					"title": "2023년도 서울대학교 창업동아리 신청 서식.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 70144,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05BQ7RRC9Z-2023년도 서울대학교 창업동아리 신청 서식.hwp",
+					"url_private_download": "attachments/F05BQ7RRC9Z-2023년도 서울대학교 창업동아리 신청 서식.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05BQ7RRC9Z/2023____________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05BQ7RRC9Z-84a2522351",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05C30QK3KK",
+					"created": 1686268605,
+					"timestamp": 1686268605,
+					"name": "★[포스터] 2023년 서울대학교 창업동아리 모집 공고.jpg",
+					"title": "★[포스터] 2023년 서울대학교 창업동아리 모집 공고.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 4334294,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05C30QK3KK-★[포스터] 2023년 서울대학교 창업동아리 모집 공고.jpg",
+					"url_private_download": "attachments/F05C30QK3KK-★[포스터] 2023년 서울대학교 창업동아리 모집 공고.jpg",
+					"original_h": 7016,
+					"original_w": 4961,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05C30QK3KK-293fb61ec9/_______________2023__________________________________________________1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05C30QK3KK/_______________2023_________________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05C30QK3KK-1ceb2d002e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "AuM9c",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 서울대학교 창업동아리 모집 안내>\n\n우수 창업 아이디어를 보유한 학생 창업팀을 발굴하여 창업 실무 능력 향상과 사업화 지원을 위한 "
+								},
+								{
+									"type": "text",
+									"text": "「2023년 서울대학교 창업동아리」",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "를 모집하오니 창업에 관심이 있는 학생께서는 참고하시기 바랍니다.\n  1. 신청자격: 대표 1인을 포함하여 "
+								},
+								{
+									"type": "text",
+									"text": "2인 이상",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "으로 구성된 "
+								},
+								{
+									"type": "text",
+									"text": "예비창업팀",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    가. "
+								},
+								{
+									"type": "text",
+									"text": "대표: 본교 \"학사과정\" 학생",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(휴학생 지원 가능)\n    나. "
+								},
+								{
+									"type": "text",
+									"text": "팀원: 대학(원) 학생",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(졸업생 및 일반인 참여 불가)\n    다. 지도교수: 본교 소속 전임 또는 비전임교원 ※ 지도교수가 없는 경우에도 신청 가능하나 선정 권고\n  2. 선정규모: 10팀 내외\n  3. 활동기간: 2023. 7.~2024. 1.\n  4. 지원사항: 창업동아리 활동 운영비 최대 350만원(차등지원) 및 사업화 관련 멘토·공간·지원 프로그램(IBK 창공 프로그램 연계)\n  5. 신청기한: "
+								},
+								{
+									"type": "text",
+									"text": "2023. 6. 20.(화) 18:00까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  6. 신청방법: 창업지원단 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "https://startup.snu.ac.kr",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") 프로그램 신청에서 신청 및 서류 제출"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

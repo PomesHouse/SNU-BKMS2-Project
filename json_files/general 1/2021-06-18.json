@@ -1,196 +1,198 @@
-[
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 인공지능 인재양성 현황 파악을 위한 설문조사 협조 요청 \u0026gt;\n\n교육부에서 국내 인공지능 분야 인재양성 생태계를 조사하기 위하여 관련 정책연구룰 추진중에 있으며 그 일환으로, 아래와 같이 설문조사 실시하고 있습니다.\n\n- 주요내용 -\n 가. 설문조사 내용\n   ○ 조사명 : 인공지능 인재양성 현황 조사\n   ○ 조사주관기관 : 교육부 미래교육추진담당관\n   ○ 설문조사\n     1) 기간 : 2021.6.17.~6.30.(2주간)\n     2) 방법 : 웹 기반 설문조사(아래 URL에 접속하여 조사응답)\n      * 학부용 : \u003chttps://ko.surveymonkey.com/r/AIunder2021\u003e\n      * 대학원용 : \u003chttps://ko.surveymonkey.com/r/AIgradu2021\u003e\n        ※ 학부와 대학원용 설문조사가 구분되어 있으므로, 구분에 맞는 링크로 접속하여 응답 * 대학원에 공문 안내 필요\n 나. 문의 : 정책연구팀 조성범 공동연구원(010-8645-1739, \u003cmailto:csb-0720@naver.com|csb-0720@naver.com\u003e)",
-    "ts": "1623996729.060400",
-    "files": [
-      {
-        "id": "F025NBQE6LU",
-        "created": 1623996726,
-        "timestamp": 1623996726,
-        "name": "[대학원용] 인공지능 인재 양성 현황 조사_설문지.pdf",
-        "title": "[대학원용] 인공지능 인재 양성 현황 조사_설문지.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 177649,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F025NBQE6LU-[대학원용] 인공지능 인재 양성 현황 조사_설문지.pdf",
-        "url_private_download": "attachments/F025NBQE6LU-[대학원용] 인공지능 인재 양성 현황 조사_설문지.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F025NBQE6LU/_________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F025NBQE6LU-b58cd56435",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "71J2B",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 인공지능 인재양성 현황 파악을 위한 설문조사 협조 요청 \u003e\n\n교육부에서 국내 인공지능 분야 인재양성 생태계를 조사하기 위하여 관련 정책연구룰 추진중에 있으며 그 일환으로, 아래와 같이 설문조사 실시하고 있습니다.\n\n- 주요내용 -\n 가. 설문조사 내용\n   ○ 조사명 : 인공지능 인재양성 현황 조사\n   ○ 조사주관기관 : 교육부 미래교육추진담당관\n   ○ 설문조사\n     1) 기간 : 2021.6.17.~6.30.(2주간)\n     2) 방법 : 웹 기반 설문조사(아래 URL에 접속하여 조사응답)\n      * 학부용 : "
-              },
-              {
-                "type": "link",
-                "url": "https://ko.surveymonkey.com/r/AIunder2021",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n      * 대학원용 : "
-              },
-              {
-                "type": "link",
-                "url": "https://ko.surveymonkey.com/r/AIgradu2021",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n        ※ 학부와 대학원용 설문조사가 구분되어 있으므로, 구분에 맞는 링크로 접속하여 응답 * 대학원에 공문 안내 필요\n 나. 문의 : 정책연구팀 조성범 공동연구원(010-8645-1739, "
-              },
-              {
-                "type": "link",
-                "url": "mailto:csb-0720@naver.com",
-                "text": "csb-0720@naver.com"
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "c7bdb5f9-da03-4c93-a242-551aa5dfbb8e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "오늘 지도교수 배정 관련 연구분야 발표자료는 \u003c#C0266NYH8GG|지도교수배정-연구분야발표자료\u003e 에 올라가있습니다. 관심있는 분들께서는 확인하여 주시기 바랍니다. 관련하여 질문 있으신 경우 말씀 주세요 :slightly_smiling_face:",
-    "ts": "1624016088.061300",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "uAtP",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "오늘 지도교수 배정 관련 연구분야 발표자료는 "
-              },
-              {
-                "type": "channel",
-                "channel_id": "C0266NYH8GG"
-              },
-              {
-                "type": "text",
-                "text": " 에 올라가있습니다. 관심있는 분들께서는 확인하여 주시기 바랍니다. 관련하여 질문 있으신 경우 말씀 주세요 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 인공지능 인재양성 현황 파악을 위한 설문조사 협조 요청 &gt;\n\n교육부에서 국내 인공지능 분야 인재양성 생태계를 조사하기 위하여 관련 정책연구룰 추진중에 있으며 그 일환으로, 아래와 같이 설문조사 실시하고 있습니다.\n\n- 주요내용 -\n 가. 설문조사 내용\n   ○ 조사명 : 인공지능 인재양성 현황 조사\n   ○ 조사주관기관 : 교육부 미래교육추진담당관\n   ○ 설문조사\n     1) 기간 : 2021.6.17.~6.30.(2주간)\n     2) 방법 : 웹 기반 설문조사(아래 URL에 접속하여 조사응답)\n      * 학부용 : <https://ko.surveymonkey.com/r/AIunder2021>\n      * 대학원용 : <https://ko.surveymonkey.com/r/AIgradu2021>\n        ※ 학부와 대학원용 설문조사가 구분되어 있으므로, 구분에 맞는 링크로 접속하여 응답 * 대학원에 공문 안내 필요\n 나. 문의 : 정책연구팀 조성범 공동연구원(010-8645-1739, <mailto:csb-0720@naver.com|csb-0720@naver.com>)",
+			"ts": "1623996729.060400",
+			"files": [
+				{
+					"id": "F025NBQE6LU",
+					"created": 1623996726,
+					"timestamp": 1623996726,
+					"name": "[대학원용] 인공지능 인재 양성 현황 조사_설문지.pdf",
+					"title": "[대학원용] 인공지능 인재 양성 현황 조사_설문지.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 177649,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F025NBQE6LU-[대학원용] 인공지능 인재 양성 현황 조사_설문지.pdf",
+					"url_private_download": "attachments/F025NBQE6LU-[대학원용] 인공지능 인재 양성 현황 조사_설문지.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F025NBQE6LU/_________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F025NBQE6LU-b58cd56435",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "71J2B",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 인공지능 인재양성 현황 파악을 위한 설문조사 협조 요청 >\n\n교육부에서 국내 인공지능 분야 인재양성 생태계를 조사하기 위하여 관련 정책연구룰 추진중에 있으며 그 일환으로, 아래와 같이 설문조사 실시하고 있습니다.\n\n- 주요내용 -\n 가. 설문조사 내용\n   ○ 조사명 : 인공지능 인재양성 현황 조사\n   ○ 조사주관기관 : 교육부 미래교육추진담당관\n   ○ 설문조사\n     1) 기간 : 2021.6.17.~6.30.(2주간)\n     2) 방법 : 웹 기반 설문조사(아래 URL에 접속하여 조사응답)\n      * 학부용 : "
+								},
+								{
+									"type": "link",
+									"url": "https://ko.surveymonkey.com/r/AIunder2021",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n      * 대학원용 : "
+								},
+								{
+									"type": "link",
+									"url": "https://ko.surveymonkey.com/r/AIgradu2021",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n        ※ 학부와 대학원용 설문조사가 구분되어 있으므로, 구분에 맞는 링크로 접속하여 응답 * 대학원에 공문 안내 필요\n 나. 문의 : 정책연구팀 조성범 공동연구원(010-8645-1739, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:csb-0720@naver.com",
+									"text": "csb-0720@naver.com"
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "c7bdb5f9-da03-4c93-a242-551aa5dfbb8e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "오늘 지도교수 배정 관련 연구분야 발표자료는 <#C0266NYH8GG|지도교수배정-연구분야발표자료> 에 올라가있습니다. 관심있는 분들께서는 확인하여 주시기 바랍니다. 관련하여 질문 있으신 경우 말씀 주세요 :slightly_smiling_face:",
+			"ts": "1624016088.061300",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "uAtP",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "오늘 지도교수 배정 관련 연구분야 발표자료는 "
+								},
+								{
+									"type": "channel",
+									"channel_id": "C0266NYH8GG"
+								},
+								{
+									"type": "text",
+									"text": " 에 올라가있습니다. 관심있는 분들께서는 확인하여 주시기 바랍니다. 관련하여 질문 있으신 경우 말씀 주세요 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

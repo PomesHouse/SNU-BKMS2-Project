@@ -1,416 +1,418 @@
-[
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;「실험실 특화형 창업선도대학」사업 'SNU 기술창업자를 위한 아이디어제품화 교육' 안내\u0026gt;\n\n본교에서 기술기반 창업 활성화를 위해 수행 중인 교육부·과기정통부 지원 2021년도「실험실 특화형 창업선도대학」사업과 관련하여 'SNU 아이디어 제품화' 교육생 모집한다고 합니다. 첨부한 포스터의 교육 일정 및 구성 확인하시고, 관심 있는 학생분들은 구글폼 작성하셔서 신청 바랍니다.\n\n  가. 신청자격: 기술창업에 관심있는 본교 대학원생\n  나. 신청기간: 2021. 5. 26.(수) ∼ 6. 20.(일)\n  다. 신청방법: 구글폼 작성 후 제출(\u003chttps://url.kr/bgs81y\u003e)\n  라. 문 의 처: 서울대학교 산학협력단 전략사업부(02-880-2028)",
-    "ts": "1622167530.021800",
-    "files": [
-      {
-        "id": "F023B624J4A",
-        "created": 1622167406,
-        "timestamp": 1622167406,
-        "name": "(포스터) SNU기술창업자를 위한 아이디어제품화 교육.pdf",
-        "title": "(포스터) SNU기술창업자를 위한 아이디어제품화 교육.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 658644,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F023B624J4A-(포스터) SNU기술창업자를 위한 아이디어제품화 교육.pdf",
-        "url_private_download": "attachments/F023B624J4A-(포스터) SNU기술창업자를 위한 아이디어제품화 교육.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F023B624J4A/____________snu______________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F023B624J4A-b7e9b02bc8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ev7+N",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c「실험실 특화형 창업선도대학」사업 'SNU 기술창업자를 위한 아이디어제품화 교육' 안내\u003e\n\n본교에서 기술기반 창업 활성화를 위해 수행 중인 교육부·과기정통부 지원 2021년도「실험실 특화형 창업선도대학」사업과 관련하여 'SNU 아이디어 제품화' 교육생 모집한다고 합니다. 첨부한 포스터의 교육 일정 및 구성 확인하시고, 관심 있는 학생분들은 구글폼 작성하셔서 신청 바랍니다.\n\n  가. 신청자격: 기술창업에 관심있는 본교 대학원생\n  나. 신청기간: 2021. 5. 26.(수) ∼ 6. 20.(일)\n  다. 신청방법: 구글폼 작성 후 제출("
-              },
-              {
-                "type": "link",
-                "url": "https://url.kr/bgs81y",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n  라. 문 의 처: 서울대학교 산학협력단 전략사업부(02-880-2028)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 2021년도 제4차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」 홍보 안내 \u0026gt;\n\n2021년도 제4차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」 을 개최하오니 인간대상 연구를 계획하는 연구자들은  아래 일정 확인하시어 교육을 꼭 이수해 주시기 바랍니다 :slightly_smiling_face:\n\n\u0026lt;주요내용\u0026gt;\n1. 일시: 2021.6.9.(수) 10:00 ~ 12:00 \n2. 장소: 비대면\n3. 참석대상: 인간대상 연구 윤리와 IRB 심의의뢰서 작성법\n4. 등록방법:  \u003chttps://forms.gle/iUfYeC9tt51bViN28\u003e (이름,소속,이메일 기재 ※사전등록: 2021.6.2.09:00~ )\n교육 수강 시 IRB 연구자교육 이수증을 발급해 드리며, 관련하여 자세한 내용은 포스터 내용 참고 하시기 바랍니다.",
-    "ts": "1622169545.025100",
-    "files": [
-      {
-        "id": "F023PRYQFDF",
-        "created": 1622169541,
-        "timestamp": 1622169541,
-        "name": "찾아가는 연구자교육 포스터(2021.6월).pdf",
-        "title": "찾아가는 연구자교육 포스터(2021.6월).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 121985,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F023PRYQFDF-찾아가는 연구자교육 포스터(2021.6월).pdf",
-        "url_private_download": "attachments/F023PRYQFDF-찾아가는 연구자교육 포스터(2021.6월).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F023PRYQFDF/_______________________________________2021.6____.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F023PRYQFDF-4874979286",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "4F7",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 2021년도 제4차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」 홍보 안내 \u003e\n\n2021년도 제4차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」 을 개최하오니 인간대상 연구를 계획하는 연구자들은  아래 일정 확인하시어 교육을 꼭 이수해 주시기 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n\u003c주요내용\u003e\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 2021.6.9.(\\uc218) 10:00 ~ 12:00 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: \\ube44\\ub300\\uba74\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d\\ub300\\uc0c1: \\uc778\\uac04\\ub300\\uc0c1 \\uc5f0\\uad6c \\uc724\\ub9ac\\uc640 IRB \\uc2ec\\uc758\\uc758\\ub8b0\\uc11c \\uc791\\uc131\\ubc95\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub4f1\\ub85d\\ubc29\\ubc95:  \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/iUfYeC9tt51bViN28\"},{\"type\":\"text\",\"text\":\" (\\uc774\\ub984,\\uc18c\\uc18d,\\uc774\\uba54\\uc77c \\uae30\\uc7ac \\u203b\\uc0ac\\uc804\\ub4f1\\ub85d: 2021.6.2.09:00~ )\"}]}],\"style\":\"ordered\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n교육 수강 시 IRB 연구자교육 이수증을 발급해 드리며, 관련하여 자세한 내용은 포스터 내용 참고 하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "2e5106d7-9638-4061-85bb-eae378bd778d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 2021.5.25.(화) 코로나 19 확진자 동선: 연구공원 식당 관련 안내 \u0026gt;\n\n2021.5.25.(화) 확진자 동선에 \u0026lt;연구공원 식당\u0026gt;이 포함되어 있으며, 관련된 내용이 우리 대학 포털 사이트에 공지 되어 있습니다.\n관련하여 보건진료소에 문의한 결과 3일 이내 유증상(호흡기질환, 발열 등)이 나타날 경우 자발적으로 코로나19 검사를 진행함을 안내 받았으며,\n이에 유증상으로 코로나 19 검사를 받으신 분이 계신다면 행정실로 연락 부탁 드립니다. (02-880-1350)",
-    "ts": "1622178757.030800",
-    "thread_ts": "1622178757.030800",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QA85T90A",
-        "ts": "1622185839.030900"
-      },
-      {
-        "user": "U01QA85T90A",
-        "ts": "1622189539.031200"
-      }
-    ],
-    "latest_reply": "1622189539.031200",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "0ta6Q",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 2021.5.25.(화) 코로나 19 확진자 동선: 연구공원 식당 관련 안내 \u003e\n\n2021.5.25.(화) 확진자 동선에 \u003c연구공원 식당\u003e이 포함되어 있으며, 관련된 내용이 우리 대학 포털 사이트에 공지 되어 있습니다.\n관련하여 보건진료소에 문의한 결과 3일 이내 유증상(호흡기질환, 발열 등)이 나타날 경우 자발적으로 코로나19 검사를 진행함을 안내 받았으며,\n이에 유증상으로 코로나 19 검사를 받으신 분이 계신다면 행정실로 연락 부탁 드립니다. (02-880-1350)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QA85T90A"
-    ]
-  },
-  {
-    "client_msg_id": "3641cde7-173e-4f3d-ae94-2d7c7e932e87",
-    "type": "message",
-    "user": "U01QA85T90A",
-    "text": "안녕하세요? 별도의 증상은 나타나지 않았지만 주말동안 가족들을 만나기로 해서 25-1동에 가서 미리 검사 받았습니다. 검사 결과가 나오면 알려드리겠습니다.",
-    "ts": "1622185839.030900",
-    "thread_ts": "1622178757.030800",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/me4X",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요? 별도의 증상은 나타나지 않았지만 주말동안 가족들을 만나기로 해서 25-1동에 가서 미리 검사 받았습니다. 검사 결과가 나오면 알려드리겠습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
-      "first_name": "gundo0102",
-      "real_name": "gundo0102",
-      "display_name": "3기_박건도",
-      "team": "T01QA5S537V",
-      "name": "gundo0102",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "bf02f14d-2f9c-4add-9b5b-4efb8e0fc1e4",
-    "type": "message",
-    "user": "U01QA85T90A",
-    "text": "음성으로 나왔습니다^^",
-    "ts": "1622189539.031200",
-    "thread_ts": "1622178757.030800",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U01QNSM488Z",
-          "U01QNJ7PWRX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "aVi",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "음성으로 나왔습니다^^"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
-      "first_name": "gundo0102",
-      "real_name": "gundo0102",
-      "display_name": "3기_박건도",
-      "team": "T01QA5S537V",
-      "name": "gundo0102",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;「실험실 특화형 창업선도대학」사업 'SNU 기술창업자를 위한 아이디어제품화 교육' 안내&gt;\n\n본교에서 기술기반 창업 활성화를 위해 수행 중인 교육부·과기정통부 지원 2021년도「실험실 특화형 창업선도대학」사업과 관련하여 'SNU 아이디어 제품화' 교육생 모집한다고 합니다. 첨부한 포스터의 교육 일정 및 구성 확인하시고, 관심 있는 학생분들은 구글폼 작성하셔서 신청 바랍니다.\n\n  가. 신청자격: 기술창업에 관심있는 본교 대학원생\n  나. 신청기간: 2021. 5. 26.(수) ∼ 6. 20.(일)\n  다. 신청방법: 구글폼 작성 후 제출(<https://url.kr/bgs81y>)\n  라. 문 의 처: 서울대학교 산학협력단 전략사업부(02-880-2028)",
+			"ts": "1622167530.021800",
+			"files": [
+				{
+					"id": "F023B624J4A",
+					"created": 1622167406,
+					"timestamp": 1622167406,
+					"name": "(포스터) SNU기술창업자를 위한 아이디어제품화 교육.pdf",
+					"title": "(포스터) SNU기술창업자를 위한 아이디어제품화 교육.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 658644,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F023B624J4A-(포스터) SNU기술창업자를 위한 아이디어제품화 교육.pdf",
+					"url_private_download": "attachments/F023B624J4A-(포스터) SNU기술창업자를 위한 아이디어제품화 교육.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F023B624J4A/____________snu______________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F023B624J4A-b7e9b02bc8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ev7+N",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<「실험실 특화형 창업선도대학」사업 'SNU 기술창업자를 위한 아이디어제품화 교육' 안내>\n\n본교에서 기술기반 창업 활성화를 위해 수행 중인 교육부·과기정통부 지원 2021년도「실험실 특화형 창업선도대학」사업과 관련하여 'SNU 아이디어 제품화' 교육생 모집한다고 합니다. 첨부한 포스터의 교육 일정 및 구성 확인하시고, 관심 있는 학생분들은 구글폼 작성하셔서 신청 바랍니다.\n\n  가. 신청자격: 기술창업에 관심있는 본교 대학원생\n  나. 신청기간: 2021. 5. 26.(수) ∼ 6. 20.(일)\n  다. 신청방법: 구글폼 작성 후 제출("
+								},
+								{
+									"type": "link",
+									"url": "https://url.kr/bgs81y",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n  라. 문 의 처: 서울대학교 산학협력단 전략사업부(02-880-2028)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 2021년도 제4차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」 홍보 안내 &gt;\n\n2021년도 제4차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」 을 개최하오니 인간대상 연구를 계획하는 연구자들은  아래 일정 확인하시어 교육을 꼭 이수해 주시기 바랍니다 :slightly_smiling_face:\n\n&lt;주요내용&gt;\n1. 일시: 2021.6.9.(수) 10:00 ~ 12:00 \n2. 장소: 비대면\n3. 참석대상: 인간대상 연구 윤리와 IRB 심의의뢰서 작성법\n4. 등록방법:  <https://forms.gle/iUfYeC9tt51bViN28> (이름,소속,이메일 기재 ※사전등록: 2021.6.2.09:00~ )\n교육 수강 시 IRB 연구자교육 이수증을 발급해 드리며, 관련하여 자세한 내용은 포스터 내용 참고 하시기 바랍니다.",
+			"ts": "1622169545.025100",
+			"files": [
+				{
+					"id": "F023PRYQFDF",
+					"created": 1622169541,
+					"timestamp": 1622169541,
+					"name": "찾아가는 연구자교육 포스터(2021.6월).pdf",
+					"title": "찾아가는 연구자교육 포스터(2021.6월).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 121985,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F023PRYQFDF-찾아가는 연구자교육 포스터(2021.6월).pdf",
+					"url_private_download": "attachments/F023PRYQFDF-찾아가는 연구자교육 포스터(2021.6월).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F023PRYQFDF/_______________________________________2021.6____.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F023PRYQFDF-4874979286",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "4F7",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 2021년도 제4차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」 홍보 안내 >\n\n2021년도 제4차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」 을 개최하오니 인간대상 연구를 계획하는 연구자들은  아래 일정 확인하시어 교육을 꼭 이수해 주시기 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n<주요내용>\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 2021.6.9.(\\uc218) 10:00 ~ 12:00 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: \\ube44\\ub300\\uba74\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d\\ub300\\uc0c1: \\uc778\\uac04\\ub300\\uc0c1 \\uc5f0\\uad6c \\uc724\\ub9ac\\uc640 IRB \\uc2ec\\uc758\\uc758\\ub8b0\\uc11c \\uc791\\uc131\\ubc95\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub4f1\\ub85d\\ubc29\\ubc95:  \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/iUfYeC9tt51bViN28\"},{\"type\":\"text\",\"text\":\" (\\uc774\\ub984,\\uc18c\\uc18d,\\uc774\\uba54\\uc77c \\uae30\\uc7ac \\u203b\\uc0ac\\uc804\\ub4f1\\ub85d: 2021.6.2.09:00~ )\"}]}],\"style\":\"ordered\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n교육 수강 시 IRB 연구자교육 이수증을 발급해 드리며, 관련하여 자세한 내용은 포스터 내용 참고 하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "2e5106d7-9638-4061-85bb-eae378bd778d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 2021.5.25.(화) 코로나 19 확진자 동선: 연구공원 식당 관련 안내 &gt;\n\n2021.5.25.(화) 확진자 동선에 &lt;연구공원 식당&gt;이 포함되어 있으며, 관련된 내용이 우리 대학 포털 사이트에 공지 되어 있습니다.\n관련하여 보건진료소에 문의한 결과 3일 이내 유증상(호흡기질환, 발열 등)이 나타날 경우 자발적으로 코로나19 검사를 진행함을 안내 받았으며,\n이에 유증상으로 코로나 19 검사를 받으신 분이 계신다면 행정실로 연락 부탁 드립니다. (02-880-1350)",
+			"ts": "1622178757.030800",
+			"thread_ts": "1622178757.030800",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QA85T90A",
+					"ts": "1622185839.030900"
+				},
+				{
+					"user": "U01QA85T90A",
+					"ts": "1622189539.031200"
+				}
+			],
+			"latest_reply": "1622189539.031200",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "0ta6Q",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 2021.5.25.(화) 코로나 19 확진자 동선: 연구공원 식당 관련 안내 >\n\n2021.5.25.(화) 확진자 동선에 <연구공원 식당>이 포함되어 있으며, 관련된 내용이 우리 대학 포털 사이트에 공지 되어 있습니다.\n관련하여 보건진료소에 문의한 결과 3일 이내 유증상(호흡기질환, 발열 등)이 나타날 경우 자발적으로 코로나19 검사를 진행함을 안내 받았으며,\n이에 유증상으로 코로나 19 검사를 받으신 분이 계신다면 행정실로 연락 부탁 드립니다. (02-880-1350)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QA85T90A"
+			]
+		},
+		{
+			"client_msg_id": "3641cde7-173e-4f3d-ae94-2d7c7e932e87",
+			"type": "message",
+			"user": "U01QA85T90A",
+			"text": "안녕하세요? 별도의 증상은 나타나지 않았지만 주말동안 가족들을 만나기로 해서 25-1동에 가서 미리 검사 받았습니다. 검사 결과가 나오면 알려드리겠습니다.",
+			"ts": "1622185839.030900",
+			"thread_ts": "1622178757.030800",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/me4X",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요? 별도의 증상은 나타나지 않았지만 주말동안 가족들을 만나기로 해서 25-1동에 가서 미리 검사 받았습니다. 검사 결과가 나오면 알려드리겠습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+				"first_name": "gundo0102",
+				"real_name": "gundo0102",
+				"display_name": "3기_박건도",
+				"team": "T01QA5S537V",
+				"name": "gundo0102",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "bf02f14d-2f9c-4add-9b5b-4efb8e0fc1e4",
+			"type": "message",
+			"user": "U01QA85T90A",
+			"text": "음성으로 나왔습니다^^",
+			"ts": "1622189539.031200",
+			"thread_ts": "1622178757.030800",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U01QNSM488Z",
+						"U01QNJ7PWRX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "aVi",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "음성으로 나왔습니다^^"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+				"first_name": "gundo0102",
+				"real_name": "gundo0102",
+				"display_name": "3기_박건도",
+				"team": "T01QA5S537V",
+				"name": "gundo0102",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,0 +1,329 @@
+[
+  {
+    "client_msg_id": "a19614e7-872d-405d-bc38-a24392c64d7a",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "안녕하세요. 4기 박사과정 김병찬입니다!\n\n곧 SNU Data Sciece - BK21 Seminar가 시작될 예정입니다!\n전광성 교수님께서 \u0026lt;Revisiting Simple Regret in Multi-Armed Bandits: Fast Rates for Returning a Good Arm\u0026gt;을 주제로 세미나를 진행해주십니다.\n학교에 있으신 학생분들의 많은 참여 부탁드립니다.\n\n감사합니다.",
+    "ts": "1691546230.007699",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U0406PM050F",
+          "U04QE499DNH",
+          "U01QV1SQJ57",
+          "U02ULBH3TEJ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "egIBv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 4기 박사과정 김병찬입니다!\n\n곧 SNU Data Sciece - BK21 Seminar가 시작될 예정입니다!\n전광성 교수님께서 \u003cRevisiting Simple Regret in Multi-Armed Bandits: Fast Rates for Returning a Good Arm\u003e을 주제로 세미나를 진행해주십니다.\n학교에 있으신 학생분들의 많은 참여 부탁드립니다.\n\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ba031455-57bd-4294-a1e2-931224806d80",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "*[데이터사이언스대학원 교수실 및 행정실 43동 이전에 대한 공지 전달]*\n\n안녕하세요,\n오늘 general  채널에 *\u0026lt; 데이터사이언스대학원 교수실 및 행정실 43동 이전 안내 \u0026gt;* 공지가 올라왔습니다.\n자세한 내용은 본 공지를 확인하여 주시고 혹시 이전에 대한 문의사항이 있다면 학생회를 통해 문의해주시기 바랍니다.\n\n감사합니다",
+    "ts": "1691556085.966699",
+    "thread_ts": "1691556085.966699",
+    "edited": {
+      "user": "U02ULBH3TEJ",
+      "ts": "1691556178.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U02ULBH3TEJ",
+        "ts": "1691556377.430659"
+      }
+    ],
+    "latest_reply": "1691556377.430659",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q/y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[데이터사이언스대학원 교수실 및 행정실 43동 이전에 대한 공지 전달]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요,\n오늘 general  채널에 "
+              },
+              {
+                "type": "text",
+                "text": "\u003c 데이터사이언스대학원 교수실 및 행정실 43동 이전 안내 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 공지가 올라왔습니다.\n자세한 내용은 본 공지를 확인하여 주시고 혹시 이전에 대한 문의사항이 있다면 학생회를 통해 문의해주시기 바랍니다.\n\n감사합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02ULBH3TEJ"
+    ]
+  },
+  {
+    "client_msg_id": "eeaaeb87-2b92-4f03-816a-44600dc3dadc",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "참고로 많은 분들이 궁금해하실 공간 사용에 대한 부분은 아직 교수님들 께서 논의중이신걸로 전달받은 상태입니다!",
+    "ts": "1691556377.430659",
+    "thread_ts": "1691556085.966699",
+    "parent_user_id": "U02ULBH3TEJ",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YT2p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "참고로 많은 분들이 궁금해하실 공간 사용에 대한 부분은 아직 교수님들 께서 논의중이신걸로 전달받은 상태입니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "364fc78e-a78b-454d-aa9f-846d3d637322",
+    "type": "message",
+    "user": "U02V5LS84JV",
+    "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar :pizza:\n\n안녕하세요 GSDS 학생회 입니다.\n금주 8월 11일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 8월 11일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제:\n• 안규수 (이재진 교수님 연구실): UDC-SIT: A Real-World Dataset for Under-Display Cameras\n• 김병찬 (오민환 교수님 연구실): Model-based Offline Reinforcement Learning with Count-based Conservatism\n#################################\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!:party_blob-2:",
+    "ts": "1691569977.852299",
+    "thread_ts": "1691569977.852299",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U02ULBH3TEJ",
+        "ts": "1691724320.304869"
+      },
+      {
+        "user": "U02ULBH3TEJ",
+        "ts": "1691729246.029069"
+      }
+    ],
+    "latest_reply": "1691729246.029069",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pizza",
+        "count": 46,
+        "users": [
+          "U02ULBHV58W",
+          "U01QV1SQJ57",
+          "U01QAE573J7",
+          "U0302PK342C",
+          "U04QAE84G5U",
+          "U01QGG6A5LJ",
+          "U01QNSM488Z",
+          "U01QAE5A9K5",
+          "U02HT1G61QF",
+          "U01R689L5KJ",
+          "U02V5LTRU2V",
+          "U04Q2G4KNTZ",
+          "U01QA85T90A",
+          "U04QKG4QTS8",
+          "U0302PJE83A",
+          "U02UT1XUGFL",
+          "U01R67PKD7S",
+          "U04R6NSR66L",
+          "U04QVM59W0H",
+          "U040C40QE6T",
+          "U01QV28F01X",
+          "U04QE49RPV3",
+          "U040ZVCNVU1",
+          "U040ZVCKKND",
+          "U04QVM3QD41",
+          "U041GBXK5A4",
+          "U04R6NT660Y",
+          "U040PQB9R1A",
+          "U01PVEU1A07",
+          "U04QVLEGY3B",
+          "U02UQ4CMR7X",
+          "U04QE496FTP",
+          "U02ULBGNF7G",
+          "U04R6NRPJC8",
+          "U02ULBKA8DU",
+          "U02UCD2C9V5",
+          "U04QGUEEHJ7",
+          "U0302PJRNTA",
+          "U02UQ4CE0AH",
+          "U04QGUFBFR9",
+          "U040M7VCS2X",
+          "U04R20KG9JM",
+          "U04QKG4K12Q",
+          "U04QKG52VFE",
+          "U040ZVD3C0H",
+          "U02ULBH3TEJ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jHO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar "
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요 GSDS 학생회 입니다.\n금주 8월 11일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 8월 11일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc548\\uaddc\\uc218 (\\uc774\\uc7ac\\uc9c4 \\uad50\\uc218\\ub2d8 \\uc5f0\\uad6c\\uc2e4): UDC-SIT: A Real-World Dataset for Under-Display Cameras\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae40\\ubcd1\\ucc2c (\\uc624\\ubbfc\\ud658 \\uad50\\uc218\\ub2d8 \\uc5f0\\uad6c\\uc2e4): Model-based Offline Reinforcement Learning with Count-based Conservatism\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "#################################\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
+              },
+              {
+                "type": "emoji",
+                "name": "party_blob-2",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "이효진",
+      "real_name": "이효진",
+      "display_name": "3기_이효진",
+      "team": "T01QA5S537V",
+      "name": "sarahhyojin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02ULBH3TEJ"
+    ]
+  }
+]

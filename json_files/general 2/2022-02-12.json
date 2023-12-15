@@ -1,111 +1,113 @@
-[
-  {
-    "client_msg_id": "34902dcd-f9b8-4766-b530-220d8a3d0224",
-    "type": "message",
-    "user": "U01R688N9BJ",
-    "text": "[2022년 학생대표단 선거 공지]\n2022년 재학생 학생대표단 선거 관련 공지 올립니다(후보자 등록신청 등 포함).\n자세한 사항은 첨부된 파일을 참고하시고, 기타 문의사항은 DM 등으로 저에게 문의해주시면 감사하겠습니다.",
-    "ts": "1644646989.019249",
-    "files": [
-      {
-        "id": "F0336EQT7G9",
-        "created": 1644646986,
-        "timestamp": 1644646986,
-        "name": "2022년 재학생 학생대표단 선거 안내.hwp",
-        "title": "2022년 재학생 학생대표단 선거 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01R688N9BJ",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 73728,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0336EQT7G9-2022년 재학생 학생대표단 선거 안내.hwp",
-        "url_private_download": "attachments/F0336EQT7G9-2022년 재학생 학생대표단 선거 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01R688N9BJ/F0336EQT7G9/2022___________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0336EQT7G9-32d0801bc6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Yv6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[2022년 학생대표단 선거 공지]\n2022년 재학생 학생대표단 선거 관련 공지 올립니다(후보자 등록신청 등 포함).\n자세한 사항은 첨부된 파일을 참고하시고, 기타 문의사항은 DM 등으로 저에게 문의해주시면 감사하겠습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
-      "first_name": "Jinwoong",
-      "real_name": "Jinwoong Kim",
-      "display_name": "2기_김진웅",
-      "team": "T01QA5S537V",
-      "name": "qazcde.k",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "34902dcd-f9b8-4766-b530-220d8a3d0224",
+			"type": "message",
+			"user": "U01R688N9BJ",
+			"text": "[2022년 학생대표단 선거 공지]\n2022년 재학생 학생대표단 선거 관련 공지 올립니다(후보자 등록신청 등 포함).\n자세한 사항은 첨부된 파일을 참고하시고, 기타 문의사항은 DM 등으로 저에게 문의해주시면 감사하겠습니다.",
+			"ts": "1644646989.019249",
+			"files": [
+				{
+					"id": "F0336EQT7G9",
+					"created": 1644646986,
+					"timestamp": 1644646986,
+					"name": "2022년 재학생 학생대표단 선거 안내.hwp",
+					"title": "2022년 재학생 학생대표단 선거 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01R688N9BJ",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 73728,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0336EQT7G9-2022년 재학생 학생대표단 선거 안내.hwp",
+					"url_private_download": "attachments/F0336EQT7G9-2022년 재학생 학생대표단 선거 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01R688N9BJ/F0336EQT7G9/2022___________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0336EQT7G9-32d0801bc6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Yv6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[2022년 학생대표단 선거 공지]\n2022년 재학생 학생대표단 선거 관련 공지 올립니다(후보자 등록신청 등 포함).\n자세한 사항은 첨부된 파일을 참고하시고, 기타 문의사항은 DM 등으로 저에게 문의해주시면 감사하겠습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+				"first_name": "Jinwoong",
+				"real_name": "Jinwoong Kim",
+				"display_name": "2기_김진웅",
+				"team": "T01QA5S537V",
+				"name": "qazcde.k",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

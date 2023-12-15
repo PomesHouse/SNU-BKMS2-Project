@@ -1,0 +1,377 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;BK21사업 참여 대학원생 연구윤리 교과목 수강 확인\u0026gt;*\n\nBK21사업 참여학생은 졸업 전까지 반드시 1회 연구윤리 교과목(교과/비교과)을 수강해야 합니다.\n\n2021년 1학기에는 eTL에서 비교과로  \"2021-1) 대학원생을 위한 연구윤리\"가 개설되었습니다.\n그런데 당시 이수 확인을 위한 시스템 구축이 안되어있어, 연구윤리팀에서 수강 현황을 공문으로 보내왔습니다.\n이에 eTL 연구윤리 교과목 수강 현황 명단(2021.08.26기준)을 올려드리오니 본인 확인 부탁드립니다.\n\n2021년 2학기에는 아래의 2가지 연구윤리 교과목이 개설되었습니다.\n*미수강 학생은 2021년 2학기에 개설된 연구윤리 교과목(교과/비교과)을 수강하고, BK 담당자(서경선 \u003cmailto:gsdsbk@snu.ac.kr|gsdsbk@snu.ac.kr\u003e)에게 증빙 자료를 보내주세요.* \n참고로 2021년 2학기 부터는 eTL 연구윤리 교과목의 경우, 이수 확인증이 출력이 가능합니다.\n\n1.  2021-2) 대학원생을 위한 연구윤리(이공계)\n1) 구분 : 비교과\n2) 수업 : 3시간\n3) 수강방법 : eTL ( 접속 \u003chttp://etl.snu.ac.kr\u003e) ‘SNUON- ’ → 좌측 강좌목록‘ / Ethics’ → 연구윤리 검색 → 계열에 맞는 강좌 수강신청\n4) 제출서류 : 수업이수증 출력하여 9/3까지\n\n2. 연구윤리의 이해(M2480.000100)\n1) 구분 : 교과\n2) 수업 : 주1시간\n3) 수강 : 정규 과목 수강 신청과 동일\n4) 제출서류 : 수강신청내역 9/3까지, 성적내역 12/31까지",
+    "ts": "1629942163.004400",
+    "files": [
+      {
+        "id": "F02CAJBNTJR",
+        "created": 1629942056,
+        "timestamp": 1629942056,
+        "name": "연구윤리 교과목 수강 현황.xlsx",
+        "title": "연구윤리 교과목 수강 현황.xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "image_exif_rotation": 0,
+        "filetype": "xlsx",
+        "pretty_type": "Excel 스프레드시트",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 10732,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02CAJBNTJR-연구윤리 교과목 수강 현황.xlsx",
+        "url_private_download": "attachments/F02CAJBNTJR-연구윤리 교과목 수강 현황.xlsx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02CAJBNTJR/____________________________________.xlsx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02CAJBNTJR-65bb90cb08",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9bS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003cBK21사업 참여 대학원생 연구윤리 교과목 수강 확인\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nBK21사업 참여학생은 졸업 전까지 반드시 1회 연구윤리 교과목(교과/비교과)을 수강해야 합니다.\n\n2021년 1학기에는 eTL에서 비교과로  \"2021-1) 대학원생을 위한 연구윤리\"가 개설되었습니다.\n그런데 당시 이수 확인을 위한 시스템 구축이 안되어있어, 연구윤리팀에서 수강 현황을 공문으로 보내왔습니다.\n이에 eTL 연구윤리 교과목 수강 현황 명단(2021.08.26기준)을 올려드리오니 본인 확인 부탁드립니다.\n\n2021년 2학기에는 아래의 2가지 연구윤리 교과목이 개설되었습니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "미수강 학생은 2021년 2학기에 개설된 연구윤리 교과목(교과/비교과)을 수강하고, BK 담당자(서경선 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "mailto:gsdsbk@snu.ac.kr",
+                "text": "gsdsbk@snu.ac.kr",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ")에게 증빙 자료를 보내주세요. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n참고로 2021년 2학기 부터는 eTL 연구윤리 교과목의 경우, 이수 확인증이 출력이 가능합니다.\n\n1.  2021-2) 대학원생을 위한 연구윤리(이공계)\n1) 구분 : 비교과\n2) 수업 : 3시간\n3) 수강방법 : eTL ( 접속 "
+              },
+              {
+                "type": "link",
+                "url": "http://etl.snu.ac.kr",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ") ‘SNUON- ’ → 좌측 강좌목록‘ / Ethics’ → 연구윤리 검색 → 계열에 맞는 강좌 수강신청\n4) 제출서류 : 수업이수증 출력하여 9/3까지\n\n2. 연구윤리의 이해(M2480.000100)\n1) 구분 : 교과\n2) 수업 : 주1시간\n3) 수강 : 정규 과목 수강 신청과 동일\n4) 제출서류 : 수강신청내역 9/3까지, 성적내역 12/31까지"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;학생용 스캐너 설치\u0026gt;*\n\n*3층 및 4층 프린터룸*에 스캐너를 설치하였습니다. (모든 층 설치 완료)\n사용법은 바탕화면에 설치된 스캔프로그램(스캐너마스터)로 간단히 이용할 수 있으며, 「scan」폴더에 저장됩니다.\n*스캔 완료 후 본인이 스캔한 파일은 꼭 !! 지우시기 바라며, 모두가 사용하는 공용물품이므로 소중하게 사용 부탁 드립니다* :slightly_smiling_face: ",
+    "ts": "1629961323.008200",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1630311562.000000"
+    },
+    "files": [
+      {
+        "id": "F02C7H0G3PY",
+        "created": 1629961317,
+        "timestamp": 1629961317,
+        "name": "스캐너설치.jpg",
+        "title": "스캐너설치.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2939982,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02C7H0G3PY-스캐너설치.jpg",
+        "url_private_download": "attachments/F02C7H0G3PY-스캐너설치.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02C7H0G3PY-70935bc3eb/________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02C7H0G3PY-70935bc3eb/________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02C7H0G3PY-70935bc3eb/________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02C7H0G3PY-70935bc3eb/________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02C7H0G3PY-70935bc3eb/________________480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02C7H0G3PY-70935bc3eb/________________720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02C7H0G3PY-70935bc3eb/________________960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02C7H0G3PY-70935bc3eb/________________1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02C7H0G3PY/_______________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02C7H0G3PY-f2ea6dc1c6",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiley",
+        "count": 8,
+        "users": [
+          "U01QGKD09K5",
+          "U01QAE5BVEX",
+          "U01PVEU1A07",
+          "U01QAE573J7",
+          "U01QV28FG4R",
+          "U01QNSM488Z",
+          "U01QNSMDGF3",
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hDuS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c학생용 스캐너 설치\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "3층 및 4층 프린터룸",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 스캐너를 설치하였습니다. (모든 층 설치 완료)\n사용법은 바탕화면에 설치된 스캔프로그램(스캐너마스터)로 간단히 이용할 수 있으며, 「scan」폴더에 저장됩니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "스캔 완료 후 본인이 스캔한 파일은 꼭 !! 지우시기 바라며, 모두가 사용하는 공용물품이므로 소중하게 사용 부탁 드립니다 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "834b9c25-085f-4366-a8eb-6cb7d1d5e9c9",
+    "type": "message",
+    "user": "U01R688N9BJ",
+    "text": "GSDS 대학원생은 전부 자리변경 및 배정 대상입니다!(선택×)",
+    "ts": "1629981078.009200",
+    "thread_ts": "1629771870.048200",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U01QGD03WUC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IVF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "GSDS 대학원생은 전부 자리변경 및 배정 대상입니다!(선택×)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+      "first_name": "Jinwoong",
+      "real_name": "Jinwoong Kim",
+      "display_name": "2기_김진웅",
+      "team": "T01QA5S537V",
+      "name": "qazcde.k",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

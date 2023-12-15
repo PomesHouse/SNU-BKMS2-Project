@@ -1,353 +1,355 @@
-[
-  {
-    "client_msg_id": "05a6b3f0-6a2d-45ba-95a3-ff61fdff82c9",
-    "type": "message",
-    "user": "U02ULBH3TEJ",
-    "text": "[5/19 예비군 훈련 대상자 조사]\n~안녕하세요,~\n~대학원 총엠티 기간(5/19~20)에 예비군 훈련에 소집된 대상자 목록을 조사하고 있습니다.~\n~해당되시는 분들은~ :fire:~오늘 오후 2시까지~:fire: ~저에게 슬랙 디엠으로 \u0026lt;예비군 교육훈련 소집 통지서\u0026gt;를 보내주시기 바랍니다.~\n\n안녕하세요 다시 공지드립니다.\n기존에는 훈련 대상자의 목록을 수합하여 일괄적으로 기간 변경을 하고자 했으나 이는 불가능하고, 학생이 개별적으로 변경신청을 해야 될 것 같습니다. (방법은 댓글 내용 참고) 따라서 총엠티에 참여하고자 하시는 분들은 개별적으로 일정을 변경해주시기 바랍니다.\n• *이미 디엠을 보냈는데 일정을 변경하신 분들은 다시 디엠 보내주시기 바랍니다.*\n• 혹시라도 일정이 여의치 않아 변경이 불가능한 분들은 저에게 디엠으로 알려주시기 바랍니다.\n• 수합된 자료는 모두 지울 예정입니다. 디엠을 보내실때도 *자료는 보내지 않으셔도 됩니다.*",
-    "ts": "1681696566.057109",
-    "thread_ts": "1681696566.057109",
-    "edited": {
-      "user": "U02ULBH3TEJ",
-      "ts": "1681706678.000000"
-    },
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U0302PLQ34Y",
-        "ts": "1681697370.903099"
-      }
-    ],
-    "latest_reply": "1681697370.903099",
-    "files": [
-      {
-        "id": "F0539GZ6NQ6",
-        "created": 0,
-        "timestamp": 0,
-        "name": "",
-        "title": "",
-        "mimetype": "",
-        "image_exif_rotation": 0,
-        "filetype": "",
-        "pretty_type": "",
-        "user": "",
-        "mode": "tombstone",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 0,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0539GZ6NQ6-",
-        "url_private_download": "attachments/F0539GZ6NQ6-",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "",
-        "permalink_public": "",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "L=O",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[5/19 예비군 훈련 대상자 조사]\n"
-              },
-              {
-                "type": "text",
-                "text": "안녕하세요,",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "대학원 총엠티 기간(5/19~20)에 예비군 훈련에 소집된 대상자 목록을 조사하고 있습니다.",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "해당되시는 분들은 ",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "fire",
-                "skin_tone": 0,
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "오늘 오후 2시까지",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "fire",
-                "skin_tone": 0,
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 저에게 슬랙 디엠으로 \u003c예비군 교육훈련 소집 통지서\u003e를 보내주시기 바랍니다.",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요 다시 공지드립니다.\n기존에는 훈련 대상자의 목록을 수합하여 일괄적으로 기간 변경을 하고자 했으나 이는 불가능하고, 학생이 개별적으로 변경신청을 해야 될 것 같습니다. (방법은 댓글 내용 참고) 따라서 총엠티에 참여하고자 하시는 분들은 개별적으로 일정을 변경해주시기 바랍니다.\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\ubbf8 \\ub514\\uc5e0\\uc744 \\ubcf4\\ub0c8\\ub294\\ub370 \\uc77c\\uc815\\uc744 \\ubcc0\\uacbd\\ud558\\uc2e0 \\ubd84\\ub4e4\\uc740 \\ub2e4\\uc2dc \\ub514\\uc5e0 \\ubcf4\\ub0b4\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud639\\uc2dc\\ub77c\\ub3c4 \\uc77c\\uc815\\uc774 \\uc5ec\\uc758\\uce58 \\uc54a\\uc544 \\ubcc0\\uacbd\\uc774 \\ubd88\\uac00\\ub2a5\\ud55c \\ubd84\\ub4e4\\uc740 \\uc800\\uc5d0\\uac8c \\ub514\\uc5e0\\uc73c\\ub85c \\uc54c\\ub824\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\ud569\\ub41c \\uc790\\ub8cc\\ub294 \\ubaa8\\ub450 \\uc9c0\\uc6b8 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4. \\ub514\\uc5e0\\uc744 \\ubcf4\\ub0b4\\uc2e4\\ub54c\\ub3c4 \"},{\"type\":\"text\",\"text\":\"\\uc790\\ub8cc\\ub294 \\ubcf4\\ub0b4\\uc9c0 \\uc54a\\uc73c\\uc154\\ub3c4 \\ub429\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
-      "first_name": "3기_권유진",
-      "real_name": "3기_권유진",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "ideastraw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U0302PLQ34Y"
-    ]
-  },
-  {
-    "client_msg_id": "e740eb4e-1823-45d3-8c8a-8607f4c595c7",
-    "type": "message",
-    "user": "U0302PLQ34Y",
-    "text": "*\u0026lt;예비군 훈련 일정 변경 관련 안내\u0026gt;*\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: *예비군홈페이지(\u003chttp://www.yebigun1.mil.kr|www.yebigun1.mil.kr\u003e)에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)*\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다.",
-    "ts": "1681697370.903099",
-    "thread_ts": "1681696566.057109",
-    "subtype": "thread_broadcast",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9XQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c예비군 훈련 일정 변경 관련 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: "
-              },
-              {
-                "type": "text",
-                "text": "예비군홈페이지(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "http://www.yebigun1.mil.kr",
-                "text": "www.yebigun1.mil.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2023-07-12/5590776974256_ce997b79a8d558c5ccc5_72.jpg",
-      "first_name": "채규병",
-      "real_name": "채규병",
-      "display_name": "3기_채규병",
-      "team": "T01QA5S537V",
-      "name": "kyubyung91",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "e740eb4e-1823-45d3-8c8a-8607f4c595c7",
-    "type": "message",
-    "user": "U0302PLQ34Y",
-    "text": "*\u0026lt;예비군 훈련 일정 변경 관련 안내\u0026gt;*\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: *예비군홈페이지(\u003chttp://www.yebigun1.mil.kr|www.yebigun1.mil.kr\u003e)에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)*\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다.",
-    "ts": "1681697370.903099",
-    "thread_ts": "1681696566.057109",
-    "subtype": "thread_broadcast",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9XQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c예비군 훈련 일정 변경 관련 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: "
-              },
-              {
-                "type": "text",
-                "text": "예비군홈페이지(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "http://www.yebigun1.mil.kr",
-                "text": "www.yebigun1.mil.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2023-07-12/5590776974256_ce997b79a8d558c5ccc5_72.jpg",
-      "first_name": "채규병",
-      "real_name": "채규병",
-      "display_name": "3기_채규병",
-      "team": "T01QA5S537V",
-      "name": "kyubyung91",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "05a6b3f0-6a2d-45ba-95a3-ff61fdff82c9",
+			"type": "message",
+			"user": "U02ULBH3TEJ",
+			"text": "[5/19 예비군 훈련 대상자 조사]\n~안녕하세요,~\n~대학원 총엠티 기간(5/19~20)에 예비군 훈련에 소집된 대상자 목록을 조사하고 있습니다.~\n~해당되시는 분들은~ :fire:~오늘 오후 2시까지~:fire: ~저에게 슬랙 디엠으로 &lt;예비군 교육훈련 소집 통지서&gt;를 보내주시기 바랍니다.~\n\n안녕하세요 다시 공지드립니다.\n기존에는 훈련 대상자의 목록을 수합하여 일괄적으로 기간 변경을 하고자 했으나 이는 불가능하고, 학생이 개별적으로 변경신청을 해야 될 것 같습니다. (방법은 댓글 내용 참고) 따라서 총엠티에 참여하고자 하시는 분들은 개별적으로 일정을 변경해주시기 바랍니다.\n• *이미 디엠을 보냈는데 일정을 변경하신 분들은 다시 디엠 보내주시기 바랍니다.*\n• 혹시라도 일정이 여의치 않아 변경이 불가능한 분들은 저에게 디엠으로 알려주시기 바랍니다.\n• 수합된 자료는 모두 지울 예정입니다. 디엠을 보내실때도 *자료는 보내지 않으셔도 됩니다.*",
+			"ts": "1681696566.057109",
+			"thread_ts": "1681696566.057109",
+			"edited": {
+				"user": "U02ULBH3TEJ",
+				"ts": "1681706678.000000"
+			},
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U0302PLQ34Y",
+					"ts": "1681697370.903099"
+				}
+			],
+			"latest_reply": "1681697370.903099",
+			"files": [
+				{
+					"id": "F0539GZ6NQ6",
+					"created": 0,
+					"timestamp": 0,
+					"name": "",
+					"title": "",
+					"mimetype": "",
+					"image_exif_rotation": 0,
+					"filetype": "",
+					"pretty_type": "",
+					"user": "",
+					"mode": "tombstone",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 0,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0539GZ6NQ6-",
+					"url_private_download": "attachments/F0539GZ6NQ6-",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "",
+					"permalink_public": "",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "L=O",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[5/19 예비군 훈련 대상자 조사]\n"
+								},
+								{
+									"type": "text",
+									"text": "안녕하세요,",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "대학원 총엠티 기간(5/19~20)에 예비군 훈련에 소집된 대상자 목록을 조사하고 있습니다.",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "해당되시는 분들은 ",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "fire",
+									"skin_tone": 0,
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "오늘 오후 2시까지",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "fire",
+									"skin_tone": 0,
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 저에게 슬랙 디엠으로 <예비군 교육훈련 소집 통지서>를 보내주시기 바랍니다.",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요 다시 공지드립니다.\n기존에는 훈련 대상자의 목록을 수합하여 일괄적으로 기간 변경을 하고자 했으나 이는 불가능하고, 학생이 개별적으로 변경신청을 해야 될 것 같습니다. (방법은 댓글 내용 참고) 따라서 총엠티에 참여하고자 하시는 분들은 개별적으로 일정을 변경해주시기 바랍니다.\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\ubbf8 \\ub514\\uc5e0\\uc744 \\ubcf4\\ub0c8\\ub294\\ub370 \\uc77c\\uc815\\uc744 \\ubcc0\\uacbd\\ud558\\uc2e0 \\ubd84\\ub4e4\\uc740 \\ub2e4\\uc2dc \\ub514\\uc5e0 \\ubcf4\\ub0b4\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud639\\uc2dc\\ub77c\\ub3c4 \\uc77c\\uc815\\uc774 \\uc5ec\\uc758\\uce58 \\uc54a\\uc544 \\ubcc0\\uacbd\\uc774 \\ubd88\\uac00\\ub2a5\\ud55c \\ubd84\\ub4e4\\uc740 \\uc800\\uc5d0\\uac8c \\ub514\\uc5e0\\uc73c\\ub85c \\uc54c\\ub824\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\ud569\\ub41c \\uc790\\ub8cc\\ub294 \\ubaa8\\ub450 \\uc9c0\\uc6b8 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4. \\ub514\\uc5e0\\uc744 \\ubcf4\\ub0b4\\uc2e4\\ub54c\\ub3c4 \"},{\"type\":\"text\",\"text\":\"\\uc790\\ub8cc\\ub294 \\ubcf4\\ub0b4\\uc9c0 \\uc54a\\uc73c\\uc154\\ub3c4 \\ub429\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+				"first_name": "3기_권유진",
+				"real_name": "3기_권유진",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "ideastraw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U0302PLQ34Y"
+			]
+		},
+		{
+			"client_msg_id": "e740eb4e-1823-45d3-8c8a-8607f4c595c7",
+			"type": "message",
+			"user": "U0302PLQ34Y",
+			"text": "*&lt;예비군 훈련 일정 변경 관련 안내&gt;*\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: *예비군홈페이지(<http://www.yebigun1.mil.kr|www.yebigun1.mil.kr>)에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)*\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다.",
+			"ts": "1681697370.903099",
+			"thread_ts": "1681696566.057109",
+			"subtype": "thread_broadcast",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9XQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<예비군 훈련 일정 변경 관련 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: "
+								},
+								{
+									"type": "text",
+									"text": "예비군홈페이지(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "http://www.yebigun1.mil.kr",
+									"text": "www.yebigun1.mil.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2023-07-12/5590776974256_ce997b79a8d558c5ccc5_72.jpg",
+				"first_name": "채규병",
+				"real_name": "채규병",
+				"display_name": "3기_채규병",
+				"team": "T01QA5S537V",
+				"name": "kyubyung91",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "e740eb4e-1823-45d3-8c8a-8607f4c595c7",
+			"type": "message",
+			"user": "U0302PLQ34Y",
+			"text": "*&lt;예비군 훈련 일정 변경 관련 안내&gt;*\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: *예비군홈페이지(<http://www.yebigun1.mil.kr|www.yebigun1.mil.kr>)에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)*\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다.",
+			"ts": "1681697370.903099",
+			"thread_ts": "1681696566.057109",
+			"subtype": "thread_broadcast",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9XQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<예비군 훈련 일정 변경 관련 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: "
+								},
+								{
+									"type": "text",
+									"text": "예비군홈페이지(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "http://www.yebigun1.mil.kr",
+									"text": "www.yebigun1.mil.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2023-07-12/5590776974256_ce997b79a8d558c5ccc5_72.jpg",
+				"first_name": "채규병",
+				"real_name": "채규병",
+				"display_name": "3기_채규병",
+				"team": "T01QA5S537V",
+				"name": "kyubyung91",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

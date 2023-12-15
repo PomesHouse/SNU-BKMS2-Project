@@ -1,0 +1,773 @@
+[
+  {
+    "client_msg_id": "8d2520aa-d763-4b83-b5e6-b337b7a73e0d",
+    "type": "message",
+    "user": "U01QAE573J7",
+    "text": "*[분실물을 찾습니다]*\n혹시 아래 USB를 보신 분은 저에게 DM해주시면 감사하겠습니다.",
+    "ts": "1631669741.038700",
+    "files": [
+      {
+        "id": "F02E95XGE6S",
+        "created": 1631669734,
+        "timestamp": 1631669734,
+        "name": "20210909_134118.jpg",
+        "title": "20210909_134118.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QAE573J7",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 119097,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02E95XGE6S-20210909_134118.jpg",
+        "url_private_download": "attachments/F02E95XGE6S-20210909_134118.jpg",
+        "original_h": 3024,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02E95XGE6S-4fbfe7bcf3/20210909_134118_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02E95XGE6S-4fbfe7bcf3/20210909_134118_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02E95XGE6S-4fbfe7bcf3/20210909_134118_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02E95XGE6S-4fbfe7bcf3/20210909_134118_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02E95XGE6S-4fbfe7bcf3/20210909_134118_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02E95XGE6S-4fbfe7bcf3/20210909_134118_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02E95XGE6S-4fbfe7bcf3/20210909_134118_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02E95XGE6S-4fbfe7bcf3/20210909_134118_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QAE573J7/F02E95XGE6S/20210909_134118.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02E95XGE6S-19dd675efc",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "sob",
+        "count": 2,
+        "users": [
+          "U01QNSM488Z",
+          "U01PVEU1A07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "AFPxA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[분실물을 찾습니다]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n혹시 아래 USB를 보신 분은 저에게 DM해주시면 감사하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "1기_안규수",
+      "real_name": "1기_안규수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kyusu.ahn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "321c525b-4521-4375-9faa-d02d1c8432a3",
+    "type": "message",
+    "user": "U01PVEU1A07",
+    "text": "롤케익 나눔합니다. 3층 탕비실에 두었으니 드시고 싶은 분은 편하게 드세요. (드시기 편하게 조각으로 썰어놓았습니다. :slightly_smiling_face:)\nTMI : 세계에서 가장 많이 팔린 롤케익으로 기네스북에 등재되었다 합니다.",
+    "ts": "1631670260.042400",
+    "thread_ts": "1631670260.042400",
+    "reply_count": 6,
+    "replies": [
+      {
+        "user": "U01QNSM488Z",
+        "ts": "1631670377.043600"
+      },
+      {
+        "user": "U01PVEU1A07",
+        "ts": "1631670397.043800"
+      },
+      {
+        "user": "U01Q386CMKQ",
+        "ts": "1631670518.046100"
+      },
+      {
+        "user": "U01PVEU98KH",
+        "ts": "1631670634.046300"
+      },
+      {
+        "user": "U01PVET2C31",
+        "ts": "1631672091.048400"
+      },
+      {
+        "user": "U01Q75KNV1T",
+        "ts": "1631683309.050000"
+      }
+    ],
+    "latest_reply": "1631683309.050000",
+    "files": [
+      {
+        "id": "F02F5H5QELQ",
+        "created": 1631670040,
+        "timestamp": 1631670040,
+        "name": "20210915_102740.jpg",
+        "title": "20210915_102740.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01PVEU1A07",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 896783,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02F5H5QELQ-20210915_102740.jpg",
+        "url_private_download": "attachments/F02F5H5QELQ-20210915_102740.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02F5H5QELQ-c240953f05/20210915_102740_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02F5H5QELQ-c240953f05/20210915_102740_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02F5H5QELQ-c240953f05/20210915_102740_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02F5H5QELQ-c240953f05/20210915_102740_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02F5H5QELQ-c240953f05/20210915_102740_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02F5H5QELQ-c240953f05/20210915_102740_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02F5H5QELQ-c240953f05/20210915_102740_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02F5H5QELQ-c240953f05/20210915_102740_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U01PVEU1A07/F02F5H5QELQ/20210915_102740.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02F5H5QELQ-8f10f1aa8f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 11,
+        "users": [
+          "U01PVEU69BR",
+          "U01Q386CMKQ",
+          "U01QGKD09K5",
+          "U01QA85T90A",
+          "U01Q1KM0M3R",
+          "U01QV1WAPL1",
+          "U01QAE5A9K5",
+          "U01Q3A8TXU6",
+          "U01Q75KNV1T",
+          "U01PVETMX2T",
+          "U01QNMUAUKW"
+        ]
+      },
+      {
+        "name": "drooling_face",
+        "count": 1,
+        "users": [
+          "U01QNSMDGF3"
+        ]
+      },
+      {
+        "name": "pray",
+        "count": 5,
+        "users": [
+          "U01QAE573J7",
+          "U01Q386CMKQ",
+          "U01QV28FG4R",
+          "U01PVET2C31",
+          "U01Q75KNV1T"
+        ]
+      },
+      {
+        "name": "roller_skate",
+        "count": 3,
+        "users": [
+          "U01QNSM488Z",
+          "U01PVEU98KH",
+          "U01QAE5DERZ"
+        ]
+      },
+      {
+        "name": "cake",
+        "count": 2,
+        "users": [
+          "U01QNSM488Z",
+          "U01PVEU98KH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EaZK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "롤케익 나눔합니다. 3층 탕비실에 두었으니 드시고 싶은 분은 편하게 드세요. (드시기 편하게 조각으로 썰어놓았습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")\nTMI : 세계에서 가장 많이 팔린 롤케익으로 기네스북에 등재되었다 합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "1기_남기성",
+      "real_name": "1기_남기성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kisung.nam",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 6,
+    "reply_users": [
+      "U01PVET2C31",
+      "U01PVEU1A07",
+      "U01PVEU98KH",
+      "U01Q386CMKQ",
+      "U01Q75KNV1T",
+      "U01QNSM488Z"
+    ]
+  },
+  {
+    "client_msg_id": "5A88743D-86E6-48C6-8DC4-682F97DC74F7",
+    "type": "message",
+    "user": "U01QNSM488Z",
+    "text": "고발합니다 채규욱 학우가 이 글이 올라오기전에 이미 롤케잌 2개나 먹었습니다:cop:",
+    "ts": "1631670377.043600",
+    "thread_ts": "1631670260.042400",
+    "edited": {
+      "user": "U01QNSM488Z",
+      "ts": "1631670830.000000"
+    },
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "cake",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      },
+      {
+        "name": "male-police-officer",
+        "count": 8,
+        "users": [
+          "U01QAE573J7",
+          "U01QA85T90A",
+          "U01PVEU1A07",
+          "U01QAE5A9K5",
+          "U01Q3A8TXU6",
+          "U01Q75KNV1T",
+          "U01QAE5DERZ",
+          "U01R678KWP2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HpKQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "고발합니다 채규욱 학우가 이 글이 올라오기전에 이미 롤케잌 2개나 먹었습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "cop",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "1기_황태현",
+      "real_name": "1기_황태현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "th.hwang",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "73e29b08-74ea-4a59-a9c6-d415559652be",
+    "type": "message",
+    "user": "U01PVEU1A07",
+    "text": "다이어트 하신다더니...",
+    "ts": "1631670397.043800",
+    "thread_ts": "1631670260.042400",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "male-police-officer",
+        "count": 2,
+        "users": [
+          "U01QAE573J7",
+          "U01QAE5DERZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YVs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "다이어트 하신다더니..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "1기_남기성",
+      "real_name": "1기_남기성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kisung.nam",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0063BFE1-0936-4524-9903-7B00C8CDD265",
+    "type": "message",
+    "user": "U01Q386CMKQ",
+    "text": "짱이에요ㅎㅎ 감사합니다! ㅋㅋ ",
+    "ts": "1631670518.046100",
+    "thread_ts": "1631670260.042400",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7YneP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "짱이에요ㅎㅎ 감사합니다! ㅋㅋ "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826260082339_3eb2f7686c0824cf17e0_72.jpg",
+      "first_name": "Na",
+      "real_name": "Na Yeon Kim",
+      "display_name": "1기_김나연",
+      "team": "T01QA5S537V",
+      "name": "nayeonkim1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "205466f3-3fb5-472e-885e-8796ecdb5538",
+    "type": "message",
+    "user": "U01PVEU98KH",
+    "text": ":man-facepalming:",
+    "ts": "1631670634.046300",
+    "thread_ts": "1631670260.042400",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "cake",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      },
+      {
+        "name": "hamburger",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      },
+      {
+        "name": "pizza",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      },
+      {
+        "name": "poultry_leg",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      },
+      {
+        "name": "fries",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      },
+      {
+        "name": "hotdog",
+        "count": 1,
+        "users": [
+          "U01QNSM488Z"
+        ]
+      },
+      {
+        "name": "chocolate_bar",
+        "count": 1,
+        "users": [
+          "U01QNSM488Z"
+        ]
+      },
+      {
+        "name": "doughnut",
+        "count": 1,
+        "users": [
+          "U01QNSM488Z"
+        ]
+      },
+      {
+        "name": "honey_pot",
+        "count": 1,
+        "users": [
+          "U01QNSM488Z"
+        ]
+      },
+      {
+        "name": "fried_egg",
+        "count": 1,
+        "users": [
+          "U01QNSM488Z"
+        ]
+      },
+      {
+        "name": "lollipop",
+        "count": 1,
+        "users": [
+          "U01QAE5DERZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CavK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "man-facepalming",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a7e39a3649eb0372be7b0330d3c40062.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "1기_채규욱",
+      "real_name": "1기_채규욱",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kwchai",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a1d29141-9a23-4cd0-8a91-883ff47b4a9e",
+    "type": "message",
+    "user": "U01PVET2C31",
+    "text": "오 기네스 롤케잌 항상감사합니다 나눔~!",
+    "ts": "1631672091.048400",
+    "thread_ts": "1631670260.042400",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VWs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오 기네스 롤케잌 항상감사합니다 나눔~!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "1기_장창섭",
+      "real_name": "1기_장창섭",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "charlie9007",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "fc1c37c5-30bc-4e41-8816-fd1f7869e81a",
+    "type": "message",
+    "user": "U01Q75KNV1T",
+    "text": "ㅋㅋㅋ감사히 잘 먹었습니다!",
+    "ts": "1631683309.050000",
+    "thread_ts": "1631670260.042400",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=NiV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ㅋㅋㅋ감사히 잘 먹었습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1839499236017_e5a333503f5d47822279_72.jpg",
+      "first_name": "jwy4888",
+      "real_name": "jwy4888",
+      "display_name": "3기_장원영",
+      "team": "T01QA5S537V",
+      "name": "jwy4888",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

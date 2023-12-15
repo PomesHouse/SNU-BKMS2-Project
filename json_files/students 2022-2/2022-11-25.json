@@ -1,210 +1,212 @@
-[
-  {
-    "client_msg_id": "DCC092CF-F56C-4846-82F9-85BEC176A0BE",
-    "type": "message",
-    "user": "U01QZRUNBA4",
-    "text": "안녕하세요 3기 박사 최현준입니다\n혹시 nlp쪽 (특히 STT)은 어디 학술지나 학회 논문을 많이 참고하는지 알려주실 수 있으신가요...?\n감사합니다... :blush: ",
-    "ts": "1669373124.528909",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "짱구s",
-        "count": 5,
-        "users": [
-          "U02UVAT3BPW",
-          "U01R678KWP2",
-          "U01QAE5A9K5",
-          "U040ENMBB1C",
-          "U01QZRUNBA4"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "6egh",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요"
-              },
-              {
-                "type": "text",
-                "text": " 3"
-              },
-              {
-                "type": "text",
-                "text": "기"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "박사"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "최현준입니다"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "혹시"
-              },
-              {
-                "type": "text",
-                "text": " nlp"
-              },
-              {
-                "type": "text",
-                "text": "쪽"
-              },
-              {
-                "type": "text",
-                "text": " ("
-              },
-              {
-                "type": "text",
-                "text": "특히"
-              },
-              {
-                "type": "text",
-                "text": " STT)"
-              },
-              {
-                "type": "text",
-                "text": "은"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "어디"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "학술지나"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "학회"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "논문을"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "많이"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "참고하는지"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "알려주실"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "수"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "있으신가요"
-              },
-              {
-                "type": "text",
-                "text": "...?\n"
-              },
-              {
-                "type": "text",
-                "text": "감사합니다"
-              },
-              {
-                "type": "text",
-                "text": "... "
-              },
-              {
-                "type": "emoji",
-                "name": "blush",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " "
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
-      "first_name": "3기_최현준",
-      "real_name": "3기_최현준",
-      "display_name": "3기_최현준",
-      "team": "T01QA5S537V",
-      "name": "nschj1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "DCC092CF-F56C-4846-82F9-85BEC176A0BE",
+			"type": "message",
+			"user": "U01QZRUNBA4",
+			"text": "안녕하세요 3기 박사 최현준입니다\n혹시 nlp쪽 (특히 STT)은 어디 학술지나 학회 논문을 많이 참고하는지 알려주실 수 있으신가요...?\n감사합니다... :blush: ",
+			"ts": "1669373124.528909",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "짱구s",
+					"count": 5,
+					"users": [
+						"U02UVAT3BPW",
+						"U01R678KWP2",
+						"U01QAE5A9K5",
+						"U040ENMBB1C",
+						"U01QZRUNBA4"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "6egh",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요"
+								},
+								{
+									"type": "text",
+									"text": " 3"
+								},
+								{
+									"type": "text",
+									"text": "기"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "박사"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "최현준입니다"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "혹시"
+								},
+								{
+									"type": "text",
+									"text": " nlp"
+								},
+								{
+									"type": "text",
+									"text": "쪽"
+								},
+								{
+									"type": "text",
+									"text": " ("
+								},
+								{
+									"type": "text",
+									"text": "특히"
+								},
+								{
+									"type": "text",
+									"text": " STT)"
+								},
+								{
+									"type": "text",
+									"text": "은"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "어디"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "학술지나"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "학회"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "논문을"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "많이"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "참고하는지"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "알려주실"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "수"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "있으신가요"
+								},
+								{
+									"type": "text",
+									"text": "...?\n"
+								},
+								{
+									"type": "text",
+									"text": "감사합니다"
+								},
+								{
+									"type": "text",
+									"text": "... "
+								},
+								{
+									"type": "emoji",
+									"name": "blush",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+				"first_name": "3기_최현준",
+				"real_name": "3기_최현준",
+				"display_name": "3기_최현준",
+				"team": "T01QA5S537V",
+				"name": "nschj1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

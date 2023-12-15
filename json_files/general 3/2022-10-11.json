@@ -1,442 +1,444 @@
-[
-  {
-    "client_msg_id": "a2d1d31b-284c-48e1-9aad-3c5bf30d6405",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;데이터사이언스대학원 2022학년도 2학기 학위논문 제출 예정자 등록기간 일정 수정\u0026gt;\n\n2022학년도 2학기 논문제출 및 심사와 관련하여 2022학년도 2학기 논문제출자격시험 사정 결과가 아직 확정되지 않음에 따라\n논문제울 예정자 등록 기간을 다음과 같이 변경하오니, 기한을 놓치지 말아주시기 바랍니다.\n\n또한, 논문심사료 납부 기간도 변경되오니 기한을 반드시 확인해주십시오.\n\n논문제출 예정자 등록기간 및 심사료 납부 기간 외 세부 시행 계획은 추후 확정시 안내드릴 예정입니다.\n\n*ㅁ 논문제출 예정자 등록   (온라인 신청)*\n~∙ 2022. 10. 11. (화) ~ 10. 21. (금) \u0026lt;11일간\u0026gt;~\n*∙ 2022. 10. 17.(월) ~ 10. 21.(금) \u0026lt;5일간\u0026gt;*\n   ※ 학생 개인별로 mysnu에 로그인하여 신청 함.\n\n*ㅁ  논문심사료 납부*\n~∙ 2022. 10. 24.(월) 09:00 ~ 11. 4.(금) 17:00 \u0026lt;10일간\u0026gt;~\n*∙ 2022. 10. 24.(월) 09:00 ~ 10. 28.(금) \u0026lt;5일\u0026gt;*\n   ※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.\n\n*ㅁ 논문심사 및 최종 인준논문 제출: 추후 확정시 안내*\n\n관련문의: 행정실 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e, 880-1331)",
-    "ts": "1665447327.348149",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1665447527.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "EkGpb",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c데이터사이언스대학원 2022학년도 2학기 학위논문 제출 예정자 등록기간 일정 수정\u003e\n\n2022학년도 2학기 논문제출 및 심사와 관련하여 2022학년도 2학기 논문제출자격시험 사정 결과가 아직 확정되지 않음에 따라\n논문제울 예정자 등록 기간을 다음과 같이 변경하오니, 기한을 놓치지 말아주시기 바랍니다.\n\n또한, 논문심사료 납부 기간도 변경되오니 기한을 반드시 확인해주십시오.\n\n논문제출 예정자 등록기간 및 심사료 납부 기간 외 세부 시행 계획은 추후 확정시 안내드릴 예정입니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ 논문제출 예정자 등록   (온라인 신청)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "∙ 2022. 10. 11. (화) ~ 10. 21. (금) \u003c11일간\u003e",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "∙ 2022. 10. 17.(월) ~ 10. 21.(금) \u003c5일간\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   ※ 학생 개인별로 mysnu에 로그인하여 신청 함.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ  논문심사료 납부",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "∙ 2022. 10. 24.(월) 09:00 ~ 11. 4.(금) 17:00 \u003c10일간\u003e",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "∙ 2022. 10. 24.(월) 09:00 ~ 10. 28.(금) \u003c5일\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   ※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ 논문심사 및 최종 인준논문 제출: 추후 확정시 안내",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n관련문의: 행정실 임채연("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 880-1331)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "a24fecc8-fb93-4360-b54b-3c5dd34efa56",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022 주한 중국대사 장학금 신청 안내\u0026gt;\n\n주한중국대사관에서 지원하는 ⌜주한 중국대사 장학금⌟의 수혜자를 아래와 같이 선발합니다.\n\n1. 장학금명: 주한 중국대사 장학금\n2. 신청기간: 2022년 10월13일(목)\n3. 선발인원: 1명\n4. 지원 자격: 한국 국적, 중국관련 전공자 (※ 성적우수자, 석박사생 우대 )\n5. 수혜자 지원내역: 인민폐 1만위안(일회성)\n6. 지원서류: 지원서(중문,붙임서식), 재학증명서(한글), 성적표(한글), 교수추천서(최종\n             선발자에 한해 제출)\n7. 지원방법: 이메일로 제출(\u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e)\n8. 문 의 처: 국제협력본부 안시헌 (\u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e, 내선 8636)",
-    "ts": "1665473030.153789",
-    "files": [
-      {
-        "id": "F046NADHD16",
-        "created": 1665473025,
-        "timestamp": 1665473025,
-        "name": "중국 대사 장학금 붙임.docx",
-        "title": "중국 대사 장학금 붙임.docx",
-        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "image_exif_rotation": 0,
-        "filetype": "docx",
-        "pretty_type": "Word 문서",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 11819,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F046NADHD16-중국 대사 장학금 붙임.docx",
-        "url_private_download": "attachments/F046NADHD16-중국 대사 장학금 붙임.docx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046NADHD16/______________________________.docx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F046NADHD16-3ac95ec91a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "nSEp",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022 주한 중국대사 장학금 신청 안내\u003e\n\n주한중국대사관에서 지원하는 ⌜주한 중국대사 장학금⌟의 수혜자를 아래와 같이 선발합니다.\n\n1. 장학금명: 주한 중국대사 장학금\n2. 신청기간: 2022년 10월13일(목)\n3. 선발인원: 1명\n4. 지원 자격: 한국 국적, 중국관련 전공자 (※ 성적우수자, 석박사생 우대 )\n5. 수혜자 지원내역: 인민폐 1만위안(일회성)\n6. 지원서류: 지원서(중문,붙임서식), 재학증명서(한글), 성적표(한글), 교수추천서(최종\n             선발자에 한해 제출)\n7. 지원방법: 이메일로 제출("
-              },
-              {
-                "type": "link",
-                "url": "mailto:ahnsihun@snu.ac.kr",
-                "text": "ahnsihun@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n8. 문 의 처: 국제협력본부 안시헌 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:ahnsihun@snu.ac.kr",
-                "text": "ahnsihun@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 내선 8636)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "cbd61c47-5147-45cd-af8b-b26e85cd35dc",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022학년도 2학기 대학원 교과학점 통산인정 신청 안내\n\n학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정받고자 하는 학생은 2022. 10. 18.(화)까지 신청하여 주시기 바랍니다.\nㅁ마이스누-학생서비스-수업/성적-학점인정신청 내 '과정간 통산인정'신청\nㅁ석사/박사과정의 동일, 유사 전공의 경우 수료 기준학점을 초과한 범위 내에서 학-석사간 최대 6학점, 석-박사간 최대 12학점까지 통산인청 받을 수 있음\n ㅇ성적이 B0이상인 교과목만 신청가능하며, S/U과목은 불가\n\n원활한 학사운영을 위하여 입학 첫 학기에 통산인정을 신청하여주시기 바랍니다.\n\n문의사항: 행정실 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e, 02-880-1331)",
-    "ts": "1665474670.911459",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1665475021.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "LiI",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 대학원 교과학점 통산인정 신청 안내\n\n학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정받고자 하는 학생은 2022. 10. 18.(화)까지 신청하여 주시기 바랍니다.\nㅁ마이스누-학생서비스-수업/성적-학점인정신청 내 '과정간 통산인정'신청\nㅁ석사/박사과정의 동일, 유사 전공의 경우 수료 기준학점을 초과한 범위 내에서 학-석사간 최대 6학점, 석-박사간 최대 12학점까지 통산인청 받을 수 있음\n ㅇ성적이 B0이상인 교과목만 신청가능하며, S/U과목은 불가\n\n원활한 학사운영을 위하여 입학 첫 학기에 통산인정을 신청하여주시기 바랍니다.\n\n문의사항: 행정실 임채연("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 02-880-1331)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "60efdfab-4897-4706-ad72-1797d0a095b0",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022학년도 2학기 본교 입학전 타교 수학학점 인정 신청 안내\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 2022. 10. 18.(화)까지 신청서를 제출하여 주시기 바랍니다.\n\nㅁ본교 석사, 박사과정 입학 이전 타교 동일/유사 전공의 석사, 박사과정에서 취득한 교과학점의 경우 성적이 B0이상이면서, 10년 이내 이수한 동일 혹은 유사 교과목에 한하여\n ㅇ석사과정 6학점, 박사과점 9학점까지 이수학점으로 인정할 수 있습니다.\n\n원활한 학사운영을 위하여 입학 첫 학기에 타교 수학학점 인정 신청 하여 주시기 바랍니다.\n\n문의사항: 행정실 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e, 02-880-1331)",
-    "ts": "1665475008.080489",
-    "files": [
-      {
-        "id": "F045YM8F8CT",
-        "created": 1665475002,
-        "timestamp": 1665475002,
-        "name": "[붙임2] 신청서 및 인정표.hwp",
-        "title": "[붙임2] 신청서 및 인정표.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 17920,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F045YM8F8CT-[붙임2] 신청서 및 인정표.hwp",
-        "url_private_download": "attachments/F045YM8F8CT-[붙임2] 신청서 및 인정표.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F045YM8F8CT/_______2_________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F045YM8F8CT-9d798eb41a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xWl",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 본교 입학전 타교 수학학점 인정 신청 안내\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 2022. 10. 18.(화)까지 신청서를 제출하여 주시기 바랍니다.\n\nㅁ본교 석사, 박사과정 입학 이전 타교 동일/유사 전공의 석사, 박사과정에서 취득한 교과학점의 경우 성적이 B0이상이면서, 10년 이내 이수한 동일 혹은 유사 교과목에 한하여\n ㅇ석사과정 6학점, 박사과점 9학점까지 이수학점으로 인정할 수 있습니다.\n\n원활한 학사운영을 위하여 입학 첫 학기에 타교 수학학점 인정 신청 하여 주시기 바랍니다.\n\n문의사항: 행정실 임채연("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 02-880-1331)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "a2d1d31b-284c-48e1-9aad-3c5bf30d6405",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;데이터사이언스대학원 2022학년도 2학기 학위논문 제출 예정자 등록기간 일정 수정&gt;\n\n2022학년도 2학기 논문제출 및 심사와 관련하여 2022학년도 2학기 논문제출자격시험 사정 결과가 아직 확정되지 않음에 따라\n논문제울 예정자 등록 기간을 다음과 같이 변경하오니, 기한을 놓치지 말아주시기 바랍니다.\n\n또한, 논문심사료 납부 기간도 변경되오니 기한을 반드시 확인해주십시오.\n\n논문제출 예정자 등록기간 및 심사료 납부 기간 외 세부 시행 계획은 추후 확정시 안내드릴 예정입니다.\n\n*ㅁ 논문제출 예정자 등록   (온라인 신청)*\n~∙ 2022. 10. 11. (화) ~ 10. 21. (금) &lt;11일간&gt;~\n*∙ 2022. 10. 17.(월) ~ 10. 21.(금) &lt;5일간&gt;*\n   ※ 학생 개인별로 mysnu에 로그인하여 신청 함.\n\n*ㅁ  논문심사료 납부*\n~∙ 2022. 10. 24.(월) 09:00 ~ 11. 4.(금) 17:00 &lt;10일간&gt;~\n*∙ 2022. 10. 24.(월) 09:00 ~ 10. 28.(금) &lt;5일&gt;*\n   ※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.\n\n*ㅁ 논문심사 및 최종 인준논문 제출: 추후 확정시 안내*\n\n관련문의: 행정실 임채연(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>, 880-1331)",
+			"ts": "1665447327.348149",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1665447527.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "EkGpb",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<데이터사이언스대학원 2022학년도 2학기 학위논문 제출 예정자 등록기간 일정 수정>\n\n2022학년도 2학기 논문제출 및 심사와 관련하여 2022학년도 2학기 논문제출자격시험 사정 결과가 아직 확정되지 않음에 따라\n논문제울 예정자 등록 기간을 다음과 같이 변경하오니, 기한을 놓치지 말아주시기 바랍니다.\n\n또한, 논문심사료 납부 기간도 변경되오니 기한을 반드시 확인해주십시오.\n\n논문제출 예정자 등록기간 및 심사료 납부 기간 외 세부 시행 계획은 추후 확정시 안내드릴 예정입니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ 논문제출 예정자 등록   (온라인 신청)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "∙ 2022. 10. 11. (화) ~ 10. 21. (금) <11일간>",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "∙ 2022. 10. 17.(월) ~ 10. 21.(금) <5일간>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   ※ 학생 개인별로 mysnu에 로그인하여 신청 함.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ  논문심사료 납부",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "∙ 2022. 10. 24.(월) 09:00 ~ 11. 4.(금) 17:00 <10일간>",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "∙ 2022. 10. 24.(월) 09:00 ~ 10. 28.(금) <5일>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   ※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ 논문심사 및 최종 인준논문 제출: 추후 확정시 안내",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n관련문의: 행정실 임채연("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 880-1331)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "a24fecc8-fb93-4360-b54b-3c5dd34efa56",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022 주한 중국대사 장학금 신청 안내&gt;\n\n주한중국대사관에서 지원하는 ⌜주한 중국대사 장학금⌟의 수혜자를 아래와 같이 선발합니다.\n\n1. 장학금명: 주한 중국대사 장학금\n2. 신청기간: 2022년 10월13일(목)\n3. 선발인원: 1명\n4. 지원 자격: 한국 국적, 중국관련 전공자 (※ 성적우수자, 석박사생 우대 )\n5. 수혜자 지원내역: 인민폐 1만위안(일회성)\n6. 지원서류: 지원서(중문,붙임서식), 재학증명서(한글), 성적표(한글), 교수추천서(최종\n             선발자에 한해 제출)\n7. 지원방법: 이메일로 제출(<mailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr>)\n8. 문 의 처: 국제협력본부 안시헌 (<mailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr>, 내선 8636)",
+			"ts": "1665473030.153789",
+			"files": [
+				{
+					"id": "F046NADHD16",
+					"created": 1665473025,
+					"timestamp": 1665473025,
+					"name": "중국 대사 장학금 붙임.docx",
+					"title": "중국 대사 장학금 붙임.docx",
+					"mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+					"image_exif_rotation": 0,
+					"filetype": "docx",
+					"pretty_type": "Word 문서",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 11819,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F046NADHD16-중국 대사 장학금 붙임.docx",
+					"url_private_download": "attachments/F046NADHD16-중국 대사 장학금 붙임.docx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046NADHD16/______________________________.docx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F046NADHD16-3ac95ec91a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "nSEp",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022 주한 중국대사 장학금 신청 안내>\n\n주한중국대사관에서 지원하는 ⌜주한 중국대사 장학금⌟의 수혜자를 아래와 같이 선발합니다.\n\n1. 장학금명: 주한 중국대사 장학금\n2. 신청기간: 2022년 10월13일(목)\n3. 선발인원: 1명\n4. 지원 자격: 한국 국적, 중국관련 전공자 (※ 성적우수자, 석박사생 우대 )\n5. 수혜자 지원내역: 인민폐 1만위안(일회성)\n6. 지원서류: 지원서(중문,붙임서식), 재학증명서(한글), 성적표(한글), 교수추천서(최종\n             선발자에 한해 제출)\n7. 지원방법: 이메일로 제출("
+								},
+								{
+									"type": "link",
+									"url": "mailto:ahnsihun@snu.ac.kr",
+									"text": "ahnsihun@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n8. 문 의 처: 국제협력본부 안시헌 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:ahnsihun@snu.ac.kr",
+									"text": "ahnsihun@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 내선 8636)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "cbd61c47-5147-45cd-af8b-b26e85cd35dc",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022학년도 2학기 대학원 교과학점 통산인정 신청 안내\n\n학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정받고자 하는 학생은 2022. 10. 18.(화)까지 신청하여 주시기 바랍니다.\nㅁ마이스누-학생서비스-수업/성적-학점인정신청 내 '과정간 통산인정'신청\nㅁ석사/박사과정의 동일, 유사 전공의 경우 수료 기준학점을 초과한 범위 내에서 학-석사간 최대 6학점, 석-박사간 최대 12학점까지 통산인청 받을 수 있음\n ㅇ성적이 B0이상인 교과목만 신청가능하며, S/U과목은 불가\n\n원활한 학사운영을 위하여 입학 첫 학기에 통산인정을 신청하여주시기 바랍니다.\n\n문의사항: 행정실 임채연(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>, 02-880-1331)",
+			"ts": "1665474670.911459",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1665475021.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "LiI",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 대학원 교과학점 통산인정 신청 안내\n\n학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정받고자 하는 학생은 2022. 10. 18.(화)까지 신청하여 주시기 바랍니다.\nㅁ마이스누-학생서비스-수업/성적-학점인정신청 내 '과정간 통산인정'신청\nㅁ석사/박사과정의 동일, 유사 전공의 경우 수료 기준학점을 초과한 범위 내에서 학-석사간 최대 6학점, 석-박사간 최대 12학점까지 통산인청 받을 수 있음\n ㅇ성적이 B0이상인 교과목만 신청가능하며, S/U과목은 불가\n\n원활한 학사운영을 위하여 입학 첫 학기에 통산인정을 신청하여주시기 바랍니다.\n\n문의사항: 행정실 임채연("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 02-880-1331)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "60efdfab-4897-4706-ad72-1797d0a095b0",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022학년도 2학기 본교 입학전 타교 수학학점 인정 신청 안내\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 2022. 10. 18.(화)까지 신청서를 제출하여 주시기 바랍니다.\n\nㅁ본교 석사, 박사과정 입학 이전 타교 동일/유사 전공의 석사, 박사과정에서 취득한 교과학점의 경우 성적이 B0이상이면서, 10년 이내 이수한 동일 혹은 유사 교과목에 한하여\n ㅇ석사과정 6학점, 박사과점 9학점까지 이수학점으로 인정할 수 있습니다.\n\n원활한 학사운영을 위하여 입학 첫 학기에 타교 수학학점 인정 신청 하여 주시기 바랍니다.\n\n문의사항: 행정실 임채연(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>, 02-880-1331)",
+			"ts": "1665475008.080489",
+			"files": [
+				{
+					"id": "F045YM8F8CT",
+					"created": 1665475002,
+					"timestamp": 1665475002,
+					"name": "[붙임2] 신청서 및 인정표.hwp",
+					"title": "[붙임2] 신청서 및 인정표.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 17920,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F045YM8F8CT-[붙임2] 신청서 및 인정표.hwp",
+					"url_private_download": "attachments/F045YM8F8CT-[붙임2] 신청서 및 인정표.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F045YM8F8CT/_______2_________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F045YM8F8CT-9d798eb41a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xWl",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 본교 입학전 타교 수학학점 인정 신청 안내\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 2022. 10. 18.(화)까지 신청서를 제출하여 주시기 바랍니다.\n\nㅁ본교 석사, 박사과정 입학 이전 타교 동일/유사 전공의 석사, 박사과정에서 취득한 교과학점의 경우 성적이 B0이상이면서, 10년 이내 이수한 동일 혹은 유사 교과목에 한하여\n ㅇ석사과정 6학점, 박사과점 9학점까지 이수학점으로 인정할 수 있습니다.\n\n원활한 학사운영을 위하여 입학 첫 학기에 타교 수학학점 인정 신청 하여 주시기 바랍니다.\n\n문의사항: 행정실 임채연("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 02-880-1331)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

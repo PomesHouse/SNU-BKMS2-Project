@@ -1,73 +1,75 @@
-[
-  {
-    "client_msg_id": "2fec763e-f9a1-499f-902b-f7506cde3cd6",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "[서버 공지]\n계정 생성 완료 및 각자 이메일로 계정 정보 전송했습니다.\n비밀번호는 변경하고 쓰시면 됩니다\n메일 못받으신 분은 문의바랍니다",
-    "ts": "1627016656.192700",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 10,
-        "users": [
-          "U01QNHRHY0L",
-          "U01QNJ9BB60",
-          "U01QV28F01X",
-          "U01QV1WAPL1",
-          "U01R678KWP2",
-          "U01R719DKK2",
-          "U01QNHEAS0L",
-          "U01QDA01NN9",
-          "U01QGKCUAJX",
-          "U01QV28FG4R"
-        ]
-      },
-      {
-        "name": "blob-clap",
-        "count": 1,
-        "users": [
-          "U01R719DKK2"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fph",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[서버 공지]\n계정 생성 완료 및 각자 이메일로 계정 정보 전송했습니다.\n비밀번호는 변경하고 쓰시면 됩니다\n메일 못받으신 분은 문의바랍니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "2fec763e-f9a1-499f-902b-f7506cde3cd6",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "[서버 공지]\n계정 생성 완료 및 각자 이메일로 계정 정보 전송했습니다.\n비밀번호는 변경하고 쓰시면 됩니다\n메일 못받으신 분은 문의바랍니다",
+			"ts": "1627016656.192700",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 10,
+					"users": [
+						"U01QNHRHY0L",
+						"U01QNJ9BB60",
+						"U01QV28F01X",
+						"U01QV1WAPL1",
+						"U01R678KWP2",
+						"U01R719DKK2",
+						"U01QNHEAS0L",
+						"U01QDA01NN9",
+						"U01QGKCUAJX",
+						"U01QV28FG4R"
+					]
+				},
+				{
+					"name": "blob-clap",
+					"count": 1,
+					"users": [
+						"U01R719DKK2"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fph",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[서버 공지]\n계정 생성 완료 및 각자 이메일로 계정 정보 전송했습니다.\n비밀번호는 변경하고 쓰시면 됩니다\n메일 못받으신 분은 문의바랍니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

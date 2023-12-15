@@ -1,192 +1,194 @@
-[
-  {
-    "type": "message",
-    "user": "U01R688QZ16",
-    "text": "\u003c@U01R688QZ16\u003e has joined the channel",
-    "ts": "1650441345.232649",
-    "subtype": "channel_join",
-    "inviter": "U01QGG6A5LJ",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9c7cfe8dcf90be8ba3486e0b50726da5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
-      "first_name": "4.5기_안지용",
-      "real_name": "4.5기_안지용",
-      "display_name": "4.5기_안지용",
-      "team": "T01QA5S537V",
-      "name": "an718",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "b3af9b98-e6ec-44e9-a33b-f741cf59a647",
-    "type": "message",
-    "user": "U01R688QZ16",
-    "text": "안녕하세요 2기 안지용입니다.\n스트라드 비전이라는 회사 채용담당자가 머신러닝 엔지니어를 찾는다고 회사 자료들 보내줘서 공유드려요~\n자율주행 소프트웨어을 개발하는 업체이다 보니 컴퓨터비전쪽에 관심있으신 분들은 한번 읽어보면 좋을 것 같습니다 ㅎㅎ\n\n관심있으신 분은 저한테 DM주시면 채용담당자랑 연결해드릴게요~\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nStradVision은 자율주행과 첨단운전자보조시스템(Advanced Driver Assistance Systems) 분야에서\n Embedded Platform에 최적화한 Deep Learning Algorithm 기반의 perception SW를 개발하고 있습니다.\n 2014년 설립하여, 한국 서울/포항/미국/독일/중국에 오피스를 두고 있으며, 현재 인원 약 250여명 중 80% 이상이 엔지니어로 구성된 기술개발 중심의 기업입니다.\n약 600 여개의 국내외 특허 등록/출원과 논문 발표 등을 통해 원천 기술을 보유 중이며, 이미 글로벌 자동차 시장에서 양산 프로젝트를 여럿 수주하여 진행 중입니다.\n현재 독일과 중국 등에서 자율 주행 Lv.4에 해당하는 버스, 세단 및 SUV개발 프로젝트에 참여 중이며, 중국에서는 자율주행 소프트웨어 SVNet을 탑재한 ADAS 차량을 선보인 바 있습니다.\n저희 회사에 관해 참고하시면 좋은 영상과 기사 함께 공유 드립니다.\n참고하시면 좋은 영상과 기사 함께 공유 드립니다.\n  회사홈페이지: \u003chttps://stradvision.com/ko/home-2/\u003e\n  회사오피스사진: \u003chttps://blog.naver.com/stradvisionary/222602896193\u003e\n  참고하면 좋을 기사\u0026amp;영상\n 1)영상\n  \u003chttps://www.youtube.com/watch?v=CcKpS03o_Bs\u003e\n\n 2)최근기사\n-LG전자에 자율주행용 카메라 인식 솔루션 공급 \u003chttp://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html\u003e\n -LG전자, 메르세데스-벤츠 C클래스에 ADAS 전방카메라 공급 \u003chttps://live.lge.co.kr/lg-adas-front-camera/\u003e\n -자동차 국제 표준 인증 \u003chttps://newsis.com/view/?id=NISX20220223_0001770174\u0026amp;cID=13001\u0026amp;pID=13000\u003e",
-    "ts": "1650441639.546819",
-    "attachments": [
-      {
-        "fallback": "StradVision: 스트라드비젼 공식 홈페이지- 모두를 위한 자율주행",
-        "id": 1,
-        "title": "스트라드비젼 공식 홈페이지- 모두를 위한 자율주행",
-        "title_link": "https://stradvision.com/ko/home-2/",
-        "text": "스트라드비젼은 객체 인식 기술의 업계 선구자로서 완전 자율주행차 대중화를 앞당기고 있습니다. 포항, 서울, 산호세, 도쿄, 뮌헨 등 전세계적으로 직원을 두고 있으며, 딥러닝, 임베디드 플랫폼, 고급 알고리즘 등에 대한 전문성을 바탕으로 매일 발전해나가고 있습니다.",
-        "image_url": "https://stradvision.com/wp-content/uploads/2020/02/sv.logo_.jpg",
-        "service_name": "StradVision",
-        "service_icon": "https://stradvision.com/wp-content/uploads/2020/01/favicon-2.png",
-        "from_url": "https://stradvision.com/ko/home-2/",
-        "original_url": "https://stradvision.com/ko/home-2/",
-        "fields": [
-          {
-            "title": "Est. reading time",
-            "value": "5분",
-            "short": true
-          }
-        ],
-        "blocks": null
-      },
-      {
-        "fallback": "YouTube Video: 중저가 칩셋에도 완벽하게 최적화!' 자율주행 대중화를 선도하는 '스트라드비젼(StradVision)'",
-        "id": 2,
-        "author_name": "전자신문 etnews",
-        "author_link": "https://www.youtube.com/user/etnews",
-        "title": "중저가 칩셋에도 완벽하게 최적화!' 자율주행 대중화를 선도하는 '스트라드비젼(StradVision)'",
-        "title_link": "https://www.youtube.com/watch?v=CcKpS03o_Bs",
-        "thumb_url": "https://i.ytimg.com/vi/CcKpS03o_Bs/hqdefault.jpg",
-        "service_name": "YouTube",
-        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
-        "from_url": "https://www.youtube.com/watch?v=CcKpS03o_Bs",
-        "original_url": "https://www.youtube.com/watch?v=CcKpS03o_Bs",
-        "blocks": null
-      },
-      {
-        "fallback": "스트라드비젼, LG전자에 자율주행용 카메라 인식 솔루션 공급",
-        "id": 3,
-        "title": "스트라드비젼, LG전자에 자율주행용 카메라 인식 솔루션 공급",
-        "title_link": "http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html",
-        "text": "스트라드비젼이 LG전자 첨단 운전자 보조 시스템(ADAS) 카메라 시스템에 딥러닝 기반 카메라 인식 소프트웨어인 'SV넷(SVNet)'을 공급한..",
-        "image_url": "http://itimg.chosun.com/sitedata/image/202112/13/2021121300819_0.jpg",
-        "service_name": "it.chosun.com",
-        "service_icon": "http://it.chosun.com/favicon.ico",
-        "from_url": "http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html",
-        "original_url": "http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html",
-        "blocks": null,
-        "ts": 1639361022
-      },
-      {
-        "fallback": "LiVE LG - LG전자 소셜 매거진: LG전자, 메르세데스-벤츠 C클래스에 ADAS 전방카메라 공급 | | LiVE LG - LG전자 소셜 매거진",
-        "id": 4,
-        "title": "LG전자, 메르세데스-벤츠 C클래스에 ADAS 전방카메라 공급 | | LiVE LG - LG전자 소셜 매거진",
-        "title_link": "https://live.lge.co.kr/lg-adas-front-camera/",
-        "text": "LG전자가 독일 자동차 제조그룹 '다임러 AG(Daimler Automotive Group)'와 공동 개발한 ADAS(Advanced Driver Assistance Systems, 첨단운전자지원시스템) 전방카메라를 메르세데스-벤츠 C클래스에 적용하며 본격적인 양산에 돌입했다.",
-        "thumb_url": "https://live.lge.co.kr/wp-content/uploads/2021/10/LG_ADAS-Front-camera_03.jpg",
-        "service_name": "LiVE LG - LG전자 소셜 매거진",
-        "service_icon": "https://live.lge.co.kr/wp-content/themes/social_lg/images/bookmark/apple-touch-icon.png",
-        "from_url": "https://live.lge.co.kr/lg-adas-front-camera/",
-        "original_url": "https://live.lge.co.kr/lg-adas-front-camera/",
-        "blocks": null,
-        "ts": 1633514400
-      }
-    ],
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "CWv",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요 2기 안지용입니다.\n스트라드 비전이라는 회사 채용담당자가 머신러닝 엔지니어를 찾는다고 회사 자료들 보내줘서 공유드려요~\n자율주행 소프트웨어을 개발하는 업체이다 보니 컴퓨터비전쪽에 관심있으신 분들은 한번 읽어보면 좋을 것 같습니다 ㅎㅎ\n\n관심있으신 분은 저한테 DM주시면 채용담당자랑 연결해드릴게요~\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nStradVision은 자율주행과 첨단운전자보조시스템(Advanced Driver Assistance Systems) 분야에서\n Embedded Platform에 최적화한 Deep Learning Algorithm 기반의 perception SW를 개발하고 있습니다.\n 2014년 설립하여, 한국 서울/포항/미국/독일/중국에 오피스를 두고 있으며, 현재 인원 약 250여명 중 80% 이상이 엔지니어로 구성된 기술개발 중심의 기업입니다.\n약 600 여개의 국내외 특허 등록/출원과 논문 발표 등을 통해 원천 기술을 보유 중이며, 이미 글로벌 자동차 시장에서 양산 프로젝트를 여럿 수주하여 진행 중입니다.\n현재 독일과 중국 등에서 자율 주행 Lv.4에 해당하는 버스, 세단 및 SUV개발 프로젝트에 참여 중이며, 중국에서는 자율주행 소프트웨어 SVNet을 탑재한 ADAS 차량을 선보인 바 있습니다.\n저희 회사에 관해 참고하시면 좋은 영상과 기사 함께 공유 드립니다.\n참고하시면 좋은 영상과 기사 함께 공유 드립니다.\n  회사홈페이지: "
-              },
-              {
-                "type": "link",
-                "url": "https://stradvision.com/ko/home-2/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n  회사오피스사진: "
-              },
-              {
-                "type": "link",
-                "url": "https://blog.naver.com/stradvisionary/222602896193",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n  참고하면 좋을 기사\u0026영상\n 1)영상\n  "
-              },
-              {
-                "type": "link",
-                "url": "https://www.youtube.com/watch?v=CcKpS03o_Bs",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n\n 2)최근기사\n-LG전자에 자율주행용 카메라 인식 솔루션 공급 "
-              },
-              {
-                "type": "link",
-                "url": "http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n -LG전자, 메르세데스-벤츠 C클래스에 ADAS 전방카메라 공급 "
-              },
-              {
-                "type": "link",
-                "url": "https://live.lge.co.kr/lg-adas-front-camera/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n -자동차 국제 표준 인증 "
-              },
-              {
-                "type": "link",
-                "url": "https://newsis.com/view/?id=NISX20220223_0001770174\u0026cID=13001\u0026pID=13000",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9c7cfe8dcf90be8ba3486e0b50726da5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
-      "first_name": "4.5기_안지용",
-      "real_name": "4.5기_안지용",
-      "display_name": "4.5기_안지용",
-      "team": "T01QA5S537V",
-      "name": "an718",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01R688QZ16",
+			"text": "<@U01R688QZ16> has joined the channel",
+			"ts": "1650441345.232649",
+			"subtype": "channel_join",
+			"inviter": "U01QGG6A5LJ",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9c7cfe8dcf90be8ba3486e0b50726da5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+				"first_name": "4.5기_안지용",
+				"real_name": "4.5기_안지용",
+				"display_name": "4.5기_안지용",
+				"team": "T01QA5S537V",
+				"name": "an718",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "b3af9b98-e6ec-44e9-a33b-f741cf59a647",
+			"type": "message",
+			"user": "U01R688QZ16",
+			"text": "안녕하세요 2기 안지용입니다.\n스트라드 비전이라는 회사 채용담당자가 머신러닝 엔지니어를 찾는다고 회사 자료들 보내줘서 공유드려요~\n자율주행 소프트웨어을 개발하는 업체이다 보니 컴퓨터비전쪽에 관심있으신 분들은 한번 읽어보면 좋을 것 같습니다 ㅎㅎ\n\n관심있으신 분은 저한테 DM주시면 채용담당자랑 연결해드릴게요~\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nStradVision은 자율주행과 첨단운전자보조시스템(Advanced Driver Assistance Systems) 분야에서\n Embedded Platform에 최적화한 Deep Learning Algorithm 기반의 perception SW를 개발하고 있습니다.\n 2014년 설립하여, 한국 서울/포항/미국/독일/중국에 오피스를 두고 있으며, 현재 인원 약 250여명 중 80% 이상이 엔지니어로 구성된 기술개발 중심의 기업입니다.\n약 600 여개의 국내외 특허 등록/출원과 논문 발표 등을 통해 원천 기술을 보유 중이며, 이미 글로벌 자동차 시장에서 양산 프로젝트를 여럿 수주하여 진행 중입니다.\n현재 독일과 중국 등에서 자율 주행 Lv.4에 해당하는 버스, 세단 및 SUV개발 프로젝트에 참여 중이며, 중국에서는 자율주행 소프트웨어 SVNet을 탑재한 ADAS 차량을 선보인 바 있습니다.\n저희 회사에 관해 참고하시면 좋은 영상과 기사 함께 공유 드립니다.\n참고하시면 좋은 영상과 기사 함께 공유 드립니다.\n  회사홈페이지: <https://stradvision.com/ko/home-2/>\n  회사오피스사진: <https://blog.naver.com/stradvisionary/222602896193>\n  참고하면 좋을 기사&amp;영상\n 1)영상\n  <https://www.youtube.com/watch?v=CcKpS03o_Bs>\n\n 2)최근기사\n-LG전자에 자율주행용 카메라 인식 솔루션 공급 <http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html>\n -LG전자, 메르세데스-벤츠 C클래스에 ADAS 전방카메라 공급 <https://live.lge.co.kr/lg-adas-front-camera/>\n -자동차 국제 표준 인증 <https://newsis.com/view/?id=NISX20220223_0001770174&amp;cID=13001&amp;pID=13000>",
+			"ts": "1650441639.546819",
+			"attachments": [
+				{
+					"fallback": "StradVision: 스트라드비젼 공식 홈페이지- 모두를 위한 자율주행",
+					"id": 1,
+					"title": "스트라드비젼 공식 홈페이지- 모두를 위한 자율주행",
+					"title_link": "https://stradvision.com/ko/home-2/",
+					"text": "스트라드비젼은 객체 인식 기술의 업계 선구자로서 완전 자율주행차 대중화를 앞당기고 있습니다. 포항, 서울, 산호세, 도쿄, 뮌헨 등 전세계적으로 직원을 두고 있으며, 딥러닝, 임베디드 플랫폼, 고급 알고리즘 등에 대한 전문성을 바탕으로 매일 발전해나가고 있습니다.",
+					"image_url": "https://stradvision.com/wp-content/uploads/2020/02/sv.logo_.jpg",
+					"service_name": "StradVision",
+					"service_icon": "https://stradvision.com/wp-content/uploads/2020/01/favicon-2.png",
+					"from_url": "https://stradvision.com/ko/home-2/",
+					"original_url": "https://stradvision.com/ko/home-2/",
+					"fields": [
+						{
+							"title": "Est. reading time",
+							"value": "5분",
+							"short": true
+						}
+					],
+					"blocks": null
+				},
+				{
+					"fallback": "YouTube Video: 중저가 칩셋에도 완벽하게 최적화!' 자율주행 대중화를 선도하는 '스트라드비젼(StradVision)'",
+					"id": 2,
+					"author_name": "전자신문 etnews",
+					"author_link": "https://www.youtube.com/user/etnews",
+					"title": "중저가 칩셋에도 완벽하게 최적화!' 자율주행 대중화를 선도하는 '스트라드비젼(StradVision)'",
+					"title_link": "https://www.youtube.com/watch?v=CcKpS03o_Bs",
+					"thumb_url": "https://i.ytimg.com/vi/CcKpS03o_Bs/hqdefault.jpg",
+					"service_name": "YouTube",
+					"service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+					"from_url": "https://www.youtube.com/watch?v=CcKpS03o_Bs",
+					"original_url": "https://www.youtube.com/watch?v=CcKpS03o_Bs",
+					"blocks": null
+				},
+				{
+					"fallback": "스트라드비젼, LG전자에 자율주행용 카메라 인식 솔루션 공급",
+					"id": 3,
+					"title": "스트라드비젼, LG전자에 자율주행용 카메라 인식 솔루션 공급",
+					"title_link": "http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html",
+					"text": "스트라드비젼이 LG전자 첨단 운전자 보조 시스템(ADAS) 카메라 시스템에 딥러닝 기반 카메라 인식 소프트웨어인 'SV넷(SVNet)'을 공급한..",
+					"image_url": "http://itimg.chosun.com/sitedata/image/202112/13/2021121300819_0.jpg",
+					"service_name": "it.chosun.com",
+					"service_icon": "http://it.chosun.com/favicon.ico",
+					"from_url": "http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html",
+					"original_url": "http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html",
+					"blocks": null,
+					"ts": 1639361022
+				},
+				{
+					"fallback": "LiVE LG - LG전자 소셜 매거진: LG전자, 메르세데스-벤츠 C클래스에 ADAS 전방카메라 공급 | | LiVE LG - LG전자 소셜 매거진",
+					"id": 4,
+					"title": "LG전자, 메르세데스-벤츠 C클래스에 ADAS 전방카메라 공급 | | LiVE LG - LG전자 소셜 매거진",
+					"title_link": "https://live.lge.co.kr/lg-adas-front-camera/",
+					"text": "LG전자가 독일 자동차 제조그룹 '다임러 AG(Daimler Automotive Group)'와 공동 개발한 ADAS(Advanced Driver Assistance Systems, 첨단운전자지원시스템) 전방카메라를 메르세데스-벤츠 C클래스에 적용하며 본격적인 양산에 돌입했다.",
+					"thumb_url": "https://live.lge.co.kr/wp-content/uploads/2021/10/LG_ADAS-Front-camera_03.jpg",
+					"service_name": "LiVE LG - LG전자 소셜 매거진",
+					"service_icon": "https://live.lge.co.kr/wp-content/themes/social_lg/images/bookmark/apple-touch-icon.png",
+					"from_url": "https://live.lge.co.kr/lg-adas-front-camera/",
+					"original_url": "https://live.lge.co.kr/lg-adas-front-camera/",
+					"blocks": null,
+					"ts": 1633514400
+				}
+			],
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "CWv",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요 2기 안지용입니다.\n스트라드 비전이라는 회사 채용담당자가 머신러닝 엔지니어를 찾는다고 회사 자료들 보내줘서 공유드려요~\n자율주행 소프트웨어을 개발하는 업체이다 보니 컴퓨터비전쪽에 관심있으신 분들은 한번 읽어보면 좋을 것 같습니다 ㅎㅎ\n\n관심있으신 분은 저한테 DM주시면 채용담당자랑 연결해드릴게요~\n-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------\nStradVision은 자율주행과 첨단운전자보조시스템(Advanced Driver Assistance Systems) 분야에서\n Embedded Platform에 최적화한 Deep Learning Algorithm 기반의 perception SW를 개발하고 있습니다.\n 2014년 설립하여, 한국 서울/포항/미국/독일/중국에 오피스를 두고 있으며, 현재 인원 약 250여명 중 80% 이상이 엔지니어로 구성된 기술개발 중심의 기업입니다.\n약 600 여개의 국내외 특허 등록/출원과 논문 발표 등을 통해 원천 기술을 보유 중이며, 이미 글로벌 자동차 시장에서 양산 프로젝트를 여럿 수주하여 진행 중입니다.\n현재 독일과 중국 등에서 자율 주행 Lv.4에 해당하는 버스, 세단 및 SUV개발 프로젝트에 참여 중이며, 중국에서는 자율주행 소프트웨어 SVNet을 탑재한 ADAS 차량을 선보인 바 있습니다.\n저희 회사에 관해 참고하시면 좋은 영상과 기사 함께 공유 드립니다.\n참고하시면 좋은 영상과 기사 함께 공유 드립니다.\n  회사홈페이지: "
+								},
+								{
+									"type": "link",
+									"url": "https://stradvision.com/ko/home-2/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n  회사오피스사진: "
+								},
+								{
+									"type": "link",
+									"url": "https://blog.naver.com/stradvisionary/222602896193",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n  참고하면 좋을 기사&영상\n 1)영상\n  "
+								},
+								{
+									"type": "link",
+									"url": "https://www.youtube.com/watch?v=CcKpS03o_Bs",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n\n 2)최근기사\n-LG전자에 자율주행용 카메라 인식 솔루션 공급 "
+								},
+								{
+									"type": "link",
+									"url": "http://it.chosun.com/site/data/html_dir/2021/12/13/2021121300822.html",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n -LG전자, 메르세데스-벤츠 C클래스에 ADAS 전방카메라 공급 "
+								},
+								{
+									"type": "link",
+									"url": "https://live.lge.co.kr/lg-adas-front-camera/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n -자동차 국제 표준 인증 "
+								},
+								{
+									"type": "link",
+									"url": "https://newsis.com/view/?id=NISX20220223_0001770174&cID=13001&pID=13000",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9c7cfe8dcf90be8ba3486e0b50726da5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+				"first_name": "4.5기_안지용",
+				"real_name": "4.5기_안지용",
+				"display_name": "4.5기_안지용",
+				"team": "T01QA5S537V",
+				"name": "an718",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

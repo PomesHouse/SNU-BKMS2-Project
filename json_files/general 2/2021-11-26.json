@@ -1,80 +1,82 @@
-[
-  {
-    "client_msg_id": "aa4b257d-ae82-4da3-9aa5-19c9211950bb",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 2021년도 제7차 「찾아가는 연구자 교육:IRB 심의의뢰서 작성법」 안내 \u0026gt;\n\n2021년도 제7차「찾아가는 연구자 교육」을 개최하여 인간대상연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획 및 작성에의 이해를 돕고자 하오니 관심있는 학생분들의 많은 참여 바랍니다 :blob-grin:\n• 일시: 2021.12.8.(수) 10:00 ~ 112:00\n• 장소: 비대면 강의\n• 참석대상: 인간대상연구 연구자\n• 주제: 인간대상연구윤리와 IRB 심의의뢰서 작성법\n• 등록방법: \u003chttps://forms.gle/Z5APXfcYmegBhekk6\u003e (이름, 소속,이메일 기재), 선착순 마감(70명)\n",
-    "ts": "1637891330.079600",
-    "attachments": [
-      {
-        "fallback": "Google Docs: 2021.12 찾아가는 연구자 교육",
-        "id": 1,
-        "title": "2021.12 찾아가는 연구자 교육",
-        "title_link": "https://forms.gle/Z5APXfcYmegBhekk6",
-        "text": "2021. 12. 8.(수) 10:00~12:00, ZOOM 강의",
-        "image_url": "https://lh3.googleusercontent.com/J37G5dw6_giRq6fG7iDyqXZKz7PrnNJGRvqSgiNA3Vh1NFKE6Tq6_Ic7BnQoo-ESm-UOAc8hPIs",
-        "service_name": "Google Docs",
-        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
-        "from_url": "https://forms.gle/Z5APXfcYmegBhekk6",
-        "original_url": "https://forms.gle/Z5APXfcYmegBhekk6",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/5P2A",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 2021년도 제7차 「찾아가는 연구자 교육:IRB 심의의뢰서 작성법」 안내 \u003e\n\n2021년도 제7차「찾아가는 연구자 교육」을 개최하여 인간대상연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획 및 작성에의 이해를 돕고자 하오니 관심있는 학생분들의 많은 참여 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "blob-grin",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 2021.12.8.(\\uc218) 10:00 ~ 112:00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: \\ube44\\ub300\\uba74 \\uac15\\uc758\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d\\ub300\\uc0c1: \\uc778\\uac04\\ub300\\uc0c1\\uc5f0\\uad6c \\uc5f0\\uad6c\\uc790\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc81c: \\uc778\\uac04\\ub300\\uc0c1\\uc5f0\\uad6c\\uc724\\ub9ac\\uc640 IRB \\uc2ec\\uc758\\uc758\\ub8b0\\uc11c \\uc791\\uc131\\ubc95\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub4f1\\ub85d\\ubc29\\ubc95: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/Z5APXfcYmegBhekk6\"},{\"type\":\"text\",\"text\":\" (\\uc774\\ub984, \\uc18c\\uc18d,\\uc774\\uba54\\uc77c \\uae30\\uc7ac), \\uc120\\ucc29\\uc21c \\ub9c8\\uac10(70\\uba85)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": []
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "aa4b257d-ae82-4da3-9aa5-19c9211950bb",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 2021년도 제7차 「찾아가는 연구자 교육:IRB 심의의뢰서 작성법」 안내 &gt;\n\n2021년도 제7차「찾아가는 연구자 교육」을 개최하여 인간대상연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획 및 작성에의 이해를 돕고자 하오니 관심있는 학생분들의 많은 참여 바랍니다 :blob-grin:\n• 일시: 2021.12.8.(수) 10:00 ~ 112:00\n• 장소: 비대면 강의\n• 참석대상: 인간대상연구 연구자\n• 주제: 인간대상연구윤리와 IRB 심의의뢰서 작성법\n• 등록방법: <https://forms.gle/Z5APXfcYmegBhekk6> (이름, 소속,이메일 기재), 선착순 마감(70명)\n",
+			"ts": "1637891330.079600",
+			"attachments": [
+				{
+					"fallback": "Google Docs: 2021.12 찾아가는 연구자 교육",
+					"id": 1,
+					"title": "2021.12 찾아가는 연구자 교육",
+					"title_link": "https://forms.gle/Z5APXfcYmegBhekk6",
+					"text": "2021. 12. 8.(수) 10:00~12:00, ZOOM 강의",
+					"image_url": "https://lh3.googleusercontent.com/J37G5dw6_giRq6fG7iDyqXZKz7PrnNJGRvqSgiNA3Vh1NFKE6Tq6_Ic7BnQoo-ESm-UOAc8hPIs",
+					"service_name": "Google Docs",
+					"service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+					"from_url": "https://forms.gle/Z5APXfcYmegBhekk6",
+					"original_url": "https://forms.gle/Z5APXfcYmegBhekk6",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/5P2A",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 2021년도 제7차 「찾아가는 연구자 교육:IRB 심의의뢰서 작성법」 안내 >\n\n2021년도 제7차「찾아가는 연구자 교육」을 개최하여 인간대상연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획 및 작성에의 이해를 돕고자 하오니 관심있는 학생분들의 많은 참여 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "blob-grin",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 2021.12.8.(\\uc218) 10:00 ~ 112:00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: \\ube44\\ub300\\uba74 \\uac15\\uc758\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d\\ub300\\uc0c1: \\uc778\\uac04\\ub300\\uc0c1\\uc5f0\\uad6c \\uc5f0\\uad6c\\uc790\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc81c: \\uc778\\uac04\\ub300\\uc0c1\\uc5f0\\uad6c\\uc724\\ub9ac\\uc640 IRB \\uc2ec\\uc758\\uc758\\ub8b0\\uc11c \\uc791\\uc131\\ubc95\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub4f1\\ub85d\\ubc29\\ubc95: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/Z5APXfcYmegBhekk6\"},{\"type\":\"text\",\"text\":\" (\\uc774\\ub984, \\uc18c\\uc18d,\\uc774\\uba54\\uc77c \\uae30\\uc7ac), \\uc120\\ucc29\\uc21c \\ub9c8\\uac10(70\\uba85)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": []
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

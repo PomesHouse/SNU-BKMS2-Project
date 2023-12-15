@@ -1,333 +1,335 @@
-[
-  {
-    "client_msg_id": "a116ece9-1777-4403-ab68-9a1f9eebda99",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 1학기 논문계획서(Proposal) 심사 신청 접수 안내\u0026gt;\n※ 금번 학기 논문심사를 신청하신 학생들은 해당 공지사항의 내용과 무관하게 기존 논문심사 일정대로 준비해주시면 됩니다.\n\n금일 원장단에서 결정하신 사항입니다.\n\n2023학년도 1학기 논문심사를 신청하지 않았으나, 다음 학기에 논문심사를 신청할 계획인 학생들은 이번 학기에 논문계획서(Proposal) 심사 신청을 해주시기 바랍니다.\n\n가. 신청기간: 2023. 4. 21.(금) 18:00 까지\n나. 신청방법: 붙임의 석사학위 논문계획서 심사 신청서를 작성하고 지도교수 서명을 얻은 후, 행정실로 제출\n다. 신청대상\n - 외국어 및 논문제출자격시험에 전과목 합격한 학생\n - 다음학기(2023학년도 2학기) 논문심사 신청 예정인 학생\n라. 심사일정\n - 심사용 논문계획서 제출: 2023. 4. 26.(수) ~ 2023. 4. 27.(목) 13:00\n - 논문계획서 심사: 2023. 4. 28.(금) \u0026lt;10분 발표, 5분 질의응답\u0026gt;\n ※ 제출방법: 심사용 논문계획서를 정해진 기간에 행정실 담당자 메일(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e)로 제출해야하고 발표 당일 심사용 논문계획서 4부를 지참하도록 함\n\n붙임 석사학위 논문계획서 심사 신청서 1부.",
-    "ts": "1681689735.410789",
-    "thread_ts": "1681689735.410789",
-    "reply_count": 4,
-    "replies": [
-      {
-        "user": "U02ULBJR9GE",
-        "ts": "1681792358.148759"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1681948512.111689"
-      },
-      {
-        "user": "U02V5LRB5S5",
-        "ts": "1681954484.681239"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1681954651.055489"
-      }
-    ],
-    "latest_reply": "1681954651.055489",
-    "files": [
-      {
-        "id": "F053CV79ZRT",
-        "created": 1681689694,
-        "timestamp": 1681689694,
-        "name": "데이터사이언스대학원 논문계획서 심사 신청서.hwp",
-        "title": "데이터사이언스대학원 논문계획서 심사 신청서.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 66048,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F053CV79ZRT-데이터사이언스대학원 논문계획서 심사 신청서.hwp",
-        "url_private_download": "attachments/F053CV79ZRT-데이터사이언스대학원 논문계획서 심사 신청서.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F053CV79ZRT/_______________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F053CV79ZRT-3d6ae302fa",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ZhwaA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 1학기 논문계획서(Proposal) 심사 신청 접수 안내\u003e\n※ 금번 학기 논문심사를 신청하신 학생들은 해당 공지사항의 내용과 무관하게 기존 논문심사 일정대로 준비해주시면 됩니다.\n\n금일 원장단에서 결정하신 사항입니다.\n\n2023학년도 1학기 논문심사를 신청하지 않았으나, 다음 학기에 논문심사를 신청할 계획인 학생들은 이번 학기에 논문계획서(Proposal) 심사 신청을 해주시기 바랍니다.\n\n가. 신청기간: 2023. 4. 21.(금) 18:00 까지\n나. 신청방법: 붙임의 석사학위 논문계획서 심사 신청서를 작성하고 지도교수 서명을 얻은 후, 행정실로 제출\n다. 신청대상\n - 외국어 및 논문제출자격시험에 전과목 합격한 학생\n - 다음학기(2023학년도 2학기) 논문심사 신청 예정인 학생\n라. 심사일정\n - 심사용 논문계획서 제출: 2023. 4. 26.(수) ~ 2023. 4. 27.(목) 13:00\n - 논문계획서 심사: 2023. 4. 28.(금) \u003c10분 발표, 5분 질의응답\u003e\n ※ 제출방법: 심사용 논문계획서를 정해진 기간에 행정실 담당자 메일("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")로 제출해야하고 발표 당일 심사용 논문계획서 4부를 지참하도록 함\n\n붙임 석사학위 논문계획서 심사 신청서 1부."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 3,
-    "reply_users": [
-      "U01QNJ7PWRX",
-      "U02ULBJR9GE",
-      "U02V5LRB5S5"
-    ]
-  },
-  {
-    "client_msg_id": "583ea5ee-b63d-4983-9957-9c858b43cc0c",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;예비군 훈련 일정 변경 관련 안내\u0026gt;*\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: *예비군홈페이지(\u003chttp://www.yebigun1.mil.kr|www.yebigun1.mil.kr\u003e)에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)*\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다.",
-    "ts": "1681697043.509009",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9DTh6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c예비군 훈련 일정 변경 관련 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: "
-              },
-              {
-                "type": "text",
-                "text": "예비군홈페이지(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "http://www.yebigun1.mil.kr",
-                "text": "www.yebigun1.mil.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "5ee4105c-fe23-499c-b32f-ebdac586cab6",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;논문제출자격시험 응시 횟수 초과자 안내\u0026gt;\n\n논문제출자격시험 종합시험에 2회 이상 응시하였으나, 전과목 합격하지 못하여 추가 시험에 응시할 필요가 있는 학생께서는 2023. 4. 27.(목) 18:00까지 추가 응시 신청을 해주시기 바랍니다.\n\nㅁ신청방법: 담당자 이메일(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e)로 신청\n ㅇ메일제목: (학번, 성명) 논자시 2회 초과응시자 학사위원회 검토 신청\n ㅇ메일본문: 자유 양식으로 서술",
-    "ts": "1681705566.269769",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1681705575.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Mq6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c논문제출자격시험 응시 횟수 초과자 안내\u003e\n\n논문제출자격시험 종합시험에 2회 이상 응시하였으나, 전과목 합격하지 못하여 추가 시험에 응시할 필요가 있는 학생께서는 2023. 4. 27.(목) 18:00까지 추가 응시 신청을 해주시기 바랍니다.\n\nㅁ신청방법: 담당자 이메일("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")로 신청\n ㅇ메일제목: (학번, 성명) 논자시 2회 초과응시자 학사위원회 검토 신청\n ㅇ메일본문: 자유 양식으로 서술"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "05e98f84-7281-47c6-bdb3-4cd97f484c62",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;분실물 습득 공지\u0026gt;\n지난주 금요일에 행정실로 아래 분실물이 습득되었습니다. 주인께서는 4.20.(목)까지 찾아가시기 바랍니다.(기한 이후 폐기 예정)\nㅇ 오아 무선이어폰, 검정색 가디건 1개",
-    "ts": "1681708297.234189",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1681711561.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fYmpm",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c분실물 습득 공지\u003e\n지난주 금요일에 행정실로 아래 분실물이 습득되었습니다. 주인께서는 4.20.(목)까지 찾아가시기 바랍니다.(기한 이후 폐기 예정)\nㅇ 오아 무선이어폰, 검정색 가디건 1개"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "a116ece9-1777-4403-ab68-9a1f9eebda99",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 1학기 논문계획서(Proposal) 심사 신청 접수 안내&gt;\n※ 금번 학기 논문심사를 신청하신 학생들은 해당 공지사항의 내용과 무관하게 기존 논문심사 일정대로 준비해주시면 됩니다.\n\n금일 원장단에서 결정하신 사항입니다.\n\n2023학년도 1학기 논문심사를 신청하지 않았으나, 다음 학기에 논문심사를 신청할 계획인 학생들은 이번 학기에 논문계획서(Proposal) 심사 신청을 해주시기 바랍니다.\n\n가. 신청기간: 2023. 4. 21.(금) 18:00 까지\n나. 신청방법: 붙임의 석사학위 논문계획서 심사 신청서를 작성하고 지도교수 서명을 얻은 후, 행정실로 제출\n다. 신청대상\n - 외국어 및 논문제출자격시험에 전과목 합격한 학생\n - 다음학기(2023학년도 2학기) 논문심사 신청 예정인 학생\n라. 심사일정\n - 심사용 논문계획서 제출: 2023. 4. 26.(수) ~ 2023. 4. 27.(목) 13:00\n - 논문계획서 심사: 2023. 4. 28.(금) &lt;10분 발표, 5분 질의응답&gt;\n ※ 제출방법: 심사용 논문계획서를 정해진 기간에 행정실 담당자 메일(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>)로 제출해야하고 발표 당일 심사용 논문계획서 4부를 지참하도록 함\n\n붙임 석사학위 논문계획서 심사 신청서 1부.",
+			"ts": "1681689735.410789",
+			"thread_ts": "1681689735.410789",
+			"reply_count": 4,
+			"replies": [
+				{
+					"user": "U02ULBJR9GE",
+					"ts": "1681792358.148759"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1681948512.111689"
+				},
+				{
+					"user": "U02V5LRB5S5",
+					"ts": "1681954484.681239"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1681954651.055489"
+				}
+			],
+			"latest_reply": "1681954651.055489",
+			"files": [
+				{
+					"id": "F053CV79ZRT",
+					"created": 1681689694,
+					"timestamp": 1681689694,
+					"name": "데이터사이언스대학원 논문계획서 심사 신청서.hwp",
+					"title": "데이터사이언스대학원 논문계획서 심사 신청서.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 66048,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F053CV79ZRT-데이터사이언스대학원 논문계획서 심사 신청서.hwp",
+					"url_private_download": "attachments/F053CV79ZRT-데이터사이언스대학원 논문계획서 심사 신청서.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F053CV79ZRT/_______________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F053CV79ZRT-3d6ae302fa",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ZhwaA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 1학기 논문계획서(Proposal) 심사 신청 접수 안내>\n※ 금번 학기 논문심사를 신청하신 학생들은 해당 공지사항의 내용과 무관하게 기존 논문심사 일정대로 준비해주시면 됩니다.\n\n금일 원장단에서 결정하신 사항입니다.\n\n2023학년도 1학기 논문심사를 신청하지 않았으나, 다음 학기에 논문심사를 신청할 계획인 학생들은 이번 학기에 논문계획서(Proposal) 심사 신청을 해주시기 바랍니다.\n\n가. 신청기간: 2023. 4. 21.(금) 18:00 까지\n나. 신청방법: 붙임의 석사학위 논문계획서 심사 신청서를 작성하고 지도교수 서명을 얻은 후, 행정실로 제출\n다. 신청대상\n - 외국어 및 논문제출자격시험에 전과목 합격한 학생\n - 다음학기(2023학년도 2학기) 논문심사 신청 예정인 학생\n라. 심사일정\n - 심사용 논문계획서 제출: 2023. 4. 26.(수) ~ 2023. 4. 27.(목) 13:00\n - 논문계획서 심사: 2023. 4. 28.(금) <10분 발표, 5분 질의응답>\n ※ 제출방법: 심사용 논문계획서를 정해진 기간에 행정실 담당자 메일("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")로 제출해야하고 발표 당일 심사용 논문계획서 4부를 지참하도록 함\n\n붙임 석사학위 논문계획서 심사 신청서 1부."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 3,
+			"reply_users": [
+				"U01QNJ7PWRX",
+				"U02ULBJR9GE",
+				"U02V5LRB5S5"
+			]
+		},
+		{
+			"client_msg_id": "583ea5ee-b63d-4983-9957-9c858b43cc0c",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;예비군 훈련 일정 변경 관련 안내&gt;*\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: *예비군홈페이지(<http://www.yebigun1.mil.kr|www.yebigun1.mil.kr>)에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)*\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다.",
+			"ts": "1681697043.509009",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9DTh6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<예비군 훈련 일정 변경 관련 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n우리 대학원 예비군 훈련 기간이 5.19.(금)으로 통보된 것으로 알고 있습니다.\n예비군연대에서 대학원 학생들의 훈련일정을 일괄 변경하는 것은 어렵고 개별적으로 변경신청해야한다고 합니다 .\n\n해당일에 대학원 행사가 진행될 예정으로 예비군 훈련에 참석이 어려운 학생들께서는 개별적으로 예비군 훈련 일정 변경신청을 하여야 합니다.\n\n가. 대상 훈련일자: 2023. 5. 15. ~ 19.\n나. 훈련일정변경: "
+								},
+								{
+									"type": "text",
+									"text": "예비군홈페이지(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "http://www.yebigun1.mil.kr",
+									"text": "www.yebigun1.mil.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")에서 훈련일정 변경 가능하며 4월15일~22일까지 (변경 하고자 하는 날짜에 인원 초과시 날짜 변경불가)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n일자별 훈련대상 인원 초과시 변경이 불가능하므로 훈련변경신청을 서둘러 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "5ee4105c-fe23-499c-b32f-ebdac586cab6",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;논문제출자격시험 응시 횟수 초과자 안내&gt;\n\n논문제출자격시험 종합시험에 2회 이상 응시하였으나, 전과목 합격하지 못하여 추가 시험에 응시할 필요가 있는 학생께서는 2023. 4. 27.(목) 18:00까지 추가 응시 신청을 해주시기 바랍니다.\n\nㅁ신청방법: 담당자 이메일(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>)로 신청\n ㅇ메일제목: (학번, 성명) 논자시 2회 초과응시자 학사위원회 검토 신청\n ㅇ메일본문: 자유 양식으로 서술",
+			"ts": "1681705566.269769",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1681705575.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Mq6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<논문제출자격시험 응시 횟수 초과자 안내>\n\n논문제출자격시험 종합시험에 2회 이상 응시하였으나, 전과목 합격하지 못하여 추가 시험에 응시할 필요가 있는 학생께서는 2023. 4. 27.(목) 18:00까지 추가 응시 신청을 해주시기 바랍니다.\n\nㅁ신청방법: 담당자 이메일("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")로 신청\n ㅇ메일제목: (학번, 성명) 논자시 2회 초과응시자 학사위원회 검토 신청\n ㅇ메일본문: 자유 양식으로 서술"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "05e98f84-7281-47c6-bdb3-4cd97f484c62",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;분실물 습득 공지&gt;\n지난주 금요일에 행정실로 아래 분실물이 습득되었습니다. 주인께서는 4.20.(목)까지 찾아가시기 바랍니다.(기한 이후 폐기 예정)\nㅇ 오아 무선이어폰, 검정색 가디건 1개",
+			"ts": "1681708297.234189",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1681711561.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fYmpm",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<분실물 습득 공지>\n지난주 금요일에 행정실로 아래 분실물이 습득되었습니다. 주인께서는 4.20.(목)까지 찾아가시기 바랍니다.(기한 이후 폐기 예정)\nㅇ 오아 무선이어폰, 검정색 가디건 1개"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

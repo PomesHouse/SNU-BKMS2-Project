@@ -1,0 +1,650 @@
+[
+  {
+    "client_msg_id": "31c6621b-b618-4658-b2ee-0b5fb1a53a90",
+    "type": "message",
+    "user": "U01QA85T90A",
+    "text": "지인의 요청으로 스타트업 소개글을 올립니다. 관심있으신 분은 연락해보시기 바랍니다.\n1. 제목 : [서울대MBA] 창업팀 프로젝트 소개\n2. 내용 : 개인을 위한 가장 간편한 단체선물\n3. 연락처 :\u003cmailto:gifty8893@gmail.com|gifty8893@gmail.com\u003e\n4. We seek\n선물 추천 AI를 위한 데이터 풀 구축 및 처리 방식, 개발 플로우 등\n5. We offer\n  1) 사업소개와 함께하는 맛있는 커피 or 저녁(If you want!)\n  2) 예비창업패키지 멤버 참여 기회 및 풀타임 전환\n  3) MBA 네트워킹 및 비즈니스 도움\n\n안녕하세요 받는 사람이 선택하는 개인 맞춤 선물 솔루션을 통해 비대면 선물시장의 혁신을 실행하는 기프티입니다.\n\n저희 팀은 MBA 학생 최용현, 김예은 공동창업자로 구성되어 있으며 작년 12월부터 창업 준비를 시작하여 올해 2월 창업아이템을 확정하여 사업화 중입니다. MBA에서 창업을 시작한 만큼 초기 사업을 유지할 정도의 자금, 조직 경험, 다양한 산업 경험, 비즈니스 네트워크 인프라 등을 어느 정도 갖춰놓은 상태라고 생각합니다.\n\n창업아이템 개발 동기는 단체 선물 등을 주고받을 때 마음에 들지 않는 경우가 많은데 원하는 선물을 주고받을 수 없을까에서 시작되었습니다.\n\n발견 한 문제점과 니즈 그리고 솔루션을 간략히 말씀드리면 기업에게는 선물 고르는 어려움을 제거시켜주며 직원에게는 원하는 선물 선택 옵션을 주어 받는 사람과 보내는 사람의 상호 만족 추구가 가능합니다.\n\n저희가 생각하는 첫 번째 타깃 마켓은 기업 고객입니다. 직원이나 업무 관계자에게 시즌이 되면 반드시 선물을 주어야 하는 B2B 마켓에 진출하여 초기 매출을 발생시키고 서비스가 고도화되면 개인 간 선물 서비스로 사업을 확대하고자 합니다.\n\n현재 진행 상황은 4월 말 경 완성될 프로토타입 서비스를 개발하는 동시에 예비창업패키지 등 다양한 사업에 지원하고 있습니다. 빅데이터/AI 등의 기술을 접목하기에는 아직 사업이 초기 단계이지만 사업 기획 단계부터 차후 기술적인 발전에 대한 고민을 가지고 사업을 전개하고자 하고 있습니다.\n\n혹시 저희 사업에 관심이 있으신 데이터사이언스 학우분들께 고견을 듣고자 합니다. 부담 가지지 않으시고 편하게 연락 주시면 커피 한잔하면서 여러 의견을 나누고 싶습니다 : ) 많은 관심 부탁드리겠습니다.\n\n창업 아이템 발표자료를 첨부드립니다.\n감사합니다.\n기프티 드림",
+    "ts": "1618465294.057900",
+    "thread_ts": "1618465294.057900",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01QA85T90A",
+        "ts": "1618465330.058100"
+      }
+    ],
+    "latest_reply": "1618465330.058100",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "grinning",
+        "count": 3,
+        "users": [
+          "U01Q3EP0E14",
+          "U01QAE5DERZ",
+          "U01QGD03WUC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cq=jv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지인의 요청으로 스타트업 소개글을 올립니다. 관심있으신 분은 연락해보시기 바랍니다.\n1. 제목 : [서울대MBA] 창업팀 프로젝트 소개\n2. 내용 : 개인을 위한 가장 간편한 단체선물\n3. 연락처 :"
+              },
+              {
+                "type": "link",
+                "url": "mailto:gifty8893@gmail.com",
+                "text": "gifty8893@gmail.com"
+              },
+              {
+                "type": "text",
+                "text": "\n4. We seek\n선물 추천 AI를 위한 데이터 풀 구축 및 처리 방식, 개발 플로우 등\n5. We offer\n  1) 사업소개와 함께하는 맛있는 커피 or 저녁(If you want!)\n  2) 예비창업패키지 멤버 참여 기회 및 풀타임 전환\n  3) MBA 네트워킹 및 비즈니스 도움\n\n안녕하세요 받는 사람이 선택하는 개인 맞춤 선물 솔루션을 통해 비대면 선물시장의 혁신을 실행하는 기프티입니다.\n\n저희 팀은 MBA 학생 최용현, 김예은 공동창업자로 구성되어 있으며 작년 12월부터 창업 준비를 시작하여 올해 2월 창업아이템을 확정하여 사업화 중입니다. MBA에서 창업을 시작한 만큼 초기 사업을 유지할 정도의 자금, 조직 경험, 다양한 산업 경험, 비즈니스 네트워크 인프라 등을 어느 정도 갖춰놓은 상태라고 생각합니다.\n\n창업아이템 개발 동기는 단체 선물 등을 주고받을 때 마음에 들지 않는 경우가 많은데 원하는 선물을 주고받을 수 없을까에서 시작되었습니다.\n\n발견 한 문제점과 니즈 그리고 솔루션을 간략히 말씀드리면 기업에게는 선물 고르는 어려움을 제거시켜주며 직원에게는 원하는 선물 선택 옵션을 주어 받는 사람과 보내는 사람의 상호 만족 추구가 가능합니다.\n\n저희가 생각하는 첫 번째 타깃 마켓은 기업 고객입니다. 직원이나 업무 관계자에게 시즌이 되면 반드시 선물을 주어야 하는 B2B 마켓에 진출하여 초기 매출을 발생시키고 서비스가 고도화되면 개인 간 선물 서비스로 사업을 확대하고자 합니다.\n\n현재 진행 상황은 4월 말 경 완성될 프로토타입 서비스를 개발하는 동시에 예비창업패키지 등 다양한 사업에 지원하고 있습니다. 빅데이터/AI 등의 기술을 접목하기에는 아직 사업이 초기 단계이지만 사업 기획 단계부터 차후 기술적인 발전에 대한 고민을 가지고 사업을 전개하고자 하고 있습니다.\n\n혹시 저희 사업에 관심이 있으신 데이터사이언스 학우분들께 고견을 듣고자 합니다. 부담 가지지 않으시고 편하게 연락 주시면 커피 한잔하면서 여러 의견을 나누고 싶습니다 : ) 많은 관심 부탁드리겠습니다.\n\n창업 아이템 발표자료를 첨부드립니다.\n감사합니다.\n기프티 드림"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+      "first_name": "gundo0102",
+      "real_name": "gundo0102",
+      "display_name": "3기_박건도",
+      "team": "T01QA5S537V",
+      "name": "gundo0102",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01QA85T90A"
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U01QA85T90A",
+    "text": "기프티 IR 자료입니다.",
+    "ts": "1618465330.058100",
+    "thread_ts": "1618465294.057900",
+    "parent_user_id": "U01QA85T90A",
+    "files": [
+      {
+        "id": "F01V2S1UFKJ",
+        "created": 1618465318,
+        "timestamp": 1618465318,
+        "name": "20210413_기프티_IR_1.0.pdf",
+        "title": "20210413_기프티_IR_1.0.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QA85T90A",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 941558,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F01V2S1UFKJ-20210413_기프티_IR_1.0.pdf",
+        "url_private_download": "attachments/F01V2S1UFKJ-20210413_기프티_IR_1.0.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QA85T90A/F01V2S1UFKJ/20210413___________ir_1.0.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F01V2S1UFKJ-e0c58ece80",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z7mM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "기프티 IR 자료입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+      "first_name": "gundo0102",
+      "real_name": "gundo0102",
+      "display_name": "3기_박건도",
+      "team": "T01QA5S537V",
+      "name": "gundo0102",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2b4980df-f90d-4a05-8783-e6956c734365",
+    "type": "message",
+    "user": "U01Q75KNV1T",
+    "text": ":cookie:쿠키:cookie: 나눔합니다~ 몇개 안되지만 3, 4층 탕비실에 나눠놨으니 편하게 드세요ㅎㅎ 다들 시험 과제 발표 프로젝트 연구 화이팅:100::100::100:",
+    "ts": "1618471223.058500",
+    "thread_ts": "1618471223.058500",
+    "edited": {
+      "user": "U01Q75KNV1T",
+      "ts": "1618471343.000000"
+    },
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U01QZRUNBA4",
+        "ts": "1618471242.059100"
+      },
+      {
+        "user": "U01QNSM488Z",
+        "ts": "1618471359.059900"
+      },
+      {
+        "user": "U01QAE573J7",
+        "ts": "1618489373.062300"
+      },
+      {
+        "user": "U01Q3A8TXU6",
+        "ts": "1618539905.069300"
+      }
+    ],
+    "latest_reply": "1618539905.069300",
+    "files": [
+      {
+        "id": "F01U6FJTXUN",
+        "created": 1618471012,
+        "timestamp": 1618471012,
+        "name": "20210415_161202.jpg",
+        "title": "20210415_161202.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01Q75KNV1T",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 518992,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F01U6FJTXUN-20210415_161202.jpg",
+        "url_private_download": "attachments/F01U6FJTXUN-20210415_161202.jpg",
+        "original_h": 3024,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F01U6FJTXUN-e58037c306/20210415_161202_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F01U6FJTXUN-e58037c306/20210415_161202_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F01U6FJTXUN-e58037c306/20210415_161202_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F01U6FJTXUN-e58037c306/20210415_161202_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F01U6FJTXUN-e58037c306/20210415_161202_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F01U6FJTXUN-e58037c306/20210415_161202_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F01U6FJTXUN-e58037c306/20210415_161202_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F01U6FJTXUN-e58037c306/20210415_161202_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01Q75KNV1T/F01U6FJTXUN/20210415_161202.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F01U6FJTXUN-017383dd2f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F01UKDVH14L",
+        "created": 1618471014,
+        "timestamp": 1618471014,
+        "name": "20210415_161346.jpg",
+        "title": "20210415_161346.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01Q75KNV1T",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 399075,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F01UKDVH14L-20210415_161346.jpg",
+        "url_private_download": "attachments/F01UKDVH14L-20210415_161346.jpg",
+        "original_h": 3024,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F01UKDVH14L-3cf0195db8/20210415_161346_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F01UKDVH14L-3cf0195db8/20210415_161346_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F01UKDVH14L-3cf0195db8/20210415_161346_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F01UKDVH14L-3cf0195db8/20210415_161346_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F01UKDVH14L-3cf0195db8/20210415_161346_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F01UKDVH14L-3cf0195db8/20210415_161346_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F01UKDVH14L-3cf0195db8/20210415_161346_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F01UKDVH14L-3cf0195db8/20210415_161346_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01Q75KNV1T/F01UKDVH14L/20210415_161346.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F01UKDVH14L-521463054f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 23,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01PVEU1A07",
+          "U01R719DKK2",
+          "U01QNSM488Z",
+          "U01PVEU69BR",
+          "U01PVETJY87",
+          "U01QA85T90A",
+          "U01QNSMEY0Z",
+          "U01QNHRHY0L",
+          "U01QNMUAUKW",
+          "U01QV1WAPL1",
+          "U01PVEU3007",
+          "U01QGD03WUC",
+          "U01Q386CMKQ",
+          "U01QAE573J7",
+          "U01PVETMX2T",
+          "U01QV1SQJ57",
+          "U01QGKCUAJX",
+          "U01QAE5DERZ",
+          "U01QGKD09K5",
+          "U01Q9KJL8MC",
+          "U01Q3EP0E14",
+          "U01QV28FG4R"
+        ]
+      },
+      {
+        "name": "pray",
+        "count": 5,
+        "users": [
+          "U01QZRUNBA4",
+          "U01QAE5A9K5",
+          "U01QNSMEY0Z",
+          "U01QAE573J7",
+          "U01PVET2C31"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 4,
+        "users": [
+          "U01PVEU98KH",
+          "U01QNSMEY0Z",
+          "U01QNMUAUKW",
+          "U01QAE573J7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9RfD2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "cookie",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "쿠키"
+              },
+              {
+                "type": "emoji",
+                "name": "cookie",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 나눔합니다~ 몇개 안되지만 3, 4층 탕비실에 나눠놨으니 편하게 드세요ㅎㅎ 다들 시험 과제 발표 프로젝트 연구 화이팅"
+              },
+              {
+                "type": "emoji",
+                "name": "100",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "100",
+                "skin_tone": 0
+              },
+              {
+                "type": "emoji",
+                "name": "100",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1839499236017_e5a333503f5d47822279_72.jpg",
+      "first_name": "jwy4888",
+      "real_name": "jwy4888",
+      "display_name": "3기_장원영",
+      "team": "T01QA5S537V",
+      "name": "jwy4888",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U01Q3A8TXU6",
+      "U01QAE573J7",
+      "U01QNSM488Z",
+      "U01QZRUNBA4"
+    ]
+  },
+  {
+    "client_msg_id": "7BADD21E-5CFB-45DF-BFD7-7B5185DA59E1",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": "고마워요..!",
+    "ts": "1618471242.059100",
+    "thread_ts": "1618471223.058500",
+    "parent_user_id": "U01Q75KNV1T",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U01Q75KNV1T",
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZPqLK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "고마워요..!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0a3be7b6-2653-4c1f-8488-17e805293c7e",
+    "type": "message",
+    "user": "U01QNSM488Z",
+    "text": "당신의 헌신에 감사합니다.",
+    "ts": "1618471359.059900",
+    "thread_ts": "1618471223.058500",
+    "parent_user_id": "U01Q75KNV1T",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U01Q75KNV1T",
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ItN7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "당신의 헌신에 감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "1기_황태현",
+      "real_name": "1기_황태현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "th.hwang",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c7c548f9-5378-4617-8e28-70393c52ff73",
+    "type": "message",
+    "user": "U01QAE573J7",
+    "text": "착한 사람 원영이였구나 맛있게 먹었어 :slightly_smiling_face:",
+    "ts": "1618489373.062300",
+    "thread_ts": "1618471223.058500",
+    "parent_user_id": "U01Q75KNV1T",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U01Q75KNV1T",
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZaN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "착한 사람 원영이였구나 맛있게 먹었어 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "1기_안규수",
+      "real_name": "1기_안규수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kyusu.ahn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

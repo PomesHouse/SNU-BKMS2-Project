@@ -1,0 +1,243 @@
+[
+  {
+    "client_msg_id": "74e13498-6184-4b09-b945-1eac486f8cce",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;과총-재유럽과협-AI미래포럼 공동 Webinar 안내\u0026gt;*\n\nCOVID-19 확산세가 계속되는 가운데 한국 사회를 포함한 전 세계는 디지털 전환을 새로운 변화의 핵심 축으로 인식하고 있습니다. 디지털 전환의 중심에는 인공지능(AI)이 있습니다. 특히 유럽연합이 GDPR 이후 최근 AI 법안을 내놓으면서 신뢰가능한 AI 담론이 확산되고 있습니다.  이에 인간을 위한 도구로서 AI의 과제와 해법을 모색하고자 과총, 재유럽과협, AI미래포럼이 공동으로 웨비나를 마련하였습니다. 많은 건설적인 논의가 이루어지도록 관심 있는 분들의 적극적인 참여 바랍니다 :blob-grin:\n\n*AI에 대한 기대와 현실, 무슨 노력이 필요한가? -신뢰가능한 AI를 중심으로-*\n• 행사일자: 2021.12.1.(수) 16:00 ~ 18:00 (한국시간)\n• 진행방식: 한-영 동시통역\n관련하여 자세한 내용은 첨부의 홍보안내문 참고 바랍니다.",
+    "ts": "1637111270.065100",
+    "files": [
+      {
+        "id": "F02MLJ46MHQ",
+        "created": 1637111266,
+        "timestamp": 1637111266,
+        "name": "과총-재유럽과협-AI미래포럼 공동 웨비나.pdf",
+        "title": "과총-재유럽과협-AI미래포럼 공동 웨비나.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 957676,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02MLJ46MHQ-과총-재유럽과협-AI미래포럼 공동 웨비나.pdf",
+        "url_private_download": "attachments/F02MLJ46MHQ-과총-재유럽과협-AI미래포럼 공동 웨비나.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02MLJ46MHQ/______-_______________-ai_____________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02MLJ46MHQ-fdef18c3b7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "11Lrj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c과총-재유럽과협-AI미래포럼 공동 Webinar 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nCOVID-19 확산세가 계속되는 가운데 한국 사회를 포함한 전 세계는 디지털 전환을 새로운 변화의 핵심 축으로 인식하고 있습니다. 디지털 전환의 중심에는 인공지능(AI)이 있습니다. 특히 유럽연합이 GDPR 이후 최근 AI 법안을 내놓으면서 신뢰가능한 AI 담론이 확산되고 있습니다.  이에 인간을 위한 도구로서 AI의 과제와 해법을 모색하고자 과총, 재유럽과협, AI미래포럼이 공동으로 웨비나를 마련하였습니다. 많은 건설적인 논의가 이루어지도록 관심 있는 분들의 적극적인 참여 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "blob-grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "AI에 대한 기대와 현실, 무슨 노력이 필요한가? -신뢰가능한 AI를 중심으로-",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud589\\uc0ac\\uc77c\\uc790: 2021.12.1.(\\uc218) 16:00 ~ 18:00 (\\ud55c\\uad6d\\uc2dc\\uac04)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c4\\ud589\\ubc29\\uc2dd: \\ud55c-\\uc601 \\ub3d9\\uc2dc\\ud1b5\\uc5ed\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n관련하여 자세한 내용은 첨부의 홍보안내문 참고 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "329eecf9-502c-4b8a-ac00-4089ce0d056e",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "ts": "1637131229.065200",
+    "files": [
+      {
+        "id": "F02M6LH5AS3",
+        "created": 1637131225,
+        "timestamp": 1637131225,
+        "name": "(KED)빅데이터시각화아이디어공모전 포스터.jpg",
+        "title": "(KED)빅데이터시각화아이디어공모전 포스터.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 634455,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02M6LH5AS3-(KED)빅데이터시각화아이디어공모전 포스터.jpg",
+        "url_private_download": "attachments/F02M6LH5AS3-(KED)빅데이터시각화아이디어공모전 포스터.jpg",
+        "original_h": 1200,
+        "original_w": 900,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02M6LH5AS3-02603b0c30/_ked______________________________________________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02M6LH5AS3-02603b0c30/_ked______________________________________________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02M6LH5AS3-02603b0c30/_ked______________________________________________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02M6LH5AS3-02603b0c30/_ked______________________________________________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02M6LH5AS3-02603b0c30/_ked______________________________________________________480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02M6LH5AS3-02603b0c30/_ked______________________________________________________720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02M6LH5AS3-02603b0c30/_ked______________________________________________________960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02M6LH5AS3-02603b0c30/_ked______________________________________________________1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02M6LH5AS3/_ked_____________________________________________________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02M6LH5AS3-742562c4e3",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

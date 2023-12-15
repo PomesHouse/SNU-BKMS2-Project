@@ -1,0 +1,143 @@
+[
+  {
+    "client_msg_id": "74684100-599f-498f-acd3-37b6d9333ab3",
+    "type": "message",
+    "user": "U02UT2UKVEX",
+    "text": "안녕하세요! 3기 석사과정 이창욱입니다.\n11/6(월) 오후 4:00- 5:00까지 서울대학교 임재현 교수님께서 세미나를 진행해주실 예정입니다.\n학우분들의 많은 관심 부탁드리겠습니다.\n감사합니다.\n-----------------------------------------------------------------------------------\n시간: 2023.11.6(월) 오후 4:00-5:00\n장소: 서울대학교 942동 302호\nSpeaker: Prof. Michael K. Lim\nTitle: Optimal Management of Renewable Energy Certificates: A Reinforcement Learning Approach\n\nAbstract: The Renewable Energy Certificate (REC) market plays a critical role in ensuring\nrenewable energy compliance by facilitating the matching of REC supply and demand. In this study, we focus on the problem faced by REC aggregators who act as brokers, making REC sales decisions on behalf of individual renewable energy generators.\n\nSpeaker Bio: Prof. Michael K. Lim is a professor of Operations Management at the Business School of Seoul National University (SNU). Before his commendable tenure at SNU, he held academic positions at the Gies College of Business at the University of Illinois Urbana-Champaign. His research emphasizes socially responsible operations(relation to policy implications in emerging economies), reinforcement learning, and supply chain, and network optimization. He received several awards including MSOM Best Paper Award from INFORMS in 2018 and M\u0026SOM Meritorious Service Award in 2016.",
+    "ts": "1699084420.837859",
+    "edited": {
+      "user": "U02UT2UKVEX",
+      "ts": "1699084487.000000"
+    },
+    "files": [
+      {
+        "id": "F064949P9GA",
+        "created": 1699084379,
+        "timestamp": 1699084379,
+        "name": "BK_Posters.png",
+        "title": "BK_Posters.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U02UT2UKVEX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 688331,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F064949P9GA-BK_Posters.png",
+        "url_private_download": "attachments/F064949P9GA-BK_Posters.png",
+        "original_h": 1344,
+        "original_w": 1008,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F064949P9GA-c1a8fd8827/bk_posters_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F064949P9GA-c1a8fd8827/bk_posters_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F064949P9GA-c1a8fd8827/bk_posters_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F064949P9GA-c1a8fd8827/bk_posters_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F064949P9GA-c1a8fd8827/bk_posters_480.png",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F064949P9GA-c1a8fd8827/bk_posters_720.png",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F064949P9GA-c1a8fd8827/bk_posters_960.png",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F064949P9GA-c1a8fd8827/bk_posters_1024.png",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U02UT2UKVEX/F064949P9GA/bk_posters.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F064949P9GA-3327b39d17",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U01QV1SQJ57",
+          "U04R6NS3924",
+          "U01Q1KQ03PZ",
+          "U0302PHUHME",
+          "U01QGJL6SP5",
+          "U02V5LT4DLZ"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U01QGD17SUU"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U04R6NRBD1N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uZmcZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! 3기 석사과정 이창욱입니다.\n11/6(월) 오후 4:00- 5:00까지 서울대학교 임재현 교수님께서 세미나를 진행해주실 예정입니다.\n학우분들의 많은 관심 부탁드리겠습니다.\n감사합니다.\n-----------------------------------------------------------------------------------\n시간: 2023.11.6(월) 오후 4:00-5:00\n장소: 서울대학교 942동 302호\nSpeaker: Prof. Michael K. Lim\nTitle: Optimal Management of Renewable Energy Certificates: A Reinforcement Learning Approach\n\nAbstract: The Renewable Energy Certificate (REC) market plays a critical role in ensuring\nrenewable energy compliance by facilitating the matching of REC supply and demand. In this study, we focus on the problem faced by REC aggregators who act as brokers, making REC sales decisions on behalf of individual renewable energy generators.\n\nSpeaker Bio: Prof. Michael K. Lim is a professor of Operations Management at the Business School of Seoul National University (SNU). Before his commendable tenure at SNU, he held academic positions at the Gies College of Business at the University of Illinois Urbana-Champaign. His research emphasizes socially responsible operations(relation to policy implications in emerging economies), reinforcement learning, and supply chain, and network optimization. He received several awards including MSOM Best Paper Award from INFORMS in 2018 and M\u0026SOM Meritorious Service Award in 2016."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-01-19/2976282941653_9a01bd960ca202db6780_72.png",
+      "first_name": "이창욱",
+      "real_name": "이창욱",
+      "display_name": "3기_이창욱",
+      "team": "T01QA5S537V",
+      "name": "dlckddnr1120",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

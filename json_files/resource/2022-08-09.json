@@ -1,126 +1,128 @@
-[
-  {
-    "client_msg_id": "5c53e0ff-cc1e-4117-a0b2-0382d237d89b",
-    "type": "message",
-    "user": "U01PVETV83H",
-    "text": "*Perhaps, this is of interest to some of you!*\n\n\u003chttp://z-inspection.org/team-members/rzicari/|Prof. Roberto V. Zicari\u003e will teach *Ethical Implication of AI* this coming semester.\n\n*Course Description:* As AI capabilities have grown exponentially, it has become increasingly difficult to determine whether their model outputs or system behaviors protect the rights and interests of an ever wider group of stakeholders…...this course will help students to assess Trustworthy AI systems in practice by using the Z-Inspection® process.\n*Class schedule:*  Tues/Thurs 5-6:15pm (KST)\n*Target Students*: Master and Ph.D. students from interdisciplinary backgrounds (e.g. Computer Science, Data Science, Machine Learning, Law, Medicine, Social Science, Ethics, Public Policy, etc.)\n\nIf you are one of those who are interested in taking the course and want to know how things (grading, discussion, etc.) work in this course, don’t hesitate to send me a message or an email.\n\n\u003chttp://z-inspection.org/ethical-implication-of-ai-assessing-trustworthy-ai-in-practice/\u003e",
-    "ts": "1660006015.318769",
-    "edited": {
-      "user": "U01PVETV83H",
-      "ts": "1660007662.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U02P4QDPG2W"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ch=F",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "Perhaps, this is of interest to some of you!",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "link",
-                "url": "http://z-inspection.org/team-members/rzicari/",
-                "text": "Prof. Roberto V. Zicari"
-              },
-              {
-                "type": "text",
-                "text": " will teach "
-              },
-              {
-                "type": "text",
-                "text": "Ethical Implication of AI ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "this coming semester.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "Course Description:",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " As AI capabilities have grown exponentially, it has become increasingly difficult to determine whether their model outputs or system behaviors protect the rights and interests of an ever wider group of stakeholders…...this course will help students to assess Trustworthy AI systems in practice by using the Z-Inspection® process.\n"
-              },
-              {
-                "type": "text",
-                "text": "Class schedule:  ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "Tues/Thurs 5-6:15pm (KST)\n"
-              },
-              {
-                "type": "text",
-                "text": "Target Students",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": Master and Ph.D. students from interdisciplinary backgrounds (e.g. Computer Science, Data Science, Machine Learning, Law, Medicine, Social Science, Ethics, Public Policy, etc.)\n\nIf you are one of those who are interested in taking the course and want to know how things (grading, discussion, etc.) work in this course, don’t hesitate to send me a message or an email.\n\n"
-              },
-              {
-                "type": "link",
-                "url": "http://z-inspection.org/ethical-implication-of-ai-assessing-trustworthy-ai-in-practice/",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1832466060148_1534da1d255f371f185a_72.png",
-      "first_name": "James",
-      "real_name": "James Chang",
-      "display_name": "1기_장재원",
-      "team": "T01QA5S537V",
-      "name": "jaewon415",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "5c53e0ff-cc1e-4117-a0b2-0382d237d89b",
+			"type": "message",
+			"user": "U01PVETV83H",
+			"text": "*Perhaps, this is of interest to some of you!*\n\n<http://z-inspection.org/team-members/rzicari/|Prof. Roberto V. Zicari> will teach *Ethical Implication of AI* this coming semester.\n\n*Course Description:* As AI capabilities have grown exponentially, it has become increasingly difficult to determine whether their model outputs or system behaviors protect the rights and interests of an ever wider group of stakeholders…...this course will help students to assess Trustworthy AI systems in practice by using the Z-Inspection® process.\n*Class schedule:*  Tues/Thurs 5-6:15pm (KST)\n*Target Students*: Master and Ph.D. students from interdisciplinary backgrounds (e.g. Computer Science, Data Science, Machine Learning, Law, Medicine, Social Science, Ethics, Public Policy, etc.)\n\nIf you are one of those who are interested in taking the course and want to know how things (grading, discussion, etc.) work in this course, don’t hesitate to send me a message or an email.\n\n<http://z-inspection.org/ethical-implication-of-ai-assessing-trustworthy-ai-in-practice/>",
+			"ts": "1660006015.318769",
+			"edited": {
+				"user": "U01PVETV83H",
+				"ts": "1660007662.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U02P4QDPG2W"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ch=F",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "Perhaps, this is of interest to some of you!",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "link",
+									"url": "http://z-inspection.org/team-members/rzicari/",
+									"text": "Prof. Roberto V. Zicari"
+								},
+								{
+									"type": "text",
+									"text": " will teach "
+								},
+								{
+									"type": "text",
+									"text": "Ethical Implication of AI ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "this coming semester.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "Course Description:",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " As AI capabilities have grown exponentially, it has become increasingly difficult to determine whether their model outputs or system behaviors protect the rights and interests of an ever wider group of stakeholders…...this course will help students to assess Trustworthy AI systems in practice by using the Z-Inspection® process.\n"
+								},
+								{
+									"type": "text",
+									"text": "Class schedule:  ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "Tues/Thurs 5-6:15pm (KST)\n"
+								},
+								{
+									"type": "text",
+									"text": "Target Students",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": Master and Ph.D. students from interdisciplinary backgrounds (e.g. Computer Science, Data Science, Machine Learning, Law, Medicine, Social Science, Ethics, Public Policy, etc.)\n\nIf you are one of those who are interested in taking the course and want to know how things (grading, discussion, etc.) work in this course, don’t hesitate to send me a message or an email.\n\n"
+								},
+								{
+									"type": "link",
+									"url": "http://z-inspection.org/ethical-implication-of-ai-assessing-trustworthy-ai-in-practice/",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1832466060148_1534da1d255f371f185a_72.png",
+				"first_name": "James",
+				"real_name": "James Chang",
+				"display_name": "1기_장재원",
+				"team": "T01QA5S537V",
+				"name": "jaewon415",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

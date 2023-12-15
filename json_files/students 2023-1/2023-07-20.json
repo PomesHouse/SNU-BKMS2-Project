@@ -1,128 +1,130 @@
-[
-  {
-    "client_msg_id": "48f2875b-197c-48b2-b6c2-2693cea3e361",
-    "type": "message",
-    "user": "U02ULBH3TEJ",
-    "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar :pizza:\n\n안녕하세요 GSDS 학생회 입니다.\n7월 21일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 7월 21일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제\n• Alex (from WSL lab): 추후 공개\n• 최진우: 추후 공개\n#################################\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!:party_blob-2:",
-    "ts": "1689837739.273789",
-    "thread_ts": "1689837739.273789",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U02V5LS84JV",
-        "ts": "1689902478.529569"
-      }
-    ],
-    "latest_reply": "1689902478.529569",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pizza",
-        "count": 34,
-        "users": [
-          "U02ULBH3TEJ",
-          "U04QVLEGY3B",
-          "U02V5LTRU2V",
-          "U02V5LS84JV",
-          "U02UQ4CMR7X",
-          "U02UT1XABT4",
-          "U02V5LTPGRX",
-          "U04Q2G4KNTZ",
-          "U02UT1YMCDQ",
-          "U01QGCLCLRY",
-          "U04QE49RPV3",
-          "U040ZVCKKND",
-          "U02C3D2T0BS",
-          "U02UT1XUGFL",
-          "U04QAE84G5U",
-          "U01QA85T90A",
-          "U02UQ4CE0AH",
-          "U04QE4AFJ69",
-          "U04QVM3QD41",
-          "U041B24C16U",
-          "U01QAE5A9K5",
-          "U040C40QE6T",
-          "U04QGUET9U3",
-          "U04QGUFBFR9",
-          "U02HT1G61QF",
-          "U02UCD2C9V5",
-          "U04QVM59W0H",
-          "U0302PJRNTA",
-          "U04QKG52VFE",
-          "U02UT2UKVEX",
-          "U02UVAUFSRJ",
-          "U02V5LTKMPT",
-          "U02B19BV9ST",
-          "U040ZVCNVU1"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "cxAL",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar "
-              },
-              {
-                "type": "emoji",
-                "name": "pizza",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요 GSDS 학생회 입니다.\n7월 21일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 7월 21일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Alex (from WSL lab): \\ucd94\\ud6c4 \\uacf5\\uac1c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucd5c\\uc9c4\\uc6b0: \\ucd94\\ud6c4 \\uacf5\\uac1c\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n#################################\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
-              },
-              {
-                "type": "emoji",
-                "name": "party_blob-2",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
-      "first_name": "3기_권유진",
-      "real_name": "3기_권유진",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "ideastraw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U02V5LS84JV"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "48f2875b-197c-48b2-b6c2-2693cea3e361",
+			"type": "message",
+			"user": "U02ULBH3TEJ",
+			"text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar :pizza:\n\n안녕하세요 GSDS 학생회 입니다.\n7월 21일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 7월 21일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제\n• Alex (from WSL lab): 추후 공개\n• 최진우: 추후 공개\n#################################\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!:party_blob-2:",
+			"ts": "1689837739.273789",
+			"thread_ts": "1689837739.273789",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U02V5LS84JV",
+					"ts": "1689902478.529569"
+				}
+			],
+			"latest_reply": "1689902478.529569",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pizza",
+					"count": 34,
+					"users": [
+						"U02ULBH3TEJ",
+						"U04QVLEGY3B",
+						"U02V5LTRU2V",
+						"U02V5LS84JV",
+						"U02UQ4CMR7X",
+						"U02UT1XABT4",
+						"U02V5LTPGRX",
+						"U04Q2G4KNTZ",
+						"U02UT1YMCDQ",
+						"U01QGCLCLRY",
+						"U04QE49RPV3",
+						"U040ZVCKKND",
+						"U02C3D2T0BS",
+						"U02UT1XUGFL",
+						"U04QAE84G5U",
+						"U01QA85T90A",
+						"U02UQ4CE0AH",
+						"U04QE4AFJ69",
+						"U04QVM3QD41",
+						"U041B24C16U",
+						"U01QAE5A9K5",
+						"U040C40QE6T",
+						"U04QGUET9U3",
+						"U04QGUFBFR9",
+						"U02HT1G61QF",
+						"U02UCD2C9V5",
+						"U04QVM59W0H",
+						"U0302PJRNTA",
+						"U04QKG52VFE",
+						"U02UT2UKVEX",
+						"U02UVAUFSRJ",
+						"U02V5LTKMPT",
+						"U02B19BV9ST",
+						"U040ZVCNVU1"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "cxAL",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar "
+								},
+								{
+									"type": "emoji",
+									"name": "pizza",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요 GSDS 학생회 입니다.\n7월 21일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 7월 21일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Alex (from WSL lab): \\ucd94\\ud6c4 \\uacf5\\uac1c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucd5c\\uc9c4\\uc6b0: \\ucd94\\ud6c4 \\uacf5\\uac1c\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n#################################\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
+								},
+								{
+									"type": "emoji",
+									"name": "party_blob-2",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+				"first_name": "3기_권유진",
+				"real_name": "3기_권유진",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "ideastraw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U02V5LS84JV"
+			]
+		}
+	]
+}

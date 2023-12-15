@@ -1,196 +1,198 @@
-[
-  {
-    "client_msg_id": "afd143db-00bc-4411-814d-a9b58a4d44dd",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "*필독!!!* \n\n*[긴급공지] 책상 추가 배치 일정 안내* \n\n학생회에서 알려드립니다.\n\n*오늘(3/11, 금) 오전 10시를 전후로 3,4층 연구공간에 책상을 추가로 배치할 예정*입니다. \n\n설치 일정이 오전으로 예정되어 있으나 진행 속도에 따라 시간이 다소 길어질 수 있으며\n\n기존 책상 이동 및 책상 추가 배치시에 각 책상에 사용하는 멀티탭 역시 사용이 중단되고\n\n*개인 물품도 책상과 함께 이동될 수 있습니다.*\n\n그렇기에\n\n다시 한 번 당부드립니다!\n\n*개인 모니터나 노트북 등 파손 및 분실의 우려가 있는 개인 물품은 직접 혹은 같은 연구실 소속 학생을 통해서* \n\n*미리 보관 장소로 이동시키시길 바랍니다.* (상황이 여의치 않는 경우 학생회를 비롯한 운영위원들에게 연락을 주시면 조치를 취하도록 하겠습니다.)\n\n\n또한 *오늘 학생 여러분이 학교 방문 후에 연구공간을 사용하기로 계획하셨다면* \n\n자리 추가 배치와 재배열에 따른 소음 발생 및 공간 활용 제약으로 인해\n\n*이용에 일부 차질이 따를 수 있으니* 이 점 깊이 양해 바랍니다.\n\n행정실과 협조하여 가급적 신속하게 작업이 끝날 수 있도록 노력하겠습니다.\n\n*모든 작업이 오늘 중으로 순조롭게 끝날 경우*,\n\n*자리 재배치 및 이동에 대한 추후 일정도 신속하게 알려드리도록 하겠습니다.*\n\n읽어주셔서 감사합니다!",
-    "ts": "1646954500.389509",
-    "edited": {
-      "user": "U01Q1KFN4JK",
-      "ts": "1646954598.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 19,
-        "users": [
-          "U01PVEU1A07",
-          "U01QGKD09K5",
-          "U01QV1WAPL1",
-          "U02UVAUFSRJ",
-          "U01QNSM488Z",
-          "U02UQ4BAMB7",
-          "U01R719DKK2",
-          "U02UT2VBBR9",
-          "U02V5LTRU2V",
-          "U02C3D2T0BS",
-          "U0302PM1LQ0",
-          "U02V5LS84JV",
-          "U01PVET2C31",
-          "U02ULBJGHF0",
-          "U02UT1YNY6N",
-          "U02V5LRSE2V",
-          "U02ULBJR9GE",
-          "U02UT1XUGFL",
-          "U01PVETJY87"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "l4ln6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "필독!!! ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "[긴급공지] 책상 추가 배치 일정 안내 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n학생회에서 알려드립니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "오늘(3/11, 금) 오전 10시를 전후로 3,4층 연구공간에 책상을 추가로 배치할 예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "입니다."
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n설치 일정이 오전으로 예정되어 있으나 진행 속도에 따라 시간이 다소 길어질 수 있으며\n\n기존 책상 이동 및 책상 추가 배치시에 각 책상에 사용하는 멀티탭 역시 사용이 중단되고\n\n"
-              },
-              {
-                "type": "text",
-                "text": "개인 물품도 책상과 함께 이동될 수 있습니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n그렇기에\n\n다시 한 번 당부드립니다!\n\n"
-              },
-              {
-                "type": "text",
-                "text": "개인 모니터나 노트북 등 파손 및 분실의 우려가 있는 개인 물품은 직접 혹은 같은 연구실 소속 학생을 통해서 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "미리 보관 장소로 이동시키시길 바랍니다. ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(상황이 여의치 않는 경우 학생회를 비롯한 운영위원들에게 연락을 주시면 조치를 취하도록 하겠습니다.)\n\n\n또한 "
-              },
-              {
-                "type": "text",
-                "text": "오늘 학생 여러분이 학교 방문 후에 연구공간을 사용하기로 계획하셨다면 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n자리 추가 배치와 재배열에 따른 소음 발생 및 공간 활용 제약으로 인해\n\n"
-              },
-              {
-                "type": "text",
-                "text": "이용에 일부 차질이 따를 수 있으니",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 이 점 깊이 양해 바랍니다.\n\n행정실과 협조하여 가급적 신속하게 작업이 끝날 수 있도록 노력하겠습니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "모든 작업이 오늘 중으로 순조롭게 끝날 경우",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ",\n\n"
-              },
-              {
-                "type": "text",
-                "text": "자리 재배치 및 이동에 대한 추후 일정도 신속하게 알려드리도록 하겠습니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n읽어주셔서 감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "afd143db-00bc-4411-814d-a9b58a4d44dd",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "*필독!!!* \n\n*[긴급공지] 책상 추가 배치 일정 안내* \n\n학생회에서 알려드립니다.\n\n*오늘(3/11, 금) 오전 10시를 전후로 3,4층 연구공간에 책상을 추가로 배치할 예정*입니다. \n\n설치 일정이 오전으로 예정되어 있으나 진행 속도에 따라 시간이 다소 길어질 수 있으며\n\n기존 책상 이동 및 책상 추가 배치시에 각 책상에 사용하는 멀티탭 역시 사용이 중단되고\n\n*개인 물품도 책상과 함께 이동될 수 있습니다.*\n\n그렇기에\n\n다시 한 번 당부드립니다!\n\n*개인 모니터나 노트북 등 파손 및 분실의 우려가 있는 개인 물품은 직접 혹은 같은 연구실 소속 학생을 통해서* \n\n*미리 보관 장소로 이동시키시길 바랍니다.* (상황이 여의치 않는 경우 학생회를 비롯한 운영위원들에게 연락을 주시면 조치를 취하도록 하겠습니다.)\n\n\n또한 *오늘 학생 여러분이 학교 방문 후에 연구공간을 사용하기로 계획하셨다면* \n\n자리 추가 배치와 재배열에 따른 소음 발생 및 공간 활용 제약으로 인해\n\n*이용에 일부 차질이 따를 수 있으니* 이 점 깊이 양해 바랍니다.\n\n행정실과 협조하여 가급적 신속하게 작업이 끝날 수 있도록 노력하겠습니다.\n\n*모든 작업이 오늘 중으로 순조롭게 끝날 경우*,\n\n*자리 재배치 및 이동에 대한 추후 일정도 신속하게 알려드리도록 하겠습니다.*\n\n읽어주셔서 감사합니다!",
+			"ts": "1646954500.389509",
+			"edited": {
+				"user": "U01Q1KFN4JK",
+				"ts": "1646954598.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 19,
+					"users": [
+						"U01PVEU1A07",
+						"U01QGKD09K5",
+						"U01QV1WAPL1",
+						"U02UVAUFSRJ",
+						"U01QNSM488Z",
+						"U02UQ4BAMB7",
+						"U01R719DKK2",
+						"U02UT2VBBR9",
+						"U02V5LTRU2V",
+						"U02C3D2T0BS",
+						"U0302PM1LQ0",
+						"U02V5LS84JV",
+						"U01PVET2C31",
+						"U02ULBJGHF0",
+						"U02UT1YNY6N",
+						"U02V5LRSE2V",
+						"U02ULBJR9GE",
+						"U02UT1XUGFL",
+						"U01PVETJY87"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "l4ln6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "필독!!! ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "[긴급공지] 책상 추가 배치 일정 안내 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n학생회에서 알려드립니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "오늘(3/11, 금) 오전 10시를 전후로 3,4층 연구공간에 책상을 추가로 배치할 예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "입니다."
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n설치 일정이 오전으로 예정되어 있으나 진행 속도에 따라 시간이 다소 길어질 수 있으며\n\n기존 책상 이동 및 책상 추가 배치시에 각 책상에 사용하는 멀티탭 역시 사용이 중단되고\n\n"
+								},
+								{
+									"type": "text",
+									"text": "개인 물품도 책상과 함께 이동될 수 있습니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n그렇기에\n\n다시 한 번 당부드립니다!\n\n"
+								},
+								{
+									"type": "text",
+									"text": "개인 모니터나 노트북 등 파손 및 분실의 우려가 있는 개인 물품은 직접 혹은 같은 연구실 소속 학생을 통해서 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "미리 보관 장소로 이동시키시길 바랍니다. ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(상황이 여의치 않는 경우 학생회를 비롯한 운영위원들에게 연락을 주시면 조치를 취하도록 하겠습니다.)\n\n\n또한 "
+								},
+								{
+									"type": "text",
+									"text": "오늘 학생 여러분이 학교 방문 후에 연구공간을 사용하기로 계획하셨다면 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n자리 추가 배치와 재배열에 따른 소음 발생 및 공간 활용 제약으로 인해\n\n"
+								},
+								{
+									"type": "text",
+									"text": "이용에 일부 차질이 따를 수 있으니",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 이 점 깊이 양해 바랍니다.\n\n행정실과 협조하여 가급적 신속하게 작업이 끝날 수 있도록 노력하겠습니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "모든 작업이 오늘 중으로 순조롭게 끝날 경우",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ",\n\n"
+								},
+								{
+									"type": "text",
+									"text": "자리 재배치 및 이동에 대한 추후 일정도 신속하게 알려드리도록 하겠습니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n읽어주셔서 감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

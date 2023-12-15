@@ -1,207 +1,209 @@
-[
-  {
-    "client_msg_id": "de924036-9281-4383-a3d9-b8e56479f6fe",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e *\u0026lt;긴급공지\u0026gt;* \n\n논문연구과목 관련하여 요청 메일을 드렸습니다. *2020학년도 2학기와 2021학년도 1학기 논문연구과목을 수강하신 분들께 드린 메일*이니 확인하시어 13일 월요일 오전까지 제출해 주시기 바랍니다.  *각 랩실의 랩장 분들께서는 메일을 확인하지 못해 누락되는 구성원이 없도록 확인해 주시면 감사하겠습니다.*",
-    "ts": "1631328339.072200",
-    "thread_ts": "1631328339.072200",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1631328411.000000"
-    },
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1631328507.072400"
-      },
-      {
-        "user": "U01Q3EPDBAA",
-        "ts": "1631335901.072600"
-      }
-    ],
-    "latest_reply": "1631335901.072600",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ljuZV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "\u003c긴급공지\u003e ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n논문연구과목 관련하여 요청 메일을 드렸습니다. "
-              },
-              {
-                "type": "text",
-                "text": "2020학년도 2학기와 2021학년도 1학기 논문연구과목을 수강하신 분들께 드린 메일",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "이니 확인하시어 13일 월요일 오전까지 제출해 주시기 바랍니다. "
-              },
-              {
-                "type": "text",
-                "text": " 각 랩실의 랩장 분들께서는 메일을 확인하지 못해 누락되는 구성원이 없도록 확인해 주시면 감사하겠습니다.",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01Q3EPDBAA",
-      "U01QNJ7PWRX"
-    ]
-  },
-  {
-    "client_msg_id": "449ef029-49f9-4e12-9d62-d1d0c27bfaae",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "******** 2020학년도 2학기와 2021학년도 1학기만 해당됩니다. 이점 확인해주시기 바랍니다. ********",
-    "ts": "1631328507.072400",
-    "thread_ts": "1631328339.072200",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Of/J",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "******** 2020학년도 2학기와 2021학년도 1학기만 해당됩니다. 이점 확인해주시기 바랍니다. ********"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "bc84b704-4a40-417b-a62e-3a6f027dfd3e",
-    "type": "message",
-    "user": "U01Q3EPDBAA",
-    "text": "안녕하세요, 해당 서류에 하단에 기재되는 날짜는 각각 어느 날짜로 해야할지 문의드립니다.",
-    "ts": "1631335901.072600",
-    "thread_ts": "1631328339.072200",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U01QNSMG8JV",
-          "U01PVEU69BR"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/uU",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 해당 서류에 하단에 기재되는 날짜는 각각 어느 날짜로 해야할지 문의드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
-      "first_name": "Junbum",
-      "real_name": "Junbum Lee",
-      "display_name": "1기_이준범",
-      "team": "T01QA5S537V",
-      "name": "beomi",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "de924036-9281-4383-a3d9-b8e56479f6fe",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> *&lt;긴급공지&gt;* \n\n논문연구과목 관련하여 요청 메일을 드렸습니다. *2020학년도 2학기와 2021학년도 1학기 논문연구과목을 수강하신 분들께 드린 메일*이니 확인하시어 13일 월요일 오전까지 제출해 주시기 바랍니다.  *각 랩실의 랩장 분들께서는 메일을 확인하지 못해 누락되는 구성원이 없도록 확인해 주시면 감사하겠습니다.*",
+			"ts": "1631328339.072200",
+			"thread_ts": "1631328339.072200",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1631328411.000000"
+			},
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1631328507.072400"
+				},
+				{
+					"user": "U01Q3EPDBAA",
+					"ts": "1631335901.072600"
+				}
+			],
+			"latest_reply": "1631335901.072600",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ljuZV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "<긴급공지> ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n논문연구과목 관련하여 요청 메일을 드렸습니다. "
+								},
+								{
+									"type": "text",
+									"text": "2020학년도 2학기와 2021학년도 1학기 논문연구과목을 수강하신 분들께 드린 메일",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "이니 확인하시어 13일 월요일 오전까지 제출해 주시기 바랍니다. "
+								},
+								{
+									"type": "text",
+									"text": " 각 랩실의 랩장 분들께서는 메일을 확인하지 못해 누락되는 구성원이 없도록 확인해 주시면 감사하겠습니다.",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01Q3EPDBAA",
+				"U01QNJ7PWRX"
+			]
+		},
+		{
+			"client_msg_id": "449ef029-49f9-4e12-9d62-d1d0c27bfaae",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "******** 2020학년도 2학기와 2021학년도 1학기만 해당됩니다. 이점 확인해주시기 바랍니다. ********",
+			"ts": "1631328507.072400",
+			"thread_ts": "1631328339.072200",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Of/J",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "******** 2020학년도 2학기와 2021학년도 1학기만 해당됩니다. 이점 확인해주시기 바랍니다. ********"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "bc84b704-4a40-417b-a62e-3a6f027dfd3e",
+			"type": "message",
+			"user": "U01Q3EPDBAA",
+			"text": "안녕하세요, 해당 서류에 하단에 기재되는 날짜는 각각 어느 날짜로 해야할지 문의드립니다.",
+			"ts": "1631335901.072600",
+			"thread_ts": "1631328339.072200",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U01QNSMG8JV",
+						"U01PVEU69BR"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/uU",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 해당 서류에 하단에 기재되는 날짜는 각각 어느 날짜로 해야할지 문의드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
+				"first_name": "Junbum",
+				"real_name": "Junbum Lee",
+				"display_name": "1기_이준범",
+				"team": "T01QA5S537V",
+				"name": "beomi",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

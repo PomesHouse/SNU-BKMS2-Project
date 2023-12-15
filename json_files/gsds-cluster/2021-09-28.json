@@ -1,283 +1,285 @@
-[
-  {
-    "client_msg_id": "6547cb9b-5297-4fa8-b2c2-2141d490e89c",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "설명회 지금 진행합니다.",
-    "ts": "1632815938.049200",
-    "edited": {
-      "user": "U01QAE573J7",
-      "ts": "1632815955.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 7,
-        "users": [
-          "U01Q3A8TXU6",
-          "U01Q75KNV1T",
-          "U01PVEU1A07",
-          "U01QNSMEY0Z",
-          "U01Q3EP0E14",
-          "U01QNSM488Z",
-          "U01PVET2C31"
-        ]
-      },
-      {
-        "name": "heart",
-        "count": 2,
-        "users": [
-          "U01QAE5DERZ",
-          "U01PVET2C31"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "x9OlO",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "설명회 지금 진행합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "7fc16c6b-b809-4bf2-a687-7647d0adbd66",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "녹화본 공유합니다",
-    "ts": "1632819452.050300",
-    "files": [
-      {
-        "id": "F02FFDFUL8P",
-        "created": 1632819382,
-        "timestamp": 1632819382,
-        "name": "GSDS 클러스터 사용 설명.mp4",
-        "title": "GSDS 클러스터 사용 설명.mp4",
-        "mimetype": "video/mp4",
-        "image_exif_rotation": 0,
-        "filetype": "mp4",
-        "pretty_type": "MPEG 4 비디오",
-        "user": "U01QAE5A9K5",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 79028856,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02FFDFUL8P-GSDS 클러스터 사용 설명.mp4",
-        "url_private_download": "attachments/F02FFDFUL8P-GSDS 클러스터 사용 설명.mp4",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QAE5A9K5/F02FFDFUL8P/gsds_______________________________________________________________.mp4",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02FFDFUL8P-372ef75861",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 12,
-        "users": [
-          "U01Q3EPDBAA",
-          "U01QNSMDGF3",
-          "U01PVEU1A07",
-          "U01PVETJY87",
-          "U01QNSM488Z",
-          "U01PVETMX2T",
-          "U01QNSM5STT",
-          "U01PVET2C31",
-          "U01Q75KNV1T",
-          "U01R678KWP2",
-          "U01R688QZ16",
-          "U01R719DKK2"
-        ]
-      },
-      {
-        "name": "heart",
-        "count": 3,
-        "users": [
-          "U01QAE5DERZ",
-          "U01PVET2C31",
-          "U01PVEU98KH"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ExO",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "녹화본 공유합니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "c44dd6a7-e30a-43ae-a9c7-a3bdb09449e1",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "몇 가지 주의사항 추가합니다\n• 로그인 노드에서의 무거운 작업은 별도 공지없이 중단 될 수 있습니다 \n• 디버깅용 노드 (a00, b00)  cpu time limit 15분 설정했습니다.  긴 작업은 slurm으로 노드 배정 받고 실행하시길 바랍니다",
-    "ts": "1632819697.053600",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 4,
-        "users": [
-          "U01Q386CMKQ",
-          "U01PVET2C31",
-          "U01R678KWP2",
-          "U01QNSMC29X"
-        ]
-      },
-      {
-        "name": "짱구0",
-        "count": 2,
-        "users": [
-          "U01PVET2C31",
-          "U01Q75KNV1T"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "exD=W",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "몇 가지 주의사항 추가합니다\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub85c\\uadf8\\uc778 \\ub178\\ub4dc\\uc5d0\\uc11c\\uc758 \\ubb34\\uac70\\uc6b4 \\uc791\\uc5c5\\uc740 \\ubcc4\\ub3c4 \\uacf5\\uc9c0\\uc5c6\\uc774 \\uc911\\ub2e8 \\ub420 \\uc218 \\uc788\\uc2b5\\ub2c8\\ub2e4 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub514\\ubc84\\uae45\\uc6a9 \\ub178\\ub4dc (a00, b00)  cpu time limit 15\\ubd84 \\uc124\\uc815\\ud588\\uc2b5\\ub2c8\\ub2e4.  \\uae34 \\uc791\\uc5c5\\uc740 slurm\\uc73c\\ub85c \\ub178\\ub4dc \\ubc30\\uc815 \\ubc1b\\uace0 \\uc2e4\\ud589\\ud558\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "6547cb9b-5297-4fa8-b2c2-2141d490e89c",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "설명회 지금 진행합니다.",
+			"ts": "1632815938.049200",
+			"edited": {
+				"user": "U01QAE573J7",
+				"ts": "1632815955.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 7,
+					"users": [
+						"U01Q3A8TXU6",
+						"U01Q75KNV1T",
+						"U01PVEU1A07",
+						"U01QNSMEY0Z",
+						"U01Q3EP0E14",
+						"U01QNSM488Z",
+						"U01PVET2C31"
+					]
+				},
+				{
+					"name": "heart",
+					"count": 2,
+					"users": [
+						"U01QAE5DERZ",
+						"U01PVET2C31"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "x9OlO",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "설명회 지금 진행합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "7fc16c6b-b809-4bf2-a687-7647d0adbd66",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "녹화본 공유합니다",
+			"ts": "1632819452.050300",
+			"files": [
+				{
+					"id": "F02FFDFUL8P",
+					"created": 1632819382,
+					"timestamp": 1632819382,
+					"name": "GSDS 클러스터 사용 설명.mp4",
+					"title": "GSDS 클러스터 사용 설명.mp4",
+					"mimetype": "video/mp4",
+					"image_exif_rotation": 0,
+					"filetype": "mp4",
+					"pretty_type": "MPEG 4 비디오",
+					"user": "U01QAE5A9K5",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 79028856,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02FFDFUL8P-GSDS 클러스터 사용 설명.mp4",
+					"url_private_download": "attachments/F02FFDFUL8P-GSDS 클러스터 사용 설명.mp4",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QAE5A9K5/F02FFDFUL8P/gsds_______________________________________________________________.mp4",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02FFDFUL8P-372ef75861",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 12,
+					"users": [
+						"U01Q3EPDBAA",
+						"U01QNSMDGF3",
+						"U01PVEU1A07",
+						"U01PVETJY87",
+						"U01QNSM488Z",
+						"U01PVETMX2T",
+						"U01QNSM5STT",
+						"U01PVET2C31",
+						"U01Q75KNV1T",
+						"U01R678KWP2",
+						"U01R688QZ16",
+						"U01R719DKK2"
+					]
+				},
+				{
+					"name": "heart",
+					"count": 3,
+					"users": [
+						"U01QAE5DERZ",
+						"U01PVET2C31",
+						"U01PVEU98KH"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ExO",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "녹화본 공유합니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "c44dd6a7-e30a-43ae-a9c7-a3bdb09449e1",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "몇 가지 주의사항 추가합니다\n• 로그인 노드에서의 무거운 작업은 별도 공지없이 중단 될 수 있습니다 \n• 디버깅용 노드 (a00, b00)  cpu time limit 15분 설정했습니다.  긴 작업은 slurm으로 노드 배정 받고 실행하시길 바랍니다",
+			"ts": "1632819697.053600",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 4,
+					"users": [
+						"U01Q386CMKQ",
+						"U01PVET2C31",
+						"U01R678KWP2",
+						"U01QNSMC29X"
+					]
+				},
+				{
+					"name": "짱구0",
+					"count": 2,
+					"users": [
+						"U01PVET2C31",
+						"U01Q75KNV1T"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "exD=W",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "몇 가지 주의사항 추가합니다\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub85c\\uadf8\\uc778 \\ub178\\ub4dc\\uc5d0\\uc11c\\uc758 \\ubb34\\uac70\\uc6b4 \\uc791\\uc5c5\\uc740 \\ubcc4\\ub3c4 \\uacf5\\uc9c0\\uc5c6\\uc774 \\uc911\\ub2e8 \\ub420 \\uc218 \\uc788\\uc2b5\\ub2c8\\ub2e4 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub514\\ubc84\\uae45\\uc6a9 \\ub178\\ub4dc (a00, b00)  cpu time limit 15\\ubd84 \\uc124\\uc815\\ud588\\uc2b5\\ub2c8\\ub2e4.  \\uae34 \\uc791\\uc5c5\\uc740 slurm\\uc73c\\ub85c \\ub178\\ub4dc \\ubc30\\uc815 \\ubc1b\\uace0 \\uc2e4\\ud589\\ud558\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

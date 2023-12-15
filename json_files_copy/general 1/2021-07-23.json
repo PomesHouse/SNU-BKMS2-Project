@@ -1,0 +1,239 @@
+[
+  {
+    "client_msg_id": "905a347e-5b38-4420-a22c-203ccb8471b5",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;수도권 사회적 거리두기 4단계 2주 연장 안내 2021.7.26 ~ 8.8.\u0026gt;\n\n중앙재난안전대책본부는 수도권 전체에 대해 사회적 거리두기 4단계를 연장하여 7월 26일(월) 0시부터 8월 8일(일) 24시까지 2주간 시행하기로 결정하였습니다.\n이에 아래와 같이 안내드리니 잘 숙지하시기 바랍니다.\n\n*□ 수도권 새로운 거리두기 4단계 2주 연장(7. 26. ~ 8. 8.)*\n❍ 주요 사항(거리두기 개편 4단계 방역조치 내용)\n  - 대유행으로 확산되어, 퇴근 후 바로 귀가하고 외출 금지 필요\n  - 사적모임은 18시 이전에는 4인까지, 18시 이후에는 2인까지 가능\n  - 행사 금지 및 1인 시위 외 집회 금지\n   * 결혼식‧장례식은 친족과 관계없이 최대 49인까지 참석 가능\n\n아울러 연구공간에서도 마스크 착용을 꼭 해주시기 바라며, 환기 및 개인 위생에 협조해 주시기 바랍니다. :slightly_smiling_face:",
+    "ts": "1627016077.147400",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 2,
+        "users": [
+          "U01Q386CMKQ",
+          "U01Q3A8TXU6"
+        ]
+      },
+      {
+        "name": "smiling_face_with_tear",
+        "count": 2,
+        "users": [
+          "U01Q3EP0E14",
+          "U01QNSM488Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cy4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c수도권 사회적 거리두기 4단계 2주 연장 안내 2021.7.26 ~ 8.8.\u003e\n\n중앙재난안전대책본부는 수도권 전체에 대해 사회적 거리두기 4단계를 연장하여 7월 26일(월) 0시부터 8월 8일(일) 24시까지 2주간 시행하기로 결정하였습니다.\n이에 아래와 같이 안내드리니 잘 숙지하시기 바랍니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "□ 수도권 새로운 거리두기 4단계 2주 연장(7. 26. ~ 8. 8.)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n❍ 주요 사항(거리두기 개편 4단계 방역조치 내용)\n  - 대유행으로 확산되어, 퇴근 후 바로 귀가하고 외출 금지 필요\n  - 사적모임은 18시 이전에는 4인까지, 18시 이후에는 2인까지 가능\n  - 행사 금지 및 1인 시위 외 집회 금지\n   * 결혼식‧장례식은 친족과 관계없이 최대 49인까지 참석 가능\n\n아울러 연구공간에서도 마스크 착용을 꼭 해주시기 바라며, 환기 및 개인 위생에 협조해 주시기 바랍니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a8c6992b-28f9-4641-8552-7a6751b8af55",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;이공계 대학원 신입생 안전환경 신규교육 이수 안내 강화 안내\u0026gt;*\n\n1. 관련\n 가. 연구실 안전환경 조성에 관한 법률 제20조(교육‧훈련)\n 나. 서울대학교 연구실 안전환경 관리 규정 제8조(안전환경교육)\n \n2. 위 법규정에 따라 본교 이공계 대학원 신입생은 입학과 동시에 환경안전원에서 주관하는 안전환경 신규교육을 의무적으로 이수하여야 하며, 교육 미이수한 자에 대하여 기관별로 별도의 제재 조치를 취하고 있습니다.\n   *가. 제재 조치: 연구실 출입 제한, 논문제출자격시험 응시 불가 등*\n \n3. 특히 일부 대학원생 중 입학 당시 교육을 받지 않고 있다가 졸업 시기에 교육을 이수할려는 자로 인하여 연구실안전 확보 미흡 및 사고 예방에 문제를 야기 함은 물론 *교육 이수를 하지 못하여 논문제출자격시험에 응시하지 못하는 사례가 발생하고 있습니다.  이에 아래와 같이 안내 하오니 안전환경 신규교육 대상자 분들께서는 반드시 내용 숙지 하시기 바랍니다.*\n\n *가. 교육 시기:* 매년 2월, 8월\n *나. 교육 신청:* 연구안전통합정보시스템-안전교육(\u003chttp://rsis.snu.ac.kr|rsis.snu.ac.kr\u003e)\n *다. 이수 처리:* 교육 이수 후 온라인이수증 발급\n *라. 특이 사항*\n  1) 신규교육은 2일간 집합교육으로 시행해 왔으나, *현재 코로라바이러스감염증-19 사회적  거리두기 단계 격상 및 국가기관 교육지침을 고려하여 한시적으로 비대면 방식의 온라인  강좌로 대체 실시하고 있음*\n  2) 본교 대학원 과정 수료자 중 *대학원연구생으로 등록되어 있는 경우에 연구안전통합정보  시스템 상 신규교육 신청 및 교육 이수가* 가능하게 됨(「서울대학교 외부연구자 및 실습 참여자 안전관리 지침」시행일(2021.3.15.) 부터 적용)\n  3)「서울대학교 외부연구자 및 실습참여자 안전관리 지침」제7조(교육‧훈련 의무)에 따른 *본교에 등록 되지 않은 연구생 대상의 신규교육(2시간)은 본 신규교육으로 인정되지 않음*",
+    "ts": "1627019107.149100",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QVcB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c이공계 대학원 신입생 안전환경 신규교육 이수 안내 강화 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n1. 관련\n 가. 연구실 안전환경 조성에 관한 법률 제20조(교육‧훈련)\n 나. 서울대학교 연구실 안전환경 관리 규정 제8조(안전환경교육)\n \n2. 위 법규정에 따라 본교 이공계 대학원 신입생은 입학과 동시에 환경안전원에서 주관하는 안전환경 신규교육을 의무적으로 이수하여야 하며, 교육 미이수한 자에 대하여 기관별로 별도의 제재 조치를 취하고 있습니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "   가. 제재 조치: 연구실 출입 제한, 논문제출자격시험 응시 불가 등",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n \n3. 특히 일부 대학원생 중 입학 당시 교육을 받지 않고 있다가 졸업 시기에 교육을 이수할려는 자로 인하여 연구실안전 확보 미흡 및 사고 예방에 문제를 야기 함은 물론 "
+              },
+              {
+                "type": "text",
+                "text": "교육 이수를 하지 못하여 논문제출자격시험에 응시하지 못하는 사례가 발생하고 있습니다.  이에 아래와 같이 안내 하오니 안전환경 신규교육 대상자 분들께서는 반드시 내용 숙지 하시기 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": " 가. 교육 시기:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 매년 2월, 8월\n"
+              },
+              {
+                "type": "text",
+                "text": " 나. 교육 신청:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 연구안전통합정보시스템-안전교육("
+              },
+              {
+                "type": "link",
+                "url": "http://rsis.snu.ac.kr",
+                "text": "rsis.snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")\n"
+              },
+              {
+                "type": "text",
+                "text": " 다. 이수 처리: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "교육 이수 후 온라인이수증 발급\n"
+              },
+              {
+                "type": "text",
+                "text": " 라. 특이 사항",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  1) 신규교육은 2일간 집합교육으로 시행해 왔으나,"
+              },
+              {
+                "type": "text",
+                "text": " 현재 코로라바이러스감염증-19 사회적  거리두기 단계 격상 및 국가기관 교육지침을 고려하여 한시적으로 비대면 방식의 온라인  강좌로 대체 실시하고 있음",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  2) 본교 대학원 과정 수료자 중 "
+              },
+              {
+                "type": "text",
+                "text": "대학원연구생으로 등록되어 있는 경우에 연구안전통합정보  시스템 상 신규교육 신청 및 교육 이수가",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 가능하게 됨(「서울대학교 외부연구자 및 실습 참여자 안전관리 지침」시행일(2021.3.15.) 부터 적용)\n  3)「서울대학교 외부연구자 및 실습참여자 안전관리 지침」제7조(교육‧훈련 의무)에 따른 "
+              },
+              {
+                "type": "text",
+                "text": "본교에 등록 되지 않은 연구생 대상의 신규교육(2시간)은 본 신규교육으로 인정되지 않음",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

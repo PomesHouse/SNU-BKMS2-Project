@@ -1,66 +1,68 @@
-[
-  {
-    "client_msg_id": "55c62fef-a556-4b3f-a2ae-44546cc51267",
-    "type": "message",
-    "user": "U01QGG6A5LJ",
-    "text": "안녕하세요, 2기 정석호입니다.\n자리 배치 이후에 제 충전기를 잃어버린거 \n같습니다 ㅠㅠ \n혹시 삼성 ctype to ctype 충전기를 보신 분\n있다면 dm 부탁드립니다!",
-    "ts": "1647339292.327349",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "cry",
-        "count": 10,
-        "users": [
-          "U01PVEU1A07",
-          "U01Q1KFN4JK",
-          "U01R719DKK2",
-          "U01Q1KQ03PZ",
-          "U01QV1SQJ57",
-          "U01QNMUAUKW",
-          "U01R678KWP2",
-          "U01QDA36FJR",
-          "U01QV1PBKUZ",
-          "U01QV28FG4R"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "hSUB",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 2기 정석호입니다.\n자리 배치 이후에 제 충전기를 잃어버린거 \n같습니다 ㅠㅠ \n혹시 삼성 ctype to ctype 충전기를 보신 분\n있다면 dm 부탁드립니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1845178163313_ec8016a9186a6e00037d_72.png",
-      "first_name": "2기_정석호",
-      "real_name": "2기_정석호",
-      "display_name": "2기_정석호",
-      "team": "T01QA5S537V",
-      "name": "seokho92",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "55c62fef-a556-4b3f-a2ae-44546cc51267",
+			"type": "message",
+			"user": "U01QGG6A5LJ",
+			"text": "안녕하세요, 2기 정석호입니다.\n자리 배치 이후에 제 충전기를 잃어버린거 \n같습니다 ㅠㅠ \n혹시 삼성 ctype to ctype 충전기를 보신 분\n있다면 dm 부탁드립니다!",
+			"ts": "1647339292.327349",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "cry",
+					"count": 10,
+					"users": [
+						"U01PVEU1A07",
+						"U01Q1KFN4JK",
+						"U01R719DKK2",
+						"U01Q1KQ03PZ",
+						"U01QV1SQJ57",
+						"U01QNMUAUKW",
+						"U01R678KWP2",
+						"U01QDA36FJR",
+						"U01QV1PBKUZ",
+						"U01QV28FG4R"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "hSUB",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 2기 정석호입니다.\n자리 배치 이후에 제 충전기를 잃어버린거 \n같습니다 ㅠㅠ \n혹시 삼성 ctype to ctype 충전기를 보신 분\n있다면 dm 부탁드립니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1845178163313_ec8016a9186a6e00037d_72.png",
+				"first_name": "2기_정석호",
+				"real_name": "2기_정석호",
+				"display_name": "2기_정석호",
+				"team": "T01QA5S537V",
+				"name": "seokho92",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

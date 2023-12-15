@@ -1,325 +1,327 @@
-[
-  {
-    "client_msg_id": "cd3c430f-c186-4ced-8662-ab8a7ff27c6c",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;[LG AI연구원] LG Aimer 해커톤 참여 안내\u0026gt;*\n\n12월 1일부터 LG AI연구원에서 주관하는 *“LG Aimers” 4기 모집이* 시작됩니다.\nLG Aimers는 LG그룹의 교육프로그램으로,\n청년들에게 AI교육과 LG의 실제 데이터를 기반으로 AI 해커톤에 참여할 수 있는 기회를 제공합니다.\n교육 *대상은 만 19세에서 29세의 미취업자인 청년으로 학력과 전공 관련없이 참여 가능합니다!)*\n\n교육 과정을 이수한 분들께는 LG AI연구원의 공식 수료증이 발급되며,\nAI 해커톤에서 우승한 팀에게는 상금과 LG그룹의 채용 혜택이 주어집니다.\n\nAimers와 관련해 궁금하신 점이 있으시다면 아래 공식 이메일로 연락주세요!\nEmail : \u003cmailto:lgaimer@lgresearch.ai|lgaimer@lgresearch.ai\u003e",
-    "ts": "1700803089.886689",
-    "files": [
-      {
-        "id": "F067TTKHQHE",
-        "created": 1700803085,
-        "timestamp": 1700803085,
-        "name": "LG_aimers_4기 포스터.png",
-        "title": "LG_aimers_4기 포스터.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 83577,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F067TTKHQHE-LG_aimers_4기 포스터.png",
-        "url_private_download": "attachments/F067TTKHQHE-LG_aimers_4기 포스터.png",
-        "original_h": 1191,
-        "original_w": 842,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________480.png",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________720.png",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________960.png",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________1024.png",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F067TTKHQHE/lg_aimers_4_____________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F067TTKHQHE-563e507efd",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "WzePT",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c[LG AI연구원] LG Aimer 해커톤 참여 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n12월 1일부터 LG AI연구원에서 주관하는 "
-              },
-              {
-                "type": "text",
-                "text": "“LG Aimers” 4기 모집이",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 시작됩니다.\nLG Aimers는 LG그룹의 교육프로그램으로,\n청년들에게 AI교육과 LG의 실제 데이터를 기반으로 AI 해커톤에 참여할 수 있는 기회를 제공합니다.\n교육 "
-              },
-              {
-                "type": "text",
-                "text": "대상은 만 19세에서 29세의 미취업자인 청년으로 학력과 전공 관련없이 참여 가능합니다!)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n교육 과정을 이수한 분들께는 LG AI연구원의 공식 수료증이 발급되며,\nAI 해커톤에서 우승한 팀에게는 상금과 LG그룹의 채용 혜택이 주어집니다.\n\nAimers와 관련해 궁금하신 점이 있으시다면 아래 공식 이메일로 연락주세요!\nEmail : "
-              },
-              {
-                "type": "link",
-                "url": "mailto:lgaimer@lgresearch.ai",
-                "text": "lgaimer@lgresearch.ai"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d22d9dce-b4e4-4813-9abd-19e37e3a8be8",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2024학년도 LnL 대학원생 조교 선발 안내\u0026gt;\n\n2024학년도 LnL 시범사업 운영단에서  대학원생 조교 선발 공고문을 알려와 안내하오니, 관심 있는 학생께서는 참고하시기 바랍니다.\n\n  가. 선발 인원: 총 11명(906동 7명, 919동 4명)\n  나. 접수 기간: 2023. 11. 23.(목) ~ 11. 30.(목) 13:00까지\n  다. 주요 업무: 학부생 생활지도, 교육지도 및 기타 지원업무\n  라. 활동 기간: 2024. 1. 1.(월) ~ 2024. 12. 31.(화)까지(12개월)\n  마. 혜택 사항: 1인실 제공(관리비 면제) 및 월 소정의 활동비 지급\n  바. 신청 방법: [붙임]의 서류를 작성하여 이메일(\u003cmailto:lnl@snu.ac.kr|lnl@snu.ac.kr\u003e)로 제출",
-    "ts": "1700805788.096029",
-    "files": [
-      {
-        "id": "F067243D4HK",
-        "created": 1700805781,
-        "timestamp": 1700805781,
-        "name": "2024학년도 LnL 대학원생 모집 공고문.pdf",
-        "title": "2024학년도 LnL 대학원생 모집 공고문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 143400,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F067243D4HK-2024학년도 LnL 대학원생 모집 공고문.pdf",
-        "url_private_download": "attachments/F067243D4HK-2024학년도 LnL 대학원생 모집 공고문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F067243D4HK/2024__________lnl______________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F067243D4HK-74c659465e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F067U1MMJD6",
-        "created": 1700805783,
-        "timestamp": 1700805783,
-        "name": "2024학년도 LnL 대학원생 모집 지원서류.hwp",
-        "title": "2024학년도 LnL 대학원생 모집 지원서류.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 133632,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F067U1MMJD6-2024학년도 LnL 대학원생 모집 지원서류.hwp",
-        "url_private_download": "attachments/F067U1MMJD6-2024학년도 LnL 대학원생 모집 지원서류.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F067U1MMJD6/2024__________lnl_________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F067U1MMJD6-0e6023e949",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "gvNqA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2024학년도 LnL 대학원생 조교 선발 안내\u003e\n\n2024학년도 LnL 시범사업 운영단에서  대학원생 조교 선발 공고문을 알려와 안내하오니, 관심 있는 학생께서는 참고하시기 바랍니다.\n\n  가. 선발 인원: 총 11명(906동 7명, 919동 4명)\n  나. 접수 기간: 2023. 11. 23.(목) ~ 11. 30.(목) 13:00까지\n  다. 주요 업무: 학부생 생활지도, 교육지도 및 기타 지원업무\n  라. 활동 기간: 2024. 1. 1.(월) ~ 2024. 12. 31.(화)까지(12개월)\n  마. 혜택 사항: 1인실 제공(관리비 면제) 및 월 소정의 활동비 지급\n  바. 신청 방법: [붙임]의 서류를 작성하여 이메일("
-              },
-              {
-                "type": "link",
-                "url": "mailto:lnl@snu.ac.kr",
-                "text": "lnl@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")로 제출"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "cd3c430f-c186-4ced-8662-ab8a7ff27c6c",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;[LG AI연구원] LG Aimer 해커톤 참여 안내&gt;*\n\n12월 1일부터 LG AI연구원에서 주관하는 *“LG Aimers” 4기 모집이* 시작됩니다.\nLG Aimers는 LG그룹의 교육프로그램으로,\n청년들에게 AI교육과 LG의 실제 데이터를 기반으로 AI 해커톤에 참여할 수 있는 기회를 제공합니다.\n교육 *대상은 만 19세에서 29세의 미취업자인 청년으로 학력과 전공 관련없이 참여 가능합니다!)*\n\n교육 과정을 이수한 분들께는 LG AI연구원의 공식 수료증이 발급되며,\nAI 해커톤에서 우승한 팀에게는 상금과 LG그룹의 채용 혜택이 주어집니다.\n\nAimers와 관련해 궁금하신 점이 있으시다면 아래 공식 이메일로 연락주세요!\nEmail : <mailto:lgaimer@lgresearch.ai|lgaimer@lgresearch.ai>",
+			"ts": "1700803089.886689",
+			"files": [
+				{
+					"id": "F067TTKHQHE",
+					"created": 1700803085,
+					"timestamp": 1700803085,
+					"name": "LG_aimers_4기 포스터.png",
+					"title": "LG_aimers_4기 포스터.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 83577,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F067TTKHQHE-LG_aimers_4기 포스터.png",
+					"url_private_download": "attachments/F067TTKHQHE-LG_aimers_4기 포스터.png",
+					"original_h": 1191,
+					"original_w": 842,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________480.png",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________720.png",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________960.png",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F067TTKHQHE-cfcd868966/lg_aimers_4______________1024.png",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F067TTKHQHE/lg_aimers_4_____________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F067TTKHQHE-563e507efd",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "WzePT",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<[LG AI연구원] LG Aimer 해커톤 참여 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n12월 1일부터 LG AI연구원에서 주관하는 "
+								},
+								{
+									"type": "text",
+									"text": "“LG Aimers” 4기 모집이",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 시작됩니다.\nLG Aimers는 LG그룹의 교육프로그램으로,\n청년들에게 AI교육과 LG의 실제 데이터를 기반으로 AI 해커톤에 참여할 수 있는 기회를 제공합니다.\n교육 "
+								},
+								{
+									"type": "text",
+									"text": "대상은 만 19세에서 29세의 미취업자인 청년으로 학력과 전공 관련없이 참여 가능합니다!)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n교육 과정을 이수한 분들께는 LG AI연구원의 공식 수료증이 발급되며,\nAI 해커톤에서 우승한 팀에게는 상금과 LG그룹의 채용 혜택이 주어집니다.\n\nAimers와 관련해 궁금하신 점이 있으시다면 아래 공식 이메일로 연락주세요!\nEmail : "
+								},
+								{
+									"type": "link",
+									"url": "mailto:lgaimer@lgresearch.ai",
+									"text": "lgaimer@lgresearch.ai"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d22d9dce-b4e4-4813-9abd-19e37e3a8be8",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2024학년도 LnL 대학원생 조교 선발 안내&gt;\n\n2024학년도 LnL 시범사업 운영단에서  대학원생 조교 선발 공고문을 알려와 안내하오니, 관심 있는 학생께서는 참고하시기 바랍니다.\n\n  가. 선발 인원: 총 11명(906동 7명, 919동 4명)\n  나. 접수 기간: 2023. 11. 23.(목) ~ 11. 30.(목) 13:00까지\n  다. 주요 업무: 학부생 생활지도, 교육지도 및 기타 지원업무\n  라. 활동 기간: 2024. 1. 1.(월) ~ 2024. 12. 31.(화)까지(12개월)\n  마. 혜택 사항: 1인실 제공(관리비 면제) 및 월 소정의 활동비 지급\n  바. 신청 방법: [붙임]의 서류를 작성하여 이메일(<mailto:lnl@snu.ac.kr|lnl@snu.ac.kr>)로 제출",
+			"ts": "1700805788.096029",
+			"files": [
+				{
+					"id": "F067243D4HK",
+					"created": 1700805781,
+					"timestamp": 1700805781,
+					"name": "2024학년도 LnL 대학원생 모집 공고문.pdf",
+					"title": "2024학년도 LnL 대학원생 모집 공고문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 143400,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F067243D4HK-2024학년도 LnL 대학원생 모집 공고문.pdf",
+					"url_private_download": "attachments/F067243D4HK-2024학년도 LnL 대학원생 모집 공고문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F067243D4HK/2024__________lnl______________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F067243D4HK-74c659465e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F067U1MMJD6",
+					"created": 1700805783,
+					"timestamp": 1700805783,
+					"name": "2024학년도 LnL 대학원생 모집 지원서류.hwp",
+					"title": "2024학년도 LnL 대학원생 모집 지원서류.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 133632,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F067U1MMJD6-2024학년도 LnL 대학원생 모집 지원서류.hwp",
+					"url_private_download": "attachments/F067U1MMJD6-2024학년도 LnL 대학원생 모집 지원서류.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F067U1MMJD6/2024__________lnl_________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F067U1MMJD6-0e6023e949",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "gvNqA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2024학년도 LnL 대학원생 조교 선발 안내>\n\n2024학년도 LnL 시범사업 운영단에서  대학원생 조교 선발 공고문을 알려와 안내하오니, 관심 있는 학생께서는 참고하시기 바랍니다.\n\n  가. 선발 인원: 총 11명(906동 7명, 919동 4명)\n  나. 접수 기간: 2023. 11. 23.(목) ~ 11. 30.(목) 13:00까지\n  다. 주요 업무: 학부생 생활지도, 교육지도 및 기타 지원업무\n  라. 활동 기간: 2024. 1. 1.(월) ~ 2024. 12. 31.(화)까지(12개월)\n  마. 혜택 사항: 1인실 제공(관리비 면제) 및 월 소정의 활동비 지급\n  바. 신청 방법: [붙임]의 서류를 작성하여 이메일("
+								},
+								{
+									"type": "link",
+									"url": "mailto:lnl@snu.ac.kr",
+									"text": "lnl@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")로 제출"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

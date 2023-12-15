@@ -1,0 +1,66 @@
+[
+  {
+    "client_msg_id": "6ef6153f-56f3-45be-9cf7-50507b1e69f1",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "네 알겠습니다.",
+    "ts": "1617326801.038800",
+    "thread_ts": "1617255844.037600",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U01Q75KNV1T"
+        ]
+      },
+      {
+        "name": "i_love_you_hand_sign",
+        "count": 1,
+        "users": [
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "URO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네 알겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "client_msg_id": "63581751-df11-494e-8bc6-bed894b27735",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;3층 학생 연구공간 유리 파손 건\u0026gt;\n3층 학생 연구공간 유리 파손 관련하여 파손된 유리를 금일 오후에 철거할 예정입니다.\n\n○ 파손된 유리 철거 일정:  7월 18일(월) 12:00 ~ 14:00\n※철거 시 책상 사용 금지 번호 337~ 348,  361~366\n\n파손된 유리 철거 시 인접한 자리에 위치한 학생들은 파손된 유리 철거 시간동안은 안전상의 사유로 책상사용은 금지할 예정입니다.\n\n관련하여 문의사항 있으면 행정실로 말씀해 주시기 바랍니다.",
+    "ts": "1658108247.747989",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1658110402.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1eft",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c3층 학생 연구공간 유리 파손 건\u003e\n3층 학생 연구공간 유리 파손 관련하여 파손된 유리를 금일 오후에 철거할 예정입니다.\n\n○ 파손된 유리 철거 일정:  7월 18일(월) 12:00 ~ 14:00\n※철거 시 책상 사용 금지 번호 337~ 348,  361~366\n\n파손된 유리 철거 시 인접한 자리에 위치한 학생들은 파손된 유리 철거 시간동안은 안전상의 사유로 책상사용은 금지할 예정입니다.\n\n관련하여 문의사항 있으면 행정실로 말씀해 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "984091e5-4938-4881-b3db-262b69997c75",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022학년도 2학기 시흥캠퍼스주택 대학원생 입주자 모집 안내\u0026gt;\n\n2022학년도 2학기 시흥캠퍼스주택의 대학원생 및 전일제 연구생 입주자를 모집하오니, 관심있는 학생분들께서는 첨부된 자료를 확인하여 주시기 바랍니다.",
+    "ts": "1658124678.655059",
+    "files": [
+      {
+        "id": "F03PUR8P3SP",
+        "created": 1658124668,
+        "timestamp": 1658124668,
+        "name": "붙임1. 2022학년도 2학기 시흥캠퍼스 주택 대학원생 입주자 선발 안내(국문).hwp",
+        "title": "붙임1. 2022학년도 2학기 시흥캠퍼스 주택 대학원생 입주자 선발 안내(국문).hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1180160,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03PUR8P3SP-붙임1. 2022학년도 2학기 시흥캠퍼스 주택 대학원생 입주자 선발 안내(국문).hwp",
+        "url_private_download": "attachments/F03PUR8P3SP-붙임1. 2022학년도 2학기 시흥캠퍼스 주택 대학원생 입주자 선발 안내(국문).hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03PUR8P3SP/______1._2022__________2__________________________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03PUR8P3SP-b9fb5baae7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03Q7GFSCUR",
+        "created": 1658124670,
+        "timestamp": 1658124670,
+        "name": "붙임2. 2022학년도 2학기 시흥캠퍼스 주택 대학원생 입주자 선발 안내(영문).hwp",
+        "title": "붙임2. 2022학년도 2학기 시흥캠퍼스 주택 대학원생 입주자 선발 안내(영문).hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 986112,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03Q7GFSCUR-붙임2. 2022학년도 2학기 시흥캠퍼스 주택 대학원생 입주자 선발 안내(영문).hwp",
+        "url_private_download": "attachments/F03Q7GFSCUR-붙임2. 2022학년도 2학기 시흥캠퍼스 주택 대학원생 입주자 선발 안내(영문).hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03Q7GFSCUR/______2._2022__________2__________________________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03Q7GFSCUR-d0d5312d17",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "plwp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022학년도 2학기 시흥캠퍼스주택 대학원생 입주자 모집 안내\u003e\n\n2022학년도 2학기 시흥캠퍼스주택의 대학원생 및 전일제 연구생 입주자를 모집하오니, 관심있는 학생분들께서는 첨부된 자료를 확인하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ff52f762-8340-41f1-863b-98f2af3b211f",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022학년도 2학기 장기해외연수 프로그램 참가자 모집 안내\u0026gt;\n\n2022학년도 2학기 장기해외연수 지원계획을 아래와 같이 알려드리니, 관심있는 학생은 행정실로 연락주시기 바랍니다.\nㅇ 신청서 제출: 2022. 7. 27.(수)까지",
+    "ts": "1658131383.425559",
+    "files": [
+      {
+        "id": "F03PV402AN6",
+        "created": 1658128895,
+        "timestamp": 1658128895,
+        "name": "붙임1 2022학년도 2학기 장기해외연수 지원계획.pdf",
+        "title": "붙임1 2022학년도 2학기 장기해외연수 지원계획.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 174042,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03PV402AN6-붙임1 2022학년도 2학기 장기해외연수 지원계획.pdf",
+        "url_private_download": "attachments/F03PV402AN6-붙임1 2022학년도 2학기 장기해외연수 지원계획.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03PV402AN6/______1_2022__________2______________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03PV402AN6-960a863611",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03QJSMAVJ4",
+        "created": 1658128897,
+        "timestamp": 1658128897,
+        "name": "붙임2 장기해외연수 서식.hwp",
+        "title": "붙임2 장기해외연수 서식.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 49152,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03QJSMAVJ4-붙임2 장기해외연수 서식.hwp",
+        "url_private_download": "attachments/F03QJSMAVJ4-붙임2 장기해외연수 서식.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03QJSMAVJ4/______2__________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03QJSMAVJ4-2c3ce03a68",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "np1bM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022학년도 2학기 장기해외연수 프로그램 참가자 모집 안내\u003e\n\n2022학년도 2학기 장기해외연수 지원계획을 아래와 같이 알려드리니, 관심있는 학생은 행정실로 연락주시기 바랍니다.\nㅇ 신청서 제출: 2022. 7. 27.(수)까지"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

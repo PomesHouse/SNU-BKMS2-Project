@@ -1,0 +1,96 @@
+[
+  {
+    "client_msg_id": "a32c2bb7-6c37-4de4-aa6c-26e88571e352",
+    "type": "message",
+    "user": "U02ULBHV58W",
+    "text": ":coffee: [커피위원회]\n안녕하세요. 아래와 같이 *3층 탕비실 커피머신 청소* 일정 공지 드리고자 합니다.\n\n\u0026gt; • *6월 25일 토요일* 중\n\u0026gt; • *해당일에는 3층 커피머신 사용이 어려울 수 있으니 양해바랍니다!*\n",
+    "ts": "1656107403.232439",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 7,
+        "users": [
+          "U01QGG6A5LJ",
+          "U0302PLQ34Y",
+          "U02UVAT3BPW",
+          "U02V5LT4DLZ",
+          "U01PVEU1A07",
+          "U01Q1KFN4JK",
+          "U02V5LTPGRX"
+        ]
+      },
+      {
+        "name": "pray",
+        "count": 3,
+        "users": [
+          "U01PVEU1A07",
+          "U01Q1KFN4JK",
+          "U02UQ4CMR7X"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SPK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "coffee",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " [커피위원회]\n안녕하세요. 아래와 같이"
+              },
+              {
+                "type": "text",
+                "text": " 3층 탕비실 커피머신 청소 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "일정 공지 드리고자 합니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"6\\uc6d4 25\\uc77c \\ud1a0\\uc694\\uc77c\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\uc911\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud574\\ub2f9\\uc77c\\uc5d0\\ub294 3\\uce35 \\ucee4\\ud53c\\uba38\\uc2e0 \\uc0ac\\uc6a9\\uc774 \\uc5b4\\ub824\\uc6b8 \\uc218 \\uc788\\uc73c\\ub2c8 \\uc591\\ud574\\ubc14\\ub78d\\ub2c8\\ub2e4!\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "3기_이승주",
+      "real_name": "3기_이승주",
+      "display_name": "3기_이승주",
+      "team": "T01QA5S537V",
+      "name": "lotusist",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,350 @@
+[
+  {
+    "client_msg_id": "91b55daf-7b75-4ea3-b882-866bef6c7ae7",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": ":dart: *InnoJam Top5*를 골라주세요!\n\n1기 학생들의 그동안의 연구 성과가 드디어 공개 되었습니다:raised_hands:\n모두들 확인하고 투표를 해주시면 감사하겠습니다.\n\n:thinking_face: 저도 투표해도 되나요?\n*GSDS 구성원*이면 누구나 (2기도 해주세요)\n\n:calendar: 언제까지?\n*3월 21일 (일요일) 6pm*\n\n:raised_hand_with_fingers_splayed: 투표권은 몇 개?\n*5개*입니다\n\n:link: 투표는 어디서?\n\u003chttps://docs.google.com/forms/d/e/1FAIpQLSe_g9gYIiBKbITtgyTNoVWE5xWoq2W_yAPUeVWjgFbwl6MwPA/viewform\u003e",
+    "ts": "1615790624.013300",
+    "thread_ts": "1615453048.002500",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 11,
+        "users": [
+          "U01QNSM488Z",
+          "U01PVET2C31",
+          "U01PVETHKF1",
+          "U01R719DKK2",
+          "U01Q75KNV1T",
+          "U01QAE573J7",
+          "U01QGKCUAJX",
+          "U01PVEU69BR",
+          "U01QAE5DERZ",
+          "U01Q386CMKQ",
+          "U01Q9KJL8MC"
+        ]
+      },
+      {
+        "name": "tada",
+        "count": 3,
+        "users": [
+          "U01QV1SQJ57",
+          "U01R719DKK2",
+          "U01Q75KNV1T"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rXLm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "dart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "InnoJam Top5",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "를 골라주세요!\n\n1기 학생들의 그동안의 연구 성과가 드디어 공개 되었습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n모두들 확인하고 투표를 해주시면 감사하겠습니다.\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "thinking_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 저도 투표해도 되나요?\n"
+              },
+              {
+                "type": "text",
+                "text": "GSDS 구성원",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "이면 누구나 (2기도 해주세요)\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "calendar",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 언제까지?\n"
+              },
+              {
+                "type": "text",
+                "text": "3월 21일 (일요일) 6pm",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hand_with_fingers_splayed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 투표권은 몇 개?\n"
+              },
+              {
+                "type": "text",
+                "text": "5개",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "입니다\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "link",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 투표는 어디서?\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_g9gYIiBKbITtgyTNoVWE5xWoq2W_yAPUeVWjgFbwl6MwPA/viewform",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "91b55daf-7b75-4ea3-b882-866bef6c7ae7",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": ":dart: *InnoJam Top5*를 골라주세요!\n\n1기 학생들의 그동안의 연구 성과가 드디어 공개 되었습니다:raised_hands:\n모두들 확인하고 투표를 해주시면 감사하겠습니다.\n\n:thinking_face: 저도 투표해도 되나요?\n*GSDS 구성원*이면 누구나 (2기도 해주세요)\n\n:calendar: 언제까지?\n*3월 21일 (일요일) 6pm*\n\n:raised_hand_with_fingers_splayed: 투표권은 몇 개?\n*5개*입니다\n\n:link: 투표는 어디서?\n\u003chttps://docs.google.com/forms/d/e/1FAIpQLSe_g9gYIiBKbITtgyTNoVWE5xWoq2W_yAPUeVWjgFbwl6MwPA/viewform\u003e",
+    "ts": "1615790624.013300",
+    "thread_ts": "1615453048.002500",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 11,
+        "users": [
+          "U01QNSM488Z",
+          "U01PVET2C31",
+          "U01PVETHKF1",
+          "U01R719DKK2",
+          "U01Q75KNV1T",
+          "U01QAE573J7",
+          "U01QGKCUAJX",
+          "U01PVEU69BR",
+          "U01QAE5DERZ",
+          "U01Q386CMKQ",
+          "U01Q9KJL8MC"
+        ]
+      },
+      {
+        "name": "tada",
+        "count": 3,
+        "users": [
+          "U01QV1SQJ57",
+          "U01R719DKK2",
+          "U01Q75KNV1T"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rXLm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "dart",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "InnoJam Top5",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "를 골라주세요!\n\n1기 학생들의 그동안의 연구 성과가 드디어 공개 되었습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n모두들 확인하고 투표를 해주시면 감사하겠습니다.\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "thinking_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 저도 투표해도 되나요?\n"
+              },
+              {
+                "type": "text",
+                "text": "GSDS 구성원",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "이면 누구나 (2기도 해주세요)\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "calendar",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 언제까지?\n"
+              },
+              {
+                "type": "text",
+                "text": "3월 21일 (일요일) 6pm",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hand_with_fingers_splayed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 투표권은 몇 개?\n"
+              },
+              {
+                "type": "text",
+                "text": "5개",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "입니다\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "link",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 투표는 어디서?\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_g9gYIiBKbITtgyTNoVWE5xWoq2W_yAPUeVWjgFbwl6MwPA/viewform",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

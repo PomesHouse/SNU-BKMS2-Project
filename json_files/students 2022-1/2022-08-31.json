@@ -1,635 +1,637 @@
-[
-  {
-    "client_msg_id": "cad2e4f7-c194-4c36-b282-8c3db7bd60d7",
-    "type": "message",
-    "user": "U01QGKD09K5",
-    "text": "*[학생회] 2022년도 2학기 자리 배정 결과 공지*\n\n안녕하세요, 학생 부대표 어경선입니다.\n오늘 3시에 Zoom을 통해 실시간으로 진행되었던 자리배정 결과 공지합니다.\n이번에 배치된 좌석에서 2023년 2월까지 지내시면 되고, 23년도 1학기를 앞두고 재배정할 예정입니다.\n\n*자리 이동은 9월 1일 목요일* 하루동안 진행하도록 하겠습니다.\n기존의 좌석에서 사용하던 숫자가 적힌 스티커가 부착된 *모니터, 스탠드, 멀티탭, 의자*는 그대로 자리에 두고 개인 짐만 옮기시면 됩니다.\n그리고 좌석 이동에 앞서 *본인 좌석에 있는 물품들의 스티커 숫자를 확인*하여 맞는 위치에 제대로 다 있는지 확인하여 주시기 바랍니다.\n특히 개인적으로 구매한 의자를 사용하셨던 분은 자리를 비우면서 원래 의자를 되돌려 놓아주셔야 합니다.\n이번에 301호에 30개의 좌석이 추가되었고, 해당 자리의 물품들도 빠르게 설치할 예정입니다.\n\n좌석과 더불어 *사물함도 꼭 비워 주시고 물품 이동* 바랍니다.\n혹시 사물함이 잠겨 있어서 문제가 생길 경우 저에게 DM으로 알려주시기 바랍니다.\n\n*학생 간 자리를 교환하는 경우 반드시 저에게 DM으로 알려주시기 바랍니다.*\n*현재 기준 미배정된 좌석으로의 이동은 불가능합니다. (해당 좌석은 추가로 들어올 교환학생, 인턴 등에게 배정할 예정입니다.)*\n*물품 관리 책임 소재를 분명히 하기 위하여 필요한 정보이니 협조 부탁 드립니다.*\n\n마지막으로, 본인이 배정 명단에 없을 경우에도 저에게 DM을 주시면 되겠습니다.\n감사합니다.",
-    "ts": "1661931158.929999",
-    "thread_ts": "1661931158.929999",
-    "edited": {
-      "user": "U01QGKD09K5",
-      "ts": "1661934167.000000"
-    },
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QGKD09K5",
-        "ts": "1661931471.495189"
-      },
-      {
-        "user": "U02UT2VQ9NF",
-        "ts": "1661952763.256629"
-      }
-    ],
-    "latest_reply": "1661952763.256629",
-    "files": [
-      {
-        "id": "F040F3X0VD1",
-        "created": 1661930879,
-        "timestamp": 1661930879,
-        "name": "2022-2_자리배치도.pdf",
-        "title": "2022-2_자리배치도.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QGKD09K5",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 431666,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F040F3X0VD1-2022-2_자리배치도.pdf",
-        "url_private_download": "attachments/F040F3X0VD1-2022-2_자리배치도.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F040F3X0VD1/2022-2_______________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F040F3X0VD1-bbee836353",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F0414TK6LSC",
-        "created": 1661930881,
-        "timestamp": 1661930881,
-        "name": "자리배치_결과_2022-08-31 15_12_40.pdf",
-        "title": "자리배치_결과_2022-08-31 15_12_40.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QGKD09K5",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 60051,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0414TK6LSC-자리배치_결과_2022-08-31 15_12_40.pdf",
-        "url_private_download": "attachments/F0414TK6LSC-자리배치_결과_2022-08-31 15_12_40.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F0414TK6LSC/_________________________________________2022-08-31_15_12_40.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0414TK6LSC-1bbd0ca60f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 18,
-        "users": [
-          "U0302PLQ34Y",
-          "U01PVEU1A07",
-          "U01QNMUAUKW",
-          "U01Q1KFN4JK",
-          "U01QDA36FJR",
-          "U02ULBJGHF0",
-          "U01Q1KQ03PZ",
-          "U02UT2VQ9NF",
-          "U01PVET2C31",
-          "U01QNSM488Z",
-          "U01QV28FG4R",
-          "U02ULBHV58W",
-          "U01QGKC4BM1",
-          "U01QV1WAPL1",
-          "U01R689L5KJ",
-          "U02UVAUFSRJ",
-          "U02UVAT3BPW",
-          "U040PQCMXS8"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "0OeB",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[학생회] 2022년도 2학기 자리 배정 결과 공지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요, 학생 부대표 어경선입니다.\n오늘 3시에 Zoom을 통해 실시간으로 진행되었던 자리배정 결과 공지합니다.\n이번에 배치된 좌석에서 2023년 2월까지 지내시면 되고, 23년도 1학기를 앞두고 재배정할 예정입니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "자리 이동은 9월 1일 목요일",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 하루동안 진행하도록 하겠습니다.\n기존의 좌석에서 사용하던 숫자가 적힌 스티커가 부착된 "
-              },
-              {
-                "type": "text",
-                "text": "모니터, 스탠드, 멀티탭, 의자",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "는 그대로 자리에 두고 개인 짐만 옮기시면 됩니다.\n그리고 좌석 이동에 앞서 "
-              },
-              {
-                "type": "text",
-                "text": "본인 좌석에 있는 물품들의 스티커 숫자를 확인",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하여 맞는 위치에 제대로 다 있는지 확인하여 주시기 바랍니다.\n특히 개인적으로 구매한 의자를 사용하셨던 분은 자리를 비우면서 원래 의자를 되돌려 놓아주셔야 합니다.\n이번에 301호에 30개의 좌석이 추가되었고, 해당 자리의 물품들도 빠르게 설치할 예정입니다.\n\n좌석과 더불어 "
-              },
-              {
-                "type": "text",
-                "text": "사물함도 꼭 비워 주시고 물품 이동",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 바랍니다.\n혹시 사물함이 잠겨 있어서 문제가 생길 경우 저에게 DM으로 알려주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "학생 간 자리를 교환하는 경우 반드시 저에게 DM으로 알려주시기 바랍니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "현재 기준 미배정된 좌석으로의 이동은 불가능합니다. (해당 좌석은 추가로 들어올 교환학생, 인턴 등에게 배정할 예정입니다.)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "물품 관리 책임 소재를 분명히 하기 위하여 필요한 정보이니 협조 부탁 드립니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n마지막으로, 본인이 배정 명단에 없을 경우에도 저에게 DM을 주시면 되겠습니다.\n감사합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
-      "first_name": "어경선",
-      "real_name": "어경선",
-      "display_name": "2기_어경선",
-      "team": "T01QA5S537V",
-      "name": "eks104",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01QGKD09K5",
-      "U02UT2VQ9NF"
-    ]
-  },
-  {
-    "client_msg_id": "218ca7f4-1799-427e-93d9-cbef1204503b",
-    "type": "message",
-    "user": "U01QGKD09K5",
-    "text": "사물함 배치도 추가합니다.",
-    "ts": "1661931471.495189",
-    "thread_ts": "1661931158.929999",
-    "subtype": "thread_broadcast",
-    "parent_user_id": "U01QGKD09K5",
-    "files": [
-      {
-        "id": "F0400LZNZ39",
-        "created": 1661931467,
-        "timestamp": 1661931467,
-        "name": "사물함_배치도_210830.pdf",
-        "title": "사물함_배치도_210830.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QGKD09K5",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 22740,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0400LZNZ39-사물함_배치도_210830.pdf",
-        "url_private_download": "attachments/F0400LZNZ39-사물함_배치도_210830.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F0400LZNZ39/____________________________________________210830.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0400LZNZ39-7ea3c24743",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "jqUPS",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "사물함 배치도 추가합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
-      "first_name": "어경선",
-      "real_name": "어경선",
-      "display_name": "2기_어경선",
-      "team": "T01QA5S537V",
-      "name": "eks104",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "218ca7f4-1799-427e-93d9-cbef1204503b",
-    "type": "message",
-    "user": "U01QGKD09K5",
-    "text": "사물함 배치도 추가합니다.",
-    "ts": "1661931471.495189",
-    "thread_ts": "1661931158.929999",
-    "subtype": "thread_broadcast",
-    "parent_user_id": "U01QGKD09K5",
-    "files": [
-      {
-        "id": "F0400LZNZ39",
-        "created": 1661931467,
-        "timestamp": 1661931467,
-        "name": "사물함_배치도_210830.pdf",
-        "title": "사물함_배치도_210830.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QGKD09K5",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 22740,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0400LZNZ39-사물함_배치도_210830.pdf",
-        "url_private_download": "attachments/F0400LZNZ39-사물함_배치도_210830.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F0400LZNZ39/____________________________________________210830.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0400LZNZ39-7ea3c24743",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "jqUPS",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "사물함 배치도 추가합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
-      "first_name": "어경선",
-      "real_name": "어경선",
-      "display_name": "2기_어경선",
-      "team": "T01QA5S537V",
-      "name": "eks104",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U02C3D2T0BS",
-    "text": "\u003c@U02C3D2T0BS\u003e has joined the channel",
-    "ts": "1661937581.682079",
-    "subtype": "channel_join",
-    "inviter": "U01Q1KFN4JK",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/79ae2bfc5eb9eaeca53e5d2c9cc10831.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
-      "first_name": "이준호",
-      "real_name": "이준호",
-      "display_name": "2기_이준호",
-      "team": "T01QA5S537V",
-      "name": "joon2003",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "c289ee16-a701-42b9-9266-04b80375531d",
-    "type": "message",
-    "user": "U02UT2VQ9NF",
-    "text": "자리에 의자와 스탠드가 없으면 어떻게 하나요?",
-    "ts": "1661952763.256629",
-    "thread_ts": "1661931158.929999",
-    "parent_user_id": "U01QGKD09K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Ktjf",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "자리에 의자와 스탠드가 없으면 어떻게 하나요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
-      "first_name": "3기_송종현",
-      "real_name": "3기_송종현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "hyeongoon",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U02BD3EV4DQ",
-    "text": "\u003c@U02BD3EV4DQ\u003e has joined the channel",
-    "ts": "1661989811.635119",
-    "subtype": "channel_join",
-    "inviter": "U01Q1KFN4JK",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/947eb2a69263f1ae57843b4fac0f1b83.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
-      "first_name": "2기_문정현",
-      "real_name": "2기_문정현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "jake122297",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "cad2e4f7-c194-4c36-b282-8c3db7bd60d7",
+			"type": "message",
+			"user": "U01QGKD09K5",
+			"text": "*[학생회] 2022년도 2학기 자리 배정 결과 공지*\n\n안녕하세요, 학생 부대표 어경선입니다.\n오늘 3시에 Zoom을 통해 실시간으로 진행되었던 자리배정 결과 공지합니다.\n이번에 배치된 좌석에서 2023년 2월까지 지내시면 되고, 23년도 1학기를 앞두고 재배정할 예정입니다.\n\n*자리 이동은 9월 1일 목요일* 하루동안 진행하도록 하겠습니다.\n기존의 좌석에서 사용하던 숫자가 적힌 스티커가 부착된 *모니터, 스탠드, 멀티탭, 의자*는 그대로 자리에 두고 개인 짐만 옮기시면 됩니다.\n그리고 좌석 이동에 앞서 *본인 좌석에 있는 물품들의 스티커 숫자를 확인*하여 맞는 위치에 제대로 다 있는지 확인하여 주시기 바랍니다.\n특히 개인적으로 구매한 의자를 사용하셨던 분은 자리를 비우면서 원래 의자를 되돌려 놓아주셔야 합니다.\n이번에 301호에 30개의 좌석이 추가되었고, 해당 자리의 물품들도 빠르게 설치할 예정입니다.\n\n좌석과 더불어 *사물함도 꼭 비워 주시고 물품 이동* 바랍니다.\n혹시 사물함이 잠겨 있어서 문제가 생길 경우 저에게 DM으로 알려주시기 바랍니다.\n\n*학생 간 자리를 교환하는 경우 반드시 저에게 DM으로 알려주시기 바랍니다.*\n*현재 기준 미배정된 좌석으로의 이동은 불가능합니다. (해당 좌석은 추가로 들어올 교환학생, 인턴 등에게 배정할 예정입니다.)*\n*물품 관리 책임 소재를 분명히 하기 위하여 필요한 정보이니 협조 부탁 드립니다.*\n\n마지막으로, 본인이 배정 명단에 없을 경우에도 저에게 DM을 주시면 되겠습니다.\n감사합니다.",
+			"ts": "1661931158.929999",
+			"thread_ts": "1661931158.929999",
+			"edited": {
+				"user": "U01QGKD09K5",
+				"ts": "1661934167.000000"
+			},
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QGKD09K5",
+					"ts": "1661931471.495189"
+				},
+				{
+					"user": "U02UT2VQ9NF",
+					"ts": "1661952763.256629"
+				}
+			],
+			"latest_reply": "1661952763.256629",
+			"files": [
+				{
+					"id": "F040F3X0VD1",
+					"created": 1661930879,
+					"timestamp": 1661930879,
+					"name": "2022-2_자리배치도.pdf",
+					"title": "2022-2_자리배치도.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QGKD09K5",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 431666,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F040F3X0VD1-2022-2_자리배치도.pdf",
+					"url_private_download": "attachments/F040F3X0VD1-2022-2_자리배치도.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F040F3X0VD1/2022-2_______________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F040F3X0VD1-bbee836353",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F0414TK6LSC",
+					"created": 1661930881,
+					"timestamp": 1661930881,
+					"name": "자리배치_결과_2022-08-31 15_12_40.pdf",
+					"title": "자리배치_결과_2022-08-31 15_12_40.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QGKD09K5",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 60051,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0414TK6LSC-자리배치_결과_2022-08-31 15_12_40.pdf",
+					"url_private_download": "attachments/F0414TK6LSC-자리배치_결과_2022-08-31 15_12_40.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F0414TK6LSC/_________________________________________2022-08-31_15_12_40.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0414TK6LSC-1bbd0ca60f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 18,
+					"users": [
+						"U0302PLQ34Y",
+						"U01PVEU1A07",
+						"U01QNMUAUKW",
+						"U01Q1KFN4JK",
+						"U01QDA36FJR",
+						"U02ULBJGHF0",
+						"U01Q1KQ03PZ",
+						"U02UT2VQ9NF",
+						"U01PVET2C31",
+						"U01QNSM488Z",
+						"U01QV28FG4R",
+						"U02ULBHV58W",
+						"U01QGKC4BM1",
+						"U01QV1WAPL1",
+						"U01R689L5KJ",
+						"U02UVAUFSRJ",
+						"U02UVAT3BPW",
+						"U040PQCMXS8"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "0OeB",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[학생회] 2022년도 2학기 자리 배정 결과 공지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요, 학생 부대표 어경선입니다.\n오늘 3시에 Zoom을 통해 실시간으로 진행되었던 자리배정 결과 공지합니다.\n이번에 배치된 좌석에서 2023년 2월까지 지내시면 되고, 23년도 1학기를 앞두고 재배정할 예정입니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "자리 이동은 9월 1일 목요일",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 하루동안 진행하도록 하겠습니다.\n기존의 좌석에서 사용하던 숫자가 적힌 스티커가 부착된 "
+								},
+								{
+									"type": "text",
+									"text": "모니터, 스탠드, 멀티탭, 의자",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "는 그대로 자리에 두고 개인 짐만 옮기시면 됩니다.\n그리고 좌석 이동에 앞서 "
+								},
+								{
+									"type": "text",
+									"text": "본인 좌석에 있는 물품들의 스티커 숫자를 확인",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하여 맞는 위치에 제대로 다 있는지 확인하여 주시기 바랍니다.\n특히 개인적으로 구매한 의자를 사용하셨던 분은 자리를 비우면서 원래 의자를 되돌려 놓아주셔야 합니다.\n이번에 301호에 30개의 좌석이 추가되었고, 해당 자리의 물품들도 빠르게 설치할 예정입니다.\n\n좌석과 더불어 "
+								},
+								{
+									"type": "text",
+									"text": "사물함도 꼭 비워 주시고 물품 이동",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 바랍니다.\n혹시 사물함이 잠겨 있어서 문제가 생길 경우 저에게 DM으로 알려주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "학생 간 자리를 교환하는 경우 반드시 저에게 DM으로 알려주시기 바랍니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "현재 기준 미배정된 좌석으로의 이동은 불가능합니다. (해당 좌석은 추가로 들어올 교환학생, 인턴 등에게 배정할 예정입니다.)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "물품 관리 책임 소재를 분명히 하기 위하여 필요한 정보이니 협조 부탁 드립니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n마지막으로, 본인이 배정 명단에 없을 경우에도 저에게 DM을 주시면 되겠습니다.\n감사합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+				"first_name": "어경선",
+				"real_name": "어경선",
+				"display_name": "2기_어경선",
+				"team": "T01QA5S537V",
+				"name": "eks104",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01QGKD09K5",
+				"U02UT2VQ9NF"
+			]
+		},
+		{
+			"client_msg_id": "218ca7f4-1799-427e-93d9-cbef1204503b",
+			"type": "message",
+			"user": "U01QGKD09K5",
+			"text": "사물함 배치도 추가합니다.",
+			"ts": "1661931471.495189",
+			"thread_ts": "1661931158.929999",
+			"subtype": "thread_broadcast",
+			"parent_user_id": "U01QGKD09K5",
+			"files": [
+				{
+					"id": "F0400LZNZ39",
+					"created": 1661931467,
+					"timestamp": 1661931467,
+					"name": "사물함_배치도_210830.pdf",
+					"title": "사물함_배치도_210830.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QGKD09K5",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 22740,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0400LZNZ39-사물함_배치도_210830.pdf",
+					"url_private_download": "attachments/F0400LZNZ39-사물함_배치도_210830.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F0400LZNZ39/____________________________________________210830.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0400LZNZ39-7ea3c24743",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "jqUPS",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "사물함 배치도 추가합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+				"first_name": "어경선",
+				"real_name": "어경선",
+				"display_name": "2기_어경선",
+				"team": "T01QA5S537V",
+				"name": "eks104",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "218ca7f4-1799-427e-93d9-cbef1204503b",
+			"type": "message",
+			"user": "U01QGKD09K5",
+			"text": "사물함 배치도 추가합니다.",
+			"ts": "1661931471.495189",
+			"thread_ts": "1661931158.929999",
+			"subtype": "thread_broadcast",
+			"parent_user_id": "U01QGKD09K5",
+			"files": [
+				{
+					"id": "F0400LZNZ39",
+					"created": 1661931467,
+					"timestamp": 1661931467,
+					"name": "사물함_배치도_210830.pdf",
+					"title": "사물함_배치도_210830.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QGKD09K5",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 22740,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0400LZNZ39-사물함_배치도_210830.pdf",
+					"url_private_download": "attachments/F0400LZNZ39-사물함_배치도_210830.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F0400LZNZ39/____________________________________________210830.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0400LZNZ39-7ea3c24743",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "jqUPS",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "사물함 배치도 추가합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+				"first_name": "어경선",
+				"real_name": "어경선",
+				"display_name": "2기_어경선",
+				"team": "T01QA5S537V",
+				"name": "eks104",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U02C3D2T0BS",
+			"text": "<@U02C3D2T0BS> has joined the channel",
+			"ts": "1661937581.682079",
+			"subtype": "channel_join",
+			"inviter": "U01Q1KFN4JK",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/79ae2bfc5eb9eaeca53e5d2c9cc10831.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+				"first_name": "이준호",
+				"real_name": "이준호",
+				"display_name": "2기_이준호",
+				"team": "T01QA5S537V",
+				"name": "joon2003",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "c289ee16-a701-42b9-9266-04b80375531d",
+			"type": "message",
+			"user": "U02UT2VQ9NF",
+			"text": "자리에 의자와 스탠드가 없으면 어떻게 하나요?",
+			"ts": "1661952763.256629",
+			"thread_ts": "1661931158.929999",
+			"parent_user_id": "U01QGKD09K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Ktjf",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "자리에 의자와 스탠드가 없으면 어떻게 하나요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+				"first_name": "3기_송종현",
+				"real_name": "3기_송종현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "hyeongoon",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U02BD3EV4DQ",
+			"text": "<@U02BD3EV4DQ> has joined the channel",
+			"ts": "1661989811.635119",
+			"subtype": "channel_join",
+			"inviter": "U01Q1KFN4JK",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/947eb2a69263f1ae57843b4fac0f1b83.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+				"first_name": "2기_문정현",
+				"real_name": "2기_문정현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "jake122297",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,0 +1,88 @@
+{
+	"array": [
+		{
+			"client_msg_id": "a94c7708-228b-4e78-9a48-d7717178330e",
+			"type": "message",
+			"user": "U02UT2WJFT5",
+			"text": "안녕하세요, 3기 이준석 교수님 연구실 소속 김은지입니다.\n\n아래와 같이 *이차전지 스타트업 그리너지*에서 PM을 구하고 있다고 합니다. 관심 있는 분들을 위해 공유 드립니다 :grin:\n----------\n\n이차전지 스타트업 그리너지에서 LTO 배터리 기반의 이동식 전기차 충전 사업 개발 관련 On Demand Service Platform 개발을 추진하실 분을 찾습니다.\n\n주요 업무: 전기차 충전관련 On Demand Service Platform 개발 PM (정부 과제 Follow up 포함)\n자격 요건: 전기차 충전 인프라에 관심이 있고, 스타트업의 성장 과정을 직접 체험하고자 하는 분\n지원 방법: 김은지씨(<mailto:kuman5262@snu.ac.kr|kuman5262@snu.ac.kr>)에게 연락주시거나 <mailto:sgonkim@nate.com|sgonkim@nate.com> <tel:010-9059-0416|010-9059-0416> (김승곤)에게 연락 부탁드립니다.\n\n[참고]\n상기 사업은 2023년 중소벤처기업부 2023년 혁신분야 창업패키지 (신산업스타트업 육성) 과제에 선정되었습니다. (정부지원금 6억원)\n\n그리너지는 테슬라, LG전자, 현대차 출신의 창업자가 육성하고 있는 이차전지 셀 제조 스타트업으로 23년 하반기 여주에 생산공장 착공 예정입니다. (부지 및 VC 투자 확보)\n그리너지는 LTO 배터리를 주력으로 하고있으며, 해당 제품은 기존 배터리 대비 충방전속도가 빠르고 저온에서 성능이 월등하며 상대적으로 장수명이 확보되어있습니다.\n이에 따라 건설장비, 철도, 선박 및 군용 제품 전동화 시장을 주요 목표로 하고 있습니다.\n\n이동식 전기차 충전을 위한 충전기는 상기 LTO 배터리의 특성을 활용한 것으로 급속 충전이 가능한 이동식 전기차 충전기에 On Demand Service Platform을 개발하여\n보험사/자동차 회사의 전기차 긴급 충전서비스, 전기자전거 등 mobility 충전 서비스 및 백화점, 골프장 등 특정 장소의 고정형 충전기 인프라를 대체/보조하는 사업으로 확대해나가고자 합니다.\n\n즉 그리너지의 LTO 배터리셀을 활용한 Application 사업으로 2~3년 내에 투자 확보 및 분사가 목표입니다.\n\n보다 자세한 사업 계획 및 주요 처우에 대해서는 일대일 미팅 또는 그리너지 회사 방문 등을 통해 설명 드리도록 하겠습니다.",
+			"ts": "1684725814.462469",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "yv32n",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 3기 이준석 교수님 연구실 소속 김은지입니다.\n\n아래와 같이 "
+								},
+								{
+									"type": "text",
+									"text": "이차전지 스타트업 그리너지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "에서 PM을 구하고 있다고 합니다. 관심 있는 분들을 위해 공유 드립니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "grin",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n----------\n\n이차전지 스타트업 그리너지에서 LTO 배터리 기반의 이동식 전기차 충전 사업 개발 관련 On Demand Service Platform 개발을 추진하실 분을 찾습니다.\n\n주요 업무: 전기차 충전관련 On Demand Service Platform 개발 PM (정부 과제 Follow up 포함)\n자격 요건: 전기차 충전 인프라에 관심이 있고, 스타트업의 성장 과정을 직접 체험하고자 하는 분\n지원 방법: 김은지씨("
+								},
+								{
+									"type": "link",
+									"url": "mailto:kuman5262@snu.ac.kr",
+									"text": "kuman5262@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")에게 연락주시거나 "
+								},
+								{
+									"type": "link",
+									"url": "mailto:sgonkim@nate.com",
+									"text": "sgonkim@nate.com"
+								},
+								{
+									"type": "text",
+									"text": " 010-9059-0416 (김승곤)에게 연락 부탁드립니다.\n\n[참고]\n상기 사업은 2023년 중소벤처기업부 2023년 혁신분야 창업패키지 (신산업스타트업 육성) 과제에 선정되었습니다. (정부지원금 6억원)\n\n그리너지는 테슬라, LG전자, 현대차 출신의 창업자가 육성하고 있는 이차전지 셀 제조 스타트업으로 23년 하반기 여주에 생산공장 착공 예정입니다. (부지 및 VC 투자 확보)\n그리너지는 LTO 배터리를 주력으로 하고있으며, 해당 제품은 기존 배터리 대비 충방전속도가 빠르고 저온에서 성능이 월등하며 상대적으로 장수명이 확보되어있습니다.\n이에 따라 건설장비, 철도, 선박 및 군용 제품 전동화 시장을 주요 목표로 하고 있습니다.\n\n이동식 전기차 충전을 위한 충전기는 상기 LTO 배터리의 특성을 활용한 것으로 급속 충전이 가능한 이동식 전기차 충전기에 On Demand Service Platform을 개발하여\n보험사/자동차 회사의 전기차 긴급 충전서비스, 전기자전거 등 mobility 충전 서비스 및 백화점, 골프장 등 특정 장소의 고정형 충전기 인프라를 대체/보조하는 사업으로 확대해나가고자 합니다.\n\n즉 그리너지의 LTO 배터리셀을 활용한 Application 사업으로 2~3년 내에 투자 확보 및 분사가 목표입니다.\n\n보다 자세한 사업 계획 및 주요 처우에 대해서는 일대일 미팅 또는 그리너지 회사 방문 등을 통해 설명 드리도록 하겠습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/885d2fa1938f6b462aabeb1ca24862b7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+				"first_name": "3기_김은지",
+				"real_name": "3기_김은지",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kunam5262",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,0 +1,325 @@
+[
+  {
+    "client_msg_id": "e88dca65-98e5-48a2-ab10-5cc11e7aaa1e",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "[논자시 코딩시험 분실물]\n오늘 942 코딩 시험이후 아래 사진에 있는 분실물을 습득하였습니다. 습득한 물품들은 942동 315번 자리에 보관중이오니 찾아가시길 바랍니다. 다들 시험치느라 고생하셨습니다.\n1. 셔츠\n2. 3.5기 후드티\n3. 충전기\n4. 다나와 멀티탭\n5. 안경닦이",
+    "ts": "1695126736.809139",
+    "files": [
+      {
+        "id": "F05SVQGL8LD",
+        "created": 1695126574,
+        "timestamp": 1695126574,
+        "name": "20230919_212847.jpg",
+        "title": "20230919_212847.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01R67PKD7S",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 554951,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05SVQGL8LD-20230919_212847.jpg",
+        "url_private_download": "attachments/F05SVQGL8LD-20230919_212847.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05SVQGL8LD-cbd97c9f31/20230919_212847_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05SVQGL8LD-cbd97c9f31/20230919_212847_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05SVQGL8LD-cbd97c9f31/20230919_212847_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05SVQGL8LD-cbd97c9f31/20230919_212847_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05SVQGL8LD-cbd97c9f31/20230919_212847_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05SVQGL8LD-cbd97c9f31/20230919_212847_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05SVQGL8LD-cbd97c9f31/20230919_212847_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05SVQGL8LD-cbd97c9f31/20230919_212847_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U01R67PKD7S/F05SVQGL8LD/20230919_212847.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05SVQGL8LD-8aa92fe652",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BSt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[논자시 코딩시험 분실물]\n오늘 942 코딩 시험이후 아래 사진에 있는 분실물을 습득하였습니다. 습득한 물품들은 942동 315번 자리에 보관중이오니 찾아가시길 바랍니다. 다들 시험치느라 고생하셨습니다.\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc154\\uce20\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"3.5\\uae30 \\ud6c4\\ub4dc\\ud2f0\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucda9\\uc804\\uae30\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub2e4\\ub098\\uc640 \\uba40\\ud2f0\\ud0ed\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc548\\uacbd\\ub2e6\\uc774\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2976a60e-defd-4bea-9604-a12bc41f1253",
+    "type": "message",
+    "user": "U04R6NS3924",
+    "text": "43-2동 1층 \u0026amp; 942동 3층 탕비실 냉장고에 '논자시' 라벨이 붙은 음료가 있습니다. 원하시는 분은 자유롭게 드시길 바랍니다!:blush: (43-2동은 사진의 500ml 생수까지 포함!)",
+    "ts": "1695167268.936469",
+    "files": [
+      {
+        "id": "F05SMQP7CEB",
+        "created": 1695167250,
+        "timestamp": 1695167250,
+        "name": "20230920_084240.jpg",
+        "title": "20230920_084240.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U04R6NS3924",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 496477,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05SMQP7CEB-20230920_084240.jpg",
+        "url_private_download": "attachments/F05SMQP7CEB-20230920_084240.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05SMQP7CEB-50dab79976/20230920_084240_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05SMQP7CEB-50dab79976/20230920_084240_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05SMQP7CEB-50dab79976/20230920_084240_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05SMQP7CEB-50dab79976/20230920_084240_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05SMQP7CEB-50dab79976/20230920_084240_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05SMQP7CEB-50dab79976/20230920_084240_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05SMQP7CEB-50dab79976/20230920_084240_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05SMQP7CEB-50dab79976/20230920_084240_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U04R6NS3924/F05SMQP7CEB/20230920_084240.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05SMQP7CEB-cb4a4f2056",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05T2B0AQ5Q",
+        "created": 1695167261,
+        "timestamp": 1695167261,
+        "name": "1695131232360.jpg",
+        "title": "1695131232360.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U04R6NS3924",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 442394,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05T2B0AQ5Q-1695131232360.jpg",
+        "url_private_download": "attachments/F05T2B0AQ5Q-1695131232360.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05T2B0AQ5Q-c3284d4c6d/1695131232360_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05T2B0AQ5Q-c3284d4c6d/1695131232360_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05T2B0AQ5Q-c3284d4c6d/1695131232360_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05T2B0AQ5Q-c3284d4c6d/1695131232360_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05T2B0AQ5Q-c3284d4c6d/1695131232360_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05T2B0AQ5Q-c3284d4c6d/1695131232360_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05T2B0AQ5Q-c3284d4c6d/1695131232360_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05T2B0AQ5Q-c3284d4c6d/1695131232360_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U04R6NS3924/F05T2B0AQ5Q/1695131232360.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05T2B0AQ5Q-c844695585",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 15,
+        "users": [
+          "U02ULBHV58W",
+          "U02C3D2T0BS",
+          "U04QKG4UWRJ",
+          "U04QGUFBFR9",
+          "U040JBW6THT",
+          "U040ENMTCEA",
+          "U01QGKCT067",
+          "U01Q1KQ03PZ",
+          "U0302PLQ34Y",
+          "U02V5LS84JV",
+          "U02UT1XUGFL",
+          "U0302PHUHME",
+          "U04QKG4K12Q",
+          "U040ZVD3C0H",
+          "U04QGUD1CMR"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U04R6NRBD1N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pNC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "43-2동 1층 \u0026 942동 3층 탕비실 냉장고에 '논자시' 라벨이 붙은 음료가 있습니다. 원하시는 분은 자유롭게 드시길 바랍니다!"
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " (43-2동은 사진의 500ml 생수까지 포함!)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f0955652181e10e386c6983adf4f176a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "4기_최예은",
+      "real_name": "4기_최예은",
+      "display_name": "4기_최예은",
+      "team": "T01QA5S537V",
+      "name": "greenrosiechoi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

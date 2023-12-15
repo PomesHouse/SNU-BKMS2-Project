@@ -1,52 +1,54 @@
-[
-  {
-    "client_msg_id": "80df3d17-29b7-402d-a7ac-8c2163ae2898",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 1학기 추가 등록일정 안내 및 미등록자 안내\u0026gt;\n\nㅁ2023학년도 1학기 정규 등록기간에 등록하지 않은 학생들은 2023. 3. 9.(목)부터 2023. 3. 13.(월) 까지 추가 등록을 실시하오니, 기한 내 등록하여주시기 바랍니다.\nㅁ미등록자 중 휴학을 희망하는 경우 2023. 3. 22.(수)까지 포털에서 신청하고, 행정실로 서류를 제출해주시기 바랍니다.\nㅁ미등록 등으로 인한 제적 대상자들은 2023. 4. 1. 자로 일괄 제적 처리될 예정입니다.",
-    "ts": "1678336558.043119",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1678341076.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "mXbV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 1학기 추가 등록일정 안내 및 미등록자 안내\u003e\n\nㅁ2023학년도 1학기 정규 등록기간에 등록하지 않은 학생들은 2023. 3. 9.(목)부터 2023. 3. 13.(월) 까지 추가 등록을 실시하오니, 기한 내 등록하여주시기 바랍니다.\nㅁ미등록자 중 휴학을 희망하는 경우 2023. 3. 22.(수)까지 포털에서 신청하고, 행정실로 서류를 제출해주시기 바랍니다.\nㅁ미등록 등으로 인한 제적 대상자들은 2023. 4. 1. 자로 일괄 제적 처리될 예정입니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "80df3d17-29b7-402d-a7ac-8c2163ae2898",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 1학기 추가 등록일정 안내 및 미등록자 안내&gt;\n\nㅁ2023학년도 1학기 정규 등록기간에 등록하지 않은 학생들은 2023. 3. 9.(목)부터 2023. 3. 13.(월) 까지 추가 등록을 실시하오니, 기한 내 등록하여주시기 바랍니다.\nㅁ미등록자 중 휴학을 희망하는 경우 2023. 3. 22.(수)까지 포털에서 신청하고, 행정실로 서류를 제출해주시기 바랍니다.\nㅁ미등록 등으로 인한 제적 대상자들은 2023. 4. 1. 자로 일괄 제적 처리될 예정입니다.",
+			"ts": "1678336558.043119",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1678341076.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "mXbV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 1학기 추가 등록일정 안내 및 미등록자 안내>\n\nㅁ2023학년도 1학기 정규 등록기간에 등록하지 않은 학생들은 2023. 3. 9.(목)부터 2023. 3. 13.(월) 까지 추가 등록을 실시하오니, 기한 내 등록하여주시기 바랍니다.\nㅁ미등록자 중 휴학을 희망하는 경우 2023. 3. 22.(수)까지 포털에서 신청하고, 행정실로 서류를 제출해주시기 바랍니다.\nㅁ미등록 등으로 인한 제적 대상자들은 2023. 4. 1. 자로 일괄 제적 처리될 예정입니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

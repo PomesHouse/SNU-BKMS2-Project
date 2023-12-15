@@ -1,233 +1,235 @@
-[
-  {
-    "client_msg_id": "2905165c-5dd3-4fb5-b1b4-9fd262e6d8d3",
-    "type": "message",
-    "user": "U02ULBHV58W",
-    "text": ":coffee: [커피위원회]\n 고생하여 주신 \u003c@U01PVEU1A07\u003e 님으로부터 3층 탕비실 커피머신 관리자 역할을 인계받은 3기 석사과정 이승주라고 합니다. 우리 데이터사이언스학과에서는 해당 커피머신을 학생들의 자발적인 모금과 노력으로 운영하고 있습니다. 아래와 같이 1) 운영비 지출 내역과 함께 2) 운영 비용 모금을 위한 공지를 드리고자 합니다.\n\n1)운영비 지출 :money_with_wings:\n\u0026gt; • *금액: 29,300원*\n\u0026gt; • 내역: 곰곰 콜롬비아 블렌드 1kg 2봉 (기존 원두와 동일)\n\u0026gt; • 커피위원회 운영비 현황: \u003chttps://docs.google.com/spreadsheets/d/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA/edit#gid=0|링크\u003e \n2)운영비 모금 참여 :seedling:\n 해당 커피머신은 *\"자발적\"* 인 저희 학생들의 모금에 따라 운영중이므로 *운영 참여 여부, 참여 금액 모두 강제가 아닙니다.* 참여하실 분들은 아래와 같이 1) 계좌이체 2) 카카오페이 QR코드 송금 둘 중 편하신 방법으로 참여하시면 됩니다.\n\u0026gt; • 계좌이체 : 신한 이승주 110-403-370890\n\u0026gt; • 카카오페이 송금: 아래 QR코드로 송금\n\u0026gt; • 송금 후 \u003c@U02ULBHV58W\u003e DM 보내주시면 감사하겠습니다 :email:\n\u0026gt; • 운영비 관리를 위해 가급적 5천원 단위로 참여해 주시면 감사하겠습니다. \n기타 커피위원회 운영과 관련하여 의견 있으시다면 댓글이나 DM 부탁드리겠습니다. :slightly_smiling_face:",
-    "ts": "1648125594.711049",
-    "files": [
-      {
-        "id": "F0396PS828Y",
-        "created": 1648125446,
-        "timestamp": 1648125446,
-        "name": "KakaoPay_QR_ro_Don_bone_juseo_1648124066852.png",
-        "title": "KakaoPay_QR_ro_Don_bone_juseo_1648124066852.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U02ULBHV58W",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 43209,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0396PS828Y-KakaoPay_QR_ro_Don_bone_juseo_1648124066852.png",
-        "url_private_download": "attachments/F0396PS828Y-KakaoPay_QR_ro_Don_bone_juseo_1648124066852.png",
-        "original_h": 900,
-        "original_w": 600,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 240,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_480.png",
-        "thumb_480_w": 320,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_720.png",
-        "thumb_720_w": 480,
-        "thumb_720_h": 720,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U02ULBHV58W/F0396PS828Y/kakaopay_qr_ro_don_bone_juseo_1648124066852.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0396PS828Y-bb1e585b4c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 6,
-        "users": [
-          "U01PVEU1A07",
-          "U02V5LS84JV",
-          "U02UQ4CMR7X",
-          "U02UVAT3BPW",
-          "U02V5LT4DLZ",
-          "U01QV1PBKUZ"
-        ]
-      },
-      {
-        "name": "coffee",
-        "count": 5,
-        "users": [
-          "U01PVEU1A07",
-          "U02V5LS84JV",
-          "U02UQ4CKE2H",
-          "U02UVAT3BPW",
-          "U02V5LTKMPT"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 7,
-        "users": [
-          "U01QGD03WUC",
-          "U01QV1WAPL1",
-          "U01Q9KXMSF8",
-          "U01QNSM488Z",
-          "U01QV1PBKUZ",
-          "U02UT2UKVEX",
-          "U02ULBJR9GE"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "EyNsD",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "emoji",
-                "name": "coffee",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " [커피위원회]\n 고생하여 주신 "
-              },
-              {
-                "type": "user",
-                "user_id": "U01PVEU1A07"
-              },
-              {
-                "type": "text",
-                "text": " 님으로부터 3층 탕비실 커피머신 관리자 역할을 인계받은 3기 석사과정 이승주라고 합니다. 우리 데이터사이언스학과에서는 해당 커피머신을 학생들의 자발적인 모금과 노력으로 운영하고 있습니다. 아래와 같이 1) 운영비 지출 내역과 함께 2) 운영 비용 모금을 위한 공지를 드리고자 합니다.\n\n1)운영비 지출 "
-              },
-              {
-                "type": "emoji",
-                "name": "money_with_wings",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae08\\uc561: 29,300\\uc6d0\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub0b4\\uc5ed: \\uacf0\\uacf0 \\ucf5c\\ub86c\\ube44\\uc544 \\ube14\\ub80c\\ub4dc 1kg 2\\ubd09 (\\uae30\\uc874 \\uc6d0\\ub450\\uc640 \\ub3d9\\uc77c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucee4\\ud53c\\uc704\\uc6d0\\ud68c \\uc6b4\\uc601\\ube44 \\ud604\\ud669: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA\\/edit#gid=0\",\"text\":\"\\ub9c1\\ud06c\"},{\"type\":\"text\",\"text\":\" \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n2)운영비 모금 참여 "
-              },
-              {
-                "type": "emoji",
-                "name": "seedling",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n 해당 커피머신은 "
-              },
-              {
-                "type": "text",
-                "text": "\"자발적\" ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "인 저희 학생들의 모금에 따라 운영중이므로 "
-              },
-              {
-                "type": "text",
-                "text": "운영 참여 여부, 참여 금액 모두 강제가 아닙니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 참여하실 분들은 아래와 같이 1) 계좌이체 2) 카카오페이 QR코드 송금 둘 중 편하신 방법으로 참여하시면 됩니다.\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uacc4\\uc88c\\uc774\\uccb4 : \\uc2e0\\ud55c \\uc774\\uc2b9\\uc8fc 110-403-370890\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uce74\\uce74\\uc624\\ud398\\uc774 \\uc1a1\\uae08: \\uc544\\ub798 QR\\ucf54\\ub4dc\\ub85c \\uc1a1\\uae08\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc1a1\\uae08 \\ud6c4 \"},{\"type\":\"user\",\"user_id\":\"U02ULBHV58W\"},{\"type\":\"text\",\"text\":\" DM \\ubcf4\\ub0b4\\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4 \"},{\"type\":\"emoji\",\"name\":\"email\",\"unicode\":\"2709-fe0f\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b4\\uc601\\ube44 \\uad00\\ub9ac\\ub97c \\uc704\\ud574 \\uac00\\uae09\\uc801 5\\ucc9c\\uc6d0 \\ub2e8\\uc704\\ub85c \\ucc38\\uc5ec\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4. \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n기타 커피위원회 운영과 관련하여 의견 있으시다면 댓글이나 DM 부탁드리겠습니다. "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
-      "first_name": "3기_이승주",
-      "real_name": "3기_이승주",
-      "display_name": "3기_이승주",
-      "team": "T01QA5S537V",
-      "name": "lotusist",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "2905165c-5dd3-4fb5-b1b4-9fd262e6d8d3",
+			"type": "message",
+			"user": "U02ULBHV58W",
+			"text": ":coffee: [커피위원회]\n 고생하여 주신 <@U01PVEU1A07> 님으로부터 3층 탕비실 커피머신 관리자 역할을 인계받은 3기 석사과정 이승주라고 합니다. 우리 데이터사이언스학과에서는 해당 커피머신을 학생들의 자발적인 모금과 노력으로 운영하고 있습니다. 아래와 같이 1) 운영비 지출 내역과 함께 2) 운영 비용 모금을 위한 공지를 드리고자 합니다.\n\n1)운영비 지출 :money_with_wings:\n&gt; • *금액: 29,300원*\n&gt; • 내역: 곰곰 콜롬비아 블렌드 1kg 2봉 (기존 원두와 동일)\n&gt; • 커피위원회 운영비 현황: <https://docs.google.com/spreadsheets/d/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA/edit#gid=0|링크> \n2)운영비 모금 참여 :seedling:\n 해당 커피머신은 *\"자발적\"* 인 저희 학생들의 모금에 따라 운영중이므로 *운영 참여 여부, 참여 금액 모두 강제가 아닙니다.* 참여하실 분들은 아래와 같이 1) 계좌이체 2) 카카오페이 QR코드 송금 둘 중 편하신 방법으로 참여하시면 됩니다.\n&gt; • 계좌이체 : 신한 이승주 110-403-370890\n&gt; • 카카오페이 송금: 아래 QR코드로 송금\n&gt; • 송금 후 <@U02ULBHV58W> DM 보내주시면 감사하겠습니다 :email:\n&gt; • 운영비 관리를 위해 가급적 5천원 단위로 참여해 주시면 감사하겠습니다. \n기타 커피위원회 운영과 관련하여 의견 있으시다면 댓글이나 DM 부탁드리겠습니다. :slightly_smiling_face:",
+			"ts": "1648125594.711049",
+			"files": [
+				{
+					"id": "F0396PS828Y",
+					"created": 1648125446,
+					"timestamp": 1648125446,
+					"name": "KakaoPay_QR_ro_Don_bone_juseo_1648124066852.png",
+					"title": "KakaoPay_QR_ro_Don_bone_juseo_1648124066852.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U02ULBHV58W",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 43209,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0396PS828Y-KakaoPay_QR_ro_Don_bone_juseo_1648124066852.png",
+					"url_private_download": "attachments/F0396PS828Y-KakaoPay_QR_ro_Don_bone_juseo_1648124066852.png",
+					"original_h": 900,
+					"original_w": 600,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 240,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_480.png",
+					"thumb_480_w": 320,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0396PS828Y-de3b73a411/kakaopay_qr_ro_don_bone_juseo_1648124066852_720.png",
+					"thumb_720_w": 480,
+					"thumb_720_h": 720,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U02ULBHV58W/F0396PS828Y/kakaopay_qr_ro_don_bone_juseo_1648124066852.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0396PS828Y-bb1e585b4c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 6,
+					"users": [
+						"U01PVEU1A07",
+						"U02V5LS84JV",
+						"U02UQ4CMR7X",
+						"U02UVAT3BPW",
+						"U02V5LT4DLZ",
+						"U01QV1PBKUZ"
+					]
+				},
+				{
+					"name": "coffee",
+					"count": 5,
+					"users": [
+						"U01PVEU1A07",
+						"U02V5LS84JV",
+						"U02UQ4CKE2H",
+						"U02UVAT3BPW",
+						"U02V5LTKMPT"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 7,
+					"users": [
+						"U01QGD03WUC",
+						"U01QV1WAPL1",
+						"U01Q9KXMSF8",
+						"U01QNSM488Z",
+						"U01QV1PBKUZ",
+						"U02UT2UKVEX",
+						"U02ULBJR9GE"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "EyNsD",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "emoji",
+									"name": "coffee",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " [커피위원회]\n 고생하여 주신 "
+								},
+								{
+									"type": "user",
+									"user_id": "U01PVEU1A07"
+								},
+								{
+									"type": "text",
+									"text": " 님으로부터 3층 탕비실 커피머신 관리자 역할을 인계받은 3기 석사과정 이승주라고 합니다. 우리 데이터사이언스학과에서는 해당 커피머신을 학생들의 자발적인 모금과 노력으로 운영하고 있습니다. 아래와 같이 1) 운영비 지출 내역과 함께 2) 운영 비용 모금을 위한 공지를 드리고자 합니다.\n\n1)운영비 지출 "
+								},
+								{
+									"type": "emoji",
+									"name": "money_with_wings",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae08\\uc561: 29,300\\uc6d0\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub0b4\\uc5ed: \\uacf0\\uacf0 \\ucf5c\\ub86c\\ube44\\uc544 \\ube14\\ub80c\\ub4dc 1kg 2\\ubd09 (\\uae30\\uc874 \\uc6d0\\ub450\\uc640 \\ub3d9\\uc77c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucee4\\ud53c\\uc704\\uc6d0\\ud68c \\uc6b4\\uc601\\ube44 \\ud604\\ud669: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA\\/edit#gid=0\",\"text\":\"\\ub9c1\\ud06c\"},{\"type\":\"text\",\"text\":\" \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n2)운영비 모금 참여 "
+								},
+								{
+									"type": "emoji",
+									"name": "seedling",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n 해당 커피머신은 "
+								},
+								{
+									"type": "text",
+									"text": "\"자발적\" ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "인 저희 학생들의 모금에 따라 운영중이므로 "
+								},
+								{
+									"type": "text",
+									"text": "운영 참여 여부, 참여 금액 모두 강제가 아닙니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 참여하실 분들은 아래와 같이 1) 계좌이체 2) 카카오페이 QR코드 송금 둘 중 편하신 방법으로 참여하시면 됩니다.\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uacc4\\uc88c\\uc774\\uccb4 : \\uc2e0\\ud55c \\uc774\\uc2b9\\uc8fc 110-403-370890\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uce74\\uce74\\uc624\\ud398\\uc774 \\uc1a1\\uae08: \\uc544\\ub798 QR\\ucf54\\ub4dc\\ub85c \\uc1a1\\uae08\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc1a1\\uae08 \\ud6c4 \"},{\"type\":\"user\",\"user_id\":\"U02ULBHV58W\"},{\"type\":\"text\",\"text\":\" DM \\ubcf4\\ub0b4\\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4 \"},{\"type\":\"emoji\",\"name\":\"email\",\"unicode\":\"2709-fe0f\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b4\\uc601\\ube44 \\uad00\\ub9ac\\ub97c \\uc704\\ud574 \\uac00\\uae09\\uc801 5\\ucc9c\\uc6d0 \\ub2e8\\uc704\\ub85c \\ucc38\\uc5ec\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4. \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n기타 커피위원회 운영과 관련하여 의견 있으시다면 댓글이나 DM 부탁드리겠습니다. "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+				"first_name": "3기_이승주",
+				"real_name": "3기_이승주",
+				"display_name": "3기_이승주",
+				"team": "T01QA5S537V",
+				"name": "lotusist",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

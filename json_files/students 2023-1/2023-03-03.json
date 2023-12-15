@@ -1,561 +1,563 @@
-[
-  {
-    "client_msg_id": "3aac6941-1aac-44c0-9c7b-918b74d808ad",
-    "type": "message",
-    "user": "U04QGUEEHJ7",
-    "text": "안녕하세요, 혹시 인과추론 수업 줌링크 있으신분 계신가요? 방금 정원외 신청을 확정해서 etl에 등록이 안되어있어서요.",
-    "ts": "1677803448.680549",
-    "thread_ts": "1677803448.680549",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01R678KWP2",
-        "ts": "1677803483.520949"
-      },
-      {
-        "user": "U04QGUEEHJ7",
-        "ts": "1677803493.581299"
-      }
-    ],
-    "latest_reply": "1677803493.581299",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "zZa",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 혹시 인과추론 수업 줌링크 있으신분 계신가요? 방금 정원외 신청을 확정해서 etl에 등록이 안되어있어서요."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/63991833ea38f0f152ef24799d831f0d.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "4기_정상희",
-      "real_name": "4기_정상희",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "run2_you",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01R678KWP2",
-      "U04QGUEEHJ7"
-    ]
-  },
-  {
-    "client_msg_id": "55cf87ed-4b1f-4f3e-ad18-6a3d033b850d",
-    "type": "message",
-    "user": "U01R678KWP2",
-    "text": "\u003chttps://snu-ac-kr.zoom.us/j/98119823621?pwd=cFFjUXdPcVl2c0dqNFB5dWJJa1BmQT09\u003e",
-    "ts": "1677803483.520949",
-    "thread_ts": "1677803448.680549",
-    "parent_user_id": "U04QGUEEHJ7",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "1OR",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "link",
-                "url": "https://snu-ac-kr.zoom.us/j/98119823621?pwd=cFFjUXdPcVl2c0dqNFB5dWJJa1BmQT09",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
-      "first_name": "조동규",
-      "real_name": "조동규",
-      "display_name": "2기_조동규",
-      "team": "T01QA5S537V",
-      "name": "kulupapa1127",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ce3548e3-fe8a-48a8-9c37-0ece68e9e99a",
-    "type": "message",
-    "user": "U04QGUEEHJ7",
-    "text": "감사합니다!!",
-    "ts": "1677803493.581299",
-    "thread_ts": "1677803448.680549",
-    "parent_user_id": "U04QGUEEHJ7",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U01R678KWP2",
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "=8tb",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "감사합니다!!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/63991833ea38f0f152ef24799d831f0d.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "4기_정상희",
-      "real_name": "4기_정상희",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "run2_you",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "a11227c6-890a-4b34-907f-3daacca9dbf1",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "[공지] 공용좌석 안내\n\n안녕하세요 학생회에서 안내드립니다.\n공용좌석은 *대학원 방문객, 연구실 인턴, 교환학생 등 대학원 등록인원 외 인원*을 위한 자리입니다.\n따라서 좌석을 점유하여 사용하는 것은 불가능하며, 하루 단위로 이용하실 수 있는 좌석입니다.\n이미 지정 좌석을 배정 받으신 분들께서는 이 분들을 위해 공용좌석을 비워주시면 감사하겠습니다.\n\n공용 좌석의 경우 아래 이미지에 공용석으로 표시되어있으니 참고 부탁드립니다.\n_연구실 소속 외부 인원분들께 해당 내용 전달해주시면 됩니다:)_\n\n감사합니다.",
-    "ts": "1677820226.171589",
-    "files": [
-      {
-        "id": "F04S98DT15J",
-        "created": 1677820173,
-        "timestamp": 1677820173,
-        "name": "Screenshot 2023-03-03 at 2.06.39 PM.png",
-        "title": "Screenshot 2023-03-03 at 2.06.39 PM.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U02V5LS84JV",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 370866,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04S98DT15J-Screenshot 2023-03-03 at 2.06.39 PM.png",
-        "url_private_download": "attachments/F04S98DT15J-Screenshot 2023-03-03 at 2.06.39 PM.png",
-        "original_h": 1256,
-        "original_w": 2260,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 200,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 267,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 400,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 534,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 569,
-        "permalink": "https://snugsds.slack.com/files/U02V5LS84JV/F04S98DT15J/screenshot_2023-03-03_at_2.06.39_pm.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04S98DT15J-176720b07e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04S06CJMLN",
-        "created": 1677820177,
-        "timestamp": 1677820177,
-        "name": "Screenshot 2023-03-03 at 2.06.50 PM.png",
-        "title": "Screenshot 2023-03-03 at 2.06.50 PM.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U02V5LS84JV",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 160642,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04S06CJMLN-Screenshot 2023-03-03 at 2.06.50 PM.png",
-        "url_private_download": "attachments/F04S06CJMLN-Screenshot 2023-03-03 at 2.06.50 PM.png",
-        "original_h": 1254,
-        "original_w": 2208,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 204,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 273,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 409,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 545,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 582,
-        "permalink": "https://snugsds.slack.com/files/U02V5LS84JV/F04S06CJMLN/screenshot_2023-03-03_at_2.06.50_pm.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04S06CJMLN-a03a48c1f4",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U0302PLQ34Y",
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "L4U",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[공지] 공용좌석 안내\n\n안녕하세요 학생회에서 안내드립니다.\n공용좌석은 "
-              },
-              {
-                "type": "text",
-                "text": "대학원 방문객, 연구실 인턴, 교환학생 등 대학원 등록인원 외 인원",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 위한 자리입니다.\n따라서 좌석을 점유하여 사용하는 것은 불가능하며, 하루 단위로 이용하실 수 있는 좌석입니다.\n이미 지정 좌석을 배정 받으신 분들께서는 이 분들을 위해 공용좌석을 비워주시면 감사하겠습니다.\n\n공용 좌석의 경우 아래 이미지에 공용석으로 표시되어있으니 참고 부탁드립니다.\n"
-              },
-              {
-                "type": "text",
-                "text": "연구실 소속 외부 인원분들께 해당 내용 전달해주시면 됩니다:)",
-                "style": {
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n감사합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d902a9e5-3a33-4b20-bf3a-94b80b1d95e0",
-    "type": "message",
-    "user": "U02ULBH3TEJ",
-    "text": "*[*:rotating_light:*GSDS 단체복 추가 수령 공지*:rotating_light:*]*\n• 수령 대상: 단체복 미 수령자 (38명)\n• 접수 기간: 3월 6일 월요일 오후 6시\n• 신청 링크: \u003chttps://forms.gle/s2qEjzsnnVamxzMT7\u003e\n• :exclamation:대리 수령 및 개봉 후 교환 불가:exclamation:\n기간 내에 단체복을 수령하지 못한 학생들 대상으로 마지막으로 학생회 차원에서 단체복 배부를 할 예정입니다.\n아직 단체복을 수령하지 못한 학생들은 _*3월 6일 다음주 월요일 오후 6시*_ 까지 설문을 작성해주시기 바랍니다.\n이번에 신청하지 못하시면 이후에 수령이 :no_good:*불가능*:x:하니 단체복 수령 계획이 있지만 아직 받지 못하신 분들은 *꼭 3월 6일까지 설문작성해주시기 바랍니다*",
-    "ts": "1677832914.275959",
-    "thread_ts": "1677832914.275959",
-    "attachments": [
-      {
-        "fallback": "Google Forms: Sign-in",
-        "id": 1,
-        "title": "Google Forms: Sign-in",
-        "title_link": "https://forms.gle/s2qEjzsnnVamxzMT7",
-        "text": "Access Google Forms with a personal Google account or Google Workspace account (for business use).",
-        "service_name": "accounts.google.com",
-        "service_icon": "https://accounts.google.com/favicon.ico",
-        "from_url": "https://forms.gle/s2qEjzsnnVamxzMT7",
-        "original_url": "https://forms.gle/s2qEjzsnnVamxzMT7",
-        "blocks": null
-      }
-    ],
-    "edited": {
-      "user": "U02ULBH3TEJ",
-      "ts": "1677832948.000000"
-    },
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U02ULBH3TEJ",
-        "ts": "1678079989.683959"
-      }
-    ],
-    "latest_reply": "1678079989.683959",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 7,
-        "users": [
-          "U0302PLQ34Y",
-          "U01QDA01NN9",
-          "U02V5LT4DLZ",
-          "U02UQ4D8L2Z",
-          "U0406PM050F",
-          "U04R6NQT0SC",
-          "U040MB432JW"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "iTzP",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "rotating_light",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "GSDS 단체복 추가 수령 공지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "rotating_light",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\ub839 \\ub300\\uc0c1: \\ub2e8\\uccb4\\ubcf5 \\ubbf8 \\uc218\\ub839\\uc790 (38\\uba85)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc218 \\uae30\\uac04: 3\\uc6d4 6\\uc77c \\uc6d4\\uc694\\uc77c \\uc624\\ud6c4 6\\uc2dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad \\ub9c1\\ud06c: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/s2qEjzsnnVamxzMT7\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"exclamation\",\"unicode\":\"2757\"},{\"type\":\"text\",\"text\":\"\\ub300\\ub9ac \\uc218\\ub839 \\ubc0f \\uac1c\\ubd09 \\ud6c4 \\uad50\\ud658 \\ubd88\\uac00\"},{\"type\":\"emoji\",\"name\":\"exclamation\",\"unicode\":\"2757\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n기간 내에 단체복을 수령하지 못한 학생들 대상으로 마지막으로 학생회 차원에서 단체복 배부를 할 예정입니다.\n아직 단체복을 수령하지 못한 학생들은"
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "3월 6일 다음주 월요일 오후 6시 ",
-                "style": {
-                  "bold": true,
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "까지 설문을 작성해주시기 바랍니다.\n이번에 신청하지 못하시면 이후에 수령이 "
-              },
-              {
-                "type": "emoji",
-                "name": "no_good",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "불가능",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "x",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "하니 단체복 수령 계획이 있지만 아직 받지 못하신 분들은 "
-              },
-              {
-                "type": "text",
-                "text": "꼭 3월 6일까지 설문작성해주시기 바랍니다",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
-      "first_name": "3기_권유진",
-      "real_name": "3기_권유진",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "ideastraw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U02ULBH3TEJ"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "3aac6941-1aac-44c0-9c7b-918b74d808ad",
+			"type": "message",
+			"user": "U04QGUEEHJ7",
+			"text": "안녕하세요, 혹시 인과추론 수업 줌링크 있으신분 계신가요? 방금 정원외 신청을 확정해서 etl에 등록이 안되어있어서요.",
+			"ts": "1677803448.680549",
+			"thread_ts": "1677803448.680549",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01R678KWP2",
+					"ts": "1677803483.520949"
+				},
+				{
+					"user": "U04QGUEEHJ7",
+					"ts": "1677803493.581299"
+				}
+			],
+			"latest_reply": "1677803493.581299",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "zZa",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 혹시 인과추론 수업 줌링크 있으신분 계신가요? 방금 정원외 신청을 확정해서 etl에 등록이 안되어있어서요."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/63991833ea38f0f152ef24799d831f0d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "4기_정상희",
+				"real_name": "4기_정상희",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "run2_you",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01R678KWP2",
+				"U04QGUEEHJ7"
+			]
+		},
+		{
+			"client_msg_id": "55cf87ed-4b1f-4f3e-ad18-6a3d033b850d",
+			"type": "message",
+			"user": "U01R678KWP2",
+			"text": "<https://snu-ac-kr.zoom.us/j/98119823621?pwd=cFFjUXdPcVl2c0dqNFB5dWJJa1BmQT09>",
+			"ts": "1677803483.520949",
+			"thread_ts": "1677803448.680549",
+			"parent_user_id": "U04QGUEEHJ7",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "1OR",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "link",
+									"url": "https://snu-ac-kr.zoom.us/j/98119823621?pwd=cFFjUXdPcVl2c0dqNFB5dWJJa1BmQT09",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
+				"first_name": "조동규",
+				"real_name": "조동규",
+				"display_name": "2기_조동규",
+				"team": "T01QA5S537V",
+				"name": "kulupapa1127",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ce3548e3-fe8a-48a8-9c37-0ece68e9e99a",
+			"type": "message",
+			"user": "U04QGUEEHJ7",
+			"text": "감사합니다!!",
+			"ts": "1677803493.581299",
+			"thread_ts": "1677803448.680549",
+			"parent_user_id": "U04QGUEEHJ7",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U01R678KWP2",
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "=8tb",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "감사합니다!!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/63991833ea38f0f152ef24799d831f0d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "4기_정상희",
+				"real_name": "4기_정상희",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "run2_you",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "a11227c6-890a-4b34-907f-3daacca9dbf1",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "[공지] 공용좌석 안내\n\n안녕하세요 학생회에서 안내드립니다.\n공용좌석은 *대학원 방문객, 연구실 인턴, 교환학생 등 대학원 등록인원 외 인원*을 위한 자리입니다.\n따라서 좌석을 점유하여 사용하는 것은 불가능하며, 하루 단위로 이용하실 수 있는 좌석입니다.\n이미 지정 좌석을 배정 받으신 분들께서는 이 분들을 위해 공용좌석을 비워주시면 감사하겠습니다.\n\n공용 좌석의 경우 아래 이미지에 공용석으로 표시되어있으니 참고 부탁드립니다.\n_연구실 소속 외부 인원분들께 해당 내용 전달해주시면 됩니다:)_\n\n감사합니다.",
+			"ts": "1677820226.171589",
+			"files": [
+				{
+					"id": "F04S98DT15J",
+					"created": 1677820173,
+					"timestamp": 1677820173,
+					"name": "Screenshot 2023-03-03 at 2.06.39 PM.png",
+					"title": "Screenshot 2023-03-03 at 2.06.39 PM.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U02V5LS84JV",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 370866,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04S98DT15J-Screenshot 2023-03-03 at 2.06.39 PM.png",
+					"url_private_download": "attachments/F04S98DT15J-Screenshot 2023-03-03 at 2.06.39 PM.png",
+					"original_h": 1256,
+					"original_w": 2260,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 200,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 267,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 400,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 534,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04S98DT15J-3a0aba1760/screenshot_2023-03-03_at_2.06.39_pm_1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 569,
+					"permalink": "https://snugsds.slack.com/files/U02V5LS84JV/F04S98DT15J/screenshot_2023-03-03_at_2.06.39_pm.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04S98DT15J-176720b07e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04S06CJMLN",
+					"created": 1677820177,
+					"timestamp": 1677820177,
+					"name": "Screenshot 2023-03-03 at 2.06.50 PM.png",
+					"title": "Screenshot 2023-03-03 at 2.06.50 PM.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U02V5LS84JV",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 160642,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04S06CJMLN-Screenshot 2023-03-03 at 2.06.50 PM.png",
+					"url_private_download": "attachments/F04S06CJMLN-Screenshot 2023-03-03 at 2.06.50 PM.png",
+					"original_h": 1254,
+					"original_w": 2208,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 204,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 273,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 409,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 545,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04S06CJMLN-46420efdb5/screenshot_2023-03-03_at_2.06.50_pm_1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 582,
+					"permalink": "https://snugsds.slack.com/files/U02V5LS84JV/F04S06CJMLN/screenshot_2023-03-03_at_2.06.50_pm.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04S06CJMLN-a03a48c1f4",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U0302PLQ34Y",
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "L4U",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[공지] 공용좌석 안내\n\n안녕하세요 학생회에서 안내드립니다.\n공용좌석은 "
+								},
+								{
+									"type": "text",
+									"text": "대학원 방문객, 연구실 인턴, 교환학생 등 대학원 등록인원 외 인원",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 위한 자리입니다.\n따라서 좌석을 점유하여 사용하는 것은 불가능하며, 하루 단위로 이용하실 수 있는 좌석입니다.\n이미 지정 좌석을 배정 받으신 분들께서는 이 분들을 위해 공용좌석을 비워주시면 감사하겠습니다.\n\n공용 좌석의 경우 아래 이미지에 공용석으로 표시되어있으니 참고 부탁드립니다.\n"
+								},
+								{
+									"type": "text",
+									"text": "연구실 소속 외부 인원분들께 해당 내용 전달해주시면 됩니다:)",
+									"style": {
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n감사합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d902a9e5-3a33-4b20-bf3a-94b80b1d95e0",
+			"type": "message",
+			"user": "U02ULBH3TEJ",
+			"text": "*[*:rotating_light:*GSDS 단체복 추가 수령 공지*:rotating_light:*]*\n• 수령 대상: 단체복 미 수령자 (38명)\n• 접수 기간: 3월 6일 월요일 오후 6시\n• 신청 링크: <https://forms.gle/s2qEjzsnnVamxzMT7>\n• :exclamation:대리 수령 및 개봉 후 교환 불가:exclamation:\n기간 내에 단체복을 수령하지 못한 학생들 대상으로 마지막으로 학생회 차원에서 단체복 배부를 할 예정입니다.\n아직 단체복을 수령하지 못한 학생들은 _*3월 6일 다음주 월요일 오후 6시*_ 까지 설문을 작성해주시기 바랍니다.\n이번에 신청하지 못하시면 이후에 수령이 :no_good:*불가능*:x:하니 단체복 수령 계획이 있지만 아직 받지 못하신 분들은 *꼭 3월 6일까지 설문작성해주시기 바랍니다*",
+			"ts": "1677832914.275959",
+			"thread_ts": "1677832914.275959",
+			"attachments": [
+				{
+					"fallback": "Google Forms: Sign-in",
+					"id": 1,
+					"title": "Google Forms: Sign-in",
+					"title_link": "https://forms.gle/s2qEjzsnnVamxzMT7",
+					"text": "Access Google Forms with a personal Google account or Google Workspace account (for business use).",
+					"service_name": "accounts.google.com",
+					"service_icon": "https://accounts.google.com/favicon.ico",
+					"from_url": "https://forms.gle/s2qEjzsnnVamxzMT7",
+					"original_url": "https://forms.gle/s2qEjzsnnVamxzMT7",
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U02ULBH3TEJ",
+				"ts": "1677832948.000000"
+			},
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U02ULBH3TEJ",
+					"ts": "1678079989.683959"
+				}
+			],
+			"latest_reply": "1678079989.683959",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 7,
+					"users": [
+						"U0302PLQ34Y",
+						"U01QDA01NN9",
+						"U02V5LT4DLZ",
+						"U02UQ4D8L2Z",
+						"U0406PM050F",
+						"U04R6NQT0SC",
+						"U040MB432JW"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "iTzP",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "rotating_light",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "GSDS 단체복 추가 수령 공지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "rotating_light",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\ub839 \\ub300\\uc0c1: \\ub2e8\\uccb4\\ubcf5 \\ubbf8 \\uc218\\ub839\\uc790 (38\\uba85)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc218 \\uae30\\uac04: 3\\uc6d4 6\\uc77c \\uc6d4\\uc694\\uc77c \\uc624\\ud6c4 6\\uc2dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad \\ub9c1\\ud06c: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/s2qEjzsnnVamxzMT7\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"exclamation\",\"unicode\":\"2757\"},{\"type\":\"text\",\"text\":\"\\ub300\\ub9ac \\uc218\\ub839 \\ubc0f \\uac1c\\ubd09 \\ud6c4 \\uad50\\ud658 \\ubd88\\uac00\"},{\"type\":\"emoji\",\"name\":\"exclamation\",\"unicode\":\"2757\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n기간 내에 단체복을 수령하지 못한 학생들 대상으로 마지막으로 학생회 차원에서 단체복 배부를 할 예정입니다.\n아직 단체복을 수령하지 못한 학생들은"
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "3월 6일 다음주 월요일 오후 6시 ",
+									"style": {
+										"bold": true,
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "까지 설문을 작성해주시기 바랍니다.\n이번에 신청하지 못하시면 이후에 수령이 "
+								},
+								{
+									"type": "emoji",
+									"name": "no_good",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "불가능",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "x",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "하니 단체복 수령 계획이 있지만 아직 받지 못하신 분들은 "
+								},
+								{
+									"type": "text",
+									"text": "꼭 3월 6일까지 설문작성해주시기 바랍니다",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+				"first_name": "3기_권유진",
+				"real_name": "3기_권유진",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "ideastraw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U02ULBH3TEJ"
+			]
+		}
+	]
+}

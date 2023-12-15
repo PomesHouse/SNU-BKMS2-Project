@@ -1,144 +1,146 @@
-[
-  {
-    "client_msg_id": "136355e6-bfe0-42b7-bbda-86dc8a93f12e",
-    "type": "message",
-    "user": "U040JBW6THT",
-    "text": "안녕하세요.\n405 세미나 실 앞에 있는 레일등 1개가 수명이 다 되어 깜빡깜빡 거리고 있습니다.\n이에 시설물 고장 바로처리센터에 접수 신고를 하였습니다.\n\n주말이라서 바로 교체는 안되고, 평일에 오셔서 교체해 주시기로 하였습니다.",
-    "ts": "1693734709.361859",
-    "thread_ts": "1693734709.361859",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U040JBW6THT",
-        "ts": "1693815876.165169"
-      }
-    ],
-    "latest_reply": "1693815876.165169",
-    "files": [
-      {
-        "id": "F05RFGV2R9N",
-        "created": 1693734698,
-        "timestamp": 1693734698,
-        "name": "KakaoTalk_20230903_185113593.mp4",
-        "title": "KakaoTalk_20230903_185113593.mp4",
-        "mimetype": "video/mp4",
-        "image_exif_rotation": 0,
-        "filetype": "mp4",
-        "pretty_type": "MPEG 4 비디오",
-        "user": "U040JBW6THT",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2498289,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05RFGV2R9N-KakaoTalk_20230903_185113593.mp4",
-        "url_private_download": "attachments/F05RFGV2R9N-KakaoTalk_20230903_185113593.mp4",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U040JBW6THT/F05RFGV2R9N/kakaotalk_20230903_185113593.mp4",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05RFGV2R9N-a752dcaf12",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 14,
-        "users": [
-          "U02ULBHV58W",
-          "U04QKG4K12Q",
-          "U0302PK342C",
-          "U0406PM050F",
-          "U04QVM3QD41",
-          "U04Q2G35DTR",
-          "U040MB3TGSE",
-          "U0302PHUHME",
-          "U01QZ0NQW5P",
-          "U04R6NS3924",
-          "U02UT1YNY6N",
-          "U0302PLQ34Y",
-          "U040MB432JW",
-          "U02ULBH3TEJ"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "SVUYN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요.\n405 세미나 실 앞에 있는 레일등 1개가 수명이 다 되어 깜빡깜빡 거리고 있습니다.\n이에 시설물 고장 바로처리센터에 접수 신고를 하였습니다.\n\n주말이라서 바로 교체는 안되고, 평일에 오셔서 교체해 주시기로 하였습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/fcee63d923d42aa67a37d02f82ba3a06.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "김병우",
-      "real_name": "김병우",
-      "display_name": "3.5기_김병우",
-      "team": "T01QA5S537V",
-      "name": "byungwoo.kim",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U040JBW6THT"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "136355e6-bfe0-42b7-bbda-86dc8a93f12e",
+			"type": "message",
+			"user": "U040JBW6THT",
+			"text": "안녕하세요.\n405 세미나 실 앞에 있는 레일등 1개가 수명이 다 되어 깜빡깜빡 거리고 있습니다.\n이에 시설물 고장 바로처리센터에 접수 신고를 하였습니다.\n\n주말이라서 바로 교체는 안되고, 평일에 오셔서 교체해 주시기로 하였습니다.",
+			"ts": "1693734709.361859",
+			"thread_ts": "1693734709.361859",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U040JBW6THT",
+					"ts": "1693815876.165169"
+				}
+			],
+			"latest_reply": "1693815876.165169",
+			"files": [
+				{
+					"id": "F05RFGV2R9N",
+					"created": 1693734698,
+					"timestamp": 1693734698,
+					"name": "KakaoTalk_20230903_185113593.mp4",
+					"title": "KakaoTalk_20230903_185113593.mp4",
+					"mimetype": "video/mp4",
+					"image_exif_rotation": 0,
+					"filetype": "mp4",
+					"pretty_type": "MPEG 4 비디오",
+					"user": "U040JBW6THT",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2498289,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05RFGV2R9N-KakaoTalk_20230903_185113593.mp4",
+					"url_private_download": "attachments/F05RFGV2R9N-KakaoTalk_20230903_185113593.mp4",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U040JBW6THT/F05RFGV2R9N/kakaotalk_20230903_185113593.mp4",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05RFGV2R9N-a752dcaf12",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 14,
+					"users": [
+						"U02ULBHV58W",
+						"U04QKG4K12Q",
+						"U0302PK342C",
+						"U0406PM050F",
+						"U04QVM3QD41",
+						"U04Q2G35DTR",
+						"U040MB3TGSE",
+						"U0302PHUHME",
+						"U01QZ0NQW5P",
+						"U04R6NS3924",
+						"U02UT1YNY6N",
+						"U0302PLQ34Y",
+						"U040MB432JW",
+						"U02ULBH3TEJ"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "SVUYN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요.\n405 세미나 실 앞에 있는 레일등 1개가 수명이 다 되어 깜빡깜빡 거리고 있습니다.\n이에 시설물 고장 바로처리센터에 접수 신고를 하였습니다.\n\n주말이라서 바로 교체는 안되고, 평일에 오셔서 교체해 주시기로 하였습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/fcee63d923d42aa67a37d02f82ba3a06.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "김병우",
+				"real_name": "김병우",
+				"display_name": "3.5기_김병우",
+				"team": "T01QA5S537V",
+				"name": "byungwoo.kim",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U040JBW6THT"
+			]
+		}
+	]
+}

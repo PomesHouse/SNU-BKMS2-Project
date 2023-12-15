@@ -1,0 +1,131 @@
+[
+  {
+    "client_msg_id": "73c00f8a-f7f5-4fec-9feb-b52c1bf4eab6",
+    "type": "message",
+    "user": "U040M7VULN7",
+    "text": "*[GSDS 학생회]* 금요일 피자 세미나 | Friday Pizza Seminar :pizza:\n안녕하세요 GSDS 학생회 입니다. :smiley:\n금주 11월 10일 금요일에 :tada:피자 세미나:tada:가 진행됩니다.\n\n#################################\n일시: 11월 10일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n\n발표자 및 발표 주제\n장원영 (이승근 교수님 연구실) : Brain MRI Investigation for Brain Age Prediction\n최현준 (오민환 교수님 연구실) : Cascading Contextual Assortment Bandits\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!",
+    "ts": "1699403330.396399",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pizza",
+        "count": 32,
+        "users": [
+          "U05Q2AZ2DRB",
+          "U04QE49RPV3",
+          "U04QKG4K12Q",
+          "U04QGUET9U3",
+          "U040C40QE6T",
+          "U05QHT64657",
+          "U05Q7MJUTLL",
+          "U05Q2AYAVEH",
+          "U01Q75KNV1T",
+          "U0302PJE83A",
+          "U0302PK342C",
+          "U02UQ4CE0AH",
+          "U04QE49RZ37",
+          "U040ZVCNVU1",
+          "U040M7VULN7",
+          "U040MB3CRS6",
+          "U04QVLEGY3B",
+          "U02V5LTPGRX",
+          "U04R20KG9JM",
+          "U02V5LS84JV",
+          "U05PYK5NMU6",
+          "U05QHT4D15F",
+          "U04Q2G35DTR",
+          "U04QVM3QD41",
+          "U04R6NSR66L",
+          "U05Q7MKR7GC",
+          "U04131QR6MA",
+          "U04R6NT660Y",
+          "U05Q2AZ9AQM",
+          "U02V5LTRU2V",
+          "U02UCD2C9V5",
+          "U02V5LRSE2V"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XIjT4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 학생회]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 금요일 피자 세미나 | Friday Pizza Seminar "
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n안녕하세요 GSDS 학생회 입니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n금주 11월 10일 금요일에 "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "피자 세미나"
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "가 진행됩니다.\n\n#################################\n일시: 11월 10일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n\n발표자 및 발표 주제\n장원영 (이승근 교수님 연구실) : Brain MRI Investigation for Brain Age Prediction\n최현준 (오민환 교수님 연구실) : Cascading Contextual Assortment Bandits\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "허상우",
+      "real_name": "허상우",
+      "display_name": "3.5기_허상우",
+      "team": "T01QA5S537V",
+      "name": "sh10hsw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

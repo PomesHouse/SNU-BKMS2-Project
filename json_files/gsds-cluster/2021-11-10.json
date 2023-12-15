@@ -1,114 +1,116 @@
-[
-  {
-    "client_msg_id": "95dd9204-653d-4c97-902d-e60ab52969d9",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "공지사항\n• titan 노드 중 일부 ( a[08-11] )가 ‘확장형 병렬 컴퓨팅’ 수업용 계정으로 배정되었습니다.   \n    ◦ 학기 종료 후 원상 복구 예정입니다.  \n• 최근 클러스터 사용자가 많아지면서 노드 할당 대기열이 길어지고 있습니다.\n    ◦ GPU를 할당받은 뒤 사용하지 않는 경우가 자주 확인되고 있는데, GPU가 필요없는 경우 #GPU 인자를 0으로 입력하시길 바랍니다. \n    ◦ 간단한 작업이나 디버깅은 a00, b00 노드를 활용해주세요\n    ◦ 무조건 12시간으로 할당 받지 말고  필요한 시간 만큼만 배정을 받은 뒤 다 쓰면 꼭 반납(종료)하시길 바랍니다.  \n    ◦ 얼마나 걸릴지 모르겠으면 launch 명령어 말고 sbatch 명령어를 사용해주세요 \n    ◦ 멀티GPU or 멀티 node를 사용하는 경우 더욱 주의 바랍니다.  \n원활한 서버 사용을 위해 다들 협조 부탁드립니다!!!!",
-    "ts": "1636535780.007000",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 14,
-        "users": [
-          "U01Q3EP0E14",
-          "U01Q75KNV1T",
-          "U01QNSMEY0Z",
-          "U01QNHRHY0L",
-          "U01QAE5BVEX",
-          "U01QNSMDGF3",
-          "U01QAE5DERZ",
-          "U01PVEU1A07",
-          "U01QNMUAUKW",
-          "U01QGKD09K5",
-          "U01Q3EPDBAA",
-          "U01QNJ7PWRX",
-          "U01QNSM5STT",
-          "U01PVET2C31"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 4,
-        "users": [
-          "U01QAE573J7",
-          "U01QNSMDGF3",
-          "U01QV1WAPL1",
-          "U01QNSMC29X"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Xh8",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "공지사항\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"titan \\ub178\\ub4dc \\uc911 \\uc77c\\ubd80 ( a[08-11] )\\uac00 \\u2018\\ud655\\uc7a5\\ud615 \\ubcd1\\ub82c \\ucef4\\ud4e8\\ud305\\u2019 \\uc218\\uc5c5\\uc6a9 \\uacc4\\uc815\\uc73c\\ub85c \\ubc30\\uc815\\ub418\\uc5c8\\uc2b5\\ub2c8\\ub2e4.   \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uae30 \\uc885\\ub8cc \\ud6c4 \\uc6d0\\uc0c1 \\ubcf5\\uad6c \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.  \"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucd5c\\uadfc \\ud074\\ub7ec\\uc2a4\\ud130 \\uc0ac\\uc6a9\\uc790\\uac00 \\ub9ce\\uc544\\uc9c0\\uba74\\uc11c \\ub178\\ub4dc \\ud560\\ub2f9 \\ub300\\uae30\\uc5f4\\uc774 \\uae38\\uc5b4\\uc9c0\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"GPU\\ub97c \\ud560\\ub2f9\\ubc1b\\uc740 \\ub4a4 \\uc0ac\\uc6a9\\ud558\\uc9c0 \\uc54a\\ub294 \\uacbd\\uc6b0\\uac00 \\uc790\\uc8fc \\ud655\\uc778\\ub418\\uace0 \\uc788\\ub294\\ub370, GPU\\uac00 \\ud544\\uc694\\uc5c6\\ub294 \\uacbd\\uc6b0 #GPU \\uc778\\uc790\\ub97c 0\\uc73c\\ub85c \\uc785\\ub825\\ud558\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac04\\ub2e8\\ud55c \\uc791\\uc5c5\\uc774\\ub098 \\ub514\\ubc84\\uae45\\uc740 a00, b00 \\ub178\\ub4dc\\ub97c \\ud65c\\uc6a9\\ud574\\uc8fc\\uc138\\uc694\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubb34\\uc870\\uac74 12\\uc2dc\\uac04\\uc73c\\ub85c \\ud560\\ub2f9 \\ubc1b\\uc9c0 \\ub9d0\\uace0  \\ud544\\uc694\\ud55c \\uc2dc\\uac04 \\ub9cc\\ud07c\\ub9cc \\ubc30\\uc815\\uc744 \\ubc1b\\uc740 \\ub4a4 \\ub2e4 \\uc4f0\\uba74 \\uaf2d \\ubc18\\ub0a9(\\uc885\\ub8cc)\\ud558\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4.  \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5bc\\ub9c8\\ub098 \\uac78\\ub9b4\\uc9c0 \\ubaa8\\ub974\\uaca0\\uc73c\\uba74 launch \\uba85\\ub839\\uc5b4 \\ub9d0\\uace0 sbatch \\uba85\\ub839\\uc5b4\\ub97c \\uc0ac\\uc6a9\\ud574\\uc8fc\\uc138\\uc694 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uba40\\ud2f0GPU or \\uba40\\ud2f0 node\\ub97c \\uc0ac\\uc6a9\\ud558\\ub294 \\uacbd\\uc6b0 \\ub354\\uc6b1 \\uc8fc\\uc758 \\ubc14\\ub78d\\ub2c8\\ub2e4.  \"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n원활한 서버 사용을 위해 다들 협조 부탁드립니다!!!!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "95dd9204-653d-4c97-902d-e60ab52969d9",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "공지사항\n• titan 노드 중 일부 ( a[08-11] )가 ‘확장형 병렬 컴퓨팅’ 수업용 계정으로 배정되었습니다.   \n    ◦ 학기 종료 후 원상 복구 예정입니다.  \n• 최근 클러스터 사용자가 많아지면서 노드 할당 대기열이 길어지고 있습니다.\n    ◦ GPU를 할당받은 뒤 사용하지 않는 경우가 자주 확인되고 있는데, GPU가 필요없는 경우 #GPU 인자를 0으로 입력하시길 바랍니다. \n    ◦ 간단한 작업이나 디버깅은 a00, b00 노드를 활용해주세요\n    ◦ 무조건 12시간으로 할당 받지 말고  필요한 시간 만큼만 배정을 받은 뒤 다 쓰면 꼭 반납(종료)하시길 바랍니다.  \n    ◦ 얼마나 걸릴지 모르겠으면 launch 명령어 말고 sbatch 명령어를 사용해주세요 \n    ◦ 멀티GPU or 멀티 node를 사용하는 경우 더욱 주의 바랍니다.  \n원활한 서버 사용을 위해 다들 협조 부탁드립니다!!!!",
+			"ts": "1636535780.007000",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 14,
+					"users": [
+						"U01Q3EP0E14",
+						"U01Q75KNV1T",
+						"U01QNSMEY0Z",
+						"U01QNHRHY0L",
+						"U01QAE5BVEX",
+						"U01QNSMDGF3",
+						"U01QAE5DERZ",
+						"U01PVEU1A07",
+						"U01QNMUAUKW",
+						"U01QGKD09K5",
+						"U01Q3EPDBAA",
+						"U01QNJ7PWRX",
+						"U01QNSM5STT",
+						"U01PVET2C31"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 4,
+					"users": [
+						"U01QAE573J7",
+						"U01QNSMDGF3",
+						"U01QV1WAPL1",
+						"U01QNSMC29X"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Xh8",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "공지사항\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"titan \\ub178\\ub4dc \\uc911 \\uc77c\\ubd80 ( a[08-11] )\\uac00 \\u2018\\ud655\\uc7a5\\ud615 \\ubcd1\\ub82c \\ucef4\\ud4e8\\ud305\\u2019 \\uc218\\uc5c5\\uc6a9 \\uacc4\\uc815\\uc73c\\ub85c \\ubc30\\uc815\\ub418\\uc5c8\\uc2b5\\ub2c8\\ub2e4.   \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uae30 \\uc885\\ub8cc \\ud6c4 \\uc6d0\\uc0c1 \\ubcf5\\uad6c \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.  \"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucd5c\\uadfc \\ud074\\ub7ec\\uc2a4\\ud130 \\uc0ac\\uc6a9\\uc790\\uac00 \\ub9ce\\uc544\\uc9c0\\uba74\\uc11c \\ub178\\ub4dc \\ud560\\ub2f9 \\ub300\\uae30\\uc5f4\\uc774 \\uae38\\uc5b4\\uc9c0\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"GPU\\ub97c \\ud560\\ub2f9\\ubc1b\\uc740 \\ub4a4 \\uc0ac\\uc6a9\\ud558\\uc9c0 \\uc54a\\ub294 \\uacbd\\uc6b0\\uac00 \\uc790\\uc8fc \\ud655\\uc778\\ub418\\uace0 \\uc788\\ub294\\ub370, GPU\\uac00 \\ud544\\uc694\\uc5c6\\ub294 \\uacbd\\uc6b0 #GPU \\uc778\\uc790\\ub97c 0\\uc73c\\ub85c \\uc785\\ub825\\ud558\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac04\\ub2e8\\ud55c \\uc791\\uc5c5\\uc774\\ub098 \\ub514\\ubc84\\uae45\\uc740 a00, b00 \\ub178\\ub4dc\\ub97c \\ud65c\\uc6a9\\ud574\\uc8fc\\uc138\\uc694\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubb34\\uc870\\uac74 12\\uc2dc\\uac04\\uc73c\\ub85c \\ud560\\ub2f9 \\ubc1b\\uc9c0 \\ub9d0\\uace0  \\ud544\\uc694\\ud55c \\uc2dc\\uac04 \\ub9cc\\ud07c\\ub9cc \\ubc30\\uc815\\uc744 \\ubc1b\\uc740 \\ub4a4 \\ub2e4 \\uc4f0\\uba74 \\uaf2d \\ubc18\\ub0a9(\\uc885\\ub8cc)\\ud558\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4.  \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5bc\\ub9c8\\ub098 \\uac78\\ub9b4\\uc9c0 \\ubaa8\\ub974\\uaca0\\uc73c\\uba74 launch \\uba85\\ub839\\uc5b4 \\ub9d0\\uace0 sbatch \\uba85\\ub839\\uc5b4\\ub97c \\uc0ac\\uc6a9\\ud574\\uc8fc\\uc138\\uc694 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uba40\\ud2f0GPU or \\uba40\\ud2f0 node\\ub97c \\uc0ac\\uc6a9\\ud558\\ub294 \\uacbd\\uc6b0 \\ub354\\uc6b1 \\uc8fc\\uc758 \\ubc14\\ub78d\\ub2c8\\ub2e4.  \"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n원활한 서버 사용을 위해 다들 협조 부탁드립니다!!!!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

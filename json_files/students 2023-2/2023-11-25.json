@@ -1,295 +1,297 @@
-[
-  {
-    "client_msg_id": "abfd2b6a-9cef-4073-97ce-3e2cf784793b",
-    "type": "message",
-    "user": "U04R6NS3924",
-    "text": ":coffee: [커피위원회]\n안녕하세요, 커피위원회입니다:blush: 커피 머신 이용 방법 및 운영비 모금 참여 안내해 드립니다.\n(3층 탕비실에 있는  \"DeLonghi\" 머신은 누구나 자유롭게 사용할 수 있는 공용 머신입니다.)\n\n\n1. 이용 방법 :teapot:\n\u0026gt; • *위치: 3층 탕비실(싱크대 왼쪽)*\n\u0026gt; • 자세한 내용은 하단의 이미지 참고\n2. 운영비 현황:receipt:\n\u0026gt; • *잔액:* 64,490*원*\n\u0026gt; • 운영 내역: \u003chttps://docs.google.com/spreadsheets/d/1QtE3OCjo97Oj2cS77NOB7f36XA0Ihat-6zlSFYourkk/edit?usp=sharing|링크\u003e\n3. 운영비 모금 참여 :seedling:\n커피머신은 저희 학생들의 자발적인 모금에 따라 운영 중입니다. 희망하시는 분은 계좌이체를 통해 모금에 참여할 수 있습니다.\n누락 방지를 위해 송금 후 꼭:sparkles: \u003c@U04R6NS3924\u003e 으로 DM:sparkles:부탁드립니다.\n운영 *참여 여부, 참여 금액 모두 강제가 아닙니다!*\n\u0026gt; • 계좌이체 : 최예은 - 하나은행 36491060849107\n\u0026gt; • 운영비 관리를 위해 가급적 5천원 단위로 참여해 주시면 감사하겠습니다 :)\n+ 기타 커피위원회 운영과 관련한 질문 및 의견도 언제나 환영입니다!(댓글/DM)",
-    "ts": "1700896334.275449",
-    "files": [
-      {
-        "id": "F06764688TX",
-        "created": 1700896298,
-        "timestamp": 1700896298,
-        "name": "커피머신_이용방법_1.jpg",
-        "title": "커피머신_이용방법_1.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U04R6NS3924",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 91671,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F06764688TX-커피머신_이용방법_1.jpg",
-        "url_private_download": "attachments/F06764688TX-커피머신_이용방법_1.jpg",
-        "original_h": 945,
-        "original_w": 720,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 274,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_480.jpg",
-        "thumb_480_w": 366,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_720.jpg",
-        "thumb_720_w": 549,
-        "thumb_720_h": 720,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U04R6NS3924/F06764688TX/__________________________1.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F06764688TX-4ce72d3b12",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F067BFD1RTN",
-        "created": 1700896302,
-        "timestamp": 1700896302,
-        "name": "커피머신_이용방법_2.jpg",
-        "title": "커피머신_이용방법_2.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U04R6NS3924",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 183708,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F067BFD1RTN-커피머신_이용방법_2.jpg",
-        "url_private_download": "attachments/F067BFD1RTN-커피머신_이용방법_2.jpg",
-        "original_h": 1464,
-        "original_w": 1117,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 275,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_480.jpg",
-        "thumb_480_w": 366,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_720.jpg",
-        "thumb_720_w": 549,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_960.jpg",
-        "thumb_960_w": 732,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_1024.jpg",
-        "thumb_1024_w": 781,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U04R6NS3924/F067BFD1RTN/__________________________2.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F067BFD1RTN-f72aadeabd",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U02ULBHV58W",
-          "U02UVATUSLU"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "kDD8u",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "emoji",
-                "name": "coffee",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " [커피위원회]\n안녕하세요, 커피위원회입니다"
-              },
-              {
-                "type": "emoji",
-                "name": "blush",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 커피 머신 이용 방법 및 운영비 모금 참여 안내해 드립니다.\n(3층 탕비실에 있는  \"DeLonghi\" 머신은 누구나 자유롭게 사용할 수 있는 공용 머신입니다.)\n\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc6a9 \\ubc29\\ubc95 \"},{\"type\":\"emoji\",\"name\":\"teapot\",\"unicode\":\"1fad6\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc704\\uce58: 3\\uce35 \\ud0d5\\ube44\\uc2e4(\\uc2f1\\ud06c\\ub300 \\uc67c\\ucabd)\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc790\\uc138\\ud55c \\ub0b4\\uc6a9\\uc740 \\ud558\\ub2e8\\uc758 \\uc774\\ubbf8\\uc9c0 \\ucc38\\uace0\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n2. 운영비 현황"
-              },
-              {
-                "type": "emoji",
-                "name": "receipt",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc794\\uc561: \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"64,490\"},{\"type\":\"text\",\"text\":\"\\uc6d0\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b4\\uc601 \\ub0b4\\uc5ed: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1QtE3OCjo97Oj2cS77NOB7f36XA0Ihat-6zlSFYourkk\\/edit?usp=sharing\",\"text\":\"\\ub9c1\\ud06c\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n3. 운영비 모금 참여 "
-              },
-              {
-                "type": "emoji",
-                "name": "seedling",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n커피머신은 저희 학생들의 자발적인 모금에 따라 운영 중입니다. 희망하시는 분은 계좌이체를 통해 모금에 참여할 수 있습니다.\n누락 방지를 위해 송금 후 꼭"
-              },
-              {
-                "type": "emoji",
-                "name": "sparkles",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "user",
-                "user_id": "U04R6NS3924"
-              },
-              {
-                "type": "text",
-                "text": " 으로 DM"
-              },
-              {
-                "type": "emoji",
-                "name": "sparkles",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "부탁드립니다.\n운영"
-              },
-              {
-                "type": "text",
-                "text": " 참여 여부, 참여 금액 모두 강제가 아닙니다!",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uacc4\\uc88c\\uc774\\uccb4 : \\ucd5c\\uc608\\uc740 - \\ud558\\ub098\\uc740\\ud589 36491060849107\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b4\\uc601\\ube44 \\uad00\\ub9ac\\ub97c \\uc704\\ud574 \\uac00\\uae09\\uc801 5\\ucc9c\\uc6d0 \\ub2e8\\uc704\\ub85c \\ucc38\\uc5ec\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4 :)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n+ 기타 커피위원회 운영과 관련한 질문 및 의견도 언제나 환영입니다!(댓글/DM)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f0955652181e10e386c6983adf4f176a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
-      "first_name": "4기_최예은",
-      "real_name": "4기_최예은",
-      "display_name": "4기_최예은",
-      "team": "T01QA5S537V",
-      "name": "greenrosiechoi",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "abfd2b6a-9cef-4073-97ce-3e2cf784793b",
+			"type": "message",
+			"user": "U04R6NS3924",
+			"text": ":coffee: [커피위원회]\n안녕하세요, 커피위원회입니다:blush: 커피 머신 이용 방법 및 운영비 모금 참여 안내해 드립니다.\n(3층 탕비실에 있는  \"DeLonghi\" 머신은 누구나 자유롭게 사용할 수 있는 공용 머신입니다.)\n\n\n1. 이용 방법 :teapot:\n&gt; • *위치: 3층 탕비실(싱크대 왼쪽)*\n&gt; • 자세한 내용은 하단의 이미지 참고\n2. 운영비 현황:receipt:\n&gt; • *잔액:* 64,490*원*\n&gt; • 운영 내역: <https://docs.google.com/spreadsheets/d/1QtE3OCjo97Oj2cS77NOB7f36XA0Ihat-6zlSFYourkk/edit?usp=sharing|링크>\n3. 운영비 모금 참여 :seedling:\n커피머신은 저희 학생들의 자발적인 모금에 따라 운영 중입니다. 희망하시는 분은 계좌이체를 통해 모금에 참여할 수 있습니다.\n누락 방지를 위해 송금 후 꼭:sparkles: <@U04R6NS3924> 으로 DM:sparkles:부탁드립니다.\n운영 *참여 여부, 참여 금액 모두 강제가 아닙니다!*\n&gt; • 계좌이체 : 최예은 - 하나은행 36491060849107\n&gt; • 운영비 관리를 위해 가급적 5천원 단위로 참여해 주시면 감사하겠습니다 :)\n+ 기타 커피위원회 운영과 관련한 질문 및 의견도 언제나 환영입니다!(댓글/DM)",
+			"ts": "1700896334.275449",
+			"files": [
+				{
+					"id": "F06764688TX",
+					"created": 1700896298,
+					"timestamp": 1700896298,
+					"name": "커피머신_이용방법_1.jpg",
+					"title": "커피머신_이용방법_1.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U04R6NS3924",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 91671,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F06764688TX-커피머신_이용방법_1.jpg",
+					"url_private_download": "attachments/F06764688TX-커피머신_이용방법_1.jpg",
+					"original_h": 945,
+					"original_w": 720,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 274,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_480.jpg",
+					"thumb_480_w": 366,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F06764688TX-63c37f9212/__________________________1_720.jpg",
+					"thumb_720_w": 549,
+					"thumb_720_h": 720,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U04R6NS3924/F06764688TX/__________________________1.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F06764688TX-4ce72d3b12",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F067BFD1RTN",
+					"created": 1700896302,
+					"timestamp": 1700896302,
+					"name": "커피머신_이용방법_2.jpg",
+					"title": "커피머신_이용방법_2.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U04R6NS3924",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 183708,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F067BFD1RTN-커피머신_이용방법_2.jpg",
+					"url_private_download": "attachments/F067BFD1RTN-커피머신_이용방법_2.jpg",
+					"original_h": 1464,
+					"original_w": 1117,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 275,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_480.jpg",
+					"thumb_480_w": 366,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_720.jpg",
+					"thumb_720_w": 549,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_960.jpg",
+					"thumb_960_w": 732,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F067BFD1RTN-fdb4381298/__________________________2_1024.jpg",
+					"thumb_1024_w": 781,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U04R6NS3924/F067BFD1RTN/__________________________2.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F067BFD1RTN-f72aadeabd",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U02ULBHV58W",
+						"U02UVATUSLU"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "kDD8u",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "emoji",
+									"name": "coffee",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " [커피위원회]\n안녕하세요, 커피위원회입니다"
+								},
+								{
+									"type": "emoji",
+									"name": "blush",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 커피 머신 이용 방법 및 운영비 모금 참여 안내해 드립니다.\n(3층 탕비실에 있는  \"DeLonghi\" 머신은 누구나 자유롭게 사용할 수 있는 공용 머신입니다.)\n\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc6a9 \\ubc29\\ubc95 \"},{\"type\":\"emoji\",\"name\":\"teapot\",\"unicode\":\"1fad6\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc704\\uce58: 3\\uce35 \\ud0d5\\ube44\\uc2e4(\\uc2f1\\ud06c\\ub300 \\uc67c\\ucabd)\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc790\\uc138\\ud55c \\ub0b4\\uc6a9\\uc740 \\ud558\\ub2e8\\uc758 \\uc774\\ubbf8\\uc9c0 \\ucc38\\uace0\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n2. 운영비 현황"
+								},
+								{
+									"type": "emoji",
+									"name": "receipt",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc794\\uc561: \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"64,490\"},{\"type\":\"text\",\"text\":\"\\uc6d0\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b4\\uc601 \\ub0b4\\uc5ed: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1QtE3OCjo97Oj2cS77NOB7f36XA0Ihat-6zlSFYourkk\\/edit?usp=sharing\",\"text\":\"\\ub9c1\\ud06c\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n3. 운영비 모금 참여 "
+								},
+								{
+									"type": "emoji",
+									"name": "seedling",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n커피머신은 저희 학생들의 자발적인 모금에 따라 운영 중입니다. 희망하시는 분은 계좌이체를 통해 모금에 참여할 수 있습니다.\n누락 방지를 위해 송금 후 꼭"
+								},
+								{
+									"type": "emoji",
+									"name": "sparkles",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "user",
+									"user_id": "U04R6NS3924"
+								},
+								{
+									"type": "text",
+									"text": " 으로 DM"
+								},
+								{
+									"type": "emoji",
+									"name": "sparkles",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "부탁드립니다.\n운영"
+								},
+								{
+									"type": "text",
+									"text": " 참여 여부, 참여 금액 모두 강제가 아닙니다!",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uacc4\\uc88c\\uc774\\uccb4 : \\ucd5c\\uc608\\uc740 - \\ud558\\ub098\\uc740\\ud589 36491060849107\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b4\\uc601\\ube44 \\uad00\\ub9ac\\ub97c \\uc704\\ud574 \\uac00\\uae09\\uc801 5\\ucc9c\\uc6d0 \\ub2e8\\uc704\\ub85c \\ucc38\\uc5ec\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4 :)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n+ 기타 커피위원회 운영과 관련한 질문 및 의견도 언제나 환영입니다!(댓글/DM)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f0955652181e10e386c6983adf4f176a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+				"first_name": "4기_최예은",
+				"real_name": "4기_최예은",
+				"display_name": "4기_최예은",
+				"team": "T01QA5S537V",
+				"name": "greenrosiechoi",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,149 +1,151 @@
-[
-  {
-    "client_msg_id": "c6485dcb-db85-42d0-b850-60fc936b8d24",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "*[제19회 대한민국 교육박람회]*\n\n안녕하세요? 제 19회 대한민국 교육박람회가 4월 26일부터 28일까지 서울 코엑스에서 열리니 관심있는 분들의 많은 방문 바랍니다!\n\n명칭: 제 19회 대한민국 교육박람회(Korea Educational Technology \u0026amp;         Contents Fair 2022 Education Korea 2022)\n\n웹사이트: \u003chttp://www.educationkorea.kr/introduce/01.php\u003e\n\n기간: 2022년 4월 26일(화)~28일(목)\n\n장소: 서울 코엑스\n\n규모: 420개사 1400부스\n\n주제: 교육이 미래다 “The Future is Education”\n\n주최: (사)한국교육녹색환경연구원, 엑스포럼\n\n후원(예정): 교육부, 과학기술정보통신부, 중소벤처기업부, 서울특별시교육청 외 16개 시.도교육청 등\n\n-------------------------------------------------------------------------------------\n저도 이 행사에 참석하려고 계획 중인데 혹시 같이 방문하시고 싶은 분은 \u003c@U01Q1KFN4JK\u003e 으로 DM주세요!",
-    "ts": "1650249783.610629",
-    "edited": {
-      "user": "U01Q1KFN4JK",
-      "ts": "1650249876.000000"
-    },
-    "files": [
-      {
-        "id": "F03BTJE6Q8J",
-        "created": 1650249773,
-        "timestamp": 1650249773,
-        "name": "EDUCATION KOREA 2022.jpg",
-        "title": "EDUCATION KOREA 2022.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01Q1KFN4JK",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 159051,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03BTJE6Q8J-EDUCATION KOREA 2022.jpg",
-        "url_private_download": "attachments/F03BTJE6Q8J-EDUCATION KOREA 2022.jpg",
-        "original_h": 380,
-        "original_w": 761,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 180,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 240,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 360,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F03BTJE6Q8J/education_korea_2022.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03BTJE6Q8J-e5e0a9c990",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U02UQ4CHX3P",
-          "U02ULBHV58W"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "YSHh",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[제19회 대한민국 교육박람회]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요? 제 19회 대한민국 교육박람회가 4월 26일부터 28일까지 서울 코엑스에서 열리니 관심있는 분들의 많은 방문 바랍니다!\n\n명칭: 제 19회 대한민국 교육박람회(Korea Educational Technology \u0026         Contents Fair 2022 Education Korea 2022)\n\n웹사이트: "
-              },
-              {
-                "type": "link",
-                "url": "http://www.educationkorea.kr/introduce/01.php",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n\n기간: 2022년 4월 26일(화)~28일(목)\n\n장소: 서울 코엑스\n\n규모: 420개사 1400부스\n\n주제: 교육이 미래다 “The Future is Education”\n\n주최: (사)한국교육녹색환경연구원, 엑스포럼\n\n후원(예정): 교육부, 과학기술정보통신부, 중소벤처기업부, 서울특별시교육청 외 16개 시.도교육청 등\n\n-------------------------------------------------------------------------------------\n저도 이 행사에 참석하려고 계획 중인데 혹시 같이 방문하시고 싶은 분은 "
-              },
-              {
-                "type": "user",
-                "user_id": "U01Q1KFN4JK"
-              },
-              {
-                "type": "text",
-                "text": " 으로 DM주세요!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "c6485dcb-db85-42d0-b850-60fc936b8d24",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "*[제19회 대한민국 교육박람회]*\n\n안녕하세요? 제 19회 대한민국 교육박람회가 4월 26일부터 28일까지 서울 코엑스에서 열리니 관심있는 분들의 많은 방문 바랍니다!\n\n명칭: 제 19회 대한민국 교육박람회(Korea Educational Technology &amp;         Contents Fair 2022 Education Korea 2022)\n\n웹사이트: <http://www.educationkorea.kr/introduce/01.php>\n\n기간: 2022년 4월 26일(화)~28일(목)\n\n장소: 서울 코엑스\n\n규모: 420개사 1400부스\n\n주제: 교육이 미래다 “The Future is Education”\n\n주최: (사)한국교육녹색환경연구원, 엑스포럼\n\n후원(예정): 교육부, 과학기술정보통신부, 중소벤처기업부, 서울특별시교육청 외 16개 시.도교육청 등\n\n-------------------------------------------------------------------------------------\n저도 이 행사에 참석하려고 계획 중인데 혹시 같이 방문하시고 싶은 분은 <@U01Q1KFN4JK> 으로 DM주세요!",
+			"ts": "1650249783.610629",
+			"edited": {
+				"user": "U01Q1KFN4JK",
+				"ts": "1650249876.000000"
+			},
+			"files": [
+				{
+					"id": "F03BTJE6Q8J",
+					"created": 1650249773,
+					"timestamp": 1650249773,
+					"name": "EDUCATION KOREA 2022.jpg",
+					"title": "EDUCATION KOREA 2022.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01Q1KFN4JK",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 159051,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03BTJE6Q8J-EDUCATION KOREA 2022.jpg",
+					"url_private_download": "attachments/F03BTJE6Q8J-EDUCATION KOREA 2022.jpg",
+					"original_h": 380,
+					"original_w": 761,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 180,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 240,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03BTJE6Q8J-c97609e0d3/education_korea_2022_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 360,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F03BTJE6Q8J/education_korea_2022.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03BTJE6Q8J-e5e0a9c990",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U02UQ4CHX3P",
+						"U02ULBHV58W"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "YSHh",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[제19회 대한민국 교육박람회]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요? 제 19회 대한민국 교육박람회가 4월 26일부터 28일까지 서울 코엑스에서 열리니 관심있는 분들의 많은 방문 바랍니다!\n\n명칭: 제 19회 대한민국 교육박람회(Korea Educational Technology &         Contents Fair 2022 Education Korea 2022)\n\n웹사이트: "
+								},
+								{
+									"type": "link",
+									"url": "http://www.educationkorea.kr/introduce/01.php",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n\n기간: 2022년 4월 26일(화)~28일(목)\n\n장소: 서울 코엑스\n\n규모: 420개사 1400부스\n\n주제: 교육이 미래다 “The Future is Education”\n\n주최: (사)한국교육녹색환경연구원, 엑스포럼\n\n후원(예정): 교육부, 과학기술정보통신부, 중소벤처기업부, 서울특별시교육청 외 16개 시.도교육청 등\n\n-------------------------------------------------------------------------------------\n저도 이 행사에 참석하려고 계획 중인데 혹시 같이 방문하시고 싶은 분은 "
+								},
+								{
+									"type": "user",
+									"user_id": "U01Q1KFN4JK"
+								},
+								{
+									"type": "text",
+									"text": " 으로 DM주세요!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,125 +1,127 @@
-[
-  {
-    "client_msg_id": "64eec8b3-201d-403d-b084-be1e2cee630b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;S-CARD 시스템 작업으로 인한 순단으로 S-CARD 방문 발급 불가 안내\u0026gt;\nS-CARD 시스템 작업으로 인한 순단으로 S-CARD 방문 발급이 불가능합니다 (NH농협두레문예관 67-201 학생지원센터)\n○ 일시 : 2022. 12. *26.(월)(연장)* 10:00 ~ 18:00\n○ 현황\n 1) ID 기능 카드발급 불가\n    *→ 26일까지 방문 발급 불가능* (NH농협두레문예관 67동 2층 학생지원센터)\n 2) \u003chttp://idt.snu.ac.kr|idt.snu.ac.kr\u003e / \u003chttp://scard.snu.ac.kr|scard.snu.ac.kr\u003e 사용자 로그인은 가능하며 일부 기능 사용 불가\n    *→ 작업 종료시 까지 이용 불가*\n 3) 서울대학교 모바일 APP로그인 후 전자출결시스템 일부 이용 불가\n   *→ 전자출결 정보, 강의정보 조회의 경우 eTL 사용 가능*\n급하게 학생증이 필요하신 분들은 모바일 S-CARD를 활용해주시면 감사하겠습니다\n\n○ 문의: 학생지원과 02-880-5248, 5249, 5061",
-    "ts": "1671769655.492879",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1671785861.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "SGYN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003cS-CARD 시스템 작업으로 인한 순단으로 S-CARD 방문 발급 불가 안내\u003e\nS-CARD 시스템 작업으로 인한 순단으로 S-CARD 방문 발급이 불가능합니다 (NH농협두레문예관 67-201 학생지원센터)\n○ 일시 : 2022. 12. "
-              },
-              {
-                "type": "text",
-                "text": "26.(월)(연장)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 10:00 ~"
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "18:00\n○ 현황\n 1) ID 기능 카드발급 불가\n"
-              },
-              {
-                "type": "text",
-                "text": "    → 26일까지 방문 발급 불가능",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " (NH농협두레문예관 67동 2층 학생지원센터)\n 2) "
-              },
-              {
-                "type": "link",
-                "url": "http://idt.snu.ac.kr",
-                "text": "idt.snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": " / "
-              },
-              {
-                "type": "link",
-                "url": "http://scard.snu.ac.kr",
-                "text": "scard.snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": " 사용자 로그인은 가능하며 일부 기능 사용 불가\n   "
-              },
-              {
-                "type": "text",
-                "text": " → 작업 종료시 까지 이용 불가",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n 3) 서울대학교 모바일 APP로그인 후 전자출결시스템 일부 이용 불가\n   "
-              },
-              {
-                "type": "text",
-                "text": "→ 전자출결 정보, 강의정보 조회의 경우 eTL 사용 가능",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n급하게 학생증이 필요하신 분들은 모바일 S-CARD를 활용해주시면 감사하겠습니다\n\n○ 문의: 학생지원과 02-880-5248, 5249, 5061"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "64eec8b3-201d-403d-b084-be1e2cee630b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;S-CARD 시스템 작업으로 인한 순단으로 S-CARD 방문 발급 불가 안내&gt;\nS-CARD 시스템 작업으로 인한 순단으로 S-CARD 방문 발급이 불가능합니다 (NH농협두레문예관 67-201 학생지원센터)\n○ 일시 : 2022. 12. *26.(월)(연장)* 10:00 ~ 18:00\n○ 현황\n 1) ID 기능 카드발급 불가\n    *→ 26일까지 방문 발급 불가능* (NH농협두레문예관 67동 2층 학생지원센터)\n 2) <http://idt.snu.ac.kr|idt.snu.ac.kr> / <http://scard.snu.ac.kr|scard.snu.ac.kr> 사용자 로그인은 가능하며 일부 기능 사용 불가\n    *→ 작업 종료시 까지 이용 불가*\n 3) 서울대학교 모바일 APP로그인 후 전자출결시스템 일부 이용 불가\n   *→ 전자출결 정보, 강의정보 조회의 경우 eTL 사용 가능*\n급하게 학생증이 필요하신 분들은 모바일 S-CARD를 활용해주시면 감사하겠습니다\n\n○ 문의: 학생지원과 02-880-5248, 5249, 5061",
+			"ts": "1671769655.492879",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1671785861.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "SGYN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<S-CARD 시스템 작업으로 인한 순단으로 S-CARD 방문 발급 불가 안내>\nS-CARD 시스템 작업으로 인한 순단으로 S-CARD 방문 발급이 불가능합니다 (NH농협두레문예관 67-201 학생지원센터)\n○ 일시 : 2022. 12. "
+								},
+								{
+									"type": "text",
+									"text": "26.(월)(연장)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 10:00 ~"
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "18:00\n○ 현황\n 1) ID 기능 카드발급 불가\n"
+								},
+								{
+									"type": "text",
+									"text": "    → 26일까지 방문 발급 불가능",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " (NH농협두레문예관 67동 2층 학생지원센터)\n 2) "
+								},
+								{
+									"type": "link",
+									"url": "http://idt.snu.ac.kr",
+									"text": "idt.snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": " / "
+								},
+								{
+									"type": "link",
+									"url": "http://scard.snu.ac.kr",
+									"text": "scard.snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": " 사용자 로그인은 가능하며 일부 기능 사용 불가\n   "
+								},
+								{
+									"type": "text",
+									"text": " → 작업 종료시 까지 이용 불가",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n 3) 서울대학교 모바일 APP로그인 후 전자출결시스템 일부 이용 불가\n   "
+								},
+								{
+									"type": "text",
+									"text": "→ 전자출결 정보, 강의정보 조회의 경우 eTL 사용 가능",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n급하게 학생증이 필요하신 분들은 모바일 S-CARD를 활용해주시면 감사하겠습니다\n\n○ 문의: 학생지원과 02-880-5248, 5249, 5061"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

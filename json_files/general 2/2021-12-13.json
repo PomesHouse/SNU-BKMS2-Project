@@ -1,538 +1,540 @@
-[
-  {
-    "client_msg_id": "747c3160-78a8-40d4-9043-899f0fcb1603",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 제21회 관악학생생활관 정기음악회 안내\u0026gt;\n\n 서울대학교 관악학생생활관에서는 연말을 맞이하여 포핸즈 피아노 그룹 '벨라앤루카스'와 친구들이 함께하는 라이브 스트리밍 송년 콘서트를 준비하였습니다. 풍성하고 따뜻한 공연을 준비하고 있사오니 많은 학내 구성원들의 많은 참여 바랍니다.\n1. 행사 개요\n  가. 행사명: 벨라앤루카스의 너, 나, 우리\n  나. 대 상: 학내 구성원 및 관악학생생활관 입주자\n  다. 일 시: 2021. 12. 17(금) 20:00 ~ 22:00\n  라. 장 소: Youtube Live(\u003chttps://bit.ly/관악학생생활관2021정기음악회\u003e)\n  마. 출연진: 벨라앤루카스, 밤하늘, 첼로소년, 탁보늬, 정튠, 권상미\n\n2. 참석 및 문의방법\n  가. 참여방법: 포스터의 QR 코드를 통하여 참가, 공연 30분 전부터 입장 가능\n  나. 세부내용: 관악학생생활관 홈페이지(\u003chttps://snudorm.snu.ac.kr/\u003e)  확인 가능\n  다. 문 의: 담당 조교의 이메일(\u003cmailto:snudorm326@gmail.com|snudorm326@gmail.com\u003e)로 연락\n\n관련하여 자세한 내용은 첨부의 포스터 참고 바랍니다 :trumpet:",
-    "ts": "1639357540.117300",
-    "attachments": [
-      {
-        "fallback": "YouTube: 2021 제21회 관악학생생활관 정기음악회: 벨라앤루카스의 너, 나, 우리 2021 Gwanak Residence Halls 21st Regular Music Concert",
-        "id": 1,
-        "title": "2021 제21회 관악학생생활관 정기음악회: 벨라앤루카스의 너, 나, 우리 2021 Gwanak Residence Halls 21st Regular Music Concert",
-        "title_link": "https://bit.ly/관악학생생활관2021정기음악회",
-        "text": "2021년의 끝자락,연말을 맞아 관악학생생활관에서는12월 17일 금요일 저녁 8시 900동 가온홀 그리고 관악학생생활관 유튜브에서 포핸즈 피아노 ‘벨라앤루카스’와 친구들이 함께하는 \"벨라앤루카스의 너, 나, 우리\" 라이브 콘서트를 준비했어요!64만 유튜버 벨라앤루카스의 멋진 듀엣 ...",
-        "image_url": "https://i.ytimg.com/vi/ha1LXSl2810/maxresdefault_live.jpg",
-        "thumb_url": "https://i.ytimg.com/vi/ha1LXSl2810/maxresdefault_live.jpg",
-        "service_name": "YouTube",
-        "service_icon": "https://www.youtube.com/s/desktop/362fb125/img/favicon.ico",
-        "from_url": "https://bit.ly/관악학생생활관2021정기음악회",
-        "original_url": "https://bit.ly/관악학생생활관2021정기음악회",
-        "blocks": null
-      },
-      {
-        "fallback": "관악학생생활관: 관악학생생활관 - 관악학생생활관",
-        "id": 2,
-        "title": "관악학생생활관 - 관악학생생활관",
-        "title_link": "https://snudorm.snu.ac.kr/",
-        "text": "\u003chttps://snudorm.snu.ac.kr/wp-content/uploads/sites/39/2021/06/20210616-3-123mb.mp4\u003e 입사 및 퇴사신청 체력 단련 센터 상담센터 시설이용신청 및 조회 민원/수리접수 주요 시설 연락처 자주묻는질문 입주/퇴거 공지(학생) 더보기 입주/퇴거 공지(가족) 더보기 입주/퇴거 공지(BK) 더보기 주요 공지사항 더보기 주요일정더보기 자료실 더보기 CULTURE 2021 제21회 관악학생생활관 정기음악회 벨라앤루카스의 너, 나, 우리12/17(금) 20시 유튜브 공개\u003chttps://bit.ly/관악학생생활관2021정기음악회\u003e 입주자 여러분들께 다양한 인성, 문화, 교육, 그리고 체육프로그램을 제공함으로써 인격도야의 장을 마련하기 […]",
-        "thumb_url": "https://snudorm.snu.ac.kr/wp-content/uploads/sites/39/2021/03/icon_main01.png",
-        "service_name": "관악학생생활관",
-        "service_icon": "https://snudorm.snu.ac.kr/favicon.ico",
-        "from_url": "https://snudorm.snu.ac.kr/",
-        "original_url": "https://snudorm.snu.ac.kr/",
-        "fields": [
-          {
-            "title": "Est. reading time",
-            "value": "28분",
-            "short": true
-          }
-        ],
-        "blocks": null
-      }
-    ],
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1639357581.000000"
-    },
-    "files": [
-      {
-        "id": "F02QHF6Q5DJ",
-        "created": 1639357510,
-        "timestamp": 1639357510,
-        "name": "제21회 관악학생생활관 정기음악회 포스터.pdf",
-        "title": "제21회 관악학생생활관 정기음악회 포스터.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 8619326,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02QHF6Q5DJ-제21회 관악학생생활관 정기음악회 포스터.pdf",
-        "url_private_download": "attachments/F02QHF6Q5DJ-제21회 관악학생생활관 정기음악회 포스터.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02QHF6Q5DJ/___21___________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02QHF6Q5DJ-4c9a24bff0",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "4j=",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 제21회 관악학생생활관 정기음악회 안내\u003e\n\n 서울대학교 관악학생생활관에서는 연말을 맞이하여 포핸즈 피아노 그룹 '벨라앤루카스'와 친구들이 함께하는 라이브 스트리밍 송년 콘서트를 준비하였습니다. 풍성하고 따뜻한 공연을 준비하고 있사오니 많은 학내 구성원들의 많은 참여 바랍니다.\n1. 행사 개요\n  가. 행사명: 벨라앤루카스의 너, 나, 우리\n  나. 대 상: 학내 구성원 및 관악학생생활관 입주자\n  다. 일 시: 2021. 12. 17(금) 20:00 ~ 22:00\n  라. 장 소: Youtube Live("
-              },
-              {
-                "type": "link",
-                "url": "https://bit.ly/관악학생생활관2021정기음악회",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n  마. 출연진: 벨라앤루카스, 밤하늘, 첼로소년, 탁보늬, 정튠, 권상미\n\n2. 참석 및 문의방법\n  가. 참여방법: 포스터의 QR 코드를 통하여 참가, 공연 30분 전부터 입장 가능\n  나. 세부내용: 관악학생생활관 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "https://snudorm.snu.ac.kr/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")  확인 가능\n  다. 문 의: 담당 조교의 이메일("
-              },
-              {
-                "type": "link",
-                "url": "mailto:snudorm326@gmail.com",
-                "text": "snudorm326@gmail.com"
-              },
-              {
-                "type": "text",
-                "text": ")로 연락\n\n관련하여 자세한 내용은 첨부의 포스터 참고 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "trumpet",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "bee9be8a-087e-4cb7-9677-78c3f2ed32ac",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u003c!channel\u003e* \n\n*2022학년도 데이터사이언스대학원 신입생모집 면접 및 구술고사가 12월 20일 (월요일) 예정되어있습니다.*\n\n관련하여 수험생 인솔, 면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 DM으로 연락주시면 감사하겠습니다 ^^ !!\n\n일시: 2021년 12월 17일 1시간, 20일 11:30~18:00\n장소: 942동 3~4층\n\n ※수당 지급될 예정입니다 ^^ ※",
-    "ts": "1639357816.117800",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1639370627.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "DlubV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2022학년도 데이터사이언스대학원 신입생모집 면접 및 구술고사가 12월 20일 (월요일) 예정되어있습니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n관련하여 수험생 인솔, 면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 DM으로 연락주시면 감사하겠습니다 ^^ !!\n\n일시: 2021년 12월 17일 1시간, 20일 11:30~18:00\n장소: 942동 3~4층\n\n ※수당 지급될 예정입니다 ^^ ※"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "59f60dda-6429-4124-a52b-1392015f32a6",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e\n*\u0026lt;2021학년도 2학기 논문제출 최종심사 \u0026gt;*\n\n2021학년도 2학기 논문 제출 일정 및 내용 관련하여 해당하시는 분들께 DM 및 메일로 자세한 안내 사항 드렸습니다.\n\n일정은 아래와 같습니다.\n\n심사위원 및 진행 스케줄은 지난 예비심사와 동일합니다.\n\n*○최종심사: 2021년 12월 17일 (금요일) 13:00 ~ (12:50분 부터 대기)* \n - 최종 논문 내용 PPT 발표 (제출 논문과 내용이 달라진 경우 심사위원용 논문 4부 지참)\n    *USB에 발표 내용을 담아오셔야 하며 본인 노트북을 이용할 경우 필요한 잭과 면접 장소에서의 연결은 직접* 해주시기 바랍니다.\n - 구술고사포함 면접 시간 총 15분\n\n\n*○종결: 2022년 1월 12일 (수요일)*",
-    "ts": "1639373522.121800",
-    "thread_ts": "1639373522.121800",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1639464325.000000"
-    },
-    "reply_count": 3,
-    "replies": [
-      {
-        "user": "U01Q3EPDBAA",
-        "ts": "1639374053.121900"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1639376095.122100"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1639638673.130400"
-      }
-    ],
-    "latest_reply": "1639638673.130400",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "VCccJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 2학기 논문제출 최종심사 \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2021학년도 2학기 논문 제출 일정 및 내용 관련하여 해당하시는 분들께 DM 및 메일로 자세한 안내 사항 드렸습니다.\n\n일정은 아래와 같습니다.\n\n심사위원 및 진행 스케줄은 지난 예비심사와 동일합니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "○최종심사: 2021년 12월 17일 (금요일) 13:00 ~ (12:50분 부터 대기) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - 최종 논문 내용 PPT 발표 (제출 논문과 내용이 달라진 경우 심사위원용 논문 4부 지참)\n   "
-              },
-              {
-                "type": "text",
-                "text": " USB에 발표 내용을 담아오셔야 하며 본인 노트북을 이용할 경우 필요한 잭과 면접 장소에서의 연결은 직접 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "해주시기 바랍니다.\n - 구술고사포함 면접 시간 총 15분\n\n\n"
-              },
-              {
-                "type": "text",
-                "text": "○종결: 2022년 1월 12일 (수요일)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01Q3EPDBAA",
-      "U01QNJ7PWRX"
-    ]
-  },
-  {
-    "client_msg_id": "d908df6a-bbac-40e5-b46a-ba9f960a0d28",
-    "type": "message",
-    "user": "U01Q3EPDBAA",
-    "text": "1인당 소요시간이 총 15분인가요? 혹은 30분인가요?",
-    "ts": "1639374053.121900",
-    "thread_ts": "1639373522.121800",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "quX",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "1인당 소요시간이 총 15분인가요? 혹은 30분인가요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
-      "first_name": "Junbum",
-      "real_name": "Junbum Lee",
-      "display_name": "1기_이준범",
-      "team": "T01QA5S537V",
-      "name": "beomi",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "989bf427-4462-462f-8337-70aeecd7606d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "15분입니다",
-    "ts": "1639376095.122100",
-    "thread_ts": "1639373522.121800",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 1,
-        "users": [
-          "U01Q3EPDBAA"
-        ]
-      },
-      {
-        "name": "pray",
-        "count": 1,
-        "users": [
-          "U01Q3EPDBAA"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "lmmY",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "15분입니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "176b3ea9-dfc1-4bb9-8422-889dfe0278c6",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e *[공지] 강의실 309호 전자교탁용 PC비번 바꾼 학생분 계시면 DM으로 바꾼 비번 알려주세요 !!*",
-    "ts": "1639377609.123200",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1639377621.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "OXWm/",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " [공지] 강의실 309호 전자교탁용 PC비번 바꾼 학생분 계시면 DM으로 바꾼 비번 알려주세요 !!",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "747c3160-78a8-40d4-9043-899f0fcb1603",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 제21회 관악학생생활관 정기음악회 안내&gt;\n\n 서울대학교 관악학생생활관에서는 연말을 맞이하여 포핸즈 피아노 그룹 '벨라앤루카스'와 친구들이 함께하는 라이브 스트리밍 송년 콘서트를 준비하였습니다. 풍성하고 따뜻한 공연을 준비하고 있사오니 많은 학내 구성원들의 많은 참여 바랍니다.\n1. 행사 개요\n  가. 행사명: 벨라앤루카스의 너, 나, 우리\n  나. 대 상: 학내 구성원 및 관악학생생활관 입주자\n  다. 일 시: 2021. 12. 17(금) 20:00 ~ 22:00\n  라. 장 소: Youtube Live(<https://bit.ly/관악학생생활관2021정기음악회>)\n  마. 출연진: 벨라앤루카스, 밤하늘, 첼로소년, 탁보늬, 정튠, 권상미\n\n2. 참석 및 문의방법\n  가. 참여방법: 포스터의 QR 코드를 통하여 참가, 공연 30분 전부터 입장 가능\n  나. 세부내용: 관악학생생활관 홈페이지(<https://snudorm.snu.ac.kr/>)  확인 가능\n  다. 문 의: 담당 조교의 이메일(<mailto:snudorm326@gmail.com|snudorm326@gmail.com>)로 연락\n\n관련하여 자세한 내용은 첨부의 포스터 참고 바랍니다 :trumpet:",
+			"ts": "1639357540.117300",
+			"attachments": [
+				{
+					"fallback": "YouTube: 2021 제21회 관악학생생활관 정기음악회: 벨라앤루카스의 너, 나, 우리 2021 Gwanak Residence Halls 21st Regular Music Concert",
+					"id": 1,
+					"title": "2021 제21회 관악학생생활관 정기음악회: 벨라앤루카스의 너, 나, 우리 2021 Gwanak Residence Halls 21st Regular Music Concert",
+					"title_link": "https://bit.ly/관악학생생활관2021정기음악회",
+					"text": "2021년의 끝자락,연말을 맞아 관악학생생활관에서는12월 17일 금요일 저녁 8시 900동 가온홀 그리고 관악학생생활관 유튜브에서 포핸즈 피아노 ‘벨라앤루카스’와 친구들이 함께하는 \"벨라앤루카스의 너, 나, 우리\" 라이브 콘서트를 준비했어요!64만 유튜버 벨라앤루카스의 멋진 듀엣 ...",
+					"image_url": "https://i.ytimg.com/vi/ha1LXSl2810/maxresdefault_live.jpg",
+					"thumb_url": "https://i.ytimg.com/vi/ha1LXSl2810/maxresdefault_live.jpg",
+					"service_name": "YouTube",
+					"service_icon": "https://www.youtube.com/s/desktop/362fb125/img/favicon.ico",
+					"from_url": "https://bit.ly/관악학생생활관2021정기음악회",
+					"original_url": "https://bit.ly/관악학생생활관2021정기음악회",
+					"blocks": null
+				},
+				{
+					"fallback": "관악학생생활관: 관악학생생활관 - 관악학생생활관",
+					"id": 2,
+					"title": "관악학생생활관 - 관악학생생활관",
+					"title_link": "https://snudorm.snu.ac.kr/",
+					"text": "<https://snudorm.snu.ac.kr/wp-content/uploads/sites/39/2021/06/20210616-3-123mb.mp4> 입사 및 퇴사신청 체력 단련 센터 상담센터 시설이용신청 및 조회 민원/수리접수 주요 시설 연락처 자주묻는질문 입주/퇴거 공지(학생) 더보기 입주/퇴거 공지(가족) 더보기 입주/퇴거 공지(BK) 더보기 주요 공지사항 더보기 주요일정더보기 자료실 더보기 CULTURE 2021 제21회 관악학생생활관 정기음악회 벨라앤루카스의 너, 나, 우리12/17(금) 20시 유튜브 공개<https://bit.ly/관악학생생활관2021정기음악회> 입주자 여러분들께 다양한 인성, 문화, 교육, 그리고 체육프로그램을 제공함으로써 인격도야의 장을 마련하기 […]",
+					"thumb_url": "https://snudorm.snu.ac.kr/wp-content/uploads/sites/39/2021/03/icon_main01.png",
+					"service_name": "관악학생생활관",
+					"service_icon": "https://snudorm.snu.ac.kr/favicon.ico",
+					"from_url": "https://snudorm.snu.ac.kr/",
+					"original_url": "https://snudorm.snu.ac.kr/",
+					"fields": [
+						{
+							"title": "Est. reading time",
+							"value": "28분",
+							"short": true
+						}
+					],
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1639357581.000000"
+			},
+			"files": [
+				{
+					"id": "F02QHF6Q5DJ",
+					"created": 1639357510,
+					"timestamp": 1639357510,
+					"name": "제21회 관악학생생활관 정기음악회 포스터.pdf",
+					"title": "제21회 관악학생생활관 정기음악회 포스터.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 8619326,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02QHF6Q5DJ-제21회 관악학생생활관 정기음악회 포스터.pdf",
+					"url_private_download": "attachments/F02QHF6Q5DJ-제21회 관악학생생활관 정기음악회 포스터.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02QHF6Q5DJ/___21___________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02QHF6Q5DJ-4c9a24bff0",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "4j=",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 제21회 관악학생생활관 정기음악회 안내>\n\n 서울대학교 관악학생생활관에서는 연말을 맞이하여 포핸즈 피아노 그룹 '벨라앤루카스'와 친구들이 함께하는 라이브 스트리밍 송년 콘서트를 준비하였습니다. 풍성하고 따뜻한 공연을 준비하고 있사오니 많은 학내 구성원들의 많은 참여 바랍니다.\n1. 행사 개요\n  가. 행사명: 벨라앤루카스의 너, 나, 우리\n  나. 대 상: 학내 구성원 및 관악학생생활관 입주자\n  다. 일 시: 2021. 12. 17(금) 20:00 ~ 22:00\n  라. 장 소: Youtube Live("
+								},
+								{
+									"type": "link",
+									"url": "https://bit.ly/관악학생생활관2021정기음악회",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n  마. 출연진: 벨라앤루카스, 밤하늘, 첼로소년, 탁보늬, 정튠, 권상미\n\n2. 참석 및 문의방법\n  가. 참여방법: 포스터의 QR 코드를 통하여 참가, 공연 30분 전부터 입장 가능\n  나. 세부내용: 관악학생생활관 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "https://snudorm.snu.ac.kr/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")  확인 가능\n  다. 문 의: 담당 조교의 이메일("
+								},
+								{
+									"type": "link",
+									"url": "mailto:snudorm326@gmail.com",
+									"text": "snudorm326@gmail.com"
+								},
+								{
+									"type": "text",
+									"text": ")로 연락\n\n관련하여 자세한 내용은 첨부의 포스터 참고 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "trumpet",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "bee9be8a-087e-4cb7-9677-78c3f2ed32ac",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*<!channel>* \n\n*2022학년도 데이터사이언스대학원 신입생모집 면접 및 구술고사가 12월 20일 (월요일) 예정되어있습니다.*\n\n관련하여 수험생 인솔, 면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 DM으로 연락주시면 감사하겠습니다 ^^ !!\n\n일시: 2021년 12월 17일 1시간, 20일 11:30~18:00\n장소: 942동 3~4층\n\n ※수당 지급될 예정입니다 ^^ ※",
+			"ts": "1639357816.117800",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1639370627.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "DlubV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2022학년도 데이터사이언스대학원 신입생모집 면접 및 구술고사가 12월 20일 (월요일) 예정되어있습니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n관련하여 수험생 인솔, 면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 DM으로 연락주시면 감사하겠습니다 ^^ !!\n\n일시: 2021년 12월 17일 1시간, 20일 11:30~18:00\n장소: 942동 3~4층\n\n ※수당 지급될 예정입니다 ^^ ※"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "59f60dda-6429-4124-a52b-1392015f32a6",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel>\n*&lt;2021학년도 2학기 논문제출 최종심사 &gt;*\n\n2021학년도 2학기 논문 제출 일정 및 내용 관련하여 해당하시는 분들께 DM 및 메일로 자세한 안내 사항 드렸습니다.\n\n일정은 아래와 같습니다.\n\n심사위원 및 진행 스케줄은 지난 예비심사와 동일합니다.\n\n*○최종심사: 2021년 12월 17일 (금요일) 13:00 ~ (12:50분 부터 대기)* \n - 최종 논문 내용 PPT 발표 (제출 논문과 내용이 달라진 경우 심사위원용 논문 4부 지참)\n    *USB에 발표 내용을 담아오셔야 하며 본인 노트북을 이용할 경우 필요한 잭과 면접 장소에서의 연결은 직접* 해주시기 바랍니다.\n - 구술고사포함 면접 시간 총 15분\n\n\n*○종결: 2022년 1월 12일 (수요일)*",
+			"ts": "1639373522.121800",
+			"thread_ts": "1639373522.121800",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1639464325.000000"
+			},
+			"reply_count": 3,
+			"replies": [
+				{
+					"user": "U01Q3EPDBAA",
+					"ts": "1639374053.121900"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1639376095.122100"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1639638673.130400"
+				}
+			],
+			"latest_reply": "1639638673.130400",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "VCccJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "<2021학년도 2학기 논문제출 최종심사 >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2021학년도 2학기 논문 제출 일정 및 내용 관련하여 해당하시는 분들께 DM 및 메일로 자세한 안내 사항 드렸습니다.\n\n일정은 아래와 같습니다.\n\n심사위원 및 진행 스케줄은 지난 예비심사와 동일합니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "○최종심사: 2021년 12월 17일 (금요일) 13:00 ~ (12:50분 부터 대기) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - 최종 논문 내용 PPT 발표 (제출 논문과 내용이 달라진 경우 심사위원용 논문 4부 지참)\n   "
+								},
+								{
+									"type": "text",
+									"text": " USB에 발표 내용을 담아오셔야 하며 본인 노트북을 이용할 경우 필요한 잭과 면접 장소에서의 연결은 직접 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "해주시기 바랍니다.\n - 구술고사포함 면접 시간 총 15분\n\n\n"
+								},
+								{
+									"type": "text",
+									"text": "○종결: 2022년 1월 12일 (수요일)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01Q3EPDBAA",
+				"U01QNJ7PWRX"
+			]
+		},
+		{
+			"client_msg_id": "d908df6a-bbac-40e5-b46a-ba9f960a0d28",
+			"type": "message",
+			"user": "U01Q3EPDBAA",
+			"text": "1인당 소요시간이 총 15분인가요? 혹은 30분인가요?",
+			"ts": "1639374053.121900",
+			"thread_ts": "1639373522.121800",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "quX",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "1인당 소요시간이 총 15분인가요? 혹은 30분인가요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
+				"first_name": "Junbum",
+				"real_name": "Junbum Lee",
+				"display_name": "1기_이준범",
+				"team": "T01QA5S537V",
+				"name": "beomi",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "989bf427-4462-462f-8337-70aeecd7606d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "15분입니다",
+			"ts": "1639376095.122100",
+			"thread_ts": "1639373522.121800",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 1,
+					"users": [
+						"U01Q3EPDBAA"
+					]
+				},
+				{
+					"name": "pray",
+					"count": 1,
+					"users": [
+						"U01Q3EPDBAA"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "lmmY",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "15분입니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "176b3ea9-dfc1-4bb9-8422-889dfe0278c6",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> *[공지] 강의실 309호 전자교탁용 PC비번 바꾼 학생분 계시면 DM으로 바꾼 비번 알려주세요 !!*",
+			"ts": "1639377609.123200",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1639377621.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "OXWm/",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " [공지] 강의실 309호 전자교탁용 PC비번 바꾼 학생분 계시면 DM으로 바꾼 비번 알려주세요 !!",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

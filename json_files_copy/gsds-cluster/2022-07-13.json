@@ -1,0 +1,157 @@
+[
+  {
+    "client_msg_id": "00af8cbe-d516-4d14-8d7a-b35bcc0e283a",
+    "type": "message",
+    "user": "U01QAE5A9K5",
+    "text": "*[ 3기 서버 계정 공지 ]* \n\n안녕하세요 GSDS 서버 관리자입니다\n\n3기분들 클러스터 서버 계정 신청 링크 공지합니다\n\u003chttps://docs.google.com/forms/d/e/1FAIpQLSfGIDCP4FQ35ErZHaw2-kARDRbu1qRzJyFqxbllNQiACwf16w/viewform\u003e\n\n• 현재 새로운 클러스터 세팅 중에 있으며 계정은 세팅 이후 일괄 생성 예정입니다 \n    ◦ 7월 22일 전에 신청바랍니다. 이후 신청자는 처리가 늦어질 수 있습니다.\n• 1, 2기 분들은 기존 a,b 클러스터를 사용하고 3기분들은 새로 세팅한 c 클러스터 사용 예정입니다 \n    ◦ 3기 분들만 링크를 통해 신청하시면 됩니다 \n    ◦ 이전 링크를 통해 신청하신 3기분들은 다시 신청하시길 바랍니다\n    ◦ 랩 공용 계정도 c 클러스터로 이동할 예정이며 이는 서버위원회를 통해 재공지 하겠습니다 \n• 현재 랩별로 서버위원회 인원이 한 명씩 있습니다. 신생랩 or 아직 서버 담당 인원이 없는 랩의 경우, 결정해서 저에게 DM 부탁드립니다. 서버위원회 슬랙 채널에 추가하겠습니다.  \n• 서버 사용 매뉴얼은 추후 공지하겠습니다 \n감사합니다 🫡",
+    "ts": "1657728051.086209",
+    "pinned_to": [
+      "C02EVU7MW93"
+    ],
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 13,
+        "users": [
+          "U02UVAT3BPW",
+          "U01QV1WAPL1",
+          "U01Q1KFN4JK",
+          "U01PVEU1A07",
+          "U01QNSM488Z",
+          "U0302PLQ34Y",
+          "U02UCD2C9V5",
+          "U02V5LTPGRX",
+          "U02ULBH3TEJ",
+          "U01Q9KXMSF8",
+          "U02ULBJR9GE",
+          "U02ULBHV58W",
+          "U01QNSMC29X"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 3,
+        "users": [
+          "U02UVAT3BPW",
+          "U0302PK342C",
+          "U02UT2U1PFV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VF=y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[ 3기 서버 계정 공지 ] ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요 GSDS 서버 관리자입니다\n\n3기분들 클러스터 서버 계정 신청 링크 공지합니다\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfGIDCP4FQ35ErZHaw2-kARDRbu1qRzJyFqxbllNQiACwf16w/viewform",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud604\\uc7ac \\uc0c8\\ub85c\\uc6b4 \\ud074\\ub7ec\\uc2a4\\ud130 \\uc138\\ud305 \\uc911\\uc5d0 \\uc788\\uc73c\\uba70 \\uacc4\\uc815\\uc740 \\uc138\\ud305 \\uc774\\ud6c4 \\uc77c\\uad04 \\uc0dd\\uc131 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4 \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"7\\uc6d4 22\\uc77c \\uc804\\uc5d0 \\uc2e0\\uccad\\ubc14\\ub78d\\ub2c8\\ub2e4. \\uc774\\ud6c4 \\uc2e0\\uccad\\uc790\\ub294 \\ucc98\\ub9ac\\uac00 \\ub2a6\\uc5b4\\uc9c8 \\uc218 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1, 2\\uae30 \\ubd84\\ub4e4\\uc740 \\uae30\\uc874 a,b \\ud074\\ub7ec\\uc2a4\\ud130\\ub97c \\uc0ac\\uc6a9\\ud558\\uace0 3\\uae30\\ubd84\\ub4e4\\uc740 \\uc0c8\\ub85c \\uc138\\ud305\\ud55c c \\ud074\\ub7ec\\uc2a4\\ud130 \\uc0ac\\uc6a9 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4 \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"3\\uae30 \\ubd84\\ub4e4\\ub9cc \\ub9c1\\ud06c\\ub97c \\ud1b5\\ud574 \\uc2e0\\uccad\\ud558\\uc2dc\\uba74 \\ub429\\ub2c8\\ub2e4 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc804 \\ub9c1\\ud06c\\ub97c \\ud1b5\\ud574 \\uc2e0\\uccad\\ud558\\uc2e0 3\\uae30\\ubd84\\ub4e4\\uc740 \\ub2e4\\uc2dc \\uc2e0\\uccad\\ud558\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub7a9 \\uacf5\\uc6a9 \\uacc4\\uc815\\ub3c4 c \\ud074\\ub7ec\\uc2a4\\ud130\\ub85c \\uc774\\ub3d9\\ud560 \\uc608\\uc815\\uc774\\uba70 \\uc774\\ub294 \\uc11c\\ubc84\\uc704\\uc6d0\\ud68c\\ub97c \\ud1b5\\ud574 \\uc7ac\\uacf5\\uc9c0 \\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4 \"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud604\\uc7ac \\ub7a9\\ubcc4\\ub85c \\uc11c\\ubc84\\uc704\\uc6d0\\ud68c \\uc778\\uc6d0\\uc774 \\ud55c \\uba85\\uc529 \\uc788\\uc2b5\\ub2c8\\ub2e4. \\uc2e0\\uc0dd\\ub7a9 or \\uc544\\uc9c1 \\uc11c\\ubc84 \\ub2f4\\ub2f9 \\uc778\\uc6d0\\uc774 \\uc5c6\\ub294 \\ub7a9\\uc758 \\uacbd\\uc6b0, \\uacb0\\uc815\\ud574\\uc11c \\uc800\\uc5d0\\uac8c DM \\ubd80\\ud0c1\\ub4dc\\ub9bd\\ub2c8\\ub2e4. \\uc11c\\ubc84\\uc704\\uc6d0\\ud68c \\uc2ac\\ub799 \\ucc44\\ub110\\uc5d0 \\ucd94\\uac00\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.  \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc11c\\ubc84 \\uc0ac\\uc6a9 \\ub9e4\\ub274\\uc5bc\\uc740 \\ucd94\\ud6c4 \\uacf5\\uc9c0\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4 \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n감사합니다 🫡"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "3기_손영준",
+      "real_name": "3기_손영준",
+      "display_name": "3기_손영준",
+      "team": "T01QA5S537V",
+      "name": "jun041577",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

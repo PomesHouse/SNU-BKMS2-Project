@@ -1,0 +1,130 @@
+[
+  {
+    "client_msg_id": "8b3b1b0e-f8ad-4984-895c-344acad27a36",
+    "type": "message",
+    "user": "U040C40QE6T",
+    "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar:pizza:\n안녕하세요 GSDS 학생회 입니다.:smiley:\n금주 10월 13일 금요일에 :tada:피자 세미나:tada:가 진행됩니다.\n\n#################################\n일시: 10월 13일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n\n발표자 및 발표 주제\n송종현 (이재윤 교수님 연구실) : Lightweight Entity Reranking through Comparing Multiple Candidate Embeddings\n\n심규태 (박현우 교수님 연구실) : Predicting success of start-ups using heterogeneous graph neural network\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!",
+    "ts": "1697088547.473149",
+    "thread_ts": "1697088547.473149",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U02UT2VQ9NF",
+        "ts": "1697167415.316659"
+      }
+    ],
+    "latest_reply": "1697167415.316659",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pizza",
+        "count": 27,
+        "users": [
+          "U040C40QE6T",
+          "U0302PHUHME",
+          "U01QV1SQJ57",
+          "U04QGUFBFR9",
+          "U040M7VULN7",
+          "U0406PM050F",
+          "U02UCD1RBNK",
+          "U02UCD0VAS3",
+          "U02UT1XUGFL",
+          "U02UT2UKVEX",
+          "U01QNSM488Z",
+          "U04R20KG9JM",
+          "U04R6NS3924",
+          "U0302PK342C",
+          "U01PVEU98KH",
+          "U04Q2G5MLMD",
+          "U01R67PKD7S",
+          "U04QE49RPV3",
+          "U02UQ4BRJE9",
+          "U01QAE5A9K5",
+          "U02V5LS6USD",
+          "U04R6NT438Q",
+          "U04QGUCSQRZ",
+          "U041GBXK5A4",
+          "U04QGUCLWCB",
+          "U01QGKCT067",
+          "U04QVLEGY3B"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rodnI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar"
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n안녕하세요 GSDS 학생회 입니다."
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n금주 10월 13일 금요일에 "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "피자 세미나"
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "가 진행됩니다.\n\n#################################\n일시: 10월 13일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n\n발표자 및 발표 주제\n송종현 (이재윤 교수님 연구실) : Lightweight Entity Reranking through Comparing Multiple Candidate Embeddings\n\n심규태 (박현우 교수님 연구실) : Predicting success of start-ups using heterogeneous graph neural network\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김채윤",
+      "real_name": "김채윤",
+      "display_name": "3.5기_김채윤",
+      "team": "T01QA5S537V",
+      "name": "golddohyun",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02UT2VQ9NF"
+    ]
+  }
+]

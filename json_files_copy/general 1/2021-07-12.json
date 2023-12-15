@@ -1,0 +1,163 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "2021학년도 2학기 학자금 대출 기본계획\n\n2021학년도 2학기 학자금 대출 기본계획을 아래와 같이 알려드립니다.\n\n  가. 대출금리: *연 1.7%*\n  나. 대출일정 *※ 해당 기간 내 신청은 09:00~24:00, 실행은 09:00~17:00 가능*\n   1) 등록금 대출(일시납)\n     - 신청: 2021. 7. 7.(수) 09:00 ~ 10. 14.(목) 14:00\n     - 실행: 2021. 7. 7.(수) 09:00 ~ 10. 14.(목) 17:00 기간 중 *본교 등록금 수납기간*\n   2) 등록금 대출(분납)\n     - 신청: 2021. 7. 7.(수) 09:00 ~ 11. 18.(목) 18:00\n     - 실행: 2021. 7. 7.(수) 09:00 ~ 11. 19.(금) 17:00 기간 중 *본교 등록금 수납기간*\n   3) 생활비 대출\n     - 신청: 2021. 7. 7.(수) 09:00 ~ 11. 18.(목) 18:00\n     - 실행: 2021. 7. 7.(수) 09:00 ~ 11. 19.(금) 17:00\n\n■ 문의처\n- 재단시스템 관련 문의: 한국장학재단 콜센터 1599-2000\n- 학사정보/수납정보 관련 문의: 장학복지과 02-880-5078, \u003cmailto:snu4u@snu.ac.kr|snu4u@snu.ac.kr\u003e\n- 경영전문대학원, 계약학과(수리정보과학과, 임상의과학과, 공기업정책학과) 재학생: 소속 학과 문의",
+    "ts": "1626050026.124300",
+    "files": [
+      {
+        "id": "F027WGGTKJQ",
+        "created": 1626050013,
+        "timestamp": 1626050013,
+        "name": "2021학년도 2학기 학자금 대출 안내문(공지용).pdf",
+        "title": "2021학년도 2학기 학자금 대출 안내문(공지용).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 141474,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F027WGGTKJQ-2021학년도 2학기 학자금 대출 안내문(공지용).pdf",
+        "url_private_download": "attachments/F027WGGTKJQ-2021학년도 2학기 학자금 대출 안내문(공지용).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F027WGGTKJQ/2021__________2____________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F027WGGTKJQ-8642e40b63",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vopC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2021학년도 2학기 학자금 대출 기본계획\n\n2021학년도 2학기 학자금 대출 기본계획을 아래와 같이 알려드립니다.\n\n  가. 대출금리: "
+              },
+              {
+                "type": "text",
+                "text": "연 1.7%",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  나. 대출일정 "
+              },
+              {
+                "type": "text",
+                "text": "※ 해당 기간 내 신청은 09:00~24:00, 실행은 09:00~17:00 가능",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   1) 등록금 대출(일시납)\n     - 신청: 2021. 7. 7.(수) 09:00 ~ 10. 14.(목) 14:00\n     - 실행: 2021. 7. 7.(수) 09:00 ~ 10. 14.(목) 17:00 기간 중 "
+              },
+              {
+                "type": "text",
+                "text": "본교 등록금 수납기간",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   2) 등록금 대출(분납)\n     - 신청: 2021. 7. 7.(수) 09:00 ~ 11. 18.(목) 18:00\n     - 실행: 2021. 7. 7.(수) 09:00 ~ 11. 19.(금) 17:00 기간 중 "
+              },
+              {
+                "type": "text",
+                "text": "본교 등록금 수납기간",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   3) 생활비 대출\n     - 신청: 2021. 7. 7.(수) 09:00 ~ 11. 18.(목) 18:00\n     - 실행: 2021. 7. 7.(수) 09:00 ~ 11. 19.(금) 17:00\n\n■ 문의처\n- 재단시스템 관련 문의: 한국장학재단 콜센터 1599-2000\n- 학사정보/수납정보 관련 문의: 장학복지과 02-880-5078, "
+              },
+              {
+                "type": "link",
+                "url": "mailto:snu4u@snu.ac.kr",
+                "text": "snu4u@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n- 경영전문대학원, 계약학과(수리정보과학과, 임상의과학과, 공기업정책학과) 재학생: 소속 학과 문의"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

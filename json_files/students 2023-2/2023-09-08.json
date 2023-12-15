@@ -1,143 +1,145 @@
-[
-  {
-    "client_msg_id": "2cc04351-e9c1-415e-8b08-f97291764c94",
-    "type": "message",
-    "user": "U040C40QE6T",
-    "text": "피자세미나에서 남은 피자 942동 4층 탕비실에 뒀습니다~:pizza: :blush:  그리고 오늘 발표자 분들 고생하셨습니다~ :)",
-    "ts": "1694149277.261989",
-    "files": [
-      {
-        "id": "F05RV252Q57",
-        "created": 1694149235,
-        "timestamp": 1694149235,
-        "name": "1694149215948.jpg",
-        "title": "1694149215948.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U040C40QE6T",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 322698,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05RV252Q57-1694149215948.jpg",
-        "url_private_download": "attachments/F05RV252Q57-1694149215948.jpg",
-        "original_h": 1908,
-        "original_w": 4032,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 170,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 227,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 341,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 454,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 485,
-        "permalink": "https://snugsds.slack.com/files/U040C40QE6T/F05RV252Q57/1694149215948.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05RV252Q57-f15704273f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 6,
-        "users": [
-          "U040M7VULN7",
-          "U041B24HMFS",
-          "U0302PLQ34Y",
-          "U040PQB9R1A",
-          "U0406PLJWCX",
-          "U040JBW6THT"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "GL7Z",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "피자세미나에서 남은 피자 942동 4층 탕비실에 뒀습니다~"
-              },
-              {
-                "type": "emoji",
-                "name": "pizza",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "emoji",
-                "name": "blush",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "  그리고 오늘 발표자 분들 고생하셨습니다~ :)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
-      "first_name": "김채윤",
-      "real_name": "김채윤",
-      "display_name": "3.5기_김채윤",
-      "team": "T01QA5S537V",
-      "name": "golddohyun",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "2cc04351-e9c1-415e-8b08-f97291764c94",
+			"type": "message",
+			"user": "U040C40QE6T",
+			"text": "피자세미나에서 남은 피자 942동 4층 탕비실에 뒀습니다~:pizza: :blush:  그리고 오늘 발표자 분들 고생하셨습니다~ :)",
+			"ts": "1694149277.261989",
+			"files": [
+				{
+					"id": "F05RV252Q57",
+					"created": 1694149235,
+					"timestamp": 1694149235,
+					"name": "1694149215948.jpg",
+					"title": "1694149215948.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U040C40QE6T",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 322698,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05RV252Q57-1694149215948.jpg",
+					"url_private_download": "attachments/F05RV252Q57-1694149215948.jpg",
+					"original_h": 1908,
+					"original_w": 4032,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 170,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 227,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 341,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 454,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05RV252Q57-0ed5d075f3/1694149215948_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 485,
+					"permalink": "https://snugsds.slack.com/files/U040C40QE6T/F05RV252Q57/1694149215948.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05RV252Q57-f15704273f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 6,
+					"users": [
+						"U040M7VULN7",
+						"U041B24HMFS",
+						"U0302PLQ34Y",
+						"U040PQB9R1A",
+						"U0406PLJWCX",
+						"U040JBW6THT"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "GL7Z",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "피자세미나에서 남은 피자 942동 4층 탕비실에 뒀습니다~"
+								},
+								{
+									"type": "emoji",
+									"name": "pizza",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "emoji",
+									"name": "blush",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "  그리고 오늘 발표자 분들 고생하셨습니다~ :)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+				"first_name": "김채윤",
+				"real_name": "김채윤",
+				"display_name": "3.5기_김채윤",
+				"team": "T01QA5S537V",
+				"name": "golddohyun",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,302 +1,304 @@
-[
-  {
-    "client_msg_id": "1d370b54-c97d-4219-b83c-0cb050bf0e0d",
-    "type": "message",
-    "user": "U01R688N9BJ",
-    "text": "Alon Halevy의 *2021* ACM *SIGMOD* Edgar F. *Codd Innovations Award talk 입니다.*\nData integration의 의의와 AI와의 관계, 커리어를 어떻게 밟아가는 것이 좋을지에 대한 조언 등 짧지만 깊이있는 내용이 담긴 17분짜리 영상입니다.\n영상을 보시고 Out-of-silo thinking을 가질 수 있는 계기가 되시길 바랍니다.\n\u003chttps://youtu.be/JTztgCPCFDo\u003e",
-    "ts": "1624666585.092900",
-    "attachments": [
-      {
-        "fallback": "YouTube Video: SIGMOD 2021 Codd Innovations Award Talk",
-        "id": 1,
-        "author_name": "Alon Halevy",
-        "author_link": "https://www.youtube.com/c/AlonHalevy",
-        "title": "SIGMOD 2021 Codd Innovations Award Talk",
-        "title_link": "https://youtu.be/JTztgCPCFDo",
-        "thumb_url": "https://i.ytimg.com/vi/JTztgCPCFDo/hqdefault.jpg",
-        "service_name": "YouTube",
-        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
-        "from_url": "https://youtu.be/JTztgCPCFDo",
-        "original_url": "https://youtu.be/JTztgCPCFDo",
-        "blocks": null
-      }
-    ],
-    "edited": {
-      "user": "U01R688N9BJ",
-      "ts": "1624666750.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "grinning",
-        "count": 3,
-        "users": [
-          "U01QDA01NN9",
-          "U01QNJ9BB60",
-          "U01QDANUYVB"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "dZypt",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "Alon Halevy의 "
-              },
-              {
-                "type": "text",
-                "text": "2021",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " ACM "
-              },
-              {
-                "type": "text",
-                "text": "SIGMOD",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " Edgar F. "
-              },
-              {
-                "type": "text",
-                "text": "Codd Innovations Award talk 입니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\nData integration의 의의와 AI와의 관계, 커리어를 어떻게 밟아가는 것이 좋을지에 대한 조언 등 짧지만 깊이있는 내용이 담긴 17분짜리 영상입니다.\n영상을 보시고 Out-of-silo thinking을 가질 수 있는 계기가 되시길 바랍니다.\n"
-              },
-              {
-                "type": "link",
-                "url": "https://youtu.be/JTztgCPCFDo",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
-      "first_name": "Jinwoong",
-      "real_name": "Jinwoong Kim",
-      "display_name": "2기_김진웅",
-      "team": "T01QA5S537V",
-      "name": "qazcde.k",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "03ec069a-b85d-4ad9-a142-a8ca94ed2d14",
-    "type": "message",
-    "user": "U01QNJ98FA8",
-    "text": "안녕하세요\n한 학기 동안 공부하시느라 그리고 1기 선배님들 논자시보시느라 고생 많으셨습니다.\n\n다음주 월화(6.28~29) 코엑스에서 행사가 있는데,\n꽤 알만한 기업들이 다 모여서 서로 사업파트너도 찾고 기술트렌드에 대한 세미나도 여는 행사여서\n오랜만에 학교 밖에 나가서 기분전환도 하고 세상돌아가는 것도 구경하면 좋지 않을까 해서 공유드립니다\n(지인들이 행사에 참여해서 홍보차 ㅎㅎ)\n\n뭐가 많은데, 한번 슥 보니 저 같은 경우는 관심사가\n• UCLA 데니스홍교수 \n• 카카오엔터프라이즈  CEO \n• 하이브 (구 빅히트) CEO \n• 비바리퍼블리카(토스) CEO\n이런 세션 정도나 한번 들어보고,\n\nAWS랑 Microsoft 부스에 잠깐 갔다가,\n현대차 부스에 가면 이번에 인수한 보스턴다이나믹스의 로봇 개 실물을 풀어놓는다길래\n그거나 구경하고 오면 되겠다는 생각이 드네요\n\u003chttps://www.nextrise.co.kr/conference/speaker\u003e\n\n궁금하신점은 dm이나 카톡이나 연락주시면 알아보고 답변드리겠습니다\n혹시 행사장에서 연락주시거나 마주치게되면 시원한 커피한잔씩 드리겠습니다\n\n그럼 편안한 주말되세요",
-    "ts": "1624675049.104600",
-    "thread_ts": "1624675049.104600",
-    "attachments": [
-      {
-        "fallback": "NextRise, Seoul",
-        "id": 1,
-        "title": "NextRise, Seoul",
-        "title_link": "https://www.nextrise.co.kr/conference/speaker",
-        "text": "KDB(Korea Development Bank) \u0026amp; KITA(Korea International Trade Association) host NextRise 2021, Seoul on June 28th and 29th, at COEX, Seoul, with a view to support business collaboration and investments between and among startups and global corporates. Please refer to the official website of NextRise(\u003chttp://www.nextrise.co.kr|www.nextrise.co.kr\u003e) to find out the list of global companies, venture capitals, accelerators and affiliated organizations attending this year.",
-        "image_url": "https://www.nextrise.co.kr/static/img/common/img_share_preview.png",
-        "service_name": "nextrise.co.kr",
-        "service_icon": "https://www.nextrise.co.kr/static/img/common/favicon.ico",
-        "from_url": "https://www.nextrise.co.kr/conference/speaker",
-        "original_url": "https://www.nextrise.co.kr/conference/speaker",
-        "blocks": null
-      }
-    ],
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01PVET2C31",
-        "ts": "1624675275.104900"
-      }
-    ],
-    "latest_reply": "1624675275.104900",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heart",
-        "count": 11,
-        "users": [
-          "U01PVET2C31",
-          "U01R678KWP2",
-          "U01QNSMDGF3",
-          "U01PVETJY87",
-          "U01Q75KNV1T",
-          "U01PVEU69BR",
-          "U01QV1WAPL1",
-          "U01QV1SQJ57",
-          "U01Q386CMKQ",
-          "U01QAE5A9K5",
-          "U01QDANUYVB"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 9,
-        "users": [
-          "U01QNJ9BB60",
-          "U01R719DKK2",
-          "U01QNSMDGF3",
-          "U01QNHEAS0L",
-          "U01QNSM488Z",
-          "U01QV1WAPL1",
-          "U01Q1KFN4JK",
-          "U01QGD17SUU",
-          "U01QDA01NN9"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Bqym",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요\n한 학기 동안 공부하시느라 그리고 1기 선배님들 논자시보시느라 고생 많으셨습니다.\n\n다음주 월화(6.28~29) 코엑스에서 행사가 있는데,\n꽤 알만한 기업들이 다 모여서 서로 사업파트너도 찾고 기술트렌드에 대한 세미나도 여는 행사여서\n오랜만에 학교 밖에 나가서 기분전환도 하고 세상돌아가는 것도 구경하면 좋지 않을까 해서 공유드립니다\n(지인들이 행사에 참여해서 홍보차 ㅎㅎ)\n\n뭐가 많은데, 한번 슥 보니 저 같은 경우는 관심사가\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"UCLA \\ub370\\ub2c8\\uc2a4\\ud64d\\uad50\\uc218 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uce74\\uce74\\uc624\\uc5d4\\ud130\\ud504\\ub77c\\uc774\\uc988  CEO \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud558\\uc774\\ube0c (\\uad6c \\ube45\\ud788\\ud2b8) CEO \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ube44\\ubc14\\ub9ac\\ud37c\\ube14\\ub9ac\\uce74(\\ud1a0\\uc2a4) CEO\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n이런 세션 정도나 한번 들어보고,\n\nAWS랑 Microsoft 부스에 잠깐 갔다가,\n현대차 부스에 가면 이번에 인수한 보스턴다이나믹스의 로봇 개 실물을 풀어놓는다길래\n그거나 구경하고 오면 되겠다는 생각이 드네요\n"
-              },
-              {
-                "type": "link",
-                "url": "https://www.nextrise.co.kr/conference/speaker",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n\n궁금하신점은 dm이나 카톡이나 연락주시면 알아보고 답변드리겠습니다\n혹시 행사장에서 연락주시거나 마주치게되면 시원한 커피한잔씩 드리겠습니다\n\n그럼 편안한 주말되세요"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/55f3d427dbb5a6156e6d28622911b46f.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
-      "first_name": "2기_강제원",
-      "real_name": "2기_강제원",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "zunejw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01PVET2C31"
-    ]
-  },
-  {
-    "client_msg_id": "7a6f76b4-f5be-477d-8721-637c9fab0004",
-    "type": "message",
-    "user": "U01PVET2C31",
-    "text": "좋은 정보공유 감사합니다!",
-    "ts": "1624675275.104900",
-    "thread_ts": "1624675049.104600",
-    "parent_user_id": "U01QNJ98FA8",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01QNSM488Z"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "lFa",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "좋은 정보공유 감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
-      "first_name": "1기_장창섭",
-      "real_name": "1기_장창섭",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "charlie9007",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "1d370b54-c97d-4219-b83c-0cb050bf0e0d",
+			"type": "message",
+			"user": "U01R688N9BJ",
+			"text": "Alon Halevy의 *2021* ACM *SIGMOD* Edgar F. *Codd Innovations Award talk 입니다.*\nData integration의 의의와 AI와의 관계, 커리어를 어떻게 밟아가는 것이 좋을지에 대한 조언 등 짧지만 깊이있는 내용이 담긴 17분짜리 영상입니다.\n영상을 보시고 Out-of-silo thinking을 가질 수 있는 계기가 되시길 바랍니다.\n<https://youtu.be/JTztgCPCFDo>",
+			"ts": "1624666585.092900",
+			"attachments": [
+				{
+					"fallback": "YouTube Video: SIGMOD 2021 Codd Innovations Award Talk",
+					"id": 1,
+					"author_name": "Alon Halevy",
+					"author_link": "https://www.youtube.com/c/AlonHalevy",
+					"title": "SIGMOD 2021 Codd Innovations Award Talk",
+					"title_link": "https://youtu.be/JTztgCPCFDo",
+					"thumb_url": "https://i.ytimg.com/vi/JTztgCPCFDo/hqdefault.jpg",
+					"service_name": "YouTube",
+					"service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+					"from_url": "https://youtu.be/JTztgCPCFDo",
+					"original_url": "https://youtu.be/JTztgCPCFDo",
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U01R688N9BJ",
+				"ts": "1624666750.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "grinning",
+					"count": 3,
+					"users": [
+						"U01QDA01NN9",
+						"U01QNJ9BB60",
+						"U01QDANUYVB"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "dZypt",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "Alon Halevy의 "
+								},
+								{
+									"type": "text",
+									"text": "2021",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " ACM "
+								},
+								{
+									"type": "text",
+									"text": "SIGMOD",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " Edgar F. "
+								},
+								{
+									"type": "text",
+									"text": "Codd Innovations Award talk 입니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\nData integration의 의의와 AI와의 관계, 커리어를 어떻게 밟아가는 것이 좋을지에 대한 조언 등 짧지만 깊이있는 내용이 담긴 17분짜리 영상입니다.\n영상을 보시고 Out-of-silo thinking을 가질 수 있는 계기가 되시길 바랍니다.\n"
+								},
+								{
+									"type": "link",
+									"url": "https://youtu.be/JTztgCPCFDo",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+				"first_name": "Jinwoong",
+				"real_name": "Jinwoong Kim",
+				"display_name": "2기_김진웅",
+				"team": "T01QA5S537V",
+				"name": "qazcde.k",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "03ec069a-b85d-4ad9-a142-a8ca94ed2d14",
+			"type": "message",
+			"user": "U01QNJ98FA8",
+			"text": "안녕하세요\n한 학기 동안 공부하시느라 그리고 1기 선배님들 논자시보시느라 고생 많으셨습니다.\n\n다음주 월화(6.28~29) 코엑스에서 행사가 있는데,\n꽤 알만한 기업들이 다 모여서 서로 사업파트너도 찾고 기술트렌드에 대한 세미나도 여는 행사여서\n오랜만에 학교 밖에 나가서 기분전환도 하고 세상돌아가는 것도 구경하면 좋지 않을까 해서 공유드립니다\n(지인들이 행사에 참여해서 홍보차 ㅎㅎ)\n\n뭐가 많은데, 한번 슥 보니 저 같은 경우는 관심사가\n• UCLA 데니스홍교수 \n• 카카오엔터프라이즈  CEO \n• 하이브 (구 빅히트) CEO \n• 비바리퍼블리카(토스) CEO\n이런 세션 정도나 한번 들어보고,\n\nAWS랑 Microsoft 부스에 잠깐 갔다가,\n현대차 부스에 가면 이번에 인수한 보스턴다이나믹스의 로봇 개 실물을 풀어놓는다길래\n그거나 구경하고 오면 되겠다는 생각이 드네요\n<https://www.nextrise.co.kr/conference/speaker>\n\n궁금하신점은 dm이나 카톡이나 연락주시면 알아보고 답변드리겠습니다\n혹시 행사장에서 연락주시거나 마주치게되면 시원한 커피한잔씩 드리겠습니다\n\n그럼 편안한 주말되세요",
+			"ts": "1624675049.104600",
+			"thread_ts": "1624675049.104600",
+			"attachments": [
+				{
+					"fallback": "NextRise, Seoul",
+					"id": 1,
+					"title": "NextRise, Seoul",
+					"title_link": "https://www.nextrise.co.kr/conference/speaker",
+					"text": "KDB(Korea Development Bank) &amp; KITA(Korea International Trade Association) host NextRise 2021, Seoul on June 28th and 29th, at COEX, Seoul, with a view to support business collaboration and investments between and among startups and global corporates. Please refer to the official website of NextRise(<http://www.nextrise.co.kr|www.nextrise.co.kr>) to find out the list of global companies, venture capitals, accelerators and affiliated organizations attending this year.",
+					"image_url": "https://www.nextrise.co.kr/static/img/common/img_share_preview.png",
+					"service_name": "nextrise.co.kr",
+					"service_icon": "https://www.nextrise.co.kr/static/img/common/favicon.ico",
+					"from_url": "https://www.nextrise.co.kr/conference/speaker",
+					"original_url": "https://www.nextrise.co.kr/conference/speaker",
+					"blocks": null
+				}
+			],
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01PVET2C31",
+					"ts": "1624675275.104900"
+				}
+			],
+			"latest_reply": "1624675275.104900",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heart",
+					"count": 11,
+					"users": [
+						"U01PVET2C31",
+						"U01R678KWP2",
+						"U01QNSMDGF3",
+						"U01PVETJY87",
+						"U01Q75KNV1T",
+						"U01PVEU69BR",
+						"U01QV1WAPL1",
+						"U01QV1SQJ57",
+						"U01Q386CMKQ",
+						"U01QAE5A9K5",
+						"U01QDANUYVB"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 9,
+					"users": [
+						"U01QNJ9BB60",
+						"U01R719DKK2",
+						"U01QNSMDGF3",
+						"U01QNHEAS0L",
+						"U01QNSM488Z",
+						"U01QV1WAPL1",
+						"U01Q1KFN4JK",
+						"U01QGD17SUU",
+						"U01QDA01NN9"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Bqym",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요\n한 학기 동안 공부하시느라 그리고 1기 선배님들 논자시보시느라 고생 많으셨습니다.\n\n다음주 월화(6.28~29) 코엑스에서 행사가 있는데,\n꽤 알만한 기업들이 다 모여서 서로 사업파트너도 찾고 기술트렌드에 대한 세미나도 여는 행사여서\n오랜만에 학교 밖에 나가서 기분전환도 하고 세상돌아가는 것도 구경하면 좋지 않을까 해서 공유드립니다\n(지인들이 행사에 참여해서 홍보차 ㅎㅎ)\n\n뭐가 많은데, 한번 슥 보니 저 같은 경우는 관심사가\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"UCLA \\ub370\\ub2c8\\uc2a4\\ud64d\\uad50\\uc218 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uce74\\uce74\\uc624\\uc5d4\\ud130\\ud504\\ub77c\\uc774\\uc988  CEO \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud558\\uc774\\ube0c (\\uad6c \\ube45\\ud788\\ud2b8) CEO \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ube44\\ubc14\\ub9ac\\ud37c\\ube14\\ub9ac\\uce74(\\ud1a0\\uc2a4) CEO\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n이런 세션 정도나 한번 들어보고,\n\nAWS랑 Microsoft 부스에 잠깐 갔다가,\n현대차 부스에 가면 이번에 인수한 보스턴다이나믹스의 로봇 개 실물을 풀어놓는다길래\n그거나 구경하고 오면 되겠다는 생각이 드네요\n"
+								},
+								{
+									"type": "link",
+									"url": "https://www.nextrise.co.kr/conference/speaker",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n\n궁금하신점은 dm이나 카톡이나 연락주시면 알아보고 답변드리겠습니다\n혹시 행사장에서 연락주시거나 마주치게되면 시원한 커피한잔씩 드리겠습니다\n\n그럼 편안한 주말되세요"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/55f3d427dbb5a6156e6d28622911b46f.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+				"first_name": "2기_강제원",
+				"real_name": "2기_강제원",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "zunejw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01PVET2C31"
+			]
+		},
+		{
+			"client_msg_id": "7a6f76b4-f5be-477d-8721-637c9fab0004",
+			"type": "message",
+			"user": "U01PVET2C31",
+			"text": "좋은 정보공유 감사합니다!",
+			"ts": "1624675275.104900",
+			"thread_ts": "1624675049.104600",
+			"parent_user_id": "U01QNJ98FA8",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01QNSM488Z"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "lFa",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "좋은 정보공유 감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+				"first_name": "1기_장창섭",
+				"real_name": "1기_장창섭",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "charlie9007",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

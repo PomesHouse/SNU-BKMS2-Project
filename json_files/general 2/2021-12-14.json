@@ -1,125 +1,127 @@
-[
-  {
-    "client_msg_id": "e5898f4c-6ba3-4a47-a982-af440350a7b8",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "국제협력본부에서 세계은행(World Bank)과의 협정에 따라 World Bank에서 인턴으로 근무할 프로그램 참가자를 아래와 같이 모집하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발인원: 2명\n  나. 근무처: Office of the Chief Economist of Infrastructure Vice-Presidency at the World Bank\n  다. 인턴기간: 2022년 1월 말 ~ 7월 말(6개월 간)\n  라. 근무형태: 재택근무\n  마. 지원자격\n    1) 학적: 본교 재적생(재학생 및 휴학생 포함)으로 본교에서 1학기 이상 이수한 대학원생\n       * 인턴 프로그램 이수 기간인 2022학년도 1학기에 휴학생이어야 함\n    2) 성적: 재적 학위과정 누적평점평균 대학원 3.3 이상\n    3) 영어 능통자: 영어 능력의 경우 면접에서 검증 예정\n\n  바. 국제협력본부 지원: 인턴지원비(1개월당 50만원) ※ 인턴십 자체는 무급으로 진행 예정\n  사. 지원방법: 아래 서류를 지원 기간 내 담당자에게 이메일 제출 1) 필수 제출서류\n      가) 참가 신청서(첨부양식) 1부\n      나) 영문 자기 소개서(Statement of Purpose, 자유양식) 1부\n      다) 영문 이력서(자유양식) 1부\n      라) 영문 성적증명서 1부\n      마) 개인정보 수집이용 및 제공 동의서 1부\n    2) 참가 신청 서류 제출 기한: 2021. 12. 24.(금) 18:00\n   3) 제출처: 국제협력본부 김현진 담당자(\u003cmailto:rufinahjkim@snu.ac.kr|rufinahjkim@snu.ac.kr\u003e)\n\n관련하여 자세한 내용은 첨부의 안내문 참고 바랍니다. :blob-grin:",
-    "ts": "1639464230.124400",
-    "files": [
-      {
-        "id": "F02QJDT0ACV",
-        "created": 1639464227,
-        "timestamp": 1639464227,
-        "name": "2022년 상반기 세계은행(World Bank) 인턴십 프로그램 공고.zip",
-        "title": "2022년 상반기 세계은행(World Bank) 인턴십 프로그램 공고.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 509082,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02QJDT0ACV-2022년 상반기 세계은행(World Bank) 인턴십 프로그램 공고.zip",
-        "url_private_download": "attachments/F02QJDT0ACV-2022년 상반기 세계은행(World Bank) 인턴십 프로그램 공고.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02QJDT0ACV/2022___________________________world_bank_______________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02QJDT0ACV-362c2ff31b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "QDwg",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "국제협력본부에서 세계은행(World Bank)과의 협정에 따라 World Bank에서 인턴으로 근무할 프로그램 참가자를 아래와 같이 모집하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발인원: 2명\n  나. 근무처: Office of the Chief Economist of Infrastructure Vice-Presidency at the World Bank\n  다. 인턴기간: 2022년 1월 말 ~ 7월 말(6개월 간)\n  라. 근무형태: 재택근무\n  마. 지원자격\n    1) 학적: 본교 재적생(재학생 및 휴학생 포함)으로 본교에서 1학기 이상 이수한 대학원생\n       * 인턴 프로그램 이수 기간인 2022학년도 1학기에 휴학생이어야 함\n    2) 성적: 재적 학위과정 누적평점평균 대학원 3.3 이상\n    3) 영어 능통자: 영어 능력의 경우 면접에서 검증 예정\n\n  바. 국제협력본부 지원: 인턴지원비(1개월당 50만원) ※ 인턴십 자체는 무급으로 진행 예정\n  사. 지원방법: 아래 서류를 지원 기간 내 담당자에게 이메일 제출 1) 필수 제출서류\n      가) 참가 신청서(첨부양식) 1부\n      나) 영문 자기 소개서(Statement of Purpose, 자유양식) 1부\n      다) 영문 이력서(자유양식) 1부\n      라) 영문 성적증명서 1부\n      마) 개인정보 수집이용 및 제공 동의서 1부\n    2) 참가 신청 서류 제출 기한: 2021. 12. 24.(금) 18:00\n   3) 제출처: 국제협력본부 김현진 담당자("
-              },
-              {
-                "type": "link",
-                "url": "mailto:rufinahjkim@snu.ac.kr",
-                "text": "rufinahjkim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n\n관련하여 자세한 내용은 첨부의 안내문 참고 바랍니다. "
-              },
-              {
-                "type": "emoji",
-                "name": "blob-grin",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "e5898f4c-6ba3-4a47-a982-af440350a7b8",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "국제협력본부에서 세계은행(World Bank)과의 협정에 따라 World Bank에서 인턴으로 근무할 프로그램 참가자를 아래와 같이 모집하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발인원: 2명\n  나. 근무처: Office of the Chief Economist of Infrastructure Vice-Presidency at the World Bank\n  다. 인턴기간: 2022년 1월 말 ~ 7월 말(6개월 간)\n  라. 근무형태: 재택근무\n  마. 지원자격\n    1) 학적: 본교 재적생(재학생 및 휴학생 포함)으로 본교에서 1학기 이상 이수한 대학원생\n       * 인턴 프로그램 이수 기간인 2022학년도 1학기에 휴학생이어야 함\n    2) 성적: 재적 학위과정 누적평점평균 대학원 3.3 이상\n    3) 영어 능통자: 영어 능력의 경우 면접에서 검증 예정\n\n  바. 국제협력본부 지원: 인턴지원비(1개월당 50만원) ※ 인턴십 자체는 무급으로 진행 예정\n  사. 지원방법: 아래 서류를 지원 기간 내 담당자에게 이메일 제출 1) 필수 제출서류\n      가) 참가 신청서(첨부양식) 1부\n      나) 영문 자기 소개서(Statement of Purpose, 자유양식) 1부\n      다) 영문 이력서(자유양식) 1부\n      라) 영문 성적증명서 1부\n      마) 개인정보 수집이용 및 제공 동의서 1부\n    2) 참가 신청 서류 제출 기한: 2021. 12. 24.(금) 18:00\n   3) 제출처: 국제협력본부 김현진 담당자(<mailto:rufinahjkim@snu.ac.kr|rufinahjkim@snu.ac.kr>)\n\n관련하여 자세한 내용은 첨부의 안내문 참고 바랍니다. :blob-grin:",
+			"ts": "1639464230.124400",
+			"files": [
+				{
+					"id": "F02QJDT0ACV",
+					"created": 1639464227,
+					"timestamp": 1639464227,
+					"name": "2022년 상반기 세계은행(World Bank) 인턴십 프로그램 공고.zip",
+					"title": "2022년 상반기 세계은행(World Bank) 인턴십 프로그램 공고.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 509082,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02QJDT0ACV-2022년 상반기 세계은행(World Bank) 인턴십 프로그램 공고.zip",
+					"url_private_download": "attachments/F02QJDT0ACV-2022년 상반기 세계은행(World Bank) 인턴십 프로그램 공고.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02QJDT0ACV/2022___________________________world_bank_______________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02QJDT0ACV-362c2ff31b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "QDwg",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "국제협력본부에서 세계은행(World Bank)과의 협정에 따라 World Bank에서 인턴으로 근무할 프로그램 참가자를 아래와 같이 모집하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발인원: 2명\n  나. 근무처: Office of the Chief Economist of Infrastructure Vice-Presidency at the World Bank\n  다. 인턴기간: 2022년 1월 말 ~ 7월 말(6개월 간)\n  라. 근무형태: 재택근무\n  마. 지원자격\n    1) 학적: 본교 재적생(재학생 및 휴학생 포함)으로 본교에서 1학기 이상 이수한 대학원생\n       * 인턴 프로그램 이수 기간인 2022학년도 1학기에 휴학생이어야 함\n    2) 성적: 재적 학위과정 누적평점평균 대학원 3.3 이상\n    3) 영어 능통자: 영어 능력의 경우 면접에서 검증 예정\n\n  바. 국제협력본부 지원: 인턴지원비(1개월당 50만원) ※ 인턴십 자체는 무급으로 진행 예정\n  사. 지원방법: 아래 서류를 지원 기간 내 담당자에게 이메일 제출 1) 필수 제출서류\n      가) 참가 신청서(첨부양식) 1부\n      나) 영문 자기 소개서(Statement of Purpose, 자유양식) 1부\n      다) 영문 이력서(자유양식) 1부\n      라) 영문 성적증명서 1부\n      마) 개인정보 수집이용 및 제공 동의서 1부\n    2) 참가 신청 서류 제출 기한: 2021. 12. 24.(금) 18:00\n   3) 제출처: 국제협력본부 김현진 담당자("
+								},
+								{
+									"type": "link",
+									"url": "mailto:rufinahjkim@snu.ac.kr",
+									"text": "rufinahjkim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n\n관련하여 자세한 내용은 첨부의 안내문 참고 바랍니다. "
+								},
+								{
+									"type": "emoji",
+									"name": "blob-grin",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

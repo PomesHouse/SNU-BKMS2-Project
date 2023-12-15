@@ -1,486 +1,488 @@
-[
-  {
-    "client_msg_id": "4bdd6217-f98d-4887-846d-0de70fa6f291",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;「나라키움 송파복합관사」 관사동 입주자 모집 공고 안내\u0026gt;\n\n한국자산관리공사에서 「나라키움 대학생주택」 관사동에 대하여 붙임과 같이 입주자를 모집한다 하오니 관심 있는 학생들은 참고하시기 바랍니다.\n 가. 모집인원 및 일정\n  1) 모집인원: 관사동 15명(1인 1실)\n  2) 접수기간: 2023. 3. 6.(월) ~ 3. 15.(수)\n  3) 입주자선정 및 입주개시: 2023. 3. 20.(월) ~\n 나. 입주 대상자\n  1순위: 수도권(서울, 경기) 소재 대학교(전문대포함) 재학생\n  2순위: 수도권(서울, 경기) 소재 대학원(전문대포함) 재학생\n  3순위: 대학교 휴학생\n ※ 자세한 사항은 입주자 모집 공고문 참고",
-    "ts": "1678147276.547009",
-    "files": [
-      {
-        "id": "F04T0V09HMX",
-        "created": 1678147050,
-        "timestamp": 1678147050,
-        "name": "붙임1. 나라키움 송파복합관사 관사동 입주자 모집공고.pdf",
-        "title": "붙임1. 나라키움 송파복합관사 관사동 입주자 모집공고.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 261943,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04T0V09HMX-붙임1. 나라키움 송파복합관사 관사동 입주자 모집공고.pdf",
-        "url_private_download": "attachments/F04T0V09HMX-붙임1. 나라키움 송파복합관사 관사동 입주자 모집공고.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04T0V09HMX/______1._________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04T0V09HMX-d4a093ea3e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04SKC920LV",
-        "created": 1678147053,
-        "timestamp": 1678147053,
-        "name": "붙임2. 입주희망서.hwp",
-        "title": "붙임2. 입주희망서.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 19971,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04SKC920LV-붙임2. 입주희망서.hwp",
-        "url_private_download": "attachments/F04SKC920LV-붙임2. 입주희망서.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04SKC920LV/______2.________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04SKC920LV-4cc91a4e6d",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "BDT",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c「나라키움 송파복합관사」 관사동 입주자 모집 공고 안내\u003e\n\n한국자산관리공사에서 「나라키움 대학생주택」 관사동에 대하여 붙임과 같이 입주자를 모집한다 하오니 관심 있는 학생들은 참고하시기 바랍니다.\n 가. 모집인원 및 일정\n  1) 모집인원: 관사동 15명(1인 1실)\n  2) 접수기간: 2023. 3. 6.(월) ~ 3. 15.(수)\n  3) 입주자선정 및 입주개시: 2023. 3. 20.(월) ~\n 나. 입주 대상자\n  1순위: 수도권(서울, 경기) 소재 대학교(전문대포함) 재학생\n  2순위: 수도권(서울, 경기) 소재 대학원(전문대포함) 재학생\n  3순위: 대학교 휴학생\n ※ 자세한 사항은 입주자 모집 공고문 참고"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "2e1f7e03-c7f4-4f3c-a95f-0df8ea57452b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;제16회 국가기록원 기록사랑 공모전 안내\u0026gt;\n\n행정안전부 국가기록원은 ‘2030 부산엑스포 유치를 기원’하는 마음을 담아 부산광역시와 함께\n공동으로 전 국민 대상 글짓기‧그림그리기·동영상 제작 ｢기록사랑 공모전｣을 3월 2일부터 4월\n10일까지 개최합니다.(※ 주최 : 국가기록원·부산광역시, 후원 : 교육부)\n\n자세한 사항은 첨부 안내문을 확인하여 주시기 바랍니다.\n\n:phone: 문의 : 국가기록원 서비스정책과 ‘기록사랑 공모전’ 담당자(\u003ctel:0317502189|031-750-2189\u003e)\n  * 기타 자세한 사항은 국가기록원·부산광역시 홈페이지 참고",
-    "ts": "1678147398.950629",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1678147437.000000"
-    },
-    "files": [
-      {
-        "id": "F04TC1QV79N",
-        "created": 1678147376,
-        "timestamp": 1678147376,
-        "name": "(공문) 국공립 및 사립대학교 홈페이지 국가기록원「제16회 기록사랑 공모전」홍보 요청.pdf",
-        "title": "(공문) 국공립 및 사립대학교 홈페이지 국가기록원「제16회 기록사랑 공모전」홍보 요청.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 195156,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04TC1QV79N-(공문) 국공립 및 사립대학교 홈페이지 국가기록원「제16회 기록사랑 공모전」홍보 요청.pdf",
-        "url_private_download": "attachments/F04TC1QV79N-(공문) 국공립 및 사립대학교 홈페이지 국가기록원「제16회 기록사랑 공모전」홍보 요청.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04TC1QV79N/_________________________________________________________________________16__________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04TC1QV79N-39bfb43b0a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04SFNQJRAS",
-        "created": 1678147380,
-        "timestamp": 1678147380,
-        "name": "첨부1. 제16회 기록사랑 공모전 안내문.pdf",
-        "title": "첨부1. 제16회 기록사랑 공모전 안내문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 87862,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04SFNQJRAS-첨부1. 제16회 기록사랑 공모전 안내문.pdf",
-        "url_private_download": "attachments/F04SFNQJRAS-첨부1. 제16회 기록사랑 공모전 안내문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04SFNQJRAS/______1.____16____________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04SFNQJRAS-02b4756907",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xyD",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c제16회 국가기록원 기록사랑 공모전 안내\u003e\n\n행정안전부 국가기록원은 ‘2030 부산엑스포 유치를 기원’하는 마음을 담아 부산광역시와 함께\n공동으로 전 국민 대상 글짓기‧그림그리기·동영상 제작 ｢기록사랑 공모전｣을 3월 2일부터 4월\n10일까지 개최합니다.(※ 주최 : 국가기록원·부산광역시, 후원 : 교육부)\n\n자세한 사항은 첨부 안내문을 확인하여 주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "emoji",
-                "name": "phone",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 문의 : 국가기록원 서비스정책과 ‘기록사랑 공모전’ 담당자("
-              },
-              {
-                "type": "link",
-                "url": "tel:0317502189",
-                "text": "031-750-2189"
-              },
-              {
-                "type": "text",
-                "text": ")\n  * 기타 자세한 사항은 국가기록원·부산광역시 홈페이지 참고"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d9e7ef6c-e2c4-4d00-a8b4-cc5cee121398",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 1학기 연구활동종사자 안전환경 신규 교육*(신입생 대상)* 추가 교육 안내\u0026gt;\n\n첨부 이미지의 일시와 장소 참조\n1,2차 중에 한번만 교육 참석.",
-    "ts": "1678155417.481959",
-    "files": [
-      {
-        "id": "F04S88AKMAT",
-        "created": 1678155412,
-        "timestamp": 1678155412,
-        "name": "안전환경 신규교육.JPG",
-        "title": "안전환경 신규교육.JPG",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 24501,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04S88AKMAT-안전환경 신규교육.JPG",
-        "url_private_download": "attachments/F04S88AKMAT-안전환경 신규교육.JPG",
-        "original_h": 212,
-        "original_w": 556,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 137,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 183,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04S88AKMAT/_________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04S88AKMAT-3941b7365d",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "IlHXs",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 1학기 연구활동종사자 안전환경 신규 교육"
-              },
-              {
-                "type": "text",
-                "text": "(신입생 대상)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 추가 교육 안내\u003e\n\n첨부 이미지의 일시와 장소 참조\n1,2차 중에 한번만 교육 참석."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "4bdd6217-f98d-4887-846d-0de70fa6f291",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;「나라키움 송파복합관사」 관사동 입주자 모집 공고 안내&gt;\n\n한국자산관리공사에서 「나라키움 대학생주택」 관사동에 대하여 붙임과 같이 입주자를 모집한다 하오니 관심 있는 학생들은 참고하시기 바랍니다.\n 가. 모집인원 및 일정\n  1) 모집인원: 관사동 15명(1인 1실)\n  2) 접수기간: 2023. 3. 6.(월) ~ 3. 15.(수)\n  3) 입주자선정 및 입주개시: 2023. 3. 20.(월) ~\n 나. 입주 대상자\n  1순위: 수도권(서울, 경기) 소재 대학교(전문대포함) 재학생\n  2순위: 수도권(서울, 경기) 소재 대학원(전문대포함) 재학생\n  3순위: 대학교 휴학생\n ※ 자세한 사항은 입주자 모집 공고문 참고",
+			"ts": "1678147276.547009",
+			"files": [
+				{
+					"id": "F04T0V09HMX",
+					"created": 1678147050,
+					"timestamp": 1678147050,
+					"name": "붙임1. 나라키움 송파복합관사 관사동 입주자 모집공고.pdf",
+					"title": "붙임1. 나라키움 송파복합관사 관사동 입주자 모집공고.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 261943,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04T0V09HMX-붙임1. 나라키움 송파복합관사 관사동 입주자 모집공고.pdf",
+					"url_private_download": "attachments/F04T0V09HMX-붙임1. 나라키움 송파복합관사 관사동 입주자 모집공고.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04T0V09HMX/______1._________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04T0V09HMX-d4a093ea3e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04SKC920LV",
+					"created": 1678147053,
+					"timestamp": 1678147053,
+					"name": "붙임2. 입주희망서.hwp",
+					"title": "붙임2. 입주희망서.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 19971,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04SKC920LV-붙임2. 입주희망서.hwp",
+					"url_private_download": "attachments/F04SKC920LV-붙임2. 입주희망서.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04SKC920LV/______2.________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04SKC920LV-4cc91a4e6d",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "BDT",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<「나라키움 송파복합관사」 관사동 입주자 모집 공고 안내>\n\n한국자산관리공사에서 「나라키움 대학생주택」 관사동에 대하여 붙임과 같이 입주자를 모집한다 하오니 관심 있는 학생들은 참고하시기 바랍니다.\n 가. 모집인원 및 일정\n  1) 모집인원: 관사동 15명(1인 1실)\n  2) 접수기간: 2023. 3. 6.(월) ~ 3. 15.(수)\n  3) 입주자선정 및 입주개시: 2023. 3. 20.(월) ~\n 나. 입주 대상자\n  1순위: 수도권(서울, 경기) 소재 대학교(전문대포함) 재학생\n  2순위: 수도권(서울, 경기) 소재 대학원(전문대포함) 재학생\n  3순위: 대학교 휴학생\n ※ 자세한 사항은 입주자 모집 공고문 참고"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "2e1f7e03-c7f4-4f3c-a95f-0df8ea57452b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;제16회 국가기록원 기록사랑 공모전 안내&gt;\n\n행정안전부 국가기록원은 ‘2030 부산엑스포 유치를 기원’하는 마음을 담아 부산광역시와 함께\n공동으로 전 국민 대상 글짓기‧그림그리기·동영상 제작 ｢기록사랑 공모전｣을 3월 2일부터 4월\n10일까지 개최합니다.(※ 주최 : 국가기록원·부산광역시, 후원 : 교육부)\n\n자세한 사항은 첨부 안내문을 확인하여 주시기 바랍니다.\n\n:phone: 문의 : 국가기록원 서비스정책과 ‘기록사랑 공모전’ 담당자(<tel:0317502189|031-750-2189>)\n  * 기타 자세한 사항은 국가기록원·부산광역시 홈페이지 참고",
+			"ts": "1678147398.950629",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1678147437.000000"
+			},
+			"files": [
+				{
+					"id": "F04TC1QV79N",
+					"created": 1678147376,
+					"timestamp": 1678147376,
+					"name": "(공문) 국공립 및 사립대학교 홈페이지 국가기록원「제16회 기록사랑 공모전」홍보 요청.pdf",
+					"title": "(공문) 국공립 및 사립대학교 홈페이지 국가기록원「제16회 기록사랑 공모전」홍보 요청.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 195156,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04TC1QV79N-(공문) 국공립 및 사립대학교 홈페이지 국가기록원「제16회 기록사랑 공모전」홍보 요청.pdf",
+					"url_private_download": "attachments/F04TC1QV79N-(공문) 국공립 및 사립대학교 홈페이지 국가기록원「제16회 기록사랑 공모전」홍보 요청.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04TC1QV79N/_________________________________________________________________________16__________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04TC1QV79N-39bfb43b0a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04SFNQJRAS",
+					"created": 1678147380,
+					"timestamp": 1678147380,
+					"name": "첨부1. 제16회 기록사랑 공모전 안내문.pdf",
+					"title": "첨부1. 제16회 기록사랑 공모전 안내문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 87862,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04SFNQJRAS-첨부1. 제16회 기록사랑 공모전 안내문.pdf",
+					"url_private_download": "attachments/F04SFNQJRAS-첨부1. 제16회 기록사랑 공모전 안내문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04SFNQJRAS/______1.____16____________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04SFNQJRAS-02b4756907",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xyD",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<제16회 국가기록원 기록사랑 공모전 안내>\n\n행정안전부 국가기록원은 ‘2030 부산엑스포 유치를 기원’하는 마음을 담아 부산광역시와 함께\n공동으로 전 국민 대상 글짓기‧그림그리기·동영상 제작 ｢기록사랑 공모전｣을 3월 2일부터 4월\n10일까지 개최합니다.(※ 주최 : 국가기록원·부산광역시, 후원 : 교육부)\n\n자세한 사항은 첨부 안내문을 확인하여 주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "emoji",
+									"name": "phone",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 문의 : 국가기록원 서비스정책과 ‘기록사랑 공모전’ 담당자("
+								},
+								{
+									"type": "link",
+									"url": "tel:0317502189",
+									"text": "031-750-2189"
+								},
+								{
+									"type": "text",
+									"text": ")\n  * 기타 자세한 사항은 국가기록원·부산광역시 홈페이지 참고"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d9e7ef6c-e2c4-4d00-a8b4-cc5cee121398",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 1학기 연구활동종사자 안전환경 신규 교육*(신입생 대상)* 추가 교육 안내&gt;\n\n첨부 이미지의 일시와 장소 참조\n1,2차 중에 한번만 교육 참석.",
+			"ts": "1678155417.481959",
+			"files": [
+				{
+					"id": "F04S88AKMAT",
+					"created": 1678155412,
+					"timestamp": 1678155412,
+					"name": "안전환경 신규교육.JPG",
+					"title": "안전환경 신규교육.JPG",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 24501,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04S88AKMAT-안전환경 신규교육.JPG",
+					"url_private_download": "attachments/F04S88AKMAT-안전환경 신규교육.JPG",
+					"original_h": 212,
+					"original_w": 556,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 137,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04S88AKMAT-1a58e1f369/__________________________480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 183,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04S88AKMAT/_________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04S88AKMAT-3941b7365d",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "IlHXs",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 1학기 연구활동종사자 안전환경 신규 교육"
+								},
+								{
+									"type": "text",
+									"text": "(신입생 대상)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 추가 교육 안내>\n\n첨부 이미지의 일시와 장소 참조\n1,2차 중에 한번만 교육 참석."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

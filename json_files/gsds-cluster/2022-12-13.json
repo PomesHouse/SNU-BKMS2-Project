@@ -1,65 +1,67 @@
-[
-  {
-    "client_msg_id": "8e155ef4-ee45-4681-9d98-8a6c2b853adf",
-    "type": "message",
-    "user": "U01R67PKD7S",
-    "text": "*[서버 이용 공지]*\n\nC05-07 노드를 데이터사이언스를 위한 컴퓨팅2 / 확장형 고성능 컴퓨팅 수업에 임시로 19일까지 할당될 계획입니다.",
-    "ts": "1670920713.806399",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U02UVAT3BPW",
-          "U0302PK342C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "jxX77",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[서버 이용 공지]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nC05-07 노드를 데이터사이언스를 위한 컴퓨팅2 / 확장형 고성능 컴퓨팅 수업에 임시로 19일까지 할당될 계획입니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
-      "first_name": "조경제",
-      "real_name": "조경제",
-      "display_name": "4기_조경제",
-      "team": "T01QA5S537V",
-      "name": "avq159",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8e155ef4-ee45-4681-9d98-8a6c2b853adf",
+			"type": "message",
+			"user": "U01R67PKD7S",
+			"text": "*[서버 이용 공지]*\n\nC05-07 노드를 데이터사이언스를 위한 컴퓨팅2 / 확장형 고성능 컴퓨팅 수업에 임시로 19일까지 할당될 계획입니다.",
+			"ts": "1670920713.806399",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U02UVAT3BPW",
+						"U0302PK342C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "jxX77",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[서버 이용 공지]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nC05-07 노드를 데이터사이언스를 위한 컴퓨팅2 / 확장형 고성능 컴퓨팅 수업에 임시로 19일까지 할당될 계획입니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+				"first_name": "조경제",
+				"real_name": "조경제",
+				"display_name": "4기_조경제",
+				"team": "T01QA5S537V",
+				"name": "avq159",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

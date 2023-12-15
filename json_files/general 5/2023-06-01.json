@@ -1,344 +1,346 @@
-[
-  {
-    "client_msg_id": "53535221-5679-4915-920a-ab1420fc83bd",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 6월 학생 장애인식개선교육(eTL e-Class) 운영 안내\u0026gt;\n\n우리 대학은 「장애인복지법」 등에 따라 매년 전 구성원을 대상으로 1시간 이상 사회적 장애인식개선교육을 실시하고, 그 결과를 보건복지부장관에게 제출하여야 합니다. 이에, 6월 학생 장애인식개선교육(eTL e-Class)을 다음과 같이 운영하오니 학생 여러분께서는 이수하여 주시기 바랍니다. (이수 최대 인원은 1,000명으로, 매월 개설 및 안내 예정)\n\nㅇ 이수대상: 학생(1,000명)\nㅇ 이수기간: 2023. 6. 1. ~ 2023. 6. 30.\nㅇ 이수강좌: 5월 학생 장애인식개선교육\nㅇ 이수방법: eTL e-Class 접속 및 이수(첨부 파일 참고)",
-    "ts": "1685593870.784569",
-    "files": [
-      {
-        "id": "F05AH5T7QCC",
-        "created": 1685593865,
-        "timestamp": 1685593865,
-        "name": "6월 장애인식개선교육 신청 및 이수 방법.hwpx",
-        "title": "6월 장애인식개선교육 신청 및 이수 방법.hwpx",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 863448,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05AH5T7QCC-6월 장애인식개선교육 신청 및 이수 방법.hwpx",
-        "url_private_download": "attachments/F05AH5T7QCC-6월 장애인식개선교육 신청 및 이수 방법.hwpx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05AH5T7QCC/6_____________________________________________________.hwpx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05AH5T7QCC-e5cd66b654",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "iC7",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 6월 학생 장애인식개선교육(eTL e-Class) 운영 안내\u003e\n\n우리 대학은 「장애인복지법」 등에 따라 매년 전 구성원을 대상으로 1시간 이상 사회적 장애인식개선교육을 실시하고, 그 결과를 보건복지부장관에게 제출하여야 합니다. 이에, 6월 학생 장애인식개선교육(eTL e-Class)을 다음과 같이 운영하오니 학생 여러분께서는 이수하여 주시기 바랍니다. (이수 최대 인원은 1,000명으로, 매월 개설 및 안내 예정)\n\nㅇ 이수대상: 학생(1,000명)\nㅇ 이수기간: 2023. 6. 1. ~ 2023. 6. 30.\nㅇ 이수강좌: 5월 학생 장애인식개선교육\nㅇ 이수방법: eTL e-Class 접속 및 이수(첨부 파일 참고)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "53e917ff-d194-4a81-9e90-f978e55d815f",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;각 군 현역병 모집일정('23년 6월) 안내\u0026gt;\n\n병무청에서는 병역의무자의 전공, 자격ㆍ면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 하는 현역병 모집제도를 운영하고 있습니다. *2023년 6월 지원하여 2023년 9월 입영예정*인 각 군 현역병 모집일정을 게시하오니 병역의무 이행에 참고하시기 바랍니다.",
-    "ts": "1685603446.897369",
-    "files": [
-      {
-        "id": "F05AHNW76SG",
-        "created": 1685603440,
-        "timestamp": 1685603440,
-        "name": "2023년 6월 각 군 현역병 모집계획 (1).hwpx",
-        "title": "2023년 6월 각 군 현역병 모집계획 (1).hwpx",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 51149,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05AHNW76SG-2023년 6월 각 군 현역병 모집계획 (1).hwpx",
-        "url_private_download": "attachments/F05AHNW76SG-2023년 6월 각 군 현역병 모집계획 (1).hwpx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05AHNW76SG/2023____6____________________________________1_.hwpx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05AHNW76SG-b33b78ef5f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "EWXj",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c각 군 현역병 모집일정('23년 6월) 안내\u003e\n\n병무청에서는 병역의무자의 전공, 자격ㆍ면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 하는 현역병 모집제도를 운영하고 있습니다. "
-              },
-              {
-                "type": "text",
-                "text": "2023년 6월 지원하여 2023년 9월 입영예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "인 각 군 현역병 모집일정을 게시하오니 병역의무 이행에 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "0bf24fc5-78fd-4f19-83f1-e104384f7cd2",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;기초교육원 제9회 휴먼튜브 영상 공모전 안내\u0026gt;",
-    "ts": "1685609360.541299",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1685609367.000000"
-    },
-    "files": [
-      {
-        "id": "F05A96KTXNJ",
-        "created": 1685609345,
-        "timestamp": 1685609345,
-        "name": "제9회 휴먼튜브 영상공모전 포스터 (outline font).jpg",
-        "title": "제9회 휴먼튜브 영상공모전 포스터 (outline font).jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3795490,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05A96KTXNJ-제9회 휴먼튜브 영상공모전 포스터 (outline font).jpg",
-        "url_private_download": "attachments/F05A96KTXNJ-제9회 휴먼튜브 영상공모전 포스터 (outline font).jpg",
-        "original_h": 5038,
-        "original_w": 3558,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 254,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__720.jpg",
-        "thumb_720_w": 508,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__960.jpg",
-        "thumb_960_w": 678,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__1024.jpg",
-        "thumb_1024_w": 723,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05A96KTXNJ/___9____________________________________________outline_font_.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05A96KTXNJ-0b9aafae7f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "=ut",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c기초교육원 제9회 휴먼튜브 영상 공모전 안내\u003e"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "53535221-5679-4915-920a-ab1420fc83bd",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 6월 학생 장애인식개선교육(eTL e-Class) 운영 안내&gt;\n\n우리 대학은 「장애인복지법」 등에 따라 매년 전 구성원을 대상으로 1시간 이상 사회적 장애인식개선교육을 실시하고, 그 결과를 보건복지부장관에게 제출하여야 합니다. 이에, 6월 학생 장애인식개선교육(eTL e-Class)을 다음과 같이 운영하오니 학생 여러분께서는 이수하여 주시기 바랍니다. (이수 최대 인원은 1,000명으로, 매월 개설 및 안내 예정)\n\nㅇ 이수대상: 학생(1,000명)\nㅇ 이수기간: 2023. 6. 1. ~ 2023. 6. 30.\nㅇ 이수강좌: 5월 학생 장애인식개선교육\nㅇ 이수방법: eTL e-Class 접속 및 이수(첨부 파일 참고)",
+			"ts": "1685593870.784569",
+			"files": [
+				{
+					"id": "F05AH5T7QCC",
+					"created": 1685593865,
+					"timestamp": 1685593865,
+					"name": "6월 장애인식개선교육 신청 및 이수 방법.hwpx",
+					"title": "6월 장애인식개선교육 신청 및 이수 방법.hwpx",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 863448,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05AH5T7QCC-6월 장애인식개선교육 신청 및 이수 방법.hwpx",
+					"url_private_download": "attachments/F05AH5T7QCC-6월 장애인식개선교육 신청 및 이수 방법.hwpx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05AH5T7QCC/6_____________________________________________________.hwpx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05AH5T7QCC-e5cd66b654",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "iC7",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 6월 학생 장애인식개선교육(eTL e-Class) 운영 안내>\n\n우리 대학은 「장애인복지법」 등에 따라 매년 전 구성원을 대상으로 1시간 이상 사회적 장애인식개선교육을 실시하고, 그 결과를 보건복지부장관에게 제출하여야 합니다. 이에, 6월 학생 장애인식개선교육(eTL e-Class)을 다음과 같이 운영하오니 학생 여러분께서는 이수하여 주시기 바랍니다. (이수 최대 인원은 1,000명으로, 매월 개설 및 안내 예정)\n\nㅇ 이수대상: 학생(1,000명)\nㅇ 이수기간: 2023. 6. 1. ~ 2023. 6. 30.\nㅇ 이수강좌: 5월 학생 장애인식개선교육\nㅇ 이수방법: eTL e-Class 접속 및 이수(첨부 파일 참고)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "53e917ff-d194-4a81-9e90-f978e55d815f",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;각 군 현역병 모집일정('23년 6월) 안내&gt;\n\n병무청에서는 병역의무자의 전공, 자격ㆍ면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 하는 현역병 모집제도를 운영하고 있습니다. *2023년 6월 지원하여 2023년 9월 입영예정*인 각 군 현역병 모집일정을 게시하오니 병역의무 이행에 참고하시기 바랍니다.",
+			"ts": "1685603446.897369",
+			"files": [
+				{
+					"id": "F05AHNW76SG",
+					"created": 1685603440,
+					"timestamp": 1685603440,
+					"name": "2023년 6월 각 군 현역병 모집계획 (1).hwpx",
+					"title": "2023년 6월 각 군 현역병 모집계획 (1).hwpx",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 51149,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05AHNW76SG-2023년 6월 각 군 현역병 모집계획 (1).hwpx",
+					"url_private_download": "attachments/F05AHNW76SG-2023년 6월 각 군 현역병 모집계획 (1).hwpx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05AHNW76SG/2023____6____________________________________1_.hwpx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05AHNW76SG-b33b78ef5f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "EWXj",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<각 군 현역병 모집일정('23년 6월) 안내>\n\n병무청에서는 병역의무자의 전공, 자격ㆍ면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 하는 현역병 모집제도를 운영하고 있습니다. "
+								},
+								{
+									"type": "text",
+									"text": "2023년 6월 지원하여 2023년 9월 입영예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "인 각 군 현역병 모집일정을 게시하오니 병역의무 이행에 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "0bf24fc5-78fd-4f19-83f1-e104384f7cd2",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;기초교육원 제9회 휴먼튜브 영상 공모전 안내&gt;",
+			"ts": "1685609360.541299",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1685609367.000000"
+			},
+			"files": [
+				{
+					"id": "F05A96KTXNJ",
+					"created": 1685609345,
+					"timestamp": 1685609345,
+					"name": "제9회 휴먼튜브 영상공모전 포스터 (outline font).jpg",
+					"title": "제9회 휴먼튜브 영상공모전 포스터 (outline font).jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3795490,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05A96KTXNJ-제9회 휴먼튜브 영상공모전 포스터 (outline font).jpg",
+					"url_private_download": "attachments/F05A96KTXNJ-제9회 휴먼튜브 영상공모전 포스터 (outline font).jpg",
+					"original_h": 5038,
+					"original_w": 3558,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 254,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__720.jpg",
+					"thumb_720_w": 508,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__960.jpg",
+					"thumb_960_w": 678,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05A96KTXNJ-f0af2cbf21/___9____________________________________________outline_font__1024.jpg",
+					"thumb_1024_w": 723,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05A96KTXNJ/___9____________________________________________outline_font_.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05A96KTXNJ-0b9aafae7f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "=ut",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<기초교육원 제9회 휴먼튜브 영상 공모전 안내>"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

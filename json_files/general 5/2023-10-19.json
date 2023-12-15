@@ -1,190 +1,192 @@
-[
-  {
-    "client_msg_id": "393030f9-55b2-421d-b39e-08122ba450a1",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023 관악S밸리 창업페스티벌 개최 안내\u0026gt;*\n\n대학, 기업, 지역이 상생하여 세계적인 창업중심지를 만들고자 관악S밸리가 서울대 및 관악구 일대에서 조성되고 있습니다. 사업의 일환으로*「2023 관악S밸리 창업페스티벌」*을 관악구청 내에서 개최한다 하오니 참고하시기 바랍니다.\n\n가. 행 사 명: 2023 관악S밸리 창업페스티벌\n나. 행사기간: 2023. 10. 27.(금) ~ 10. 28.(토)\n 다. 행사장소: 관악구청(대강당, 광장 등)\n라. 참여대상: 벤처·창업기업, 투자사, 주민 등 관심있는 누구나\n마. 행사내용\n  1) 창업강연(야나두 김민철 공동 대표), IR 피칭, 창업아이디어 현장 심사\n   2) AI 및 로봇분야 전문가 강연, 로봇축구경진대회 등\n바. 행사내용 참여방법: 현장참여, 라이브관악을 통한 온라인시청(창업강연)",
-    "ts": "1697674171.356589",
-    "files": [
-      {
-        "id": "F061TE1CDAN",
-        "created": 1697674166,
-        "timestamp": 1697674166,
-        "name": "2023 관악S밸리 페스티벌 홍보포스터.png",
-        "title": "2023 관악S밸리 페스티벌 홍보포스터.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 503788,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F061TE1CDAN-2023 관악S밸리 페스티벌 홍보포스터.png",
-        "url_private_download": "attachments/F061TE1CDAN-2023 관악S밸리 페스티벌 홍보포스터.png",
-        "original_h": 1706,
-        "original_w": 1193,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 252,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________480.png",
-        "thumb_480_w": 336,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________720.png",
-        "thumb_720_w": 503,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________960.png",
-        "thumb_960_w": 671,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________1024.png",
-        "thumb_1024_w": 716,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F061TE1CDAN/2023_______s___________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F061TE1CDAN-05f3efc81e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "eGO8L",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023 관악S밸리 창업페스티벌 개최 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n대학, 기업, 지역이 상생하여 세계적인 창업중심지를 만들고자 관악S밸리가 서울대 및 관악구 일대에서 조성되고 있습니다. 사업의 일환으로"
-              },
-              {
-                "type": "text",
-                "text": "「2023 관악S밸리 창업페스티벌」",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 관악구청 내에서 개최한다 하오니 참고하시기 바랍니다.\n\n가. 행 사 명: 2023 관악S밸리 창업페스티벌\n나. 행사기간: 2023. 10. 27.(금) ~ 10. 28.(토)\n 다. 행사장소: 관악구청(대강당, 광장 등)\n라. 참여대상: 벤처·창업기업, 투자사, 주민 등 관심있는 누구나\n마. 행사내용\n  1) 창업강연(야나두 김민철 공동 대표), IR 피칭, 창업아이디어 현장 심사\n   2) AI 및 로봇분야 전문가 강연, 로봇축구경진대회 등\n바. 행사내용 참여방법: 현장참여, 라이브관악을 통한 온라인시청(창업강연)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "333e16b4-54ca-4389-8eae-390d39e4bce1",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c43-2동 1층 정수기 사용 불가 안내 \u003e\n43-2동 1층 101호 앞에 설치된 정수기의 고장(컴프레셔)으로 인해 정수기가 공장 입고 및 수리 예정임에 따라, 부득이하게 다음주 이후까지(10일 이내) 정수기 사용이 어렵습니다.\n\n학생 여러분께서는 번거로우시겠으나 43동(4층 휴게실, 5층 복도)에 설치된 정수기 또는 인근 건물(모두의공간 식당 등) 정수기를 이용해주시기 바랍니다.\n이용 불편에 따른 너른 양해를 부탁드립니다.",
-    "ts": "1697699322.921029",
-    "thread_ts": "1697699322.921029",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1697699354.000000"
-    },
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1699316999.150729"
-      }
-    ],
-    "latest_reply": "1699316999.150729",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "f6jtQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c43-2동 1층 정수기 사용 불가 안내 \u003e\n43-2동 1층 101호 앞에 설치된 정수기의 고장(컴프레셔)으로 인해 정수기가 공장 입고 및 수리 예정임에 따라, 부득이하게 다음주 이후까지(10일 이내) 정수기 사용이 어렵습니다.\n\n학생 여러분께서는 번거로우시겠으나 43동(4층 휴게실, 5층 복도)에 설치된 정수기 또는 인근 건물(모두의공간 식당 등) 정수기를 이용해주시기 바랍니다.\n이용 불편에 따른 너른 양해를 부탁드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QNJ7PWRX"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "393030f9-55b2-421d-b39e-08122ba450a1",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023 관악S밸리 창업페스티벌 개최 안내&gt;*\n\n대학, 기업, 지역이 상생하여 세계적인 창업중심지를 만들고자 관악S밸리가 서울대 및 관악구 일대에서 조성되고 있습니다. 사업의 일환으로*「2023 관악S밸리 창업페스티벌」*을 관악구청 내에서 개최한다 하오니 참고하시기 바랍니다.\n\n가. 행 사 명: 2023 관악S밸리 창업페스티벌\n나. 행사기간: 2023. 10. 27.(금) ~ 10. 28.(토)\n 다. 행사장소: 관악구청(대강당, 광장 등)\n라. 참여대상: 벤처·창업기업, 투자사, 주민 등 관심있는 누구나\n마. 행사내용\n  1) 창업강연(야나두 김민철 공동 대표), IR 피칭, 창업아이디어 현장 심사\n   2) AI 및 로봇분야 전문가 강연, 로봇축구경진대회 등\n바. 행사내용 참여방법: 현장참여, 라이브관악을 통한 온라인시청(창업강연)",
+			"ts": "1697674171.356589",
+			"files": [
+				{
+					"id": "F061TE1CDAN",
+					"created": 1697674166,
+					"timestamp": 1697674166,
+					"name": "2023 관악S밸리 페스티벌 홍보포스터.png",
+					"title": "2023 관악S밸리 페스티벌 홍보포스터.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 503788,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F061TE1CDAN-2023 관악S밸리 페스티벌 홍보포스터.png",
+					"url_private_download": "attachments/F061TE1CDAN-2023 관악S밸리 페스티벌 홍보포스터.png",
+					"original_h": 1706,
+					"original_w": 1193,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 252,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________480.png",
+					"thumb_480_w": 336,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________720.png",
+					"thumb_720_w": 503,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________960.png",
+					"thumb_960_w": 671,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F061TE1CDAN-41ed07c68a/2023_______s____________________________________1024.png",
+					"thumb_1024_w": 716,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F061TE1CDAN/2023_______s___________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F061TE1CDAN-05f3efc81e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "eGO8L",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023 관악S밸리 창업페스티벌 개최 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n대학, 기업, 지역이 상생하여 세계적인 창업중심지를 만들고자 관악S밸리가 서울대 및 관악구 일대에서 조성되고 있습니다. 사업의 일환으로"
+								},
+								{
+									"type": "text",
+									"text": "「2023 관악S밸리 창업페스티벌」",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 관악구청 내에서 개최한다 하오니 참고하시기 바랍니다.\n\n가. 행 사 명: 2023 관악S밸리 창업페스티벌\n나. 행사기간: 2023. 10. 27.(금) ~ 10. 28.(토)\n 다. 행사장소: 관악구청(대강당, 광장 등)\n라. 참여대상: 벤처·창업기업, 투자사, 주민 등 관심있는 누구나\n마. 행사내용\n  1) 창업강연(야나두 김민철 공동 대표), IR 피칭, 창업아이디어 현장 심사\n   2) AI 및 로봇분야 전문가 강연, 로봇축구경진대회 등\n바. 행사내용 참여방법: 현장참여, 라이브관악을 통한 온라인시청(창업강연)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "333e16b4-54ca-4389-8eae-390d39e4bce1",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<43-2동 1층 정수기 사용 불가 안내 >\n43-2동 1층 101호 앞에 설치된 정수기의 고장(컴프레셔)으로 인해 정수기가 공장 입고 및 수리 예정임에 따라, 부득이하게 다음주 이후까지(10일 이내) 정수기 사용이 어렵습니다.\n\n학생 여러분께서는 번거로우시겠으나 43동(4층 휴게실, 5층 복도)에 설치된 정수기 또는 인근 건물(모두의공간 식당 등) 정수기를 이용해주시기 바랍니다.\n이용 불편에 따른 너른 양해를 부탁드립니다.",
+			"ts": "1697699322.921029",
+			"thread_ts": "1697699322.921029",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1697699354.000000"
+			},
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1699316999.150729"
+				}
+			],
+			"latest_reply": "1699316999.150729",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "f6jtQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<43-2동 1층 정수기 사용 불가 안내 >\n43-2동 1층 101호 앞에 설치된 정수기의 고장(컴프레셔)으로 인해 정수기가 공장 입고 및 수리 예정임에 따라, 부득이하게 다음주 이후까지(10일 이내) 정수기 사용이 어렵습니다.\n\n학생 여러분께서는 번거로우시겠으나 43동(4층 휴게실, 5층 복도)에 설치된 정수기 또는 인근 건물(모두의공간 식당 등) 정수기를 이용해주시기 바랍니다.\n이용 불편에 따른 너른 양해를 부탁드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QNJ7PWRX"
+			]
+		}
+	]
+}

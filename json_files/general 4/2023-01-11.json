@@ -1,624 +1,626 @@
-[
-  {
-    "client_msg_id": "3cfc92bf-5aed-4233-9244-d9b794ff415a",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;중국발 입국자 검역 관리 대응 지침 안내\u0026gt;\n최근 중국발 코로나19 신종변이 발생 및 확진자 증가 등으로 인한 국내 감염 확산을 차단하고자, 방역당국에서 선제적 감시체제를 마련하여 알려왔습니다. 이에, 중국발 해외입국 시 혼선이 없도록 아래 사항을 확인하여 주시기 바랍니다.",
-    "ts": "1673401413.733489",
-    "files": [
-      {
-        "id": "F04K1JVHFUG",
-        "created": 1673401375,
-        "timestamp": 1673401375,
-        "name": "중국발 입국자 검역 관리 대응지침 주요내용.png",
-        "title": "중국발 입국자 검역 관리 대응지침 주요내용.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 67490,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04K1JVHFUG-중국발 입국자 검역 관리 대응지침 주요내용.png",
-        "url_private_download": "attachments/F04K1JVHFUG-중국발 입국자 검역 관리 대응지침 주요내용.png",
-        "original_h": 454,
-        "original_w": 1376,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 119,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 158,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 238,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 317,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 338,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04K1JVHFUG/___________________________________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04K1JVHFUG-a9c48c87c8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04HXBWAP39",
-        "created": 1673401399,
-        "timestamp": 1673401399,
-        "name": "중국발 입국자 검역 관리 대응 지침 안내.pdf",
-        "title": "중국발 입국자 검역 관리 대응 지침 안내.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 191160,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04HXBWAP39-중국발 입국자 검역 관리 대응 지침 안내.pdf",
-        "url_private_download": "attachments/F04HXBWAP39-중국발 입국자 검역 관리 대응 지침 안내.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04HXBWAP39/______________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04HXBWAP39-76bb0f1a04",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04J5A4KPF0",
-        "created": 1673401403,
-        "timestamp": 1673401403,
-        "name": "중국발 입국자 검역관리 대응 지침(중대본  23.1.1.자).pdf",
-        "title": "중국발 입국자 검역관리 대응 지침(중대본  23.1.1.자).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 630174,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04J5A4KPF0-중국발 입국자 검역관리 대응 지침(중대본  23.1.1.자).pdf",
-        "url_private_download": "attachments/F04J5A4KPF0-중국발 입국자 검역관리 대응 지침(중대본  23.1.1.자).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04J5A4KPF0/__________________________________________________________23.1.1.____.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04J5A4KPF0-7ceb36e9be",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04K1JX23Q8",
-        "created": 1673401408,
-        "timestamp": 1673401408,
-        "name": "코로나바이러스감염증-19 검역대응 지침 제14-2판 일부개정.pdf",
-        "title": "코로나바이러스감염증-19 검역대응 지침 제14-2판 일부개정.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2294861,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04K1JX23Q8-코로나바이러스감염증-19 검역대응 지침 제14-2판 일부개정.pdf",
-        "url_private_download": "attachments/F04K1JX23Q8-코로나바이러스감염증-19 검역대응 지침 제14-2판 일부개정.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04K1JX23Q8/______________________________-19________________________14-2________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04K1JX23Q8-84dff98927",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Hd2",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c중국발 입국자 검역 관리 대응 지침 안내\u003e\n최근 중국발 코로나19 신종변이 발생 및 확진자 증가 등으로 인한 국내 감염 확산을 차단하고자, 방역당국에서 선제적 감시체제를 마련하여 알려왔습니다. 이에, 중국발 해외입국 시 혼선이 없도록 아래 사항을 확인하여 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "11d2515b-23e5-414e-970f-055b1d60e33d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 특성별 학문후속세대 선정 안내\u0026gt;\n\n2023학년도 특성별 학문후속세대 선정하오니 관심있는 학생은 *제출서류(지원서, 지도교수 및 학과(부)장 추천서, 연구계획서, 제한사항 확인서, 성적증명서)*를 *1. 25.(목)까지* 데이터사이언스대학원 행정실 장학 담당자(오승철, \u003cmailto:seungchul91@snu.ac.kr|seungchul91@snu.ac.kr\u003e 이메일 제출 가능)에게 제출 바랍니다.\n\n  *가. 추천대상*\n   - (우선) 2022학년도 동일 장학금 수혜 학생 재추천 우선 선발\n      ※ 본 지원금은 최대 2년 수혜 가능\n   - (신규) 2023학년도 1학기 기준 수학 중인 석사 재학생, 박사 재학생(수료생 포함) 중\n      타 장학금의 지원을 받지 않는 자로서 희소학문분야 및 국책연구분야의 연구를 하고\n      있는 학생\n      *※ 타 장학금 중복 수혜 금지(기초학문분야 학문후속세대, GSI 등 학내, 학외 모두 해당)*\n       *※ 단, 2023학년도 2학기에 학적 상태에 변동이 없어야 함(수료생의 경우, 연구생 등록 필수)*\n    *※ 강사활동 제한*\n     *- 학외 강사 임용 불허*\n     *- 본교 강사로 임용될 경우 지도교수 승인 하에 학기당 1개 강좌만 허용*\n    *※ 취업활동 제한*\n     *- 월 급여를 받는 일체의 취업활동 제한('특강' 등 1회성 활동은 가능)*\n\n  *나. 지원내용*\n지원분야:  (A형) 희소학문분야,  (B형) 국책연구분야\n지원액: 학기당 박사과정 1,000만원 석사과정 500만원\n지원인원: 박사과정 기준 35명*\n지원기간: 2023학년도 1, 2학기(2023. 3. ~ 2024. 2.)\n       * 박사과정 1명은 석사과정 2명으로 환산\n       ※ 석박통합과정 학생의 경우, 신청 당시 과정의 지원액으로 1, 2학기 동액 지급\n\n  *다. 지원자 제출 서류*\n   - 지원서, 지도교수 및 학과(부)장 추천서, 연구계획서, 제한사항 확인서, 성적증명서\n\n  *라. 선정자 의무사항*\n   - 학기당 1회 각종 보고서 제출 의무(연구진척보고서, 성과보고서 등)",
-    "ts": "1673427448.042429",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1673427551.000000"
-    },
-    "files": [
-      {
-        "id": "F04JD8MT42E",
-        "created": 1673427440,
-        "timestamp": 1673427440,
-        "name": "1. 2023학년도 특성별 학문후속세대 지원 계획 안내.hwp",
-        "title": "1. 2023학년도 특성별 학문후속세대 지원 계획 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 96256,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04JD8MT42E-1. 2023학년도 특성별 학문후속세대 지원 계획 안내.hwp",
-        "url_private_download": "attachments/F04JD8MT42E-1. 2023학년도 특성별 학문후속세대 지원 계획 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04JD8MT42E/1._2023___________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04JD8MT42E-ace5eb5415",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04JRT9ME4R",
-        "created": 1673427441,
-        "timestamp": 1673427441,
-        "name": "2. 지원자 제출 서류 양식.hwp",
-        "title": "2. 지원자 제출 서류 양식.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 54784,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04JRT9ME4R-2. 지원자 제출 서류 양식.hwp",
-        "url_private_download": "attachments/F04JRT9ME4R-2. 지원자 제출 서류 양식.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04JRT9ME4R/2._______________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04JRT9ME4R-4f3421438a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9l9jj",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 특성별 학문후속세대 선정 안내\u003e\n\n2023학년도 특성별 학문후속세대 선정하오니 관심있는 학생은 "
-              },
-              {
-                "type": "text",
-                "text": "제출서류(지원서, 지도교수 및 학과(부)장 추천서, 연구계획서, 제한사항 확인서, 성적증명서)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "를 "
-              },
-              {
-                "type": "text",
-                "text": "1. 25.(목)까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 데이터사이언스대학원 행정실 장학 담당자(오승철, "
-              },
-              {
-                "type": "link",
-                "url": "mailto:seungchul91@snu.ac.kr",
-                "text": "seungchul91@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": " 이메일 제출 가능)에게 제출 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "  가. 추천대상",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   - (우선) 2022학년도 동일 장학금 수혜 학생 재추천 우선 선발\n      ※ 본 지원금은 최대 2년 수혜 가능\n   - (신규) 2023학년도 1학기 기준 수학 중인 석사 재학생, 박사 재학생(수료생 포함) 중\n      타 장학금의 지원을 받지 않는 자로서 희소학문분야 및 국책연구분야의 연구를 하고\n      있는 학생\n      "
-              },
-              {
-                "type": "text",
-                "text": "※ 타 장학금 중복 수혜 금지(기초학문분야 학문후속세대, GSI 등 학내, 학외 모두 해당)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "       ※ 단, 2023학년도 2학기에 학적 상태에 변동이 없어야 함(수료생의 경우, 연구생 등록 필수)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "    ※ 강사활동 제한",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "     - 학외 강사 임용 불허",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "     - 본교 강사로 임용될 경우 지도교수 승인 하에 학기당 1개 강좌만 허용",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "    ※ 취업활동 제한",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "     - 월 급여를 받는 일체의 취업활동 제한('특강' 등 1회성 활동은 가능)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "  나. 지원내용",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n지원분야:  (A형) 희소학문분야,  (B형) 국책연구분야\n지원액: 학기당 박사과정 1,000만원 석사과정 500만원\n지원인원: 박사과정 기준 35명*\n지원기간: 2023학년도 1, 2학기(2023. 3. ~ 2024. 2.)\n       * 박사과정 1명은 석사과정 2명으로 환산\n       ※ 석박통합과정 학생의 경우, 신청 당시 과정의 지원액으로 1, 2학기 동액 지급\n\n"
-              },
-              {
-                "type": "text",
-                "text": "  다. 지원자 제출 서류",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   - 지원서, 지도교수 및 학과(부)장 추천서, 연구계획서, 제한사항 확인서, 성적증명서\n\n "
-              },
-              {
-                "type": "text",
-                "text": " 라. 선정자 의무사항",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   - 학기당 1회 각종 보고서 제출 의무(연구진척보고서, 성과보고서 등)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "3cfc92bf-5aed-4233-9244-d9b794ff415a",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;중국발 입국자 검역 관리 대응 지침 안내&gt;\n최근 중국발 코로나19 신종변이 발생 및 확진자 증가 등으로 인한 국내 감염 확산을 차단하고자, 방역당국에서 선제적 감시체제를 마련하여 알려왔습니다. 이에, 중국발 해외입국 시 혼선이 없도록 아래 사항을 확인하여 주시기 바랍니다.",
+			"ts": "1673401413.733489",
+			"files": [
+				{
+					"id": "F04K1JVHFUG",
+					"created": 1673401375,
+					"timestamp": 1673401375,
+					"name": "중국발 입국자 검역 관리 대응지침 주요내용.png",
+					"title": "중국발 입국자 검역 관리 대응지침 주요내용.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 67490,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04K1JVHFUG-중국발 입국자 검역 관리 대응지침 주요내용.png",
+					"url_private_download": "attachments/F04K1JVHFUG-중국발 입국자 검역 관리 대응지침 주요내용.png",
+					"original_h": 454,
+					"original_w": 1376,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 119,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 158,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 238,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 317,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04K1JVHFUG-9e0e3e5d30/____________________________________________________________1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 338,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04K1JVHFUG/___________________________________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04K1JVHFUG-a9c48c87c8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04HXBWAP39",
+					"created": 1673401399,
+					"timestamp": 1673401399,
+					"name": "중국발 입국자 검역 관리 대응 지침 안내.pdf",
+					"title": "중국발 입국자 검역 관리 대응 지침 안내.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 191160,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04HXBWAP39-중국발 입국자 검역 관리 대응 지침 안내.pdf",
+					"url_private_download": "attachments/F04HXBWAP39-중국발 입국자 검역 관리 대응 지침 안내.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04HXBWAP39/______________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04HXBWAP39-76bb0f1a04",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04J5A4KPF0",
+					"created": 1673401403,
+					"timestamp": 1673401403,
+					"name": "중국발 입국자 검역관리 대응 지침(중대본  23.1.1.자).pdf",
+					"title": "중국발 입국자 검역관리 대응 지침(중대본  23.1.1.자).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 630174,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04J5A4KPF0-중국발 입국자 검역관리 대응 지침(중대본  23.1.1.자).pdf",
+					"url_private_download": "attachments/F04J5A4KPF0-중국발 입국자 검역관리 대응 지침(중대본  23.1.1.자).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04J5A4KPF0/__________________________________________________________23.1.1.____.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04J5A4KPF0-7ceb36e9be",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04K1JX23Q8",
+					"created": 1673401408,
+					"timestamp": 1673401408,
+					"name": "코로나바이러스감염증-19 검역대응 지침 제14-2판 일부개정.pdf",
+					"title": "코로나바이러스감염증-19 검역대응 지침 제14-2판 일부개정.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2294861,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04K1JX23Q8-코로나바이러스감염증-19 검역대응 지침 제14-2판 일부개정.pdf",
+					"url_private_download": "attachments/F04K1JX23Q8-코로나바이러스감염증-19 검역대응 지침 제14-2판 일부개정.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04K1JX23Q8/______________________________-19________________________14-2________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04K1JX23Q8-84dff98927",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Hd2",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<중국발 입국자 검역 관리 대응 지침 안내>\n최근 중국발 코로나19 신종변이 발생 및 확진자 증가 등으로 인한 국내 감염 확산을 차단하고자, 방역당국에서 선제적 감시체제를 마련하여 알려왔습니다. 이에, 중국발 해외입국 시 혼선이 없도록 아래 사항을 확인하여 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "11d2515b-23e5-414e-970f-055b1d60e33d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 특성별 학문후속세대 선정 안내&gt;\n\n2023학년도 특성별 학문후속세대 선정하오니 관심있는 학생은 *제출서류(지원서, 지도교수 및 학과(부)장 추천서, 연구계획서, 제한사항 확인서, 성적증명서)*를 *1. 25.(목)까지* 데이터사이언스대학원 행정실 장학 담당자(오승철, <mailto:seungchul91@snu.ac.kr|seungchul91@snu.ac.kr> 이메일 제출 가능)에게 제출 바랍니다.\n\n  *가. 추천대상*\n   - (우선) 2022학년도 동일 장학금 수혜 학생 재추천 우선 선발\n      ※ 본 지원금은 최대 2년 수혜 가능\n   - (신규) 2023학년도 1학기 기준 수학 중인 석사 재학생, 박사 재학생(수료생 포함) 중\n      타 장학금의 지원을 받지 않는 자로서 희소학문분야 및 국책연구분야의 연구를 하고\n      있는 학생\n      *※ 타 장학금 중복 수혜 금지(기초학문분야 학문후속세대, GSI 등 학내, 학외 모두 해당)*\n       *※ 단, 2023학년도 2학기에 학적 상태에 변동이 없어야 함(수료생의 경우, 연구생 등록 필수)*\n    *※ 강사활동 제한*\n     *- 학외 강사 임용 불허*\n     *- 본교 강사로 임용될 경우 지도교수 승인 하에 학기당 1개 강좌만 허용*\n    *※ 취업활동 제한*\n     *- 월 급여를 받는 일체의 취업활동 제한('특강' 등 1회성 활동은 가능)*\n\n  *나. 지원내용*\n지원분야:  (A형) 희소학문분야,  (B형) 국책연구분야\n지원액: 학기당 박사과정 1,000만원 석사과정 500만원\n지원인원: 박사과정 기준 35명*\n지원기간: 2023학년도 1, 2학기(2023. 3. ~ 2024. 2.)\n       * 박사과정 1명은 석사과정 2명으로 환산\n       ※ 석박통합과정 학생의 경우, 신청 당시 과정의 지원액으로 1, 2학기 동액 지급\n\n  *다. 지원자 제출 서류*\n   - 지원서, 지도교수 및 학과(부)장 추천서, 연구계획서, 제한사항 확인서, 성적증명서\n\n  *라. 선정자 의무사항*\n   - 학기당 1회 각종 보고서 제출 의무(연구진척보고서, 성과보고서 등)",
+			"ts": "1673427448.042429",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1673427551.000000"
+			},
+			"files": [
+				{
+					"id": "F04JD8MT42E",
+					"created": 1673427440,
+					"timestamp": 1673427440,
+					"name": "1. 2023학년도 특성별 학문후속세대 지원 계획 안내.hwp",
+					"title": "1. 2023학년도 특성별 학문후속세대 지원 계획 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 96256,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04JD8MT42E-1. 2023학년도 특성별 학문후속세대 지원 계획 안내.hwp",
+					"url_private_download": "attachments/F04JD8MT42E-1. 2023학년도 특성별 학문후속세대 지원 계획 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04JD8MT42E/1._2023___________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04JD8MT42E-ace5eb5415",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04JRT9ME4R",
+					"created": 1673427441,
+					"timestamp": 1673427441,
+					"name": "2. 지원자 제출 서류 양식.hwp",
+					"title": "2. 지원자 제출 서류 양식.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 54784,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04JRT9ME4R-2. 지원자 제출 서류 양식.hwp",
+					"url_private_download": "attachments/F04JRT9ME4R-2. 지원자 제출 서류 양식.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04JRT9ME4R/2._______________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04JRT9ME4R-4f3421438a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9l9jj",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 특성별 학문후속세대 선정 안내>\n\n2023학년도 특성별 학문후속세대 선정하오니 관심있는 학생은 "
+								},
+								{
+									"type": "text",
+									"text": "제출서류(지원서, 지도교수 및 학과(부)장 추천서, 연구계획서, 제한사항 확인서, 성적증명서)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "를 "
+								},
+								{
+									"type": "text",
+									"text": "1. 25.(목)까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 데이터사이언스대학원 행정실 장학 담당자(오승철, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:seungchul91@snu.ac.kr",
+									"text": "seungchul91@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": " 이메일 제출 가능)에게 제출 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "  가. 추천대상",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   - (우선) 2022학년도 동일 장학금 수혜 학생 재추천 우선 선발\n      ※ 본 지원금은 최대 2년 수혜 가능\n   - (신규) 2023학년도 1학기 기준 수학 중인 석사 재학생, 박사 재학생(수료생 포함) 중\n      타 장학금의 지원을 받지 않는 자로서 희소학문분야 및 국책연구분야의 연구를 하고\n      있는 학생\n      "
+								},
+								{
+									"type": "text",
+									"text": "※ 타 장학금 중복 수혜 금지(기초학문분야 학문후속세대, GSI 등 학내, 학외 모두 해당)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "       ※ 단, 2023학년도 2학기에 학적 상태에 변동이 없어야 함(수료생의 경우, 연구생 등록 필수)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "    ※ 강사활동 제한",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "     - 학외 강사 임용 불허",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "     - 본교 강사로 임용될 경우 지도교수 승인 하에 학기당 1개 강좌만 허용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "    ※ 취업활동 제한",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "     - 월 급여를 받는 일체의 취업활동 제한('특강' 등 1회성 활동은 가능)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "  나. 지원내용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n지원분야:  (A형) 희소학문분야,  (B형) 국책연구분야\n지원액: 학기당 박사과정 1,000만원 석사과정 500만원\n지원인원: 박사과정 기준 35명*\n지원기간: 2023학년도 1, 2학기(2023. 3. ~ 2024. 2.)\n       * 박사과정 1명은 석사과정 2명으로 환산\n       ※ 석박통합과정 학생의 경우, 신청 당시 과정의 지원액으로 1, 2학기 동액 지급\n\n"
+								},
+								{
+									"type": "text",
+									"text": "  다. 지원자 제출 서류",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   - 지원서, 지도교수 및 학과(부)장 추천서, 연구계획서, 제한사항 확인서, 성적증명서\n\n "
+								},
+								{
+									"type": "text",
+									"text": " 라. 선정자 의무사항",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   - 학기당 1회 각종 보고서 제출 의무(연구진척보고서, 성과보고서 등)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

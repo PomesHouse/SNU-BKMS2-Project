@@ -1,380 +1,382 @@
-[
-  {
-    "client_msg_id": "15e13277-90c3-4056-b8f2-317ec05a8fcb",
-    "type": "message",
-    "user": "U040ZVD3C0H",
-    "text": "안녕하세요 :slightly_smiling_face:  KT R\u0026amp;D 수시채용 정보를 알게 되어서 공유드립니다. 관심 있으신 분들은 지원해보셔도 좋겠네요! 자세한 사항은 붙임 PDF 파일 참고해주세요~\n\n*ㅇ KT 융합기술원 채용 공고*\n*구분*\n*신입 석사*\n*경력/박사*\n*공고문*\n\u003chttps://recruit.kt.com/apply/notifyView?seq=140836\u003e\n\u003chttps://recruit.kt.com/apply/notifyView?seq=140869\u003e\n*지원기간*\n~ 5.8(월) 16:00\n~ 5.15(월) 16:00\n*채용*\n*분야*\n소프트웨어 기반 네트워크 기술 개발\n디지털트윈 기술개발\nUAM 항공망 기술 개발\nEdu AI DX 기술 개발\nUAM 트윈 기술 개발\n로봇 HRI 기술개발\nLarge AI 기반 지니랩스 API 활용 앱 개발\nAI 로봇 미들웨어 개발\nLarge AI 기반 언어처리/대화 기술 개발\nAI 로봇 하드웨어 개발\nAI 언어응용 서비스 플랫폼 개발\nUAM 교통 시뮬레이션 기술 개발\nAI 음성 인식/합성 기술개발\nUAM 항공망 기술 개발\n\n** KT 융합기술원 석/박사 연구인턴십 : 4~5월 중 공고 Open 예정*\n-      인턴십/대상 : 7~8월(약 8주) / 석사 혹은 박사 3학기 이상\n-      혜택 : 우수 수료자 대상 KT 채용 연계 혹은 스폰서십(장학금/GPU 이용권) 지원",
-    "ts": "1682503862.214399",
-    "files": [
-      {
-        "id": "F05506V8HQS",
-        "created": 1682503700,
-        "timestamp": 1682503700,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U040ZVD3C0H",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 97517,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05506V8HQS-image.png",
-        "url_private_download": "attachments/F05506V8HQS-image.png",
-        "original_h": 618,
-        "original_w": 1160,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 192,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 256,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 384,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 511,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 546,
-        "permalink": "https://snugsds.slack.com/files/U040ZVD3C0H/F05506V8HQS/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05506V8HQS-ed06be6fee",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F0552M2PPBN",
-        "created": 1682503747,
-        "timestamp": 1682503747,
-        "name": "2023년 RnD분야 KT 경력_박사 채용 공고문(05차)_20230421.pdf",
-        "title": "2023년 RnD분야 KT 경력_박사 채용 공고문(05차)_20230421.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U040ZVD3C0H",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 337306,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0552M2PPBN-2023년 RnD분야 KT 경력_박사 채용 공고문(05차)_20230421.pdf",
-        "url_private_download": "attachments/F0552M2PPBN-2023년 RnD분야 KT 경력_박사 채용 공고문(05차)_20230421.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U040ZVD3C0H/F0552M2PPBN/2023____rnd_______kt________________________________05_____20230421.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0552M2PPBN-f44ed329c6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F054TJGM5FG",
-        "created": 1682503749,
-        "timestamp": 1682503749,
-        "name": "2023년 RnD분야 KT 신입석사 채용 공고문(04차)_20230421.pdf",
-        "title": "2023년 RnD분야 KT 신입석사 채용 공고문(04차)_20230421.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U040ZVD3C0H",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 517057,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F054TJGM5FG-2023년 RnD분야 KT 신입석사 채용 공고문(04차)_20230421.pdf",
-        "url_private_download": "attachments/F054TJGM5FG-2023년 RnD분야 KT 신입석사 채용 공고문(04차)_20230421.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U040ZVD3C0H/F054TJGM5FG/2023____rnd_______kt_______________________________04_____20230421.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F054TJGM5FG-7184d49617",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 11,
-        "users": [
-          "U01Q1KFN4JK",
-          "U01QGJL6SP5",
-          "U01Q75KNV1T",
-          "U02V5LTUGGH",
-          "U02UT2U1PFV",
-          "U02UT1YNY6N",
-          "U01QV28FG4R",
-          "U02ULBH3TEJ",
-          "U040MB432JW",
-          "U02ULBGNF7G",
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Oy09",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "  KT R\u0026D 수시채용 정보를 알게 되어서 공유드립니다. 관심 있으신 분들은 지원해보셔도 좋겠네요! 자세한 사항은 붙임 PDF 파일 참고해주세요~\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅇ KT 융합기술원 채용 공고",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "구분",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "신입 석사",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "경력/박사",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "공고문",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "link",
-                "url": "https://recruit.kt.com/apply/notifyView?seq=140836",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "link",
-                "url": "https://recruit.kt.com/apply/notifyView?seq=140869",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "지원기간",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n~ 5.8(월) 16:00\n~ 5.15(월) 16:00\n"
-              },
-              {
-                "type": "text",
-                "text": "채용",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "분야",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n소프트웨어 기반 네트워크 기술 개발\n디지털트윈 기술개발\nUAM 항공망 기술 개발\nEdu AI DX 기술 개발\nUAM 트윈 기술 개발\n로봇 HRI 기술개발\nLarge AI 기반 지니랩스 API 활용 앱 개발\nAI 로봇 미들웨어 개발\nLarge AI 기반 언어처리/대화 기술 개발\nAI 로봇 하드웨어 개발\nAI 언어응용 서비스 플랫폼 개발\nUAM 교통 시뮬레이션 기술 개발\nAI 음성 인식/합성 기술개발\nUAM 항공망 기술 개발\n\n"
-              },
-              {
-                "type": "text",
-                "text": "* KT 융합기술원 석/박사 연구인턴십 : 4~5월 중 공고 Open 예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n-      인턴십/대상 : 7~8월(약 8주) / 석사 혹은 박사 3학기 이상\n-      혜택 : 우수 수료자 대상 KT 채용 연계 혹은 스폰서십(장학금/GPU 이용권) 지원"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/010f83d8c38b97858a8afb5f209f4dc7.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "김동화",
-      "real_name": "김동화",
-      "display_name": "3.5기_김동화",
-      "team": "T01QA5S537V",
-      "name": "ehd9712",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "15e13277-90c3-4056-b8f2-317ec05a8fcb",
+			"type": "message",
+			"user": "U040ZVD3C0H",
+			"text": "안녕하세요 :slightly_smiling_face:  KT R&amp;D 수시채용 정보를 알게 되어서 공유드립니다. 관심 있으신 분들은 지원해보셔도 좋겠네요! 자세한 사항은 붙임 PDF 파일 참고해주세요~\n\n*ㅇ KT 융합기술원 채용 공고*\n*구분*\n*신입 석사*\n*경력/박사*\n*공고문*\n<https://recruit.kt.com/apply/notifyView?seq=140836>\n<https://recruit.kt.com/apply/notifyView?seq=140869>\n*지원기간*\n~ 5.8(월) 16:00\n~ 5.15(월) 16:00\n*채용*\n*분야*\n소프트웨어 기반 네트워크 기술 개발\n디지털트윈 기술개발\nUAM 항공망 기술 개발\nEdu AI DX 기술 개발\nUAM 트윈 기술 개발\n로봇 HRI 기술개발\nLarge AI 기반 지니랩스 API 활용 앱 개발\nAI 로봇 미들웨어 개발\nLarge AI 기반 언어처리/대화 기술 개발\nAI 로봇 하드웨어 개발\nAI 언어응용 서비스 플랫폼 개발\nUAM 교통 시뮬레이션 기술 개발\nAI 음성 인식/합성 기술개발\nUAM 항공망 기술 개발\n\n** KT 융합기술원 석/박사 연구인턴십 : 4~5월 중 공고 Open 예정*\n-      인턴십/대상 : 7~8월(약 8주) / 석사 혹은 박사 3학기 이상\n-      혜택 : 우수 수료자 대상 KT 채용 연계 혹은 스폰서십(장학금/GPU 이용권) 지원",
+			"ts": "1682503862.214399",
+			"files": [
+				{
+					"id": "F05506V8HQS",
+					"created": 1682503700,
+					"timestamp": 1682503700,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U040ZVD3C0H",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 97517,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05506V8HQS-image.png",
+					"url_private_download": "attachments/F05506V8HQS-image.png",
+					"original_h": 618,
+					"original_w": 1160,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 192,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 256,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 384,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 511,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05506V8HQS-74982ce9cd/image_1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 546,
+					"permalink": "https://snugsds.slack.com/files/U040ZVD3C0H/F05506V8HQS/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05506V8HQS-ed06be6fee",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F0552M2PPBN",
+					"created": 1682503747,
+					"timestamp": 1682503747,
+					"name": "2023년 RnD분야 KT 경력_박사 채용 공고문(05차)_20230421.pdf",
+					"title": "2023년 RnD분야 KT 경력_박사 채용 공고문(05차)_20230421.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U040ZVD3C0H",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 337306,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0552M2PPBN-2023년 RnD분야 KT 경력_박사 채용 공고문(05차)_20230421.pdf",
+					"url_private_download": "attachments/F0552M2PPBN-2023년 RnD분야 KT 경력_박사 채용 공고문(05차)_20230421.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U040ZVD3C0H/F0552M2PPBN/2023____rnd_______kt________________________________05_____20230421.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0552M2PPBN-f44ed329c6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F054TJGM5FG",
+					"created": 1682503749,
+					"timestamp": 1682503749,
+					"name": "2023년 RnD분야 KT 신입석사 채용 공고문(04차)_20230421.pdf",
+					"title": "2023년 RnD분야 KT 신입석사 채용 공고문(04차)_20230421.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U040ZVD3C0H",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 517057,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F054TJGM5FG-2023년 RnD분야 KT 신입석사 채용 공고문(04차)_20230421.pdf",
+					"url_private_download": "attachments/F054TJGM5FG-2023년 RnD분야 KT 신입석사 채용 공고문(04차)_20230421.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U040ZVD3C0H/F054TJGM5FG/2023____rnd_______kt_______________________________04_____20230421.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F054TJGM5FG-7184d49617",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 11,
+					"users": [
+						"U01Q1KFN4JK",
+						"U01QGJL6SP5",
+						"U01Q75KNV1T",
+						"U02V5LTUGGH",
+						"U02UT2U1PFV",
+						"U02UT1YNY6N",
+						"U01QV28FG4R",
+						"U02ULBH3TEJ",
+						"U040MB432JW",
+						"U02ULBGNF7G",
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Oy09",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "  KT R&D 수시채용 정보를 알게 되어서 공유드립니다. 관심 있으신 분들은 지원해보셔도 좋겠네요! 자세한 사항은 붙임 PDF 파일 참고해주세요~\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅇ KT 융합기술원 채용 공고",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "구분",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "신입 석사",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "경력/박사",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "공고문",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "link",
+									"url": "https://recruit.kt.com/apply/notifyView?seq=140836",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "link",
+									"url": "https://recruit.kt.com/apply/notifyView?seq=140869",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "지원기간",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n~ 5.8(월) 16:00\n~ 5.15(월) 16:00\n"
+								},
+								{
+									"type": "text",
+									"text": "채용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "분야",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n소프트웨어 기반 네트워크 기술 개발\n디지털트윈 기술개발\nUAM 항공망 기술 개발\nEdu AI DX 기술 개발\nUAM 트윈 기술 개발\n로봇 HRI 기술개발\nLarge AI 기반 지니랩스 API 활용 앱 개발\nAI 로봇 미들웨어 개발\nLarge AI 기반 언어처리/대화 기술 개발\nAI 로봇 하드웨어 개발\nAI 언어응용 서비스 플랫폼 개발\nUAM 교통 시뮬레이션 기술 개발\nAI 음성 인식/합성 기술개발\nUAM 항공망 기술 개발\n\n"
+								},
+								{
+									"type": "text",
+									"text": "* KT 융합기술원 석/박사 연구인턴십 : 4~5월 중 공고 Open 예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n-      인턴십/대상 : 7~8월(약 8주) / 석사 혹은 박사 3학기 이상\n-      혜택 : 우수 수료자 대상 KT 채용 연계 혹은 스폰서십(장학금/GPU 이용권) 지원"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/010f83d8c38b97858a8afb5f209f4dc7.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "김동화",
+				"real_name": "김동화",
+				"display_name": "3.5기_김동화",
+				"team": "T01QA5S537V",
+				"name": "ehd9712",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,92 +1,94 @@
-[
-  {
-    "client_msg_id": "3d594f0b-b95a-416f-b8b3-328e545a10c9",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "*\u0026lt;개인/랩 별 서버 대여 관련\u0026gt;*\n이따금 개인/랩 별로 서버를 할당해 달라는 요청이 있는데요.\n특별히 바쁜 상황이 아니면 가급적 launch-shell을 통해 노드를 할당 받아 사용하시고,\n특별히 급한 상황인 경우 서버관리위원회를 통해 [서버-관리] 채널에 요청을 해주세요.\n\"절차\"가 생겨 다소 번거로우실 수 있겠지만, 공평하게 자원을 사용하기 위함이니 넓은 이해 부탁드립니다.\n\n서버 대여 Rule (논의를 거쳐 개정될 수 있음)을 아래와 같이 하고자 합니다.\n\n• 기본적으로 모든 학생이 같은 상황인 케이스 (예: 석사학위 논문 또는 코스웍 숙제를 위해 노드가 필요함)에 대해서는 노드를 개별 할당하지 않는다.\n• Conference에 paper 제출 등의 목적인 경우, 서버관리위원회의 승인 여부에 따라 가급적 요청자에게 노드를 배정한다.\n    ◦ 특히 서버가 busy한 상황에서 요청자가 많은 경우, 서버관리위원회 논의를 거쳐 할당여부 및 할당량 등을 결정한다.\n• 개인별 최대 배정 노드는 1개 (GPU 4개), 노드 배정 기간은 최대 1개월로 한다.\n• 배정 후 사용량이 적거나 없는 경우, 배정 자원을 축소 또는 회수할 수 있다.\n• 배정 요청은 반드시 랩별 서버 담당자를 통해 진행하도록 하고, 서버 담당자는 아래의 양식으로 [서버-관리] 채널에 요청 내용을 전달한다.\n    ◦ 요청이 채널에 올라오면, 모든 랩별 서버 담당자는 랩 의견을 수렴하여 투표에 참여한다.\n    ◦ 24시간의 투표기간 내에 서버 담당자 과반수의 참여와 참여 인원 과반수의 찬성인 경우 서버를 배정한다.\n    ◦ 정해진 기간 내에 과반수의 서버 담당자가 투표하지 않을 경우 기권으로 간주하고, 서버 관리자가 자원 가용 현황을 고려하여 서버 배정을 결정한다.\n```- 사용자: ㅇㅇㅇ 연구원 (박사), ㅇㅇㅇ 연구원 (석사) 총 2명\n- 계정명: yourid1, yourid2\n- 사  유: ㅇㅇㅇ Conference Paper 제출을 위함\n- 기  간: 2주 (2022. 1. 1. ~ 2022. 1. 14.)\n- 요청량: 노드 1개 ```",
-    "ts": "1640759958.027600",
-    "edited": {
-      "user": "U01QAE573J7",
-      "ts": "1640776711.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 5,
-        "users": [
-          "U01QAE5DERZ",
-          "U01Q75KNV1T",
-          "U02MN19LHJ4",
-          "U01QV1SQJ57",
-          "U01QGJL6SP5"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "29rKt",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c개인/랩 별 서버 대여 관련\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n이따금 개인/랩 별로 서버를 할당해 달라는 요청이 있는데요.\n특별히 바쁜 상황이 아니면 가급적 launch-shell을 통해 노드를 할당 받아 사용하시고,\n특별히 급한 상황인 경우 서버관리위원회를 통해 [서버-관리] 채널에 요청을 해주세요.\n\"절차\"가 생겨 다소 번거로우실 수 있겠지만, 공평하게 자원을 사용하기 위함이니 넓은 이해 부탁드립니다.\n\n서버 대여 Rule (논의를 거쳐 개정될 수 있음)을 아래와 같이 하고자 합니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\ubcf8\\uc801\\uc73c\\ub85c \\ubaa8\\ub4e0 \\ud559\\uc0dd\\uc774 \\uac19\\uc740 \\uc0c1\\ud669\\uc778 \\ucf00\\uc774\\uc2a4 (\\uc608: \\uc11d\\uc0ac\\ud559\\uc704 \\ub17c\\ubb38 \\ub610\\ub294 \\ucf54\\uc2a4\\uc6cd \\uc219\\uc81c\\ub97c \\uc704\\ud574 \\ub178\\ub4dc\\uac00 \\ud544\\uc694\\ud568)\\uc5d0 \\ub300\\ud574\\uc11c\\ub294 \\ub178\\ub4dc\\ub97c \\uac1c\\ubcc4 \\ud560\\ub2f9\\ud558\\uc9c0 \\uc54a\\ub294\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Conference\\uc5d0 paper \\uc81c\\ucd9c \\ub4f1\\uc758 \\ubaa9\\uc801\\uc778 \\uacbd\\uc6b0, \\uc11c\\ubc84\\uad00\\ub9ac\\uc704\\uc6d0\\ud68c\\uc758 \\uc2b9\\uc778 \\uc5ec\\ubd80\\uc5d0 \\ub530\\ub77c \\uac00\\uae09\\uc801 \\uc694\\uccad\\uc790\\uc5d0\\uac8c \\ub178\\ub4dc\\ub97c \\ubc30\\uc815\\ud55c\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud2b9\\ud788 \\uc11c\\ubc84\\uac00 busy\\ud55c \\uc0c1\\ud669\\uc5d0\\uc11c \\uc694\\uccad\\uc790\\uac00 \\ub9ce\\uc740 \\uacbd\\uc6b0, \\uc11c\\ubc84\\uad00\\ub9ac\\uc704\\uc6d0\\ud68c \\ub17c\\uc758\\ub97c \\uac70\\uccd0 \\ud560\\ub2f9\\uc5ec\\ubd80 \\ubc0f \\ud560\\ub2f9\\ub7c9 \\ub4f1\\uc744 \\uacb0\\uc815\\ud55c\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\uc778\\ubcc4 \\ucd5c\\ub300 \\ubc30\\uc815 \\ub178\\ub4dc\\ub294 1\\uac1c (GPU 4\\uac1c), \\ub178\\ub4dc \\ubc30\\uc815 \\uae30\\uac04\\uc740 \\ucd5c\\ub300 1\\uac1c\\uc6d4\\ub85c \\ud55c\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc30\\uc815 \\ud6c4 \\uc0ac\\uc6a9\\ub7c9\\uc774 \\uc801\\uac70\\ub098 \\uc5c6\\ub294 \\uacbd\\uc6b0, \\ubc30\\uc815 \\uc790\\uc6d0\\uc744 \\ucd95\\uc18c \\ub610\\ub294 \\ud68c\\uc218\\ud560 \\uc218 \\uc788\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc30\\uc815 \\uc694\\uccad\\uc740 \\ubc18\\ub4dc\\uc2dc \\ub7a9\\ubcc4 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\ub97c \\ud1b5\\ud574 \\uc9c4\\ud589\\ud558\\ub3c4\\ub85d \\ud558\\uace0, \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\ub294 \\uc544\\ub798\\uc758 \\uc591\\uc2dd\\uc73c\\ub85c [\\uc11c\\ubc84-\\uad00\\ub9ac] \\ucc44\\ub110\\uc5d0 \\uc694\\uccad \\ub0b4\\uc6a9\\uc744 \\uc804\\ub2ec\\ud55c\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc694\\uccad\\uc774 \\ucc44\\ub110\\uc5d0 \\uc62c\\ub77c\\uc624\\uba74, \\ubaa8\\ub4e0 \\ub7a9\\ubcc4 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\ub294 \\ub7a9 \\uc758\\uacac\\uc744 \\uc218\\ub834\\ud558\\uc5ec \\ud22c\\ud45c\\uc5d0 \\ucc38\\uc5ec\\ud55c\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"24\\uc2dc\\uac04\\uc758 \\ud22c\\ud45c\\uae30\\uac04 \\ub0b4\\uc5d0 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790 \\uacfc\\ubc18\\uc218\\uc758 \\ucc38\\uc5ec\\uc640 \\ucc38\\uc5ec \\uc778\\uc6d0 \\uacfc\\ubc18\\uc218\\uc758 \\ucc2c\\uc131\\uc778 \\uacbd\\uc6b0 \\uc11c\\ubc84\\ub97c \\ubc30\\uc815\\ud55c\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc815\\ud574\\uc9c4 \\uae30\\uac04 \\ub0b4\\uc5d0 \\uacfc\\ubc18\\uc218\\uc758 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\uac00 \\ud22c\\ud45c\\ud558\\uc9c0 \\uc54a\\uc744 \\uacbd\\uc6b0 \\uae30\\uad8c\\uc73c\\ub85c \\uac04\\uc8fc\\ud558\\uace0, \\uc11c\\ubc84 \\uad00\\ub9ac\\uc790\\uac00 \\uc790\\uc6d0 \\uac00\\uc6a9 \\ud604\\ud669\\uc744 \\uace0\\ub824\\ud558\\uc5ec \\uc11c\\ubc84 \\ubc30\\uc815\\uc744 \\uacb0\\uc815\\ud55c\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_preformatted",
-            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"- \\uc0ac\\uc6a9\\uc790: \\u3147\\u3147\\u3147 \\uc5f0\\uad6c\\uc6d0 (\\ubc15\\uc0ac), \\u3147\\u3147\\u3147 \\uc5f0\\uad6c\\uc6d0 (\\uc11d\\uc0ac) \\ucd1d 2\\uba85\\n- \\uacc4\\uc815\\uba85: yourid1, yourid2\\n- \\uc0ac  \\uc720: \\u3147\\u3147\\u3147 Conference Paper \\uc81c\\ucd9c\\uc744 \\uc704\\ud568\\n- \\uae30  \\uac04: 2\\uc8fc (2022. 1. 1. ~ 2022. 1. 14.)\\n- \\uc694\\uccad\\ub7c9: \\ub178\\ub4dc 1\\uac1c \"}]}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "3d594f0b-b95a-416f-b8b3-328e545a10c9",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "*&lt;개인/랩 별 서버 대여 관련&gt;*\n이따금 개인/랩 별로 서버를 할당해 달라는 요청이 있는데요.\n특별히 바쁜 상황이 아니면 가급적 launch-shell을 통해 노드를 할당 받아 사용하시고,\n특별히 급한 상황인 경우 서버관리위원회를 통해 [서버-관리] 채널에 요청을 해주세요.\n\"절차\"가 생겨 다소 번거로우실 수 있겠지만, 공평하게 자원을 사용하기 위함이니 넓은 이해 부탁드립니다.\n\n서버 대여 Rule (논의를 거쳐 개정될 수 있음)을 아래와 같이 하고자 합니다.\n\n• 기본적으로 모든 학생이 같은 상황인 케이스 (예: 석사학위 논문 또는 코스웍 숙제를 위해 노드가 필요함)에 대해서는 노드를 개별 할당하지 않는다.\n• Conference에 paper 제출 등의 목적인 경우, 서버관리위원회의 승인 여부에 따라 가급적 요청자에게 노드를 배정한다.\n    ◦ 특히 서버가 busy한 상황에서 요청자가 많은 경우, 서버관리위원회 논의를 거쳐 할당여부 및 할당량 등을 결정한다.\n• 개인별 최대 배정 노드는 1개 (GPU 4개), 노드 배정 기간은 최대 1개월로 한다.\n• 배정 후 사용량이 적거나 없는 경우, 배정 자원을 축소 또는 회수할 수 있다.\n• 배정 요청은 반드시 랩별 서버 담당자를 통해 진행하도록 하고, 서버 담당자는 아래의 양식으로 [서버-관리] 채널에 요청 내용을 전달한다.\n    ◦ 요청이 채널에 올라오면, 모든 랩별 서버 담당자는 랩 의견을 수렴하여 투표에 참여한다.\n    ◦ 24시간의 투표기간 내에 서버 담당자 과반수의 참여와 참여 인원 과반수의 찬성인 경우 서버를 배정한다.\n    ◦ 정해진 기간 내에 과반수의 서버 담당자가 투표하지 않을 경우 기권으로 간주하고, 서버 관리자가 자원 가용 현황을 고려하여 서버 배정을 결정한다.\n```- 사용자: ㅇㅇㅇ 연구원 (박사), ㅇㅇㅇ 연구원 (석사) 총 2명\n- 계정명: yourid1, yourid2\n- 사  유: ㅇㅇㅇ Conference Paper 제출을 위함\n- 기  간: 2주 (2022. 1. 1. ~ 2022. 1. 14.)\n- 요청량: 노드 1개 ```",
+			"ts": "1640759958.027600",
+			"edited": {
+				"user": "U01QAE573J7",
+				"ts": "1640776711.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 5,
+					"users": [
+						"U01QAE5DERZ",
+						"U01Q75KNV1T",
+						"U02MN19LHJ4",
+						"U01QV1SQJ57",
+						"U01QGJL6SP5"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "29rKt",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<개인/랩 별 서버 대여 관련>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n이따금 개인/랩 별로 서버를 할당해 달라는 요청이 있는데요.\n특별히 바쁜 상황이 아니면 가급적 launch-shell을 통해 노드를 할당 받아 사용하시고,\n특별히 급한 상황인 경우 서버관리위원회를 통해 [서버-관리] 채널에 요청을 해주세요.\n\"절차\"가 생겨 다소 번거로우실 수 있겠지만, 공평하게 자원을 사용하기 위함이니 넓은 이해 부탁드립니다.\n\n서버 대여 Rule (논의를 거쳐 개정될 수 있음)을 아래와 같이 하고자 합니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\ubcf8\\uc801\\uc73c\\ub85c \\ubaa8\\ub4e0 \\ud559\\uc0dd\\uc774 \\uac19\\uc740 \\uc0c1\\ud669\\uc778 \\ucf00\\uc774\\uc2a4 (\\uc608: \\uc11d\\uc0ac\\ud559\\uc704 \\ub17c\\ubb38 \\ub610\\ub294 \\ucf54\\uc2a4\\uc6cd \\uc219\\uc81c\\ub97c \\uc704\\ud574 \\ub178\\ub4dc\\uac00 \\ud544\\uc694\\ud568)\\uc5d0 \\ub300\\ud574\\uc11c\\ub294 \\ub178\\ub4dc\\ub97c \\uac1c\\ubcc4 \\ud560\\ub2f9\\ud558\\uc9c0 \\uc54a\\ub294\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Conference\\uc5d0 paper \\uc81c\\ucd9c \\ub4f1\\uc758 \\ubaa9\\uc801\\uc778 \\uacbd\\uc6b0, \\uc11c\\ubc84\\uad00\\ub9ac\\uc704\\uc6d0\\ud68c\\uc758 \\uc2b9\\uc778 \\uc5ec\\ubd80\\uc5d0 \\ub530\\ub77c \\uac00\\uae09\\uc801 \\uc694\\uccad\\uc790\\uc5d0\\uac8c \\ub178\\ub4dc\\ub97c \\ubc30\\uc815\\ud55c\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud2b9\\ud788 \\uc11c\\ubc84\\uac00 busy\\ud55c \\uc0c1\\ud669\\uc5d0\\uc11c \\uc694\\uccad\\uc790\\uac00 \\ub9ce\\uc740 \\uacbd\\uc6b0, \\uc11c\\ubc84\\uad00\\ub9ac\\uc704\\uc6d0\\ud68c \\ub17c\\uc758\\ub97c \\uac70\\uccd0 \\ud560\\ub2f9\\uc5ec\\ubd80 \\ubc0f \\ud560\\ub2f9\\ub7c9 \\ub4f1\\uc744 \\uacb0\\uc815\\ud55c\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\uc778\\ubcc4 \\ucd5c\\ub300 \\ubc30\\uc815 \\ub178\\ub4dc\\ub294 1\\uac1c (GPU 4\\uac1c), \\ub178\\ub4dc \\ubc30\\uc815 \\uae30\\uac04\\uc740 \\ucd5c\\ub300 1\\uac1c\\uc6d4\\ub85c \\ud55c\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc30\\uc815 \\ud6c4 \\uc0ac\\uc6a9\\ub7c9\\uc774 \\uc801\\uac70\\ub098 \\uc5c6\\ub294 \\uacbd\\uc6b0, \\ubc30\\uc815 \\uc790\\uc6d0\\uc744 \\ucd95\\uc18c \\ub610\\ub294 \\ud68c\\uc218\\ud560 \\uc218 \\uc788\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc30\\uc815 \\uc694\\uccad\\uc740 \\ubc18\\ub4dc\\uc2dc \\ub7a9\\ubcc4 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\ub97c \\ud1b5\\ud574 \\uc9c4\\ud589\\ud558\\ub3c4\\ub85d \\ud558\\uace0, \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\ub294 \\uc544\\ub798\\uc758 \\uc591\\uc2dd\\uc73c\\ub85c [\\uc11c\\ubc84-\\uad00\\ub9ac] \\ucc44\\ub110\\uc5d0 \\uc694\\uccad \\ub0b4\\uc6a9\\uc744 \\uc804\\ub2ec\\ud55c\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc694\\uccad\\uc774 \\ucc44\\ub110\\uc5d0 \\uc62c\\ub77c\\uc624\\uba74, \\ubaa8\\ub4e0 \\ub7a9\\ubcc4 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\ub294 \\ub7a9 \\uc758\\uacac\\uc744 \\uc218\\ub834\\ud558\\uc5ec \\ud22c\\ud45c\\uc5d0 \\ucc38\\uc5ec\\ud55c\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"24\\uc2dc\\uac04\\uc758 \\ud22c\\ud45c\\uae30\\uac04 \\ub0b4\\uc5d0 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790 \\uacfc\\ubc18\\uc218\\uc758 \\ucc38\\uc5ec\\uc640 \\ucc38\\uc5ec \\uc778\\uc6d0 \\uacfc\\ubc18\\uc218\\uc758 \\ucc2c\\uc131\\uc778 \\uacbd\\uc6b0 \\uc11c\\ubc84\\ub97c \\ubc30\\uc815\\ud55c\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc815\\ud574\\uc9c4 \\uae30\\uac04 \\ub0b4\\uc5d0 \\uacfc\\ubc18\\uc218\\uc758 \\uc11c\\ubc84 \\ub2f4\\ub2f9\\uc790\\uac00 \\ud22c\\ud45c\\ud558\\uc9c0 \\uc54a\\uc744 \\uacbd\\uc6b0 \\uae30\\uad8c\\uc73c\\ub85c \\uac04\\uc8fc\\ud558\\uace0, \\uc11c\\ubc84 \\uad00\\ub9ac\\uc790\\uac00 \\uc790\\uc6d0 \\uac00\\uc6a9 \\ud604\\ud669\\uc744 \\uace0\\ub824\\ud558\\uc5ec \\uc11c\\ubc84 \\ubc30\\uc815\\uc744 \\uacb0\\uc815\\ud55c\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_preformatted",
+							"Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"- \\uc0ac\\uc6a9\\uc790: \\u3147\\u3147\\u3147 \\uc5f0\\uad6c\\uc6d0 (\\ubc15\\uc0ac), \\u3147\\u3147\\u3147 \\uc5f0\\uad6c\\uc6d0 (\\uc11d\\uc0ac) \\ucd1d 2\\uba85\\n- \\uacc4\\uc815\\uba85: yourid1, yourid2\\n- \\uc0ac  \\uc720: \\u3147\\u3147\\u3147 Conference Paper \\uc81c\\ucd9c\\uc744 \\uc704\\ud568\\n- \\uae30  \\uac04: 2\\uc8fc (2022. 1. 1. ~ 2022. 1. 14.)\\n- \\uc694\\uccad\\ub7c9: \\ub178\\ub4dc 1\\uac1c \"}]}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

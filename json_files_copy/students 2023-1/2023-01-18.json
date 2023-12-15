@@ -1,0 +1,144 @@
+[
+  {
+    "type": "message",
+    "user": "USLACKBOT",
+    "text": "Reminder: \u003chttps://snugsds.slack.com/archives/C01Q37T9JLW/p1673869973002389\u003e",
+    "ts": "1674007202.514489",
+    "attachments": [
+      {
+        "fallback": "[January 16th, 2023 3:52 AM] vetyss91: 여러분 안녕하세요? 겨울학기 다들 잘 보내고 계신가요?\n다가오는 2023년 1학기를 맞이하여 대학원 차원에서 `단체복` 을 주문한다고 합니다. (재학생 기준)\n여러 선택지가 있어 투표로 학생 여러분의 선호도를 반영하고자 합니다.\n*미대 출신 전문가*:female-artist::skin-tone-2:의 도움을 받아 아래와 같이 라인업을 정했습니다.\n빠른 의사 결정을 위해 투표는 *ASAP*해주시면 감사드리겠습니다:pray::skin-tone-2:\n더불어 바빠서 확인하지 못한 동기들을 위해 *투표독려*도 해주시면 더욱 감사드리겠습니다:pray::skin-tone-2:\n투표 기한은 *18일 수요일 자정*까지입니다. (이후 색상 투표도 진행될 예정)\n_여러분의 한 표가 아름다운 단체복을 만들어갑니다_ :among_us_voted:\n감사합니다.\n\u003chttps://shimmer-octopus-ae7.notion.site/GSDS-2091418df80e40a88588601154811427|노션 정리 링크\u003e\n\u003chttps://forms.gle/eQDruzUeYU8hP2616|구글 투표 링크\u003e\n1. 베어자켓\n2. 하프집업\n3. 후드집업 자켓\n4. 야상점퍼\n5. 롱돕바\n6. 플리스\n7. 야구점퍼\n\u003c!channel\u003e",
+        "id": 1,
+        "author_id": "U02V5LU4ED7",
+        "author_name": "임상수",
+        "author_subname": "임상수",
+        "author_link": "https://snugsds.slack.com/team/U02V5LU4ED7",
+        "author_icon": "https://avatars.slack-edge.com/2022-07-17/3794841439543_f383113404e38216863c_48.jpg",
+        "text": "여러분 안녕하세요? 겨울학기 다들 잘 보내고 계신가요?\n다가오는 2023년 1학기를 맞이하여 대학원 차원에서 `단체복` 을 주문한다고 합니다. (재학생 기준)\n여러 선택지가 있어 투표로 학생 여러분의 선호도를 반영하고자 합니다.\n*미대 출신 전문가*:female-artist::skin-tone-2:의 도움을 받아 아래와 같이 라인업을 정했습니다.\n빠른 의사 결정을 위해 투표는 *ASAP*해주시면 감사드리겠습니다:pray::skin-tone-2:\n더불어 바빠서 확인하지 못한 동기들을 위해 *투표독려*도 해주시면 더욱 감사드리겠습니다:pray::skin-tone-2:\n투표 기한은 *18일 수요일 자정*까지입니다. (이후 색상 투표도 진행될 예정)\n_여러분의 한 표가 아름다운 단체복을 만들어갑니다_ :among_us_voted:\n감사합니다.\n\u003chttps://shimmer-octopus-ae7.notion.site/GSDS-2091418df80e40a88588601154811427|노션 정리 링크\u003e\n\u003chttps://forms.gle/eQDruzUeYU8hP2616|구글 투표 링크\u003e\n1. 베어자켓\n2. 하프집업\n3. 후드집업 자켓\n4. 야상점퍼\n5. 롱돕바\n6. 플리스\n7. 야구점퍼\n\u003c!channel\u003e",
+        "from_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1673869973002389",
+        "original_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1673869973002389",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "Slack Conversation",
+        "ts": 1673869973.002389
+      }
+    ],
+    "bot_id": "B01",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Ic+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Reminder: "
+              },
+              {
+                "type": "link",
+                "url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1673869973002389",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+      "first_name": "slackbot",
+      "real_name": "Slackbot",
+      "display_name": "Slackbot",
+      "team": "T01QA5S537V",
+      "name": "slackbot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "USLACKBOT",
+    "text": "Reminder: \u003chttps://snugsds.slack.com/archives/C01Q37T9JLW/p1673869973002389\u003e",
+    "ts": "1674025230.098569",
+    "attachments": [
+      {
+        "fallback": "[January 16th, 2023 3:52 AM] vetyss91: 여러분 안녕하세요? 겨울학기 다들 잘 보내고 계신가요?\n다가오는 2023년 1학기를 맞이하여 대학원 차원에서 `단체복` 을 주문한다고 합니다. (재학생 기준)\n여러 선택지가 있어 투표로 학생 여러분의 선호도를 반영하고자 합니다.\n*미대 출신 전문가*:female-artist::skin-tone-2:의 도움을 받아 아래와 같이 라인업을 정했습니다.\n빠른 의사 결정을 위해 투표는 *ASAP*해주시면 감사드리겠습니다:pray::skin-tone-2:\n더불어 바빠서 확인하지 못한 동기들을 위해 *투표독려*도 해주시면 더욱 감사드리겠습니다:pray::skin-tone-2:\n투표 기한은 *18일 수요일 자정*까지입니다. (이후 색상 투표도 진행될 예정)\n_여러분의 한 표가 아름다운 단체복을 만들어갑니다_ :among_us_voted:\n감사합니다.\n\u003chttps://shimmer-octopus-ae7.notion.site/GSDS-2091418df80e40a88588601154811427|노션 정리 링크\u003e\n\u003chttps://forms.gle/eQDruzUeYU8hP2616|구글 투표 링크\u003e\n1. 베어자켓\n2. 하프집업\n3. 후드집업 자켓\n4. 야상점퍼\n5. 롱돕바\n6. 플리스\n7. 야구점퍼\n\u003c!channel\u003e",
+        "id": 1,
+        "author_id": "U02V5LU4ED7",
+        "author_name": "임상수",
+        "author_subname": "임상수",
+        "author_link": "https://snugsds.slack.com/team/U02V5LU4ED7",
+        "author_icon": "https://avatars.slack-edge.com/2022-07-17/3794841439543_f383113404e38216863c_48.jpg",
+        "text": "여러분 안녕하세요? 겨울학기 다들 잘 보내고 계신가요?\n다가오는 2023년 1학기를 맞이하여 대학원 차원에서 `단체복` 을 주문한다고 합니다. (재학생 기준)\n여러 선택지가 있어 투표로 학생 여러분의 선호도를 반영하고자 합니다.\n*미대 출신 전문가*:female-artist::skin-tone-2:의 도움을 받아 아래와 같이 라인업을 정했습니다.\n빠른 의사 결정을 위해 투표는 *ASAP*해주시면 감사드리겠습니다:pray::skin-tone-2:\n더불어 바빠서 확인하지 못한 동기들을 위해 *투표독려*도 해주시면 더욱 감사드리겠습니다:pray::skin-tone-2:\n투표 기한은 *18일 수요일 자정*까지입니다. (이후 색상 투표도 진행될 예정)\n_여러분의 한 표가 아름다운 단체복을 만들어갑니다_ :among_us_voted:\n감사합니다.\n\u003chttps://shimmer-octopus-ae7.notion.site/GSDS-2091418df80e40a88588601154811427|노션 정리 링크\u003e\n\u003chttps://forms.gle/eQDruzUeYU8hP2616|구글 투표 링크\u003e\n1. 베어자켓\n2. 하프집업\n3. 후드집업 자켓\n4. 야상점퍼\n5. 롱돕바\n6. 플리스\n7. 야구점퍼\n\u003c!channel\u003e",
+        "from_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1673869973002389",
+        "original_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1673869973002389",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "Slack Conversation",
+        "ts": 1673869973.002389
+      }
+    ],
+    "bot_id": "B01",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YZg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Reminder: "
+              },
+              {
+                "type": "link",
+                "url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1673869973002389",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+      "first_name": "slackbot",
+      "real_name": "Slackbot",
+      "display_name": "Slackbot",
+      "team": "T01QA5S537V",
+      "name": "slackbot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

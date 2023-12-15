@@ -1,78 +1,80 @@
-[
-  {
-    "client_msg_id": "94b693f2-3107-4ced-bf4a-10e19f57f74e",
-    "type": "message",
-    "user": "U01R688N9BJ",
-    "text": "\u003chttp://www.insightkorea.co.kr/news/articleView.html?idxno=93797\u003e\n\n매스프레소의 이용재 대표 기사입니다.\n서울대 전기정보공학부 2010학번이며, 2015년 졸업할 때 차상균 교수 실험실에서 구글 텐서플로우 써서 논문 쓰고 이후 매스프레소 창업하였습니다. 매스프레소는 현재 4천억 valuation이며. 다음 펀딩에서 1조원 유니콘을 목표로 하고 있습니다.\n1월 5일 세미나에서 강연했던 bepro 강현욱 대표처럼 문제 영역을 정해놓고 수년간 데이터 기반의 혁신을 일으킨 Data Scientist의 role model이라고 볼 수 있습니다.",
-    "ts": "1642813877.003900",
-    "attachments": [
-      {
-        "fallback": "인사이트코리아: ‘콴다’ 앱으로 교육격차 줄이는 이용재 매스프레소 대표",
-        "id": 1,
-        "title": "‘콴다’ 앱으로 교육격차 줄이는 이용재 매스프레소 대표",
-        "title_link": "http://www.insightkorea.co.kr/news/articleView.html?idxno=93797",
-        "text": "[인사이트코리아=박지훈 기자] 코로나19 팬데믹에 맞서 몇몇 모바일 애플리케이션(App)이 세상을 구하고 있다. 전염의 매개체가 될 수 있는 종이 메뉴판을 QR 메뉴판으로 대체한 ‘마이메뉴’, 대면 만남이 제한되는 가운데 전 세계인을 대상으로 영상 메신저 서비스를 제공하는 ‘아자르’ 등이 거론된다.여기에 감염병 유행으로 인해 지역별, 소득별로 벌어지는 교육격차를 줄이고 있는 앱이 있다. 학원에 가지 않아도 서울 강남에 살지 않는 학생도 수준 높은 과외 선생님 역할을 하는 매스프레소(Mathpresso)의 ‘콴다(QANDA)’를 이용",
-        "thumb_url": "http://cdn.insightkorea.co.kr/news/thumbnail/202112/93797_89953_3628_v150.jpg",
-        "service_name": "인사이트코리아",
-        "service_icon": "http://cdn.insightkorea.co.kr/image/logo/favicon_20191129045739.png",
-        "from_url": "http://www.insightkorea.co.kr/news/articleView.html?idxno=93797",
-        "original_url": "http://www.insightkorea.co.kr/news/articleView.html?idxno=93797",
-        "blocks": null,
-        "ts": 1638337260
-      }
-    ],
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "exclamation",
-        "count": 1,
-        "users": [
-          "U01Q1KFN4JK"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "WD3Wg",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "link",
-                "url": "http://www.insightkorea.co.kr/news/articleView.html?idxno=93797",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n\n매스프레소의 이용재 대표 기사입니다.\n서울대 전기정보공학부 2010학번이며, 2015년 졸업할 때 차상균 교수 실험실에서 구글 텐서플로우 써서 논문 쓰고 이후 매스프레소 창업하였습니다. 매스프레소는 현재 4천억 valuation이며. 다음 펀딩에서 1조원 유니콘을 목표로 하고 있습니다.\n1월 5일 세미나에서 강연했던 bepro 강현욱 대표처럼 문제 영역을 정해놓고 수년간 데이터 기반의 혁신을 일으킨 Data Scientist의 role model이라고 볼 수 있습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
-      "first_name": "Jinwoong",
-      "real_name": "Jinwoong Kim",
-      "display_name": "2기_김진웅",
-      "team": "T01QA5S537V",
-      "name": "qazcde.k",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "94b693f2-3107-4ced-bf4a-10e19f57f74e",
+			"type": "message",
+			"user": "U01R688N9BJ",
+			"text": "<http://www.insightkorea.co.kr/news/articleView.html?idxno=93797>\n\n매스프레소의 이용재 대표 기사입니다.\n서울대 전기정보공학부 2010학번이며, 2015년 졸업할 때 차상균 교수 실험실에서 구글 텐서플로우 써서 논문 쓰고 이후 매스프레소 창업하였습니다. 매스프레소는 현재 4천억 valuation이며. 다음 펀딩에서 1조원 유니콘을 목표로 하고 있습니다.\n1월 5일 세미나에서 강연했던 bepro 강현욱 대표처럼 문제 영역을 정해놓고 수년간 데이터 기반의 혁신을 일으킨 Data Scientist의 role model이라고 볼 수 있습니다.",
+			"ts": "1642813877.003900",
+			"attachments": [
+				{
+					"fallback": "인사이트코리아: ‘콴다’ 앱으로 교육격차 줄이는 이용재 매스프레소 대표",
+					"id": 1,
+					"title": "‘콴다’ 앱으로 교육격차 줄이는 이용재 매스프레소 대표",
+					"title_link": "http://www.insightkorea.co.kr/news/articleView.html?idxno=93797",
+					"text": "[인사이트코리아=박지훈 기자] 코로나19 팬데믹에 맞서 몇몇 모바일 애플리케이션(App)이 세상을 구하고 있다. 전염의 매개체가 될 수 있는 종이 메뉴판을 QR 메뉴판으로 대체한 ‘마이메뉴’, 대면 만남이 제한되는 가운데 전 세계인을 대상으로 영상 메신저 서비스를 제공하는 ‘아자르’ 등이 거론된다.여기에 감염병 유행으로 인해 지역별, 소득별로 벌어지는 교육격차를 줄이고 있는 앱이 있다. 학원에 가지 않아도 서울 강남에 살지 않는 학생도 수준 높은 과외 선생님 역할을 하는 매스프레소(Mathpresso)의 ‘콴다(QANDA)’를 이용",
+					"thumb_url": "http://cdn.insightkorea.co.kr/news/thumbnail/202112/93797_89953_3628_v150.jpg",
+					"service_name": "인사이트코리아",
+					"service_icon": "http://cdn.insightkorea.co.kr/image/logo/favicon_20191129045739.png",
+					"from_url": "http://www.insightkorea.co.kr/news/articleView.html?idxno=93797",
+					"original_url": "http://www.insightkorea.co.kr/news/articleView.html?idxno=93797",
+					"blocks": null,
+					"ts": 1638337260
+				}
+			],
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "exclamation",
+					"count": 1,
+					"users": [
+						"U01Q1KFN4JK"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "WD3Wg",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "link",
+									"url": "http://www.insightkorea.co.kr/news/articleView.html?idxno=93797",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n\n매스프레소의 이용재 대표 기사입니다.\n서울대 전기정보공학부 2010학번이며, 2015년 졸업할 때 차상균 교수 실험실에서 구글 텐서플로우 써서 논문 쓰고 이후 매스프레소 창업하였습니다. 매스프레소는 현재 4천억 valuation이며. 다음 펀딩에서 1조원 유니콘을 목표로 하고 있습니다.\n1월 5일 세미나에서 강연했던 bepro 강현욱 대표처럼 문제 영역을 정해놓고 수년간 데이터 기반의 혁신을 일으킨 Data Scientist의 role model이라고 볼 수 있습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+				"first_name": "Jinwoong",
+				"real_name": "Jinwoong Kim",
+				"display_name": "2기_김진웅",
+				"team": "T01QA5S537V",
+				"name": "qazcde.k",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,300 +1,302 @@
-[
-  {
-    "client_msg_id": "f3fb0f36-c8e2-4575-a6c2-3c806368f4b7",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e 2022학년도 1학기 본교 입학전 타교 수학학점 인정 신청 안내\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 대학원 행정실 담당자 (김민서 \u003cmailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr\u003e) 로 붙임의 [별표1] 입학 전 타교 대학원 취득학점 인정 신청서를 작성하시어 *3월 24일(목요일) 까지 제출*하여 주시기 바랍니다.  *(학사위원회 회의 심의사항으로 제출일자를 반드시 지켜 주시기 바랍니다.)* \n\n*※입학 전 타교 석사, 박사과정 취득학점 인정 범위*\n*(동일과정이어야함을 확인 석사과정의학점-\u0026gt;GSDS석사과정의 학점인정, 박사과정의학점-\u0026gt;GSDS박사과정의 학점인정)* \n*본교 석사, 박사과정 입학 이전에 타교 동일과정의 동일, 유사 전공의 과정에서 취득한 교과학점은 성적이  B0이상이며 10년 이내 이수한 경우일 때 석사과정은 6학점, 박사과정은 9학점, 석박통합과정의 경우 15학점까지 이수학점으로 인정할 수 있다. (단, 입학전 타교 석박통합과정에서의 학점을 본교 석사과정으로 인정받고자 할 경우 6학점까지만 인정가능)*  ",
-    "ts": "1647577602.555069",
-    "files": [
-      {
-        "id": "F03804VNBU1",
-        "created": 1647577516,
-        "timestamp": 1647577516,
-        "name": "[붙임2] 입학전타교대학원취득학점 신청서 및 인정표.hwp",
-        "title": "[붙임2] 입학전타교대학원취득학점 신청서 및 인정표.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 41472,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03804VNBU1-[붙임2] 입학전타교대학원취득학점 신청서 및 인정표.hwp",
-        "url_private_download": "attachments/F03804VNBU1-[붙임2] 입학전타교대학원취득학점 신청서 및 인정표.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03804VNBU1/_______2______________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03804VNBU1-9717256820",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Z+WY0",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " 2022학년도 1학기 본교 입학전 타교 수학학점 인정 신청 안내\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 대학원 행정실 담당자 (김민서 "
-              },
-              {
-                "type": "link",
-                "url": "mailto:pocahontas@snu.ac.kr",
-                "text": "pocahontas@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ") 로 붙임의 [별표1] 입학 전 타교 대학원 취득학점 인정 신청서를 작성하시어"
-              },
-              {
-                "type": "text",
-                "text": " 3월 24일(목요일) 까지 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하여 주시기 바랍니다.  "
-              },
-              {
-                "type": "text",
-                "text": "(학사위원회 회의 심의사항으로 제출일자를 반드시 지켜 주시기 바랍니다.) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "※입학 전 타교 석사, 박사과정 취득학점 인정 범위",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "(동일과정이어야함을 확인 석사과정의학점-\u003eGSDS석사과정의 학점인정, 박사과정의학점-\u003eGSDS박사과정의 학점인정) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "본교 석사, 박사과정 입학 이전에 타교 동일과정의 동일, 유사 전공의 과정에서 취득한 교과학점은 성적이  B0이상이며 10년 이내 이수한 경우일 때 석사과정은 6학점, 박사과정은 9학점, 석박통합과정의 경우 15학점까지 이수학점으로 인정할 수 있다. (단, 입학전 타교 석박통합과정에서의 학점을 본교 석사과정으로 인정받고자 할 경우 6학점까지만 인정가능)  ",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "a7c14301-03c2-415d-b143-f5e8ec6b1b64",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e 대학원 교과학점 통산인정 신청 안내\n\n서울대학교 학칙 제 80조 과정간의 학점취득 인정과 관련하여 학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정 받고자 하는 학생은 *마이스누 시스템을 통해 교과학점 통산인정 승인 신청을 한 후 대학원 행정실 담당자 (김민서 \u003cmailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr\u003e)에게 관련 사항을 3월 24일 (목요일) 까지 제출*하여 주시기 바랍니다.\n*(학사위원회 회의 심의사항으로 제출일자를 반드시 지켜 주시기 바랍니다.)  기존에 미리 신청서를 내신 분들께서도 반드시 시스템 신청을 하셔야 하는 점 알림드립니다.*\n\n현재의 과정 전의 동일, 유사전공에서 수강한 학점 중 수료기준 학점을 초과한 범위 내에서 통산인정 신청이 가능하며\n *- 학․석사간 통산인정 : 최대 6학점까지 가능*\n *- 석․박사간 통산인정 : 최대 12학점까지 가능*\n합니다.\n\n성적이 B0 이상인 교과목의 학점에 한하여 통산인정 신청이 가능하며(S/U과목 불가),  학사과정에서 이수한 석사과정 교과목 학점을 학사과정 졸업에 사용한 경우 통산인정 신청 불가함을 알려드립니다.\n\n*※ 신청방법: 마이스누 \u0026gt; 학생서비스 \u0026gt; 수업/성적 \u0026gt; 학점인정신청 내 ‘과정간 통산인정’신청*",
-    "ts": "1647578392.049349",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 1,
-        "users": [
-          "U02ULBGMA4W"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Zda",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " 대학원 교과학점 통산인정 신청 안내\n\n서울대학교 학칙 제 80조 과정간의 학점취득 인정과 관련하여 학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정 받고자 하는 학생은 "
-              },
-              {
-                "type": "text",
-                "text": "마이스누 시스템을 통해 교과학점 통산인정 승인 신청을 한 후 대학원 행정실 담당자 (김민서 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:pocahontas@snu.ac.kr",
-                "text": "pocahontas@snu.ac.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")에게 관련 사항을 3월 24일 (목요일) 까지 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하여 주시기 바랍니다.\n"
-              },
-              {
-                "type": "text",
-                "text": "(학사위원회 회의 심의사항으로 제출일자를 반드시 지켜 주시기 바랍니다.)  기존에 미리 신청서를 내신 분들께서도 반드시 시스템 신청을 하셔야 하는 점 알림드립니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n현재의 과정 전의 동일, 유사전공에서 수강한 학점 중 수료기준 학점을 초과한 범위 내에서 통산인정 신청이 가능하며\n"
-              },
-              {
-                "type": "text",
-                "text": " - 학․석사간 통산인정 : 최대 6학점까지 가능",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " - 석․박사간 통산인정 : 최대 12학점까지 가능",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n합니다.\n\n성적이 B0 이상인 교과목의 학점에 한하여 통산인정 신청이 가능하며(S/U과목 불가),  학사과정에서 이수한 석사과정 교과목 학점을 학사과정 졸업에 사용한 경우 통산인정 신청 불가함을 알려드립니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "※ 신청방법: 마이스누 \u003e 학생서비스 \u003e 수업/성적 \u003e 학점인정신청 내 ‘과정간 통산인정’신청",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "f3fb0f36-c8e2-4575-a6c2-3c806368f4b7",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> 2022학년도 1학기 본교 입학전 타교 수학학점 인정 신청 안내\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 대학원 행정실 담당자 (김민서 <mailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr>) 로 붙임의 [별표1] 입학 전 타교 대학원 취득학점 인정 신청서를 작성하시어 *3월 24일(목요일) 까지 제출*하여 주시기 바랍니다.  *(학사위원회 회의 심의사항으로 제출일자를 반드시 지켜 주시기 바랍니다.)* \n\n*※입학 전 타교 석사, 박사과정 취득학점 인정 범위*\n*(동일과정이어야함을 확인 석사과정의학점-&gt;GSDS석사과정의 학점인정, 박사과정의학점-&gt;GSDS박사과정의 학점인정)* \n*본교 석사, 박사과정 입학 이전에 타교 동일과정의 동일, 유사 전공의 과정에서 취득한 교과학점은 성적이  B0이상이며 10년 이내 이수한 경우일 때 석사과정은 6학점, 박사과정은 9학점, 석박통합과정의 경우 15학점까지 이수학점으로 인정할 수 있다. (단, 입학전 타교 석박통합과정에서의 학점을 본교 석사과정으로 인정받고자 할 경우 6학점까지만 인정가능)*  ",
+			"ts": "1647577602.555069",
+			"files": [
+				{
+					"id": "F03804VNBU1",
+					"created": 1647577516,
+					"timestamp": 1647577516,
+					"name": "[붙임2] 입학전타교대학원취득학점 신청서 및 인정표.hwp",
+					"title": "[붙임2] 입학전타교대학원취득학점 신청서 및 인정표.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 41472,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03804VNBU1-[붙임2] 입학전타교대학원취득학점 신청서 및 인정표.hwp",
+					"url_private_download": "attachments/F03804VNBU1-[붙임2] 입학전타교대학원취득학점 신청서 및 인정표.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03804VNBU1/_______2______________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03804VNBU1-9717256820",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Z+WY0",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " 2022학년도 1학기 본교 입학전 타교 수학학점 인정 신청 안내\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 대학원 행정실 담당자 (김민서 "
+								},
+								{
+									"type": "link",
+									"url": "mailto:pocahontas@snu.ac.kr",
+									"text": "pocahontas@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ") 로 붙임의 [별표1] 입학 전 타교 대학원 취득학점 인정 신청서를 작성하시어"
+								},
+								{
+									"type": "text",
+									"text": " 3월 24일(목요일) 까지 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하여 주시기 바랍니다.  "
+								},
+								{
+									"type": "text",
+									"text": "(학사위원회 회의 심의사항으로 제출일자를 반드시 지켜 주시기 바랍니다.) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "※입학 전 타교 석사, 박사과정 취득학점 인정 범위",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "(동일과정이어야함을 확인 석사과정의학점->GSDS석사과정의 학점인정, 박사과정의학점->GSDS박사과정의 학점인정) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "본교 석사, 박사과정 입학 이전에 타교 동일과정의 동일, 유사 전공의 과정에서 취득한 교과학점은 성적이  B0이상이며 10년 이내 이수한 경우일 때 석사과정은 6학점, 박사과정은 9학점, 석박통합과정의 경우 15학점까지 이수학점으로 인정할 수 있다. (단, 입학전 타교 석박통합과정에서의 학점을 본교 석사과정으로 인정받고자 할 경우 6학점까지만 인정가능)  ",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "a7c14301-03c2-415d-b143-f5e8ec6b1b64",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> 대학원 교과학점 통산인정 신청 안내\n\n서울대학교 학칙 제 80조 과정간의 학점취득 인정과 관련하여 학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정 받고자 하는 학생은 *마이스누 시스템을 통해 교과학점 통산인정 승인 신청을 한 후 대학원 행정실 담당자 (김민서 <mailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr>)에게 관련 사항을 3월 24일 (목요일) 까지 제출*하여 주시기 바랍니다.\n*(학사위원회 회의 심의사항으로 제출일자를 반드시 지켜 주시기 바랍니다.)  기존에 미리 신청서를 내신 분들께서도 반드시 시스템 신청을 하셔야 하는 점 알림드립니다.*\n\n현재의 과정 전의 동일, 유사전공에서 수강한 학점 중 수료기준 학점을 초과한 범위 내에서 통산인정 신청이 가능하며\n *- 학․석사간 통산인정 : 최대 6학점까지 가능*\n *- 석․박사간 통산인정 : 최대 12학점까지 가능*\n합니다.\n\n성적이 B0 이상인 교과목의 학점에 한하여 통산인정 신청이 가능하며(S/U과목 불가),  학사과정에서 이수한 석사과정 교과목 학점을 학사과정 졸업에 사용한 경우 통산인정 신청 불가함을 알려드립니다.\n\n*※ 신청방법: 마이스누 &gt; 학생서비스 &gt; 수업/성적 &gt; 학점인정신청 내 ‘과정간 통산인정’신청*",
+			"ts": "1647578392.049349",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 1,
+					"users": [
+						"U02ULBGMA4W"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Zda",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " 대학원 교과학점 통산인정 신청 안내\n\n서울대학교 학칙 제 80조 과정간의 학점취득 인정과 관련하여 학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정 받고자 하는 학생은 "
+								},
+								{
+									"type": "text",
+									"text": "마이스누 시스템을 통해 교과학점 통산인정 승인 신청을 한 후 대학원 행정실 담당자 (김민서 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:pocahontas@snu.ac.kr",
+									"text": "pocahontas@snu.ac.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")에게 관련 사항을 3월 24일 (목요일) 까지 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하여 주시기 바랍니다.\n"
+								},
+								{
+									"type": "text",
+									"text": "(학사위원회 회의 심의사항으로 제출일자를 반드시 지켜 주시기 바랍니다.)  기존에 미리 신청서를 내신 분들께서도 반드시 시스템 신청을 하셔야 하는 점 알림드립니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n현재의 과정 전의 동일, 유사전공에서 수강한 학점 중 수료기준 학점을 초과한 범위 내에서 통산인정 신청이 가능하며\n"
+								},
+								{
+									"type": "text",
+									"text": " - 학․석사간 통산인정 : 최대 6학점까지 가능",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " - 석․박사간 통산인정 : 최대 12학점까지 가능",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n합니다.\n\n성적이 B0 이상인 교과목의 학점에 한하여 통산인정 신청이 가능하며(S/U과목 불가),  학사과정에서 이수한 석사과정 교과목 학점을 학사과정 졸업에 사용한 경우 통산인정 신청 불가함을 알려드립니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "※ 신청방법: 마이스누 > 학생서비스 > 수업/성적 > 학점인정신청 내 ‘과정간 통산인정’신청",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

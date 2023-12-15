@@ -1,145 +1,147 @@
-[
-  {
-    "client_msg_id": "cdf73584-b443-43e4-af11-90b3b9dae1f1",
-    "type": "message",
-    "user": "U01PVETV83H",
-    "text": "*It might be of your interest!*\n\nI wanted to share the published results of Prof. Zicari’s research work on trustworthy AI systems. Roberto V. Zicari is an adjunct professor at the Graduate School of Data Science. He is currently leading an international team of researchers. His team developed a process to design/assess Trustworthy AI in practice: \u003chttp://z-inspection.org\u003e. This assessment takes into account the “Framework for Trustworthy AI” and the seven key requirements that AI systems should meet in order to be deemed trustworthy, defined by the independent High-Level Expert Group of Artificial Intelligence, set by \u003chttp://z-inspection.org/the-process-2/|the European Commission\u003e\n\n_Trilogy of the publications_\n\n1. *\u003chttps://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\u0026amp;arnumber=9380498|Z-Inspection®: A Process to Assess Trustworthy AI\u003e* \n2. *\u003chttps://www.frontiersin.org/articles/10.3389/fhumd.2021.673104/full|On Assessing Trustworthy AI in Healthcare. Machine Learning as a Supportive Tool to Recognize Cardiac Arrest in Emergency Calls\u003e*\n3. *\u003chttps://www.frontiersin.org/articles/10.3389/fhumd.2021.688152/full|Co-Design of a Trustworthy AI System in Healthcare: Deep Learning Based Skin Lesion Classifier\u003e*\nHis team is also working on this new use case: *\u003chttp://z-inspection.org/best-practice-deep-learning-for-predicting-a-multi-regional-score-conveying-the-degree-of-lung-compromise-in-covid-19-patients/|Deep Learning for predicting a multi-regional score conveying the degree of lung compromise in COVID-19 patients\u003e*\n\nHe might teach *\u003chttp://z-inspection.org/seoul-national-university-ethical-implications-of-ai-series-of-lectures/|Ethical Implications of AI\u003e* sometime next year so stay tuned!",
-    "ts": "1634121075.001100",
-    "edited": {
-      "user": "U01PVETV83H",
-      "ts": "1634122427.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 5,
-        "users": [
-          "U01QNSM488Z",
-          "U01PVETMX2T",
-          "U01QGJL6SP5",
-          "U01QGKCUAJX",
-          "U0302PL7F7S"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "+vf",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "It might be of your interest!",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nI wanted to share the published results of Prof. Zicari’s research work on trustworthy AI systems. Roberto V. Zicari is an adjunct professor at the Graduate School of Data Science. He is currently leading an international team of researchers. His team developed a process to design/assess Trustworthy AI in practice: "
-              },
-              {
-                "type": "link",
-                "url": "http://z-inspection.org",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ". This assessment takes into account the “Framework for Trustworthy AI” and the seven key requirements that AI systems should meet in order to be deemed trustworthy, defined by the independent High-Level Expert Group of Artificial Intelligence, set by "
-              },
-              {
-                "type": "link",
-                "url": "http://z-inspection.org/the-process-2/",
-                "text": "the European Commission"
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "Trilogy of the publications",
-                "style": {
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/ieeexplore.ieee.org\\/stamp\\/stamp.jsp?tp=\u0026arnumber=9380498\",\"text\":\"Z-Inspection\\u00ae: A Process to Assess Trustworthy AI\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.frontiersin.org\\/articles\\/10.3389\\/fhumd.2021.673104\\/full\",\"text\":\"On Assessing Trustworthy AI in Healthcare. Machine Learning as a Supportive Tool to Recognize Cardiac Arrest in Emergency Calls\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.frontiersin.org\\/articles\\/10.3389\\/fhumd.2021.688152\\/full\",\"text\":\"Co-Design of a Trustworthy AI System in Healthcare: Deep Learning Based Skin Lesion Classifier\",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\nHis team is also working on this new use case: "
-              },
-              {
-                "type": "link",
-                "url": "http://z-inspection.org/best-practice-deep-learning-for-predicting-a-multi-regional-score-conveying-the-degree-of-lung-compromise-in-covid-19-patients/",
-                "text": "Deep Learning for predicting a multi-regional score conveying the degree of lung compromise in COVID-19 patients",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nHe might teach "
-              },
-              {
-                "type": "link",
-                "url": "http://z-inspection.org/seoul-national-university-ethical-implications-of-ai-series-of-lectures/",
-                "text": "Ethical Implications of AI",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "sometime next year so stay tuned!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1832466060148_1534da1d255f371f185a_72.png",
-      "first_name": "James",
-      "real_name": "James Chang",
-      "display_name": "1기_장재원",
-      "team": "T01QA5S537V",
-      "name": "jaewon415",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "cdf73584-b443-43e4-af11-90b3b9dae1f1",
+			"type": "message",
+			"user": "U01PVETV83H",
+			"text": "*It might be of your interest!*\n\nI wanted to share the published results of Prof. Zicari’s research work on trustworthy AI systems. Roberto V. Zicari is an adjunct professor at the Graduate School of Data Science. He is currently leading an international team of researchers. His team developed a process to design/assess Trustworthy AI in practice: <http://z-inspection.org>. This assessment takes into account the “Framework for Trustworthy AI” and the seven key requirements that AI systems should meet in order to be deemed trustworthy, defined by the independent High-Level Expert Group of Artificial Intelligence, set by <http://z-inspection.org/the-process-2/|the European Commission>\n\n_Trilogy of the publications_\n\n1. *<https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=9380498|Z-Inspection®: A Process to Assess Trustworthy AI>* \n2. *<https://www.frontiersin.org/articles/10.3389/fhumd.2021.673104/full|On Assessing Trustworthy AI in Healthcare. Machine Learning as a Supportive Tool to Recognize Cardiac Arrest in Emergency Calls>*\n3. *<https://www.frontiersin.org/articles/10.3389/fhumd.2021.688152/full|Co-Design of a Trustworthy AI System in Healthcare: Deep Learning Based Skin Lesion Classifier>*\nHis team is also working on this new use case: *<http://z-inspection.org/best-practice-deep-learning-for-predicting-a-multi-regional-score-conveying-the-degree-of-lung-compromise-in-covid-19-patients/|Deep Learning for predicting a multi-regional score conveying the degree of lung compromise in COVID-19 patients>*\n\nHe might teach *<http://z-inspection.org/seoul-national-university-ethical-implications-of-ai-series-of-lectures/|Ethical Implications of AI>* sometime next year so stay tuned!",
+			"ts": "1634121075.001100",
+			"edited": {
+				"user": "U01PVETV83H",
+				"ts": "1634122427.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 5,
+					"users": [
+						"U01QNSM488Z",
+						"U01PVETMX2T",
+						"U01QGJL6SP5",
+						"U01QGKCUAJX",
+						"U0302PL7F7S"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "+vf",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "It might be of your interest!",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nI wanted to share the published results of Prof. Zicari’s research work on trustworthy AI systems. Roberto V. Zicari is an adjunct professor at the Graduate School of Data Science. He is currently leading an international team of researchers. His team developed a process to design/assess Trustworthy AI in practice: "
+								},
+								{
+									"type": "link",
+									"url": "http://z-inspection.org",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ". This assessment takes into account the “Framework for Trustworthy AI” and the seven key requirements that AI systems should meet in order to be deemed trustworthy, defined by the independent High-Level Expert Group of Artificial Intelligence, set by "
+								},
+								{
+									"type": "link",
+									"url": "http://z-inspection.org/the-process-2/",
+									"text": "the European Commission"
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "Trilogy of the publications",
+									"style": {
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/ieeexplore.ieee.org\\/stamp\\/stamp.jsp?tp=&arnumber=9380498\",\"text\":\"Z-Inspection\\u00ae: A Process to Assess Trustworthy AI\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.frontiersin.org\\/articles\\/10.3389\\/fhumd.2021.673104\\/full\",\"text\":\"On Assessing Trustworthy AI in Healthcare. Machine Learning as a Supportive Tool to Recognize Cardiac Arrest in Emergency Calls\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/www.frontiersin.org\\/articles\\/10.3389\\/fhumd.2021.688152\\/full\",\"text\":\"Co-Design of a Trustworthy AI System in Healthcare: Deep Learning Based Skin Lesion Classifier\",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\nHis team is also working on this new use case: "
+								},
+								{
+									"type": "link",
+									"url": "http://z-inspection.org/best-practice-deep-learning-for-predicting-a-multi-regional-score-conveying-the-degree-of-lung-compromise-in-covid-19-patients/",
+									"text": "Deep Learning for predicting a multi-regional score conveying the degree of lung compromise in COVID-19 patients",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nHe might teach "
+								},
+								{
+									"type": "link",
+									"url": "http://z-inspection.org/seoul-national-university-ethical-implications-of-ai-series-of-lectures/",
+									"text": "Ethical Implications of AI",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "sometime next year so stay tuned!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1832466060148_1534da1d255f371f185a_72.png",
+				"first_name": "James",
+				"real_name": "James Chang",
+				"display_name": "1기_장재원",
+				"team": "T01QA5S537V",
+				"name": "jaewon415",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

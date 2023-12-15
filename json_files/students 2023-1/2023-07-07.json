@@ -1,147 +1,149 @@
-[
-  {
-    "client_msg_id": "22A509C9-63FB-49F0-89C0-D80601E743F3",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "피자 준비되었으니 오셔서 드시면 됩니다!",
-    "ts": "1688700209.169199",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "VuL=s",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "피자"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "준비되었으니"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "오셔서"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "드시면"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "됩니다"
-              },
-              {
-                "type": "text",
-                "text": "!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "877f6239-81c2-43af-a4cb-3fcb6687e694",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "안녕하세요 학생회입니다.\n7월 21일 피자 세미나 발표자를 모집 중에 있습니다(1명)\n많은 분들 앞에서 영어로 발표하고 교수님 및 학우들에게 질문과 코멘트를 받아볼 수 있는 귀한 자리입니다.\n많은 관심 부탁드려요! :raised_hands:",
-    "ts": "1688707697.417239",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "party_blob-2",
-        "count": 4,
-        "users": [
-          "U02ULBH3TEJ",
-          "U04Q2G4KNTZ",
-          "U04QVLEGY3B",
-          "U01PVEU1A07"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "cNfLK",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요 학생회입니다.\n7월 21일 피자 세미나 발표자를 모집 중에 있습니다(1명)\n많은 분들 앞에서 영어로 발표하고 교수님 및 학우들에게 질문과 코멘트를 받아볼 수 있는 귀한 자리입니다.\n많은 관심 부탁드려요! "
-              },
-              {
-                "type": "emoji",
-                "name": "raised_hands",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "22A509C9-63FB-49F0-89C0-D80601E743F3",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "피자 준비되었으니 오셔서 드시면 됩니다!",
+			"ts": "1688700209.169199",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "VuL=s",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "피자"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "준비되었으니"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "오셔서"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "드시면"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "됩니다"
+								},
+								{
+									"type": "text",
+									"text": "!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "877f6239-81c2-43af-a4cb-3fcb6687e694",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "안녕하세요 학생회입니다.\n7월 21일 피자 세미나 발표자를 모집 중에 있습니다(1명)\n많은 분들 앞에서 영어로 발표하고 교수님 및 학우들에게 질문과 코멘트를 받아볼 수 있는 귀한 자리입니다.\n많은 관심 부탁드려요! :raised_hands:",
+			"ts": "1688707697.417239",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "party_blob-2",
+					"count": 4,
+					"users": [
+						"U02ULBH3TEJ",
+						"U04Q2G4KNTZ",
+						"U04QVLEGY3B",
+						"U01PVEU1A07"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "cNfLK",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요 학생회입니다.\n7월 21일 피자 세미나 발표자를 모집 중에 있습니다(1명)\n많은 분들 앞에서 영어로 발표하고 교수님 및 학우들에게 질문과 코멘트를 받아볼 수 있는 귀한 자리입니다.\n많은 관심 부탁드려요! "
+								},
+								{
+									"type": "emoji",
+									"name": "raised_hands",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

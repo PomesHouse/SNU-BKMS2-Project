@@ -1,467 +1,469 @@
-[
-  {
-    "client_msg_id": "26e89f20-4667-42ba-ac9b-080613606260",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;NRF 세미나(AI와 윤리, 초거대 생성형 AI를 중심으로) 개최 안내\u0026gt;*\n한국연구재단이 주최하는 NRF 세미나(AI와 윤리, 초거대 생성형 AI를 중심으로) 개최를 안내드리오니, 관심 있는 학생분들은 참여바랍니다\n 가. 세미나 개요\n  ○ 주 제: AI와 윤리, 초거대 생성형 AI를 중심으로\n  ○ 일 시: 2023. 9. 1.(금) 13:30\n  ○ 발 표: 이상욱 교수(한양대학교 철학과 \u0026amp; 인공지능학과)\n               ※ UNESCO 세계과학기술윤리위원회 부위원장\n               ※ 2023년 교육부 연구윤리활동지원사업 \"AI 연구윤리\" 연구과제 책임자\n 나. 참여 방법\n  ○ 참여링크: *\u003chttps://youtube.com/live/L8MVT7R9Yy8?feature=share\u003e*\n             ※ 당일 온라인 생중계로 진행, *사전 교육신청 없음*\n  ○ 주 최: 한국연구재단\n  ○ 문 의 처: 한국연구재단 윤리정책팀 한수연(\u003ctel:0428696329|042-869-6329\u003e)\n\n 붙임 제11회 NRF 세미나 포스터 1부. 끝.",
-    "ts": "1693440174.851489",
-    "attachments": [
-      {
-        "fallback": "YouTube: :loudspeaker:제11회 NRF 세미나",
-        "id": 1,
-        "title": ":loudspeaker:제11회 NRF 세미나",
-        "title_link": "https://youtube.com/live/L8MVT7R9Yy8?feature=share",
-        "text": ":loudspeaker:제11회 NRF 세미나:round_pushpin:일시 : 2023. 9. 1.(금) 13:30~14:30:round_pushpin:장소 : 연구재단 서울청사 302호:round_pushpin:주제 : AI와 윤리, 초거대 생성형 AI를 중심으로:round_pushpin:발표 : 이상욱 한양대학교 철학과 \u0026amp; 인공지능학과 교수 UNESCO 세계과학기...",
-        "image_url": "https://i.ytimg.com/vi/L8MVT7R9Yy8/maxresdefault_live.jpg",
-        "thumb_url": "https://i.ytimg.com/vi/L8MVT7R9Yy8/maxresdefault_live.jpg",
-        "service_name": "YouTube",
-        "service_icon": "https://www.youtube.com/s/desktop/cfd03dbf/img/favicon.ico",
-        "from_url": "https://youtube.com/live/L8MVT7R9Yy8?feature=share",
-        "original_url": "https://youtube.com/live/L8MVT7R9Yy8?feature=share",
-        "blocks": null
-      }
-    ],
-    "files": [
-      {
-        "id": "F05QQPE5SKT",
-        "created": 1693440159,
-        "timestamp": 1693440159,
-        "name": "붙임_제11회 NRF 세미나 포스터(최종).jpg",
-        "title": "붙임_제11회 NRF 세미나 포스터(최종).jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1595978,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05QQPE5SKT-붙임_제11회 NRF 세미나 포스터(최종).jpg",
-        "url_private_download": "attachments/F05QQPE5SKT-붙임_제11회 NRF 세미나 포스터(최종).jpg",
-        "original_h": 3508,
-        "original_w": 2480,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05QQPE5SKT/__________11____nrf____________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QQPE5SKT-3822ac21b7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "MkM",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003cNRF 세미나(AI와 윤리, 초거대 생성형 AI를 중심으로) 개최 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n한국연구재단이 주최하는 NRF 세미나(AI와 윤리, 초거대 생성형 AI를 중심으로) 개최를 안내드리오니, 관심 있는 학생분들은 참여바랍니다\n 가. 세미나 개요\n  ○ 주 제: AI와 윤리, 초거대 생성형 AI를 중심으로\n  ○ 일 시: 2023. 9. 1.(금) 13:30\n  ○ 발 표: 이상욱 교수(한양대학교 철학과 \u0026 인공지능학과)\n               ※ UNESCO 세계과학기술윤리위원회 부위원장\n               ※ 2023년 교육부 연구윤리활동지원사업 \"AI 연구윤리\" 연구과제 책임자\n 나. 참여 방법\n  ○ 참여링크: "
-              },
-              {
-                "type": "link",
-                "url": "https://youtube.com/live/L8MVT7R9Yy8?feature=share",
-                "text": "",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "             ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "※ 당일 온라인 생중계로 진행, "
-              },
-              {
-                "type": "text",
-                "text": "사전 교육신청 없음",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  ○ 주 최: 한국연구재단\n  ○ 문 의 처: 한국연구재단 윤리정책팀 한수연("
-              },
-              {
-                "type": "link",
-                "url": "tel:0428696329",
-                "text": "042-869-6329"
-              },
-              {
-                "type": "text",
-                "text": ")\n\n 붙임 제11회 NRF 세미나 포스터 1부. 끝."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "6e89f617-873d-43a4-b900-cfe9896e36af",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;전자출결 시스템 안내\u0026gt;\n43동 및 43-2동 강의실에 전자출결 시스템이 설치되었습니다.\n강의실 출입문 입구쪽에 설치되어있으며, 학생증 또는 모바일앱 QR코드를 통해 출석체크가 가능합니다.\n전자출결 매뉴얼을 붙임과 같이 안내드리니 수강과목 중 전자출결이 필요한 과목의 경우에는 사용법을 숙지하여 주시기 바랍니다.\n\n※ 오늘(8.31.) 14시 이후 전자출결 강의들이 시스템에 확정 반영되오니, 이 점 유의하시기 바랍니다.",
-    "ts": "1693447612.283649",
-    "files": [
-      {
-        "id": "F05QCBZ816F",
-        "created": 1693447601,
-        "timestamp": 1693447601,
-        "name": "★Electronic Attendance Manual Abstract(For Students).pdf",
-        "title": "★Electronic Attendance Manual Abstract(For Students).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 760944,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05QCBZ816F-★Electronic Attendance Manual Abstract(For Students).pdf",
-        "url_private_download": "attachments/F05QCBZ816F-★Electronic Attendance Manual Abstract(For Students).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05QCBZ816F/___electronic_attendance_manual_abstract_for_students_.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QCBZ816F-95fb52ba5c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05Q9H677FF",
-        "created": 1693447604,
-        "timestamp": 1693447604,
-        "name": "★전자출결 시스템 간편매뉴얼(학생용).pdf",
-        "title": "★전자출결 시스템 간편매뉴얼(학생용).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1296064,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05Q9H677FF-★전자출결 시스템 간편매뉴얼(학생용).pdf",
-        "url_private_download": "attachments/F05Q9H677FF-★전자출결 시스템 간편매뉴얼(학생용).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05Q9H677FF/____________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05Q9H677FF-bdac03839e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05QETVANUC",
-        "created": 1693447608,
-        "timestamp": 1693447608,
-        "name": "★전자출결 시스템 매뉴얼(학생용).pdf",
-        "title": "★전자출결 시스템 매뉴얼(학생용).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2652384,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05QETVANUC-★전자출결 시스템 매뉴얼(학생용).pdf",
-        "url_private_download": "attachments/F05QETVANUC-★전자출결 시스템 매뉴얼(학생용).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05QETVANUC/______________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QETVANUC-36a4e3a6da",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "hFJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c전자출결 시스템 안내\u003e\n43동 및 43-2동 강의실에 전자출결 시스템이 설치되었습니다.\n강의실 출입문 입구쪽에 설치되어있으며, 학생증 또는 모바일앱 QR코드를 통해 출석체크가 가능합니다.\n전자출결 매뉴얼을 붙임과 같이 안내드리니 수강과목 중 전자출결이 필요한 과목의 경우에는 사용법을 숙지하여 주시기 바랍니다.\n\n※ 오늘(8.31.) 14시 이후 전자출결 강의들이 시스템에 확정 반영되오니, 이 점 유의하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "07c7f4dd-3f23-4178-b814-37141f11977f",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;*2023학년도 2학기 추가 등록일정 안내\u0026gt;*\n\n2023학년도 2학기 본등록 기간(2023. 8. 21.(월) ~ 8. 25.(금))동안 등록하지 않은 학생들에게 추가 등록을 실시하오니, 아래 기간 중 등록금을 납부하여 주시기 바랍니다.\n ㅇ추가 등록일정: 2023. 9. 12.(화) ~ 9. 14.(목), (3일간)",
-    "ts": "1693467078.923909",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xxqln",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c"
-              },
-              {
-                "type": "text",
-                "text": "2023학년도 2학기 추가 등록일정 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2023학년도 2학기 본등록 기간(2023. 8. 21.(월) ~ 8. 25.(금))동안 등록하지 않은 학생들에게 추가 등록을 실시하오니, 아래 기간 중 등록금을 납부하여 주시기 바랍니다.\n ㅇ추가 등록일정: 2023. 9. 12.(화) ~ 9. 14.(목), (3일간)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "26e89f20-4667-42ba-ac9b-080613606260",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;NRF 세미나(AI와 윤리, 초거대 생성형 AI를 중심으로) 개최 안내&gt;*\n한국연구재단이 주최하는 NRF 세미나(AI와 윤리, 초거대 생성형 AI를 중심으로) 개최를 안내드리오니, 관심 있는 학생분들은 참여바랍니다\n 가. 세미나 개요\n  ○ 주 제: AI와 윤리, 초거대 생성형 AI를 중심으로\n  ○ 일 시: 2023. 9. 1.(금) 13:30\n  ○ 발 표: 이상욱 교수(한양대학교 철학과 &amp; 인공지능학과)\n               ※ UNESCO 세계과학기술윤리위원회 부위원장\n               ※ 2023년 교육부 연구윤리활동지원사업 \"AI 연구윤리\" 연구과제 책임자\n 나. 참여 방법\n  ○ 참여링크: *<https://youtube.com/live/L8MVT7R9Yy8?feature=share>*\n             ※ 당일 온라인 생중계로 진행, *사전 교육신청 없음*\n  ○ 주 최: 한국연구재단\n  ○ 문 의 처: 한국연구재단 윤리정책팀 한수연(<tel:0428696329|042-869-6329>)\n\n 붙임 제11회 NRF 세미나 포스터 1부. 끝.",
+			"ts": "1693440174.851489",
+			"attachments": [
+				{
+					"fallback": "YouTube: :loudspeaker:제11회 NRF 세미나",
+					"id": 1,
+					"title": ":loudspeaker:제11회 NRF 세미나",
+					"title_link": "https://youtube.com/live/L8MVT7R9Yy8?feature=share",
+					"text": ":loudspeaker:제11회 NRF 세미나:round_pushpin:일시 : 2023. 9. 1.(금) 13:30~14:30:round_pushpin:장소 : 연구재단 서울청사 302호:round_pushpin:주제 : AI와 윤리, 초거대 생성형 AI를 중심으로:round_pushpin:발표 : 이상욱 한양대학교 철학과 &amp; 인공지능학과 교수 UNESCO 세계과학기...",
+					"image_url": "https://i.ytimg.com/vi/L8MVT7R9Yy8/maxresdefault_live.jpg",
+					"thumb_url": "https://i.ytimg.com/vi/L8MVT7R9Yy8/maxresdefault_live.jpg",
+					"service_name": "YouTube",
+					"service_icon": "https://www.youtube.com/s/desktop/cfd03dbf/img/favicon.ico",
+					"from_url": "https://youtube.com/live/L8MVT7R9Yy8?feature=share",
+					"original_url": "https://youtube.com/live/L8MVT7R9Yy8?feature=share",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F05QQPE5SKT",
+					"created": 1693440159,
+					"timestamp": 1693440159,
+					"name": "붙임_제11회 NRF 세미나 포스터(최종).jpg",
+					"title": "붙임_제11회 NRF 세미나 포스터(최종).jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1595978,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05QQPE5SKT-붙임_제11회 NRF 세미나 포스터(최종).jpg",
+					"url_private_download": "attachments/F05QQPE5SKT-붙임_제11회 NRF 세미나 포스터(최종).jpg",
+					"original_h": 3508,
+					"original_w": 2480,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05QQPE5SKT-ccec5a6077/__________11____nrf_____________________________1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05QQPE5SKT/__________11____nrf____________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05QQPE5SKT-3822ac21b7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "MkM",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<NRF 세미나(AI와 윤리, 초거대 생성형 AI를 중심으로) 개최 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n한국연구재단이 주최하는 NRF 세미나(AI와 윤리, 초거대 생성형 AI를 중심으로) 개최를 안내드리오니, 관심 있는 학생분들은 참여바랍니다\n 가. 세미나 개요\n  ○ 주 제: AI와 윤리, 초거대 생성형 AI를 중심으로\n  ○ 일 시: 2023. 9. 1.(금) 13:30\n  ○ 발 표: 이상욱 교수(한양대학교 철학과 & 인공지능학과)\n               ※ UNESCO 세계과학기술윤리위원회 부위원장\n               ※ 2023년 교육부 연구윤리활동지원사업 \"AI 연구윤리\" 연구과제 책임자\n 나. 참여 방법\n  ○ 참여링크: "
+								},
+								{
+									"type": "link",
+									"url": "https://youtube.com/live/L8MVT7R9Yy8?feature=share",
+									"text": "",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "             ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "※ 당일 온라인 생중계로 진행, "
+								},
+								{
+									"type": "text",
+									"text": "사전 교육신청 없음",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  ○ 주 최: 한국연구재단\n  ○ 문 의 처: 한국연구재단 윤리정책팀 한수연("
+								},
+								{
+									"type": "link",
+									"url": "tel:0428696329",
+									"text": "042-869-6329"
+								},
+								{
+									"type": "text",
+									"text": ")\n\n 붙임 제11회 NRF 세미나 포스터 1부. 끝."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "6e89f617-873d-43a4-b900-cfe9896e36af",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;전자출결 시스템 안내&gt;\n43동 및 43-2동 강의실에 전자출결 시스템이 설치되었습니다.\n강의실 출입문 입구쪽에 설치되어있으며, 학생증 또는 모바일앱 QR코드를 통해 출석체크가 가능합니다.\n전자출결 매뉴얼을 붙임과 같이 안내드리니 수강과목 중 전자출결이 필요한 과목의 경우에는 사용법을 숙지하여 주시기 바랍니다.\n\n※ 오늘(8.31.) 14시 이후 전자출결 강의들이 시스템에 확정 반영되오니, 이 점 유의하시기 바랍니다.",
+			"ts": "1693447612.283649",
+			"files": [
+				{
+					"id": "F05QCBZ816F",
+					"created": 1693447601,
+					"timestamp": 1693447601,
+					"name": "★Electronic Attendance Manual Abstract(For Students).pdf",
+					"title": "★Electronic Attendance Manual Abstract(For Students).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 760944,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05QCBZ816F-★Electronic Attendance Manual Abstract(For Students).pdf",
+					"url_private_download": "attachments/F05QCBZ816F-★Electronic Attendance Manual Abstract(For Students).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05QCBZ816F/___electronic_attendance_manual_abstract_for_students_.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05QCBZ816F-95fb52ba5c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05Q9H677FF",
+					"created": 1693447604,
+					"timestamp": 1693447604,
+					"name": "★전자출결 시스템 간편매뉴얼(학생용).pdf",
+					"title": "★전자출결 시스템 간편매뉴얼(학생용).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1296064,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05Q9H677FF-★전자출결 시스템 간편매뉴얼(학생용).pdf",
+					"url_private_download": "attachments/F05Q9H677FF-★전자출결 시스템 간편매뉴얼(학생용).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05Q9H677FF/____________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05Q9H677FF-bdac03839e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05QETVANUC",
+					"created": 1693447608,
+					"timestamp": 1693447608,
+					"name": "★전자출결 시스템 매뉴얼(학생용).pdf",
+					"title": "★전자출결 시스템 매뉴얼(학생용).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2652384,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05QETVANUC-★전자출결 시스템 매뉴얼(학생용).pdf",
+					"url_private_download": "attachments/F05QETVANUC-★전자출결 시스템 매뉴얼(학생용).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05QETVANUC/______________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05QETVANUC-36a4e3a6da",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "hFJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<전자출결 시스템 안내>\n43동 및 43-2동 강의실에 전자출결 시스템이 설치되었습니다.\n강의실 출입문 입구쪽에 설치되어있으며, 학생증 또는 모바일앱 QR코드를 통해 출석체크가 가능합니다.\n전자출결 매뉴얼을 붙임과 같이 안내드리니 수강과목 중 전자출결이 필요한 과목의 경우에는 사용법을 숙지하여 주시기 바랍니다.\n\n※ 오늘(8.31.) 14시 이후 전자출결 강의들이 시스템에 확정 반영되오니, 이 점 유의하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "07c7f4dd-3f23-4178-b814-37141f11977f",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;*2023학년도 2학기 추가 등록일정 안내&gt;*\n\n2023학년도 2학기 본등록 기간(2023. 8. 21.(월) ~ 8. 25.(금))동안 등록하지 않은 학생들에게 추가 등록을 실시하오니, 아래 기간 중 등록금을 납부하여 주시기 바랍니다.\n ㅇ추가 등록일정: 2023. 9. 12.(화) ~ 9. 14.(목), (3일간)",
+			"ts": "1693467078.923909",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xxqln",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<"
+								},
+								{
+									"type": "text",
+									"text": "2023학년도 2학기 추가 등록일정 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2023학년도 2학기 본등록 기간(2023. 8. 21.(월) ~ 8. 25.(금))동안 등록하지 않은 학생들에게 추가 등록을 실시하오니, 아래 기간 중 등록금을 납부하여 주시기 바랍니다.\n ㅇ추가 등록일정: 2023. 9. 12.(화) ~ 9. 14.(목), (3일간)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

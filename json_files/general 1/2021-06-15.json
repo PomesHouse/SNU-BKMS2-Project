@@ -1,59 +1,61 @@
-[
-  {
-    "client_msg_id": "7d3b512f-7d9d-43a8-8bbc-773c00031df2",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "★ 중요 *강의실 (308,309) 전자교탁 PC 비밀번호 설정: datascience1!* (변경 시 행정실에 꼭 알려주시고, 칠판에도 수정해 주시기 바랍니다 !!!) ★",
-    "ts": "1623719761.056200",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "rydj",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "★ 중요 "
-              },
-              {
-                "type": "text",
-                "text": "강의실 (308,309) 전자교탁 PC 비밀번호 설정: datascience1! ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(변경 시 행정실에 꼭 알려주시고, 칠판에도 수정해 주시기 바랍니다 !!!) ★"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "7d3b512f-7d9d-43a8-8bbc-773c00031df2",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "★ 중요 *강의실 (308,309) 전자교탁 PC 비밀번호 설정: datascience1!* (변경 시 행정실에 꼭 알려주시고, 칠판에도 수정해 주시기 바랍니다 !!!) ★",
+			"ts": "1623719761.056200",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "rydj",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "★ 중요 "
+								},
+								{
+									"type": "text",
+									"text": "강의실 (308,309) 전자교탁 PC 비밀번호 설정: datascience1! ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(변경 시 행정실에 꼭 알려주시고, 칠판에도 수정해 주시기 바랍니다 !!!) ★"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

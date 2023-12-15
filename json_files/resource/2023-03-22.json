@@ -1,75 +1,77 @@
-[
-  {
-    "client_msg_id": "509dc7b7-4cdb-4b60-833b-807f6c18ad34",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "학우 여러분, 안녕하세요?\n\nKB국민은행에서 데이터거버넌스 기획, 데이터엔지니어, AI(인공지능) 전문직무직원을 채용한다고 합니다.\n\n이 3가지 채용전형은 중복지원이 불가능하고 각각 자격요건이 있는만큼 확인하시고 지원하시면 좋겠네요. (접수기간은 3월 21일(화)부터 4월 3일(월)까지로 되어 있네요.)\n\n공개채용이 아니며 연봉협상도 개별적으로 진행된다는 점 역시 참고하시기 바랍니다.\n\n지원하시는 분들이 좋은 결과를 얻으시길 기원합니다!\n\n\u003chttps://jobs.kbstar.com/go/%EC%A0%84%EB%AC%B8%EC%A7%81%EB%AC%B4%EC%A7%81%EC%9B%90-%EC%B1%84%EC%9A%A9/4713110/\u003e",
-    "ts": "1679445267.785549",
-    "edited": {
-      "user": "U01Q1KFN4JK",
-      "ts": "1679445454.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 10,
-        "users": [
-          "U040MB432JW",
-          "U0406PLJWCX",
-          "U01QGJL6SP5",
-          "U02UT1YNY6N",
-          "U02V5LS6USD",
-          "U02V5LT4DLZ",
-          "U0302PLQ34Y",
-          "U041W44547R",
-          "U02V5LTUGGH",
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Rpt",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "학우 여러분, 안녕하세요?\n\nKB국민은행에서 데이터거버넌스 기획, 데이터엔지니어, AI(인공지능) 전문직무직원을 채용한다고 합니다.\n\n이 3가지 채용전형은 중복지원이 불가능하고 각각 자격요건이 있는만큼 확인하시고 지원하시면 좋겠네요. (접수기간은 3월 21일(화)부터 4월 3일(월)까지로 되어 있네요.)\n\n공개채용이 아니며 연봉협상도 개별적으로 진행된다는 점 역시 참고하시기 바랍니다.\n\n지원하시는 분들이 좋은 결과를 얻으시길 기원합니다!\n\n"
-              },
-              {
-                "type": "link",
-                "url": "https://jobs.kbstar.com/go/%EC%A0%84%EB%AC%B8%EC%A7%81%EB%AC%B4%EC%A7%81%EC%9B%90-%EC%B1%84%EC%9A%A9/4713110/",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "509dc7b7-4cdb-4b60-833b-807f6c18ad34",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "학우 여러분, 안녕하세요?\n\nKB국민은행에서 데이터거버넌스 기획, 데이터엔지니어, AI(인공지능) 전문직무직원을 채용한다고 합니다.\n\n이 3가지 채용전형은 중복지원이 불가능하고 각각 자격요건이 있는만큼 확인하시고 지원하시면 좋겠네요. (접수기간은 3월 21일(화)부터 4월 3일(월)까지로 되어 있네요.)\n\n공개채용이 아니며 연봉협상도 개별적으로 진행된다는 점 역시 참고하시기 바랍니다.\n\n지원하시는 분들이 좋은 결과를 얻으시길 기원합니다!\n\n<https://jobs.kbstar.com/go/%EC%A0%84%EB%AC%B8%EC%A7%81%EB%AC%B4%EC%A7%81%EC%9B%90-%EC%B1%84%EC%9A%A9/4713110/>",
+			"ts": "1679445267.785549",
+			"edited": {
+				"user": "U01Q1KFN4JK",
+				"ts": "1679445454.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 10,
+					"users": [
+						"U040MB432JW",
+						"U0406PLJWCX",
+						"U01QGJL6SP5",
+						"U02UT1YNY6N",
+						"U02V5LS6USD",
+						"U02V5LT4DLZ",
+						"U0302PLQ34Y",
+						"U041W44547R",
+						"U02V5LTUGGH",
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Rpt",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "학우 여러분, 안녕하세요?\n\nKB국민은행에서 데이터거버넌스 기획, 데이터엔지니어, AI(인공지능) 전문직무직원을 채용한다고 합니다.\n\n이 3가지 채용전형은 중복지원이 불가능하고 각각 자격요건이 있는만큼 확인하시고 지원하시면 좋겠네요. (접수기간은 3월 21일(화)부터 4월 3일(월)까지로 되어 있네요.)\n\n공개채용이 아니며 연봉협상도 개별적으로 진행된다는 점 역시 참고하시기 바랍니다.\n\n지원하시는 분들이 좋은 결과를 얻으시길 기원합니다!\n\n"
+								},
+								{
+									"type": "link",
+									"url": "https://jobs.kbstar.com/go/%EC%A0%84%EB%AC%B8%EC%A7%81%EB%AC%B4%EC%A7%81%EC%9B%90-%EC%B1%84%EC%9A%A9/4713110/",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

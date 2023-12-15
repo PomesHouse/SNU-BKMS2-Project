@@ -1,320 +1,322 @@
-[
-  {
-    "client_msg_id": "0f129de0-4f14-4ec5-add1-9fda86771148",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 2021년 K-인공지능 제조데이터 분석 경진대회 안내 \u0026gt;\n\n2021년 K-인공지능 제조데이터 분석 경진대회 관련 아래와 같이 안내드리오니 관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n\n*□ 대회개요*\n ◦ 대회명 : 2021년 K-인공지능 제조데이터 분석 경진대회\n ◦ 주  제 : 인공지능 중소벤처 제조플랫폼(KAMP) 내 등재된 제조AI데이터셋을 활용하여 중소 제조기업이 직면할 수 있는 공통문제를 해결 또는 개선할 수 있는 우수한 인공지능 분석모델 개발\n            \t※ 공통문제(예시) : 장비이상 조기탐지, 품질 이상탐지/진단, 공정운영 최적화 등\n\n*□ 신청방법*\n ◦ 신청기간 : ‘21년 10월 26일(화) ~ ’21년 11월 9일(화)\n ◦ 신청방법 : 이메일(\u003cmailto:kamp@kaist.ac.kr|kamp@kaist.ac.kr\u003e) 신청접수\n ◦ 참가자격 : 만 19세 이상의 제조AI데이터셋을 활용한 인공지능(AI) 분석에 관심있는 누구나 참가가능 ※ 3인 이내 팀으로 구성\n ◦ 제출서류 : 인공지능 중소벤처 제조플랫폼(KAMP, Korea AI Manufacturing Platform) 포털 공지사항 내 첨부된 서류(참가신청서, 서약서, 개인정보 수집 및 활용동의서)를 내려받아 작성 후 제출\n                     ※ KAMP 포털 URL : \u003chttp://www.kamp-ai.kr|www.kamp-ai.kr\u003e(상단 알림마당-공지사항 확인)\n\n*□ 상금*\n ◦ 대상(중소벤처기업부 장관상): 상금 1,000만원, 1팀 :allo-tongue:\n ◦ 최우수상(KAIST 총장상): 상금 500만원, 2팀\n ◦ 우수상(스마트제조혁신추진단장상): 상금 300만원, 2팀\n ◦ 장려상(KAIST K-Industry 4.0 추진본부장상): 상금 100만원, 3팀\n※ 발표 및 시상식은 메타버스로 진행\n\n*□ 문의처*\n ◦ 한국과학기술원(KAIST) 제조AI빅데이터센터\n    - 연락처 : \u003ctel:042-350-1331|042-350-1331\u003e/1337\n    - 이메일 : \u003cmailto:kamp@kaist.ac.kr|kamp@kaist.ac.kr\u003e",
-    "ts": "1636009370.037400",
-    "files": [
-      {
-        "id": "F02L582TN4B",
-        "created": 1636009188,
-        "timestamp": 1636009188,
-        "name": "[포스터] 제조데이터분석경진대회.png",
-        "title": "[포스터] 제조데이터분석경진대회.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 651093,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02L582TN4B-[포스터] 제조데이터분석경진대회.png",
-        "url_private_download": "attachments/F02L582TN4B-[포스터] 제조데이터분석경진대회.png",
-        "original_h": 781,
-        "original_w": 527,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 243,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________480.png",
-        "thumb_480_w": 324,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________720.png",
-        "thumb_720_w": 486,
-        "thumb_720_h": 720,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02L582TN4B/_____________________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02L582TN4B-f0c504b8a3",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02LHRJ9ARX",
-        "created": 1636009197,
-        "timestamp": 1636009197,
-        "name": "2021년 K-인공지능 제조데이터 분석 경진대회 설명 동영상.mp4",
-        "title": "2021년 K-인공지능 제조데이터 분석 경진대회 설명 동영상.mp4",
-        "mimetype": "video/mp4",
-        "image_exif_rotation": 0,
-        "filetype": "mp4",
-        "pretty_type": "MPEG 4 비디오",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 742184909,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02LHRJ9ARX-2021년 K-인공지능 제조데이터 분석 경진대회 설명 동영상.mp4",
-        "url_private_download": "attachments/F02LHRJ9ARX-2021년 K-인공지능 제조데이터 분석 경진대회 설명 동영상.mp4",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02LHRJ9ARX/2021____k-_________________________________________________________________.mp4",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02LHRJ9ARX-54f606d5a9",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02LHRS4DDF",
-        "created": 1636009350,
-        "timestamp": 1636009350,
-        "name": "2021년 K-인공지능 제조데이터 분석 경진대회 소개 동영상.mp4",
-        "title": "2021년 K-인공지능 제조데이터 분석 경진대회 소개 동영상.mp4",
-        "mimetype": "video/mp4",
-        "image_exif_rotation": 0,
-        "filetype": "mp4",
-        "pretty_type": "MPEG 4 비디오",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 69722312,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02LHRS4DDF-2021년 K-인공지능 제조데이터 분석 경진대회 소개 동영상.mp4",
-        "url_private_download": "attachments/F02LHRS4DDF-2021년 K-인공지능 제조데이터 분석 경진대회 소개 동영상.mp4",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02LHRS4DDF/2021____k-_________________________________________________________________.mp4",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02LHRS4DDF-12ecab148a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "FgE",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 2021년 K-인공지능 제조데이터 분석 경진대회 안내 \u003e\n\n2021년 K-인공지능 제조데이터 분석 경진대회 관련 아래와 같이 안내드리오니 관심있는 학생분들의 많은 참여 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "□ 대회개요",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n ◦ 대회명 : 2021년 K-인공지능 제조데이터 분석 경진대회\n ◦ 주  제 : 인공지능 중소벤처 제조플랫폼(KAMP) 내 등재된 제조AI데이터셋을 활용하여 중소 제조기업이 직면할 수 있는 공통문제를 해결 또는 개선할 수 있는 우수한 인공지능 분석모델 개발\n            \t※ 공통문제(예시) : 장비이상 조기탐지, 품질 이상탐지/진단, 공정운영 최적화 등\n\n"
-              },
-              {
-                "type": "text",
-                "text": "□ 신청방법",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n ◦ 신청기간 : ‘21년 10월 26일(화) ~ ’21년 11월 9일(화)\n ◦ 신청방법 : 이메일("
-              },
-              {
-                "type": "link",
-                "url": "mailto:kamp@kaist.ac.kr",
-                "text": "kamp@kaist.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ") 신청접수\n ◦ 참가자격 : 만 19세 이상의 제조AI데이터셋을 활용한 인공지능(AI) 분석에 관심있는 누구나 참가가능 ※ 3인 이내 팀으로 구성\n ◦ 제출서류 : 인공지능 중소벤처 제조플랫폼(KAMP, Korea AI Manufacturing Platform) 포털 공지사항 내 첨부된 서류(참가신청서, 서약서, 개인정보 수집 및 활용동의서)를 내려받아 작성 후 제출\n                     ※ KAMP 포털 URL : "
-              },
-              {
-                "type": "link",
-                "url": "http://www.kamp-ai.kr",
-                "text": "www.kamp-ai.kr"
-              },
-              {
-                "type": "text",
-                "text": "(상단 알림마당-공지사항 확인)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "□ 상금",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n ◦ 대상(중소벤처기업부 장관상): 상금 1,000만원, 1팀 "
-              },
-              {
-                "type": "emoji",
-                "name": "allo-tongue",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n ◦ 최우수상(KAIST 총장상): 상금 500만원, 2팀\n ◦ 우수상(스마트제조혁신추진단장상): 상금 300만원, 2팀\n ◦ 장려상(KAIST K-Industry 4.0 추진본부장상): 상금 100만원, 3팀\n※ 발표 및 시상식은 메타버스로 진행\n\n"
-              },
-              {
-                "type": "text",
-                "text": "□ 문의처",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n ◦ 한국과학기술원(KAIST) 제조AI빅데이터센터\n    - 연락처 : 042-350-1331/1337\n    - 이메일 : "
-              },
-              {
-                "type": "link",
-                "url": "mailto:kamp@kaist.ac.kr",
-                "text": "kamp@kaist.ac.kr"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "0f129de0-4f14-4ec5-add1-9fda86771148",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 2021년 K-인공지능 제조데이터 분석 경진대회 안내 &gt;\n\n2021년 K-인공지능 제조데이터 분석 경진대회 관련 아래와 같이 안내드리오니 관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n\n*□ 대회개요*\n ◦ 대회명 : 2021년 K-인공지능 제조데이터 분석 경진대회\n ◦ 주  제 : 인공지능 중소벤처 제조플랫폼(KAMP) 내 등재된 제조AI데이터셋을 활용하여 중소 제조기업이 직면할 수 있는 공통문제를 해결 또는 개선할 수 있는 우수한 인공지능 분석모델 개발\n            \t※ 공통문제(예시) : 장비이상 조기탐지, 품질 이상탐지/진단, 공정운영 최적화 등\n\n*□ 신청방법*\n ◦ 신청기간 : ‘21년 10월 26일(화) ~ ’21년 11월 9일(화)\n ◦ 신청방법 : 이메일(<mailto:kamp@kaist.ac.kr|kamp@kaist.ac.kr>) 신청접수\n ◦ 참가자격 : 만 19세 이상의 제조AI데이터셋을 활용한 인공지능(AI) 분석에 관심있는 누구나 참가가능 ※ 3인 이내 팀으로 구성\n ◦ 제출서류 : 인공지능 중소벤처 제조플랫폼(KAMP, Korea AI Manufacturing Platform) 포털 공지사항 내 첨부된 서류(참가신청서, 서약서, 개인정보 수집 및 활용동의서)를 내려받아 작성 후 제출\n                     ※ KAMP 포털 URL : <http://www.kamp-ai.kr|www.kamp-ai.kr>(상단 알림마당-공지사항 확인)\n\n*□ 상금*\n ◦ 대상(중소벤처기업부 장관상): 상금 1,000만원, 1팀 :allo-tongue:\n ◦ 최우수상(KAIST 총장상): 상금 500만원, 2팀\n ◦ 우수상(스마트제조혁신추진단장상): 상금 300만원, 2팀\n ◦ 장려상(KAIST K-Industry 4.0 추진본부장상): 상금 100만원, 3팀\n※ 발표 및 시상식은 메타버스로 진행\n\n*□ 문의처*\n ◦ 한국과학기술원(KAIST) 제조AI빅데이터센터\n    - 연락처 : <tel:042-350-1331|042-350-1331>/1337\n    - 이메일 : <mailto:kamp@kaist.ac.kr|kamp@kaist.ac.kr>",
+			"ts": "1636009370.037400",
+			"files": [
+				{
+					"id": "F02L582TN4B",
+					"created": 1636009188,
+					"timestamp": 1636009188,
+					"name": "[포스터] 제조데이터분석경진대회.png",
+					"title": "[포스터] 제조데이터분석경진대회.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 651093,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02L582TN4B-[포스터] 제조데이터분석경진대회.png",
+					"url_private_download": "attachments/F02L582TN4B-[포스터] 제조데이터분석경진대회.png",
+					"original_h": 781,
+					"original_w": 527,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 243,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________480.png",
+					"thumb_480_w": 324,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02L582TN4B-d315370a52/______________________________________________720.png",
+					"thumb_720_w": 486,
+					"thumb_720_h": 720,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02L582TN4B/_____________________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02L582TN4B-f0c504b8a3",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02LHRJ9ARX",
+					"created": 1636009197,
+					"timestamp": 1636009197,
+					"name": "2021년 K-인공지능 제조데이터 분석 경진대회 설명 동영상.mp4",
+					"title": "2021년 K-인공지능 제조데이터 분석 경진대회 설명 동영상.mp4",
+					"mimetype": "video/mp4",
+					"image_exif_rotation": 0,
+					"filetype": "mp4",
+					"pretty_type": "MPEG 4 비디오",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 742184909,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02LHRJ9ARX-2021년 K-인공지능 제조데이터 분석 경진대회 설명 동영상.mp4",
+					"url_private_download": "attachments/F02LHRJ9ARX-2021년 K-인공지능 제조데이터 분석 경진대회 설명 동영상.mp4",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02LHRJ9ARX/2021____k-_________________________________________________________________.mp4",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02LHRJ9ARX-54f606d5a9",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02LHRS4DDF",
+					"created": 1636009350,
+					"timestamp": 1636009350,
+					"name": "2021년 K-인공지능 제조데이터 분석 경진대회 소개 동영상.mp4",
+					"title": "2021년 K-인공지능 제조데이터 분석 경진대회 소개 동영상.mp4",
+					"mimetype": "video/mp4",
+					"image_exif_rotation": 0,
+					"filetype": "mp4",
+					"pretty_type": "MPEG 4 비디오",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 69722312,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02LHRS4DDF-2021년 K-인공지능 제조데이터 분석 경진대회 소개 동영상.mp4",
+					"url_private_download": "attachments/F02LHRS4DDF-2021년 K-인공지능 제조데이터 분석 경진대회 소개 동영상.mp4",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02LHRS4DDF/2021____k-_________________________________________________________________.mp4",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02LHRS4DDF-12ecab148a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "FgE",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 2021년 K-인공지능 제조데이터 분석 경진대회 안내 >\n\n2021년 K-인공지능 제조데이터 분석 경진대회 관련 아래와 같이 안내드리오니 관심있는 학생분들의 많은 참여 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "□ 대회개요",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n ◦ 대회명 : 2021년 K-인공지능 제조데이터 분석 경진대회\n ◦ 주  제 : 인공지능 중소벤처 제조플랫폼(KAMP) 내 등재된 제조AI데이터셋을 활용하여 중소 제조기업이 직면할 수 있는 공통문제를 해결 또는 개선할 수 있는 우수한 인공지능 분석모델 개발\n            \t※ 공통문제(예시) : 장비이상 조기탐지, 품질 이상탐지/진단, 공정운영 최적화 등\n\n"
+								},
+								{
+									"type": "text",
+									"text": "□ 신청방법",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n ◦ 신청기간 : ‘21년 10월 26일(화) ~ ’21년 11월 9일(화)\n ◦ 신청방법 : 이메일("
+								},
+								{
+									"type": "link",
+									"url": "mailto:kamp@kaist.ac.kr",
+									"text": "kamp@kaist.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ") 신청접수\n ◦ 참가자격 : 만 19세 이상의 제조AI데이터셋을 활용한 인공지능(AI) 분석에 관심있는 누구나 참가가능 ※ 3인 이내 팀으로 구성\n ◦ 제출서류 : 인공지능 중소벤처 제조플랫폼(KAMP, Korea AI Manufacturing Platform) 포털 공지사항 내 첨부된 서류(참가신청서, 서약서, 개인정보 수집 및 활용동의서)를 내려받아 작성 후 제출\n                     ※ KAMP 포털 URL : "
+								},
+								{
+									"type": "link",
+									"url": "http://www.kamp-ai.kr",
+									"text": "www.kamp-ai.kr"
+								},
+								{
+									"type": "text",
+									"text": "(상단 알림마당-공지사항 확인)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "□ 상금",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n ◦ 대상(중소벤처기업부 장관상): 상금 1,000만원, 1팀 "
+								},
+								{
+									"type": "emoji",
+									"name": "allo-tongue",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n ◦ 최우수상(KAIST 총장상): 상금 500만원, 2팀\n ◦ 우수상(스마트제조혁신추진단장상): 상금 300만원, 2팀\n ◦ 장려상(KAIST K-Industry 4.0 추진본부장상): 상금 100만원, 3팀\n※ 발표 및 시상식은 메타버스로 진행\n\n"
+								},
+								{
+									"type": "text",
+									"text": "□ 문의처",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n ◦ 한국과학기술원(KAIST) 제조AI빅데이터센터\n    - 연락처 : 042-350-1331/1337\n    - 이메일 : "
+								},
+								{
+									"type": "link",
+									"url": "mailto:kamp@kaist.ac.kr",
+									"text": "kamp@kaist.ac.kr"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,560 +1,562 @@
-[
-  {
-    "client_msg_id": "3a794d33-c287-4e58-950f-aa036729bde7",
-    "type": "message",
-    "user": "U02V5LTPGRX",
-    "text": "금주 연구공원 메뉴입니다!!",
-    "ts": "1691986233.311509",
-    "files": [
-      {
-        "id": "F05MZQN7SRX",
-        "created": 1691986217,
-        "timestamp": 1691986217,
-        "name": "20230814_120739.jpg",
-        "title": "20230814_120739.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U02V5LTPGRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 784952,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05MZQN7SRX-20230814_120739.jpg",
-        "url_private_download": "attachments/F05MZQN7SRX-20230814_120739.jpg",
-        "original_h": 3024,
-        "original_w": 4032,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 270,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 360,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 540,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 720,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 768,
-        "permalink": "https://snugsds.slack.com/files/U02V5LTPGRX/F05MZQN7SRX/20230814_120739.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05MZQN7SRX-27ea2fd7af",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 12,
-        "users": [
-          "U0406PM050F",
-          "U040ZVCNVU1",
-          "U040MB3TGSE",
-          "U02ULBH3TEJ",
-          "U01Q1KFN4JK",
-          "U04Q2G4KNTZ",
-          "U04QVM3QD41",
-          "U04QE4ASJP7",
-          "U02P4QDPG2W",
-          "U04QH2E4V5Y",
-          "U02UQ4D8L2Z",
-          "U02ULBHV58W"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qBx6a",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "금주 연구공원 메뉴입니다!!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "Daye",
-      "real_name": "Daye Lee",
-      "display_name": "3기_이다예",
-      "team": "T01QA5S537V",
-      "name": "gbyou1694",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "54f4fe0b-4d63-41b2-a6cc-ea5d050e86d9",
-    "type": "message",
-    "user": "U01QV1SQJ57",
-    "text": "[GSDS 풋살 동아리:soccer: - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n오늘은 매우 특별한 날이었습니다!!!\nFC Layers를 이끌어줄!!! 공동 구단주님이 선임되고 함께 공도 찼습니다!!!\n그 주인공은 바로~~~:heart_eyes:\n*김태섭* 교수님!!! *이재윤* 교수님!!!\n역시 교수님들도 축구 너무 잘하십니다 ㅎㅎ\n\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n*FC Layers*와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다",
-    "ts": "1692019184.562479",
-    "thread_ts": "1692019184.562479",
-    "edited": {
-      "user": "U01QV1SQJ57",
-      "ts": "1692019239.000000"
-    },
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U04QE4ASJP7",
-        "ts": "1692019405.178979"
-      }
-    ],
-    "latest_reply": "1692019405.178979",
-    "files": [
-      {
-        "id": "F05M8EY0YB1",
-        "created": 1692016206,
-        "timestamp": 1692016206,
-        "name": "BBAD15BD-0BF3-4A36-8275-679ED0352A1E_1_105_c.jpeg",
-        "title": "BBAD15BD-0BF3-4A36-8275-679ED0352A1E_1_105_c.jpeg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QV1SQJ57",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 396245,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05M8EY0YB1-BBAD15BD-0BF3-4A36-8275-679ED0352A1E_1_105_c.jpeg",
-        "url_private_download": "attachments/F05M8EY0YB1-BBAD15BD-0BF3-4A36-8275-679ED0352A1E_1_105_c.jpeg",
-        "original_h": 768,
-        "original_w": 1024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 270,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 360,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 540,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 720,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 768,
-        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F05M8EY0YB1/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c.jpeg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05M8EY0YB1-7dcf647c59",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05ML3T28CV",
-        "created": 1692016211,
-        "timestamp": 1692016211,
-        "name": "C0C928FC-41F7-4A59-9878-886EF51E1595_1_105_c.jpeg",
-        "title": "C0C928FC-41F7-4A59-9878-886EF51E1595_1_105_c.jpeg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QV1SQJ57",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 415717,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05ML3T28CV-C0C928FC-41F7-4A59-9878-886EF51E1595_1_105_c.jpeg",
-        "url_private_download": "attachments/F05ML3T28CV-C0C928FC-41F7-4A59-9878-886EF51E1595_1_105_c.jpeg",
-        "original_h": 768,
-        "original_w": 1024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 270,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 360,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 540,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 720,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 768,
-        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F05ML3T28CV/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c.jpeg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05ML3T28CV-c0b28cb9a9",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 24,
-        "users": [
-          "U01QV1SQJ57",
-          "U04QE4ASJP7",
-          "U01R689L5KJ",
-          "U02UQ4CMR7X",
-          "U0302PLQ34Y",
-          "U040JBW6THT",
-          "U02V5LT4DLZ",
-          "U0406PM050F",
-          "U02UCD2C9V5",
-          "U02ULBJR9GE",
-          "U04QVM59W0H",
-          "U02UT1YNY6N",
-          "U040C40QE6T",
-          "U02UT1XUGFL",
-          "U01Q1KFN4JK",
-          "U0302PL7F7S",
-          "U04R6NS3924",
-          "U040MB3TGSE",
-          "U04QKG4K12Q",
-          "U0302PK342C",
-          "U04QVM3TUD7",
-          "U02V5LU4ED7",
-          "U0302PKMR6C",
-          "U02ULBHV58W"
-        ]
-      },
-      {
-        "name": "soccer",
-        "count": 18,
-        "users": [
-          "U01QV1SQJ57",
-          "U04QE4ASJP7",
-          "U01R689L5KJ",
-          "U02UQ4CMR7X",
-          "U0302PLQ34Y",
-          "U040JBW6THT",
-          "U02V5LTRU2V",
-          "U02V5LT4DLZ",
-          "U0406PM050F",
-          "U02UCD2C9V5",
-          "U02UT1YNY6N",
-          "U040C40QE6T",
-          "U02UT1XUGFL",
-          "U01Q1KFN4JK",
-          "U04R6NRBD1N",
-          "U04QKG4K12Q",
-          "U04QVM3TUD7",
-          "U02V5LU4ED7"
-        ]
-      },
-      {
-        "name": "heart",
-        "count": 14,
-        "users": [
-          "U04QE4ASJP7",
-          "U01QV1SQJ57",
-          "U01R689L5KJ",
-          "U02UQ4CMR7X",
-          "U0302PLQ34Y",
-          "U040JBW6THT",
-          "U02V5LTRU2V",
-          "U0406PM050F",
-          "U02UCD2C9V5",
-          "U02UT1YNY6N",
-          "U02UT1XUGFL",
-          "U01Q1KFN4JK",
-          "U04R6NRBD1N",
-          "U02V5LU4ED7"
-        ]
-      },
-      {
-        "name": "party_blob-2",
-        "count": 10,
-        "users": [
-          "U01QV1SQJ57",
-          "U01R689L5KJ",
-          "U0302PLQ34Y",
-          "U0406PM050F",
-          "U02UCD2C9V5",
-          "U02UT1YNY6N",
-          "U02UT1XUGFL",
-          "U01Q1KFN4JK",
-          "U04R6NRBD1N",
-          "U02V5LU4ED7"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-3",
-        "count": 1,
-        "users": [
-          "U04R6NRBD1N"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "6VPLh",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 풋살 동아리"
-              },
-              {
-                "type": "emoji",
-                "name": "soccer",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n오늘은 매우 특별한 날이었습니다!!!\nFC Layers를 이끌어줄!!! 공동 구단주님이 선임되고 함께 공도 찼습니다!!!\n그 주인공은 바로~~~"
-              },
-              {
-                "type": "emoji",
-                "name": "heart_eyes",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "김태섭",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 교수님!!! "
-              },
-              {
-                "type": "text",
-                "text": "이재윤",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 교수님!!!\n역시 교수님들도 축구 너무 잘하십니다 ㅎㅎ\n\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n"
-              },
-              {
-                "type": "text",
-                "text": "FC Layers",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
-      "first_name": "김병찬",
-      "real_name": "김병찬",
-      "display_name": "4기_김병찬",
-      "team": "T01QA5S537V",
-      "name": "bckim97",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U04QE4ASJP7"
-    ]
-  },
-  {
-    "client_msg_id": "2438E48B-2AA6-4C6B-8DF7-E0280BAE5C0E",
-    "type": "message",
-    "user": "U04QE4ASJP7",
-    "text": "교수님들 너무 잘차십니다 :+1::skin-tone-2: :+1::skin-tone-2: ",
-    "ts": "1692019405.178979",
-    "thread_ts": "1692019184.562479",
-    "parent_user_id": "U01QV1SQJ57",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "tandZ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "교수님들"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "너무"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "잘차십니다"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "emoji",
-                "name": "thumbsup",
-                "skin_tone": 2
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "emoji",
-                "name": "thumbsup",
-                "skin_tone": 2
-              },
-              {
-                "type": "text",
-                "text": " "
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a1578007845cae87f99435122eaed982.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
-      "first_name": "장진관",
-      "real_name": "장진관",
-      "display_name": "4기_장진관",
-      "team": "T01QA5S537V",
-      "name": "jkjang22",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "3a794d33-c287-4e58-950f-aa036729bde7",
+			"type": "message",
+			"user": "U02V5LTPGRX",
+			"text": "금주 연구공원 메뉴입니다!!",
+			"ts": "1691986233.311509",
+			"files": [
+				{
+					"id": "F05MZQN7SRX",
+					"created": 1691986217,
+					"timestamp": 1691986217,
+					"name": "20230814_120739.jpg",
+					"title": "20230814_120739.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U02V5LTPGRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 784952,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05MZQN7SRX-20230814_120739.jpg",
+					"url_private_download": "attachments/F05MZQN7SRX-20230814_120739.jpg",
+					"original_h": 3024,
+					"original_w": 4032,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 270,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 360,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 540,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 720,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05MZQN7SRX-e4b980c7a1/20230814_120739_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 768,
+					"permalink": "https://snugsds.slack.com/files/U02V5LTPGRX/F05MZQN7SRX/20230814_120739.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05MZQN7SRX-27ea2fd7af",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 12,
+					"users": [
+						"U0406PM050F",
+						"U040ZVCNVU1",
+						"U040MB3TGSE",
+						"U02ULBH3TEJ",
+						"U01Q1KFN4JK",
+						"U04Q2G4KNTZ",
+						"U04QVM3QD41",
+						"U04QE4ASJP7",
+						"U02P4QDPG2W",
+						"U04QH2E4V5Y",
+						"U02UQ4D8L2Z",
+						"U02ULBHV58W"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qBx6a",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "금주 연구공원 메뉴입니다!!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "Daye",
+				"real_name": "Daye Lee",
+				"display_name": "3기_이다예",
+				"team": "T01QA5S537V",
+				"name": "gbyou1694",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "54f4fe0b-4d63-41b2-a6cc-ea5d050e86d9",
+			"type": "message",
+			"user": "U01QV1SQJ57",
+			"text": "[GSDS 풋살 동아리:soccer: - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n오늘은 매우 특별한 날이었습니다!!!\nFC Layers를 이끌어줄!!! 공동 구단주님이 선임되고 함께 공도 찼습니다!!!\n그 주인공은 바로~~~:heart_eyes:\n*김태섭* 교수님!!! *이재윤* 교수님!!!\n역시 교수님들도 축구 너무 잘하십니다 ㅎㅎ\n\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n*FC Layers*와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다",
+			"ts": "1692019184.562479",
+			"thread_ts": "1692019184.562479",
+			"edited": {
+				"user": "U01QV1SQJ57",
+				"ts": "1692019239.000000"
+			},
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U04QE4ASJP7",
+					"ts": "1692019405.178979"
+				}
+			],
+			"latest_reply": "1692019405.178979",
+			"files": [
+				{
+					"id": "F05M8EY0YB1",
+					"created": 1692016206,
+					"timestamp": 1692016206,
+					"name": "BBAD15BD-0BF3-4A36-8275-679ED0352A1E_1_105_c.jpeg",
+					"title": "BBAD15BD-0BF3-4A36-8275-679ED0352A1E_1_105_c.jpeg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QV1SQJ57",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 396245,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05M8EY0YB1-BBAD15BD-0BF3-4A36-8275-679ED0352A1E_1_105_c.jpeg",
+					"url_private_download": "attachments/F05M8EY0YB1-BBAD15BD-0BF3-4A36-8275-679ED0352A1E_1_105_c.jpeg",
+					"original_h": 768,
+					"original_w": 1024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 270,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 360,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 540,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 720,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05M8EY0YB1-8b63488d7b/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 768,
+					"permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F05M8EY0YB1/bbad15bd-0bf3-4a36-8275-679ed0352a1e_1_105_c.jpeg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05M8EY0YB1-7dcf647c59",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05ML3T28CV",
+					"created": 1692016211,
+					"timestamp": 1692016211,
+					"name": "C0C928FC-41F7-4A59-9878-886EF51E1595_1_105_c.jpeg",
+					"title": "C0C928FC-41F7-4A59-9878-886EF51E1595_1_105_c.jpeg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QV1SQJ57",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 415717,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05ML3T28CV-C0C928FC-41F7-4A59-9878-886EF51E1595_1_105_c.jpeg",
+					"url_private_download": "attachments/F05ML3T28CV-C0C928FC-41F7-4A59-9878-886EF51E1595_1_105_c.jpeg",
+					"original_h": 768,
+					"original_w": 1024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 270,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 360,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 540,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 720,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05ML3T28CV-432b000ee3/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 768,
+					"permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F05ML3T28CV/c0c928fc-41f7-4a59-9878-886ef51e1595_1_105_c.jpeg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05ML3T28CV-c0b28cb9a9",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 24,
+					"users": [
+						"U01QV1SQJ57",
+						"U04QE4ASJP7",
+						"U01R689L5KJ",
+						"U02UQ4CMR7X",
+						"U0302PLQ34Y",
+						"U040JBW6THT",
+						"U02V5LT4DLZ",
+						"U0406PM050F",
+						"U02UCD2C9V5",
+						"U02ULBJR9GE",
+						"U04QVM59W0H",
+						"U02UT1YNY6N",
+						"U040C40QE6T",
+						"U02UT1XUGFL",
+						"U01Q1KFN4JK",
+						"U0302PL7F7S",
+						"U04R6NS3924",
+						"U040MB3TGSE",
+						"U04QKG4K12Q",
+						"U0302PK342C",
+						"U04QVM3TUD7",
+						"U02V5LU4ED7",
+						"U0302PKMR6C",
+						"U02ULBHV58W"
+					]
+				},
+				{
+					"name": "soccer",
+					"count": 18,
+					"users": [
+						"U01QV1SQJ57",
+						"U04QE4ASJP7",
+						"U01R689L5KJ",
+						"U02UQ4CMR7X",
+						"U0302PLQ34Y",
+						"U040JBW6THT",
+						"U02V5LTRU2V",
+						"U02V5LT4DLZ",
+						"U0406PM050F",
+						"U02UCD2C9V5",
+						"U02UT1YNY6N",
+						"U040C40QE6T",
+						"U02UT1XUGFL",
+						"U01Q1KFN4JK",
+						"U04R6NRBD1N",
+						"U04QKG4K12Q",
+						"U04QVM3TUD7",
+						"U02V5LU4ED7"
+					]
+				},
+				{
+					"name": "heart",
+					"count": 14,
+					"users": [
+						"U04QE4ASJP7",
+						"U01QV1SQJ57",
+						"U01R689L5KJ",
+						"U02UQ4CMR7X",
+						"U0302PLQ34Y",
+						"U040JBW6THT",
+						"U02V5LTRU2V",
+						"U0406PM050F",
+						"U02UCD2C9V5",
+						"U02UT1YNY6N",
+						"U02UT1XUGFL",
+						"U01Q1KFN4JK",
+						"U04R6NRBD1N",
+						"U02V5LU4ED7"
+					]
+				},
+				{
+					"name": "party_blob-2",
+					"count": 10,
+					"users": [
+						"U01QV1SQJ57",
+						"U01R689L5KJ",
+						"U0302PLQ34Y",
+						"U0406PM050F",
+						"U02UCD2C9V5",
+						"U02UT1YNY6N",
+						"U02UT1XUGFL",
+						"U01Q1KFN4JK",
+						"U04R6NRBD1N",
+						"U02V5LU4ED7"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				},
+				{
+					"name": "+1::skin-tone-3",
+					"count": 1,
+					"users": [
+						"U04R6NRBD1N"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "6VPLh",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 풋살 동아리"
+								},
+								{
+									"type": "emoji",
+									"name": "soccer",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n오늘은 매우 특별한 날이었습니다!!!\nFC Layers를 이끌어줄!!! 공동 구단주님이 선임되고 함께 공도 찼습니다!!!\n그 주인공은 바로~~~"
+								},
+								{
+									"type": "emoji",
+									"name": "heart_eyes",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "김태섭",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 교수님!!! "
+								},
+								{
+									"type": "text",
+									"text": "이재윤",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 교수님!!!\n역시 교수님들도 축구 너무 잘하십니다 ㅎㅎ\n\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n"
+								},
+								{
+									"type": "text",
+									"text": "FC Layers",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+				"first_name": "김병찬",
+				"real_name": "김병찬",
+				"display_name": "4기_김병찬",
+				"team": "T01QA5S537V",
+				"name": "bckim97",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U04QE4ASJP7"
+			]
+		},
+		{
+			"client_msg_id": "2438E48B-2AA6-4C6B-8DF7-E0280BAE5C0E",
+			"type": "message",
+			"user": "U04QE4ASJP7",
+			"text": "교수님들 너무 잘차십니다 :+1::skin-tone-2: :+1::skin-tone-2: ",
+			"ts": "1692019405.178979",
+			"thread_ts": "1692019184.562479",
+			"parent_user_id": "U01QV1SQJ57",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "tandZ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "교수님들"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "너무"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "잘차십니다"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "emoji",
+									"name": "thumbsup",
+									"skin_tone": 2
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "emoji",
+									"name": "thumbsup",
+									"skin_tone": 2
+								},
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a1578007845cae87f99435122eaed982.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+				"first_name": "장진관",
+				"real_name": "장진관",
+				"display_name": "4기_장진관",
+				"team": "T01QA5S537V",
+				"name": "jkjang22",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

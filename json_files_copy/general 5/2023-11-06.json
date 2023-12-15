@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "ff5d000d-2a6d-4237-bc0d-fd7a28d10142",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023 K-데이터사이언스 해커톤 대회 참가자 안내사항\u0026gt;\n\n금일 마감되는 해커톤 대회 참가자 대회 등록 시스템상 오류가 발견되었습니다.\n\n팀당 2~5명이 참여가능한데, 2인의 경우 팀장/팀원 등록이 안되는 문제가 있다고 합니다.\n이에 해당하는 지원팀은 팀원에 동일하게 넣어서 등록하여 주시기 바랍니다.",
+    "ts": "1699256275.470829",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aIBgH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023 K-데이터사이언스 해커톤 대회 참가자 안내사항\u003e\n\n금일 마감되는 해커톤 대회 참가자 대회 등록 시스템상 오류가 발견되었습니다.\n\n팀당 2~5명이 참여가능한데, 2인의 경우 팀장/팀원 등록이 안되는 문제가 있다고 합니다.\n이에 해당하는 지원팀은 팀원에 동일하게 넣어서 등록하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

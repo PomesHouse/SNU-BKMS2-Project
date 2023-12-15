@@ -1,543 +1,545 @@
-[
-  {
-    "client_msg_id": "9a8fea89-bad0-44a5-aa3f-26f66436eb46",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;셔틀버스 승차장소 위치 변경 안내\u0026gt;\n\n「지하주차장 확충 및 보행환경 개선」공사장 인근에 통제되었던 차량 통행이 8.29.(월)부로 재개됨에 따라 셔틀버스 승차장소가 아래와 같이 변경될 예정입니다.\n\n가. 변경기간: 2022.8.30.(화) ~ 지하주차장 확충 완공 시까지\n나. 변경내용(세부장소 붙임 참조)\n  1) 변경 전: 행정관 순환도로변(공사장 방향)\n  2) 변경 후: *행정관 순환도로변(現 승차장소 맞은편)*",
-    "ts": "1661385676.863289",
-    "files": [
-      {
-        "id": "F03V1UX788K",
-        "created": 1661385653,
-        "timestamp": 1661385653,
-        "name": "[붙임] 셔틀버스 승차장소 위치 안내도.pdf",
-        "title": "[붙임] 셔틀버스 승차장소 위치 안내도.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 452245,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03V1UX788K-[붙임] 셔틀버스 승차장소 위치 안내도.pdf",
-        "url_private_download": "attachments/F03V1UX788K-[붙임] 셔틀버스 승차장소 위치 안내도.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03V1UX788K/___________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03V1UX788K-8e51003899",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ndAz",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c셔틀버스 승차장소 위치 변경 안내\u003e\n\n「지하주차장 확충 및 보행환경 개선」공사장 인근에 통제되었던 차량 통행이 8.29.(월)부로 재개됨에 따라 셔틀버스 승차장소가 아래와 같이 변경될 예정입니다.\n\n가. 변경기간: 2022.8.30.(화) ~ 지하주차장 확충 완공 시까지\n나. 변경내용(세부장소 붙임 참조)\n  1) 변경 전: 행정관 순환도로변(공사장 방향)\n  2) 변경 후: "
-              },
-              {
-                "type": "text",
-                "text": "행정관 순환도로변(現 승차장소 맞은편)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "8a69f24a-0907-4b0f-9153-8cea398f940a",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;아마존 인턴 모집 안내\u0026gt;\n\n아마존 인턴 채용 공고를 다음과 같이 안내드리오니, 관심있는 분들께서는 확인하여주시기 바랍니다.\n\nMy team at Amazon (Alexa AI) is hiring graduate research interns for 2023 to work on conversational AI. The primary goal is publication, and internship projects will be aligned with research topics my team is actively working on, including:\n- *\u003chttps://www.youtube.com/watch?v=1nYfRvg976E|Alexa Conversations\u003e:* Alexa Conversations is a dialogue system that helps \u003chttps://developer.amazon.com/en-US/alexa/alexa-skills-kit|Alexa skill\u003e developers \u003chttps://www.youtube.com/watch?v=M9C0P4-UaNQ|build skills\u003e with reduced effort while allowing dialogues to flow naturally across multiple turns. My team is working on several \u003chttps://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management|core components\u003e, such as natural language understanding (NLU) models, complex entities (e.g. list of entities, quantified entities), automated metrics for dialogue quality, and dialogue language models.\n- *\u003chttps://www.youtube.com/watch?v=zSE1Ya_xOoY\u0026amp;t=14m12s|Natural Turn Taking\u003e:* Natural Turn Taking is a special mode of Alexa in which users can talk with Alexa more \u003chttps://voicebot.ai/2020/09/25/amazon-alexa-natural-turn-taking-and-preference-learning-could-transform-alexa-into-a-super-assistant-but-not-yet/|naturally\u003e through barging in, no use of wake words, context switching, and more. My team runs projects on multiparty task-oriented dialogues and dialogue summarization.\n- *Reasoning:* My team runs several projects on enhancing Alexa with reasoning abilities, such as knowledge-based query contextualization and program generation based on temporal information.\n\nThe internship will be taking place in Sunnyvale, California.\n*If you’re interested, please send me (\u003cmailto:yohan.jo@gmail.com|yohan.jo@gmail.com\u003e) your CV/resume detailing your publications (if any), research experiences, and interests. Interviews are being conducted on a rolling basis.*\n\nBest,\nYohan Jo",
-    "ts": "1661389639.601149",
-    "attachments": [
-      {
-        "fallback": "YouTube Video: Introducing Alexa Conversations",
-        "id": 1,
-        "author_name": "Alexa Developers",
-        "author_link": "https://www.youtube.com/c/AlexaDevelopers",
-        "title": "Introducing Alexa Conversations",
-        "title_link": "https://www.youtube.com/watch?v=1nYfRvg976E",
-        "thumb_url": "https://i.ytimg.com/vi/1nYfRvg976E/hqdefault.jpg",
-        "service_name": "YouTube",
-        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
-        "from_url": "https://www.youtube.com/watch?v=1nYfRvg976E",
-        "original_url": "https://www.youtube.com/watch?v=1nYfRvg976E",
-        "blocks": null
-      },
-      {
-        "fallback": "Amazon (Alexa): Create Alexa Skills Kit | Amazon Alexa Voice Development",
-        "id": 2,
-        "title": "Create Alexa Skills Kit | Amazon Alexa Voice Development",
-        "title_link": "https://developer.amazon.com/en-US/alexa/alexa-skills-kit",
-        "text": "Amazon Alexa Skills Kit (ASK) provides self-service APIs and built-in voice interaction models that allow developers to deliver their voice experience in more than 20 different categories, including games, education, music \u0026amp; audio, health \u0026amp; fitness, smart home device, business \u0026amp; finance, weather, travel, and more. The Alexa Skills Kit allows developers to build voice skills for millions of devices around the world.",
-        "image_url": "https://ds6yc8t7pnx74.cloudfront.net/en-US/alexa/alexa-skills-kit.thumb.800.480.png?ck=1658357395",
-        "service_name": "Amazon (Alexa)",
-        "service_icon": "https://m.media-amazon.com/images/G/01/AlexaDevPortal/favicon-32x32._CB1544644721_.png",
-        "from_url": "https://developer.amazon.com/en-US/alexa/alexa-skills-kit",
-        "original_url": "https://developer.amazon.com/en-US/alexa/alexa-skills-kit",
-        "blocks": null
-      },
-      {
-        "fallback": "YouTube Video: The science behind Alexa Conversations | Amazon Science",
-        "id": 3,
-        "author_name": "Amazon Science",
-        "author_link": "https://www.youtube.com/c/AmazonScience",
-        "title": "The science behind Alexa Conversations | Amazon Science",
-        "title_link": "https://www.youtube.com/watch?v=M9C0P4-UaNQ",
-        "thumb_url": "https://i.ytimg.com/vi/M9C0P4-UaNQ/hqdefault.jpg",
-        "service_name": "YouTube",
-        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
-        "from_url": "https://www.youtube.com/watch?v=M9C0P4-UaNQ",
-        "original_url": "https://www.youtube.com/watch?v=M9C0P4-UaNQ",
-        "blocks": null
-      },
-      {
-        "fallback": "Amazon Science: Science innovations power Alexa Conversations dialogue management",
-        "id": 4,
-        "title": "Science innovations power Alexa Conversations dialogue management",
-        "title_link": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
-        "text": "Dialogue simulator and conversations-first modeling architecture provide ability for customers to interact with Alexa in a natural and conversational manner.",
-        "image_url": "https://assets.amazon.science/dims4/default/dd5828e/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F13%2F3d%2Fd6c532c740819f8e9226dca8204e%2Falexa-conversations-dialogue-mgmt.jpg",
-        "service_name": "Amazon Science",
-        "service_icon": "https://www.amazon.science/apple-touch-icon.png",
-        "from_url": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
-        "original_url": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
-        "blocks": null,
-        "ts": 1595458821
-      },
-      {
-        "fallback": "YouTube Video: Introducing Amazon’s Latest Devices and Services | Amazon News",
-        "id": 5,
-        "author_name": "Amazon News",
-        "author_link": "https://www.youtube.com/c/AmazonNews",
-        "title": "Introducing Amazon’s Latest Devices and Services | Amazon News",
-        "title_link": "https://www.youtube.com/watch?v=zSE1Ya_xOoY\u0026amp;t=14m12s",
-        "thumb_url": "https://i.ytimg.com/vi/zSE1Ya_xOoY/hqdefault.jpg",
-        "service_name": "YouTube",
-        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
-        "from_url": "https://www.youtube.com/watch?v=zSE1Ya_xOoY\u0026amp;t=14m12s",
-        "original_url": "https://www.youtube.com/watch?v=zSE1Ya_xOoY\u0026amp;t=14m12s",
-        "blocks": null
-      }
-    ],
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1661389665.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "VSZgy",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c아마존 인턴 모집 안내\u003e\n\n아마존 인턴 채용 공고를 다음과 같이 안내드리오니, 관심있는 분들께서는 확인하여주시기 바랍니다.\n\nMy team at Amazon (Alexa AI) is hiring graduate research interns for 2023 to work on conversational AI. The primary goal is publication, and internship projects will be aligned with research topics my team is actively working on, including:\n- "
-              },
-              {
-                "type": "link",
-                "url": "https://www.youtube.com/watch?v=1nYfRvg976E",
-                "text": "Alexa Conversations",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ":",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " Alexa Conversations is a dialogue system that helps "
-              },
-              {
-                "type": "link",
-                "url": "https://developer.amazon.com/en-US/alexa/alexa-skills-kit",
-                "text": "Alexa skill"
-              },
-              {
-                "type": "text",
-                "text": " developers "
-              },
-              {
-                "type": "link",
-                "url": "https://www.youtube.com/watch?v=M9C0P4-UaNQ",
-                "text": "build skills"
-              },
-              {
-                "type": "text",
-                "text": " with reduced effort while allowing dialogues to flow naturally across multiple turns. My team is working on several "
-              },
-              {
-                "type": "link",
-                "url": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
-                "text": "core components"
-              },
-              {
-                "type": "text",
-                "text": ", such as natural language understanding (NLU) models, complex entities (e.g. list of entities, quantified entities), automated metrics for dialogue quality, and dialogue language models.\n- "
-              },
-              {
-                "type": "link",
-                "url": "https://www.youtube.com/watch?v=zSE1Ya_xOoY\u0026t=14m12s",
-                "text": "Natural Turn Taking",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ":",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " Natural Turn Taking is a special mode of Alexa in which users can talk with Alexa more "
-              },
-              {
-                "type": "link",
-                "url": "https://voicebot.ai/2020/09/25/amazon-alexa-natural-turn-taking-and-preference-learning-could-transform-alexa-into-a-super-assistant-but-not-yet/",
-                "text": "naturally"
-              },
-              {
-                "type": "text",
-                "text": " through barging in, no use of wake words, context switching, and more. My team runs projects on multiparty task-oriented dialogues and dialogue summarization.\n- "
-              },
-              {
-                "type": "text",
-                "text": "Reasoning:",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " My team runs several projects on enhancing Alexa with reasoning abilities, such as knowledge-based query contextualization and program generation based on temporal information.\n\nThe internship will be taking place in Sunnyvale, California.\n"
-              },
-              {
-                "type": "text",
-                "text": "If you’re interested, please send me (",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:yohan.jo@gmail.com",
-                "text": "yohan.jo@gmail.com",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ") your CV/resume detailing your publications (if any), research experiences, and interests. Interviews are being conducted on a rolling basis.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nBest,\nYohan Jo"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "38d6b04d-72b5-4406-9ef7-468cdf10a7c7",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022학년도 2학기 셔틀버스 운행 안내\u0026gt;\n\n2022학년도 2학기 셔틀버스 운행을 아래와 같이 안내하오니 셔틀버스 이용에 참고 하시기 바랍니다.\n\n1. 기 간: 2022. 9. 1.(목) ~ 2022. 12. 21.(수) (주말 및 공휴일 미운행)\n  *※ 공휴일: 추석(9.9.(금),12.(월)), 개천절(10.3.(월)), 한글날 대체휴일(10.10.(월))*\n\n2. 운행정보\n  가. 운행노선: 통학셔틀, 교내셔틀, 야간 도서관셔틀, 심야셔틀, 교직원 출·퇴근\n  나. 운행시간: 붙임1 참고 *※ 배차시간은 교통상황에 따라 다소 변경될 수 있음*\n  다. 참고사항: 셔틀버스 승차장소 변경(붙임2 참고)",
-    "ts": "1661415386.840829",
-    "files": [
-      {
-        "id": "F03V0GYP6E9",
-        "created": 1661415375,
-        "timestamp": 1661415375,
-        "name": "붙임1. 2022학년도 2학기 셔틀버스 운행 안내(공지용).pdf",
-        "title": "붙임1. 2022학년도 2학기 셔틀버스 운행 안내(공지용).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 46024,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03V0GYP6E9-붙임1. 2022학년도 2학기 셔틀버스 운행 안내(공지용).pdf",
-        "url_private_download": "attachments/F03V0GYP6E9-붙임1. 2022학년도 2학기 셔틀버스 운행 안내(공지용).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03V0GYP6E9/______1._2022__________2____________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03V0GYP6E9-e238df97cc",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F03V600J3J8",
-        "created": 1661415380,
-        "timestamp": 1661415380,
-        "name": "붙임2. 셔틀버스 승차장소 위치 안내도.pdf",
-        "title": "붙임2. 셔틀버스 승차장소 위치 안내도.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 452245,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03V600J3J8-붙임2. 셔틀버스 승차장소 위치 안내도.pdf",
-        "url_private_download": "attachments/F03V600J3J8-붙임2. 셔틀버스 승차장소 위치 안내도.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03V600J3J8/______2.___________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03V600J3J8-eeae709cc1",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ajc",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022학년도 2학기 셔틀버스 운행 안내\u003e\n\n2022학년도 2학기 셔틀버스 운행을 아래와 같이 안내하오니 셔틀버스 이용에 참고 하시기 바랍니다.\n\n1. 기 간: 2022. 9. 1.(목) ~ 2022. 12. 21.(수) (주말 및 공휴일 미운행)\n"
-              },
-              {
-                "type": "text",
-                "text": "  ※ 공휴일: 추석(9.9.(금),12.(월)), 개천절(10.3.(월)), 한글날 대체휴일(10.10.(월))",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2. 운행정보\n  가. 운행노선: 통학셔틀, 교내셔틀, 야간 도서관셔틀, 심야셔틀, 교직원 출·퇴근\n  나. 운행시간: 붙임1 참고 "
-              },
-              {
-                "type": "text",
-                "text": "※ 배차시간은 교통상황에 따라 다소 변경될 수 있음",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  다. 참고사항: 셔틀버스 승차장소 변경(붙임2 참고)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "9a8fea89-bad0-44a5-aa3f-26f66436eb46",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;셔틀버스 승차장소 위치 변경 안내&gt;\n\n「지하주차장 확충 및 보행환경 개선」공사장 인근에 통제되었던 차량 통행이 8.29.(월)부로 재개됨에 따라 셔틀버스 승차장소가 아래와 같이 변경될 예정입니다.\n\n가. 변경기간: 2022.8.30.(화) ~ 지하주차장 확충 완공 시까지\n나. 변경내용(세부장소 붙임 참조)\n  1) 변경 전: 행정관 순환도로변(공사장 방향)\n  2) 변경 후: *행정관 순환도로변(現 승차장소 맞은편)*",
+			"ts": "1661385676.863289",
+			"files": [
+				{
+					"id": "F03V1UX788K",
+					"created": 1661385653,
+					"timestamp": 1661385653,
+					"name": "[붙임] 셔틀버스 승차장소 위치 안내도.pdf",
+					"title": "[붙임] 셔틀버스 승차장소 위치 안내도.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 452245,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03V1UX788K-[붙임] 셔틀버스 승차장소 위치 안내도.pdf",
+					"url_private_download": "attachments/F03V1UX788K-[붙임] 셔틀버스 승차장소 위치 안내도.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03V1UX788K/___________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03V1UX788K-8e51003899",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ndAz",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<셔틀버스 승차장소 위치 변경 안내>\n\n「지하주차장 확충 및 보행환경 개선」공사장 인근에 통제되었던 차량 통행이 8.29.(월)부로 재개됨에 따라 셔틀버스 승차장소가 아래와 같이 변경될 예정입니다.\n\n가. 변경기간: 2022.8.30.(화) ~ 지하주차장 확충 완공 시까지\n나. 변경내용(세부장소 붙임 참조)\n  1) 변경 전: 행정관 순환도로변(공사장 방향)\n  2) 변경 후: "
+								},
+								{
+									"type": "text",
+									"text": "행정관 순환도로변(現 승차장소 맞은편)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "8a69f24a-0907-4b0f-9153-8cea398f940a",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;아마존 인턴 모집 안내&gt;\n\n아마존 인턴 채용 공고를 다음과 같이 안내드리오니, 관심있는 분들께서는 확인하여주시기 바랍니다.\n\nMy team at Amazon (Alexa AI) is hiring graduate research interns for 2023 to work on conversational AI. The primary goal is publication, and internship projects will be aligned with research topics my team is actively working on, including:\n- *<https://www.youtube.com/watch?v=1nYfRvg976E|Alexa Conversations>:* Alexa Conversations is a dialogue system that helps <https://developer.amazon.com/en-US/alexa/alexa-skills-kit|Alexa skill> developers <https://www.youtube.com/watch?v=M9C0P4-UaNQ|build skills> with reduced effort while allowing dialogues to flow naturally across multiple turns. My team is working on several <https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management|core components>, such as natural language understanding (NLU) models, complex entities (e.g. list of entities, quantified entities), automated metrics for dialogue quality, and dialogue language models.\n- *<https://www.youtube.com/watch?v=zSE1Ya_xOoY&amp;t=14m12s|Natural Turn Taking>:* Natural Turn Taking is a special mode of Alexa in which users can talk with Alexa more <https://voicebot.ai/2020/09/25/amazon-alexa-natural-turn-taking-and-preference-learning-could-transform-alexa-into-a-super-assistant-but-not-yet/|naturally> through barging in, no use of wake words, context switching, and more. My team runs projects on multiparty task-oriented dialogues and dialogue summarization.\n- *Reasoning:* My team runs several projects on enhancing Alexa with reasoning abilities, such as knowledge-based query contextualization and program generation based on temporal information.\n\nThe internship will be taking place in Sunnyvale, California.\n*If you’re interested, please send me (<mailto:yohan.jo@gmail.com|yohan.jo@gmail.com>) your CV/resume detailing your publications (if any), research experiences, and interests. Interviews are being conducted on a rolling basis.*\n\nBest,\nYohan Jo",
+			"ts": "1661389639.601149",
+			"attachments": [
+				{
+					"fallback": "YouTube Video: Introducing Alexa Conversations",
+					"id": 1,
+					"author_name": "Alexa Developers",
+					"author_link": "https://www.youtube.com/c/AlexaDevelopers",
+					"title": "Introducing Alexa Conversations",
+					"title_link": "https://www.youtube.com/watch?v=1nYfRvg976E",
+					"thumb_url": "https://i.ytimg.com/vi/1nYfRvg976E/hqdefault.jpg",
+					"service_name": "YouTube",
+					"service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+					"from_url": "https://www.youtube.com/watch?v=1nYfRvg976E",
+					"original_url": "https://www.youtube.com/watch?v=1nYfRvg976E",
+					"blocks": null
+				},
+				{
+					"fallback": "Amazon (Alexa): Create Alexa Skills Kit | Amazon Alexa Voice Development",
+					"id": 2,
+					"title": "Create Alexa Skills Kit | Amazon Alexa Voice Development",
+					"title_link": "https://developer.amazon.com/en-US/alexa/alexa-skills-kit",
+					"text": "Amazon Alexa Skills Kit (ASK) provides self-service APIs and built-in voice interaction models that allow developers to deliver their voice experience in more than 20 different categories, including games, education, music &amp; audio, health &amp; fitness, smart home device, business &amp; finance, weather, travel, and more. The Alexa Skills Kit allows developers to build voice skills for millions of devices around the world.",
+					"image_url": "https://ds6yc8t7pnx74.cloudfront.net/en-US/alexa/alexa-skills-kit.thumb.800.480.png?ck=1658357395",
+					"service_name": "Amazon (Alexa)",
+					"service_icon": "https://m.media-amazon.com/images/G/01/AlexaDevPortal/favicon-32x32._CB1544644721_.png",
+					"from_url": "https://developer.amazon.com/en-US/alexa/alexa-skills-kit",
+					"original_url": "https://developer.amazon.com/en-US/alexa/alexa-skills-kit",
+					"blocks": null
+				},
+				{
+					"fallback": "YouTube Video: The science behind Alexa Conversations | Amazon Science",
+					"id": 3,
+					"author_name": "Amazon Science",
+					"author_link": "https://www.youtube.com/c/AmazonScience",
+					"title": "The science behind Alexa Conversations | Amazon Science",
+					"title_link": "https://www.youtube.com/watch?v=M9C0P4-UaNQ",
+					"thumb_url": "https://i.ytimg.com/vi/M9C0P4-UaNQ/hqdefault.jpg",
+					"service_name": "YouTube",
+					"service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+					"from_url": "https://www.youtube.com/watch?v=M9C0P4-UaNQ",
+					"original_url": "https://www.youtube.com/watch?v=M9C0P4-UaNQ",
+					"blocks": null
+				},
+				{
+					"fallback": "Amazon Science: Science innovations power Alexa Conversations dialogue management",
+					"id": 4,
+					"title": "Science innovations power Alexa Conversations dialogue management",
+					"title_link": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
+					"text": "Dialogue simulator and conversations-first modeling architecture provide ability for customers to interact with Alexa in a natural and conversational manner.",
+					"image_url": "https://assets.amazon.science/dims4/default/dd5828e/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Famazon-topics-brightspot.s3.amazonaws.com%2Fscience%2F13%2F3d%2Fd6c532c740819f8e9226dca8204e%2Falexa-conversations-dialogue-mgmt.jpg",
+					"service_name": "Amazon Science",
+					"service_icon": "https://www.amazon.science/apple-touch-icon.png",
+					"from_url": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
+					"original_url": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
+					"blocks": null,
+					"ts": 1595458821
+				},
+				{
+					"fallback": "YouTube Video: Introducing Amazon’s Latest Devices and Services | Amazon News",
+					"id": 5,
+					"author_name": "Amazon News",
+					"author_link": "https://www.youtube.com/c/AmazonNews",
+					"title": "Introducing Amazon’s Latest Devices and Services | Amazon News",
+					"title_link": "https://www.youtube.com/watch?v=zSE1Ya_xOoY&amp;t=14m12s",
+					"thumb_url": "https://i.ytimg.com/vi/zSE1Ya_xOoY/hqdefault.jpg",
+					"service_name": "YouTube",
+					"service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+					"from_url": "https://www.youtube.com/watch?v=zSE1Ya_xOoY&amp;t=14m12s",
+					"original_url": "https://www.youtube.com/watch?v=zSE1Ya_xOoY&amp;t=14m12s",
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1661389665.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "VSZgy",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<아마존 인턴 모집 안내>\n\n아마존 인턴 채용 공고를 다음과 같이 안내드리오니, 관심있는 분들께서는 확인하여주시기 바랍니다.\n\nMy team at Amazon (Alexa AI) is hiring graduate research interns for 2023 to work on conversational AI. The primary goal is publication, and internship projects will be aligned with research topics my team is actively working on, including:\n- "
+								},
+								{
+									"type": "link",
+									"url": "https://www.youtube.com/watch?v=1nYfRvg976E",
+									"text": "Alexa Conversations",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ":",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " Alexa Conversations is a dialogue system that helps "
+								},
+								{
+									"type": "link",
+									"url": "https://developer.amazon.com/en-US/alexa/alexa-skills-kit",
+									"text": "Alexa skill"
+								},
+								{
+									"type": "text",
+									"text": " developers "
+								},
+								{
+									"type": "link",
+									"url": "https://www.youtube.com/watch?v=M9C0P4-UaNQ",
+									"text": "build skills"
+								},
+								{
+									"type": "text",
+									"text": " with reduced effort while allowing dialogues to flow naturally across multiple turns. My team is working on several "
+								},
+								{
+									"type": "link",
+									"url": "https://www.amazon.science/blog/science-innovations-power-alexa-conversations-dialogue-management",
+									"text": "core components"
+								},
+								{
+									"type": "text",
+									"text": ", such as natural language understanding (NLU) models, complex entities (e.g. list of entities, quantified entities), automated metrics for dialogue quality, and dialogue language models.\n- "
+								},
+								{
+									"type": "link",
+									"url": "https://www.youtube.com/watch?v=zSE1Ya_xOoY&t=14m12s",
+									"text": "Natural Turn Taking",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ":",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " Natural Turn Taking is a special mode of Alexa in which users can talk with Alexa more "
+								},
+								{
+									"type": "link",
+									"url": "https://voicebot.ai/2020/09/25/amazon-alexa-natural-turn-taking-and-preference-learning-could-transform-alexa-into-a-super-assistant-but-not-yet/",
+									"text": "naturally"
+								},
+								{
+									"type": "text",
+									"text": " through barging in, no use of wake words, context switching, and more. My team runs projects on multiparty task-oriented dialogues and dialogue summarization.\n- "
+								},
+								{
+									"type": "text",
+									"text": "Reasoning:",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " My team runs several projects on enhancing Alexa with reasoning abilities, such as knowledge-based query contextualization and program generation based on temporal information.\n\nThe internship will be taking place in Sunnyvale, California.\n"
+								},
+								{
+									"type": "text",
+									"text": "If you’re interested, please send me (",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:yohan.jo@gmail.com",
+									"text": "yohan.jo@gmail.com",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ") your CV/resume detailing your publications (if any), research experiences, and interests. Interviews are being conducted on a rolling basis.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nBest,\nYohan Jo"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "38d6b04d-72b5-4406-9ef7-468cdf10a7c7",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022학년도 2학기 셔틀버스 운행 안내&gt;\n\n2022학년도 2학기 셔틀버스 운행을 아래와 같이 안내하오니 셔틀버스 이용에 참고 하시기 바랍니다.\n\n1. 기 간: 2022. 9. 1.(목) ~ 2022. 12. 21.(수) (주말 및 공휴일 미운행)\n  *※ 공휴일: 추석(9.9.(금),12.(월)), 개천절(10.3.(월)), 한글날 대체휴일(10.10.(월))*\n\n2. 운행정보\n  가. 운행노선: 통학셔틀, 교내셔틀, 야간 도서관셔틀, 심야셔틀, 교직원 출·퇴근\n  나. 운행시간: 붙임1 참고 *※ 배차시간은 교통상황에 따라 다소 변경될 수 있음*\n  다. 참고사항: 셔틀버스 승차장소 변경(붙임2 참고)",
+			"ts": "1661415386.840829",
+			"files": [
+				{
+					"id": "F03V0GYP6E9",
+					"created": 1661415375,
+					"timestamp": 1661415375,
+					"name": "붙임1. 2022학년도 2학기 셔틀버스 운행 안내(공지용).pdf",
+					"title": "붙임1. 2022학년도 2학기 셔틀버스 운행 안내(공지용).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 46024,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03V0GYP6E9-붙임1. 2022학년도 2학기 셔틀버스 운행 안내(공지용).pdf",
+					"url_private_download": "attachments/F03V0GYP6E9-붙임1. 2022학년도 2학기 셔틀버스 운행 안내(공지용).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03V0GYP6E9/______1._2022__________2____________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03V0GYP6E9-e238df97cc",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F03V600J3J8",
+					"created": 1661415380,
+					"timestamp": 1661415380,
+					"name": "붙임2. 셔틀버스 승차장소 위치 안내도.pdf",
+					"title": "붙임2. 셔틀버스 승차장소 위치 안내도.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 452245,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03V600J3J8-붙임2. 셔틀버스 승차장소 위치 안내도.pdf",
+					"url_private_download": "attachments/F03V600J3J8-붙임2. 셔틀버스 승차장소 위치 안내도.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03V600J3J8/______2.___________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03V600J3J8-eeae709cc1",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ajc",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022학년도 2학기 셔틀버스 운행 안내>\n\n2022학년도 2학기 셔틀버스 운행을 아래와 같이 안내하오니 셔틀버스 이용에 참고 하시기 바랍니다.\n\n1. 기 간: 2022. 9. 1.(목) ~ 2022. 12. 21.(수) (주말 및 공휴일 미운행)\n"
+								},
+								{
+									"type": "text",
+									"text": "  ※ 공휴일: 추석(9.9.(금),12.(월)), 개천절(10.3.(월)), 한글날 대체휴일(10.10.(월))",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2. 운행정보\n  가. 운행노선: 통학셔틀, 교내셔틀, 야간 도서관셔틀, 심야셔틀, 교직원 출·퇴근\n  나. 운행시간: 붙임1 참고 "
+								},
+								{
+									"type": "text",
+									"text": "※ 배차시간은 교통상황에 따라 다소 변경될 수 있음",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  다. 참고사항: 셔틀버스 승차장소 변경(붙임2 참고)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

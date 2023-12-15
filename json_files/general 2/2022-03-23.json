@@ -1,48 +1,50 @@
-[
-  {
-    "client_msg_id": "ed91f864-4c3b-4a1b-974a-8d0d8170b78c",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;세미나실_308호 및 309호 와이파이 안내\u0026gt;\n○ 308호 와이파이 → 308 5g / 308\n○ 308호 와이파이 → 308 5g / 308\n○ PW → datascience",
-    "ts": "1648020926.894729",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "iE4DV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c세미나실_308호 및 309호 와이파이 안내\u003e\n○ 308호 와이파이 → 308 5g / 308\n○ 308호 와이파이 → 308 5g / 308\n○ PW → datascience"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ed91f864-4c3b-4a1b-974a-8d0d8170b78c",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;세미나실_308호 및 309호 와이파이 안내&gt;\n○ 308호 와이파이 → 308 5g / 308\n○ 308호 와이파이 → 308 5g / 308\n○ PW → datascience",
+			"ts": "1648020926.894729",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "iE4DV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<세미나실_308호 및 309호 와이파이 안내>\n○ 308호 와이파이 → 308 5g / 308\n○ 308호 와이파이 → 308 5g / 308\n○ PW → datascience"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

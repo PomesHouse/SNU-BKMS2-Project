@@ -1,161 +1,163 @@
-[
-  {
-    "client_msg_id": "abc0179c-8c93-4871-9a67-6b6056d2502a",
-    "type": "message",
-    "user": "U01Q9KXMSF8",
-    "text": "정말 재미있어보이네요 ^^ 병찬님 다이어트 화이팅!!",
-    "ts": "1657692823.040039",
-    "thread_ts": "1657633666.946889",
-    "parent_user_id": "U01QV1SQJ57",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "muscle",
-        "count": 6,
-        "users": [
-          "U01QV1SQJ57",
-          "U01Q1KFN4JK",
-          "U01QV1PBKUZ",
-          "U01QV28FG4R",
-          "U02UT1XUGFL",
-          "U02UT2U1PFV"
-        ]
-      },
-      {
-        "name": "rolling_on_the_floor_laughing",
-        "count": 2,
-        "users": [
-          "U01QV1PBKUZ",
-          "U02UT1XUGFL"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Gg+zK",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "정말 재미있어보이네요 ^^ 병찬님 다이어트 화이팅!!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/ffbcc22a320d119bf23a35fdcd9e4d97.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
-      "first_name": "김주은",
-      "real_name": "김주은",
-      "display_name": "2기_김주은",
-      "team": "T01QA5S537V",
-      "name": "kje980714",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "56F79B94-9CD8-4B85-9B05-CB318D45C719",
-    "type": "message",
-    "user": "U01QDANUYVB",
-    "text": "헉 담에 할 때 불러주세요!!",
-    "ts": "1657709350.510799",
-    "thread_ts": "1657633666.946889",
-    "parent_user_id": "U01QV1SQJ57",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01QV1SQJ57"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "lhun",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "헉"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "담에"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "할"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "때"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "불러주세요!!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
-      "first_name": "박성찬",
-      "real_name": "박성찬",
-      "display_name": "2기_박성찬",
-      "team": "T01QA5S537V",
-      "name": "warld2234",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "abc0179c-8c93-4871-9a67-6b6056d2502a",
+			"type": "message",
+			"user": "U01Q9KXMSF8",
+			"text": "정말 재미있어보이네요 ^^ 병찬님 다이어트 화이팅!!",
+			"ts": "1657692823.040039",
+			"thread_ts": "1657633666.946889",
+			"parent_user_id": "U01QV1SQJ57",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "muscle",
+					"count": 6,
+					"users": [
+						"U01QV1SQJ57",
+						"U01Q1KFN4JK",
+						"U01QV1PBKUZ",
+						"U01QV28FG4R",
+						"U02UT1XUGFL",
+						"U02UT2U1PFV"
+					]
+				},
+				{
+					"name": "rolling_on_the_floor_laughing",
+					"count": 2,
+					"users": [
+						"U01QV1PBKUZ",
+						"U02UT1XUGFL"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Gg+zK",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "정말 재미있어보이네요 ^^ 병찬님 다이어트 화이팅!!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/ffbcc22a320d119bf23a35fdcd9e4d97.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0016-72.png",
+				"first_name": "김주은",
+				"real_name": "김주은",
+				"display_name": "2기_김주은",
+				"team": "T01QA5S537V",
+				"name": "kje980714",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "56F79B94-9CD8-4B85-9B05-CB318D45C719",
+			"type": "message",
+			"user": "U01QDANUYVB",
+			"text": "헉 담에 할 때 불러주세요!!",
+			"ts": "1657709350.510799",
+			"thread_ts": "1657633666.946889",
+			"parent_user_id": "U01QV1SQJ57",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01QV1SQJ57"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "lhun",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "헉"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "담에"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "할"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "때"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "불러주세요!!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
+				"first_name": "박성찬",
+				"real_name": "박성찬",
+				"display_name": "2기_박성찬",
+				"team": "T01QA5S537V",
+				"name": "warld2234",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

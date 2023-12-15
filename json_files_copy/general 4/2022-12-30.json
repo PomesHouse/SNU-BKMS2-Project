@@ -1,0 +1,577 @@
+[
+  {
+    "client_msg_id": "415d14e7-1259-4be9-b5cd-95500fa1ac47",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022학년도 동계 계절수업 교과목(타 학과(부) 전공 및 교양) 성적평가방법 선택제 신청 안내\u0026gt;\n\n2022학년도 동계 계절수업 성적평가방법 선택제(타 학과(부) 전공 교과목 및 교양 교과목) 신청 기간을 안내드리니 신청을 원하는 학생들은 2023. 1. 9.(월)까지 신청할 수 있도록 안내하여 주시기 바랍니다.\n\n가. 상세한 사항은 붙임 안내문을 확인하여 주시기 바랍니다.\n나. 신청기한: 2023. 1. 9.(월) ~ 23:59",
+    "ts": "1672361938.596469",
+    "files": [
+      {
+        "id": "F04GZTECG5R",
+        "created": 1672361935,
+        "timestamp": 1672361935,
+        "name": "(붙임)2022학년도 동계 계절수업 타 학과(부) 전공 및 교양 교과목 성적평가방법 선택제 안내문(2022 Winter Session Gudielines for Changi.pdf",
+        "title": "(붙임)2022학년도 동계 계절수업 타 학과(부) 전공 및 교양 교과목 성적평가방법 선택제 안내문(2022 Winter Session Gudielines for Changi.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 346716,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04GZTECG5R-(붙임)2022학년도 동계 계절수업 타 학과(부) 전공 및 교양 교과목 성적평가방법 선택제 안내문(2022 Winter Session Gudielines for Changi.pdf",
+        "url_private_download": "attachments/F04GZTECG5R-(붙임)2022학년도 동계 계절수업 타 학과(부) 전공 및 교양 교과목 성적평가방법 선택제 안내문(2022 Winter Session Gudielines for Changi.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04GZTECG5R/________2022_________________________________________________________________________________________________________________2022_winter_session_gudielines_for_changi.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04GZTECG5R-6f28496c9c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y04",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022학년도 동계 계절수업 교과목(타 학과(부) 전공 및 교양) 성적평가방법 선택제 신청 안내\u003e\n\n2022학년도 동계 계절수업 성적평가방법 선택제(타 학과(부) 전공 교과목 및 교양 교과목) 신청 기간을 안내드리니 신청을 원하는 학생들은 2023. 1. 9.(월)까지 신청할 수 있도록 안내하여 주시기 바랍니다.\n\n가. 상세한 사항은 붙임 안내문을 확인하여 주시기 바랍니다.\n나. 신청기한: 2023. 1. 9.(월) ~ 23:59"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9b5f663c-8bf3-4842-b475-5678658686ef",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023학년도 1학기 창업학점제 신청 안내\u0026gt;\n\n2023학년도 1학기 창업학점제 신청을 안내하오니 희망하는 학생들은 *2023. 1. 9.(월)*까지 신청하여 주시기 바랍니다.\n\n가. 상세한 사항은 붙임 안내문을 확인하여 주시기 바랍니다.\n나. 신청서 및 제출서류 미비시 접수처리가 되지 않을 수 있습니다.",
+    "ts": "1672362644.405609",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1672362667.000000"
+    },
+    "files": [
+      {
+        "id": "F04GKFCV0F9",
+        "created": 1672362597,
+        "timestamp": 1672362597,
+        "name": "[붙임3] 서울대학교 창업학점제 운영 지침.hwp",
+        "title": "[붙임3] 서울대학교 창업학점제 운영 지침.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 75776,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04GKFCV0F9-[붙임3] 서울대학교 창업학점제 운영 지침.hwp",
+        "url_private_download": "attachments/F04GKFCV0F9-[붙임3] 서울대학교 창업학점제 운영 지침.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04GKFCV0F9/_______3_______________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04GKFCV0F9-8a00e3a59a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04HCLK10U9",
+        "created": 1672362599,
+        "timestamp": 1672362599,
+        "name": "[붙임2] 신청서 서식.hwp",
+        "title": "[붙임2] 신청서 서식.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 48128,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04HCLK10U9-[붙임2] 신청서 서식.hwp",
+        "url_private_download": "attachments/F04HCLK10U9-[붙임2] 신청서 서식.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04HCLK10U9/_______2__________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04HCLK10U9-cca0878c77",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04H01WQZTL",
+        "created": 1672362600,
+        "timestamp": 1672362600,
+        "name": "[붙임1] 2023학년도 1학기 창업학점제 신청 안내.pdf",
+        "title": "[붙임1] 2023학년도 1학기 창업학점제 신청 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 156698,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04H01WQZTL-[붙임1] 2023학년도 1학기 창업학점제 신청 안내.pdf",
+        "url_private_download": "attachments/F04H01WQZTL-[붙임1] 2023학년도 1학기 창업학점제 신청 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04H01WQZTL/_______1__2023__________1____________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04H01WQZTL-1aae611b20",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RUH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 1학기 창업학점제 신청 안내\u003e\n\n2023학년도 1학기 창업학점제 신청을 안내하오니 희망하는 학생들은 "
+              },
+              {
+                "type": "text",
+                "text": "2023. 1. 9.(월)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "까지 신청하여 주시기 바랍니다.\n\n가. 상세한 사항은 붙임 안내문을 확인하여 주시기 바랍니다.\n나. 신청서 및 제출서류 미비시 접수처리가 되지 않을 수 있습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "49b6dbd1-a475-4d70-817e-a8720a4bb4b4",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023년 1월 각 군 현역병 모집 계획\u0026gt;\n\n병무청에서는 병역의무자의 잔공, 자격·면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 현역병 모집제도를 운영하고 있습니다. 2022년 12월 지원하여 2023년 3월 입영예정인 각 군 현역병 모집일정을 알려드립니다.",
+    "ts": "1672362944.087739",
+    "files": [
+      {
+        "id": "F04HPNJE12L",
+        "created": 1672362813,
+        "timestamp": 1672362813,
+        "name": "2023년 1월 각 군 현역병 모집계획.hwpx",
+        "title": "2023년 1월 각 군 현역병 모집계획.hwpx",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 55856,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04HPNJE12L-2023년 1월 각 군 현역병 모집계획.hwpx",
+        "url_private_download": "attachments/F04HPNJE12L-2023년 1월 각 군 현역병 모집계획.hwpx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04HPNJE12L/2023____1__________________________________.hwpx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04HPNJE12L-6dbe6af522",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OGp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023년 1월 각 군 현역병 모집 계획\u003e\n\n병무청에서는 병역의무자의 잔공, 자격·면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 현역병 모집제도를 운영하고 있습니다. 2022년 12월 지원하여 2023년 3월 입영예정인 각 군 현역병 모집일정을 알려드립니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ec1ba224-99a4-4ded-aacd-e439e11e1687",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;교내 코로나19 분자 진단 검사소 연장 운영 안내\u0026gt;\n교내 코로나19 분자 진단 검사소를 2023.1.31.(화)까지 연장하여 운영합니다.\n상세 내역은 첨부파일을 확인하여 주시기 바랍니다.",
+    "ts": "1672363567.071089",
+    "files": [
+      {
+        "id": "F04H02JDR8S",
+        "created": 1672363558,
+        "timestamp": 1672363558,
+        "name": "교내 코로나19 분자 진단 검사소 연장 운영 안내.pdf",
+        "title": "교내 코로나19 분자 진단 검사소 연장 운영 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 162818,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04H02JDR8S-교내 코로나19 분자 진단 검사소 연장 운영 안내.pdf",
+        "url_private_download": "attachments/F04H02JDR8S-교내 코로나19 분자 진단 검사소 연장 운영 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04H02JDR8S/________________19_____________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04H02JDR8S-839e53db34",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dYCn0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c교내 코로나19 분자 진단 검사소 연장 운영 안내\u003e\n교내 코로나19 분자 진단 검사소를 2023.1.31.(화)까지 연장하여 운영합니다.\n상세 내역은 첨부파일을 확인하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

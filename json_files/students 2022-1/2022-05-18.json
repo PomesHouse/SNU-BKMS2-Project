@@ -1,50 +1,52 @@
-[
-  {
-    "client_msg_id": "9754dc80-1932-4044-9f3e-6b96030ae6d1",
-    "type": "message",
-    "user": "U01QNSKMEDP",
-    "text": "연구공원 메뉴 welstory+ 앱에서 확인 가능한걸로 알고있어요! 크롤링이 될지는 모르겠네요ㅠ",
-    "ts": "1652839026.851419",
-    "thread_ts": "1652465268.665629",
-    "parent_user_id": "U02UT1Y2UJW",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fGSF",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "연구공원 메뉴 welstory+ 앱에서 확인 가능한걸로 알고있어요! 크롤링이 될지는 모르겠네요ㅠ"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1817564694615_9c2fcfe3c613e19d0cbd_72.png",
-      "first_name": "silkyday",
-      "real_name": "silkyday",
-      "display_name": "1기_강동식",
-      "team": "T01QA5S537V",
-      "name": "silkyday",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "9754dc80-1932-4044-9f3e-6b96030ae6d1",
+			"type": "message",
+			"user": "U01QNSKMEDP",
+			"text": "연구공원 메뉴 welstory+ 앱에서 확인 가능한걸로 알고있어요! 크롤링이 될지는 모르겠네요ㅠ",
+			"ts": "1652839026.851419",
+			"thread_ts": "1652465268.665629",
+			"parent_user_id": "U02UT1Y2UJW",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fGSF",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "연구공원 메뉴 welstory+ 앱에서 확인 가능한걸로 알고있어요! 크롤링이 될지는 모르겠네요ㅠ"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1817564694615_9c2fcfe3c613e19d0cbd_72.png",
+				"first_name": "silkyday",
+				"real_name": "silkyday",
+				"display_name": "1기_강동식",
+				"team": "T01QA5S537V",
+				"name": "silkyday",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

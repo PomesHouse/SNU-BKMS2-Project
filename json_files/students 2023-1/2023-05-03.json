@@ -1,226 +1,228 @@
-[
-  {
-    "client_msg_id": "db2c4edf-729c-4820-8148-7daadf0e8d7d",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "안녕하세요, 수요조사에는 참여하시고 아직 참가 신청을 하지 않으신 분들이 많습니다. 원활한 방 배정 및 엠티 준비를 위해 반드시 *오늘 오후 6시*까지 신청 부탁드립니다:pray:",
-    "ts": "1683077981.065639",
-    "thread_ts": "1682416310.516659",
-    "subtype": "thread_broadcast",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 11,
-        "users": [
-          "U0302PLQ34Y",
-          "U02V5LT4DLZ",
-          "U041B24HMFS",
-          "U02UVAT3BPW",
-          "U01PVEU1A07",
-          "U01Q75KNV1T",
-          "U04QKG4K12Q",
-          "U02ULBJR9GE",
-          "U02ULBH3TEJ",
-          "U01Q1KFN4JK",
-          "U04QE4ASJP7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "8f6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 수요조사에는 참여하시고 아직 참가 신청을 하지 않으신 분들이 많습니다. 원활한 방 배정 및 엠티 준비를 위해 반드시"
-              },
-              {
-                "type": "text",
-                "text": " 오늘 오후 6시",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "까지 신청 부탁드립니다"
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "db2c4edf-729c-4820-8148-7daadf0e8d7d",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "안녕하세요, 수요조사에는 참여하시고 아직 참가 신청을 하지 않으신 분들이 많습니다. 원활한 방 배정 및 엠티 준비를 위해 반드시 *오늘 오후 6시*까지 신청 부탁드립니다:pray:",
-    "ts": "1683077981.065639",
-    "thread_ts": "1682416310.516659",
-    "subtype": "thread_broadcast",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 11,
-        "users": [
-          "U0302PLQ34Y",
-          "U02V5LT4DLZ",
-          "U041B24HMFS",
-          "U02UVAT3BPW",
-          "U01PVEU1A07",
-          "U01Q75KNV1T",
-          "U04QKG4K12Q",
-          "U02ULBJR9GE",
-          "U02ULBH3TEJ",
-          "U01Q1KFN4JK",
-          "U04QE4ASJP7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "8f6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 수요조사에는 참여하시고 아직 참가 신청을 하지 않으신 분들이 많습니다. 원활한 방 배정 및 엠티 준비를 위해 반드시"
-              },
-              {
-                "type": "text",
-                "text": " 오늘 오후 6시",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "까지 신청 부탁드립니다"
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U042JBFR78U",
-    "text": "\u003c@U042JBFR78U\u003e has joined the channel",
-    "ts": "1683109887.856319",
-    "subtype": "channel_join",
-    "inviter": "U02ULBH3TEJ",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a1c0e25a1b2c294d52cdcff554208dec.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "리타",
-      "real_name": "리타",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "2022-23070",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U042CUT5VKP",
-    "text": "\u003c@U042CUT5VKP\u003e has joined the channel",
-    "ts": "1683110750.130969",
-    "subtype": "channel_join",
-    "inviter": "U02ULBH3TEJ",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/79bc513a8ea79066c7693db4d85bfe23.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
-      "first_name": "Sivmuy",
-      "real_name": "Sivmuy Duong",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "sivmuyduong",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "db2c4edf-729c-4820-8148-7daadf0e8d7d",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "안녕하세요, 수요조사에는 참여하시고 아직 참가 신청을 하지 않으신 분들이 많습니다. 원활한 방 배정 및 엠티 준비를 위해 반드시 *오늘 오후 6시*까지 신청 부탁드립니다:pray:",
+			"ts": "1683077981.065639",
+			"thread_ts": "1682416310.516659",
+			"subtype": "thread_broadcast",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 11,
+					"users": [
+						"U0302PLQ34Y",
+						"U02V5LT4DLZ",
+						"U041B24HMFS",
+						"U02UVAT3BPW",
+						"U01PVEU1A07",
+						"U01Q75KNV1T",
+						"U04QKG4K12Q",
+						"U02ULBJR9GE",
+						"U02ULBH3TEJ",
+						"U01Q1KFN4JK",
+						"U04QE4ASJP7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "8f6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 수요조사에는 참여하시고 아직 참가 신청을 하지 않으신 분들이 많습니다. 원활한 방 배정 및 엠티 준비를 위해 반드시"
+								},
+								{
+									"type": "text",
+									"text": " 오늘 오후 6시",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "까지 신청 부탁드립니다"
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "db2c4edf-729c-4820-8148-7daadf0e8d7d",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "안녕하세요, 수요조사에는 참여하시고 아직 참가 신청을 하지 않으신 분들이 많습니다. 원활한 방 배정 및 엠티 준비를 위해 반드시 *오늘 오후 6시*까지 신청 부탁드립니다:pray:",
+			"ts": "1683077981.065639",
+			"thread_ts": "1682416310.516659",
+			"subtype": "thread_broadcast",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 11,
+					"users": [
+						"U0302PLQ34Y",
+						"U02V5LT4DLZ",
+						"U041B24HMFS",
+						"U02UVAT3BPW",
+						"U01PVEU1A07",
+						"U01Q75KNV1T",
+						"U04QKG4K12Q",
+						"U02ULBJR9GE",
+						"U02ULBH3TEJ",
+						"U01Q1KFN4JK",
+						"U04QE4ASJP7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "8f6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 수요조사에는 참여하시고 아직 참가 신청을 하지 않으신 분들이 많습니다. 원활한 방 배정 및 엠티 준비를 위해 반드시"
+								},
+								{
+									"type": "text",
+									"text": " 오늘 오후 6시",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "까지 신청 부탁드립니다"
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U042JBFR78U",
+			"text": "<@U042JBFR78U> has joined the channel",
+			"ts": "1683109887.856319",
+			"subtype": "channel_join",
+			"inviter": "U02ULBH3TEJ",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a1c0e25a1b2c294d52cdcff554208dec.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "리타",
+				"real_name": "리타",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "2022-23070",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U042CUT5VKP",
+			"text": "<@U042CUT5VKP> has joined the channel",
+			"ts": "1683110750.130969",
+			"subtype": "channel_join",
+			"inviter": "U02ULBH3TEJ",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/79bc513a8ea79066c7693db4d85bfe23.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0004-72.png",
+				"first_name": "Sivmuy",
+				"real_name": "Sivmuy Duong",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "sivmuyduong",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,200 +1,202 @@
-[
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;삼성경제연구소 HR Analytics 담당 연구원 모집\u0026gt;\n\n1. 모집전공: Data science, 컴퓨터공학, 산업공학, 통계학, 계량심리학 관련전공\n2. 필요역량: 통계분석도구 활용해 예측, 최적화 등의 모델링 역량 머신러닝, 딥러닝을 활용한 비정형 데이터 전처리/모델링 역량\n3. 근무형태: Full time 근무 (정규직) \n모집분야, 지원자격, 지원방법 등의 자세한 사항은 첨부된 파일을 확인하여 주시기 바랍니다.",
-    "ts": "1617692488.043900",
-    "files": [
-      {
-        "id": "F01SXNW8UJK",
-        "created": 1617692476,
-        "timestamp": 1617692476,
-        "name": "Apr 6, 2021 Doc_1.pdf",
-        "title": "Apr 6, 2021 Doc_1.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 755714,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01SXNW8UJK-Apr 6, 2021 Doc_1.pdf",
-        "url_private_download": "attachments/F01SXNW8UJK-Apr 6, 2021 Doc_1.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01SXNW8UJK/apr_6__2021_doc_1.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01SXNW8UJK-6cdde231a8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "katZh",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c삼성경제연구소 HR Analytics 담당 연구원 모집\u003e\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1\\uc804\\uacf5: Data science, \\ucef4\\ud4e8\\ud130\\uacf5\\ud559, \\uc0b0\\uc5c5\\uacf5\\ud559, \\ud1b5\\uacc4\\ud559, \\uacc4\\ub7c9\\uc2ec\\ub9ac\\ud559 \\uad00\\ub828\\uc804\\uacf5\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud544\\uc694\\uc5ed\\ub7c9: \\ud1b5\\uacc4\\ubd84\\uc11d\\ub3c4\\uad6c \\ud65c\\uc6a9\\ud574 \\uc608\\uce21, \\ucd5c\\uc801\\ud654 \\ub4f1\\uc758 \\ubaa8\\ub378\\ub9c1 \\uc5ed\\ub7c9 \\uba38\\uc2e0\\ub7ec\\ub2dd, \\ub525\\ub7ec\\ub2dd\\uc744 \\ud65c\\uc6a9\\ud55c \\ube44\\uc815\\ud615 \\ub370\\uc774\\ud130 \\uc804\\ucc98\\ub9ac\\/\\ubaa8\\ub378\\ub9c1 \\uc5ed\\ub7c9\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uadfc\\ubb34\\ud615\\ud0dc: Full time \\uadfc\\ubb34 (\\uc815\\uaddc\\uc9c1) \"}]}],\"style\":\"ordered\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n모집분야, 지원자격, 지원방법 등의 자세한 사항은 첨부된 파일을 확인하여 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "2f0d3782-7e55-4d44-a577-d4ac3631035b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e \u0026lt;2021학년도 1학기 대학원 신입생 연구윤리 교육 이수 현황 및 기간 연장 알림\u0026gt;\n\n『2021학년도 1학기 대학원 신입생 연구윤리』 교육의 4.1.일자  데이터사이언스대학원 수강률은 50%입니다.  수강 기간을 추가적으로 연장하오니, 미이수 분들께서는 반드시 이수하여 주시기 바랍니다.\n\n  가. 강좌명\n    - 2021-1) 대학원 신입생을 위한 연구윤리(인문사회·예체능계 / 이공계)\n    - 2021-1) Research ethics for graduate students(Humanities and Social Sciences·Arts and Phsical Education / Science and Engineering)\n  나. 수강 대상: 2021학년도 1학기 대학원 신입생, 2020학년도 신입생 중 미이수자\n  다. 수강 기간: 2021.3.2.(화) *~ 4.11.(일)*\n  라. 수강 방법\n    - eTL 접속(\u003chttp://etl.snu.ac.kr\u003e) → 좌측 ‘e-Class’ 클릭 → ‘연구윤리 / Ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강 (약 3시간 소요)\n\n*※ 2021학년 신입생 수료자 대상으로 커피 기프티콘 발송 예정(추후 일괄 지급)*",
-    "ts": "1617695500.045000",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "lQFj",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c2021학년도 1학기 대학원 신입생 연구윤리 교육 이수 현황 및 기간 연장 알림\u003e\n\n『2021학년도 1학기 대학원 신입생 연구윤리』 교육의 4.1.일자  데이터사이언스대학원 수강률은 50%입니다.  수강 기간을 추가적으로 연장하오니, 미이수 분들께서는 반드시 이수하여 주시기 바랍니다.\n\n  가. 강좌명\n    - 2021-1) 대학원 신입생을 위한 연구윤리(인문사회·예체능계 / 이공계)\n    - 2021-1) Research ethics for graduate students(Humanities and Social Sciences·Arts and Phsical Education / Science and Engineering)\n  나. 수강 대상: 2021학년도 1학기 대학원 신입생, 2020학년도 신입생 중 미이수자\n  다. 수강 기간: 2021.3.2.(화) "
-              },
-              {
-                "type": "text",
-                "text": "~ 4.11.(일)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  라. 수강 방법\n    - eTL 접속("
-              },
-              {
-                "type": "link",
-                "url": "http://etl.snu.ac.kr",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") → 좌측 ‘e-Class’ 클릭 → ‘연구윤리 / Ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강 (약 3시간 소요)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "※ 2021학년 신입생 수료자 대상으로 커피 기프티콘 발송 예정(추후 일괄 지급)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;삼성경제연구소 HR Analytics 담당 연구원 모집&gt;\n\n1. 모집전공: Data science, 컴퓨터공학, 산업공학, 통계학, 계량심리학 관련전공\n2. 필요역량: 통계분석도구 활용해 예측, 최적화 등의 모델링 역량 머신러닝, 딥러닝을 활용한 비정형 데이터 전처리/모델링 역량\n3. 근무형태: Full time 근무 (정규직) \n모집분야, 지원자격, 지원방법 등의 자세한 사항은 첨부된 파일을 확인하여 주시기 바랍니다.",
+			"ts": "1617692488.043900",
+			"files": [
+				{
+					"id": "F01SXNW8UJK",
+					"created": 1617692476,
+					"timestamp": 1617692476,
+					"name": "Apr 6, 2021 Doc_1.pdf",
+					"title": "Apr 6, 2021 Doc_1.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 755714,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01SXNW8UJK-Apr 6, 2021 Doc_1.pdf",
+					"url_private_download": "attachments/F01SXNW8UJK-Apr 6, 2021 Doc_1.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01SXNW8UJK/apr_6__2021_doc_1.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01SXNW8UJK-6cdde231a8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "katZh",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<삼성경제연구소 HR Analytics 담당 연구원 모집>\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1\\uc804\\uacf5: Data science, \\ucef4\\ud4e8\\ud130\\uacf5\\ud559, \\uc0b0\\uc5c5\\uacf5\\ud559, \\ud1b5\\uacc4\\ud559, \\uacc4\\ub7c9\\uc2ec\\ub9ac\\ud559 \\uad00\\ub828\\uc804\\uacf5\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud544\\uc694\\uc5ed\\ub7c9: \\ud1b5\\uacc4\\ubd84\\uc11d\\ub3c4\\uad6c \\ud65c\\uc6a9\\ud574 \\uc608\\uce21, \\ucd5c\\uc801\\ud654 \\ub4f1\\uc758 \\ubaa8\\ub378\\ub9c1 \\uc5ed\\ub7c9 \\uba38\\uc2e0\\ub7ec\\ub2dd, \\ub525\\ub7ec\\ub2dd\\uc744 \\ud65c\\uc6a9\\ud55c \\ube44\\uc815\\ud615 \\ub370\\uc774\\ud130 \\uc804\\ucc98\\ub9ac\\/\\ubaa8\\ub378\\ub9c1 \\uc5ed\\ub7c9\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uadfc\\ubb34\\ud615\\ud0dc: Full time \\uadfc\\ubb34 (\\uc815\\uaddc\\uc9c1) \"}]}],\"style\":\"ordered\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n모집분야, 지원자격, 지원방법 등의 자세한 사항은 첨부된 파일을 확인하여 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "2f0d3782-7e55-4d44-a577-d4ac3631035b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> &lt;2021학년도 1학기 대학원 신입생 연구윤리 교육 이수 현황 및 기간 연장 알림&gt;\n\n『2021학년도 1학기 대학원 신입생 연구윤리』 교육의 4.1.일자  데이터사이언스대학원 수강률은 50%입니다.  수강 기간을 추가적으로 연장하오니, 미이수 분들께서는 반드시 이수하여 주시기 바랍니다.\n\n  가. 강좌명\n    - 2021-1) 대학원 신입생을 위한 연구윤리(인문사회·예체능계 / 이공계)\n    - 2021-1) Research ethics for graduate students(Humanities and Social Sciences·Arts and Phsical Education / Science and Engineering)\n  나. 수강 대상: 2021학년도 1학기 대학원 신입생, 2020학년도 신입생 중 미이수자\n  다. 수강 기간: 2021.3.2.(화) *~ 4.11.(일)*\n  라. 수강 방법\n    - eTL 접속(<http://etl.snu.ac.kr>) → 좌측 ‘e-Class’ 클릭 → ‘연구윤리 / Ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강 (약 3시간 소요)\n\n*※ 2021학년 신입생 수료자 대상으로 커피 기프티콘 발송 예정(추후 일괄 지급)*",
+			"ts": "1617695500.045000",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "lQFj",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " <2021학년도 1학기 대학원 신입생 연구윤리 교육 이수 현황 및 기간 연장 알림>\n\n『2021학년도 1학기 대학원 신입생 연구윤리』 교육의 4.1.일자  데이터사이언스대학원 수강률은 50%입니다.  수강 기간을 추가적으로 연장하오니, 미이수 분들께서는 반드시 이수하여 주시기 바랍니다.\n\n  가. 강좌명\n    - 2021-1) 대학원 신입생을 위한 연구윤리(인문사회·예체능계 / 이공계)\n    - 2021-1) Research ethics for graduate students(Humanities and Social Sciences·Arts and Phsical Education / Science and Engineering)\n  나. 수강 대상: 2021학년도 1학기 대학원 신입생, 2020학년도 신입생 중 미이수자\n  다. 수강 기간: 2021.3.2.(화) "
+								},
+								{
+									"type": "text",
+									"text": "~ 4.11.(일)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  라. 수강 방법\n    - eTL 접속("
+								},
+								{
+									"type": "link",
+									"url": "http://etl.snu.ac.kr",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") → 좌측 ‘e-Class’ 클릭 → ‘연구윤리 / Ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강 (약 3시간 소요)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "※ 2021학년 신입생 수료자 대상으로 커피 기프티콘 발송 예정(추후 일괄 지급)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

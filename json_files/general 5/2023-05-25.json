@@ -1,340 +1,342 @@
-[
-  {
-    "client_msg_id": "4a06a835-97dd-4bc7-a891-1c84dfdfa810",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 2학기 교내장학금 신청 안내\u0026gt;*\n\n2023학년도 2학기 교내장학금 신청 관련 사항을 다음와 같이 알려드립니다.\n  1. 신청대상: 2023학년도 2학기 교내장학금을 받고자 하는 학부 및 대학원 등록대상자, 유학생, 국가유공 및 북한이탈 장학금 신규 자격 발생자\n  2. 신청기간: *2023. 5. 29.(월) ~ 2023. 6. 16.(금) 23:00*\n  3. 신청방법: 마이스누에서 신청서 작성\n\n붙임 장학금 신청 안내문(대학원)  1부.",
-    "ts": "1684979129.503569",
-    "files": [
-      {
-        "id": "F05971PMRP0",
-        "created": 1684979104,
-        "timestamp": 1684979104,
-        "name": "1. 2023학년도 2학기 대학원생 교내장학금 신청 안내.hwp",
-        "title": "1. 2023학년도 2학기 대학원생 교내장학금 신청 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 14848,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05971PMRP0-1. 2023학년도 2학기 대학원생 교내장학금 신청 안내.hwp",
-        "url_private_download": "attachments/F05971PMRP0-1. 2023학년도 2학기 대학원생 교내장학금 신청 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05971PMRP0/1._2023__________2_________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05971PMRP0-bd4d0c44bf",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fUZ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 2학기 교내장학금 신청 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2023학년도 2학기 교내장학금 신청 관련 사항을 다음와 같이 알려드립니다.\n  1. 신청대상: 2023학년도 2학기 교내장학금을 받고자 하는 학부 및 대학원 등록대상자, 유학생, 국가유공 및 북한이탈 장학금 신규 자격 발생자\n  2. 신청기간: "
-              },
-              {
-                "type": "text",
-                "text": "2023. 5. 29.(월) ~ 2023. 6. 16.(금) 23:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  3. 신청방법: 마이스누에서 신청서 작성\n\n붙임 장학금 신청 안내문(대학원)  1부."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "022d7ace-2d89-456c-a4c5-11ecd1af5078",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;*2023년 연구자보안 교육 이수 안내*\u0026gt;\n\nㅇ 교육과정: 연구자 보안 교육(아래 3개 중 1개 이상 이수 필수, 교육대상자를 참고하여 수강)\n (과정명 / 교육대상자/ 교육시간)\n1. 2023 연구보안관리 / 보안관리 책임자 및 담당자 / 1시간 이내\n 2. 2023 연구보안관리 / 연구책임자 및 참여연구원 / 1시간 이내\n 3. 2023 Basic Research Security / Research Managers, Paricipated Researchers / 1시간 이내\n\nㅇ 교육대상: 학내 연구자(교수, 연구원, 대학원생 등)\nㅇ 수강방법: 서울대 SNUON(\u003chttps://etl.snu.ac.kr/snuon|SNUON\u003e ) 접속 후 수강(마이스누 포탈 계정 활용)\n ※ 교육과정 검색 후 수강 신청 시 즉시 수강 가능\nㅇ수료조건: 학습진도율 100% 이상\nㅇ교육 인정: *개별적으로 수료증 발급하여 사용(이수증 제출 불필요)*",
-    "ts": "1684989931.263729",
-    "files": [
-      {
-        "id": "F059SPHHR5X",
-        "created": 1684989923,
-        "timestamp": 1684989923,
-        "name": "2023년도 정보보호 교육(정보보안, 개인정보보호, 연구자 보안) 이수 안내.pdf",
-        "title": "2023년도 정보보호 교육(정보보안, 개인정보보호, 연구자 보안) 이수 안내.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 154455,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F059SPHHR5X-2023년도 정보보호 교육(정보보안, 개인정보보호, 연구자 보안) 이수 안내.pdf",
-        "url_private_download": "attachments/F059SPHHR5X-2023년도 정보보호 교육(정보보안, 개인정보보호, 연구자 보안) 이수 안내.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F059SPHHR5X/2023____________________________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F059SPHHR5X-229f62f569",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F059SPHLZ4Z",
-        "created": 1684989926,
-        "timestamp": 1684989926,
-        "name": "[붙임] 정보보호 교육 상세 안내.hwp",
-        "title": "[붙임] 정보보호 교육 상세 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 76800,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F059SPHLZ4Z-[붙임] 정보보호 교육 상세 안내.hwp",
-        "url_private_download": "attachments/F059SPHLZ4Z-[붙임] 정보보호 교육 상세 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F059SPHLZ4Z/__________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F059SPHLZ4Z-832a0ddce0",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "lP9=",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c"
-              },
-              {
-                "type": "text",
-                "text": "2023년 연구자보안 교육 이수 안내",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\u003e\n\nㅇ 교육과정: 연구자 보안 교육(아래 3개 중 1개 이상 이수 필수, 교육대상자를 참고하여 수강)\n (과정명 / 교육대상자/ 교육시간)\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2023 \\uc5f0\\uad6c\\ubcf4\\uc548\\uad00\\ub9ac \\/ \\ubcf4\\uc548\\uad00\\ub9ac \\ucc45\\uc784\\uc790 \\ubc0f \\ub2f4\\ub2f9\\uc790 \\/ 1\\uc2dc\\uac04 \\uc774\\ub0b4\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": " 2. 2023 연구보안관리 / 연구책임자 및 참여연구원 / 1시간 이내\n 3. 2023 Basic Research Security / Research Managers, Paricipated Researchers / 1시간 이내\n\nㅇ 교육대상: 학내 연구자(교수, 연구원, 대학원생 등)\nㅇ 수강방법: 서울대 SNUON("
-              },
-              {
-                "type": "link",
-                "url": "https://etl.snu.ac.kr/snuon",
-                "text": "SNUON"
-              },
-              {
-                "type": "text",
-                "text": " ) 접속 후 수강(마이스누 포탈 계정 활용)\n ※ 교육과정 검색 후 수강 신청 시 즉시 수강 가능\nㅇ수료조건: 학습진도율 100% 이상\nㅇ교육 인정: "
-              },
-              {
-                "type": "text",
-                "text": "개별적으로 수료증 발급하여 사용(이수증 제출 불필요)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "4a06a835-97dd-4bc7-a891-1c84dfdfa810",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 2학기 교내장학금 신청 안내&gt;*\n\n2023학년도 2학기 교내장학금 신청 관련 사항을 다음와 같이 알려드립니다.\n  1. 신청대상: 2023학년도 2학기 교내장학금을 받고자 하는 학부 및 대학원 등록대상자, 유학생, 국가유공 및 북한이탈 장학금 신규 자격 발생자\n  2. 신청기간: *2023. 5. 29.(월) ~ 2023. 6. 16.(금) 23:00*\n  3. 신청방법: 마이스누에서 신청서 작성\n\n붙임 장학금 신청 안내문(대학원)  1부.",
+			"ts": "1684979129.503569",
+			"files": [
+				{
+					"id": "F05971PMRP0",
+					"created": 1684979104,
+					"timestamp": 1684979104,
+					"name": "1. 2023학년도 2학기 대학원생 교내장학금 신청 안내.hwp",
+					"title": "1. 2023학년도 2학기 대학원생 교내장학금 신청 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 14848,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05971PMRP0-1. 2023학년도 2학기 대학원생 교내장학금 신청 안내.hwp",
+					"url_private_download": "attachments/F05971PMRP0-1. 2023학년도 2학기 대학원생 교내장학금 신청 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05971PMRP0/1._2023__________2_________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05971PMRP0-bd4d0c44bf",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fUZ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 2학기 교내장학금 신청 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2023학년도 2학기 교내장학금 신청 관련 사항을 다음와 같이 알려드립니다.\n  1. 신청대상: 2023학년도 2학기 교내장학금을 받고자 하는 학부 및 대학원 등록대상자, 유학생, 국가유공 및 북한이탈 장학금 신규 자격 발생자\n  2. 신청기간: "
+								},
+								{
+									"type": "text",
+									"text": "2023. 5. 29.(월) ~ 2023. 6. 16.(금) 23:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  3. 신청방법: 마이스누에서 신청서 작성\n\n붙임 장학금 신청 안내문(대학원)  1부."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "022d7ace-2d89-456c-a4c5-11ecd1af5078",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;*2023년 연구자보안 교육 이수 안내*&gt;\n\nㅇ 교육과정: 연구자 보안 교육(아래 3개 중 1개 이상 이수 필수, 교육대상자를 참고하여 수강)\n (과정명 / 교육대상자/ 교육시간)\n1. 2023 연구보안관리 / 보안관리 책임자 및 담당자 / 1시간 이내\n 2. 2023 연구보안관리 / 연구책임자 및 참여연구원 / 1시간 이내\n 3. 2023 Basic Research Security / Research Managers, Paricipated Researchers / 1시간 이내\n\nㅇ 교육대상: 학내 연구자(교수, 연구원, 대학원생 등)\nㅇ 수강방법: 서울대 SNUON(<https://etl.snu.ac.kr/snuon|SNUON> ) 접속 후 수강(마이스누 포탈 계정 활용)\n ※ 교육과정 검색 후 수강 신청 시 즉시 수강 가능\nㅇ수료조건: 학습진도율 100% 이상\nㅇ교육 인정: *개별적으로 수료증 발급하여 사용(이수증 제출 불필요)*",
+			"ts": "1684989931.263729",
+			"files": [
+				{
+					"id": "F059SPHHR5X",
+					"created": 1684989923,
+					"timestamp": 1684989923,
+					"name": "2023년도 정보보호 교육(정보보안, 개인정보보호, 연구자 보안) 이수 안내.pdf",
+					"title": "2023년도 정보보호 교육(정보보안, 개인정보보호, 연구자 보안) 이수 안내.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 154455,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F059SPHHR5X-2023년도 정보보호 교육(정보보안, 개인정보보호, 연구자 보안) 이수 안내.pdf",
+					"url_private_download": "attachments/F059SPHHR5X-2023년도 정보보호 교육(정보보안, 개인정보보호, 연구자 보안) 이수 안내.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F059SPHHR5X/2023____________________________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F059SPHHR5X-229f62f569",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F059SPHLZ4Z",
+					"created": 1684989926,
+					"timestamp": 1684989926,
+					"name": "[붙임] 정보보호 교육 상세 안내.hwp",
+					"title": "[붙임] 정보보호 교육 상세 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 76800,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F059SPHLZ4Z-[붙임] 정보보호 교육 상세 안내.hwp",
+					"url_private_download": "attachments/F059SPHLZ4Z-[붙임] 정보보호 교육 상세 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F059SPHLZ4Z/__________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F059SPHLZ4Z-832a0ddce0",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "lP9=",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<"
+								},
+								{
+									"type": "text",
+									"text": "2023년 연구자보안 교육 이수 안내",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ">\n\nㅇ 교육과정: 연구자 보안 교육(아래 3개 중 1개 이상 이수 필수, 교육대상자를 참고하여 수강)\n (과정명 / 교육대상자/ 교육시간)\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2023 \\uc5f0\\uad6c\\ubcf4\\uc548\\uad00\\ub9ac \\/ \\ubcf4\\uc548\\uad00\\ub9ac \\ucc45\\uc784\\uc790 \\ubc0f \\ub2f4\\ub2f9\\uc790 \\/ 1\\uc2dc\\uac04 \\uc774\\ub0b4\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": " 2. 2023 연구보안관리 / 연구책임자 및 참여연구원 / 1시간 이내\n 3. 2023 Basic Research Security / Research Managers, Paricipated Researchers / 1시간 이내\n\nㅇ 교육대상: 학내 연구자(교수, 연구원, 대학원생 등)\nㅇ 수강방법: 서울대 SNUON("
+								},
+								{
+									"type": "link",
+									"url": "https://etl.snu.ac.kr/snuon",
+									"text": "SNUON"
+								},
+								{
+									"type": "text",
+									"text": " ) 접속 후 수강(마이스누 포탈 계정 활용)\n ※ 교육과정 검색 후 수강 신청 시 즉시 수강 가능\nㅇ수료조건: 학습진도율 100% 이상\nㅇ교육 인정: "
+								},
+								{
+									"type": "text",
+									"text": "개별적으로 수료증 발급하여 사용(이수증 제출 불필요)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

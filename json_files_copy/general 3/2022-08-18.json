@@ -1,0 +1,651 @@
+[
+  {
+    "client_msg_id": "a5f9a724-5f73-4839-b751-dc66c78d3874",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "2022년도 상반기 세종시 학자금 대출이자 지원 사업 안내\n\nㅇ신청기간: 2022. 8. 2.(화) ~ 8. 31.(수)\nㅇ지원대상: *(아래 조건 모두 충족 시) ※ 세부 조건 붙임 공고문 참고*\n- 공고일(2022. 8. 2.) 기준 *1년 이상 세종시 계속 거주자*(부, 모 또는 본인)\n- 한국장학재단에서 학자금 대출(등록금 및 생활비)을 받아 이자를 납부 중인 자\n- 국내 대학교·대학원 학생(재학생 및 휴학생) 또는 대학교 졸업 후 2년 이내 미취업자\nㅇ 지원내용: 한국장학재단을 통해 대출받은 학자금의 2022년 상반기(1~6월) 발생이자 전액\nㅇ 신청방법: 진흥원 홈페이지(\u003chttp://www.sjhle.or.kr|www.sjhle.or.kr\u003e) 온라인 신청\nㅇ 문 의 처: 진흥원 인재육성팀(\u003ctel:0448659686|044-865-9686\u003e)",
+    "ts": "1660783221.203759",
+    "files": [
+      {
+        "id": "F03UTHG50QY",
+        "created": 1660783192,
+        "timestamp": 1660783192,
+        "name": "(세종시)2022년 상반기 세종시 대학생 학자금 대출 이자지원사업 홍보물.zip",
+        "title": "(세종시)2022년 상반기 세종시 대학생 학자금 대출 이자지원사업 홍보물.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1210846,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03UTHG50QY-(세종시)2022년 상반기 세종시 대학생 학자금 대출 이자지원사업 홍보물.zip",
+        "url_private_download": "attachments/F03UTHG50QY-(세종시)2022년 상반기 세종시 대학생 학자금 대출 이자지원사업 홍보물.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03UTHG50QY/___________2022_______________________________________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03UTHG50QY-370f23b2f9",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03U3SFN4UA",
+        "created": 1660783194,
+        "timestamp": 1660783194,
+        "name": "(세종시)2022년 상반기 세종시 대학생 학자금 대출 이자지원 공고.pdf",
+        "title": "(세종시)2022년 상반기 세종시 대학생 학자금 대출 이자지원 공고.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 217088,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03U3SFN4UA-(세종시)2022년 상반기 세종시 대학생 학자금 대출 이자지원 공고.pdf",
+        "url_private_download": "attachments/F03U3SFN4UA-(세종시)2022년 상반기 세종시 대학생 학자금 대출 이자지원 공고.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03U3SFN4UA/___________2022______________________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03U3SFN4UA-b6f4e87695",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DixMR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2022년도 상반기 세종시 학자금 대출이자 지원 사업 안내\n\nㅇ신청기간: 2022. 8. 2.(화) ~ 8. 31.(수)\nㅇ지원대상: "
+              },
+              {
+                "type": "text",
+                "text": "(아래 조건 모두 충족 시) ※ 세부 조건 붙임 공고문 참고",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n- 공고일(2022. 8. 2.) 기준 "
+              },
+              {
+                "type": "text",
+                "text": "1년 이상 세종시 계속 거주자",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "(부, 모 또는 본인)\n- 한국장학재단에서 학자금 대출(등록금 및 생활비)을 받아 이자를 납부 중인 자\n- 국내 대학교·대학원 학생(재학생 및 휴학생) 또는 대학교 졸업 후 2년 이내 미취업자\nㅇ 지원내용: 한국장학재단을 통해 대출받은 학자금의 2022년 상반기(1~6월) 발생이자 전액\nㅇ 신청방법: 진흥원 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "http://www.sjhle.or.kr",
+                "text": "www.sjhle.or.kr"
+              },
+              {
+                "type": "text",
+                "text": ") 온라인 신청\nㅇ 문 의 처: 진흥원 인재육성팀("
+              },
+              {
+                "type": "link",
+                "url": "tel:0448659686",
+                "text": "044-865-9686"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8cf0d9cd-d9df-44f5-940d-5f5c064e22cb",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "2023학년도 1학기 본부 국외파견교환학생 후보자 추가모집 안내\n\n2023학년도 1학기 국제협력본부 국외파견 교환학생 후보자를 아래와 같이 선발할 계회이니, 관심있는 분들께서는 확인해 주시기 바랍니다.\n가. 모집인원: *388명 내외(31개국 114개교)*\n  나. 지원방법: *온라인 지원(학내 포털)* 후 아래 서류를 지원 기간 내 구글 서베이 링크(\u003chttps://forms.gle/UXgGVC1os9aaMfcL8)로\u003e 제출\n        ※ 위 제출 링크는 snu계정으로 로그인 하여야 접근 가능하며, 지원 기간에만 응답 가능함\n        ※ 코로나19로 인한 파견 취소 후 재지원하는 경우, 온라인 지원(학내 포털) 없이 재지원서를 포함한 서류 구비 후 기간 내 위 서베이 링크로 모든 서류 제출\n    1) 제출서류\n      가) (온라인) 지원서 1부\n        ※ 일반 지원자의 경우, 온라인 신청 완료 후 온라인 신청서를 PDF로 제출\n        ※ 재지원자의 경우, 온라인 지원서 대신 재지원자용 지원서(양식 첨부) 작성 후 제출\n      나) 서울대 영문성적표 1부(2022. 7. 7. 이후 발급받은 성적표 제출)\n      다) 공인외국어성적표 사본 1부(2021. 2. 1. 이후 응시한 어학성적만 유효함)\n      라) 국문 수학계획서 1부(양식 첨부)\n      마) 개인정보 수집 이용 특별 동의서 1부(양식 첨부)\n      바) 지도교수 및 학과장추천서 1부(양식 첨부)\n      사) 서울대학교 인권센터 인권/성평등 교육 이수 확인서\n    2) 온라인 신청 및 서류제출 기간: *2022. 8. 12.(금) 14:00 ~ 2022. 8. 22.(월) 11:00*\n    3) 문의처: 국제협력본부 배현주 담당자(*\u003cmailto:hjbaeb@snu.ac.kr|hjbaeb@snu.ac.kr\u003e)*\n     ※ 자세한 정보는 OIA 홈페이지(\u003chttp://oia.snu.ac.kr|oia.snu.ac.kr\u003e) 및 첨부 안내자료 통해 확인 요망",
+    "ts": "1660807482.472889",
+    "files": [
+      {
+        "id": "F03U4HQRLCT",
+        "created": 1660803246,
+        "timestamp": 1660803246,
+        "name": "5. 교류수학 및 학점인정 관련 규정 및 안내자료.zip",
+        "title": "5. 교류수학 및 학점인정 관련 규정 및 안내자료.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 249360,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03U4HQRLCT-5. 교류수학 및 학점인정 관련 규정 및 안내자료.zip",
+        "url_private_download": "attachments/F03U4HQRLCT-5. 교류수학 및 학점인정 관련 규정 및 안내자료.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03U4HQRLCT/5._____________________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03U4HQRLCT-de520aad5b",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03U74Y189J",
+        "created": 1660803248,
+        "timestamp": 1660803248,
+        "name": "4. 제출서류 양식.Zip",
+        "title": "4. 제출서류 양식.Zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 128517,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03U74Y189J-4. 제출서류 양식.Zip",
+        "url_private_download": "attachments/F03U74Y189J-4. 제출서류 양식.Zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03U74Y189J/4.____________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03U74Y189J-442f035128",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03U1MVNUJH",
+        "created": 1660803249,
+        "timestamp": 1660803249,
+        "name": "3. 온라인 신청 안내.xlsx",
+        "title": "3. 온라인 신청 안내.xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "image_exif_rotation": 0,
+        "filetype": "xlsx",
+        "pretty_type": "Excel 스프레드시트",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 252115,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03U1MVNUJH-3. 온라인 신청 안내.xlsx",
+        "url_private_download": "attachments/F03U1MVNUJH-3. 온라인 신청 안내.xlsx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03U1MVNUJH/3.________________________.xlsx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03U1MVNUJH-e8f700a3ee",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03U4LWJP98",
+        "created": 1660803254,
+        "timestamp": 1660803254,
+        "name": "2. 2023학년도 1학기 본부 국외파견교환학생 파견대학목록(대륙별)_추가모집.Zip",
+        "title": "2. 2023학년도 1학기 본부 국외파견교환학생 파견대학목록(대륙별)_추가모집.Zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 90876,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03U4LWJP98-2. 2023학년도 1학기 본부 국외파견교환학생 파견대학목록(대륙별)_추가모집.Zip",
+        "url_private_download": "attachments/F03U4LWJP98-2. 2023학년도 1학기 본부 국외파견교환학생 파견대학목록(대륙별)_추가모집.Zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03U4LWJP98/2._2023__________1_________________________________________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03U4LWJP98-3d518c62ba",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03UUBX7C0G",
+        "created": 1660803256,
+        "timestamp": 1660803256,
+        "name": "1. 2023학년도 1학기 본부 국외파견교환학생 후보자 추가모집 선발 안내 (1).pdf",
+        "title": "1. 2023학년도 1학기 본부 국외파견교환학생 후보자 추가모집 선발 안내 (1).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 161271,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03UUBX7C0G-1. 2023학년도 1학기 본부 국외파견교환학생 후보자 추가모집 선발 안내 (1).pdf",
+        "url_private_download": "attachments/F03UUBX7C0G-1. 2023학년도 1학기 본부 국외파견교환학생 후보자 추가모집 선발 안내 (1).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03UUBX7C0G/1._2023__________1_____________________________________________________________________________1_.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03UUBX7C0G-596398f977",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a88M=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2023학년도 1학기 본부 국외파견교환학생 후보자 추가모집 안내\n\n2023학년도 1학기 국제협력본부 국외파견 교환학생 후보자를 아래와 같이 선발할 계회이니, 관심있는 분들께서는 확인해 주시기 바랍니다.\n가. 모집인원: "
+              },
+              {
+                "type": "text",
+                "text": "388명 내외(31개국 114개교)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  나. 지원방법: "
+              },
+              {
+                "type": "text",
+                "text": "온라인 지원(학내 포털)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 후 아래 서류를 지원 기간 내 구글 서베이 링크("
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/UXgGVC1os9aaMfcL8)로",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " 제출\n        ※ 위 제출 링크는 snu계정으로 로그인 하여야 접근 가능하며, 지원 기간에만 응답 가능함\n        ※ 코로나19로 인한 파견 취소 후 재지원하는 경우, 온라인 지원(학내 포털) 없이 재지원서를 포함한 서류 구비 후 기간 내 위 서베이 링크로 모든 서류 제출\n    1) 제출서류\n      가) (온라인) 지원서 1부\n        ※ 일반 지원자의 경우, 온라인 신청 완료 후 온라인 신청서를 PDF로 제출\n        ※ 재지원자의 경우, 온라인 지원서 대신 재지원자용 지원서(양식 첨부) 작성 후 제출\n      나) 서울대 영문성적표 1부(2022. 7. 7. 이후 발급받은 성적표 제출)\n      다) 공인외국어성적표 사본 1부(2021. 2. 1. 이후 응시한 어학성적만 유효함)\n      라) 국문 수학계획서 1부(양식 첨부)\n      마) 개인정보 수집 이용 특별 동의서 1부(양식 첨부)\n      바) 지도교수 및 학과장추천서 1부(양식 첨부)\n      사) 서울대학교 인권센터 인권/성평등 교육 이수 확인서\n    2) 온라인 신청 및 서류제출 기간: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 8. 12.(금) 14:00 ~ 2022. 8. 22.(월) 11:00",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    3) 문의처: 국제협력본부 배현주 담당자("
+              },
+              {
+                "type": "link",
+                "url": "mailto:hjbaeb@snu.ac.kr",
+                "text": "hjbaeb@snu.ac.kr",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ")",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "     ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "※ 자세한 정보는 OIA 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "http://oia.snu.ac.kr",
+                "text": "oia.snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ") 및 첨부 안내자료 통해 확인 요망"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

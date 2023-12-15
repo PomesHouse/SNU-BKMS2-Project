@@ -1,355 +1,357 @@
-[
-  {
-    "client_msg_id": "0acbc97e-bffc-41dc-86ab-607664c284af",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "ts": "1637283610.065400",
-    "files": [
-      {
-        "id": "F02MUM65J7P",
-        "created": 1637283606,
-        "timestamp": 1637283606,
-        "name": "제2회 SAM AI Challenge_홍보 포스터.jpg",
-        "title": "제2회 SAM AI Challenge_홍보 포스터.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 966387,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02MUM65J7P-제2회 SAM AI Challenge_홍보 포스터.jpg",
-        "url_private_download": "attachments/F02MUM65J7P-제2회 SAM AI Challenge_홍보 포스터.jpg",
-        "original_h": 1685,
-        "original_w": 1191,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 254,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02MUM65J7P/___2____sam_ai_challenge_________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02MUM65J7P-0a35bd5400",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "c6c4cd5c-d56d-414b-8a92-894592caa300",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u003c!channel\u003e \u0026lt; Reminder 데이터사이언스대학원 카펫 청소 계획 안내: 2021.11.20.(토) ~ 11.21.(일) \u0026gt;*\n\n안녕하세요. 우리 기관의 위생 및 방역을 위하여 아래와 같이 카펫 대청소를 진행하고자 합니다. (청소방식: 전용 세제 물세탁 및 건조)\n4층 이용하고 있는 학생분들은 필히 오늘까지 물에 젖으면 안되는 물건들을 꼭 책상위에 올려두고 하교 하시기 바랍니다 !!\n3층 이용하고 있는 학생분들 또한 토요일에 학교나올 계획이 없으시다면 젖으면 안되는 물건들을 책상에 올려두고 가시기 바랍니다 :blob-grin:\n1.청소구역 및 일정\n• *942동 3층: 2021.11.21.(일) 08:00 ~ 16:00*\n• *942동 4층: 2021.11.20.(토) 08:00 ~ 16:00*\n*※ 청소 시간은 작업 환경 및 기타 사유로 인하여 지연될 수 있음*\n\n2.협조사항\n• *당일 청소 구역 출입 제한 (이왕이면 깨끗하게 건조될 수 있도록 학생여러분들의 협조 부탁 드립니다* :blob-grin:*)*\n       *부득이한 경우로 꼭 학교에 나와야 하는 경우* 청소 구역 외 세미나실 이용 가능 (4층 연구공간 이용 학생 → 토요일에 한하여 3층 강의실 및 세미나실 이용가능)\n• *바닥에 내려 놓은 짐, 분실위험이 있는 물품, 물에 젖으면 안되는 전자기기 등 → 책상 위로 이동 시키거나 락커룸에 보관 하시기 바랍니다.*\n       (의자 위에 올려놓지 마세요 ! 의자 또한 다 옮겨서 처리할 것입니다)\n• 4층에 실험실 이용하고 있는 학생분들도 청소 구역 대상이므로 반드시 전자기기 등 파손을 대비하여 위치 이동하시기 바랍니다 !!\n내용 숙지 하지 못해 발생된 분실, 물건 파손 등에 대해서는 행정실에서 책임지지 않으니 미리 미리 물건 이동 및 보관 부탁 드립니다 :pray:\n관련하여 추가 문의사항 있으시면 댓글 달아 주세요 !\n그럼 좋은 하루 보내세요.",
-    "ts": "1637285040.068800",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/r4J",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c Reminder 데이터사이언스대학원 카펫 청소 계획 안내: 2021.11.20.(토) ~ 11.21.(일) \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요. 우리 기관의 위생 및 방역을 위하여 아래와 같이 카펫 대청소를 진행하고자 합니다. (청소방식: 전용 세제 물세탁 및 건조)\n4층 이용하고 있는 학생분들은 필히 오늘까지 물에 젖으면 안되는 물건들을 꼭 책상위에 올려두고 하교 하시기 바랍니다 !!\n3층 이용하고 있는 학생분들 또한 토요일에 학교나올 계획이 없으시다면 젖으면 안되는 물건들을 책상에 올려두고 가시기 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "blob-grin",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n1.청소구역 및 일정\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"942\\ub3d9 3\\uce35: 2021.11.21.(\\uc77c) 08:00 ~ 16:00\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"942\\ub3d9 4\\uce35: 2021.11.20.(\\ud1a0) 08:00 ~ 16:00\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "※ 청소 시간은 작업 환경 및 기타 사유로 인하여 지연될 수 있음",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2.협조사항\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub2f9\\uc77c \\uccad\\uc18c \\uad6c\\uc5ed \\ucd9c\\uc785 \\uc81c\\ud55c (\\uc774\\uc655\\uc774\\uba74 \\uae68\\ub057\\ud558\\uac8c \\uac74\\uc870\\ub420 \\uc218 \\uc788\\ub3c4\\ub85d \\ud559\\uc0dd\\uc5ec\\ub7ec\\ubd84\\ub4e4\\uc758 \\ud611\\uc870 \\ubd80\\ud0c1 \\ub4dc\\ub9bd\\ub2c8\\ub2e4\\u00a0\",\"style\":{\"bold\":true}},{\"type\":\"emoji\",\"name\":\"blob-grin\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\")\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "       "
-              },
-              {
-                "type": "text",
-                "text": "부득이한 경우로 꼭 학교에 나와야 하는 경우",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 청소 구역 외 세미나실 이용 가능 (4층 연구공간 이용 학생 → 토요일에 한하여 3층 강의실 및 세미나실 이용가능)\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc14\\ub2e5\\uc5d0 \\ub0b4\\ub824 \\ub193\\uc740 \\uc9d0, \\ubd84\\uc2e4\\uc704\\ud5d8\\uc774 \\uc788\\ub294 \\ubb3c\\ud488, \\ubb3c\\uc5d0 \\uc816\\uc73c\\uba74 \\uc548\\ub418\\ub294 \\uc804\\uc790\\uae30\\uae30 \\ub4f1 \\u2192 \\ucc45\\uc0c1 \\uc704\\ub85c \\uc774\\ub3d9 \\uc2dc\\ud0a4\\uac70\\ub098 \\ub77d\\ucee4\\ub8f8\\uc5d0 \\ubcf4\\uad00 \\ud558\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "       (의자 위에 올려놓지 마세요 ! 의자 또한 다 옮겨서 처리할 것입니다)\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"4\\uce35\\uc5d0 \\uc2e4\\ud5d8\\uc2e4 \\uc774\\uc6a9\\ud558\\uace0 \\uc788\\ub294 \\ud559\\uc0dd\\ubd84\\ub4e4\\ub3c4 \\uccad\\uc18c \\uad6c\\uc5ed \\ub300\\uc0c1\\uc774\\ubbc0\\ub85c \\ubc18\\ub4dc\\uc2dc \\uc804\\uc790\\uae30\\uae30 \\ub4f1 \\ud30c\\uc190\\uc744 \\ub300\\ube44\\ud558\\uc5ec \\uc704\\uce58 \\uc774\\ub3d9\\ud558\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4 !!\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n내용 숙지 하지 못해 발생된 분실, 물건 파손 등에 대해서는 행정실에서 책임지지 않으니 미리 미리 물건 이동 및 보관 부탁 드립니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n관련하여 추가 문의사항 있으시면 댓글 달아 주세요 !\n그럼 좋은 하루 보내세요."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "05869fff-e67f-425f-a333-0fcf7a79c3e5",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022학년도 관악학생생활관 학부재학생 및 대학원생 입주 신청 일정을 알려드리오니, 관심있는 학생분들께서는 일정 등을 확인하시어 신청하시기 바랍니다.\n\n□ 입주 신청 기간\n  ○ 학부재학생: 2021.*11.29.(월)* 10:00 ~ 2021.*12.03.(금)* 18:00\n  ○ 대학원생: 2021.*12.06.(월)* 10:00 ~ 2021.*12.10.(금)* 18:00\n□ 입주 신청 방법: 서울대학교 포털 마이스누 온라인 신청\n□ 입주대상자 발표: 2021.12.20.(월) 11:00\n※ 입주 신청 및 선발 관련 상세 사항은 추후 *관악학생생활관 홈페이지(\u003chttp://snudorm.snu.ac.kr\u003e)* 입주/퇴거 공지 참조",
-    "ts": "1637307631.069200",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "5J6Jq",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 관악학생생활관 학부재학생 및 대학원생 입주 신청 일정을 알려드리오니, 관심있는 학생분들께서는 일정 등을 확인하시어 신청하시기 바랍니다.\n\n□ 입주 신청 기간\n  ○ 학부재학생: 2021."
-              },
-              {
-                "type": "text",
-                "text": "11.29.(월)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 10:00 ~ 2021."
-              },
-              {
-                "type": "text",
-                "text": "12.03.(금)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 18:00\n  ○ 대학원생: 2021."
-              },
-              {
-                "type": "text",
-                "text": "12.06.(월)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 10:00 ~ 2021."
-              },
-              {
-                "type": "text",
-                "text": "12.10.(금)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 18:00\n□ 입주 신청 방법: 서울대학교 포털 마이스누 온라인 신청\n□ 입주대상자 발표: 2021.12.20.(월) 11:00\n※ 입주 신청 및 선발 관련 상세 사항은 추후 "
-              },
-              {
-                "type": "text",
-                "text": "관악학생생활관 홈페이지(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "http://snudorm.snu.ac.kr",
-                "text": "",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 입주/퇴거 공지 참조"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "0acbc97e-bffc-41dc-86ab-607664c284af",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"ts": "1637283610.065400",
+			"files": [
+				{
+					"id": "F02MUM65J7P",
+					"created": 1637283606,
+					"timestamp": 1637283606,
+					"name": "제2회 SAM AI Challenge_홍보 포스터.jpg",
+					"title": "제2회 SAM AI Challenge_홍보 포스터.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 966387,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02MUM65J7P-제2회 SAM AI Challenge_홍보 포스터.jpg",
+					"url_private_download": "attachments/F02MUM65J7P-제2회 SAM AI Challenge_홍보 포스터.jpg",
+					"original_h": 1685,
+					"original_w": 1191,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 254,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02MUM65J7P-cc352e0c28/___2____sam_ai_challenge__________________1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02MUM65J7P/___2____sam_ai_challenge_________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02MUM65J7P-0a35bd5400",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "c6c4cd5c-d56d-414b-8a92-894592caa300",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*<!channel> &lt; Reminder 데이터사이언스대학원 카펫 청소 계획 안내: 2021.11.20.(토) ~ 11.21.(일) &gt;*\n\n안녕하세요. 우리 기관의 위생 및 방역을 위하여 아래와 같이 카펫 대청소를 진행하고자 합니다. (청소방식: 전용 세제 물세탁 및 건조)\n4층 이용하고 있는 학생분들은 필히 오늘까지 물에 젖으면 안되는 물건들을 꼭 책상위에 올려두고 하교 하시기 바랍니다 !!\n3층 이용하고 있는 학생분들 또한 토요일에 학교나올 계획이 없으시다면 젖으면 안되는 물건들을 책상에 올려두고 가시기 바랍니다 :blob-grin:\n1.청소구역 및 일정\n• *942동 3층: 2021.11.21.(일) 08:00 ~ 16:00*\n• *942동 4층: 2021.11.20.(토) 08:00 ~ 16:00*\n*※ 청소 시간은 작업 환경 및 기타 사유로 인하여 지연될 수 있음*\n\n2.협조사항\n• *당일 청소 구역 출입 제한 (이왕이면 깨끗하게 건조될 수 있도록 학생여러분들의 협조 부탁 드립니다* :blob-grin:*)*\n       *부득이한 경우로 꼭 학교에 나와야 하는 경우* 청소 구역 외 세미나실 이용 가능 (4층 연구공간 이용 학생 → 토요일에 한하여 3층 강의실 및 세미나실 이용가능)\n• *바닥에 내려 놓은 짐, 분실위험이 있는 물품, 물에 젖으면 안되는 전자기기 등 → 책상 위로 이동 시키거나 락커룸에 보관 하시기 바랍니다.*\n       (의자 위에 올려놓지 마세요 ! 의자 또한 다 옮겨서 처리할 것입니다)\n• 4층에 실험실 이용하고 있는 학생분들도 청소 구역 대상이므로 반드시 전자기기 등 파손을 대비하여 위치 이동하시기 바랍니다 !!\n내용 숙지 하지 못해 발생된 분실, 물건 파손 등에 대해서는 행정실에서 책임지지 않으니 미리 미리 물건 이동 및 보관 부탁 드립니다 :pray:\n관련하여 추가 문의사항 있으시면 댓글 달아 주세요 !\n그럼 좋은 하루 보내세요.",
+			"ts": "1637285040.068800",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/r4J",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " < Reminder 데이터사이언스대학원 카펫 청소 계획 안내: 2021.11.20.(토) ~ 11.21.(일) >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요. 우리 기관의 위생 및 방역을 위하여 아래와 같이 카펫 대청소를 진행하고자 합니다. (청소방식: 전용 세제 물세탁 및 건조)\n4층 이용하고 있는 학생분들은 필히 오늘까지 물에 젖으면 안되는 물건들을 꼭 책상위에 올려두고 하교 하시기 바랍니다 !!\n3층 이용하고 있는 학생분들 또한 토요일에 학교나올 계획이 없으시다면 젖으면 안되는 물건들을 책상에 올려두고 가시기 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "blob-grin",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n1.청소구역 및 일정\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"942\\ub3d9 3\\uce35: 2021.11.21.(\\uc77c) 08:00 ~ 16:00\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"942\\ub3d9 4\\uce35: 2021.11.20.(\\ud1a0) 08:00 ~ 16:00\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "※ 청소 시간은 작업 환경 및 기타 사유로 인하여 지연될 수 있음",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2.협조사항\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub2f9\\uc77c \\uccad\\uc18c \\uad6c\\uc5ed \\ucd9c\\uc785 \\uc81c\\ud55c (\\uc774\\uc655\\uc774\\uba74 \\uae68\\ub057\\ud558\\uac8c \\uac74\\uc870\\ub420 \\uc218 \\uc788\\ub3c4\\ub85d \\ud559\\uc0dd\\uc5ec\\ub7ec\\ubd84\\ub4e4\\uc758 \\ud611\\uc870 \\ubd80\\ud0c1 \\ub4dc\\ub9bd\\ub2c8\\ub2e4\\u00a0\",\"style\":{\"bold\":true}},{\"type\":\"emoji\",\"name\":\"blob-grin\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\")\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "       "
+								},
+								{
+									"type": "text",
+									"text": "부득이한 경우로 꼭 학교에 나와야 하는 경우",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 청소 구역 외 세미나실 이용 가능 (4층 연구공간 이용 학생 → 토요일에 한하여 3층 강의실 및 세미나실 이용가능)\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc14\\ub2e5\\uc5d0 \\ub0b4\\ub824 \\ub193\\uc740 \\uc9d0, \\ubd84\\uc2e4\\uc704\\ud5d8\\uc774 \\uc788\\ub294 \\ubb3c\\ud488, \\ubb3c\\uc5d0 \\uc816\\uc73c\\uba74 \\uc548\\ub418\\ub294 \\uc804\\uc790\\uae30\\uae30 \\ub4f1 \\u2192 \\ucc45\\uc0c1 \\uc704\\ub85c \\uc774\\ub3d9 \\uc2dc\\ud0a4\\uac70\\ub098 \\ub77d\\ucee4\\ub8f8\\uc5d0 \\ubcf4\\uad00 \\ud558\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "       (의자 위에 올려놓지 마세요 ! 의자 또한 다 옮겨서 처리할 것입니다)\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"4\\uce35\\uc5d0 \\uc2e4\\ud5d8\\uc2e4 \\uc774\\uc6a9\\ud558\\uace0 \\uc788\\ub294 \\ud559\\uc0dd\\ubd84\\ub4e4\\ub3c4 \\uccad\\uc18c \\uad6c\\uc5ed \\ub300\\uc0c1\\uc774\\ubbc0\\ub85c \\ubc18\\ub4dc\\uc2dc \\uc804\\uc790\\uae30\\uae30 \\ub4f1 \\ud30c\\uc190\\uc744 \\ub300\\ube44\\ud558\\uc5ec \\uc704\\uce58 \\uc774\\ub3d9\\ud558\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4 !!\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n내용 숙지 하지 못해 발생된 분실, 물건 파손 등에 대해서는 행정실에서 책임지지 않으니 미리 미리 물건 이동 및 보관 부탁 드립니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n관련하여 추가 문의사항 있으시면 댓글 달아 주세요 !\n그럼 좋은 하루 보내세요."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "05869fff-e67f-425f-a333-0fcf7a79c3e5",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022학년도 관악학생생활관 학부재학생 및 대학원생 입주 신청 일정을 알려드리오니, 관심있는 학생분들께서는 일정 등을 확인하시어 신청하시기 바랍니다.\n\n□ 입주 신청 기간\n  ○ 학부재학생: 2021.*11.29.(월)* 10:00 ~ 2021.*12.03.(금)* 18:00\n  ○ 대학원생: 2021.*12.06.(월)* 10:00 ~ 2021.*12.10.(금)* 18:00\n□ 입주 신청 방법: 서울대학교 포털 마이스누 온라인 신청\n□ 입주대상자 발표: 2021.12.20.(월) 11:00\n※ 입주 신청 및 선발 관련 상세 사항은 추후 *관악학생생활관 홈페이지(<http://snudorm.snu.ac.kr>)* 입주/퇴거 공지 참조",
+			"ts": "1637307631.069200",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "5J6Jq",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 관악학생생활관 학부재학생 및 대학원생 입주 신청 일정을 알려드리오니, 관심있는 학생분들께서는 일정 등을 확인하시어 신청하시기 바랍니다.\n\n□ 입주 신청 기간\n  ○ 학부재학생: 2021."
+								},
+								{
+									"type": "text",
+									"text": "11.29.(월)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 10:00 ~ 2021."
+								},
+								{
+									"type": "text",
+									"text": "12.03.(금)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 18:00\n  ○ 대학원생: 2021."
+								},
+								{
+									"type": "text",
+									"text": "12.06.(월)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 10:00 ~ 2021."
+								},
+								{
+									"type": "text",
+									"text": "12.10.(금)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 18:00\n□ 입주 신청 방법: 서울대학교 포털 마이스누 온라인 신청\n□ 입주대상자 발표: 2021.12.20.(월) 11:00\n※ 입주 신청 및 선발 관련 상세 사항은 추후 "
+								},
+								{
+									"type": "text",
+									"text": "관악학생생활관 홈페이지(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "http://snudorm.snu.ac.kr",
+									"text": "",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 입주/퇴거 공지 참조"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

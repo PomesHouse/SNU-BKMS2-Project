@@ -1,628 +1,630 @@
-[
-  {
-    "client_msg_id": "58057e45-2ef2-4624-8e03-9a0f9803faae",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;『데이터사이언스 융합인재 양성사업』 2023 K-데이터사이언스 해커톤 참가자 모집\u0026gt;*\n과학기술정보통신부 주최, 한국연구재단 주관 ‘2023 K-데이터사이언스 해커톤 대회’를 개최한다고 하오니, 대학원생 및 연구자 여러분들의 많은 참여 바랍니다.\n\n□ 상세 내용\n  가. 주최 : 과학기술정보통신부\n  나. 주관 : 한국연구재단\n  다. 일자 : 2023년 11월 28일(화) ~ 30일(목)\n  라. 장소 : 서울대학교 시흥캠퍼스 컨벤션센터\n  마. 참여 : 해커톤 대회 본선 총 100명\n  바. 접수 기한 : 2023년 11월 6일 (월) 17:00까지\n  사. 본선 진출팀 발표 : 2023년 11월 11일 (토) 홈페이지 공고\n  아. 문의처 : K-DS융합인재양성사업단(\u003chttp://kdatascience.kr|kdatascience.kr\u003e)",
-    "ts": "1698712822.241909",
-    "files": [
-      {
-        "id": "F063AGAT0VC",
-        "created": 1698712786,
-        "timestamp": 1698712786,
-        "name": "2023 K-DS 컨퍼런스\u0026해커톤 대회 포스터.png",
-        "title": "2023 K-DS 컨퍼런스\u0026amp;해커톤 대회 포스터.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3138585,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F063AGAT0VC-2023 K-DS 컨퍼런스\u0026해커톤 대회 포스터.png",
-        "url_private_download": "attachments/F063AGAT0VC-2023 K-DS 컨퍼런스\u0026해커톤 대회 포스터.png",
-        "original_h": 1798,
-        "original_w": 1266,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 253,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________480.png",
-        "thumb_480_w": 338,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________720.png",
-        "thumb_720_w": 507,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________960.png",
-        "thumb_960_w": 676,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________1024.png",
-        "thumb_1024_w": 721,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063AGAT0VC/2023_k-ds________________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F063AGAT0VC-e6196fc7b8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F063AGB6BAS",
-        "created": 1698712794,
-        "timestamp": 1698712794,
-        "name": "2023 K-데이터사이언스 해커톤 대회 개최안.hwp",
-        "title": "2023 K-데이터사이언스 해커톤 대회 개최안.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1479680,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F063AGB6BAS-2023 K-데이터사이언스 해커톤 대회 개최안.hwp",
-        "url_private_download": "attachments/F063AGB6BAS-2023 K-데이터사이언스 해커톤 대회 개최안.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063AGB6BAS/2023_k-________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F063AGB6BAS-31fb53a83e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "J82b0",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c『데이터사이언스 융합인재 양성사업』 2023 K-데이터사이언스 해커톤 참가자 모집\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n과학기술정보통신부 주최, 한국연구재단 주관 ‘2023 K-데이터사이언스 해커톤 대회’를 개최한다고 하오니, 대학원생 및 연구자 여러분들의 많은 참여 바랍니다.\n\n□ 상세 내용\n  가. 주최 : 과학기술정보통신부\n  나. 주관 : 한국연구재단\n  다. 일자 : 2023년 11월 28일(화) ~ 30일(목)\n  라. 장소 : 서울대학교 시흥캠퍼스 컨벤션센터\n  마. 참여 : 해커톤 대회 본선 총 100명\n  바. 접수 기한 : 2023년 11월 6일 (월) 17:00까지\n  사. 본선 진출팀 발표 : 2023년 11월 11일 (토) 홈페이지 공고\n  아. 문의처 : K-DS융합인재양성사업단("
-              },
-              {
-                "type": "link",
-                "url": "http://kdatascience.kr",
-                "text": "kdatascience.kr"
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "61b6d0a9-2bba-41a9-a5b7-d7a7100d86d9",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 2학기 석사 학위논문 심사로 인한 942동 3층 및 4층 출입 통제 안내\u0026gt;\n\n23학년도 2학기 석사 학위논문 심사로 인해 942동 3층 및 4층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 11. 3.(금) 12:00 ~ 18:00",
-    "ts": "1698713289.169709",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "n4hcE",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 2학기 석사 학위논문 심사로 인한 942동 3층 및 4층 출입 통제 안내\u003e\n\n23학년도 2학기 석사 학위논문 심사로 인해 942동 3층 및 4층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 11. 3.(금) 12:00 ~ 18:00"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "dc1aa018-5ac6-405b-8b66-d2da49f70ecf",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;\"2024 한-미-일 글로벌 리더십 청년 서밋\" 프로그램 안\u0026gt;\n\n주한 미국 대사관 공공외교과에서 진행하는 *\"2024 한-미-일 글로벌 리더십 청년 서밋 (The U.S.-ROK-Japan Trilateral Global Leadership Youth Summit)\"*에 참여할 학생을 모집한다 하오니 관심 있는 학생은 참고하시기 바랍니다.\n\n1. 행사 일정: 2024년 7월 11일(목) – 13일(토)\n2. 지원 대상: 영어에 능통하고 다양한 커뮤니티에서 기후 변화, 인권, 안보 및 시민사회 참여활동과 관련된 문제 해결에 적극 애쓰고 있는 만18-30세의 대한민국 청년\n3. 지원 마감일: 2023년 12월 2일 오후 1:59 (한국시간)\n4. 참가신청: 링크(\u003chttps://bit.ly/us-rok-japan)를\u003e 통해 지원서 제출\n5. 참고사항: 모든 행사는 영어로 진행되며, 선발된 참가자들은 2024년 7월에 진행될 청년 정상회의에 앞서 4차례의 사전 온라인 세미나 (주제: 기후변화, 경제 회복탄력성, 외교안보)에 참석해야 함.\n*※ 자세한 내용은 지원 링크를 통해 확인 가능하며, 문의사항은 미국 East-West Center 담당자 (Ms. Abbigail Hull, \u003cmailto:hulla@eastwestcenter.org|hulla@eastwestcenter.org\u003e)에게 문의 바람.*\n\n 붙임: 행사 관련 홍보물 한영문 각 1부. 끝.",
-    "ts": "1698725075.647039",
-    "files": [
-      {
-        "id": "F063WBTSWRX",
-        "created": 1698725060,
-        "timestamp": 1698725060,
-        "name": "Trilateral Flyer 10232023.pdf",
-        "title": "Trilateral Flyer 10232023.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 8407086,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F063WBTSWRX-Trilateral Flyer 10232023.pdf",
-        "url_private_download": "attachments/F063WBTSWRX-Trilateral Flyer 10232023.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063WBTSWRX/trilateral_flyer_10232023.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F063WBTSWRX-feeb0ebfd6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F063WBU8GHF",
-        "created": 1698725068,
-        "timestamp": 1698725068,
-        "name": "KR Trilateral Flyer 10232023.pdf",
-        "title": "KR Trilateral Flyer 10232023.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 8424333,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F063WBU8GHF-KR Trilateral Flyer 10232023.pdf",
-        "url_private_download": "attachments/F063WBU8GHF-KR Trilateral Flyer 10232023.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063WBU8GHF/kr_trilateral_flyer_10232023.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F063WBU8GHF-80fea30a34",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bteBA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c\"2024 한-미-일 글로벌 리더십 청년 서밋\" 프로그램 안\u003e\n\n주한 미국 대사관 공공외교과에서 진행하는 "
-              },
-              {
-                "type": "text",
-                "text": "\"2024 한-미-일 글로벌 리더십 청년 서밋 (The U.S.-ROK-Japan Trilateral Global Leadership Youth Summit)\"",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "에 참여할 학생을 모집한다 하오니 관심 있는 학생은 참고하시기 바랍니다.\n\n1. 행사 일정: 2024년 7월 11일(목) – 13일(토)\n2. 지원 대상: 영어에 능통하고 다양한 커뮤니티에서 기후 변화, 인권, 안보 및 시민사회 참여활동과 관련된 문제 해결에 적극 애쓰고 있는 만18-30세의 대한민국 청년\n3. 지원 마감일: 2023년 12월 2일 오후 1:59 (한국시간)\n4. 참가신청: 링크("
-              },
-              {
-                "type": "link",
-                "url": "https://bit.ly/us-rok-japan)를",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": " 통해 지원서 제출\n5. 참고사항: 모든 행사는 영어로 진행되며, 선발된 참가자들은 2024년 7월에 진행될 청년 정상회의에 앞서 4차례의 사전 온라인 세미나 (주제: 기후변화, 경제 회복탄력성, 외교안보)에 참석해야 함.\n"
-              },
-              {
-                "type": "text",
-                "text": "※ 자세한 내용은 지원 링크를 통해 확인 가능하며, 문의사항은 미국 East-West Center 담당자 (Ms. Abbigail Hull, ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:hulla@eastwestcenter.org",
-                "text": "hulla@eastwestcenter.org",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")에게 문의 바람.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n 붙임: 행사 관련 홍보물 한영문 각 1부. 끝."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "cf804b3b-16c7-410a-a225-1d0d2ce8ae0a",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;*총학생회 선거 유세에 따른 소음 발생 안내(11/1(수) 12:30~13:00, 43-2동 앞)*\u0026gt;\n\n*11/1(수) 12:30 ~ 13:00*에 *총학생회 선거*를 위한 유세가 있다고 하여 소음 발생 등이 예상되오니 학생 여러분께서는 수업 진행 및 연구공간 이용 시 참고하여 주시기 바랍니다.\n\n:arrow_forward: *장소: 공간 근처 (43-2동 주변)*\n:arrow_forward: *일시: 11월 1일(수) 12:30 ~ 13:00 [총학생회에서 캠퍼스관리과(캠퍼스안전반)와 협의 완료]*",
-    "ts": "1698729000.924279",
-    "files": [
-      {
-        "id": "F063LBFCKGU",
-        "created": 1698728971,
-        "timestamp": 1698728971,
-        "name": "유세관련 계획.pdf",
-        "title": "유세관련 계획.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 29347,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F063LBFCKGU-유세관련 계획.pdf",
-        "url_private_download": "attachments/F063LBFCKGU-유세관련 계획.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063LBFCKGU/___________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F063LBFCKGU-dbb8b541c3",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "oXyEb",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c"
-              },
-              {
-                "type": "text",
-                "text": "총학생회 선거 유세에 따른 소음 발생 안내(11/1(수) 12:30~13:00, 43-2동 앞)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\u003e\n\n"
-              },
-              {
-                "type": "text",
-                "text": "11/1(수) 12:30 ~ 13:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "에 "
-              },
-              {
-                "type": "text",
-                "text": "총학생회 선거",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "를 위한 유세가 있다고 하여 소음 발생 등이 예상되오니 학생 여러분께서는 수업 진행 및 연구공간 이용 시 참고하여 주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "emoji",
-                "name": "arrow_forward",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 장소: 공간 근처 (43-2동 주변)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "emoji",
-                "name": "arrow_forward",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 일시: 11월 1일(수) 12:30 ~ 13:00 [총학생회에서 캠퍼스관리과(캠퍼스안전반)와 협의 완료]",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "58057e45-2ef2-4624-8e03-9a0f9803faae",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;『데이터사이언스 융합인재 양성사업』 2023 K-데이터사이언스 해커톤 참가자 모집&gt;*\n과학기술정보통신부 주최, 한국연구재단 주관 ‘2023 K-데이터사이언스 해커톤 대회’를 개최한다고 하오니, 대학원생 및 연구자 여러분들의 많은 참여 바랍니다.\n\n□ 상세 내용\n  가. 주최 : 과학기술정보통신부\n  나. 주관 : 한국연구재단\n  다. 일자 : 2023년 11월 28일(화) ~ 30일(목)\n  라. 장소 : 서울대학교 시흥캠퍼스 컨벤션센터\n  마. 참여 : 해커톤 대회 본선 총 100명\n  바. 접수 기한 : 2023년 11월 6일 (월) 17:00까지\n  사. 본선 진출팀 발표 : 2023년 11월 11일 (토) 홈페이지 공고\n  아. 문의처 : K-DS융합인재양성사업단(<http://kdatascience.kr|kdatascience.kr>)",
+			"ts": "1698712822.241909",
+			"files": [
+				{
+					"id": "F063AGAT0VC",
+					"created": 1698712786,
+					"timestamp": 1698712786,
+					"name": "2023 K-DS 컨퍼런스&해커톤 대회 포스터.png",
+					"title": "2023 K-DS 컨퍼런스&amp;해커톤 대회 포스터.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3138585,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F063AGAT0VC-2023 K-DS 컨퍼런스&해커톤 대회 포스터.png",
+					"url_private_download": "attachments/F063AGAT0VC-2023 K-DS 컨퍼런스&해커톤 대회 포스터.png",
+					"original_h": 1798,
+					"original_w": 1266,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 253,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________480.png",
+					"thumb_480_w": 338,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________720.png",
+					"thumb_720_w": 507,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________960.png",
+					"thumb_960_w": 676,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F063AGAT0VC-400eb7755b/2023_k-ds_________________________________________1024.png",
+					"thumb_1024_w": 721,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063AGAT0VC/2023_k-ds________________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F063AGAT0VC-e6196fc7b8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F063AGB6BAS",
+					"created": 1698712794,
+					"timestamp": 1698712794,
+					"name": "2023 K-데이터사이언스 해커톤 대회 개최안.hwp",
+					"title": "2023 K-데이터사이언스 해커톤 대회 개최안.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1479680,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F063AGB6BAS-2023 K-데이터사이언스 해커톤 대회 개최안.hwp",
+					"url_private_download": "attachments/F063AGB6BAS-2023 K-데이터사이언스 해커톤 대회 개최안.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063AGB6BAS/2023_k-________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F063AGB6BAS-31fb53a83e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "J82b0",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<『데이터사이언스 융합인재 양성사업』 2023 K-데이터사이언스 해커톤 참가자 모집>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n과학기술정보통신부 주최, 한국연구재단 주관 ‘2023 K-데이터사이언스 해커톤 대회’를 개최한다고 하오니, 대학원생 및 연구자 여러분들의 많은 참여 바랍니다.\n\n□ 상세 내용\n  가. 주최 : 과학기술정보통신부\n  나. 주관 : 한국연구재단\n  다. 일자 : 2023년 11월 28일(화) ~ 30일(목)\n  라. 장소 : 서울대학교 시흥캠퍼스 컨벤션센터\n  마. 참여 : 해커톤 대회 본선 총 100명\n  바. 접수 기한 : 2023년 11월 6일 (월) 17:00까지\n  사. 본선 진출팀 발표 : 2023년 11월 11일 (토) 홈페이지 공고\n  아. 문의처 : K-DS융합인재양성사업단("
+								},
+								{
+									"type": "link",
+									"url": "http://kdatascience.kr",
+									"text": "kdatascience.kr"
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "61b6d0a9-2bba-41a9-a5b7-d7a7100d86d9",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 2학기 석사 학위논문 심사로 인한 942동 3층 및 4층 출입 통제 안내&gt;\n\n23학년도 2학기 석사 학위논문 심사로 인해 942동 3층 및 4층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 11. 3.(금) 12:00 ~ 18:00",
+			"ts": "1698713289.169709",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "n4hcE",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 2학기 석사 학위논문 심사로 인한 942동 3층 및 4층 출입 통제 안내>\n\n23학년도 2학기 석사 학위논문 심사로 인해 942동 3층 및 4층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 11. 3.(금) 12:00 ~ 18:00"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "dc1aa018-5ac6-405b-8b66-d2da49f70ecf",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;\"2024 한-미-일 글로벌 리더십 청년 서밋\" 프로그램 안&gt;\n\n주한 미국 대사관 공공외교과에서 진행하는 *\"2024 한-미-일 글로벌 리더십 청년 서밋 (The U.S.-ROK-Japan Trilateral Global Leadership Youth Summit)\"*에 참여할 학생을 모집한다 하오니 관심 있는 학생은 참고하시기 바랍니다.\n\n1. 행사 일정: 2024년 7월 11일(목) – 13일(토)\n2. 지원 대상: 영어에 능통하고 다양한 커뮤니티에서 기후 변화, 인권, 안보 및 시민사회 참여활동과 관련된 문제 해결에 적극 애쓰고 있는 만18-30세의 대한민국 청년\n3. 지원 마감일: 2023년 12월 2일 오후 1:59 (한국시간)\n4. 참가신청: 링크(<https://bit.ly/us-rok-japan)를> 통해 지원서 제출\n5. 참고사항: 모든 행사는 영어로 진행되며, 선발된 참가자들은 2024년 7월에 진행될 청년 정상회의에 앞서 4차례의 사전 온라인 세미나 (주제: 기후변화, 경제 회복탄력성, 외교안보)에 참석해야 함.\n*※ 자세한 내용은 지원 링크를 통해 확인 가능하며, 문의사항은 미국 East-West Center 담당자 (Ms. Abbigail Hull, <mailto:hulla@eastwestcenter.org|hulla@eastwestcenter.org>)에게 문의 바람.*\n\n 붙임: 행사 관련 홍보물 한영문 각 1부. 끝.",
+			"ts": "1698725075.647039",
+			"files": [
+				{
+					"id": "F063WBTSWRX",
+					"created": 1698725060,
+					"timestamp": 1698725060,
+					"name": "Trilateral Flyer 10232023.pdf",
+					"title": "Trilateral Flyer 10232023.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 8407086,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F063WBTSWRX-Trilateral Flyer 10232023.pdf",
+					"url_private_download": "attachments/F063WBTSWRX-Trilateral Flyer 10232023.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063WBTSWRX/trilateral_flyer_10232023.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F063WBTSWRX-feeb0ebfd6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F063WBU8GHF",
+					"created": 1698725068,
+					"timestamp": 1698725068,
+					"name": "KR Trilateral Flyer 10232023.pdf",
+					"title": "KR Trilateral Flyer 10232023.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 8424333,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F063WBU8GHF-KR Trilateral Flyer 10232023.pdf",
+					"url_private_download": "attachments/F063WBU8GHF-KR Trilateral Flyer 10232023.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063WBU8GHF/kr_trilateral_flyer_10232023.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F063WBU8GHF-80fea30a34",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bteBA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<\"2024 한-미-일 글로벌 리더십 청년 서밋\" 프로그램 안>\n\n주한 미국 대사관 공공외교과에서 진행하는 "
+								},
+								{
+									"type": "text",
+									"text": "\"2024 한-미-일 글로벌 리더십 청년 서밋 (The U.S.-ROK-Japan Trilateral Global Leadership Youth Summit)\"",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "에 참여할 학생을 모집한다 하오니 관심 있는 학생은 참고하시기 바랍니다.\n\n1. 행사 일정: 2024년 7월 11일(목) – 13일(토)\n2. 지원 대상: 영어에 능통하고 다양한 커뮤니티에서 기후 변화, 인권, 안보 및 시민사회 참여활동과 관련된 문제 해결에 적극 애쓰고 있는 만18-30세의 대한민국 청년\n3. 지원 마감일: 2023년 12월 2일 오후 1:59 (한국시간)\n4. 참가신청: 링크("
+								},
+								{
+									"type": "link",
+									"url": "https://bit.ly/us-rok-japan)를",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": " 통해 지원서 제출\n5. 참고사항: 모든 행사는 영어로 진행되며, 선발된 참가자들은 2024년 7월에 진행될 청년 정상회의에 앞서 4차례의 사전 온라인 세미나 (주제: 기후변화, 경제 회복탄력성, 외교안보)에 참석해야 함.\n"
+								},
+								{
+									"type": "text",
+									"text": "※ 자세한 내용은 지원 링크를 통해 확인 가능하며, 문의사항은 미국 East-West Center 담당자 (Ms. Abbigail Hull, ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:hulla@eastwestcenter.org",
+									"text": "hulla@eastwestcenter.org",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")에게 문의 바람.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n 붙임: 행사 관련 홍보물 한영문 각 1부. 끝."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "cf804b3b-16c7-410a-a225-1d0d2ce8ae0a",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;*총학생회 선거 유세에 따른 소음 발생 안내(11/1(수) 12:30~13:00, 43-2동 앞)*&gt;\n\n*11/1(수) 12:30 ~ 13:00*에 *총학생회 선거*를 위한 유세가 있다고 하여 소음 발생 등이 예상되오니 학생 여러분께서는 수업 진행 및 연구공간 이용 시 참고하여 주시기 바랍니다.\n\n:arrow_forward: *장소: 공간 근처 (43-2동 주변)*\n:arrow_forward: *일시: 11월 1일(수) 12:30 ~ 13:00 [총학생회에서 캠퍼스관리과(캠퍼스안전반)와 협의 완료]*",
+			"ts": "1698729000.924279",
+			"files": [
+				{
+					"id": "F063LBFCKGU",
+					"created": 1698728971,
+					"timestamp": 1698728971,
+					"name": "유세관련 계획.pdf",
+					"title": "유세관련 계획.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 29347,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F063LBFCKGU-유세관련 계획.pdf",
+					"url_private_download": "attachments/F063LBFCKGU-유세관련 계획.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F063LBFCKGU/___________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F063LBFCKGU-dbb8b541c3",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "oXyEb",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<"
+								},
+								{
+									"type": "text",
+									"text": "총학생회 선거 유세에 따른 소음 발생 안내(11/1(수) 12:30~13:00, 43-2동 앞)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ">\n\n"
+								},
+								{
+									"type": "text",
+									"text": "11/1(수) 12:30 ~ 13:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "에 "
+								},
+								{
+									"type": "text",
+									"text": "총학생회 선거",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "를 위한 유세가 있다고 하여 소음 발생 등이 예상되오니 학생 여러분께서는 수업 진행 및 연구공간 이용 시 참고하여 주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "emoji",
+									"name": "arrow_forward",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 장소: 공간 근처 (43-2동 주변)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "emoji",
+									"name": "arrow_forward",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 일시: 11월 1일(수) 12:30 ~ 13:00 [총학생회에서 캠퍼스관리과(캠퍼스안전반)와 협의 완료]",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

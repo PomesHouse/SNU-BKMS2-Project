@@ -1,0 +1,50 @@
+[
+  {
+    "client_msg_id": "09fb28e8-928d-497d-b381-54685486db24",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": "마감되었습니다.",
+    "ts": "1615336123.000100",
+    "thread_ts": "1615192301.017000",
+    "parent_user_id": "U01QZRUNBA4",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "srqO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "마감되었습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

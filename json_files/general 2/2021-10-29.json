@@ -1,183 +1,185 @@
-[
-  {
-    "client_msg_id": "9dc21e7b-8994-4469-ba83-e99680945e44",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e  논문계획서 발표 자료와 관련하여 출력 요청을 부탁한 분들께는 출력 완료 후 DM드리고 있습니다. 혹시 DM받지 못하신 분들께서는 누락된것이므로 행정실에 연락 주시기 바랍니다. 현재 마이스누 메일 시스템 변경으로 누락되는 메일이 많아 번거롭더라도 확인 한 번 더 부탁드리겠습니다.\n\n출력은 심사 교수님 4분용 총 4부를 출력하였으며 발표시 PPT는 USB에 담아 바로 노트북에 연결하여 발표하시면 됩니다.",
-    "ts": "1635469657.027500",
-    "thread_ts": "1635469657.027500",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01Q3EPDBAA",
-        "ts": "1635469716.028400"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1635471243.028800"
-      }
-    ],
-    "latest_reply": "1635471243.028800",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 6,
-        "users": [
-          "U01Q3EPDBAA",
-          "U01QNSMDGF3",
-          "U01Q75KNV1T",
-          "U01QAE5BVEX",
-          "U01PVETMX2T",
-          "U01PVEU7QKH"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "+Farv",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": "  논문계획서 발표 자료와 관련하여 출력 요청을 부탁한 분들께는 출력 완료 후 DM드리고 있습니다. 혹시 DM받지 못하신 분들께서는 누락된것이므로 행정실에 연락 주시기 바랍니다. 현재 마이스누 메일 시스템 변경으로 누락되는 메일이 많아 번거롭더라도 확인 한 번 더 부탁드리겠습니다.\n\n출력은 심사 교수님 4분용 총 4부를 출력하였으며 발표시 PPT는 USB에 담아 바로 노트북에 연결하여 발표하시면 됩니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01Q3EPDBAA",
-      "U01QNJ7PWRX"
-    ]
-  },
-  {
-    "client_msg_id": "9B328B36-D518-4302-AE5B-50286B6BD13F",
-    "type": "message",
-    "user": "U01Q3EPDBAA",
-    "text": "혹시 개인 노트북으로도 발표가 가능한가요?",
-    "ts": "1635469716.028400",
-    "thread_ts": "1635469657.027500",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ULGp",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시 개인 노트북으로도 발표가 가능한가요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
-      "first_name": "Junbum",
-      "real_name": "Junbum Lee",
-      "display_name": "1기_이준범",
-      "team": "T01QA5S537V",
-      "name": "beomi",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "66ce1dd6-2f7b-4e44-924e-67e9581264b2",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "네, 가지고 오셔서 본인 발표시간에 HDMI연결하시면 될것같네요 :slightly_smiling_face:",
-    "ts": "1635471243.028800",
-    "thread_ts": "1635469657.027500",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "MuwQh",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "네, 가지고 오셔서 본인 발표시간에 HDMI연결하시면 될것같네요 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "9dc21e7b-8994-4469-ba83-e99680945e44",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel>  논문계획서 발표 자료와 관련하여 출력 요청을 부탁한 분들께는 출력 완료 후 DM드리고 있습니다. 혹시 DM받지 못하신 분들께서는 누락된것이므로 행정실에 연락 주시기 바랍니다. 현재 마이스누 메일 시스템 변경으로 누락되는 메일이 많아 번거롭더라도 확인 한 번 더 부탁드리겠습니다.\n\n출력은 심사 교수님 4분용 총 4부를 출력하였으며 발표시 PPT는 USB에 담아 바로 노트북에 연결하여 발표하시면 됩니다.",
+			"ts": "1635469657.027500",
+			"thread_ts": "1635469657.027500",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01Q3EPDBAA",
+					"ts": "1635469716.028400"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1635471243.028800"
+				}
+			],
+			"latest_reply": "1635471243.028800",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 6,
+					"users": [
+						"U01Q3EPDBAA",
+						"U01QNSMDGF3",
+						"U01Q75KNV1T",
+						"U01QAE5BVEX",
+						"U01PVETMX2T",
+						"U01PVEU7QKH"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "+Farv",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": "  논문계획서 발표 자료와 관련하여 출력 요청을 부탁한 분들께는 출력 완료 후 DM드리고 있습니다. 혹시 DM받지 못하신 분들께서는 누락된것이므로 행정실에 연락 주시기 바랍니다. 현재 마이스누 메일 시스템 변경으로 누락되는 메일이 많아 번거롭더라도 확인 한 번 더 부탁드리겠습니다.\n\n출력은 심사 교수님 4분용 총 4부를 출력하였으며 발표시 PPT는 USB에 담아 바로 노트북에 연결하여 발표하시면 됩니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01Q3EPDBAA",
+				"U01QNJ7PWRX"
+			]
+		},
+		{
+			"client_msg_id": "9B328B36-D518-4302-AE5B-50286B6BD13F",
+			"type": "message",
+			"user": "U01Q3EPDBAA",
+			"text": "혹시 개인 노트북으로도 발표가 가능한가요?",
+			"ts": "1635469716.028400",
+			"thread_ts": "1635469657.027500",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ULGp",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시 개인 노트북으로도 발표가 가능한가요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
+				"first_name": "Junbum",
+				"real_name": "Junbum Lee",
+				"display_name": "1기_이준범",
+				"team": "T01QA5S537V",
+				"name": "beomi",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "66ce1dd6-2f7b-4e44-924e-67e9581264b2",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "네, 가지고 오셔서 본인 발표시간에 HDMI연결하시면 될것같네요 :slightly_smiling_face:",
+			"ts": "1635471243.028800",
+			"thread_ts": "1635469657.027500",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "MuwQh",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "네, 가지고 오셔서 본인 발표시간에 HDMI연결하시면 될것같네요 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,221 +1,223 @@
-[
-  {
-    "client_msg_id": "b08cebf0-0334-4b0d-a809-eddcaa314b90",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "서울대학교 구성원을 대상으로 에듀테크 특강 참여자를 모집하니 관심 있는 분은 아래 세부사항을 참고하시면 좋겠네요.:smiley:\n \n[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내\n \n서울대학교 시흥캠퍼스본부에서 에듀테크 분야 창업기회 발굴, 교육분야 창업 성공사례 및 실전 경험 전수 교육을 진행합니다.\n에듀테크 창업에 관심있는 참여자를 모집하오니 서울대학교 내 구성원분들의 많은 참여바랍니다.\n \n[1부]\n1강:   9.24.(금) 14:00~15:30 [창업방법론(시장조사, 지식재산권, 창업환역, 정부지원, 사업타당성 분석)]\n2강: 10.22.(금) 14:00~17:00 [창업자원 조달과 창업성공조건]\n \n[2부]\n3강: 10.29.(금) 14:00~15:30 [양방향 온라인 교육플랫폼 ‘클라썸’ 최유진 대표]\n4강: 11.26.(금) 14:00~15:30 [산타토익 ‘뤼이드’ 장영준 대표]\n \n \n*#신청대상: 창업 및 에듀테크에 관심있는 서울대학교 구성원(대학(원)생 포함) 전체*\n*#신청기간: 2021.09.17.(금) ~ 2021.11.25.(목) 18:00*\n               ** 각 강연 시작 1일전 사전신청 접수마감*\n* *\n*#신청방법: 사전신청진행(구글폼 접수)*\n                ** 신청 링크 \u003chttps://forms.gle/GnTc4V9HGLkxezcF7\u003e*\n*#참여방법: 비대면 강의진행*",
-    "ts": "1635316399.000400",
-    "edited": {
-      "user": "U01Q1KFN4JK",
-      "ts": "1635316461.000000"
-    },
-    "files": [
-      {
-        "id": "F02JRT3NQUF",
-        "created": 1635316370,
-        "timestamp": 1635316370,
-        "name": "[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내.jpg",
-        "title": "[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01Q1KFN4JK",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 732975,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02JRT3NQUF-[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내.jpg",
-        "url_private_download": "attachments/F02JRT3NQUF-[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내.jpg",
-        "original_h": 2245,
-        "original_w": 1587,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 254,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F02JRT3NQUF/_________________________________________________________________________on____________________edutech_______________________________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02JRT3NQUF-bd80db3235",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 1,
-        "users": [
-          "U01PVETV83H"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01QV1SQJ57"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xCb",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "서울대학교 구성원을 대상으로 에듀테크 특강 참여자를 모집하니 관심 있는 분은 아래 세부사항을 참고하시면 좋겠네요."
-              },
-              {
-                "type": "emoji",
-                "name": "smiley",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n \n[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내\n \n서울대학교 시흥캠퍼스본부에서 에듀테크 분야 창업기회 발굴, 교육분야 창업 성공사례 및 실전 경험 전수 교육을 진행합니다.\n에듀테크 창업에 관심있는 참여자를 모집하오니 서울대학교 내 구성원분들의 많은 참여바랍니다.\n \n[1부]\n1강:   9.24.(금) 14:00~15:30 [창업방법론(시장조사, 지식재산권, 창업환역, 정부지원, 사업타당성 분석)]\n2강: 10.22.(금) 14:00~17:00 [창업자원 조달과 창업성공조건]\n \n[2부]\n3강: 10.29.(금) 14:00~15:30 [양방향 온라인 교육플랫폼 ‘클라썸’ 최유진 대표]\n4강: 11.26.(금) 14:00~15:30 [산타토익 ‘뤼이드’ 장영준 대표]\n \n \n"
-              },
-              {
-                "type": "text",
-                "text": "#신청대상: 창업 및 에듀테크에 관심있는 서울대학교 구성원(대학(원)생 포함) 전체",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "#신청기간: 2021.09.17.(금) ~ 2021.11.25.(목) 18:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "               * 각 강연 시작 1일전 사전신청 접수마감",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "#신청방법: 사전신청진행(구글폼 접수)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "                * 신청 링크 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "https://forms.gle/GnTc4V9HGLkxezcF7",
-                "text": "",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "#참여방법: 비대면 강의진행",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "b08cebf0-0334-4b0d-a809-eddcaa314b90",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "서울대학교 구성원을 대상으로 에듀테크 특강 참여자를 모집하니 관심 있는 분은 아래 세부사항을 참고하시면 좋겠네요.:smiley:\n \n[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내\n \n서울대학교 시흥캠퍼스본부에서 에듀테크 분야 창업기회 발굴, 교육분야 창업 성공사례 및 실전 경험 전수 교육을 진행합니다.\n에듀테크 창업에 관심있는 참여자를 모집하오니 서울대학교 내 구성원분들의 많은 참여바랍니다.\n \n[1부]\n1강:   9.24.(금) 14:00~15:30 [창업방법론(시장조사, 지식재산권, 창업환역, 정부지원, 사업타당성 분석)]\n2강: 10.22.(금) 14:00~17:00 [창업자원 조달과 창업성공조건]\n \n[2부]\n3강: 10.29.(금) 14:00~15:30 [양방향 온라인 교육플랫폼 ‘클라썸’ 최유진 대표]\n4강: 11.26.(금) 14:00~15:30 [산타토익 ‘뤼이드’ 장영준 대표]\n \n \n*#신청대상: 창업 및 에듀테크에 관심있는 서울대학교 구성원(대학(원)생 포함) 전체*\n*#신청기간: 2021.09.17.(금) ~ 2021.11.25.(목) 18:00*\n               ** 각 강연 시작 1일전 사전신청 접수마감*\n* *\n*#신청방법: 사전신청진행(구글폼 접수)*\n                ** 신청 링크 <https://forms.gle/GnTc4V9HGLkxezcF7>*\n*#참여방법: 비대면 강의진행*",
+			"ts": "1635316399.000400",
+			"edited": {
+				"user": "U01Q1KFN4JK",
+				"ts": "1635316461.000000"
+			},
+			"files": [
+				{
+					"id": "F02JRT3NQUF",
+					"created": 1635316370,
+					"timestamp": 1635316370,
+					"name": "[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내.jpg",
+					"title": "[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01Q1KFN4JK",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 732975,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02JRT3NQUF-[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내.jpg",
+					"url_private_download": "attachments/F02JRT3NQUF-[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내.jpg",
+					"original_h": 2245,
+					"original_w": 1587,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 254,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02JRT3NQUF-4029c13acd/_________________________________________________________________________on____________________edutech________________________________________________________1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F02JRT3NQUF/_________________________________________________________________________on____________________edutech_______________________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02JRT3NQUF-bd80db3235",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 1,
+					"users": [
+						"U01PVETV83H"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01QV1SQJ57"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xCb",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "서울대학교 구성원을 대상으로 에듀테크 특강 참여자를 모집하니 관심 있는 분은 아래 세부사항을 참고하시면 좋겠네요."
+								},
+								{
+									"type": "emoji",
+									"name": "smiley",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n \n[시흥캠퍼스본부] 창업 ON 특강[EDUTECH] 참여자 모집 안내\n \n서울대학교 시흥캠퍼스본부에서 에듀테크 분야 창업기회 발굴, 교육분야 창업 성공사례 및 실전 경험 전수 교육을 진행합니다.\n에듀테크 창업에 관심있는 참여자를 모집하오니 서울대학교 내 구성원분들의 많은 참여바랍니다.\n \n[1부]\n1강:   9.24.(금) 14:00~15:30 [창업방법론(시장조사, 지식재산권, 창업환역, 정부지원, 사업타당성 분석)]\n2강: 10.22.(금) 14:00~17:00 [창업자원 조달과 창업성공조건]\n \n[2부]\n3강: 10.29.(금) 14:00~15:30 [양방향 온라인 교육플랫폼 ‘클라썸’ 최유진 대표]\n4강: 11.26.(금) 14:00~15:30 [산타토익 ‘뤼이드’ 장영준 대표]\n \n \n"
+								},
+								{
+									"type": "text",
+									"text": "#신청대상: 창업 및 에듀테크에 관심있는 서울대학교 구성원(대학(원)생 포함) 전체",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "#신청기간: 2021.09.17.(금) ~ 2021.11.25.(목) 18:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "               * 각 강연 시작 1일전 사전신청 접수마감",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "#신청방법: 사전신청진행(구글폼 접수)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "                * 신청 링크 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "https://forms.gle/GnTc4V9HGLkxezcF7",
+									"text": "",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "#참여방법: 비대면 강의진행",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

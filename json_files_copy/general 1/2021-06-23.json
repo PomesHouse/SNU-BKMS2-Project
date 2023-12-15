@@ -1,0 +1,282 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;2021년 율촌 AI 장학생 선발 안내\u0026gt;*\n\n서울대학교 AI연구원에서는 농심그룹 율촌재단에서 지원하는 「2021년 율촌 AI 장학생 」을 아래와 같이 선발하고자 합니다.\n관심있는 학생분들의 많은 참여 바랍니다.\n\n\u0026lt;주요내용\u0026gt;\n1. 율촌 AI for All 펠로우십:  다양한 학문분야(X)에서 인공지능(AI)을 활용하여 창의적인 연구(X+AI)를 수행하는 우수한 학생을 장기 지원하는 장학금\n• 선발인원: 3명\n• 1인당 지원금: 학기당 1,000만원 (계속지원 가능)\n• 지원대상:  AI 응용분야(X+AI)를 연구하는 학부생 및 대학원생(수료생 포함) ※ 학부(과) 제한없이 모든 전공 지원 가능\n2.  율촌 AI Stars 장학금: AI 원천기술(Core AI) 분야에서 우수한 연구성과를 보인 학생에게 수여하는 상금형 장학금\n• 선발인원: 10명\n• 1인당 지원금: 800만원 (1회 지급)\n• 지원대상:  AI 원천기술 관련 전공에 한함 (공과대학, 자연과학대학, 융합과학기술대학원 소속)\n3. 온라인 신청\n• 신청기간: 2021.6.18.(금) ~ 7.4.(일) 자정까지\n• 신청방법:  AI연구원 홈페이지(\u003chttp://ai.snu.ac.kr\u003e) 신청 (온라인 지원창구 및 지원서양식 다운로드 링크 포함) ※ 교수 추천서는 1차 합격자에 한해 추후 제출 \n• 제출서류: 지원서, 연구성과 증빙자료, 재학(재적)증명서 또는 연구생 증명서, 대학원 성적증명서(학부생은 학부 성적증명서)\n관련하여 자세한 내용은 첨부의 안내문 참고하시기 바랍니다 :slightly_smiling_face:",
+    "ts": "1624410459.070100",
+    "files": [
+      {
+        "id": "F025WF6K04T",
+        "created": 1624410453,
+        "timestamp": 1624410453,
+        "name": "율촌AI장학금 공고문.docx",
+        "title": "율촌AI장학금 공고문.docx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "image_exif_rotation": 0,
+        "filetype": "docx",
+        "pretty_type": "Word 문서",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 16307,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F025WF6K04T-율촌AI장학금 공고문.docx",
+        "url_private_download": "attachments/F025WF6K04T-율촌AI장학금 공고문.docx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F025WF6K04T/______ai___________________.docx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F025WF6K04T-95033263f5",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T0d",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2021년 율촌 AI 장학생 선발 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n서울대학교 AI연구원에서는 농심그룹 율촌재단에서 지원하는 「2021년 율촌 AI 장학생 」을 아래와 같이 선발하고자 합니다.\n관심있는 학생분들의 많은 참여 바랍니다.\n\n\u003c주요내용\u003e\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc728\\ucd0c AI for All \\ud3a0\\ub85c\\uc6b0\\uc2ed:\\u00a0 \\ub2e4\\uc591\\ud55c \\ud559\\ubb38\\ubd84\\uc57c(X)\\uc5d0\\uc11c \\uc778\\uacf5\\uc9c0\\ub2a5(AI)\\uc744 \\ud65c\\uc6a9\\ud558\\uc5ec \\ucc3d\\uc758\\uc801\\uc778 \\uc5f0\\uad6c(X+AI)\\ub97c \\uc218\\ud589\\ud558\\ub294 \\uc6b0\\uc218\\ud55c \\ud559\\uc0dd\\uc744 \\uc7a5\\uae30 \\uc9c0\\uc6d0\\ud558\\ub294 \\uc7a5\\ud559\\uae08\"}]}],\"style\":\"ordered\",\"indent\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc120\\ubc1c\\uc778\\uc6d0: 3\\uba85\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\uc778\\ub2f9 \\uc9c0\\uc6d0\\uae08: \\ud559\\uae30\\ub2f9 1,000\\ub9cc\\uc6d0 (\\uacc4\\uc18d\\uc9c0\\uc6d0 \\uac00\\ub2a5)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c0\\uc6d0\\ub300\\uc0c1:\\u00a0 AI \\uc751\\uc6a9\\ubd84\\uc57c(X+AI)\\ub97c \\uc5f0\\uad6c\\ud558\\ub294 \\ud559\\ubd80\\uc0dd \\ubc0f \\ub300\\ud559\\uc6d0\\uc0dd(\\uc218\\ub8cc\\uc0dd \\ud3ec\\ud568) \\u203b \\ud559\\ubd80(\\uacfc) \\uc81c\\ud55c\\uc5c6\\uc774 \\ubaa8\\ub4e0 \\uc804\\uacf5 \\uc9c0\\uc6d0 \\uac00\\ub2a5\"}]}],\"style\":\"bullet\",\"indent\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n2.  율촌 AI Stars 장학금: AI 원천기술(Core AI) 분야에서 우수한 연구성과를 보인 학생에게 수여하는 상금형 장학금\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc120\\ubc1c\\uc778\\uc6d0: 10\\uba85\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\uc778\\ub2f9 \\uc9c0\\uc6d0\\uae08: 800\\ub9cc\\uc6d0 (1\\ud68c \\uc9c0\\uae09)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c0\\uc6d0\\ub300\\uc0c1:  AI \\uc6d0\\ucc9c\\uae30\\uc220 \\uad00\\ub828 \\uc804\\uacf5\\uc5d0 \\ud55c\\ud568 (\\uacf5\\uacfc\\ub300\\ud559, \\uc790\\uc5f0\\uacfc\\ud559\\ub300\\ud559, \\uc735\\ud569\\uacfc\\ud559\\uae30\\uc220\\ub300\\ud559\\uc6d0 \\uc18c\\uc18d)\"}]}],\"style\":\"bullet\",\"indent\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n3. 온라인 신청\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\uae30\\uac04: 2021.6.18.(\\uae08) ~ 7.4.(\\uc77c) \\uc790\\uc815\\uae4c\\uc9c0\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ubc29\\ubc95:  AI\\uc5f0\\uad6c\\uc6d0 \\ud648\\ud398\\uc774\\uc9c0(\"},{\"type\":\"link\",\"url\":\"http:\\/\\/ai.snu.ac.kr\"},{\"type\":\"text\",\"text\":\") \\uc2e0\\uccad (\\uc628\\ub77c\\uc778 \\uc9c0\\uc6d0\\ucc3d\\uad6c \\ubc0f \\uc9c0\\uc6d0\\uc11c\\uc591\\uc2dd \\ub2e4\\uc6b4\\ub85c\\ub4dc \\ub9c1\\ud06c \\ud3ec\\ud568) \\u203b \\uad50\\uc218 \\ucd94\\ucc9c\\uc11c\\ub294 1\\ucc28 \\ud569\\uaca9\\uc790\\uc5d0 \\ud55c\\ud574 \\ucd94\\ud6c4 \\uc81c\\ucd9c \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc81c\\ucd9c\\uc11c\\ub958: \\uc9c0\\uc6d0\\uc11c, \\uc5f0\\uad6c\\uc131\\uacfc \\uc99d\\ube59\\uc790\\ub8cc, \\uc7ac\\ud559(\\uc7ac\\uc801)\\uc99d\\uba85\\uc11c \\ub610\\ub294 \\uc5f0\\uad6c\\uc0dd \\uc99d\\uba85\\uc11c, \\ub300\\ud559\\uc6d0 \\uc131\\uc801\\uc99d\\uba85\\uc11c(\\ud559\\ubd80\\uc0dd\\uc740 \\ud559\\ubd80 \\uc131\\uc801\\uc99d\\uba85\\uc11c)\"}]}],\"style\":\"bullet\",\"indent\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n관련하여 자세한 내용은 첨부의 안내문 참고하시기 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2021학년도 2학기 국내 타 대학 학점교류 신청 안내\u0026gt;\n\n2021학년도 국내 타 대학 학점교류 신청을 안내드리니 관심 있는 분들께서는 확인하시기 바랍니다. 교류대학별 모집 일정이 상이하기때문에 교류 대학별 학점교류 일정은 개별적으로 확인하셔야 합니다.\n\n신청 매뉴얼을 첨부하였으니 확인하시기 바라며 신청하실 분들께서는 학과 행정실로 말씀 주시기 바랍니다.\n\n담당자: 김민서 (880-1331/\u003cmailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr\u003e)",
+    "ts": "1624412372.072400",
+    "files": [
+      {
+        "id": "F0262GVFF5J",
+        "created": 1624412325,
+        "timestamp": 1624412325,
+        "name": "(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
+        "title": "(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 419627,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0262GVFF5J-(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
+        "url_private_download": "attachments/F0262GVFF5J-(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0262GVFF5J/_______4______________out__________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F0262GVFF5J-a44dc546ed",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5p6rY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2021학년도 2학기 국내 타 대학 학점교류 신청 안내\u003e\n\n2021학년도 국내 타 대학 학점교류 신청을 안내드리니 관심 있는 분들께서는 확인하시기 바랍니다. 교류대학별 모집 일정이 상이하기때문에 교류 대학별 학점교류 일정은 개별적으로 확인하셔야 합니다.\n\n신청 매뉴얼을 첨부하였으니 확인하시기 바라며 신청하실 분들께서는 학과 행정실로 말씀 주시기 바랍니다.\n\n담당자: 김민서 (880-1331/"
+              },
+              {
+                "type": "link",
+                "url": "mailto:pocahontas@snu.ac.kr",
+                "text": "pocahontas@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

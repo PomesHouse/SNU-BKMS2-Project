@@ -1,0 +1,118 @@
+[
+  {
+    "client_msg_id": "49b1ef57-55a9-4a6b-8755-9c2ed06e6b67",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "GSDS 서버에 설치되어 있는 CUDA driver 12.2 버전을 사용하는 경우 Multi-GPU 관련 연산 속도가 급격히 느려지는 문제가 확인되었습니다. 때문에 위 시기에 CUDA driver 11.8 버전으로 다운그레이드 할 계획이니 참고하시기 바랍니다.",
+    "ts": "1694848682.617979",
+    "thread_ts": "1694419291.642569",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U0302PLQ34Y",
+          "U01Q75KNV1T",
+          "U02V5LU4ED7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pwG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "GSDS 서버에 설치되어 있는 CUDA driver 12.2 버전을 사용하는 경우 Multi-GPU 관련 연산 속도가 급격히 느려지는 문제가 확인되었습니다. 때문에 위 시기에 CUDA driver 11.8 버전으로 다운그레이드 할 계획이니 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "49b1ef57-55a9-4a6b-8755-9c2ed06e6b67",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "GSDS 서버에 설치되어 있는 CUDA driver 12.2 버전을 사용하는 경우 Multi-GPU 관련 연산 속도가 급격히 느려지는 문제가 확인되었습니다. 때문에 위 시기에 CUDA driver 11.8 버전으로 다운그레이드 할 계획이니 참고하시기 바랍니다.",
+    "ts": "1694848682.617979",
+    "thread_ts": "1694419291.642569",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U0302PLQ34Y",
+          "U01Q75KNV1T",
+          "U02V5LU4ED7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pwG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "GSDS 서버에 설치되어 있는 CUDA driver 12.2 버전을 사용하는 경우 Multi-GPU 관련 연산 속도가 급격히 느려지는 문제가 확인되었습니다. 때문에 위 시기에 CUDA driver 11.8 버전으로 다운그레이드 할 계획이니 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

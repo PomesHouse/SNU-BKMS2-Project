@@ -1,0 +1,560 @@
+[
+  {
+    "client_msg_id": "0258ee96-717e-4788-adeb-85d9c4a49682",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u003c!channel\u003e \u0026lt;건강보험 제증명서 비대면 발급채널 안내\u0026gt;* \n국민건강보험공단에서 「제증명서 전화 신청 발급 중단('22.7.1.) 안내」관련, 재학생 편익을 위한 '증명서 비대면 발급채널 안내' 리플렛을 송부하였기에 붙임과 같이 안내드립니다.\n증명서 비대면 발급채널을 적극적으로 활용하시기 바랍니다.",
+    "ts": "1657243652.309539",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1657243691.000000"
+    },
+    "files": [
+      {
+        "id": "F03P4ALUS01",
+        "created": 1657243550,
+        "timestamp": 1657243550,
+        "name": "건강보험 제증명 발급 서비스 안내 리플릿.pdf",
+        "title": "건강보험 제증명 발급 서비스 안내 리플릿.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2343460,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03P4ALUS01-건강보험 제증명 발급 서비스 안내 리플릿.pdf",
+        "url_private_download": "attachments/F03P4ALUS01-건강보험 제증명 발급 서비스 안내 리플릿.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03P4ALUS01/________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03P4ALUS01-acf77b9274",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Zq2Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " \u003c건강보험 제증명서 비대면 발급채널 안내\u003e ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n국민건강보험공단에서 「제증명서 전화 신청 발급 중단('22.7.1.) 안내」관련, 재학생 편익을 위한 '증명서 비대면 발급채널 안내' 리플렛을 송부하였기에 붙임과 같이 안내드립니다.\n증명서 비대면 발급채널을 적극적으로 활용하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9f0cf09-eefd-4fe4-a8d9-ad7f034b4ac3",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "2023학년도 1학기 본부 국외파견교환학생 후보자 모집 안내\n\n2023학년도 1학기 국제협력본부 국외파견교환학생 후보자를 아래와 같이 선발할 계획이오니, 관심있는 분들께서는 확인하여 주시기 바랍니다.\n 가. 모집인원: 622명(학기) 내외(31개군 187개교)\n 나. 지원방법: *온라인 지원(학내 포털)* 후 아래 서류를 지원 기간 내 구글 서베이 링크(\u003chttps://forms.gle/26dYghgrzmvy59xt5)로\u003e *제출*\n        ※ 위 제출 링크는 지원 기간에만 응답 가능함\n        ※ 코로나19로 인한 파견 취소 후 재지원하는 경우, 온라인 지원 없이 재지원서를 포함한 서류 구비 후 기간 내 구글 서베이 링크로 모든 서류 제출\n\n   1) 제출서류\n      가) (온라인) 지원서 1부\n        ※ 일반 지원자의 경우, 온라인 신청 완료 후 온라인 신청서를 PDF로 제출\n        ※ 재지원자의 경우, 온라인 지원서 대신 재지원자용 지원서(양식 첨부) 작성 후 제출\n      나) 서울대 영문성적표 1부(2022. 7. 7. 이후 발급받은 성적표 제출)\n      다) 공인외국어성적표 사본 1부(2021. 2. 1. 이후 응시한 어학성적만 유효함)\n      라) 국문 수학계획서 1부(양식 첨부)\n      마) 개인정보 수집 이용 특별 동의서 1부(양식 첨부)\n      바) 지도교수 및 학과장추천서 1부(양식 첨부)\n      사) 서울대학교 인권센터 인권/성평등 교육 이수 확인서\n    2) 온라인 신청 및 서류제출 기간: *2022. 7. 7.(목) 14:00 ~ 2022. 7. 14.(목) 11:00*\n    3) 문의처: 국제협력본부 배현주 담당자(*\u003cmailto:hjbaeb@snu.ac.kr|hjbaeb@snu.ac.kr\u003e)*\n     ※ 자세한 정보는 OIA 홈페이지(\u003chttp://oia.snu.ac.kr|oia.snu.ac.kr\u003e) 및 첨부 안내자료 통해 확인 요망",
+    "ts": "1657264023.976059",
+    "files": [
+      {
+        "id": "F03NUERSZEG",
+        "created": 1657254297,
+        "timestamp": 1657254297,
+        "name": "1. 2023학년도 1학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
+        "title": "1. 2023학년도 1학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 160196,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03NUERSZEG-1. 2023학년도 1학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
+        "url_private_download": "attachments/F03NUERSZEG-1. 2023학년도 1학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03NUERSZEG/1._2023__________1______________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03NUERSZEG-213fc7a0a4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03NS0S4LDR",
+        "created": 1657254299,
+        "timestamp": 1657254299,
+        "name": "2. 2023학년도 1학기 본부 국외파견교환학생 파견대학목록(대륙별)_본모집.zip",
+        "title": "2. 2023학년도 1학기 본부 국외파견교환학생 파견대학목록(대륙별)_본모집.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 111350,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03NS0S4LDR-2. 2023학년도 1학기 본부 국외파견교환학생 파견대학목록(대륙별)_본모집.zip",
+        "url_private_download": "attachments/F03NS0S4LDR-2. 2023학년도 1학기 본부 국외파견교환학생 파견대학목록(대륙별)_본모집.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03NS0S4LDR/2._2023__________1______________________________________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03NS0S4LDR-37d39065d0",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03NBEGFJF9",
+        "created": 1657254302,
+        "timestamp": 1657254302,
+        "name": "3. 온라인 신청 안내.xlsx",
+        "title": "3. 온라인 신청 안내.xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "image_exif_rotation": 0,
+        "filetype": "xlsx",
+        "pretty_type": "Excel 스프레드시트",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 252115,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03NBEGFJF9-3. 온라인 신청 안내.xlsx",
+        "url_private_download": "attachments/F03NBEGFJF9-3. 온라인 신청 안내.xlsx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03NBEGFJF9/3.________________________.xlsx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03NBEGFJF9-f57591ef0f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03PFQV3X08",
+        "created": 1657254306,
+        "timestamp": 1657254306,
+        "name": "4. 제출서류 양식.zip",
+        "title": "4. 제출서류 양식.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 128886,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03PFQV3X08-4. 제출서류 양식.zip",
+        "url_private_download": "attachments/F03PFQV3X08-4. 제출서류 양식.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03PFQV3X08/4.____________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03PFQV3X08-917529e4a6",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03NUES7WTW",
+        "created": 1657254307,
+        "timestamp": 1657254307,
+        "name": "5. 교류수학 및 학점인정 관련 규정 및 안내자료.zip",
+        "title": "5. 교류수학 및 학점인정 관련 규정 및 안내자료.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 249360,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03NUES7WTW-5. 교류수학 및 학점인정 관련 규정 및 안내자료.zip",
+        "url_private_download": "attachments/F03NUES7WTW-5. 교류수학 및 학점인정 관련 규정 및 안내자료.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03NUES7WTW/5._____________________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03NUES7WTW-d9e04f561d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "D4Az",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2023학년도 1학기 본부 국외파견교환학생 후보자 모집 안내\n\n2023학년도 1학기 국제협력본부 국외파견교환학생 후보자를 아래와 같이 선발할 계획이오니, 관심있는 분들께서는 확인하여 주시기 바랍니다.\n 가. 모집인원: 622명(학기) 내외(31개군 187개교)\n 나. 지원방법: "
+              },
+              {
+                "type": "text",
+                "text": "온라인 지원(학내 포털)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 후 아래 서류를 지원 기간 내 구글 서베이 링크("
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/26dYghgrzmvy59xt5)로",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " 제출",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n        ※ 위 제출 링크는 지원 기간에만 응답 가능함\n        ※ 코로나19로 인한 파견 취소 후 재지원하는 경우, 온라인 지원 없이 재지원서를 포함한 서류 구비 후 기간 내 구글 서베이 링크로 모든 서류 제출\n\n   1) 제출서류\n      가) (온라인) 지원서 1부\n        ※ 일반 지원자의 경우, 온라인 신청 완료 후 온라인 신청서를 PDF로 제출\n        ※ 재지원자의 경우, 온라인 지원서 대신 재지원자용 지원서(양식 첨부) 작성 후 제출\n      나) 서울대 영문성적표 1부(2022. 7. 7. 이후 발급받은 성적표 제출)\n      다) 공인외국어성적표 사본 1부(2021. 2. 1. 이후 응시한 어학성적만 유효함)\n      라) 국문 수학계획서 1부(양식 첨부)\n      마) 개인정보 수집 이용 특별 동의서 1부(양식 첨부)\n      바) 지도교수 및 학과장추천서 1부(양식 첨부)\n      사) 서울대학교 인권센터 인권/성평등 교육 이수 확인서\n    2) 온라인 신청 및 서류제출 기간: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 7. 7.(목) 14:00 ~ 2022. 7. 14.(목) 11:00",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    3) 문의처: 국제협력본부 배현주 담당자("
+              },
+              {
+                "type": "link",
+                "url": "mailto:hjbaeb@snu.ac.kr",
+                "text": "hjbaeb@snu.ac.kr",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ")",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "     ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "※ 자세한 정보는 OIA 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "http://oia.snu.ac.kr",
+                "text": "oia.snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ") 및 첨부 안내자료 통해 확인 요망"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

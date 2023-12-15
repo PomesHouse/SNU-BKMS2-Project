@@ -1,129 +1,131 @@
-[
-  {
-    "client_msg_id": "a3c167f7-67c6-4d88-b01c-7a120f59374a",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;올바른 인용표기를 위한 길잡이\u0026gt; 발간 알림 및 이용 안내\n한국연구재단에서 연구자가 올바른 인용 방법을 이해하는데 도움을 주고자 \u0026lt;올바른 인용표기를 위한 길잡이\u0026gt;를 발간하였음을 안내드립니다.\n※ 연구윤리정보포털(\u003chttp://cre.re.kr|cre.re.kr\u003e) 및 한국연구재단 홈페이지(\u003chttp://nrf.re.kr|nrf.re.kr\u003e)에서 다운로드 가능\n  - 연구윤리정보포털 '연구윤리 활동지원' → '가이드라인'\n  - 한국연구재단 홈페이지 '홍보광장' → '보고서도서관'",
-    "ts": "1648101513.565149",
-    "files": [
-      {
-        "id": "F038F8R9WLS",
-        "created": 1648101507,
-        "timestamp": 1648101507,
-        "name": "올바른 인용표기를 위한 길잡이.pdf",
-        "title": "올바른 인용표기를 위한 길잡이.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 22591875,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F038F8R9WLS-올바른 인용표기를 위한 길잡이.pdf",
-        "url_private_download": "attachments/F038F8R9WLS-올바른 인용표기를 위한 길잡이.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F038F8R9WLS/__________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F038F8R9WLS-a536213c8f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qgso",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c올바른 인용표기를 위한 길잡이\u003e 발간 알림 및 이용 안내\n한국연구재단에서 연구자가 올바른 인용 방법을 이해하는데 도움을 주고자 \u003c올바른 인용표기를 위한 길잡이\u003e를 발간하였음을 안내드립니다.\n※ 연구윤리정보포털("
-              },
-              {
-                "type": "link",
-                "url": "http://cre.re.kr",
-                "text": "cre.re.kr"
-              },
-              {
-                "type": "text",
-                "text": ") 및 한국연구재단 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "http://nrf.re.kr",
-                "text": "nrf.re.kr"
-              },
-              {
-                "type": "text",
-                "text": ")에서 다운로드 가능\n  - 연구윤리정보포털 '연구윤리 활동지원' → '가이드라인'\n  - 한국연구재단 홈페이지 '홍보광장' → '보고서도서관'"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "a3c167f7-67c6-4d88-b01c-7a120f59374a",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;올바른 인용표기를 위한 길잡이&gt; 발간 알림 및 이용 안내\n한국연구재단에서 연구자가 올바른 인용 방법을 이해하는데 도움을 주고자 &lt;올바른 인용표기를 위한 길잡이&gt;를 발간하였음을 안내드립니다.\n※ 연구윤리정보포털(<http://cre.re.kr|cre.re.kr>) 및 한국연구재단 홈페이지(<http://nrf.re.kr|nrf.re.kr>)에서 다운로드 가능\n  - 연구윤리정보포털 '연구윤리 활동지원' → '가이드라인'\n  - 한국연구재단 홈페이지 '홍보광장' → '보고서도서관'",
+			"ts": "1648101513.565149",
+			"files": [
+				{
+					"id": "F038F8R9WLS",
+					"created": 1648101507,
+					"timestamp": 1648101507,
+					"name": "올바른 인용표기를 위한 길잡이.pdf",
+					"title": "올바른 인용표기를 위한 길잡이.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 22591875,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F038F8R9WLS-올바른 인용표기를 위한 길잡이.pdf",
+					"url_private_download": "attachments/F038F8R9WLS-올바른 인용표기를 위한 길잡이.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F038F8R9WLS/__________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F038F8R9WLS-a536213c8f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qgso",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<올바른 인용표기를 위한 길잡이> 발간 알림 및 이용 안내\n한국연구재단에서 연구자가 올바른 인용 방법을 이해하는데 도움을 주고자 <올바른 인용표기를 위한 길잡이>를 발간하였음을 안내드립니다.\n※ 연구윤리정보포털("
+								},
+								{
+									"type": "link",
+									"url": "http://cre.re.kr",
+									"text": "cre.re.kr"
+								},
+								{
+									"type": "text",
+									"text": ") 및 한국연구재단 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "http://nrf.re.kr",
+									"text": "nrf.re.kr"
+								},
+								{
+									"type": "text",
+									"text": ")에서 다운로드 가능\n  - 연구윤리정보포털 '연구윤리 활동지원' → '가이드라인'\n  - 한국연구재단 홈페이지 '홍보광장' → '보고서도서관'"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

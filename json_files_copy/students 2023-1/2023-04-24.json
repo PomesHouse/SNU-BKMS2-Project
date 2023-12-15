@@ -1,0 +1,135 @@
+[
+  {
+    "client_msg_id": "C1A93345-6FEF-475F-A7C0-7B71EC89A9EB",
+    "type": "message",
+    "user": "U02UQ4CE0AH",
+    "text": "혹시 무선이어폰 잃어버리신 분은 377번 자리에서 찾아가세요!!!!!",
+    "ts": "1682313353.101449",
+    "files": [
+      {
+        "id": "F054XSH2NRF",
+        "created": 1682312921,
+        "timestamp": 1682312921,
+        "name": "IMG_3418.jpg",
+        "title": "IMG_3418",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02UQ4CE0AH",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 459065,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F054XSH2NRF-IMG_3418.jpg",
+        "url_private_download": "attachments/F054XSH2NRF-IMG_3418.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F054XSH2NRF-4cc4c5ad90/img_3418_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F054XSH2NRF-4cc4c5ad90/img_3418_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F054XSH2NRF-4cc4c5ad90/img_3418_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F054XSH2NRF-4cc4c5ad90/img_3418_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F054XSH2NRF-4cc4c5ad90/img_3418_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F054XSH2NRF-4cc4c5ad90/img_3418_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F054XSH2NRF-4cc4c5ad90/img_3418_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F054XSH2NRF-4cc4c5ad90/img_3418_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U02UQ4CE0AH/F054XSH2NRF/img_3418.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F054XSH2NRF-cc1ef2772c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dp/2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 무선이어폰 잃어버리신 분은 377"
+              },
+              {
+                "type": "text",
+                "text": "번"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "자리에서"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "찾아가세요"
+              },
+              {
+                "type": "text",
+                "text": "!!!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/58292d2d41005adbccadcddf6e667ace.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "3기_임다희",
+      "real_name": "3기_임다희",
+      "display_name": "3기_임다희",
+      "team": "T01QA5S537V",
+      "name": "windy0702",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

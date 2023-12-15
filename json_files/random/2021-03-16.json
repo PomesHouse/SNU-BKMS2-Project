@@ -1,53 +1,55 @@
-[
-  {
-    "client_msg_id": "1e7756c5-aabf-422a-9135-606a79f899eb",
-    "type": "message",
-    "user": "U01R719DKK2",
-    "text": "[건의사항] 안녕하세요, 혹시 화장실칸 내 좌변기용 소독제 비치해주실 수 있는지 건의드립니다 :pray:",
-    "ts": "1615874948.001600",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fTGK",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[건의사항] 안녕하세요, 혹시 화장실칸 내 좌변기용 소독제 비치해주실 수 있는지 건의드립니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1830130142149_2a7ef82e3f4173451b1c_72.jpg",
-      "first_name": "나두리",
-      "real_name": "나두리",
-      "display_name": "2기_나두리",
-      "team": "T01QA5S537V",
-      "name": "ndr0419",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "1e7756c5-aabf-422a-9135-606a79f899eb",
+			"type": "message",
+			"user": "U01R719DKK2",
+			"text": "[건의사항] 안녕하세요, 혹시 화장실칸 내 좌변기용 소독제 비치해주실 수 있는지 건의드립니다 :pray:",
+			"ts": "1615874948.001600",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fTGK",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[건의사항] 안녕하세요, 혹시 화장실칸 내 좌변기용 소독제 비치해주실 수 있는지 건의드립니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1830130142149_2a7ef82e3f4173451b1c_72.jpg",
+				"first_name": "나두리",
+				"real_name": "나두리",
+				"display_name": "2기_나두리",
+				"team": "T01QA5S537V",
+				"name": "ndr0419",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,0 +1,167 @@
+[
+  {
+    "client_msg_id": "24b66e4e-9cab-4498-9bf5-a221e4217c7b",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "*[알림] 학생회 후원계좌 공개*\n\n안녕하세요? 중간고사를 비롯해서 여러 과제와 프로젝트 등으로 많이 바쁘시겠지만\n\n한 가지 말씀을 드리고자 합니다.:exclamation:\n\n올해 학생회인 ‘Pavers’는\n\n그동안 여러분들의 관심과 성원, 지지에 힘입어\n\n말씀드린 7가지 약속을 이행하고 있을 뿐만 아니라\n\n1학기 좌석 재배치와 같이 시급한 현안도 잘 해결할 수 있었습니다. :slightly_smiling_face:\n\n여러분의 협조에 머리숙여 깊이 감사드립니다.  :man-bowing:\n(학생회 활동과 관련된 중간보고는 1학기 말에 드릴 예정입니다.)\n\n앞으로 남은 10개월 정도의 기간에도\n\n학생회가 기획하고 진행하는 여러가지 행사 및 사업이 원활하게 진행될 수 있도록\n\n*학생회 후원계좌를 공개합니다. (예금주: 고의천 / 카카오뱅크 / 3333-10-7107629)* \n\n해당 계좌는 현재 학생회 임원들이 공동으로 관리하고 있으며\n\n운영위원회 소집시에 각 연구실의 운영위원들에게 지출 내역을 공개할 예정입니다.\n(후원자 내역은 익명처리)\n\n*학생 여러분들의 소중한 후원금이 적재적소에 쓰여서* \n\n*SNU GSDS 학생 여러분과 학교의 성장에 보탬이 되도록 열과 성을 다하겠습니다.* :fire:\n\n*감사합니다!* :pray::skin-tone-2:",
+    "ts": "1650597076.345619",
+    "edited": {
+      "user": "U01Q1KFN4JK",
+      "ts": "1650614789.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 16,
+        "users": [
+          "U01QV1WAPL1",
+          "U01QNMUAUKW",
+          "U02V5LT4DLZ",
+          "U01QGKC5W03",
+          "U02V5LT2XFB",
+          "U02UT1XUGFL",
+          "U02UT2U1PFV",
+          "U02P4QDPG2W",
+          "U02ULBHV58W",
+          "U02V5LRB5S5",
+          "U01QV28FG4R",
+          "U01R689L5KJ",
+          "U01PVEU1A07",
+          "U02ULBH3TEJ",
+          "U02V5LU4ED7",
+          "U01QNSM488Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GSw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[알림] 학생회 후원계좌 공개",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요? 중간고사를 비롯해서 여러 과제와 프로젝트 등으로 많이 바쁘시겠지만\n\n한 가지 말씀을 드리고자 합니다."
+              },
+              {
+                "type": "emoji",
+                "name": "exclamation",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n올해 학생회인 ‘Pavers’는\n\n그동안 여러분들의 관심과 성원, 지지에 힘입어\n\n말씀드린 7가지 약속을 이행하고 있을 뿐만 아니라\n\n1학기 좌석 재배치와 같이 시급한 현안도 잘 해결할 수 있었습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n여러분의 협조에 머리숙여 깊이 감사드립니다.  "
+              },
+              {
+                "type": "emoji",
+                "name": "man-bowing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n(학생회 활동과 관련된 중간보고는 1학기 말에 드릴 예정입니다.)\n\n앞으로 남은 10개월 정도의 기간에도\n\n학생회가 기획하고 진행하는 여러가지 행사 및 사업이 원활하게 진행될 수 있도록\n\n"
+              },
+              {
+                "type": "text",
+                "text": "학생회 후원계좌를 공개합니다. (예금주: 고의천 / 카카오뱅크 / 3333-10-7107629) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n해당 계좌는 현재 학생회 임원들이 공동으로 관리하고 있으며\n\n운영위원회 소집시에 각 연구실의 운영위원들에게 지출 내역을 공개할 예정입니다.\n(후원자 내역은 익명처리)\n\n"
+              },
+              {
+                "type": "text",
+                "text": "학생 여러분들의 소중한 후원금이 적재적소에 쓰여서 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "SNU GSDS 학생 여러분과 학교의 성장에 보탬이 되도록 열과 성을 다하겠습니다. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "fire",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "감사합니다!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 2
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

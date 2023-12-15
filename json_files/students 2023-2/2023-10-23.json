@@ -1,110 +1,112 @@
-[
-  {
-    "client_msg_id": "f47c0982-c32b-48c2-af18-6e541b3772e8",
-    "type": "message",
-    "user": "U040C40QE6T",
-    "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar :pizza:\n안녕하세요 GSDS 학생회 입니다. :smiley:\n금주 10월 27일 금요일에 :tada:피자 세미나:tada:가 진행됩니다.\n\n#################################\n일시: 10월 27일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n\n발표자 및 발표 주제\n백은수 (김형신 교수님 연구실) : MIRROR: Towards Generalizable On-Device Video Virtual Try-On for Mobile Shopping\n박지수 (Wen-Syan Li 교수님 연구실) : Piano Performance Evaluation Dataset with Multi-level Perceptual Features and Real-World Applications\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!",
-    "ts": "1698047517.265759",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pizza",
-        "count": 18,
-        "users": [
-          "U04QE4ASJP7",
-          "U01QA85T90A",
-          "U04Q2G35DTR",
-          "U040MB432JW",
-          "U040M7VULN7",
-          "U04QE49RPV3",
-          "U04QE49RZ37",
-          "U01R67PKD7S",
-          "U01QGKC4BM1",
-          "U040MB3TGSE",
-          "U02ULBGMA4W",
-          "U05QHT3DEDP",
-          "U04QVM3QD41",
-          "U01QV28F01X",
-          "U01QAE5A9K5",
-          "U05QUV5KBMW",
-          "U05Q2AZ2DRB",
-          "U040ENMTCEA"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "VSw7E",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar "
-              },
-              {
-                "type": "emoji",
-                "name": "pizza",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n안녕하세요 GSDS 학생회 입니다. "
-              },
-              {
-                "type": "emoji",
-                "name": "smiley",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n금주 10월 27일 금요일에 "
-              },
-              {
-                "type": "emoji",
-                "name": "tada",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "피자 세미나"
-              },
-              {
-                "type": "emoji",
-                "name": "tada",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "가 진행됩니다.\n\n#################################\n일시: 10월 27일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n\n발표자 및 발표 주제\n백은수 (김형신 교수님 연구실) : MIRROR: Towards Generalizable On-Device Video Virtual Try-On for Mobile Shopping\n박지수 (Wen-Syan Li 교수님 연구실) : Piano Performance Evaluation Dataset with Multi-level Perceptual Features and Real-World Applications\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
-      "first_name": "김채윤",
-      "real_name": "김채윤",
-      "display_name": "3.5기_김채윤",
-      "team": "T01QA5S537V",
-      "name": "golddohyun",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "f47c0982-c32b-48c2-af18-6e541b3772e8",
+			"type": "message",
+			"user": "U040C40QE6T",
+			"text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar :pizza:\n안녕하세요 GSDS 학생회 입니다. :smiley:\n금주 10월 27일 금요일에 :tada:피자 세미나:tada:가 진행됩니다.\n\n#################################\n일시: 10월 27일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n\n발표자 및 발표 주제\n백은수 (김형신 교수님 연구실) : MIRROR: Towards Generalizable On-Device Video Virtual Try-On for Mobile Shopping\n박지수 (Wen-Syan Li 교수님 연구실) : Piano Performance Evaluation Dataset with Multi-level Perceptual Features and Real-World Applications\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!",
+			"ts": "1698047517.265759",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pizza",
+					"count": 18,
+					"users": [
+						"U04QE4ASJP7",
+						"U01QA85T90A",
+						"U04Q2G35DTR",
+						"U040MB432JW",
+						"U040M7VULN7",
+						"U04QE49RPV3",
+						"U04QE49RZ37",
+						"U01R67PKD7S",
+						"U01QGKC4BM1",
+						"U040MB3TGSE",
+						"U02ULBGMA4W",
+						"U05QHT3DEDP",
+						"U04QVM3QD41",
+						"U01QV28F01X",
+						"U01QAE5A9K5",
+						"U05QUV5KBMW",
+						"U05Q2AZ2DRB",
+						"U040ENMTCEA"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "VSw7E",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar "
+								},
+								{
+									"type": "emoji",
+									"name": "pizza",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n안녕하세요 GSDS 학생회 입니다. "
+								},
+								{
+									"type": "emoji",
+									"name": "smiley",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n금주 10월 27일 금요일에 "
+								},
+								{
+									"type": "emoji",
+									"name": "tada",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "피자 세미나"
+								},
+								{
+									"type": "emoji",
+									"name": "tada",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "가 진행됩니다.\n\n#################################\n일시: 10월 27일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n\n발표자 및 발표 주제\n백은수 (김형신 교수님 연구실) : MIRROR: Towards Generalizable On-Device Video Virtual Try-On for Mobile Shopping\n박지수 (Wen-Syan Li 교수님 연구실) : Piano Performance Evaluation Dataset with Multi-level Perceptual Features and Real-World Applications\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+				"first_name": "김채윤",
+				"real_name": "김채윤",
+				"display_name": "3.5기_김채윤",
+				"team": "T01QA5S537V",
+				"name": "golddohyun",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

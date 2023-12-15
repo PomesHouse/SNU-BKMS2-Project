@@ -1,0 +1,96 @@
+[
+  {
+    "client_msg_id": "08ead5fc-0ecf-434d-bb94-a1b69fa7939c",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "*[수업용 계정 관련 공지]*\n조금 전 수업용 계정이 생성되어 있는 storage 노드에 문제가 생겨 리붓을 하였습니다.\nstorage 노드에 문제가 생길 경우 해당 노드에 생성된 계정들은 서버 접속이 불가능해집니다.\n혹시 이후에도 수업용 계정 관련해서 비슷한 문제가 생길 경우, 따로 연락주시기 바랍니다.",
+    "ts": "1695295476.563189",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "heavy_check_mark",
+        "count": 6,
+        "users": [
+          "U02V5LS84JV",
+          "U02V5LU4ED7",
+          "U04QKG4UWRJ",
+          "U0302PLQ34Y",
+          "U040MB432JW",
+          "U04QVLEGY3B"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U02V5LU4ED7",
+          "U0302PLQ34Y",
+          "U04Q2G5JZ2B",
+          "U02ULBHV58W",
+          "U04R6NS3924",
+          "U05Q58L1058"
+        ]
+      },
+      {
+        "name": "pray",
+        "count": 2,
+        "users": [
+          "U0302PLQ34Y",
+          "U04R20KG9JM"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U0302PLQ34Y"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9wBQq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[수업용 계정 관련 공지]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n조금 전 수업용 계정이 생성되어 있는 storage 노드에 문제가 생겨 리붓을 하였습니다.\nstorage 노드에 문제가 생길 경우 해당 노드에 생성된 계정들은 서버 접속이 불가능해집니다.\n혹시 이후에도 수업용 계정 관련해서 비슷한 문제가 생길 경우, 따로 연락주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

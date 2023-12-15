@@ -1,0 +1,146 @@
+{
+	"array": [
+		{
+			"client_msg_id": "3ec9ad7f-e30a-4815-b251-f2d5db3578f5",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023년 추계 에듀테크학회 학술대회 개최 안내&gt;\n\n이러닝학회(에듀테크학회 개명예정)는 에듀테크 활용 확산과 에듀테크 산업 발전을 위한 심도 있는 논의와 연구를 진행하고 있으며 교수-학습자 및 산업계와의 업무 협력, 정보 교환의 장을 제공하고 있다고 합니다.\n이러닝학회에서 2023년 추계 에듀테크학회 학술대회를 다음과 같이 개최하오니 관심 있는 구성원께서는 참고하시기 바랍니다.\n   가. 주 제 : 에듀테크와 교육 혁명\n   나. 일 시 : 2023년 9월 23일(토), 13:00~17:00\n   다. 장 소 : 서울 코엑스(2023 에듀테크 코리아 페어 Edtech Arena 2)\n   라. 문 의 처 : 이러닝학회 사무국\n       - 사무국장 이영준(<tel:010-9871-6115|010-9871-6115>, <mailto:s4edtech@naver.com|s4edtech@naver.com>)\n   마. 참가신청\n     - 신청 링크:<https://ko.surveymonkey.com/r/2QVG7FZ>\n\n붙임. 2023년 추계 에듀테크학회 학술대회 프로그램 포스터",
+			"ts": "1694994301.390479",
+			"attachments": [
+				{
+					"fallback": "2023년 추계 에듀테크학회 학술대회 참가 신청",
+					"id": 1,
+					"title": "2023년 추계 에듀테크학회 학술대회 참가 신청",
+					"title_link": "https://ko.surveymonkey.com/r/2QVG7FZ",
+					"text": "Take this survey powered by <http://surveymonkey.com|surveymonkey.com>. Create your own surveys for free.",
+					"thumb_url": "https://surveymonkey-assets.s3.amazonaws.com/smtheme/stock/7d00e426-ce61-5e7d-9106-a6e4e0311e0f.png",
+					"service_name": "ko.surveymonkey.com",
+					"service_icon": "https://ko.surveymonkey.com/favicon1.ico",
+					"from_url": "https://ko.surveymonkey.com/r/2QVG7FZ",
+					"original_url": "https://ko.surveymonkey.com/r/2QVG7FZ",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F05SQCQA4HG",
+					"created": 1694994296,
+					"timestamp": 1694994296,
+					"name": "2023년 추계 에듀테크학회 학술대회 프로그램 포스터.jpg",
+					"title": "2023년 추계 에듀테크학회 학술대회 프로그램 포스터.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1677558,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05SQCQA4HG-2023년 추계 에듀테크학회 학술대회 프로그램 포스터.jpg",
+					"url_private_download": "attachments/F05SQCQA4HG-2023년 추계 에듀테크학회 학술대회 프로그램 포스터.jpg",
+					"original_h": 3543,
+					"original_w": 2657,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05SQCQA4HG-74f0622bae/2023__________________________________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05SQCQA4HG-74f0622bae/2023__________________________________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05SQCQA4HG-74f0622bae/2023__________________________________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05SQCQA4HG-74f0622bae/2023__________________________________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05SQCQA4HG-74f0622bae/2023__________________________________________________________________480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05SQCQA4HG-74f0622bae/2023__________________________________________________________________720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05SQCQA4HG-74f0622bae/2023__________________________________________________________________960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05SQCQA4HG-74f0622bae/2023__________________________________________________________________1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SQCQA4HG/2023_________________________________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05SQCQA4HG-005bc2af41",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Wefw",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 추계 에듀테크학회 학술대회 개최 안내>\n\n이러닝학회(에듀테크학회 개명예정)는 에듀테크 활용 확산과 에듀테크 산업 발전을 위한 심도 있는 논의와 연구를 진행하고 있으며 교수-학습자 및 산업계와의 업무 협력, 정보 교환의 장을 제공하고 있다고 합니다.\n이러닝학회에서 2023년 추계 에듀테크학회 학술대회를 다음과 같이 개최하오니 관심 있는 구성원께서는 참고하시기 바랍니다.\n   가. 주 제 : 에듀테크와 교육 혁명\n   나. 일 시 : 2023년 9월 23일(토), 13:00~17:00\n   다. 장 소 : 서울 코엑스(2023 에듀테크 코리아 페어 Edtech Arena 2)\n   라. 문 의 처 : 이러닝학회 사무국\n       - 사무국장 이영준(010-9871-6115, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:s4edtech@naver.com",
+									"text": "s4edtech@naver.com"
+								},
+								{
+									"type": "text",
+									"text": ")\n   마. 참가신청\n     - 신청 링크:"
+								},
+								{
+									"type": "link",
+									"url": "https://ko.surveymonkey.com/r/2QVG7FZ",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n\n붙임. 2023년 추계 에듀테크학회 학술대회 프로그램 포스터"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

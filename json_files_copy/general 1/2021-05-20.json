@@ -1,0 +1,87 @@
+[
+  {
+    "client_msg_id": "adf412a8-3d80-4886-8c33-0b45060c116b",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt; 스탠퍼드대학 Knight-Hennessy Scholars 장학 프로그램 선발 일정 홍보 \u0026gt;*\n\n미국 스탠퍼드대학(Stanford University)의 2022 나이트 헤네시(Knight-Hennessy Scholars) 장학 프로그램 선발 일정을 아래와 같이 안내 하오니 관심있는 학생분들의 많은 참여 바랍니다.\n\n\u0026lt;2022 나이트 헤네시 장학정보\u0026gt;\n\n  가. 지원대상: 스탠퍼드 대학원 석/박사 학위 진학예정자\n  나. 지원자격: 2015. 1월 ~ 2022. 9월 학사학위 취득(예정)자\n  다. 장학혜택: 스탠퍼드 대학원 학비(전액) 및 생활비 지원(3년까지) 등\n  라. 선발일정:\n    - (Application) 2021. 8. 1.(일) ~ 2021. 10. 6.(수) 13:00 (Pacific Time)\n    - (Finalist Notification) 2022. 1. 26.(수)\n    - (Immersion Weekend) 2022. 2. 25.(금) ~ 26.(토)\n    - (Decision Notification) 2022. 3. 15.(화)\n\n\u0026lt;장학 프로그램 온라인 설명회(연간 수시진행)\u0026gt;\n  가. 설명내용: 장학 프로그램 전반 및 지원절차 안내\n  나. 신청방법: \u003chttps://apply.knight-hennessy.stanford.edu/portal/admission-events\u003e 으로 개별신청\n\n  ※자세한 사항은 홈페이지 참고 바랍니다.(\u003chttps://knight-hennessy.stanford.edu/\u003e).",
+    "ts": "1621472260.008500",
+    "attachments": [
+      {
+        "fallback": "Knight-Hennessy Scholars: Knight-Hennessy Scholars at Stanford University",
+        "id": 1,
+        "title": "Knight-Hennessy Scholars at Stanford University",
+        "title_link": "https://knight-hennessy.stanford.edu/",
+        "text": "Stanford is launching an unparalleled graduate scholarship program, Knight-Hennessy Scholars, to prepare a new generation of distinguished leaders to address global challenges in the 21st century and beyond.",
+        "service_name": "Knight-Hennessy Scholars",
+        "service_icon": "https://knight-hennessy.stanford.edu/sites/all/themes/stanford_framework/favicon.ico",
+        "from_url": "https://knight-hennessy.stanford.edu/",
+        "original_url": "https://knight-hennessy.stanford.edu/",
+        "blocks": null
+      }
+    ],
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "g3J",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 스탠퍼드대학 Knight-Hennessy Scholars 장학 프로그램 선발 일정 홍보 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n미국 스탠퍼드대학(Stanford University)의 2022 나이트 헤네시(Knight-Hennessy Scholars) 장학 프로그램 선발 일정을 아래와 같이 안내 하오니 관심있는 학생분들의 많은 참여 바랍니다.\n\n\u003c2022 나이트 헤네시 장학정보\u003e\n\n  가. 지원대상: 스탠퍼드 대학원 석/박사 학위 진학예정자\n  나. 지원자격: 2015. 1월 ~ 2022. 9월 학사학위 취득(예정)자\n  다. 장학혜택: 스탠퍼드 대학원 학비(전액) 및 생활비 지원(3년까지) 등\n  라. 선발일정:\n    - (Application) 2021. 8. 1.(일) ~ 2021. 10. 6.(수) 13:00 (Pacific Time)\n    - (Finalist Notification) 2022. 1. 26.(수)\n    - (Immersion Weekend) 2022. 2. 25.(금) ~ 26.(토)\n    - (Decision Notification) 2022. 3. 15.(화)\n\n\u003c장학 프로그램 온라인 설명회(연간 수시진행)\u003e\n  가. 설명내용: 장학 프로그램 전반 및 지원절차 안내\n  나. 신청방법: "
+              },
+              {
+                "type": "link",
+                "url": "https://apply.knight-hennessy.stanford.edu/portal/admission-events",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " 으로 개별신청\n\n  ※자세한 사항은 홈페이지 참고 바랍니다.("
+              },
+              {
+                "type": "link",
+                "url": "https://knight-hennessy.stanford.edu/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ")."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

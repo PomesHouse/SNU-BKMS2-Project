@@ -1,273 +1,275 @@
-[
-  {
-    "client_msg_id": "60f3e4e0-a6bc-471d-98ed-683feba14917",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021학년도 2학기 최종등록 일정 안내\u0026gt;\n\n2021학년도 2학기 정규 등록기간에 등록하지 않은 학생을 대상으로 2021년 9월 27일(월) ~9월 29일(수) 까지 등록을 실시합니다.\n\n등록하지 않은 학생분께서는 확인하여 미등록 제적처리가 되지 않도록 해 주시기 바랍니다.",
-    "ts": "1632460344.102500",
-    "files": [
-      {
-        "id": "F02FHGK8A5R",
-        "created": 1632460339,
-        "timestamp": 1632460339,
-        "name": "1. 2021학년도 제2학기 등록금 수납계획(재무과)-복사.pdf",
-        "title": "1. 2021학년도 제2학기 등록금 수납계획(재무과)-복사.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 6086377,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02FHGK8A5R-1. 2021학년도 제2학기 등록금 수납계획(재무과)-복사.pdf",
-        "url_private_download": "attachments/F02FHGK8A5R-1. 2021학년도 제2학기 등록금 수납계획(재무과)-복사.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02FHGK8A5R/1._2021_____________2________________________________________-______.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02FHGK8A5R-41bf0a3988",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "0/o",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 2학기 최종등록 일정 안내\u003e\n\n2021학년도 2학기 정규 등록기간에 등록하지 않은 학생을 대상으로 2021년 9월 27일(월) ~9월 29일(수) 까지 등록을 실시합니다.\n\n등록하지 않은 학생분께서는 확인하여 미등록 제적처리가 되지 않도록 해 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "b015bd3d-0c52-454b-a4c8-56e31e9940d8",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021년 인플루엔자(독감) 예방접종 안내\u0026gt;\n\n우리 대학 보건소에서 2021년 인플루엔자(독감) 예방접종을 실시할 예정입니다. 접종을 희망하는 학생분들은 아래 내용 참고 하시어 신청해 주시기 바랍니다 :slightly_smiling_face:\n\n\u0026lt;주요내용\u0026gt;\n1. 접종기간: 2021.10.12.(화) ~ 10.26.(화) 10일간\n2. *접종예약기간: 2021.9.29.(수) ~ 예약 수량 마감 시까지*\n3. 시간: 09:00 ~ 17:00 (점심시간 12:00 ~ 13:00 제외)\n4. 장소: 63동 학생회관 3층 보건진료소\n5. 문의처 :phone: 02-880-5338\n6. 비용: 33,000원\n※ 온라인 사전 예약 필수\n보건진료소 홈페이지(예약방법: 보건진료소 홈페이지(\u003chttp://health4u.snu.ac.kr\u003e) :arrow_forward: 진료과/의료진 :arrow_forward: 진료예약\n   - 진료과목: 관악/연건 독감예방접종 1~5 중 선택\n   - 의료진: 일반 선택 (원하는 날짜/시간 선택 후 예약)",
-    "ts": "1632465198.106100",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1632465701.000000"
-    },
-    "files": [
-      {
-        "id": "F02FWA9U16V",
-        "created": 1632465195,
-        "timestamp": 1632465195,
-        "name": "[포스터]인플루엔자(독감) 예방접종_국문.jpg",
-        "title": "[포스터]인플루엔자(독감) 예방접종_국문.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 332144,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02FWA9U16V-[포스터]인플루엔자(독감) 예방접종_국문.jpg",
-        "url_private_download": "attachments/F02FWA9U16V-[포스터]인플루엔자(독감) 예방접종_국문.jpg",
-        "original_h": 1587,
-        "original_w": 1123,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________480.jpg",
-        "thumb_480_w": 340,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________1024.jpg",
-        "thumb_1024_w": 725,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02FWA9U16V/______________________________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02FWA9U16V-328be4b180",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "=0h+y",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021년 인플루엔자(독감) 예방접종 안내\u003e\n\n우리 대학 보건소에서 2021년 인플루엔자(독감) 예방접종을 실시할 예정입니다. 접종을 희망하는 학생분들은 아래 내용 참고 하시어 신청해 주시기 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n\u003c주요내용\u003e\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc885\\uae30\\uac04: 2021.10.12.(\\ud654) ~ 10.26.(\\ud654) 10\\uc77c\\uac04\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc885\\uc608\\uc57d\\uae30\\uac04: 2021.9.29.(\\uc218) ~ \\uc608\\uc57d \\uc218\\ub7c9 \\ub9c8\\uac10 \\uc2dc\\uae4c\\uc9c0\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2dc\\uac04: 09:00 ~ 17:00 (\\uc810\\uc2ec\\uc2dc\\uac04 12:00 ~ 13:00 \\uc81c\\uc678)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: 63\\ub3d9 \\ud559\\uc0dd\\ud68c\\uad00 3\\uce35 \\ubcf4\\uac74\\uc9c4\\ub8cc\\uc18c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubb38\\uc758\\ucc98 \"},{\"type\":\"emoji\",\"name\":\"phone\",\"unicode\":\"260e-fe0f\"},{\"type\":\"text\",\"text\":\" 02-880-5338\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ube44\\uc6a9: 33,000\\uc6d0\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "※ 온라인 사전 예약 필수\n보건진료소 홈페이지(예약방법: 보건진료소 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "http://health4u.snu.ac.kr",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") "
-              },
-              {
-                "type": "emoji",
-                "name": "arrow_forward",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 진료과/의료진 "
-              },
-              {
-                "type": "emoji",
-                "name": "arrow_forward",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 진료예약\n   - 진료과목: 관악/연건 독감예방접종 1~5 중 선택\n   - 의료진: 일반 선택 (원하는 날짜/시간 선택 후 예약)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "60f3e4e0-a6bc-471d-98ed-683feba14917",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021학년도 2학기 최종등록 일정 안내&gt;\n\n2021학년도 2학기 정규 등록기간에 등록하지 않은 학생을 대상으로 2021년 9월 27일(월) ~9월 29일(수) 까지 등록을 실시합니다.\n\n등록하지 않은 학생분께서는 확인하여 미등록 제적처리가 되지 않도록 해 주시기 바랍니다.",
+			"ts": "1632460344.102500",
+			"files": [
+				{
+					"id": "F02FHGK8A5R",
+					"created": 1632460339,
+					"timestamp": 1632460339,
+					"name": "1. 2021학년도 제2학기 등록금 수납계획(재무과)-복사.pdf",
+					"title": "1. 2021학년도 제2학기 등록금 수납계획(재무과)-복사.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 6086377,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02FHGK8A5R-1. 2021학년도 제2학기 등록금 수납계획(재무과)-복사.pdf",
+					"url_private_download": "attachments/F02FHGK8A5R-1. 2021학년도 제2학기 등록금 수납계획(재무과)-복사.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02FHGK8A5R/1._2021_____________2________________________________________-______.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02FHGK8A5R-41bf0a3988",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "0/o",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 2학기 최종등록 일정 안내>\n\n2021학년도 2학기 정규 등록기간에 등록하지 않은 학생을 대상으로 2021년 9월 27일(월) ~9월 29일(수) 까지 등록을 실시합니다.\n\n등록하지 않은 학생분께서는 확인하여 미등록 제적처리가 되지 않도록 해 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "b015bd3d-0c52-454b-a4c8-56e31e9940d8",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021년 인플루엔자(독감) 예방접종 안내&gt;\n\n우리 대학 보건소에서 2021년 인플루엔자(독감) 예방접종을 실시할 예정입니다. 접종을 희망하는 학생분들은 아래 내용 참고 하시어 신청해 주시기 바랍니다 :slightly_smiling_face:\n\n&lt;주요내용&gt;\n1. 접종기간: 2021.10.12.(화) ~ 10.26.(화) 10일간\n2. *접종예약기간: 2021.9.29.(수) ~ 예약 수량 마감 시까지*\n3. 시간: 09:00 ~ 17:00 (점심시간 12:00 ~ 13:00 제외)\n4. 장소: 63동 학생회관 3층 보건진료소\n5. 문의처 :phone: 02-880-5338\n6. 비용: 33,000원\n※ 온라인 사전 예약 필수\n보건진료소 홈페이지(예약방법: 보건진료소 홈페이지(<http://health4u.snu.ac.kr>) :arrow_forward: 진료과/의료진 :arrow_forward: 진료예약\n   - 진료과목: 관악/연건 독감예방접종 1~5 중 선택\n   - 의료진: 일반 선택 (원하는 날짜/시간 선택 후 예약)",
+			"ts": "1632465198.106100",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1632465701.000000"
+			},
+			"files": [
+				{
+					"id": "F02FWA9U16V",
+					"created": 1632465195,
+					"timestamp": 1632465195,
+					"name": "[포스터]인플루엔자(독감) 예방접종_국문.jpg",
+					"title": "[포스터]인플루엔자(독감) 예방접종_국문.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 332144,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02FWA9U16V-[포스터]인플루엔자(독감) 예방접종_국문.jpg",
+					"url_private_download": "attachments/F02FWA9U16V-[포스터]인플루엔자(독감) 예방접종_국문.jpg",
+					"original_h": 1587,
+					"original_w": 1123,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________480.jpg",
+					"thumb_480_w": 340,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02FWA9U16V-c94b8d0f3d/_______________________________________________________1024.jpg",
+					"thumb_1024_w": 725,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02FWA9U16V/______________________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02FWA9U16V-328be4b180",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "=0h+y",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021년 인플루엔자(독감) 예방접종 안내>\n\n우리 대학 보건소에서 2021년 인플루엔자(독감) 예방접종을 실시할 예정입니다. 접종을 희망하는 학생분들은 아래 내용 참고 하시어 신청해 주시기 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n<주요내용>\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc885\\uae30\\uac04: 2021.10.12.(\\ud654) ~ 10.26.(\\ud654) 10\\uc77c\\uac04\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc885\\uc608\\uc57d\\uae30\\uac04: 2021.9.29.(\\uc218) ~ \\uc608\\uc57d \\uc218\\ub7c9 \\ub9c8\\uac10 \\uc2dc\\uae4c\\uc9c0\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2dc\\uac04: 09:00 ~ 17:00 (\\uc810\\uc2ec\\uc2dc\\uac04 12:00 ~ 13:00 \\uc81c\\uc678)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: 63\\ub3d9 \\ud559\\uc0dd\\ud68c\\uad00 3\\uce35 \\ubcf4\\uac74\\uc9c4\\ub8cc\\uc18c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubb38\\uc758\\ucc98 \"},{\"type\":\"emoji\",\"name\":\"phone\",\"unicode\":\"260e-fe0f\"},{\"type\":\"text\",\"text\":\" 02-880-5338\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ube44\\uc6a9: 33,000\\uc6d0\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "※ 온라인 사전 예약 필수\n보건진료소 홈페이지(예약방법: 보건진료소 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "http://health4u.snu.ac.kr",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") "
+								},
+								{
+									"type": "emoji",
+									"name": "arrow_forward",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 진료과/의료진 "
+								},
+								{
+									"type": "emoji",
+									"name": "arrow_forward",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 진료예약\n   - 진료과목: 관악/연건 독감예방접종 1~5 중 선택\n   - 의료진: 일반 선택 (원하는 날짜/시간 선택 후 예약)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

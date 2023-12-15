@@ -1,0 +1,78 @@
+[
+  {
+    "client_msg_id": "d83a7dae-3288-42bc-8d92-7b5ea4bc4514",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "2022년「사회봉사활동 체험수기」공모 안내\n\n우리 사회 각 분야에서 헌신적인 봉사활동으로 나눔과 배려의 정신을 실천하는 학생들의 체험수기를 공모하여 포상하고자 2022년 사회봉사활동 체험수기 공모 계획을 알려드리니, 관심 있는 학생께서는 참여하여 주시기 바랍니다.\n  가. 공모대상: 학생들의 사회봉사활동 체험수기\n  나. 공모기간: *2022. 9. 19.(월)까지*\n  다. 신청방법: 제출 서류 양식 및 봉사 증빙서류를 작성하여 담당자 이메일(*\u003cmailto:song03@snu.ac.kr|song03@snu.ac.kr\u003e*)로 제출\n  라. 선발인원: 약간 명(최우수, 우수, 장려)\n  마. 시상내용: 상장 및 부상(학업장려금), 학적부 등재\n    *※ 2022. 10. 14.(금) 개교기념식에 시상 예정이나, 코로나-19 상황 등에 따라 시상일자 및 방법은 변경될 수 있음*",
+    "ts": "1663031328.603619",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GU1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2022년「사회봉사활동 체험수기」공모 안내\n\n우리 사회 각 분야에서 헌신적인 봉사활동으로 나눔과 배려의 정신을 실천하는 학생들의 체험수기를 공모하여 포상하고자 2022년 사회봉사활동 체험수기 공모 계획을 알려드리니, 관심 있는 학생께서는 참여하여 주시기 바랍니다.\n  가. 공모대상: 학생들의 사회봉사활동 체험수기\n  나. 공모기간: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 9. 19.(월)까지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  다. 신청방법: 제출 서류 양식 및 봉사 증빙서류를 작성하여 담당자 이메일("
+              },
+              {
+                "type": "link",
+                "url": "mailto:song03@snu.ac.kr",
+                "text": "song03@snu.ac.kr",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ")로 제출\n  라. 선발인원: 약간 명(최우수, 우수, 장려)\n  마. 시상내용: 상장 및 부상(학업장려금), 학적부 등재\n"
+              },
+              {
+                "type": "text",
+                "text": "    ※ 2022. 10. 14.(금) 개교기념식에 시상 예정이나, 코로나-19 상황 등에 따라 시상일자 및 방법은 변경될 수 있음",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

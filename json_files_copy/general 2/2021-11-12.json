@@ -1,0 +1,264 @@
+[
+  {
+    "client_msg_id": "f241dc07-38c3-4af2-a981-9c44bf364712",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt; 독일정부초청장학생(DAAD 장학생) 모집 \u0026gt;\n 주한독일고등교육진흥원(DAAD)에서 독일정부초청장학생(DAAD 장학생)을 아래와 같이 선발하오니 관심있는 학생분들의 많은 참여 바랍니다. :allo-tongue:\n\n\u0026gt; DAAD 독일 현지 섬머코스 장학금 2022 \n1. 장학금명: DAAD 독일 현지 섬머코스 장학금 2022\n2. 지원자격: 학사 및 석사과정 학생(전공불문, 장학금 수혜시점에 학사 2학년 이상을 마 쳐야 하며 학생으로 등록되어 있어야 함)\n3. 장학기간: 2022년 6월 - 11월\n4. 지원방법: 온라인 지원(\u003chttps://www.daad.or.kr/de/\u003e, 첨부 참조)\n5. 관련 문의: 주한독일고등교육진흥원(DAAD) 나자영(전화: 02-324-0655)",
+    "ts": "1636679664.046500",
+    "attachments": [
+      {
+        "fallback": "DAAD Südkorea: Startseite",
+        "id": 1,
+        "title": "Startseite",
+        "title_link": "https://www.daad.or.kr/de/",
+        "text": "주한독일고등교육진흥원 홈페이지",
+        "service_name": "DAAD Südkorea",
+        "service_icon": "https://www.daad.or.kr/favicon.ico",
+        "from_url": "https://www.daad.or.kr/de/",
+        "original_url": "https://www.daad.or.kr/de/",
+        "blocks": null
+      }
+    ],
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZlH9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 독일정부초청장학생(DAAD 장학생) 모집 \u003e\n 주한독일고등교육진흥원(DAAD)에서 독일정부초청장학생(DAAD 장학생)을 아래와 같이 선발하오니 관심있는 학생분들의 많은 참여 바랍니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "allo-tongue",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_quote",
+            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"DAAD \\ub3c5\\uc77c \\ud604\\uc9c0 \\uc12c\\uba38\\ucf54\\uc2a4 \\uc7a5\\ud559\\uae08 2022 \"}]}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "1. 장학금명: DAAD 독일 현지 섬머코스 장학금 2022\n2. 지원자격: 학사 및 석사과정 학생(전공불문, 장학금 수혜시점에 학사 2학년 이상을 마 쳐야 하며 학생으로 등록되어 있어야 함)\n3. 장학기간: 2022년 6월 - 11월\n4. 지원방법: 온라인 지원("
+              },
+              {
+                "type": "link",
+                "url": "https://www.daad.or.kr/de/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ", 첨부 참조)\n5. 관련 문의: 주한독일고등교육진흥원(DAAD) 나자영(전화: 02-324-0655)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "54410304-57d1-4e91-9c68-b5d83dc55ee5",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt; *2021학년도 동계 Study Abroad Program (SAP) 추가 모집 안내 \u0026gt;*\n\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 *2021학년도 동계 Study Abroad Program (SAP)* 참가자를 *추가 모집*하오니 관심있는 학생분들의 많은 참여 바랍니다 :blob-grin:\n  가. 일정\n    - 지원서류 제출: *2021.11.19.(금)까지 \u0026lt;지원자 → 국제협력본부 담당자\u0026gt;*\n    - 1차 합격자 발표: 2021.11.23.(화)\n    - 면접: 2021.11.24.(수)\n    - 최종 합격자 발표: 2021.11.30.(화)\n  나. 문의: 국제협력본부 김현진 (\u003cmailto:rufinahjkim@snu.ac.kr|rufinahjkim@snu.ac.kr\u003e/ 02-880-4357)\n\n관련하여 자세한 내용은 첨부의 양식 및 가이드라인 참고 바랍니다.",
+    "ts": "1636680026.047600",
+    "files": [
+      {
+        "id": "F02M310T9TM",
+        "created": 1636680023,
+        "timestamp": 1636680023,
+        "name": "양식 및 가이드라인.zip",
+        "title": "양식 및 가이드라인.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 699309,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02M310T9TM-양식 및 가이드라인.zip",
+        "url_private_download": "attachments/F02M310T9TM-양식 및 가이드라인.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02M310T9TM/__________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02M310T9TM-076e888cb0",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5kleY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c "
+              },
+              {
+                "type": "text",
+                "text": "2021학년도 동계 Study Abroad Program (SAP) 추가 모집 안내 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 "
+              },
+              {
+                "type": "text",
+                "text": "2021학년도 동계 Study Abroad Program (SAP) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "참가자를"
+              },
+              {
+                "type": "text",
+                "text": " 추가 모집",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하오니 관심있는 학생분들의 많은 참여 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "blob-grin",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n  가. 일정\n    - 지원서류 제출: "
+              },
+              {
+                "type": "text",
+                "text": "2021.11.19.(금)까지 \u003c지원자 → 국제협력본부 담당자\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    - 1차 합격자 발표: 2021.11.23.(화)\n    - 면접: 2021.11.24.(수)\n    - 최종 합격자 발표: 2021.11.30.(화)\n  나. 문의: 국제협력본부 김현진 ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:rufinahjkim@snu.ac.kr",
+                "text": "rufinahjkim@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "/ 02-880-4357)\n\n관련하여 자세한 내용은 첨부의 양식 및 가이드라인 참고 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

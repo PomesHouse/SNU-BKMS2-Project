@@ -1,253 +1,255 @@
-[
-  {
-    "client_msg_id": "0764a7e2-a90c-4ef0-b9f0-df3f956c39c8",
-    "type": "message",
-    "user": "U040ENMTCEA",
-    "text": "안녕하세요, 3.5기 석사과정 김영훈입니다.\nLeetcode를 github과 연동시켜주는 *Leethub-2.0*이라는 extension을 소개해드리려고 합니다.\n\n\nLeetHub은 원작자인 QasimWani가 업데이트를 하고 있지 않아 Leetcode의 새로운 UI에서 작동하지 않는 이슈가 있습니다.\n따라서 많은 분들이 구버전 UI에서 해당 크롬 익스텐션을 사용 중인 것으로 알고 있습니다.\n\n\n이에 새로운 UI에서도 작동하는 \u003chttps://github.com/arunbhardwaj|arunbhardwaj\u003e의 *LeetHub-2.0*를 이용해,\n제가 커스터마이징한 익스텐션을 공유드리려고 합니다.\n\n\n\u0026gt; 사용가능한 웹 브라우저는 *Safari* 와 *Chrome*입니다.\n\u0026gt; 난이도에 따라 깃헙 폴더 생성 및 업로드가 가능하며,\n\u0026gt; \u003chttp://Shields.io|Shields.io\u003e Badge를 Readme에 삽입했습니다.\n\u0026gt; \n\u0026gt; 자세한 사항들은 아래 제 깃헙을 참고해주시면 될 듯합니다.\n\u0026gt; 퍼가실 때는 원작자나 소스를  밝혀주시면 감사하겠습니다.\n\u0026gt; git : \u003chttps://github.com/Zaquum/LeetHub-in-Safari\u003e",
-    "ts": "1688792605.924689",
-    "edited": {
-      "user": "U040ENMTCEA",
-      "ts": "1688805737.000000"
-    },
-    "files": [
-      {
-        "id": "F05GTCZJ7S4",
-        "created": 1688792291,
-        "timestamp": 1688792291,
-        "name": "difficulty.png",
-        "title": "difficulty.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U040ENMTCEA",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 68902,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05GTCZJ7S4-difficulty.png",
-        "url_private_download": "attachments/F05GTCZJ7S4-difficulty.png",
-        "original_h": 327,
-        "original_w": 1571,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 75,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 100,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 150,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 200,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 213,
-        "permalink": "https://snugsds.slack.com/files/U040ENMTCEA/F05GTCZJ7S4/difficulty.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GTCZJ7S4-39a79eddcd",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05FP5JUEJ3",
-        "created": 1688792347,
-        "timestamp": 1688792347,
-        "name": "스크린샷 2023-07-08 오후 1.58.44.png",
-        "title": "스크린샷 2023-07-08 오후 1.58.44.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U040ENMTCEA",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 31300,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05FP5JUEJ3-스크린샷 2023-07-08 오후 1.58.44.png",
-        "url_private_download": "attachments/F05FP5JUEJ3-스크린샷 2023-07-08 오후 1.58.44.png",
-        "original_h": 268,
-        "original_w": 524,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 184,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 245,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U040ENMTCEA/F05FP5JUEJ3/_______________________________2023-07-08______________1.58.44.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05FP5JUEJ3-e4fe92f80c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 25,
-        "users": [
-          "U0406PM050F",
-          "U04QE49LL6R",
-          "U01R678KWP2",
-          "U041B24HMFS",
-          "U0406PLJWCX",
-          "U02UJC5BU8P",
-          "U040MB3TGSE",
-          "U02UT1YMCDQ",
-          "U04QE4ASJP7",
-          "U02UT1XUGFL",
-          "U04QAE84G5U",
-          "U040ZVCKKND",
-          "U04RD26CJ5N",
-          "U02UT1YNY6N",
-          "U04QE49GV45",
-          "U02V5LT4DLZ",
-          "U040C40QE6T",
-          "U04R20KG9JM",
-          "U040M7VULN7",
-          "U02P4QDPG2W",
-          "U01QGJL6SP5",
-          "U040MB432JW",
-          "U01Q1KFN4JK",
-          "U04131QR6MA",
-          "U041B24C16U"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 2,
-        "users": [
-          "U02V5LTRU2V",
-          "U02V5LTPGRX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ZqK",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 3.5기 석사과정 김영훈입니다.\nLeetcode를 github과 연동시켜주는 "
-              },
-              {
-                "type": "text",
-                "text": "Leethub-2.0",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "이라는 extension을 소개해드리려고 합니다.\n\n\nLeetHub은 원작자인 QasimWani가 업데이트를 하고 있지 않아 Leetcode의 새로운 UI에서 작동하지 않는 이슈가 있습니다.\n따라서 많은 분들이 구버전 UI에서 해당 크롬 익스텐션을 사용 중인 것으로 알고 있습니다.\n\n\n이에 새로운 UI에서도 작동하는 "
-              },
-              {
-                "type": "link",
-                "url": "https://github.com/arunbhardwaj",
-                "text": "arunbhardwaj"
-              },
-              {
-                "type": "text",
-                "text": "의 "
-              },
-              {
-                "type": "text",
-                "text": "LeetHub-2.0",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "를 이용해,\n제가 커스터마이징한 익스텐션을 공유드리려고 합니다.\n\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_quote",
-            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc6a9\\uac00\\ub2a5\\ud55c \\uc6f9 \\ube0c\\ub77c\\uc6b0\\uc800\\ub294 \"},{\"type\":\"text\",\"text\":\"Safari \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc640\"},{\"type\":\"text\",\"text\":\" Chrome\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc785\\ub2c8\\ub2e4.\\n\\ub09c\\uc774\\ub3c4\\uc5d0 \\ub530\\ub77c \\uae43\\ud5d9 \\ud3f4\\ub354 \\uc0dd\\uc131 \\ubc0f \\uc5c5\\ub85c\\ub4dc\\uac00 \\uac00\\ub2a5\\ud558\\uba70,\\n\"},{\"type\":\"link\",\"url\":\"http:\\/\\/Shields.io\",\"text\":\"Shields.io\"},{\"type\":\"text\",\"text\":\" Badge\\ub97c Readme\\uc5d0 \\uc0bd\\uc785\\ud588\\uc2b5\\ub2c8\\ub2e4.\\n\\n\\uc790\\uc138\\ud55c \\uc0ac\\ud56d\\ub4e4\\uc740 \\uc544\\ub798 \\uc81c \\uae43\\ud5d9\\uc744 \\ucc38\\uace0\\ud574\\uc8fc\\uc2dc\\uba74 \\ub420 \\ub4ef\\ud569\\ub2c8\\ub2e4.\\n\\ud37c\\uac00\\uc2e4 \\ub54c\\ub294 \\uc6d0\\uc791\\uc790\\ub098 \\uc18c\\uc2a4\\ub97c  \\ubc1d\\ud600\\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\\ngit : \"},{\"type\":\"link\",\"url\":\"https:\\/\\/github.com\\/Zaquum\\/LeetHub-in-Safari\"}]}"
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/dcae2b053c29031f76265dcd9441003d.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
-      "first_name": "3.5기_김영훈",
-      "real_name": "3.5기_김영훈",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "yh.alex.kim",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "0764a7e2-a90c-4ef0-b9f0-df3f956c39c8",
+			"type": "message",
+			"user": "U040ENMTCEA",
+			"text": "안녕하세요, 3.5기 석사과정 김영훈입니다.\nLeetcode를 github과 연동시켜주는 *Leethub-2.0*이라는 extension을 소개해드리려고 합니다.\n\n\nLeetHub은 원작자인 QasimWani가 업데이트를 하고 있지 않아 Leetcode의 새로운 UI에서 작동하지 않는 이슈가 있습니다.\n따라서 많은 분들이 구버전 UI에서 해당 크롬 익스텐션을 사용 중인 것으로 알고 있습니다.\n\n\n이에 새로운 UI에서도 작동하는 <https://github.com/arunbhardwaj|arunbhardwaj>의 *LeetHub-2.0*를 이용해,\n제가 커스터마이징한 익스텐션을 공유드리려고 합니다.\n\n\n&gt; 사용가능한 웹 브라우저는 *Safari* 와 *Chrome*입니다.\n&gt; 난이도에 따라 깃헙 폴더 생성 및 업로드가 가능하며,\n&gt; <http://Shields.io|Shields.io> Badge를 Readme에 삽입했습니다.\n&gt; \n&gt; 자세한 사항들은 아래 제 깃헙을 참고해주시면 될 듯합니다.\n&gt; 퍼가실 때는 원작자나 소스를  밝혀주시면 감사하겠습니다.\n&gt; git : <https://github.com/Zaquum/LeetHub-in-Safari>",
+			"ts": "1688792605.924689",
+			"edited": {
+				"user": "U040ENMTCEA",
+				"ts": "1688805737.000000"
+			},
+			"files": [
+				{
+					"id": "F05GTCZJ7S4",
+					"created": 1688792291,
+					"timestamp": 1688792291,
+					"name": "difficulty.png",
+					"title": "difficulty.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U040ENMTCEA",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 68902,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05GTCZJ7S4-difficulty.png",
+					"url_private_download": "attachments/F05GTCZJ7S4-difficulty.png",
+					"original_h": 327,
+					"original_w": 1571,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 75,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 100,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 150,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 200,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05GTCZJ7S4-0b76e44803/difficulty_1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 213,
+					"permalink": "https://snugsds.slack.com/files/U040ENMTCEA/F05GTCZJ7S4/difficulty.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05GTCZJ7S4-39a79eddcd",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05FP5JUEJ3",
+					"created": 1688792347,
+					"timestamp": 1688792347,
+					"name": "스크린샷 2023-07-08 오후 1.58.44.png",
+					"title": "스크린샷 2023-07-08 오후 1.58.44.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U040ENMTCEA",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 31300,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05FP5JUEJ3-스크린샷 2023-07-08 오후 1.58.44.png",
+					"url_private_download": "attachments/F05FP5JUEJ3-스크린샷 2023-07-08 오후 1.58.44.png",
+					"original_h": 268,
+					"original_w": 524,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 184,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05FP5JUEJ3-0534302116/_______________________________2023-07-08______________1.58.44_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 245,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U040ENMTCEA/F05FP5JUEJ3/_______________________________2023-07-08______________1.58.44.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05FP5JUEJ3-e4fe92f80c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 25,
+					"users": [
+						"U0406PM050F",
+						"U04QE49LL6R",
+						"U01R678KWP2",
+						"U041B24HMFS",
+						"U0406PLJWCX",
+						"U02UJC5BU8P",
+						"U040MB3TGSE",
+						"U02UT1YMCDQ",
+						"U04QE4ASJP7",
+						"U02UT1XUGFL",
+						"U04QAE84G5U",
+						"U040ZVCKKND",
+						"U04RD26CJ5N",
+						"U02UT1YNY6N",
+						"U04QE49GV45",
+						"U02V5LT4DLZ",
+						"U040C40QE6T",
+						"U04R20KG9JM",
+						"U040M7VULN7",
+						"U02P4QDPG2W",
+						"U01QGJL6SP5",
+						"U040MB432JW",
+						"U01Q1KFN4JK",
+						"U04131QR6MA",
+						"U041B24C16U"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 2,
+					"users": [
+						"U02V5LTRU2V",
+						"U02V5LTPGRX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ZqK",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 3.5기 석사과정 김영훈입니다.\nLeetcode를 github과 연동시켜주는 "
+								},
+								{
+									"type": "text",
+									"text": "Leethub-2.0",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "이라는 extension을 소개해드리려고 합니다.\n\n\nLeetHub은 원작자인 QasimWani가 업데이트를 하고 있지 않아 Leetcode의 새로운 UI에서 작동하지 않는 이슈가 있습니다.\n따라서 많은 분들이 구버전 UI에서 해당 크롬 익스텐션을 사용 중인 것으로 알고 있습니다.\n\n\n이에 새로운 UI에서도 작동하는 "
+								},
+								{
+									"type": "link",
+									"url": "https://github.com/arunbhardwaj",
+									"text": "arunbhardwaj"
+								},
+								{
+									"type": "text",
+									"text": "의 "
+								},
+								{
+									"type": "text",
+									"text": "LeetHub-2.0",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "를 이용해,\n제가 커스터마이징한 익스텐션을 공유드리려고 합니다.\n\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_quote",
+							"Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc6a9\\uac00\\ub2a5\\ud55c \\uc6f9 \\ube0c\\ub77c\\uc6b0\\uc800\\ub294 \"},{\"type\":\"text\",\"text\":\"Safari \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc640\"},{\"type\":\"text\",\"text\":\" Chrome\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc785\\ub2c8\\ub2e4.\\n\\ub09c\\uc774\\ub3c4\\uc5d0 \\ub530\\ub77c \\uae43\\ud5d9 \\ud3f4\\ub354 \\uc0dd\\uc131 \\ubc0f \\uc5c5\\ub85c\\ub4dc\\uac00 \\uac00\\ub2a5\\ud558\\uba70,\\n\"},{\"type\":\"link\",\"url\":\"http:\\/\\/Shields.io\",\"text\":\"Shields.io\"},{\"type\":\"text\",\"text\":\" Badge\\ub97c Readme\\uc5d0 \\uc0bd\\uc785\\ud588\\uc2b5\\ub2c8\\ub2e4.\\n\\n\\uc790\\uc138\\ud55c \\uc0ac\\ud56d\\ub4e4\\uc740 \\uc544\\ub798 \\uc81c \\uae43\\ud5d9\\uc744 \\ucc38\\uace0\\ud574\\uc8fc\\uc2dc\\uba74 \\ub420 \\ub4ef\\ud569\\ub2c8\\ub2e4.\\n\\ud37c\\uac00\\uc2e4 \\ub54c\\ub294 \\uc6d0\\uc791\\uc790\\ub098 \\uc18c\\uc2a4\\ub97c  \\ubc1d\\ud600\\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\\ngit : \"},{\"type\":\"link\",\"url\":\"https:\\/\\/github.com\\/Zaquum\\/LeetHub-in-Safari\"}]}"
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/dcae2b053c29031f76265dcd9441003d.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+				"first_name": "3.5기_김영훈",
+				"real_name": "3.5기_김영훈",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "yh.alex.kim",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

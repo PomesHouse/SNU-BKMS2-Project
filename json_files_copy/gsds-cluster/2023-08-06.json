@@ -1,0 +1,127 @@
+[
+  {
+    "client_msg_id": "df626917-e634-4782-9d03-73bc8b088d1c",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "\u003c!channel\u003e\n:bangbang:*서버실 개편 공지*:bangbang:\n다음 주 월요일(8월 7일) 로 예정되어 있던 *서버 이전 작업이 화요일(8월 8일)로 연기*되었습니다.\n이에 따라 데이터 백업 기한도 *8월 7일(월요일) 자정까지로 하루 더 연장*하기로 하였습니다.\n서버 개편과 함께 지워진 데이터는 절대 복구할 수 없으니 중요한 데이터는 꼭 백업해두시기 바랍니다.\n*작업 완료 예상 기한은 8월 13일(일요일)*이며, 작업이 완료되는 데로 새로운 서버 사용 메뉴얼과 계정을 배포할 계획입니다.\n\n마지막으로, *각 랩의 대표자 분들께서는 데이터 백업을 하지 않은 인원이 있는지 꼭 한번 확인*해주시기 바랍니다.",
+    "ts": "1691303634.372839",
+    "edited": {
+      "user": "U01R67PKD7S",
+      "ts": "1691303672.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zOsp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "bangbang",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "서버실 개편 공지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "bangbang",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n다음 주 월요일(8월 7일) 로 예정되어 있던 "
+              },
+              {
+                "type": "text",
+                "text": "서버 이전 작업이 화요일(8월 8일)로 연기",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "되었습니다.\n이에 따라 데이터 백업 기한도 "
+              },
+              {
+                "type": "text",
+                "text": "8월 7일(월요일) 자정까지로 하루 더 연장",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하기로 하였습니다.\n서버 개편과 함께 지워진 데이터는 절대 복구할 수 없으니 중요한 데이터는 꼭 백업해두시기 바랍니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "작업 완료 예상 기한은 8월 13일(일요일)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "이며, 작업이 완료되는 데로 새로운 서버 사용 메뉴얼과 계정을 배포할 계획입니다.\n\n마지막으로, "
+              },
+              {
+                "type": "text",
+                "text": "각 랩의 대표자 분들께서는 데이터 백업을 하지 않은 인원이 있는지 꼭 한번 확인",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "해주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

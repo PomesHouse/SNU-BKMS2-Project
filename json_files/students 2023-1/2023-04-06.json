@@ -1,311 +1,313 @@
-[
-  {
-    "client_msg_id": "3ea5c36d-cfb1-4d8c-b22a-638c1b4a5637",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": ":pizza:*FPS(Friday Pizza Seminar)*:pizza:\n\n안녕하세요, 학생회에서 알립니다:loudspeaker:\n이번 학기부터 격주 금요일 점심시간에 학생들의 자유로운 참여로 진행되는 _Friday Pizza 세미나(가명, 좋은 이름 추천받아요_:blush:_)_가 개최됩니다.\n첫 시작은 박사님들이 수고해 주시지만, 모두가 자유롭게 참여 가능하므로 언제든지 저에게 DM으로 신청해 주시면 감사하겠습니다!\n다음 주 금요일 4월 14일부터 격주로 진행될 예정이니 참고 바랍니다.\n\n------------------------------------------------------------------------------------------\n• 일시: 4월 14일 금요일, 12시 10분 ~ 1시 10분 (약 1시간)\n• 장소: 942동 302호\n• 발표자: 남기성, 장지수\n• 점심: 피자 제공, 참여 인원 파악을 위해 아래 피자 이모지:pizza:를 눌러주세요!\n• 발표 언어: 영어\n------------------------------------------------------------------------------------------\n\n다음주 금요일에 있을 발표 주제 간략하게 소개드리겠습니다.\n\n*\u003c@U01PVEU1A07\u003e (이승근 교수님 연구실)*\n• 제목 : Genome-wide study on 72,298 individuals in Korean biobank data for 76 traits\n• 요약 : Genome-wide association studies (GWAS) on diverse ancestry groups are lacking, resulting in deficits of genetic discoveries and polygenic scores. We conducted GWAS for 76 phenotypes in Korean biobank data, namely the Korean Genome and Epidemiology Study (KoGES) (n = 72,298). Our analysis discovered 2,242 associated loci, including 122 novel associations, many of which were replicated in Biobank Japan (BBJ) GWAS. We also applied several up-to-date methods for genetic association tests to increase the power, discovering additional associations that are not identified in simple case-control GWAS. We evaluated genetic pleiotropy to investigate genes associated with multiple traits. Following meta-analysis of 32 phenotypes between KoGES and BBJ, we further identified 379 novel associations and demonstrated the improved predictive performance of polygenic risk scores by using the meta-analysis results. The summary statistics of 76 KoGES GWAS phenotypes are publicly available, contributing to a better comprehension of the genetic architecture of the East Asian population.\n*\u003c@U02UQ4CKE2H\u003e (Wen-Syan Li 교수님 연구실)*\n• 제목: An Enhanced Interactive System for ChatGPT with Customized Local Knowledge Base\n• 요약: Since ChatGPT’s release in November 2022, it has attracted tremendous attention. However, it has limitations in answering questions solely based on public data on the Internet up to 2021. Here we present a system that allows users to utilize ChatGPT’s capability while incorporating private data and customized local knowledge, overwriting public general knowledge in ChatGPT if needed in case the public general knowledge is not correct or not consistent with the local knowledge. We demonstrate our system interacts with ChatGPT and issues queries against a private database with a customized local knowledge base. We also show we can invoke machine-learning functions when forecasting is required to answer the queries. The demonstration shows our system is a practical approach to supporting enterprise applications, which require access to up-to-date private databases and local corporate knowledge bases.\n신입생, 재학생 구분 없이 GSDS 구성원이라면 모두 참여 가능하니 아래 이모지 많이 많이 눌러주시면 감사하겠습니다:hugging_face:",
-    "ts": "1680766373.240979",
-    "thread_ts": "1680766373.240979",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01Q1KFN4JK",
-        "ts": "1680767104.193719"
-      },
-      {
-        "user": "U02ULBH3TEJ",
-        "ts": "1681441819.612829"
-      }
-    ],
-    "latest_reply": "1681441819.612829",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pizza",
-        "count": 30,
-        "users": [
-          "U02V5LS84JV",
-          "U01PVEU1A07",
-          "U01QA85T90A",
-          "U01QV1SQJ57",
-          "U01Q1KSQT1D",
-          "U01Q1KFN4JK",
-          "U01SXEG547P",
-          "U01QV28F01X",
-          "U04RD26CJ5N",
-          "U04QE4ASJP7",
-          "U02UQ4BRJE9",
-          "U040PQCGCQL",
-          "U04QE49RPV3",
-          "U04QE4A8UMT",
-          "U040ZVDSA0H",
-          "U04QKG4UWRJ",
-          "U02ULBH3TEJ",
-          "U04QKG4K12Q",
-          "U040MB432JW",
-          "U04QGUFBFR9",
-          "U02V5LU4ED7",
-          "U02UT1XUGFL",
-          "U02UQ4CKE2H",
-          "U01R689L5KJ",
-          "U02V5LT2XFB",
-          "U01QNSM488Z",
-          "U02UQ4CMR7X",
-          "U02V5LRSE2V",
-          "U02UQ4D8L2Z",
-          "U02UVATUSLU"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "h/EZW",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "emoji",
-                "name": "pizza",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "FPS(Friday Pizza Seminar)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "pizza",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요, 학생회에서 알립니다"
-              },
-              {
-                "type": "emoji",
-                "name": "loudspeaker",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n이번 학기부터 격주 금요일 점심시간에 학생들의 자유로운 참여로 진행되는 "
-              },
-              {
-                "type": "text",
-                "text": "Friday Pizza 세미나(가명, 좋은 이름 추천받아요",
-                "style": {
-                  "italic": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "blush",
-                "skin_tone": 0,
-                "style": {
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")",
-                "style": {
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "가 개최됩니다.\n첫 시작은 박사님들이 수고해 주시지만, 모두가 자유롭게 참여 가능하므로 언제든지 저에게 DM으로 신청해 주시면 감사하겠습니다!\n다음 주 금요일 4월 14일부터 격주로 진행될 예정이니 참고 바랍니다.\n\n------------------------------------------------------------------------------------------\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 4\\uc6d4 14\\uc77c \\uae08\\uc694\\uc77c, 12\\uc2dc 10\\ubd84 ~ 1\\uc2dc 10\\ubd84 (\\uc57d 1\\uc2dc\\uac04)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: 942\\ub3d9 302\\ud638\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc1c\\ud45c\\uc790: \\ub0a8\\uae30\\uc131, \\uc7a5\\uc9c0\\uc218\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc810\\uc2ec: \\ud53c\\uc790 \\uc81c\\uacf5, \\ucc38\\uc5ec \\uc778\\uc6d0 \\ud30c\\uc545\\uc744 \\uc704\\ud574 \\uc544\\ub798 \\ud53c\\uc790 \\uc774\\ubaa8\\uc9c0\"},{\"type\":\"emoji\",\"name\":\"pizza\",\"unicode\":\"1f355\"},{\"type\":\"text\",\"text\":\"\\ub97c \\ub20c\\ub7ec\\uc8fc\\uc138\\uc694!\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc1c\\ud45c \\uc5b8\\uc5b4: \\uc601\\uc5b4\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "------------------------------------------------------------------------------------------\n\n다음주 금요일에 있을 발표 주제 간략하게 소개드리겠습니다.\n\n"
-              },
-              {
-                "type": "user",
-                "user_id": "U01PVEU1A07",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " (이승근 교수님 연구실)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc81c\\ubaa9 : Genome-wide study on 72,298 individuals in Korean biobank data for 76 traits\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc694\\uc57d : Genome-wide association studies (GWAS) on diverse ancestry groups are lacking, resulting in deficits of genetic discoveries and polygenic scores. We conducted GWAS for 76 phenotypes in Korean biobank data, namely the Korean Genome and Epidemiology Study (KoGES) (n = 72,298). Our analysis discovered 2,242 associated loci, including 122 novel associations, many of which were replicated in Biobank Japan (BBJ) GWAS. We also applied several up-to-date methods for genetic association tests to increase the power, discovering additional associations that are not identified in simple case-control GWAS. We evaluated genetic pleiotropy to investigate genes associated with multiple traits. Following meta-analysis of 32 phenotypes between KoGES and BBJ, we further identified 379 novel associations and demonstrated the improved predictive performance of polygenic risk scores by using the meta-analysis results. The summary statistics of 76 KoGES GWAS phenotypes are publicly available, contributing to a better comprehension of the genetic architecture of the East Asian population.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "user",
-                "user_id": "U02UQ4CKE2H",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " (Wen-Syan Li 교수님 연구실)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc81c\\ubaa9: An Enhanced Interactive System for ChatGPT with Customized Local Knowledge Base\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc694\\uc57d: Since ChatGPT\\u2019s release in November 2022, it has attracted tremendous attention. However, it has limitations in answering questions solely based on public data on the Internet up to 2021. Here we present a system that allows users to utilize ChatGPT\\u2019s capability while incorporating private data and customized local knowledge, overwriting public general knowledge in ChatGPT if needed in case the public general knowledge is not correct or not consistent with the local knowledge. We demonstrate our system interacts with ChatGPT and issues queries against a private database with a customized local knowledge base. We also show we can invoke machine-learning functions when forecasting is required to answer the queries. The demonstration shows our system is a practical approach to supporting enterprise applications, which require access to up-to-date private databases and local corporate knowledge bases.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n신입생, 재학생 구분 없이 GSDS 구성원이라면 모두 참여 가능하니 아래 이모지 많이 많이 눌러주시면 감사하겠습니다"
-              },
-              {
-                "type": "emoji",
-                "name": "hugging_face",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01Q1KFN4JK",
-      "U02ULBH3TEJ"
-    ]
-  },
-  {
-    "client_msg_id": "4f25a7b4-5e3b-4866-a59a-18f257920a5e",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "반갑고 좋은 소식이네요! 세미나 이름은 ‘Pizza \u0026amp; Papers Party’(라 쓰고 ‘PPP’ 또는 ‘일타3P’ 중 하나로 읽는다)는 어떤가요? ChatGPT에게 물어본 뒤에 제가 적절하게 덧붙인 이름입니다 ^^;",
-    "ts": "1680767104.193719",
-    "thread_ts": "1680766373.240979",
-    "edited": {
-      "user": "U01Q1KFN4JK",
-      "ts": "1680767124.000000"
-    },
-    "parent_user_id": "U02V5LS84JV",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 11,
-        "users": [
-          "U02V5LS84JV",
-          "U0302PKMR6C",
-          "U040ENMBB1C",
-          "U041B24HMFS",
-          "U01PVEU1A07",
-          "U01QNMUAUKW",
-          "U0406PLJWCX",
-          "U04QE4ASJP7",
-          "U04QKG4K12Q",
-          "U01R689L5KJ",
-          "U02V5LT2XFB"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "5zKjy",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "반갑고 좋은 소식이네요! 세미나 이름은 ‘Pizza \u0026 Papers Party’(라 쓰고 ‘PPP’ 또는 ‘일타3P’ 중 하나로 읽는다)는 어떤가요? ChatGPT에게 물어본 뒤에 제가 적절하게 덧붙인 이름입니다 ^^;"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "3ea5c36d-cfb1-4d8c-b22a-638c1b4a5637",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": ":pizza:*FPS(Friday Pizza Seminar)*:pizza:\n\n안녕하세요, 학생회에서 알립니다:loudspeaker:\n이번 학기부터 격주 금요일 점심시간에 학생들의 자유로운 참여로 진행되는 _Friday Pizza 세미나(가명, 좋은 이름 추천받아요_:blush:_)_가 개최됩니다.\n첫 시작은 박사님들이 수고해 주시지만, 모두가 자유롭게 참여 가능하므로 언제든지 저에게 DM으로 신청해 주시면 감사하겠습니다!\n다음 주 금요일 4월 14일부터 격주로 진행될 예정이니 참고 바랍니다.\n\n------------------------------------------------------------------------------------------\n• 일시: 4월 14일 금요일, 12시 10분 ~ 1시 10분 (약 1시간)\n• 장소: 942동 302호\n• 발표자: 남기성, 장지수\n• 점심: 피자 제공, 참여 인원 파악을 위해 아래 피자 이모지:pizza:를 눌러주세요!\n• 발표 언어: 영어\n------------------------------------------------------------------------------------------\n\n다음주 금요일에 있을 발표 주제 간략하게 소개드리겠습니다.\n\n*<@U01PVEU1A07> (이승근 교수님 연구실)*\n• 제목 : Genome-wide study on 72,298 individuals in Korean biobank data for 76 traits\n• 요약 : Genome-wide association studies (GWAS) on diverse ancestry groups are lacking, resulting in deficits of genetic discoveries and polygenic scores. We conducted GWAS for 76 phenotypes in Korean biobank data, namely the Korean Genome and Epidemiology Study (KoGES) (n = 72,298). Our analysis discovered 2,242 associated loci, including 122 novel associations, many of which were replicated in Biobank Japan (BBJ) GWAS. We also applied several up-to-date methods for genetic association tests to increase the power, discovering additional associations that are not identified in simple case-control GWAS. We evaluated genetic pleiotropy to investigate genes associated with multiple traits. Following meta-analysis of 32 phenotypes between KoGES and BBJ, we further identified 379 novel associations and demonstrated the improved predictive performance of polygenic risk scores by using the meta-analysis results. The summary statistics of 76 KoGES GWAS phenotypes are publicly available, contributing to a better comprehension of the genetic architecture of the East Asian population.\n*<@U02UQ4CKE2H> (Wen-Syan Li 교수님 연구실)*\n• 제목: An Enhanced Interactive System for ChatGPT with Customized Local Knowledge Base\n• 요약: Since ChatGPT’s release in November 2022, it has attracted tremendous attention. However, it has limitations in answering questions solely based on public data on the Internet up to 2021. Here we present a system that allows users to utilize ChatGPT’s capability while incorporating private data and customized local knowledge, overwriting public general knowledge in ChatGPT if needed in case the public general knowledge is not correct or not consistent with the local knowledge. We demonstrate our system interacts with ChatGPT and issues queries against a private database with a customized local knowledge base. We also show we can invoke machine-learning functions when forecasting is required to answer the queries. The demonstration shows our system is a practical approach to supporting enterprise applications, which require access to up-to-date private databases and local corporate knowledge bases.\n신입생, 재학생 구분 없이 GSDS 구성원이라면 모두 참여 가능하니 아래 이모지 많이 많이 눌러주시면 감사하겠습니다:hugging_face:",
+			"ts": "1680766373.240979",
+			"thread_ts": "1680766373.240979",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01Q1KFN4JK",
+					"ts": "1680767104.193719"
+				},
+				{
+					"user": "U02ULBH3TEJ",
+					"ts": "1681441819.612829"
+				}
+			],
+			"latest_reply": "1681441819.612829",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pizza",
+					"count": 30,
+					"users": [
+						"U02V5LS84JV",
+						"U01PVEU1A07",
+						"U01QA85T90A",
+						"U01QV1SQJ57",
+						"U01Q1KSQT1D",
+						"U01Q1KFN4JK",
+						"U01SXEG547P",
+						"U01QV28F01X",
+						"U04RD26CJ5N",
+						"U04QE4ASJP7",
+						"U02UQ4BRJE9",
+						"U040PQCGCQL",
+						"U04QE49RPV3",
+						"U04QE4A8UMT",
+						"U040ZVDSA0H",
+						"U04QKG4UWRJ",
+						"U02ULBH3TEJ",
+						"U04QKG4K12Q",
+						"U040MB432JW",
+						"U04QGUFBFR9",
+						"U02V5LU4ED7",
+						"U02UT1XUGFL",
+						"U02UQ4CKE2H",
+						"U01R689L5KJ",
+						"U02V5LT2XFB",
+						"U01QNSM488Z",
+						"U02UQ4CMR7X",
+						"U02V5LRSE2V",
+						"U02UQ4D8L2Z",
+						"U02UVATUSLU"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "h/EZW",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "emoji",
+									"name": "pizza",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "FPS(Friday Pizza Seminar)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "pizza",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요, 학생회에서 알립니다"
+								},
+								{
+									"type": "emoji",
+									"name": "loudspeaker",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n이번 학기부터 격주 금요일 점심시간에 학생들의 자유로운 참여로 진행되는 "
+								},
+								{
+									"type": "text",
+									"text": "Friday Pizza 세미나(가명, 좋은 이름 추천받아요",
+									"style": {
+										"italic": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "blush",
+									"skin_tone": 0,
+									"style": {
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")",
+									"style": {
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "가 개최됩니다.\n첫 시작은 박사님들이 수고해 주시지만, 모두가 자유롭게 참여 가능하므로 언제든지 저에게 DM으로 신청해 주시면 감사하겠습니다!\n다음 주 금요일 4월 14일부터 격주로 진행될 예정이니 참고 바랍니다.\n\n------------------------------------------------------------------------------------------\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 4\\uc6d4 14\\uc77c \\uae08\\uc694\\uc77c, 12\\uc2dc 10\\ubd84 ~ 1\\uc2dc 10\\ubd84 (\\uc57d 1\\uc2dc\\uac04)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: 942\\ub3d9 302\\ud638\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc1c\\ud45c\\uc790: \\ub0a8\\uae30\\uc131, \\uc7a5\\uc9c0\\uc218\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc810\\uc2ec: \\ud53c\\uc790 \\uc81c\\uacf5, \\ucc38\\uc5ec \\uc778\\uc6d0 \\ud30c\\uc545\\uc744 \\uc704\\ud574 \\uc544\\ub798 \\ud53c\\uc790 \\uc774\\ubaa8\\uc9c0\"},{\"type\":\"emoji\",\"name\":\"pizza\",\"unicode\":\"1f355\"},{\"type\":\"text\",\"text\":\"\\ub97c \\ub20c\\ub7ec\\uc8fc\\uc138\\uc694!\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc1c\\ud45c \\uc5b8\\uc5b4: \\uc601\\uc5b4\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "------------------------------------------------------------------------------------------\n\n다음주 금요일에 있을 발표 주제 간략하게 소개드리겠습니다.\n\n"
+								},
+								{
+									"type": "user",
+									"user_id": "U01PVEU1A07",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " (이승근 교수님 연구실)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc81c\\ubaa9 : Genome-wide study on 72,298 individuals in Korean biobank data for 76 traits\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc694\\uc57d : Genome-wide association studies (GWAS) on diverse ancestry groups are lacking, resulting in deficits of genetic discoveries and polygenic scores. We conducted GWAS for 76 phenotypes in Korean biobank data, namely the Korean Genome and Epidemiology Study (KoGES) (n = 72,298). Our analysis discovered 2,242 associated loci, including 122 novel associations, many of which were replicated in Biobank Japan (BBJ) GWAS. We also applied several up-to-date methods for genetic association tests to increase the power, discovering additional associations that are not identified in simple case-control GWAS. We evaluated genetic pleiotropy to investigate genes associated with multiple traits. Following meta-analysis of 32 phenotypes between KoGES and BBJ, we further identified 379 novel associations and demonstrated the improved predictive performance of polygenic risk scores by using the meta-analysis results. The summary statistics of 76 KoGES GWAS phenotypes are publicly available, contributing to a better comprehension of the genetic architecture of the East Asian population.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "user",
+									"user_id": "U02UQ4CKE2H",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " (Wen-Syan Li 교수님 연구실)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc81c\\ubaa9: An Enhanced Interactive System for ChatGPT with Customized Local Knowledge Base\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc694\\uc57d: Since ChatGPT\\u2019s release in November 2022, it has attracted tremendous attention. However, it has limitations in answering questions solely based on public data on the Internet up to 2021. Here we present a system that allows users to utilize ChatGPT\\u2019s capability while incorporating private data and customized local knowledge, overwriting public general knowledge in ChatGPT if needed in case the public general knowledge is not correct or not consistent with the local knowledge. We demonstrate our system interacts with ChatGPT and issues queries against a private database with a customized local knowledge base. We also show we can invoke machine-learning functions when forecasting is required to answer the queries. The demonstration shows our system is a practical approach to supporting enterprise applications, which require access to up-to-date private databases and local corporate knowledge bases.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n신입생, 재학생 구분 없이 GSDS 구성원이라면 모두 참여 가능하니 아래 이모지 많이 많이 눌러주시면 감사하겠습니다"
+								},
+								{
+									"type": "emoji",
+									"name": "hugging_face",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01Q1KFN4JK",
+				"U02ULBH3TEJ"
+			]
+		},
+		{
+			"client_msg_id": "4f25a7b4-5e3b-4866-a59a-18f257920a5e",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "반갑고 좋은 소식이네요! 세미나 이름은 ‘Pizza &amp; Papers Party’(라 쓰고 ‘PPP’ 또는 ‘일타3P’ 중 하나로 읽는다)는 어떤가요? ChatGPT에게 물어본 뒤에 제가 적절하게 덧붙인 이름입니다 ^^;",
+			"ts": "1680767104.193719",
+			"thread_ts": "1680766373.240979",
+			"edited": {
+				"user": "U01Q1KFN4JK",
+				"ts": "1680767124.000000"
+			},
+			"parent_user_id": "U02V5LS84JV",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 11,
+					"users": [
+						"U02V5LS84JV",
+						"U0302PKMR6C",
+						"U040ENMBB1C",
+						"U041B24HMFS",
+						"U01PVEU1A07",
+						"U01QNMUAUKW",
+						"U0406PLJWCX",
+						"U04QE4ASJP7",
+						"U04QKG4K12Q",
+						"U01R689L5KJ",
+						"U02V5LT2XFB"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "5zKjy",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "반갑고 좋은 소식이네요! 세미나 이름은 ‘Pizza & Papers Party’(라 쓰고 ‘PPP’ 또는 ‘일타3P’ 중 하나로 읽는다)는 어떤가요? ChatGPT에게 물어본 뒤에 제가 적절하게 덧붙인 이름입니다 ^^;"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

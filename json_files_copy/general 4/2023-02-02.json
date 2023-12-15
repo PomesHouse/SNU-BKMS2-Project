@@ -1,0 +1,542 @@
+[
+  {
+    "client_msg_id": "4e264a9c-4551-4a2c-8053-aa1f1715fcc1",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt; 서버실 추가 조성(401호) 공사 시행에 따른 협조 요청 \u0026gt;*\n\n데이터사이언스대학원 기존 서버실이 포화됨에 따라 942동 401호를 서버실로 추가 조성하기 위하여 공사를 다음과 같이 시행합니다.\n\n*ㅁ 공사 일정*\nㅇ 2.2.(목) ~ 2.3.(금): 바닥 보양작업(4층 엘레베이터에서 401호 서버실까지)\nㅇ *2.4.(토) ~ 2.5.(일): 401호 내부 철거 작업(소음 및 분진 발생) _※ 분진 방지를 위해 4층 라운지는 천으로 막을 예정(이용 불가)_*\nㅇ *2. 6.(월) ~ 2월 말: 공사 계속*\n\n*ㅁ 공사 내용:* 서버실 조성 공사(건축, 전기, 통신)\n\n*공사 기간(특히 이번 주말) 중 발생되는 소음과 분진 등에 대하여 널리 양해*하여 주시면 감사하겠습니다.\n아울러, 2.4.(토)부터  401호에 비치되어 있는 모든 기자재 및 물품은 폐기할 예정이오니 이번주 금요일(2.3.)까지 비워주시기를 요청드립니다.\n\n감사합니다.",
+    "ts": "1675312431.990779",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1675312493.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MdWMn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 서버실 추가 조성(401호) 공사 시행에 따른 협조 요청 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n데이터사이언스대학원 기존 서버실이 포화됨에 따라 942동 401호를 서버실로 추가 조성하기 위하여 공사를 다음과 같이 시행합니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "ㅁ 공사 일정",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nㅇ 2.2.(목) ~ 2.3.(금): 바닥 보양작업(4층 엘레베이터에서 401호 서버실까지)\nㅇ "
+              },
+              {
+                "type": "text",
+                "text": "2.4.(토) ~ 2.5.(일): 401호 내부 철거 작업(소음 및 분진 발생) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "※ 분진 방지를 위해 4층 라운지는 천으로 막을 예정(이용 불가)",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nㅇ "
+              },
+              {
+                "type": "text",
+                "text": "2. 6.(월) ~ 2월 말: 공사 계속",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "ㅁ 공사 내용: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "서버실 조성 공사(건축, 전기, 통신)\n\n"
+              },
+              {
+                "type": "text",
+                "text": "공사 기간(특히 이번 주말) 중 발생되는 소음과 분진 등에 대하여 널리 양해",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여 주시면 감사하겠습니다.\n아울러, 2.4.(토)부터  401호에 비치되어 있는 모든 기자재 및 물품은 폐기할 예정이오니 이번주 금요일(2.3.)까지 비워주시기를 요청드립니다.\n\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f96605d3-16e8-47c1-84f7-24ac03e7330d",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;학생 연구공간 추가 조성에 따른 포커스룸 및 이노베이션룸 사용 중단 사전 안내\u0026gt;\n\n데이터사이언스대학원 학생 정원이 증가하여 2023학년도 1학기에 많은 수의 신입생이 입학 예정임에 따라 종전 3층과 4층 학생연구공간이 부족한 상황입니다.\n이에, 2023년 2월 중, 종전의 학생 연구공간에 책상을 확충하고, 3층 포커스룸과 이노베이션룸을 학생연구공간으로 용도를 변경할 예정임을 사전에 안내드립니다.\n\n이에, 다음 사항에 대하여 협조 요청드립니다.\n1. *기존 포커스룸과 이노베이션룸에 적재되어 있는 개인 물품을 비워주시기 바랍니다.*\n2. 학생연구공간 좌석 추가 확보를 위한 설치 작업(책상 및 의자) 시 발생하는 소음 등을 양해하여 주시기 바랍니다.\n최종 일정이 확정되면 다시 안내드리겠습니다.\n감사합니다.",
+    "ts": "1675312737.052979",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1675312746.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BNAi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c학생 연구공간 추가 조성에 따른 포커스룸 및 이노베이션룸 사용 중단 사전 안내\u003e\n\n데이터사이언스대학원 학생 정원이 증가하여 2023학년도 1학기에 많은 수의 신입생이 입학 예정임에 따라 종전 3층과 4층 학생연구공간이 부족한 상황입니다.\n이에, 2023년 2월 중, 종전의 학생 연구공간에 책상을 확충하고, 3층 포커스룸과 이노베이션룸을 학생연구공간으로 용도를 변경할 예정임을 사전에 안내드립니다.\n\n이에, 다음 사항에 대하여 협조 요청드립니다.\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\uc874 \\ud3ec\\ucee4\\uc2a4\\ub8f8\\uacfc \\uc774\\ub178\\ubca0\\uc774\\uc158\\ub8f8\\uc5d0 \\uc801\\uc7ac\\ub418\\uc5b4 \\uc788\\ub294 \\uac1c\\uc778 \\ubb3c\\ud488\\uc744 \\ube44\\uc6cc\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc0dd\\uc5f0\\uad6c\\uacf5\\uac04 \\uc88c\\uc11d \\ucd94\\uac00 \\ud655\\ubcf4\\ub97c \\uc704\\ud55c \\uc124\\uce58 \\uc791\\uc5c5(\\ucc45\\uc0c1 \\ubc0f \\uc758\\uc790) \\uc2dc \\ubc1c\\uc0dd\\ud558\\ub294 \\uc18c\\uc74c \\ub4f1\\uc744 \\uc591\\ud574\\ud558\\uc5ec \\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n최종 일정이 확정되면 다시 안내드리겠습니다.\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1a44259e-7437-4487-aac2-8373f9f8a443",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023년도 BK생활관 신규 입주 신청 안내\u0026gt;\n\nㅇ입주(신청 자격) 외국인인 대학원생 또는 연구생이 법률혼인 상태의 배우자와 2인 거주할 경우 A동(가족실, 56.26제곱미터)만 신청 가능(대학원생 및 연구원의 경우 내국인 불가, 단독거주 불가)\n\nㅇ 신청기간: 입주희망월 6개월 이전부터 수시 신청 가능\n\nㅇ 선정발표: 입주희망원 전월 10일 전후 공실 발생 시 수시 선정 및 발표\n\nㅇ 신청방법: 마이스투 포털-\u0026gt;학생생활관-\u0026gt;BK생활관\n\n그 밖에 상세 내용은 첨부 파일을 확인하여 주시기 바랍니다.",
+    "ts": "1675327666.419959",
+    "files": [
+      {
+        "id": "F04MM3G3L13",
+        "created": 1675327518,
+        "timestamp": 1675327518,
+        "name": "2023년도 BK생활관 신규입주 신청 안내(시스템 신청).pdf",
+        "title": "2023년도 BK생활관 신규입주 신청 안내(시스템 신청).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 324419,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04MM3G3L13-2023년도 BK생활관 신규입주 신청 안내(시스템 신청).pdf",
+        "url_private_download": "attachments/F04MM3G3L13-2023년도 BK생활관 신규입주 신청 안내(시스템 신청).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04MM3G3L13/2023_______bk______________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04MM3G3L13-35ed1c6e34",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04M9F9PHD5",
+        "created": 1675327521,
+        "timestamp": 1675327521,
+        "name": "관악학생생활관 BK생활관 입주 신청 안내(2023년 입주희망)_0301.pdf",
+        "title": "관악학생생활관 BK생활관 입주 신청 안내(2023년 입주희망)_0301.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1175592,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04M9F9PHD5-관악학생생활관 BK생활관 입주 신청 안내(2023년 입주희망)_0301.pdf",
+        "url_private_download": "attachments/F04M9F9PHD5-관악학생생활관 BK생활관 입주 신청 안내(2023년 입주희망)_0301.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04M9F9PHD5/______________________bk_______________________________2023__________________0301.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04M9F9PHD5-81a8ee2602",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04NDN2N5MW",
+        "created": 1675327523,
+        "timestamp": 1675327523,
+        "name": "Announcement for Residency Application at BK Residence Halls(For Applicant of 2023)_0301.pdf",
+        "title": "Announcement for Residency Application at BK Residence Halls(For Applicant of 2023)_0301.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 104007,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04NDN2N5MW-Announcement for Residency Application at BK Residence Halls(For Applicant of 2023)_0301.pdf",
+        "url_private_download": "attachments/F04NDN2N5MW-Announcement for Residency Application at BK Residence Halls(For Applicant of 2023)_0301.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04NDN2N5MW/announcement_for_residency_application_at_bk_residence_halls_for_applicant_of_2023__0301.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04NDN2N5MW-46a6ad3581",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04M9FA4V2B",
+        "created": 1675327525,
+        "timestamp": 1675327525,
+        "name": "BK생활관통합행정시스템신청매뉴얼(국문)_최종게시용.pdf",
+        "title": "BK생활관통합행정시스템신청매뉴얼(국문)_최종게시용.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 359176,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04M9FA4V2B-BK생활관통합행정시스템신청매뉴얼(국문)_최종게시용.pdf",
+        "url_private_download": "attachments/F04M9FA4V2B-BK생활관통합행정시스템신청매뉴얼(국문)_최종게시용.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04M9FA4V2B/bk_____________________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04M9FA4V2B-0e3499dc3e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04MM3GRQG5",
+        "created": 1675327527,
+        "timestamp": 1675327527,
+        "name": "BK생활관통합행정시스템신청매뉴얼(영문)_최종게시용.pdf",
+        "title": "BK생활관통합행정시스템신청매뉴얼(영문)_최종게시용.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 313671,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04MM3GRQG5-BK생활관통합행정시스템신청매뉴얼(영문)_최종게시용.pdf",
+        "url_private_download": "attachments/F04MM3GRQG5-BK생활관통합행정시스템신청매뉴얼(영문)_최종게시용.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04MM3GRQG5/bk_____________________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04MM3GRQG5-6de780fd00",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Mcz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023년도 BK생활관 신규 입주 신청 안내\u003e\n\nㅇ입주(신청 자격) 외국인인 대학원생 또는 연구생이 법률혼인 상태의 배우자와 2인 거주할 경우 A동(가족실, 56.26제곱미터)만 신청 가능(대학원생 및 연구원의 경우 내국인 불가, 단독거주 불가)\n\nㅇ 신청기간: 입주희망월 6개월 이전부터 수시 신청 가능\n\nㅇ 선정발표: 입주희망원 전월 10일 전후 공실 발생 시 수시 선정 및 발표\n\nㅇ 신청방법: 마이스투 포털-\u003e학생생활관-\u003eBK생활관\n\n그 밖에 상세 내용은 첨부 파일을 확인하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

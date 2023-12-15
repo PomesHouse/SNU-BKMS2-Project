@@ -1,149 +1,151 @@
-[
-  {
-    "client_msg_id": "3c22ec54-95c8-425b-ae41-eb1dff01628c",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022학년도 데이터사이언스대학원 후기 신입생 모집 면접 및 구술고사 보조위원 모집 안내\u0026gt;\n\n면접 및 구술고사가 5월 13일 (금요일) 예정되어있습니다.\n\n관련하여 수험생 인솔,면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 \u003cmailto:seungchul91@snu.ac.kr|seungchul91@snu.ac.kr\u003e로 연락주시면 감사하겠습니다.\n\n 일시: 2022년 5월 12일 10:00 1시간(수험장 세팅 및 진행과정설명), 13일 11:00~18:00\n 장소: 942동 3~4층\n 필요인원: 3명\n이메일 신청 선착순 마감\n\n ※13일 점심 식사 제공 / 수당 지급될 예정※",
-    "ts": "1652148649.068719",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "iuTEw",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022학년도 데이터사이언스대학원 후기 신입생 모집 면접 및 구술고사 보조위원 모집 안내\u003e\n\n면접 및 구술고사가 5월 13일 (금요일) 예정되어있습니다.\n\n관련하여 수험생 인솔,면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 "
-              },
-              {
-                "type": "link",
-                "url": "mailto:seungchul91@snu.ac.kr",
-                "text": "seungchul91@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "로 연락주시면 감사하겠습니다.\n\n 일시: 2022년 5월 12일 10:00 1시간(수험장 세팅 및 진행과정설명), 13일 11:00~18:00\n 장소: 942동 3~4층\n 필요인원: 3명\n이메일 신청 선착순 마감\n\n ※13일 점심 식사 제공 / 수당 지급될 예정※"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "9d813f98-f717-477e-8c9d-f2d497b4ae0b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022학년도 후기 신입생 모집 면접 및 구술고사로 인한 출입 통제 안내\u0026gt;\n\n출입 통제 일시: 2022년 5월 13일 금요일(09:00~18:00)\n출입 통제 구역: 942동 3층 4층\n\n3층 학생 연구공간 개인 물품을 5월 12일 목요일 16시까지 모두 정리하여 주시길 바랍니다. (4층 제외) 되도록 사물함을 이용해 주시고 필요하신 경우 상자(3층 로비 입구에 비치)를 사용해 주시면 됩니다.",
-    "ts": "1652148732.954199",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "7YC",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022학년도 후기 신입생 모집 면접 및 구술고사로 인한 출입 통제 안내\u003e\n\n출입 통제 일시: 2022년 5월 13일 금요일(09:00~18:00)\n출입 통제 구역: 942동 3층 4층\n\n3층 학생 연구공간 개인 물품을 5월 12일 목요일 16시까지 모두 정리하여 주시길 바랍니다. (4층 제외) 되도록 사물함을 이용해 주시고 필요하신 경우 상자(3층 로비 입구에 비치)를 사용해 주시면 됩니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "7908fbc3-a478-4c33-8088-659a0762a388",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "보조위원 모집 마감 : 감사합니다.",
-    "ts": "1652156080.004009",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "R4aKL",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "보조위원 모집 마감 : 감사합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "3c22ec54-95c8-425b-ae41-eb1dff01628c",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022학년도 데이터사이언스대학원 후기 신입생 모집 면접 및 구술고사 보조위원 모집 안내&gt;\n\n면접 및 구술고사가 5월 13일 (금요일) 예정되어있습니다.\n\n관련하여 수험생 인솔,면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 <mailto:seungchul91@snu.ac.kr|seungchul91@snu.ac.kr>로 연락주시면 감사하겠습니다.\n\n 일시: 2022년 5월 12일 10:00 1시간(수험장 세팅 및 진행과정설명), 13일 11:00~18:00\n 장소: 942동 3~4층\n 필요인원: 3명\n이메일 신청 선착순 마감\n\n ※13일 점심 식사 제공 / 수당 지급될 예정※",
+			"ts": "1652148649.068719",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "iuTEw",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022학년도 데이터사이언스대학원 후기 신입생 모집 면접 및 구술고사 보조위원 모집 안내>\n\n면접 및 구술고사가 5월 13일 (금요일) 예정되어있습니다.\n\n관련하여 수험생 인솔,면접시간 알림, 수험장 세팅들을 도와주실 보조위원을 구하고 있사오니 관심 있는 학생분들께서는 "
+								},
+								{
+									"type": "link",
+									"url": "mailto:seungchul91@snu.ac.kr",
+									"text": "seungchul91@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "로 연락주시면 감사하겠습니다.\n\n 일시: 2022년 5월 12일 10:00 1시간(수험장 세팅 및 진행과정설명), 13일 11:00~18:00\n 장소: 942동 3~4층\n 필요인원: 3명\n이메일 신청 선착순 마감\n\n ※13일 점심 식사 제공 / 수당 지급될 예정※"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "9d813f98-f717-477e-8c9d-f2d497b4ae0b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022학년도 후기 신입생 모집 면접 및 구술고사로 인한 출입 통제 안내&gt;\n\n출입 통제 일시: 2022년 5월 13일 금요일(09:00~18:00)\n출입 통제 구역: 942동 3층 4층\n\n3층 학생 연구공간 개인 물품을 5월 12일 목요일 16시까지 모두 정리하여 주시길 바랍니다. (4층 제외) 되도록 사물함을 이용해 주시고 필요하신 경우 상자(3층 로비 입구에 비치)를 사용해 주시면 됩니다.",
+			"ts": "1652148732.954199",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "7YC",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022학년도 후기 신입생 모집 면접 및 구술고사로 인한 출입 통제 안내>\n\n출입 통제 일시: 2022년 5월 13일 금요일(09:00~18:00)\n출입 통제 구역: 942동 3층 4층\n\n3층 학생 연구공간 개인 물품을 5월 12일 목요일 16시까지 모두 정리하여 주시길 바랍니다. (4층 제외) 되도록 사물함을 이용해 주시고 필요하신 경우 상자(3층 로비 입구에 비치)를 사용해 주시면 됩니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "7908fbc3-a478-4c33-8088-659a0762a388",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "보조위원 모집 마감 : 감사합니다.",
+			"ts": "1652156080.004009",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "R4aKL",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "보조위원 모집 마감 : 감사합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,316 +1,318 @@
-[
-  {
-    "client_msg_id": "1cb22461-ec39-47d6-9603-3d6d93c21ff7",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;학생정보시스템 내 유학생 시간제취업 허가 신청 오픈 안내\u0026gt;\n\n유학생들이 mySNU 포털 내 학생정보시스템을 통하여 시간제취업 허가를 신청할 수 있도록 시스템이 개선되었기에 이를 안내합니다.\n\n ㅇ대상: D-2-5를 제외한 D-2 비자를 소유한 정규과적/비학위과정(교환, 방문) 유학생\n ㅇ시스템 사용 방법: 붙임 매뉴얼 참조",
-    "ts": "1700023535.654259",
-    "files": [
-      {
-        "id": "F065Q0VNPHB",
-        "created": 1700023463,
-        "timestamp": 1700023463,
-        "name": "[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용).hwp",
-        "title": "[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2414080,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065Q0VNPHB-[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용).hwp",
-        "url_private_download": "attachments/F065Q0VNPHB-[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065Q0VNPHB/________________________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065Q0VNPHB-4f8d209f7f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F0665HG21NV",
-        "created": 1700023466,
-        "timestamp": 1700023466,
-        "name": "[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용)(ENG).hwp",
-        "title": "[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용)(ENG).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3267072,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0665HG21NV-[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용)(ENG).hwp",
-        "url_private_download": "attachments/F0665HG21NV-[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용)(ENG).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0665HG21NV/_________________________________________________________________________________________eng_.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0665HG21NV-c89c6bfd61",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "CnZI+",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c학생정보시스템 내 유학생 시간제취업 허가 신청 오픈 안내\u003e\n\n유학생들이 mySNU 포털 내 학생정보시스템을 통하여 시간제취업 허가를 신청할 수 있도록 시스템이 개선되었기에 이를 안내합니다.\n\n ㅇ대상: D-2-5를 제외한 D-2 비자를 소유한 정규과적/비학위과정(교환, 방문) 유학생\n ㅇ시스템 사용 방법: 붙임 매뉴얼 참조"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d8e412b7-a255-4938-8d86-3dc8cd3481ed",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;제4회 선배 연구자 특강 '스누인의 연구일지' 개최 안내\u0026gt;*\n\n중앙도서관에서 학내 구성원의 연구역량 강화 및 우수 연구자 양성에 기여하기 위하여, 대학원혁신사업의 일환으로 제4회 선배 연구자 특강 '스누인의 연구일지'를 다음과 같이 개최하오니 참고하시기 바랍니다.\n\n  가. 행 사 명: *[대면]* 제4회 선배 연구자 특강 '스누인의 연구일지'\n                     융복합 분야 논문 작성을 위한 단계별 경험과 전략 소개\n  나. 일 시: 2023. 12. 4.(월) 15:00 ~ 16:30\n  다. 장 소: 중앙도서관 관정관 3층 양두석홀\n  라. 강 연 자: 최준혁(서울대학교 환경대학원 석사 졸업·前 환경계획연구소 연구원)\n  마. 세부내용: 공간 데이터를 활용한 연구 방법과 과정\n  바. 참여방법: *온라인 사전 신청(필수)* 후 시간에 맞추어 교육장 내 착석\n     ※사전신청 URL: \u003chttps://url.kr/cvp5ra\u003e",
-    "ts": "1700025036.866839",
-    "files": [
-      {
-        "id": "F065VE82STE",
-        "created": 1700025016,
-        "timestamp": 1700025016,
-        "name": "[붙임]제4회 선배 연구자 특강 '스누인의 연구일지' 홍보 이미지(QR코드 포함).pdf",
-        "title": "[붙임]제4회 선배 연구자 특강 '스누인의 연구일지' 홍보 이미지(QR코드 포함).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 255076,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065VE82STE-[붙임]제4회 선배 연구자 특강 '스누인의 연구일지' 홍보 이미지(QR코드 포함).pdf",
-        "url_private_download": "attachments/F065VE82STE-[붙임]제4회 선배 연구자 특강 '스누인의 연구일지' 홍보 이미지(QR코드 포함).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065VE82STE/___________4_________________________________________________________________________qr______________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065VE82STE-97a9655907",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Xu2rA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c제4회 선배 연구자 특강 '스누인의 연구일지' 개최 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n중앙도서관에서 학내 구성원의 연구역량 강화 및 우수 연구자 양성에 기여하기 위하여, 대학원혁신사업의 일환으로 제4회 선배 연구자 특강 '스누인의 연구일지'를 다음과 같이 개최하오니 참고하시기 바랍니다.\n\n  가. 행 사 명: "
-              },
-              {
-                "type": "text",
-                "text": "[대면] ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "제4회 선배 연구자 특강 '스누인의 연구일지'\n                     융복합 분야 논문 작성을 위한 단계별 경험과 전략 소개\n  나. 일 시: 2023. 12. 4.(월) 15:00 ~ 16:30\n  다. 장 소: 중앙도서관 관정관 3층 양두석홀\n  라. 강 연 자: 최준혁(서울대학교 환경대학원 석사 졸업·前 환경계획연구소 연구원)\n  마. 세부내용: 공간 데이터를 활용한 연구 방법과 과정\n  바. 참여방법: "
-              },
-              {
-                "type": "text",
-                "text": "온라인 사전 신청(필수)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 후 시간에 맞추어 교육장 내 착석\n     ※사전신청 URL: "
-              },
-              {
-                "type": "link",
-                "url": "https://url.kr/cvp5ra",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "1cb22461-ec39-47d6-9603-3d6d93c21ff7",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;학생정보시스템 내 유학생 시간제취업 허가 신청 오픈 안내&gt;\n\n유학생들이 mySNU 포털 내 학생정보시스템을 통하여 시간제취업 허가를 신청할 수 있도록 시스템이 개선되었기에 이를 안내합니다.\n\n ㅇ대상: D-2-5를 제외한 D-2 비자를 소유한 정규과적/비학위과정(교환, 방문) 유학생\n ㅇ시스템 사용 방법: 붙임 매뉴얼 참조",
+			"ts": "1700023535.654259",
+			"files": [
+				{
+					"id": "F065Q0VNPHB",
+					"created": 1700023463,
+					"timestamp": 1700023463,
+					"name": "[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용).hwp",
+					"title": "[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2414080,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065Q0VNPHB-[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용).hwp",
+					"url_private_download": "attachments/F065Q0VNPHB-[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065Q0VNPHB/________________________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065Q0VNPHB-4f8d209f7f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F0665HG21NV",
+					"created": 1700023466,
+					"timestamp": 1700023466,
+					"name": "[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용)(ENG).hwp",
+					"title": "[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용)(ENG).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3267072,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0665HG21NV-[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용)(ENG).hwp",
+					"url_private_download": "attachments/F0665HG21NV-[국제협력과]유학생비자체류 매뉴얼_시간제취업허가 신청(학생용)(ENG).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0665HG21NV/_________________________________________________________________________________________eng_.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0665HG21NV-c89c6bfd61",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "CnZI+",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<학생정보시스템 내 유학생 시간제취업 허가 신청 오픈 안내>\n\n유학생들이 mySNU 포털 내 학생정보시스템을 통하여 시간제취업 허가를 신청할 수 있도록 시스템이 개선되었기에 이를 안내합니다.\n\n ㅇ대상: D-2-5를 제외한 D-2 비자를 소유한 정규과적/비학위과정(교환, 방문) 유학생\n ㅇ시스템 사용 방법: 붙임 매뉴얼 참조"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d8e412b7-a255-4938-8d86-3dc8cd3481ed",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;제4회 선배 연구자 특강 '스누인의 연구일지' 개최 안내&gt;*\n\n중앙도서관에서 학내 구성원의 연구역량 강화 및 우수 연구자 양성에 기여하기 위하여, 대학원혁신사업의 일환으로 제4회 선배 연구자 특강 '스누인의 연구일지'를 다음과 같이 개최하오니 참고하시기 바랍니다.\n\n  가. 행 사 명: *[대면]* 제4회 선배 연구자 특강 '스누인의 연구일지'\n                     융복합 분야 논문 작성을 위한 단계별 경험과 전략 소개\n  나. 일 시: 2023. 12. 4.(월) 15:00 ~ 16:30\n  다. 장 소: 중앙도서관 관정관 3층 양두석홀\n  라. 강 연 자: 최준혁(서울대학교 환경대학원 석사 졸업·前 환경계획연구소 연구원)\n  마. 세부내용: 공간 데이터를 활용한 연구 방법과 과정\n  바. 참여방법: *온라인 사전 신청(필수)* 후 시간에 맞추어 교육장 내 착석\n     ※사전신청 URL: <https://url.kr/cvp5ra>",
+			"ts": "1700025036.866839",
+			"files": [
+				{
+					"id": "F065VE82STE",
+					"created": 1700025016,
+					"timestamp": 1700025016,
+					"name": "[붙임]제4회 선배 연구자 특강 '스누인의 연구일지' 홍보 이미지(QR코드 포함).pdf",
+					"title": "[붙임]제4회 선배 연구자 특강 '스누인의 연구일지' 홍보 이미지(QR코드 포함).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 255076,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065VE82STE-[붙임]제4회 선배 연구자 특강 '스누인의 연구일지' 홍보 이미지(QR코드 포함).pdf",
+					"url_private_download": "attachments/F065VE82STE-[붙임]제4회 선배 연구자 특강 '스누인의 연구일지' 홍보 이미지(QR코드 포함).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065VE82STE/___________4_________________________________________________________________________qr______________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065VE82STE-97a9655907",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Xu2rA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<제4회 선배 연구자 특강 '스누인의 연구일지' 개최 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n중앙도서관에서 학내 구성원의 연구역량 강화 및 우수 연구자 양성에 기여하기 위하여, 대학원혁신사업의 일환으로 제4회 선배 연구자 특강 '스누인의 연구일지'를 다음과 같이 개최하오니 참고하시기 바랍니다.\n\n  가. 행 사 명: "
+								},
+								{
+									"type": "text",
+									"text": "[대면] ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "제4회 선배 연구자 특강 '스누인의 연구일지'\n                     융복합 분야 논문 작성을 위한 단계별 경험과 전략 소개\n  나. 일 시: 2023. 12. 4.(월) 15:00 ~ 16:30\n  다. 장 소: 중앙도서관 관정관 3층 양두석홀\n  라. 강 연 자: 최준혁(서울대학교 환경대학원 석사 졸업·前 환경계획연구소 연구원)\n  마. 세부내용: 공간 데이터를 활용한 연구 방법과 과정\n  바. 참여방법: "
+								},
+								{
+									"type": "text",
+									"text": "온라인 사전 신청(필수)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 후 시간에 맞추어 교육장 내 착석\n     ※사전신청 URL: "
+								},
+								{
+									"type": "link",
+									"url": "https://url.kr/cvp5ra",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

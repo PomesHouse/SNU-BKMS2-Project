@@ -1,101 +1,103 @@
-[
-  {
-    "client_msg_id": "8d62bd54-ea96-4c85-8eb9-235cd7b6e0a8",
-    "type": "message",
-    "user": "U01QUKKQ8GH",
-    "text": "같이 음악 들으면서 공부하실 분 다음 링크로 오세요~~~\n25분 공부하고 5분 쉬는 방식으로 음악이 나오는 방식이고(포모로도 기법)\n익명 채팅이 돼서, 질문 같은 거 해도 좋을 것 같습니다.\n오늘 밤 10시까지 틀어놓겠습니다.\n\u003chttps://sync-tube.de/room/RPHtXYmD\u003e",
-    "ts": "1666066296.924059",
-    "attachments": [
-      {
-        "fallback": "SyncTube",
-        "id": 1,
-        "title": "SyncTube",
-        "title_link": "https://sync-tube.de/room/RPHtXYmD",
-        "text": "Watch YouTube videos together. Create rooms, manage permissions and chat while watching videos synchronized with your friends!",
-        "service_name": "sync-tube.de",
-        "service_icon": "https://sync-tube.de/favicon.ico",
-        "from_url": "https://sync-tube.de/room/RPHtXYmD",
-        "original_url": "https://sync-tube.de/room/RPHtXYmD",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 19,
-        "users": [
-          "U01QV1SQJ57",
-          "U01R678KWP2",
-          "U02V5LT2XFB",
-          "U0302PK342C",
-          "U01QGJUT403",
-          "U01QNMUAUKW",
-          "U0302PLQ34Y",
-          "U02UT1XUGFL",
-          "U02V5LTPGRX",
-          "U01QV28FG4R",
-          "U01QV1WAPL1",
-          "U01Q1KFN4JK",
-          "U040M7VULN7",
-          "U01QGKCT067",
-          "U040ENMBB1C",
-          "U01QNSM488Z",
-          "U01Q386CMKQ",
-          "U02UQ4D8L2Z",
-          "U040C40QE6T"
-        ]
-      },
-      {
-        "name": "짱구s",
-        "count": 1,
-        "users": [
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "w5CEm",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "같이 음악 들으면서 공부하실 분 다음 링크로 오세요~~~\n25분 공부하고 5분 쉬는 방식으로 음악이 나오는 방식이고(포모로도 기법)\n익명 채팅이 돼서, 질문 같은 거 해도 좋을 것 같습니다.\n오늘 밤 10시까지 틀어놓겠습니다.\n"
-              },
-              {
-                "type": "link",
-                "url": "https://sync-tube.de/room/RPHtXYmD",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
-      "first_name": "김호현",
-      "real_name": "김호현",
-      "display_name": "2기_김호현",
-      "team": "T01QA5S537V",
-      "name": "waterdream",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8d62bd54-ea96-4c85-8eb9-235cd7b6e0a8",
+			"type": "message",
+			"user": "U01QUKKQ8GH",
+			"text": "같이 음악 들으면서 공부하실 분 다음 링크로 오세요~~~\n25분 공부하고 5분 쉬는 방식으로 음악이 나오는 방식이고(포모로도 기법)\n익명 채팅이 돼서, 질문 같은 거 해도 좋을 것 같습니다.\n오늘 밤 10시까지 틀어놓겠습니다.\n<https://sync-tube.de/room/RPHtXYmD>",
+			"ts": "1666066296.924059",
+			"attachments": [
+				{
+					"fallback": "SyncTube",
+					"id": 1,
+					"title": "SyncTube",
+					"title_link": "https://sync-tube.de/room/RPHtXYmD",
+					"text": "Watch YouTube videos together. Create rooms, manage permissions and chat while watching videos synchronized with your friends!",
+					"service_name": "sync-tube.de",
+					"service_icon": "https://sync-tube.de/favicon.ico",
+					"from_url": "https://sync-tube.de/room/RPHtXYmD",
+					"original_url": "https://sync-tube.de/room/RPHtXYmD",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 19,
+					"users": [
+						"U01QV1SQJ57",
+						"U01R678KWP2",
+						"U02V5LT2XFB",
+						"U0302PK342C",
+						"U01QGJUT403",
+						"U01QNMUAUKW",
+						"U0302PLQ34Y",
+						"U02UT1XUGFL",
+						"U02V5LTPGRX",
+						"U01QV28FG4R",
+						"U01QV1WAPL1",
+						"U01Q1KFN4JK",
+						"U040M7VULN7",
+						"U01QGKCT067",
+						"U040ENMBB1C",
+						"U01QNSM488Z",
+						"U01Q386CMKQ",
+						"U02UQ4D8L2Z",
+						"U040C40QE6T"
+					]
+				},
+				{
+					"name": "짱구s",
+					"count": 1,
+					"users": [
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "w5CEm",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "같이 음악 들으면서 공부하실 분 다음 링크로 오세요~~~\n25분 공부하고 5분 쉬는 방식으로 음악이 나오는 방식이고(포모로도 기법)\n익명 채팅이 돼서, 질문 같은 거 해도 좋을 것 같습니다.\n오늘 밤 10시까지 틀어놓겠습니다.\n"
+								},
+								{
+									"type": "link",
+									"url": "https://sync-tube.de/room/RPHtXYmD",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+				"first_name": "김호현",
+				"real_name": "김호현",
+				"display_name": "2기_김호현",
+				"team": "T01QA5S537V",
+				"name": "waterdream",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

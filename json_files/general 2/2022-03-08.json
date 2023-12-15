@@ -1,296 +1,298 @@
-[
-  {
-    "client_msg_id": "740a8e63-2b50-412f-b933-4ed42c804d31",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;가구 조립 안내\u0026gt;\n학생 연구용 가구 추가 구입에 따른 조립 작업을 진행할 예정입니다.\n가구 조립에 따른 소음 발생에 양해해 주시기 바랍니다.\n\n가구 조립 후 가구 추가 배치 등을 위한 공간 재조정 시 협조하여 주시기 바랍니다.\n\n○ 일시: 3. 8.(화) 9:30 ~ 18:00\n○ 장소: 3층 및 4층 엘리베이터 앞\n○ 문의사항: 880-1146",
-    "ts": "1646699886.455089",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bje",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c가구 조립 안내\u003e\n학생 연구용 가구 추가 구입에 따른 조립 작업을 진행할 예정입니다.\n가구 조립에 따른 소음 발생에 양해해 주시기 바랍니다.\n\n가구 조립 후 가구 추가 배치 등을 위한 공간 재조정 시 협조하여 주시기 바랍니다.\n\n○ 일시: 3. 8.(화) 9:30 ~ 18:00\n○ 장소: 3층 및 4층 엘리베이터 앞\n○ 문의사항: 880-1146"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "bdd42146-bbb7-4794-ab91-0bc49fd83108",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "*필독!!!*\n\n*[긴급공지] (임시) 자리 배치 기간 종료 및 개인 물품 이동안내*\n\n*추가 책상이 조만간 설치 및 배치되는 관계로* \n\n이전에 말씀드렸던 (임시) 자리 배치 기간이 곧 종료됩니다.\n\n따라서 *책상 이동이나 재배치 시에 파손 등의 우려가 있는 물건(예: 데스크탑, 노트북 등 고가의 물건)의 경우* \n\n*3/10(목) 저녁까지* 사물함이나 기타 장소를 활용해서 반드시 안전하게 옮겨주시길 부탁드립니다! (만약 사정이 여의치 않을 경우 학생회에 상황을 말씀해주시면 저희가 조치하도록 하겠습니다.)\n\n자리 재배치 이후의 좌석 재배치에 대해서는\n\n정해지는 대로 다시 말씀드리겠습니다.\n\n불편함이 있으시겠지만 깊이 양해 부탁드립니다!\n\n감사합니다!",
-    "ts": "1646736435.044559",
-    "thread_ts": "1646736435.044559",
-    "edited": {
-      "user": "U01Q1KFN4JK",
-      "ts": "1646744541.000000"
-    },
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QZRUNBA4",
-        "ts": "1646736504.897499"
-      },
-      {
-        "user": "U01Q1KFN4JK",
-        "ts": "1646743657.019619"
-      }
-    ],
-    "latest_reply": "1646743657.019619",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 20,
-        "users": [
-          "U01R719DKK2",
-          "U0302PJE83A",
-          "U01PVEU1A07",
-          "U02UVAUFSRJ",
-          "U02UVAT3BPW",
-          "U02ULBH9YS2",
-          "U01Q386CMKQ",
-          "U02V5LTRU2V",
-          "U01PVEU7QKH",
-          "U01QV1PBKUZ",
-          "U01QV1WAPL1",
-          "U01Q1KQ03PZ",
-          "U02V5LRSE2V",
-          "U02UT2TFZ8B",
-          "U0302PHUHME",
-          "U01QGKC33BM",
-          "U02UT1YNY6N",
-          "U01QGG6A5LJ",
-          "U02V5LT4DLZ",
-          "U02ULBHV58W"
-        ]
-      },
-      {
-        "name": "rolling_on_the_floor_laughing",
-        "count": 1,
-        "users": [
-          "U01QV1SQJ57"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "IQXr",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "필독!!!",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "[긴급공지] (임시) 자리 배치 기간 종료 및 개인 물품 이동안내",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "추가 책상이 조만간 설치 및 배치되는 관계로 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n이전에 말씀드렸던 (임시) 자리 배치 기간이 곧 종료됩니다.\n\n따라서 "
-              },
-              {
-                "type": "text",
-                "text": "책상 이동이나 재배치 시에 파손 등의 우려가 있는 물건(예: 데스크탑, 노트북 등 고가의 물건)의 경우 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "3/10(목) 저녁까지 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "사물함이나 기타 장소를 활용해서 반드시 안전하게 옮겨주시길 부탁드립니다! (만약 사정이 여의치 않을 경우 학생회에 상황을 말씀해주시면 저희가 조치하도록 하겠습니다.)\n\n자리 재배치 이후의 좌석 재배치에 대해서는\n\n정해지는 대로 다시 말씀드리겠습니다.\n\n불편함이 있으시겠지만 깊이 양해 부탁드립니다!\n\n감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01Q1KFN4JK",
-      "U01QZRUNBA4"
-    ]
-  },
-  {
-    "client_msg_id": "799697C0-18A6-45E6-8A7A-78CF2FF634A1",
-    "type": "message",
-    "user": "U01QZRUNBA4",
-    "text": "학교에서 제공해준 모니터는 어떻게 해야 하나요? ",
-    "ts": "1646736504.897499",
-    "thread_ts": "1646736435.044559",
-    "parent_user_id": "U01Q1KFN4JK",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bunXW",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "학교에서 제공해준 모니터는 어떻게 해야 하나요? "
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
-      "first_name": "3기_최현준",
-      "real_name": "3기_최현준",
-      "display_name": "3기_최현준",
-      "team": "T01QA5S537V",
-      "name": "nschj1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "2ae746cc-2a92-4651-a894-fd5cfc349c67",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "모니터는 원래 있던 자리에 두고 나머지 물품을 이동시키시면 됩니다.",
-    "ts": "1646743657.019619",
-    "thread_ts": "1646736435.044559",
-    "parent_user_id": "U01Q1KFN4JK",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "P9Br",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "모니터는 원래 있던 자리에 두고 나머지 물품을 이동시키시면 됩니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "740a8e63-2b50-412f-b933-4ed42c804d31",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;가구 조립 안내&gt;\n학생 연구용 가구 추가 구입에 따른 조립 작업을 진행할 예정입니다.\n가구 조립에 따른 소음 발생에 양해해 주시기 바랍니다.\n\n가구 조립 후 가구 추가 배치 등을 위한 공간 재조정 시 협조하여 주시기 바랍니다.\n\n○ 일시: 3. 8.(화) 9:30 ~ 18:00\n○ 장소: 3층 및 4층 엘리베이터 앞\n○ 문의사항: 880-1146",
+			"ts": "1646699886.455089",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bje",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<가구 조립 안내>\n학생 연구용 가구 추가 구입에 따른 조립 작업을 진행할 예정입니다.\n가구 조립에 따른 소음 발생에 양해해 주시기 바랍니다.\n\n가구 조립 후 가구 추가 배치 등을 위한 공간 재조정 시 협조하여 주시기 바랍니다.\n\n○ 일시: 3. 8.(화) 9:30 ~ 18:00\n○ 장소: 3층 및 4층 엘리베이터 앞\n○ 문의사항: 880-1146"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "bdd42146-bbb7-4794-ab91-0bc49fd83108",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "*필독!!!*\n\n*[긴급공지] (임시) 자리 배치 기간 종료 및 개인 물품 이동안내*\n\n*추가 책상이 조만간 설치 및 배치되는 관계로* \n\n이전에 말씀드렸던 (임시) 자리 배치 기간이 곧 종료됩니다.\n\n따라서 *책상 이동이나 재배치 시에 파손 등의 우려가 있는 물건(예: 데스크탑, 노트북 등 고가의 물건)의 경우* \n\n*3/10(목) 저녁까지* 사물함이나 기타 장소를 활용해서 반드시 안전하게 옮겨주시길 부탁드립니다! (만약 사정이 여의치 않을 경우 학생회에 상황을 말씀해주시면 저희가 조치하도록 하겠습니다.)\n\n자리 재배치 이후의 좌석 재배치에 대해서는\n\n정해지는 대로 다시 말씀드리겠습니다.\n\n불편함이 있으시겠지만 깊이 양해 부탁드립니다!\n\n감사합니다!",
+			"ts": "1646736435.044559",
+			"thread_ts": "1646736435.044559",
+			"edited": {
+				"user": "U01Q1KFN4JK",
+				"ts": "1646744541.000000"
+			},
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QZRUNBA4",
+					"ts": "1646736504.897499"
+				},
+				{
+					"user": "U01Q1KFN4JK",
+					"ts": "1646743657.019619"
+				}
+			],
+			"latest_reply": "1646743657.019619",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 20,
+					"users": [
+						"U01R719DKK2",
+						"U0302PJE83A",
+						"U01PVEU1A07",
+						"U02UVAUFSRJ",
+						"U02UVAT3BPW",
+						"U02ULBH9YS2",
+						"U01Q386CMKQ",
+						"U02V5LTRU2V",
+						"U01PVEU7QKH",
+						"U01QV1PBKUZ",
+						"U01QV1WAPL1",
+						"U01Q1KQ03PZ",
+						"U02V5LRSE2V",
+						"U02UT2TFZ8B",
+						"U0302PHUHME",
+						"U01QGKC33BM",
+						"U02UT1YNY6N",
+						"U01QGG6A5LJ",
+						"U02V5LT4DLZ",
+						"U02ULBHV58W"
+					]
+				},
+				{
+					"name": "rolling_on_the_floor_laughing",
+					"count": 1,
+					"users": [
+						"U01QV1SQJ57"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "IQXr",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "필독!!!",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "[긴급공지] (임시) 자리 배치 기간 종료 및 개인 물품 이동안내",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "추가 책상이 조만간 설치 및 배치되는 관계로 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n이전에 말씀드렸던 (임시) 자리 배치 기간이 곧 종료됩니다.\n\n따라서 "
+								},
+								{
+									"type": "text",
+									"text": "책상 이동이나 재배치 시에 파손 등의 우려가 있는 물건(예: 데스크탑, 노트북 등 고가의 물건)의 경우 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "3/10(목) 저녁까지 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "사물함이나 기타 장소를 활용해서 반드시 안전하게 옮겨주시길 부탁드립니다! (만약 사정이 여의치 않을 경우 학생회에 상황을 말씀해주시면 저희가 조치하도록 하겠습니다.)\n\n자리 재배치 이후의 좌석 재배치에 대해서는\n\n정해지는 대로 다시 말씀드리겠습니다.\n\n불편함이 있으시겠지만 깊이 양해 부탁드립니다!\n\n감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01Q1KFN4JK",
+				"U01QZRUNBA4"
+			]
+		},
+		{
+			"client_msg_id": "799697C0-18A6-45E6-8A7A-78CF2FF634A1",
+			"type": "message",
+			"user": "U01QZRUNBA4",
+			"text": "학교에서 제공해준 모니터는 어떻게 해야 하나요? ",
+			"ts": "1646736504.897499",
+			"thread_ts": "1646736435.044559",
+			"parent_user_id": "U01Q1KFN4JK",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bunXW",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "학교에서 제공해준 모니터는 어떻게 해야 하나요? "
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+				"first_name": "3기_최현준",
+				"real_name": "3기_최현준",
+				"display_name": "3기_최현준",
+				"team": "T01QA5S537V",
+				"name": "nschj1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "2ae746cc-2a92-4651-a894-fd5cfc349c67",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "모니터는 원래 있던 자리에 두고 나머지 물품을 이동시키시면 됩니다.",
+			"ts": "1646743657.019619",
+			"thread_ts": "1646736435.044559",
+			"parent_user_id": "U01Q1KFN4JK",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "P9Br",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "모니터는 원래 있던 자리에 두고 나머지 물품을 이동시키시면 됩니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

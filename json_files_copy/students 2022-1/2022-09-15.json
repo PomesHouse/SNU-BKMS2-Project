@@ -1,0 +1,62 @@
+[
+  {
+    "type": "message",
+    "user": "U0406PM050F",
+    "text": "\u003c@U0406PM050F\u003e has joined the channel",
+    "ts": "1663232228.669639",
+    "subtype": "channel_join",
+    "inviter": "U02ULBHV58W",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-08/4360699869840_c05147c8c7dbead948b5_72.png",
+      "first_name": "3.5기_손혜령",
+      "real_name": "3.5기_손혜령",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "hyeryung.son",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U042D4BC4R2",
+    "text": "\u003c@U042D4BC4R2\u003e has joined the channel",
+    "ts": "1663233286.075889",
+    "subtype": "channel_join",
+    "inviter": "U01Q1KFN4JK",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-09-14/4091388480769_f8d1f0b6da5717d8cf00_72.jpg",
+      "first_name": "kim.taekyoung",
+      "real_name": "kim.taekyoung",
+      "display_name": "김태경",
+      "team": "T01QA5S537V",
+      "name": "kim.taekyoung972",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

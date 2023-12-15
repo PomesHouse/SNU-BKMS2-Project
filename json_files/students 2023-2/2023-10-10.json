@@ -1,92 +1,94 @@
-[
-  {
-    "client_msg_id": "72e98337-2432-4747-94d5-b4f50399704c",
-    "type": "message",
-    "user": "U040M7VULN7",
-    "text": "안녕하세요. GSDS 학생회입니다 :)\n연이은 연휴 기간 재충전의 시간이 좀 되셨을지요.\n\n다름 아니라 지난주 금요일(6일) 행정실에서 논자시 일정이 매년 3,9월에서 1,7월로 변경된다는 공지가 있었는데요.\n\n다소 예상 못하게 공지가 나오다 보니 혹시 일정 변경에 따른 학생 분들의 애로사항이 있을지 케이스를 수집해서 교수님들께 말씀드리고자 합니다. 가령 이번 일정 변경으로 겨울방학 부트캠프를 이수하고 논자시에 응시하려던 분들은 이제 와서 정규학기 기초과목 수강신청을 할 수 없어 난처하시다고 알고 있습니다.\n\n이와 비슷한 사례가 있으시다면 3.5기 허상우 / 3.5기 김채윤 두 명의 DM으로 이야기 전해주시면 취합하도록 하겠습니다.\n\n빠른 논의 진행을 위해 내일(11일) 23시 59분까지만 의견받겠습니다.\n\n감사합니다!",
-    "ts": "1696900107.569339",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 28,
-        "users": [
-          "U01QV1SQJ57",
-          "U02ULBHV58W",
-          "U02B19BV9ST",
-          "U04QGUET9U3",
-          "U04QVM5RKNV",
-          "U040C40QE6T",
-          "U01Q386CMKQ",
-          "U04QKG4K12Q",
-          "U040ZVCNVU1",
-          "U04Q2G4KNTZ",
-          "U0302PLQ34Y",
-          "U04QVM3QD41",
-          "U040MB432JW",
-          "U05QHT3DEDP",
-          "U04QVLEGY3B",
-          "U04Q2G35DTR",
-          "U040ENLD4QN",
-          "U04QKG52VFE",
-          "U04R6NS3924",
-          "U04QGUEEHJ7",
-          "U04R6NRPJC8",
-          "U04QGUDP4DR",
-          "U040ENMTCEA",
-          "U04QH2ELD5Y",
-          "U01Q1KQ03PZ",
-          "U04QGUCSQRZ",
-          "U04QGUD1CMR",
-          "U04R20KG9JM"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 2,
-        "users": [
-          "U02V5LTRU2V",
-          "U04R6NT438Q"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fVq2V",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요. GSDS 학생회입니다 :)\n연이은 연휴 기간 재충전의 시간이 좀 되셨을지요.\n\n다름 아니라 지난주 금요일(6일) 행정실에서 논자시 일정이 매년 3,9월에서 1,7월로 변경된다는 공지가 있었는데요.\n\n다소 예상 못하게 공지가 나오다 보니 혹시 일정 변경에 따른 학생 분들의 애로사항이 있을지 케이스를 수집해서 교수님들께 말씀드리고자 합니다. 가령 이번 일정 변경으로 겨울방학 부트캠프를 이수하고 논자시에 응시하려던 분들은 이제 와서 정규학기 기초과목 수강신청을 할 수 없어 난처하시다고 알고 있습니다.\n\n이와 비슷한 사례가 있으시다면 3.5기 허상우 / 3.5기 김채윤 두 명의 DM으로 이야기 전해주시면 취합하도록 하겠습니다.\n\n빠른 논의 진행을 위해 내일(11일) 23시 59분까지만 의견받겠습니다.\n\n감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "허상우",
-      "real_name": "허상우",
-      "display_name": "3.5기_허상우",
-      "team": "T01QA5S537V",
-      "name": "sh10hsw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "72e98337-2432-4747-94d5-b4f50399704c",
+			"type": "message",
+			"user": "U040M7VULN7",
+			"text": "안녕하세요. GSDS 학생회입니다 :)\n연이은 연휴 기간 재충전의 시간이 좀 되셨을지요.\n\n다름 아니라 지난주 금요일(6일) 행정실에서 논자시 일정이 매년 3,9월에서 1,7월로 변경된다는 공지가 있었는데요.\n\n다소 예상 못하게 공지가 나오다 보니 혹시 일정 변경에 따른 학생 분들의 애로사항이 있을지 케이스를 수집해서 교수님들께 말씀드리고자 합니다. 가령 이번 일정 변경으로 겨울방학 부트캠프를 이수하고 논자시에 응시하려던 분들은 이제 와서 정규학기 기초과목 수강신청을 할 수 없어 난처하시다고 알고 있습니다.\n\n이와 비슷한 사례가 있으시다면 3.5기 허상우 / 3.5기 김채윤 두 명의 DM으로 이야기 전해주시면 취합하도록 하겠습니다.\n\n빠른 논의 진행을 위해 내일(11일) 23시 59분까지만 의견받겠습니다.\n\n감사합니다!",
+			"ts": "1696900107.569339",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 28,
+					"users": [
+						"U01QV1SQJ57",
+						"U02ULBHV58W",
+						"U02B19BV9ST",
+						"U04QGUET9U3",
+						"U04QVM5RKNV",
+						"U040C40QE6T",
+						"U01Q386CMKQ",
+						"U04QKG4K12Q",
+						"U040ZVCNVU1",
+						"U04Q2G4KNTZ",
+						"U0302PLQ34Y",
+						"U04QVM3QD41",
+						"U040MB432JW",
+						"U05QHT3DEDP",
+						"U04QVLEGY3B",
+						"U04Q2G35DTR",
+						"U040ENLD4QN",
+						"U04QKG52VFE",
+						"U04R6NS3924",
+						"U04QGUEEHJ7",
+						"U04R6NRPJC8",
+						"U04QGUDP4DR",
+						"U040ENMTCEA",
+						"U04QH2ELD5Y",
+						"U01Q1KQ03PZ",
+						"U04QGUCSQRZ",
+						"U04QGUD1CMR",
+						"U04R20KG9JM"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 2,
+					"users": [
+						"U02V5LTRU2V",
+						"U04R6NT438Q"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fVq2V",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요. GSDS 학생회입니다 :)\n연이은 연휴 기간 재충전의 시간이 좀 되셨을지요.\n\n다름 아니라 지난주 금요일(6일) 행정실에서 논자시 일정이 매년 3,9월에서 1,7월로 변경된다는 공지가 있었는데요.\n\n다소 예상 못하게 공지가 나오다 보니 혹시 일정 변경에 따른 학생 분들의 애로사항이 있을지 케이스를 수집해서 교수님들께 말씀드리고자 합니다. 가령 이번 일정 변경으로 겨울방학 부트캠프를 이수하고 논자시에 응시하려던 분들은 이제 와서 정규학기 기초과목 수강신청을 할 수 없어 난처하시다고 알고 있습니다.\n\n이와 비슷한 사례가 있으시다면 3.5기 허상우 / 3.5기 김채윤 두 명의 DM으로 이야기 전해주시면 취합하도록 하겠습니다.\n\n빠른 논의 진행을 위해 내일(11일) 23시 59분까지만 의견받겠습니다.\n\n감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "허상우",
+				"real_name": "허상우",
+				"display_name": "3.5기_허상우",
+				"team": "T01QA5S537V",
+				"name": "sh10hsw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,159 +1,161 @@
-[
-  {
-    "client_msg_id": "6b7d3be4-21f2-4b08-ad90-3c9a30f9356a",
-    "type": "message",
-    "user": "U01R67PKD7S",
-    "text": "storage02 노드에 이상이 생겨 확인중이오니 서버 사용중이신 분은 참고하시기 바랍니다.",
-    "ts": "1694403478.336049",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U0302PLQ34Y"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fmk+",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "storage02 노드에 이상이 생겨 확인중이오니 서버 사용중이신 분은 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
-      "first_name": "조경제",
-      "real_name": "조경제",
-      "display_name": "4기_조경제",
-      "team": "T01QA5S537V",
-      "name": "avq159",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "b49ed7bc-613f-48ca-a49d-a33739399c84",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "[서버 공지]\n*9월 18일 (월)*  942동 건물 정전 관계로 서버 사용이 불가합니다.\n\n• *사용 불가 시간:  2023. 9. 18.(월) 18시 ~ 9. 19.(화) 10시*  \n    ◦ 정전이 오후 7시에 예정되어 있어서 오후 6시부터 서버 전원을 내릴 예정입니다.\n• 복구 후 공지드리겠습니다.",
-    "ts": "1694419291.642569",
-    "thread_ts": "1694419291.642569",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01R67PKD7S",
-        "ts": "1694848682.617979"
-      }
-    ],
-    "latest_reply": "1694848682.617979",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heavy_check_mark",
-        "count": 5,
-        "users": [
-          "U0406PM050F",
-          "U041B24HMFS",
-          "U02BD3EV4DQ",
-          "U0302PLQ34Y",
-          "U02B19BV9ST"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "DjG",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[서버 공지]\n"
-              },
-              {
-                "type": "text",
-                "text": "9월 18일 (월)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "  942동 건물 정전 관계로 서버 사용이 불가합니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc6a9 \\ubd88\\uac00 \\uc2dc\\uac04:  2023. 9. 18.(\\uc6d4) 18\\uc2dc ~ 9. 19.(\\ud654) 10\\uc2dc  \",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc815\\uc804\\uc774 \\uc624\\ud6c4 7\\uc2dc\\uc5d0 \\uc608\\uc815\\ub418\\uc5b4 \\uc788\\uc5b4\\uc11c \\uc624\\ud6c4 6\\uc2dc\\ubd80\\ud130 \\uc11c\\ubc84 \\uc804\\uc6d0\\uc744 \\ub0b4\\ub9b4 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubcf5\\uad6c \\ud6c4 \\uacf5\\uc9c0\\ub4dc\\ub9ac\\uaca0\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01R67PKD7S"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "6b7d3be4-21f2-4b08-ad90-3c9a30f9356a",
+			"type": "message",
+			"user": "U01R67PKD7S",
+			"text": "storage02 노드에 이상이 생겨 확인중이오니 서버 사용중이신 분은 참고하시기 바랍니다.",
+			"ts": "1694403478.336049",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U0302PLQ34Y"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fmk+",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "storage02 노드에 이상이 생겨 확인중이오니 서버 사용중이신 분은 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+				"first_name": "조경제",
+				"real_name": "조경제",
+				"display_name": "4기_조경제",
+				"team": "T01QA5S537V",
+				"name": "avq159",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "b49ed7bc-613f-48ca-a49d-a33739399c84",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "[서버 공지]\n*9월 18일 (월)*  942동 건물 정전 관계로 서버 사용이 불가합니다.\n\n• *사용 불가 시간:  2023. 9. 18.(월) 18시 ~ 9. 19.(화) 10시*  \n    ◦ 정전이 오후 7시에 예정되어 있어서 오후 6시부터 서버 전원을 내릴 예정입니다.\n• 복구 후 공지드리겠습니다.",
+			"ts": "1694419291.642569",
+			"thread_ts": "1694419291.642569",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01R67PKD7S",
+					"ts": "1694848682.617979"
+				}
+			],
+			"latest_reply": "1694848682.617979",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heavy_check_mark",
+					"count": 5,
+					"users": [
+						"U0406PM050F",
+						"U041B24HMFS",
+						"U02BD3EV4DQ",
+						"U0302PLQ34Y",
+						"U02B19BV9ST"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "DjG",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[서버 공지]\n"
+								},
+								{
+									"type": "text",
+									"text": "9월 18일 (월)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "  942동 건물 정전 관계로 서버 사용이 불가합니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc6a9 \\ubd88\\uac00 \\uc2dc\\uac04:  2023. 9. 18.(\\uc6d4) 18\\uc2dc ~ 9. 19.(\\ud654) 10\\uc2dc  \",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc815\\uc804\\uc774 \\uc624\\ud6c4 7\\uc2dc\\uc5d0 \\uc608\\uc815\\ub418\\uc5b4 \\uc788\\uc5b4\\uc11c \\uc624\\ud6c4 6\\uc2dc\\ubd80\\ud130 \\uc11c\\ubc84 \\uc804\\uc6d0\\uc744 \\ub0b4\\ub9b4 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubcf5\\uad6c \\ud6c4 \\uacf5\\uc9c0\\ub4dc\\ub9ac\\uaca0\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01R67PKD7S"
+			]
+		}
+	]
+}

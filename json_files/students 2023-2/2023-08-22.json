@@ -1,134 +1,136 @@
-[
-  {
-    "client_msg_id": "bdf16db3-c2fb-442b-9fbf-8018fa8527db",
-    "type": "message",
-    "user": "U02V5LTPGRX",
-    "text": "이번주 연구 공원 메뉴입니다!!",
-    "ts": "1692667558.853349",
-    "files": [
-      {
-        "id": "F05NUMPUPHR",
-        "created": 1692667545,
-        "timestamp": 1692667545,
-        "name": "20230821_121851.jpg",
-        "title": "20230821_121851.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U02V5LTPGRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 799732,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05NUMPUPHR-20230821_121851.jpg",
-        "url_private_download": "attachments/F05NUMPUPHR-20230821_121851.jpg",
-        "original_h": 3024,
-        "original_w": 4032,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 270,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 360,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 540,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 720,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 768,
-        "permalink": "https://snugsds.slack.com/files/U02V5LTPGRX/F05NUMPUPHR/20230821_121851.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05NUMPUPHR-f2b3c99c67",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 8,
-        "users": [
-          "U0406PM050F",
-          "U040MB3TGSE",
-          "U02ULBHV58W",
-          "U040ZVCNVU1",
-          "U0302PHUHME",
-          "U02UQ4D8L2Z",
-          "U01QGKC4BM1",
-          "U02UT1XUGFL"
-        ]
-      },
-      {
-        "name": "pray::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9A=",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "이번주 연구 공원 메뉴입니다!!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "Daye",
-      "real_name": "Daye Lee",
-      "display_name": "3기_이다예",
-      "team": "T01QA5S537V",
-      "name": "gbyou1694",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "bdf16db3-c2fb-442b-9fbf-8018fa8527db",
+			"type": "message",
+			"user": "U02V5LTPGRX",
+			"text": "이번주 연구 공원 메뉴입니다!!",
+			"ts": "1692667558.853349",
+			"files": [
+				{
+					"id": "F05NUMPUPHR",
+					"created": 1692667545,
+					"timestamp": 1692667545,
+					"name": "20230821_121851.jpg",
+					"title": "20230821_121851.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U02V5LTPGRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 799732,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05NUMPUPHR-20230821_121851.jpg",
+					"url_private_download": "attachments/F05NUMPUPHR-20230821_121851.jpg",
+					"original_h": 3024,
+					"original_w": 4032,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 270,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 360,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 540,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 720,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05NUMPUPHR-354e8da70b/20230821_121851_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 768,
+					"permalink": "https://snugsds.slack.com/files/U02V5LTPGRX/F05NUMPUPHR/20230821_121851.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05NUMPUPHR-f2b3c99c67",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 8,
+					"users": [
+						"U0406PM050F",
+						"U040MB3TGSE",
+						"U02ULBHV58W",
+						"U040ZVCNVU1",
+						"U0302PHUHME",
+						"U02UQ4D8L2Z",
+						"U01QGKC4BM1",
+						"U02UT1XUGFL"
+					]
+				},
+				{
+					"name": "pray::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9A=",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "이번주 연구 공원 메뉴입니다!!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "Daye",
+				"real_name": "Daye Lee",
+				"display_name": "3기_이다예",
+				"team": "T01QA5S537V",
+				"name": "gbyou1694",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

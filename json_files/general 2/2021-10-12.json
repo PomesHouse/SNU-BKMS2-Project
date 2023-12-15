@@ -1,886 +1,888 @@
-[
-  {
-    "client_msg_id": "05f40c48-fcdd-454b-a059-434df191f131",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "중앙도서관은 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위하여 연구력 강화 워크숍을 다음과 같이 온라인으로 개최하오니, 관심있는 분들의 많은 참여 부탁드립니다.\n\n  가. 제목 : *[온라인]* 2021년 제4회 중앙도서관 연구력 강화 워크숍\n              - 약탈적 학술지·학회 피하기\n  나. 일시 : 2021. 10. 20.(수) 14:00 ~ 15:30\n  다. 참여 방법 : *온라인 사전 신청(필수) 후, 해당 교육 시간에 접속*  ※ 사전신청 URL : \u003chttps://www.enago.co.kr/academy/how-to-avoid-predatory-journals/\u003e\n  라. 강사 : 박동준 박사(캘리포니아 대학교 샌디에이고 의과대학 외과학과 박사후 과정)\n  마. 주제 및 세부내용 : 신뢰할 수 있는 출판사/저널의 속성, 약탈적 출판사/저널을 식별하는 방법, 모범 사례, 대응하는 방법 등",
-    "ts": "1634004423.132300",
-    "attachments": [
-      {
-        "fallback": "이나고 아카데미: 약탈적 학술지·학회 피하기 - 이나고 아카데미",
-        "id": 1,
-        "title": "약탈적 학술지·학회 피하기 - 이나고 아카데미",
-        "title_link": "https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/",
-        "text": "약탈적 출판에 관한 개요 약탈적 출판사/저널을 식별하는 방법 포식성 저널을 피하기 위한 모범 사례 약탈적 출판사/저널에 대응하는 방법",
-        "image_url": "https://www.enago.com/academy/kr/wp-content/uploads/sites/10/2020/02/PredatoryPublishing.jpg",
-        "service_name": "이나고 아카데미",
-        "service_icon": "https://www.enago.com/academy/kr/wp-content/uploads/sites/10/2018/10/faviconfinal.png",
-        "from_url": "https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/",
-        "original_url": "https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/",
-        "blocks": null,
-        "ts": 1631862163
-      }
-    ],
-    "files": [
-      {
-        "id": "F02J48KK92L",
-        "created": 1634004420,
-        "timestamp": 1634004420,
-        "name": "2021년 제4회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
-        "title": "2021년 제4회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 249197,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02J48KK92L-2021년 제4회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
-        "url_private_download": "attachments/F02J48KK92L-2021년 제4회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
-        "original_h": 1123,
-        "original_w": 794,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________480.png",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________720.png",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________960.png",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________1024.png",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02J48KK92L/2021_______4_______________________________________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02J48KK92L-25d6f1d7b2",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "QCx0",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "중앙도서관은 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위하여 연구력 강화 워크숍을 다음과 같이 온라인으로 개최하오니, 관심있는 분들의 많은 참여 부탁드립니다.\n\n  가. 제목 : "
-              },
-              {
-                "type": "text",
-                "text": "[온라인]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 2021년 제4회 중앙도서관 연구력 강화 워크숍\n              - 약탈적 학술지·학회 피하기\n  나. 일시 : 2021. 10. 20.(수) 14:00 ~ 15:30\n  다. 참여 방법 : "
-              },
-              {
-                "type": "text",
-                "text": "온라인 사전 신청(필수) 후, 해당 교육 시간에 접속",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "  ※ 사전신청 URL : "
-              },
-              {
-                "type": "link",
-                "url": "https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n  라. 강사 : 박동준 박사(캘리포니아 대학교 샌디에이고 의과대학 외과학과 박사후 과정)\n  마. 주제 및 세부내용 : 신뢰할 수 있는 출판사/저널의 속성, 약탈적 출판사/저널을 식별하는 방법, 모범 사례, 대응하는 방법 등"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "a97ce964-2aee-4e54-89d2-076fd7204dbb",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u003c!channel\u003e \u0026lt;2021학년도 2학기 논문제출 관련 등록 및 심사료 관련 안내\u0026gt;*\n\n2021학년도 2학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 안내 드리니 해당되시는 분들께서는 각 일자 및 준비 사항을 확인하여 주시기 바랍니다.\n\n*논문심사 일정*\n  *가. 논문제출 예정자 등록기간:* 2021. 10. 12.(화)～10. 22.(금) \u0026lt;11일간\u0026gt;\n      논문심사료 납부기간: *2021.10.25.(월)～10.26.(화)*\n    1) 심사료 납부 확인서 제출장소: 데이터사이언스대학원 행정실\n    2) 제출서류: ①논문심사원 \u0026lt;서식01\u0026gt; ②논문심사위원 신청서 \u0026lt;서식7-1\u0026gt; ③연구윤리 준수확인서 \u0026lt;서식23\u0026gt; 제출\n    3) 논문심사료: 석사 100,000원/박사 300,000원\n    4) 납부장소 : 농협중앙회 및 신한은행 전 지점\n    5) 납부방법 : 논문제출 예정자가 서울대학교 포털 마이스누에서 고지서를 출력하여 지정한 은행에 납부하거나 고지서에 명시되어있는 개인별 가상계좌로 계좌 이체 후 은행에서 발급한 영수필 통지서를 행정실에 제출해야 함\n      ※ 고지서 출력방법 : 서울대학교 포털 마이스누(\u003chttp://my.snu.ac.kr\u003e) 로그인 → 학사행정 → 수업관리 → 졸업정보 → 논문심사료 납부고지서 → 출력\n  *나. 심사용 논문계획서 제출(Proposal):* 2021. 10. 29. (금)\n    * 발표자는 심사용 논문계획서 (논문작성계획서는 연구주제, 연구의 목적, 연구의 필요성, 관련 문헌 고찰,\n      연구방법, 기대효과, 참고문헌 등을 A4용지, 표지를 포함하여 자유양식으로 10매 작성)\n    * 제출 시 표지와 본문을 하나의 PDF로 변환하여 제출할 것\n    * PDF를 \u003cmailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr\u003e로 해당 기간 내 제출해야함.\n    ** 심사당일 논문계획서 4부를 인쇄하여 반드시 지참하여야함.*\n  *다. 논문심사 (자세한 시간 및 장소는 공지예정) 자세한 일정은 붙임파일을 확인하여 주시기 바랍니다.* \n\n관련문의: 행정실 김민서 (\u003cmailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr\u003e, 880 1331)",
-    "ts": "1634017589.134400",
-    "thread_ts": "1634017589.134400",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01PVEU98KH",
-        "ts": "1634620535.147500"
-      }
-    ],
-    "latest_reply": "1634620535.147500",
-    "files": [
-      {
-        "id": "F02HC14LM61",
-        "created": 1634017358,
-        "timestamp": 1634017358,
-        "name": "2021학년도 2학기 데이터사이언스대학원 석사 논문계획서 심사 시행(안).pdf",
-        "title": "2021학년도 2학기 데이터사이언스대학원 석사 논문계획서 심사 시행(안).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 577522,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02HC14LM61-2021학년도 2학기 데이터사이언스대학원 석사 논문계획서 심사 시행(안).pdf",
-        "url_private_download": "attachments/F02HC14LM61-2021학년도 2학기 데이터사이언스대학원 석사 논문계획서 심사 시행(안).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02HC14LM61/2021__________2_______________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02HC14LM61-17ea45d57f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02J4L6UAC8",
-        "created": 1634017361,
-        "timestamp": 1634017361,
-        "name": "2021학년도 2학기 데이터사이언스대학원 석사 논문심사 시행계획(안).pdf",
-        "title": "2021학년도 2학기 데이터사이언스대학원 석사 논문심사 시행계획(안).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1026090,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02J4L6UAC8-2021학년도 2학기 데이터사이언스대학원 석사 논문심사 시행계획(안).pdf",
-        "url_private_download": "attachments/F02J4L6UAC8-2021학년도 2학기 데이터사이언스대학원 석사 논문심사 시행계획(안).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02J4L6UAC8/2021__________2___________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02J4L6UAC8-fef050f162",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02HH6M626Q",
-        "created": 1634017365,
-        "timestamp": 1634017365,
-        "name": "2021학년도 2학기 데이터사이언스대학원 박사 논문심사 시행계획(안).pdf",
-        "title": "2021학년도 2학기 데이터사이언스대학원 박사 논문심사 시행계획(안).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1111768,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02HH6M626Q-2021학년도 2학기 데이터사이언스대학원 박사 논문심사 시행계획(안).pdf",
-        "url_private_download": "attachments/F02HH6M626Q-2021학년도 2학기 데이터사이언스대학원 박사 논문심사 시행계획(안).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02HH6M626Q/2021__________2___________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02HH6M626Q-02aa6ee3c7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02H88K8LR4",
-        "created": 1634017372,
-        "timestamp": 1634017372,
-        "name": "2021학년도 2학기 데이터사이언스대학원 박 논문계획서 심사 시행(안).pdf",
-        "title": "2021학년도 2학기 데이터사이언스대학원 박 논문계획서 심사 시행(안).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 948199,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02H88K8LR4-2021학년도 2학기 데이터사이언스대학원 박 논문계획서 심사 시행(안).pdf",
-        "url_private_download": "attachments/F02H88K8LR4-2021학년도 2학기 데이터사이언스대학원 박 논문계획서 심사 시행(안).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02H88K8LR4/2021__________2____________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02H88K8LR4-0d7e015487",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02HTJS3R33",
-        "created": 1634017539,
-        "timestamp": 1634017539,
-        "name": "GSDS 석사박사 제출서류 (전체).zip",
-        "title": "GSDS 석사박사 제출서류 (전체).zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 248764,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02HTJS3R33-GSDS 석사박사 제출서류 (전체).zip",
-        "url_private_download": "attachments/F02HTJS3R33-GSDS 석사박사 제출서류 (전체).zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02HTJS3R33/gsds___________________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02HTJS3R33-38c9bddf86",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "FnH9I",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c2021학년도 2학기 논문제출 관련 등록 및 심사료 관련 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2021학년도 2학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 안내 드리니 해당되시는 분들께서는 각 일자 및 준비 사항을 확인하여 주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "논문심사 일정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  "
-              },
-              {
-                "type": "text",
-                "text": "가. 논문제출 예정자 등록기간: ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "2021. 10. 12.(화)～10. 22.(금) \u003c11일간\u003e\n      논문심사료 납부기간: "
-              },
-              {
-                "type": "text",
-                "text": "2021.10.25.(월)～10.26.(화)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    1) 심사료 납부 확인서 제출장소: 데이터사이언스대학원 행정실\n    2) 제출서류: ①논문심사원 \u003c서식01\u003e ②논문심사위원 신청서 \u003c서식7-1\u003e ③연구윤리 준수확인서 \u003c서식23\u003e 제출\n    3) 논문심사료: 석사 100,000원/박사 300,000원\n    4) 납부장소 : 농협중앙회 및 신한은행 전 지점\n    5) 납부방법 : 논문제출 예정자가 서울대학교 포털 마이스누에서 고지서를 출력하여 지정한 은행에 납부하거나 고지서에 명시되어있는 개인별 가상계좌로 계좌 이체 후 은행에서 발급한 영수필 통지서를 행정실에 제출해야 함\n      ※ 고지서 출력방법 : 서울대학교 포털 마이스누("
-              },
-              {
-                "type": "link",
-                "url": "http://my.snu.ac.kr",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") 로그인 → 학사행정 → 수업관리 → 졸업정보 → 논문심사료 납부고지서 → 출력\n "
-              },
-              {
-                "type": "text",
-                "text": " 나. 심사용 논문계획서 제출(Proposal): ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "2021. 10. 29. (금)\n    * 발표자는 심사용 논문계획서 (논문작성계획서는 연구주제, 연구의 목적, 연구의 필요성, 관련 문헌 고찰,\n      연구방법, 기대효과, 참고문헌 등을 A4용지, 표지를 포함하여 자유양식으로 10매 작성)\n    * 제출 시 표지와 본문을 하나의 PDF로 변환하여 제출할 것\n    * PDF를 "
-              },
-              {
-                "type": "link",
-                "url": "mailto:pocahontas@snu.ac.kr",
-                "text": "pocahontas@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "로 해당 기간 내 제출해야함.\n "
-              },
-              {
-                "type": "text",
-                "text": "   * 심사당일 논문계획서 4부를 인쇄하여 반드시 지참하여야함.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  "
-              },
-              {
-                "type": "text",
-                "text": "다. 논문심사 (자세한 시간 및 장소는 공지예정) 자세한 일정은 붙임파일을 확인하여 주시기 바랍니다. ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n관련문의: 행정실 김민서 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:pocahontas@snu.ac.kr",
-                "text": "pocahontas@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 880 1331)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01PVEU98KH"
-    ]
-  },
-  {
-    "client_msg_id": "62d69d3c-02c2-4320-aa38-0e7b01eb06a1",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021 4단계 BK21사업 혁신 아이디어 공모\u0026gt;\n\n한국연구재단에서는 4단계 BK21 사업의 취지와 성과를 보다 많이 공유하기 위해\n다음과 같이 사업 혁신 아이디어를 공모하고자 합니다.\n접수기간 연장 및 양식이 간소화되었습니다. 여러분의 더욱 많은 관심과 참여부탁드립니다.\n\n 가. 추진목적\n - 참여인력 및 업무관계자가 직접 제안하는 방식으로 다양한 아이디어 발굴 및 4단계 BK21 사업 브랜드와 성과 홍보와 긍정적 인식을 도모\n - 실제 예산절감사례 및 행정 간소화사례 공유로 사업 운영 효율성 증대\n\n나. 공모개요 (세부내용 [붙임]공고문 참조)\n - (공모주제) ① 4단계 BK21 브랜드 및 성과·효과성 대국민 홍보방안’\n        ② 사업 개선점 발굴 및 사업 기획 아이디어\n        ③ 예산절감사례 및 행정간소화사례\n - (수상자 선정 절차) 공모 응모작 접수→심사위원회 개최 및 심사→한국연구재단 이사장 최종 확정→수상자 발표 및 통지\n - (시상 내역) 총 25명 시상 / 총 상금 520만원\n\n다. 접수방법\n - 제출양식 : [붙임2]의 신청서 양식에 의함\n - 제출방법 : 공모 신청서 이메일 접수(\u003cmailto:bk21four@nrf.re.kr|bk21four@nrf.re.kr\u003e)\n - 접수시 메일 제목과 붙임파일명은 “[공모 접수] (주제번호) 접수자 성명”\n  ※ 접수 메일 제목 예시 : [공모 접수] (주제1) 홍길동\n\n라. 추진 일정\n - 접수 : ~ 2021년 10월 29일(금) 13시까지\n - 수상자 발표 : 2021년 12월중\n  ※ 별도 시상식은 개최하지 않음 \n \n문의 : BK21사업팀 윤기원연구원 (\u003ctel:0428696447|042-869-6447\u003e)\n붙임 4단계 BK21사업 혁신 아이디어 공모 공고문(수정) 1부\n\n접수기간 연장 및 양식이 간소화되었습니다. 여러분의 더욱 많은 관심과 참여부탁드립니다.",
-    "ts": "1634023200.135200",
-    "files": [
-      {
-        "id": "F02J4TZEX88",
-        "created": 1634023177,
-        "timestamp": 1634023177,
-        "name": "붙임.4단계 BK21 사업 혁신 아이디어 공모 공고문(수정).hwp",
-        "title": "붙임.4단계 BK21 사업 혁신 아이디어 공모 공고문(수정).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 192000,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02J4TZEX88-붙임.4단계 BK21 사업 혁신 아이디어 공모 공고문(수정).hwp",
-        "url_private_download": "attachments/F02J4TZEX88-붙임.4단계 BK21 사업 혁신 아이디어 공모 공고문(수정).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02J4TZEX88/______.4_______bk21____________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02J4TZEX88-10ed8b57ed",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qPW+P",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021 4단계 BK21사업 혁신 아이디어 공모\u003e\n\n한국연구재단에서는 4단계 BK21 사업의 취지와 성과를 보다 많이 공유하기 위해\n다음과 같이 사업 혁신 아이디어를 공모하고자 합니다.\n접수기간 연장 및 양식이 간소화되었습니다. 여러분의 더욱 많은 관심과 참여부탁드립니다.\n\n 가. 추진목적\n - 참여인력 및 업무관계자가 직접 제안하는 방식으로 다양한 아이디어 발굴 및 4단계 BK21 사업 브랜드와 성과 홍보와 긍정적 인식을 도모\n - 실제 예산절감사례 및 행정 간소화사례 공유로 사업 운영 효율성 증대\n\n나. 공모개요 (세부내용 [붙임]공고문 참조)\n - (공모주제) ① 4단계 BK21 브랜드 및 성과·효과성 대국민 홍보방안’\n        ② 사업 개선점 발굴 및 사업 기획 아이디어\n        ③ 예산절감사례 및 행정간소화사례\n - (수상자 선정 절차) 공모 응모작 접수→심사위원회 개최 및 심사→한국연구재단 이사장 최종 확정→수상자 발표 및 통지\n - (시상 내역) 총 25명 시상 / 총 상금 520만원\n\n다. 접수방법\n - 제출양식 : [붙임2]의 신청서 양식에 의함\n - 제출방법 : 공모 신청서 이메일 접수("
-              },
-              {
-                "type": "link",
-                "url": "mailto:bk21four@nrf.re.kr",
-                "text": "bk21four@nrf.re.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n - 접수시 메일 제목과 붙임파일명은 “[공모 접수] (주제번호) 접수자 성명”\n  ※ 접수 메일 제목 예시 : [공모 접수] (주제1) 홍길동\n\n라. 추진 일정\n - 접수 : ~ 2021년 10월 29일(금) 13시까지\n - 수상자 발표 : 2021년 12월중\n  ※ 별도 시상식은 개최하지 않음 \n \n문의 : BK21사업팀 윤기원연구원 ("
-              },
-              {
-                "type": "link",
-                "url": "tel:0428696447",
-                "text": "042-869-6447"
-              },
-              {
-                "type": "text",
-                "text": ")\n붙임 4단계 BK21사업 혁신 아이디어 공모 공고문(수정) 1부\n\n접수기간 연장 및 양식이 간소화되었습니다. 여러분의 더욱 많은 관심과 참여부탁드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ad092fd7-ccf7-4093-8ef3-86b18013256e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021학년도 충청남도 학자금 대출이자 지원 사업 안내\u0026gt;\n\n2021학년도 충청남도 청년 학자금 대출이자 지원 사업을 아래와 같이 시행하여 안내하오니 관심있는 학생분들께서는 내용을 확인하여 주시기 바랍니다.\n\n  가. 신청기간: *2021. 10. 1.(금) ~ 10. 15.(금)*\n  나. 지원대상: 공고일 기준 본인 또는 부모가 충청남도에 1년 이상 계속해서 주소지를 두며, 만19세 이상 만39세 이하인 자\n  다. 지원내용: 2018년 이후에 한국장학재단으로부터 실행한 학자금대출 중 2020년 7월 ~ 2021년 6월 간 발생 대출이자 전액\n  라. 신청방법: 서류 구비 후 온라인 신청(상세 붙임 안내문 참조)\n  마. 문 의 처: 충청남도인재육성재단 인재육성팀(\u003ctel:0416359800|041-635-9800\u003e, 9812)",
-    "ts": "1634029945.135800",
-    "files": [
-      {
-        "id": "F02H8UTQZL6",
-        "created": 1634029942,
-        "timestamp": 1634029942,
-        "name": "(충청남도)2021년도 충남 청년 학자금대출이자지원사업 공고문.pdf",
-        "title": "(충청남도)2021년도 충남 청년 학자금대출이자지원사업 공고문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 108160,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02H8UTQZL6-(충청남도)2021년도 충남 청년 학자금대출이자지원사업 공고문.pdf",
-        "url_private_download": "attachments/F02H8UTQZL6-(충청남도)2021년도 충남 청년 학자금대출이자지원사업 공고문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02H8UTQZL6/______________2021________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02H8UTQZL6-2b941448ab",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "pmYf",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 충청남도 학자금 대출이자 지원 사업 안내\u003e\n\n2021학년도 충청남도 청년 학자금 대출이자 지원 사업을 아래와 같이 시행하여 안내하오니 관심있는 학생분들께서는 내용을 확인하여 주시기 바랍니다.\n\n  가. 신청기간: "
-              },
-              {
-                "type": "text",
-                "text": "2021. 10. 1.(금) ~ 10. 15.(금)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  나. 지원대상: 공고일 기준 본인 또는 부모가 충청남도에 1년 이상 계속해서 주소지를 두며, 만19세 이상 만39세 이하인 자\n  다. 지원내용: 2018년 이후에 한국장학재단으로부터 실행한 학자금대출 중 2020년 7월 ~ 2021년 6월 간 발생 대출이자 전액\n  라. 신청방법: 서류 구비 후 온라인 신청(상세 붙임 안내문 참조)\n  마. 문 의 처: 충청남도인재육성재단 인재육성팀("
-              },
-              {
-                "type": "link",
-                "url": "tel:0416359800",
-                "text": "041-635-9800"
-              },
-              {
-                "type": "text",
-                "text": ", 9812)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "05f40c48-fcdd-454b-a059-434df191f131",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "중앙도서관은 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위하여 연구력 강화 워크숍을 다음과 같이 온라인으로 개최하오니, 관심있는 분들의 많은 참여 부탁드립니다.\n\n  가. 제목 : *[온라인]* 2021년 제4회 중앙도서관 연구력 강화 워크숍\n              - 약탈적 학술지·학회 피하기\n  나. 일시 : 2021. 10. 20.(수) 14:00 ~ 15:30\n  다. 참여 방법 : *온라인 사전 신청(필수) 후, 해당 교육 시간에 접속*  ※ 사전신청 URL : <https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/>\n  라. 강사 : 박동준 박사(캘리포니아 대학교 샌디에이고 의과대학 외과학과 박사후 과정)\n  마. 주제 및 세부내용 : 신뢰할 수 있는 출판사/저널의 속성, 약탈적 출판사/저널을 식별하는 방법, 모범 사례, 대응하는 방법 등",
+			"ts": "1634004423.132300",
+			"attachments": [
+				{
+					"fallback": "이나고 아카데미: 약탈적 학술지·학회 피하기 - 이나고 아카데미",
+					"id": 1,
+					"title": "약탈적 학술지·학회 피하기 - 이나고 아카데미",
+					"title_link": "https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/",
+					"text": "약탈적 출판에 관한 개요 약탈적 출판사/저널을 식별하는 방법 포식성 저널을 피하기 위한 모범 사례 약탈적 출판사/저널에 대응하는 방법",
+					"image_url": "https://www.enago.com/academy/kr/wp-content/uploads/sites/10/2020/02/PredatoryPublishing.jpg",
+					"service_name": "이나고 아카데미",
+					"service_icon": "https://www.enago.com/academy/kr/wp-content/uploads/sites/10/2018/10/faviconfinal.png",
+					"from_url": "https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/",
+					"original_url": "https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/",
+					"blocks": null,
+					"ts": 1631862163
+				}
+			],
+			"files": [
+				{
+					"id": "F02J48KK92L",
+					"created": 1634004420,
+					"timestamp": 1634004420,
+					"name": "2021년 제4회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
+					"title": "2021년 제4회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 249197,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02J48KK92L-2021년 제4회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
+					"url_private_download": "attachments/F02J48KK92L-2021년 제4회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
+					"original_h": 1123,
+					"original_w": 794,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________480.png",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________720.png",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________960.png",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02J48KK92L-ce2dd81c10/2021_______4________________________________________________________________1024.png",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02J48KK92L/2021_______4_______________________________________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02J48KK92L-25d6f1d7b2",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "QCx0",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "중앙도서관은 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위하여 연구력 강화 워크숍을 다음과 같이 온라인으로 개최하오니, 관심있는 분들의 많은 참여 부탁드립니다.\n\n  가. 제목 : "
+								},
+								{
+									"type": "text",
+									"text": "[온라인]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 2021년 제4회 중앙도서관 연구력 강화 워크숍\n              - 약탈적 학술지·학회 피하기\n  나. 일시 : 2021. 10. 20.(수) 14:00 ~ 15:30\n  다. 참여 방법 : "
+								},
+								{
+									"type": "text",
+									"text": "온라인 사전 신청(필수) 후, 해당 교육 시간에 접속",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "  ※ 사전신청 URL : "
+								},
+								{
+									"type": "link",
+									"url": "https://www.enago.co.kr/academy/how-to-avoid-predatory-journals/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n  라. 강사 : 박동준 박사(캘리포니아 대학교 샌디에이고 의과대학 외과학과 박사후 과정)\n  마. 주제 및 세부내용 : 신뢰할 수 있는 출판사/저널의 속성, 약탈적 출판사/저널을 식별하는 방법, 모범 사례, 대응하는 방법 등"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "a97ce964-2aee-4e54-89d2-076fd7204dbb",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*<!channel> &lt;2021학년도 2학기 논문제출 관련 등록 및 심사료 관련 안내&gt;*\n\n2021학년도 2학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 안내 드리니 해당되시는 분들께서는 각 일자 및 준비 사항을 확인하여 주시기 바랍니다.\n\n*논문심사 일정*\n  *가. 논문제출 예정자 등록기간:* 2021. 10. 12.(화)～10. 22.(금) &lt;11일간&gt;\n      논문심사료 납부기간: *2021.10.25.(월)～10.26.(화)*\n    1) 심사료 납부 확인서 제출장소: 데이터사이언스대학원 행정실\n    2) 제출서류: ①논문심사원 &lt;서식01&gt; ②논문심사위원 신청서 &lt;서식7-1&gt; ③연구윤리 준수확인서 &lt;서식23&gt; 제출\n    3) 논문심사료: 석사 100,000원/박사 300,000원\n    4) 납부장소 : 농협중앙회 및 신한은행 전 지점\n    5) 납부방법 : 논문제출 예정자가 서울대학교 포털 마이스누에서 고지서를 출력하여 지정한 은행에 납부하거나 고지서에 명시되어있는 개인별 가상계좌로 계좌 이체 후 은행에서 발급한 영수필 통지서를 행정실에 제출해야 함\n      ※ 고지서 출력방법 : 서울대학교 포털 마이스누(<http://my.snu.ac.kr>) 로그인 → 학사행정 → 수업관리 → 졸업정보 → 논문심사료 납부고지서 → 출력\n  *나. 심사용 논문계획서 제출(Proposal):* 2021. 10. 29. (금)\n    * 발표자는 심사용 논문계획서 (논문작성계획서는 연구주제, 연구의 목적, 연구의 필요성, 관련 문헌 고찰,\n      연구방법, 기대효과, 참고문헌 등을 A4용지, 표지를 포함하여 자유양식으로 10매 작성)\n    * 제출 시 표지와 본문을 하나의 PDF로 변환하여 제출할 것\n    * PDF를 <mailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr>로 해당 기간 내 제출해야함.\n    ** 심사당일 논문계획서 4부를 인쇄하여 반드시 지참하여야함.*\n  *다. 논문심사 (자세한 시간 및 장소는 공지예정) 자세한 일정은 붙임파일을 확인하여 주시기 바랍니다.* \n\n관련문의: 행정실 김민서 (<mailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr>, 880 1331)",
+			"ts": "1634017589.134400",
+			"thread_ts": "1634017589.134400",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01PVEU98KH",
+					"ts": "1634620535.147500"
+				}
+			],
+			"latest_reply": "1634620535.147500",
+			"files": [
+				{
+					"id": "F02HC14LM61",
+					"created": 1634017358,
+					"timestamp": 1634017358,
+					"name": "2021학년도 2학기 데이터사이언스대학원 석사 논문계획서 심사 시행(안).pdf",
+					"title": "2021학년도 2학기 데이터사이언스대학원 석사 논문계획서 심사 시행(안).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 577522,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02HC14LM61-2021학년도 2학기 데이터사이언스대학원 석사 논문계획서 심사 시행(안).pdf",
+					"url_private_download": "attachments/F02HC14LM61-2021학년도 2학기 데이터사이언스대학원 석사 논문계획서 심사 시행(안).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02HC14LM61/2021__________2_______________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02HC14LM61-17ea45d57f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02J4L6UAC8",
+					"created": 1634017361,
+					"timestamp": 1634017361,
+					"name": "2021학년도 2학기 데이터사이언스대학원 석사 논문심사 시행계획(안).pdf",
+					"title": "2021학년도 2학기 데이터사이언스대학원 석사 논문심사 시행계획(안).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1026090,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02J4L6UAC8-2021학년도 2학기 데이터사이언스대학원 석사 논문심사 시행계획(안).pdf",
+					"url_private_download": "attachments/F02J4L6UAC8-2021학년도 2학기 데이터사이언스대학원 석사 논문심사 시행계획(안).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02J4L6UAC8/2021__________2___________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02J4L6UAC8-fef050f162",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02HH6M626Q",
+					"created": 1634017365,
+					"timestamp": 1634017365,
+					"name": "2021학년도 2학기 데이터사이언스대학원 박사 논문심사 시행계획(안).pdf",
+					"title": "2021학년도 2학기 데이터사이언스대학원 박사 논문심사 시행계획(안).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1111768,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02HH6M626Q-2021학년도 2학기 데이터사이언스대학원 박사 논문심사 시행계획(안).pdf",
+					"url_private_download": "attachments/F02HH6M626Q-2021학년도 2학기 데이터사이언스대학원 박사 논문심사 시행계획(안).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02HH6M626Q/2021__________2___________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02HH6M626Q-02aa6ee3c7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02H88K8LR4",
+					"created": 1634017372,
+					"timestamp": 1634017372,
+					"name": "2021학년도 2학기 데이터사이언스대학원 박 논문계획서 심사 시행(안).pdf",
+					"title": "2021학년도 2학기 데이터사이언스대학원 박 논문계획서 심사 시행(안).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 948199,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02H88K8LR4-2021학년도 2학기 데이터사이언스대학원 박 논문계획서 심사 시행(안).pdf",
+					"url_private_download": "attachments/F02H88K8LR4-2021학년도 2학기 데이터사이언스대학원 박 논문계획서 심사 시행(안).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02H88K8LR4/2021__________2____________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02H88K8LR4-0d7e015487",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02HTJS3R33",
+					"created": 1634017539,
+					"timestamp": 1634017539,
+					"name": "GSDS 석사박사 제출서류 (전체).zip",
+					"title": "GSDS 석사박사 제출서류 (전체).zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 248764,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02HTJS3R33-GSDS 석사박사 제출서류 (전체).zip",
+					"url_private_download": "attachments/F02HTJS3R33-GSDS 석사박사 제출서류 (전체).zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02HTJS3R33/gsds___________________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02HTJS3R33-38c9bddf86",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "FnH9I",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " <2021학년도 2학기 논문제출 관련 등록 및 심사료 관련 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2021학년도 2학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 안내 드리니 해당되시는 분들께서는 각 일자 및 준비 사항을 확인하여 주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "논문심사 일정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  "
+								},
+								{
+									"type": "text",
+									"text": "가. 논문제출 예정자 등록기간: ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "2021. 10. 12.(화)～10. 22.(금) <11일간>\n      논문심사료 납부기간: "
+								},
+								{
+									"type": "text",
+									"text": "2021.10.25.(월)～10.26.(화)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    1) 심사료 납부 확인서 제출장소: 데이터사이언스대학원 행정실\n    2) 제출서류: ①논문심사원 <서식01> ②논문심사위원 신청서 <서식7-1> ③연구윤리 준수확인서 <서식23> 제출\n    3) 논문심사료: 석사 100,000원/박사 300,000원\n    4) 납부장소 : 농협중앙회 및 신한은행 전 지점\n    5) 납부방법 : 논문제출 예정자가 서울대학교 포털 마이스누에서 고지서를 출력하여 지정한 은행에 납부하거나 고지서에 명시되어있는 개인별 가상계좌로 계좌 이체 후 은행에서 발급한 영수필 통지서를 행정실에 제출해야 함\n      ※ 고지서 출력방법 : 서울대학교 포털 마이스누("
+								},
+								{
+									"type": "link",
+									"url": "http://my.snu.ac.kr",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") 로그인 → 학사행정 → 수업관리 → 졸업정보 → 논문심사료 납부고지서 → 출력\n "
+								},
+								{
+									"type": "text",
+									"text": " 나. 심사용 논문계획서 제출(Proposal): ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "2021. 10. 29. (금)\n    * 발표자는 심사용 논문계획서 (논문작성계획서는 연구주제, 연구의 목적, 연구의 필요성, 관련 문헌 고찰,\n      연구방법, 기대효과, 참고문헌 등을 A4용지, 표지를 포함하여 자유양식으로 10매 작성)\n    * 제출 시 표지와 본문을 하나의 PDF로 변환하여 제출할 것\n    * PDF를 "
+								},
+								{
+									"type": "link",
+									"url": "mailto:pocahontas@snu.ac.kr",
+									"text": "pocahontas@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "로 해당 기간 내 제출해야함.\n "
+								},
+								{
+									"type": "text",
+									"text": "   * 심사당일 논문계획서 4부를 인쇄하여 반드시 지참하여야함.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  "
+								},
+								{
+									"type": "text",
+									"text": "다. 논문심사 (자세한 시간 및 장소는 공지예정) 자세한 일정은 붙임파일을 확인하여 주시기 바랍니다. ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n관련문의: 행정실 김민서 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:pocahontas@snu.ac.kr",
+									"text": "pocahontas@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 880 1331)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01PVEU98KH"
+			]
+		},
+		{
+			"client_msg_id": "62d69d3c-02c2-4320-aa38-0e7b01eb06a1",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021 4단계 BK21사업 혁신 아이디어 공모&gt;\n\n한국연구재단에서는 4단계 BK21 사업의 취지와 성과를 보다 많이 공유하기 위해\n다음과 같이 사업 혁신 아이디어를 공모하고자 합니다.\n접수기간 연장 및 양식이 간소화되었습니다. 여러분의 더욱 많은 관심과 참여부탁드립니다.\n\n 가. 추진목적\n - 참여인력 및 업무관계자가 직접 제안하는 방식으로 다양한 아이디어 발굴 및 4단계 BK21 사업 브랜드와 성과 홍보와 긍정적 인식을 도모\n - 실제 예산절감사례 및 행정 간소화사례 공유로 사업 운영 효율성 증대\n\n나. 공모개요 (세부내용 [붙임]공고문 참조)\n - (공모주제) ① 4단계 BK21 브랜드 및 성과·효과성 대국민 홍보방안’\n        ② 사업 개선점 발굴 및 사업 기획 아이디어\n        ③ 예산절감사례 및 행정간소화사례\n - (수상자 선정 절차) 공모 응모작 접수→심사위원회 개최 및 심사→한국연구재단 이사장 최종 확정→수상자 발표 및 통지\n - (시상 내역) 총 25명 시상 / 총 상금 520만원\n\n다. 접수방법\n - 제출양식 : [붙임2]의 신청서 양식에 의함\n - 제출방법 : 공모 신청서 이메일 접수(<mailto:bk21four@nrf.re.kr|bk21four@nrf.re.kr>)\n - 접수시 메일 제목과 붙임파일명은 “[공모 접수] (주제번호) 접수자 성명”\n  ※ 접수 메일 제목 예시 : [공모 접수] (주제1) 홍길동\n\n라. 추진 일정\n - 접수 : ~ 2021년 10월 29일(금) 13시까지\n - 수상자 발표 : 2021년 12월중\n  ※ 별도 시상식은 개최하지 않음 \n \n문의 : BK21사업팀 윤기원연구원 (<tel:0428696447|042-869-6447>)\n붙임 4단계 BK21사업 혁신 아이디어 공모 공고문(수정) 1부\n\n접수기간 연장 및 양식이 간소화되었습니다. 여러분의 더욱 많은 관심과 참여부탁드립니다.",
+			"ts": "1634023200.135200",
+			"files": [
+				{
+					"id": "F02J4TZEX88",
+					"created": 1634023177,
+					"timestamp": 1634023177,
+					"name": "붙임.4단계 BK21 사업 혁신 아이디어 공모 공고문(수정).hwp",
+					"title": "붙임.4단계 BK21 사업 혁신 아이디어 공모 공고문(수정).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 192000,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02J4TZEX88-붙임.4단계 BK21 사업 혁신 아이디어 공모 공고문(수정).hwp",
+					"url_private_download": "attachments/F02J4TZEX88-붙임.4단계 BK21 사업 혁신 아이디어 공모 공고문(수정).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02J4TZEX88/______.4_______bk21____________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02J4TZEX88-10ed8b57ed",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qPW+P",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021 4단계 BK21사업 혁신 아이디어 공모>\n\n한국연구재단에서는 4단계 BK21 사업의 취지와 성과를 보다 많이 공유하기 위해\n다음과 같이 사업 혁신 아이디어를 공모하고자 합니다.\n접수기간 연장 및 양식이 간소화되었습니다. 여러분의 더욱 많은 관심과 참여부탁드립니다.\n\n 가. 추진목적\n - 참여인력 및 업무관계자가 직접 제안하는 방식으로 다양한 아이디어 발굴 및 4단계 BK21 사업 브랜드와 성과 홍보와 긍정적 인식을 도모\n - 실제 예산절감사례 및 행정 간소화사례 공유로 사업 운영 효율성 증대\n\n나. 공모개요 (세부내용 [붙임]공고문 참조)\n - (공모주제) ① 4단계 BK21 브랜드 및 성과·효과성 대국민 홍보방안’\n        ② 사업 개선점 발굴 및 사업 기획 아이디어\n        ③ 예산절감사례 및 행정간소화사례\n - (수상자 선정 절차) 공모 응모작 접수→심사위원회 개최 및 심사→한국연구재단 이사장 최종 확정→수상자 발표 및 통지\n - (시상 내역) 총 25명 시상 / 총 상금 520만원\n\n다. 접수방법\n - 제출양식 : [붙임2]의 신청서 양식에 의함\n - 제출방법 : 공모 신청서 이메일 접수("
+								},
+								{
+									"type": "link",
+									"url": "mailto:bk21four@nrf.re.kr",
+									"text": "bk21four@nrf.re.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n - 접수시 메일 제목과 붙임파일명은 “[공모 접수] (주제번호) 접수자 성명”\n  ※ 접수 메일 제목 예시 : [공모 접수] (주제1) 홍길동\n\n라. 추진 일정\n - 접수 : ~ 2021년 10월 29일(금) 13시까지\n - 수상자 발표 : 2021년 12월중\n  ※ 별도 시상식은 개최하지 않음 \n \n문의 : BK21사업팀 윤기원연구원 ("
+								},
+								{
+									"type": "link",
+									"url": "tel:0428696447",
+									"text": "042-869-6447"
+								},
+								{
+									"type": "text",
+									"text": ")\n붙임 4단계 BK21사업 혁신 아이디어 공모 공고문(수정) 1부\n\n접수기간 연장 및 양식이 간소화되었습니다. 여러분의 더욱 많은 관심과 참여부탁드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ad092fd7-ccf7-4093-8ef3-86b18013256e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021학년도 충청남도 학자금 대출이자 지원 사업 안내&gt;\n\n2021학년도 충청남도 청년 학자금 대출이자 지원 사업을 아래와 같이 시행하여 안내하오니 관심있는 학생분들께서는 내용을 확인하여 주시기 바랍니다.\n\n  가. 신청기간: *2021. 10. 1.(금) ~ 10. 15.(금)*\n  나. 지원대상: 공고일 기준 본인 또는 부모가 충청남도에 1년 이상 계속해서 주소지를 두며, 만19세 이상 만39세 이하인 자\n  다. 지원내용: 2018년 이후에 한국장학재단으로부터 실행한 학자금대출 중 2020년 7월 ~ 2021년 6월 간 발생 대출이자 전액\n  라. 신청방법: 서류 구비 후 온라인 신청(상세 붙임 안내문 참조)\n  마. 문 의 처: 충청남도인재육성재단 인재육성팀(<tel:0416359800|041-635-9800>, 9812)",
+			"ts": "1634029945.135800",
+			"files": [
+				{
+					"id": "F02H8UTQZL6",
+					"created": 1634029942,
+					"timestamp": 1634029942,
+					"name": "(충청남도)2021년도 충남 청년 학자금대출이자지원사업 공고문.pdf",
+					"title": "(충청남도)2021년도 충남 청년 학자금대출이자지원사업 공고문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 108160,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02H8UTQZL6-(충청남도)2021년도 충남 청년 학자금대출이자지원사업 공고문.pdf",
+					"url_private_download": "attachments/F02H8UTQZL6-(충청남도)2021년도 충남 청년 학자금대출이자지원사업 공고문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02H8UTQZL6/______________2021________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02H8UTQZL6-2b941448ab",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "pmYf",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 충청남도 학자금 대출이자 지원 사업 안내>\n\n2021학년도 충청남도 청년 학자금 대출이자 지원 사업을 아래와 같이 시행하여 안내하오니 관심있는 학생분들께서는 내용을 확인하여 주시기 바랍니다.\n\n  가. 신청기간: "
+								},
+								{
+									"type": "text",
+									"text": "2021. 10. 1.(금) ~ 10. 15.(금)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  나. 지원대상: 공고일 기준 본인 또는 부모가 충청남도에 1년 이상 계속해서 주소지를 두며, 만19세 이상 만39세 이하인 자\n  다. 지원내용: 2018년 이후에 한국장학재단으로부터 실행한 학자금대출 중 2020년 7월 ~ 2021년 6월 간 발생 대출이자 전액\n  라. 신청방법: 서류 구비 후 온라인 신청(상세 붙임 안내문 참조)\n  마. 문 의 처: 충청남도인재육성재단 인재육성팀("
+								},
+								{
+									"type": "link",
+									"url": "tel:0416359800",
+									"text": "041-635-9800"
+								},
+								{
+									"type": "text",
+									"text": ", 9812)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

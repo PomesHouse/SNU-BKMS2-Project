@@ -1,164 +1,166 @@
-[
-  {
-    "client_msg_id": "e45acf0f-f2be-41d0-a0c6-1e0c32e0f395",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 1학기 석사 학위논문 심사로 인한 3층 출입 통제 안내\u0026gt;*\n\n23학년도 1학기 석사 학위논문 심사로 인해 3층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 6. 23.(금) 12:00 ~ 18:00",
-    "ts": "1687312658.082459",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "towR",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 1학기 석사 학위논문 심사로 인한 3층 출입 통제 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n23학년도 1학기 석사 학위논문 심사로 인해 3층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 6. 23.(금) 12:00 ~ 18:00"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "471d1b27-3084-4ebf-afc4-842c9ae380ff",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;박사과정 전문연구요원 선발 제도 개선을 위한 대학 의견 수렴\u0026gt;\n\n박사과정 전문연구요원 선발제도 개선을 위해 대학 의견을 수렴하고자 하오니, 의견이 있으신 분께서는 붙임 서식을 작성하시어 2023. 6. 23.(금) 오전 11시 50분까지 제출하여주시기 바랍니다.",
-    "ts": "1687336667.458329",
-    "files": [
-      {
-        "id": "F05E6V5DR6U",
-        "created": 1687336545,
-        "timestamp": 1687336545,
-        "name": "[서식1] 박사과정 전문연구요원 선발 제도 개선을 위한 의견 수렴(00대학교) (1).hwpx",
-        "title": "[서식1] 박사과정 전문연구요원 선발 제도 개선을 위한 의견 수렴(00대학교) (1).hwpx",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 59546,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05E6V5DR6U-[서식1] 박사과정 전문연구요원 선발 제도 개선을 위한 의견 수렴(00대학교) (1).hwpx",
-        "url_private_download": "attachments/F05E6V5DR6U-[서식1] 박사과정 전문연구요원 선발 제도 개선을 위한 의견 수렴(00대학교) (1).hwpx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05E6V5DR6U/_______1_______________________________________________________________________________00____________1_.hwpx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05E6V5DR6U-35ef83b0a7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "NMV3",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c박사과정 전문연구요원 선발 제도 개선을 위한 대학 의견 수렴\u003e\n\n박사과정 전문연구요원 선발제도 개선을 위해 대학 의견을 수렴하고자 하오니, 의견이 있으신 분께서는 붙임 서식을 작성하시어 2023. 6. 23.(금) 오전 11시 50분까지 제출하여주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "e45acf0f-f2be-41d0-a0c6-1e0c32e0f395",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 1학기 석사 학위논문 심사로 인한 3층 출입 통제 안내&gt;*\n\n23학년도 1학기 석사 학위논문 심사로 인해 3층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 6. 23.(금) 12:00 ~ 18:00",
+			"ts": "1687312658.082459",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "towR",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 1학기 석사 학위논문 심사로 인한 3층 출입 통제 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n23학년도 1학기 석사 학위논문 심사로 인해 3층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 6. 23.(금) 12:00 ~ 18:00"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "471d1b27-3084-4ebf-afc4-842c9ae380ff",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;박사과정 전문연구요원 선발 제도 개선을 위한 대학 의견 수렴&gt;\n\n박사과정 전문연구요원 선발제도 개선을 위해 대학 의견을 수렴하고자 하오니, 의견이 있으신 분께서는 붙임 서식을 작성하시어 2023. 6. 23.(금) 오전 11시 50분까지 제출하여주시기 바랍니다.",
+			"ts": "1687336667.458329",
+			"files": [
+				{
+					"id": "F05E6V5DR6U",
+					"created": 1687336545,
+					"timestamp": 1687336545,
+					"name": "[서식1] 박사과정 전문연구요원 선발 제도 개선을 위한 의견 수렴(00대학교) (1).hwpx",
+					"title": "[서식1] 박사과정 전문연구요원 선발 제도 개선을 위한 의견 수렴(00대학교) (1).hwpx",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 59546,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05E6V5DR6U-[서식1] 박사과정 전문연구요원 선발 제도 개선을 위한 의견 수렴(00대학교) (1).hwpx",
+					"url_private_download": "attachments/F05E6V5DR6U-[서식1] 박사과정 전문연구요원 선발 제도 개선을 위한 의견 수렴(00대학교) (1).hwpx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05E6V5DR6U/_______1_______________________________________________________________________________00____________1_.hwpx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05E6V5DR6U-35ef83b0a7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "NMV3",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<박사과정 전문연구요원 선발 제도 개선을 위한 대학 의견 수렴>\n\n박사과정 전문연구요원 선발제도 개선을 위해 대학 의견을 수렴하고자 하오니, 의견이 있으신 분께서는 붙임 서식을 작성하시어 2023. 6. 23.(금) 오전 11시 50분까지 제출하여주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,68 +1,70 @@
-[
-  {
-    "client_msg_id": "ff191fab-6b7e-48b9-bc70-4a3fac7275af",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e\n프린터룸 PC에 비밀번호는 풀어놨으며, 임의로 PC에 비밀번호 설정하지 마시고 꼭 행정실에 공유 부탁 드립니다.\n학내 물건은 모두가 사용하는 공유 물품이므로 다같이 잘 활용할 수 있도록 협조해 주시기 바랍니다.",
-    "ts": "1626339235.132200",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1626403152.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 4,
-        "users": [
-          "U01Q3A8TXU6",
-          "U01QV1TE2UR",
-          "U01PVEU1A07",
-          "U01QNJ7PWRX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "4xMK",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": "\n프린터룸 PC에 비밀번호는 풀어놨으며, 임의로 PC에 비밀번호 설정하지 마시고 꼭 행정실에 공유 부탁 드립니다.\n학내 물건은 모두가 사용하는 공유 물품이므로 다같이 잘 활용할 수 있도록 협조해 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ff191fab-6b7e-48b9-bc70-4a3fac7275af",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel>\n프린터룸 PC에 비밀번호는 풀어놨으며, 임의로 PC에 비밀번호 설정하지 마시고 꼭 행정실에 공유 부탁 드립니다.\n학내 물건은 모두가 사용하는 공유 물품이므로 다같이 잘 활용할 수 있도록 협조해 주시기 바랍니다.",
+			"ts": "1626339235.132200",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1626403152.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 4,
+					"users": [
+						"U01Q3A8TXU6",
+						"U01QV1TE2UR",
+						"U01PVEU1A07",
+						"U01QNJ7PWRX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "4xMK",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": "\n프린터룸 PC에 비밀번호는 풀어놨으며, 임의로 PC에 비밀번호 설정하지 마시고 꼭 행정실에 공유 부탁 드립니다.\n학내 물건은 모두가 사용하는 공유 물품이므로 다같이 잘 활용할 수 있도록 협조해 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

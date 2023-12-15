@@ -1,104 +1,106 @@
-[
-  {
-    "client_msg_id": "4953efa0-03a5-42a2-a305-f0fbe690b502",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "*[3기 학생회 모집 재공고]*\n\n3기 학생 여러분 안녕하세요?\n\n한 해 동안 고생 많으셨고, 올 한 해도 복 많이 받으시길 바랍니다! :four_leaf_clover:\n\n이 자리를 빌어\n\n올해 대학원이 마주하게 될 여러 가지 일들을 멋지게 함께 헤쳐나가고 :fire:\n\n2022년 2학기 동안 3기 분들의 의견을 수렴하여 보다 나은 학생 자치 환경을 만들어갈 3기 학생회를 모집합니다. :muscle:\n\n여러분들의 많은 관심과 참여를 부탁드립니다!\n\n\n모집 일정 및 절차\n\n- 후보자 등록 기간 : 1/13(공지시점)~1/16(월) 23:59\n\n- 지원 방법: \u003c@U01Q1KFN4JK\u003e 에게 학번과 이름을 적어서 DM으로 지원!!!\n\n- 모집 인원: 2명 (대표 1명, 부대표 1명)\n\n- 임기: 선출시점 ~ 1년\n\n- 선거 기간: 1/17(화) 정오 ~ 1/19(목) 23:59\n\n- 석. 박. 석박 통합 과정 무관",
-    "ts": "1673602202.846369",
-    "edited": {
-      "user": "U01Q1KFN4JK",
-      "ts": "1673602263.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U01QGKCT067",
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "BA8if",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[3기 학생회 모집 재공고]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n3기 학생 여러분 안녕하세요?\n\n한 해 동안 고생 많으셨고, 올 한 해도 복 많이 받으시길 바랍니다! "
-              },
-              {
-                "type": "emoji",
-                "name": "four_leaf_clover",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n이 자리를 빌어\n\n올해 대학원이 마주하게 될 여러 가지 일들을 멋지게 함께 헤쳐나가고 "
-              },
-              {
-                "type": "emoji",
-                "name": "fire",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n2022년 2학기 동안 3기 분들의 의견을 수렴하여 보다 나은 학생 자치 환경을 만들어갈 3기 학생회를 모집합니다. "
-              },
-              {
-                "type": "emoji",
-                "name": "muscle",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n여러분들의 많은 관심과 참여를 부탁드립니다!\n\n\n모집 일정 및 절차\n\n- 후보자 등록 기간 : 1/13(공지시점)~1/16(월) 23:59\n\n- 지원 방법: "
-              },
-              {
-                "type": "user",
-                "user_id": "U01Q1KFN4JK"
-              },
-              {
-                "type": "text",
-                "text": " 에게 학번과 이름을 적어서 DM으로 지원!!!\n\n- 모집 인원: 2명 (대표 1명, 부대표 1명)\n\n- 임기: 선출시점 ~ 1년\n\n- 선거 기간: 1/17(화) 정오 ~ 1/19(목) 23:59\n\n- 석. 박. 석박 통합 과정 무관"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "4953efa0-03a5-42a2-a305-f0fbe690b502",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "*[3기 학생회 모집 재공고]*\n\n3기 학생 여러분 안녕하세요?\n\n한 해 동안 고생 많으셨고, 올 한 해도 복 많이 받으시길 바랍니다! :four_leaf_clover:\n\n이 자리를 빌어\n\n올해 대학원이 마주하게 될 여러 가지 일들을 멋지게 함께 헤쳐나가고 :fire:\n\n2022년 2학기 동안 3기 분들의 의견을 수렴하여 보다 나은 학생 자치 환경을 만들어갈 3기 학생회를 모집합니다. :muscle:\n\n여러분들의 많은 관심과 참여를 부탁드립니다!\n\n\n모집 일정 및 절차\n\n- 후보자 등록 기간 : 1/13(공지시점)~1/16(월) 23:59\n\n- 지원 방법: <@U01Q1KFN4JK> 에게 학번과 이름을 적어서 DM으로 지원!!!\n\n- 모집 인원: 2명 (대표 1명, 부대표 1명)\n\n- 임기: 선출시점 ~ 1년\n\n- 선거 기간: 1/17(화) 정오 ~ 1/19(목) 23:59\n\n- 석. 박. 석박 통합 과정 무관",
+			"ts": "1673602202.846369",
+			"edited": {
+				"user": "U01Q1KFN4JK",
+				"ts": "1673602263.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U01QGKCT067",
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "BA8if",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[3기 학생회 모집 재공고]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n3기 학생 여러분 안녕하세요?\n\n한 해 동안 고생 많으셨고, 올 한 해도 복 많이 받으시길 바랍니다! "
+								},
+								{
+									"type": "emoji",
+									"name": "four_leaf_clover",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n이 자리를 빌어\n\n올해 대학원이 마주하게 될 여러 가지 일들을 멋지게 함께 헤쳐나가고 "
+								},
+								{
+									"type": "emoji",
+									"name": "fire",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n2022년 2학기 동안 3기 분들의 의견을 수렴하여 보다 나은 학생 자치 환경을 만들어갈 3기 학생회를 모집합니다. "
+								},
+								{
+									"type": "emoji",
+									"name": "muscle",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n여러분들의 많은 관심과 참여를 부탁드립니다!\n\n\n모집 일정 및 절차\n\n- 후보자 등록 기간 : 1/13(공지시점)~1/16(월) 23:59\n\n- 지원 방법: "
+								},
+								{
+									"type": "user",
+									"user_id": "U01Q1KFN4JK"
+								},
+								{
+									"type": "text",
+									"text": " 에게 학번과 이름을 적어서 DM으로 지원!!!\n\n- 모집 인원: 2명 (대표 1명, 부대표 1명)\n\n- 임기: 선출시점 ~ 1년\n\n- 선거 기간: 1/17(화) 정오 ~ 1/19(목) 23:59\n\n- 석. 박. 석박 통합 과정 무관"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

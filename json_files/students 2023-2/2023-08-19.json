@@ -1,122 +1,124 @@
-[
-  {
-    "client_msg_id": "8cc347a2-6a4c-495d-961a-26b807cd4eec",
-    "type": "message",
-    "user": "U02UJC5BU8P",
-    "text": "박사과정생 중 중급선형대수 정원 외 수강신청을 하고자 하는 분은 최병선 교수님(\u003cmailto:bschoi12@snu.ac.kr|bschoi12@snu.ac.kr\u003e)께 메일을 보내주시기 바랍니다.",
-    "ts": "1692424692.435489",
-    "thread_ts": "1692248540.867749",
-    "edited": {
-      "user": "U02UJC5BU8P",
-      "ts": "1692424708.000000"
-    },
-    "subtype": "thread_broadcast",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qIkcn",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "박사과정생 중 중급선형대수 정원 외 수강신청을 하고자 하는 분은 최병선 교수님("
-              },
-              {
-                "type": "link",
-                "url": "mailto:bschoi12@snu.ac.kr",
-                "text": "bschoi12@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")께 메일을 보내주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/48fbbce89424234465c9fd99b65401c6.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
-      "first_name": "조우성",
-      "real_name": "조우성",
-      "display_name": "3기_조우성",
-      "team": "T01QA5S537V",
-      "name": "wooseongcho95",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "8cc347a2-6a4c-495d-961a-26b807cd4eec",
-    "type": "message",
-    "user": "U02UJC5BU8P",
-    "text": "박사과정생 중 중급선형대수 정원 외 수강신청을 하고자 하는 분은 최병선 교수님(\u003cmailto:bschoi12@snu.ac.kr|bschoi12@snu.ac.kr\u003e)께 메일을 보내주시기 바랍니다.",
-    "ts": "1692424692.435489",
-    "thread_ts": "1692248540.867749",
-    "edited": {
-      "user": "U02UJC5BU8P",
-      "ts": "1692424708.000000"
-    },
-    "subtype": "thread_broadcast",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qIkcn",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "박사과정생 중 중급선형대수 정원 외 수강신청을 하고자 하는 분은 최병선 교수님("
-              },
-              {
-                "type": "link",
-                "url": "mailto:bschoi12@snu.ac.kr",
-                "text": "bschoi12@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")께 메일을 보내주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/48fbbce89424234465c9fd99b65401c6.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
-      "first_name": "조우성",
-      "real_name": "조우성",
-      "display_name": "3기_조우성",
-      "team": "T01QA5S537V",
-      "name": "wooseongcho95",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8cc347a2-6a4c-495d-961a-26b807cd4eec",
+			"type": "message",
+			"user": "U02UJC5BU8P",
+			"text": "박사과정생 중 중급선형대수 정원 외 수강신청을 하고자 하는 분은 최병선 교수님(<mailto:bschoi12@snu.ac.kr|bschoi12@snu.ac.kr>)께 메일을 보내주시기 바랍니다.",
+			"ts": "1692424692.435489",
+			"thread_ts": "1692248540.867749",
+			"edited": {
+				"user": "U02UJC5BU8P",
+				"ts": "1692424708.000000"
+			},
+			"subtype": "thread_broadcast",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qIkcn",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "박사과정생 중 중급선형대수 정원 외 수강신청을 하고자 하는 분은 최병선 교수님("
+								},
+								{
+									"type": "link",
+									"url": "mailto:bschoi12@snu.ac.kr",
+									"text": "bschoi12@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")께 메일을 보내주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/48fbbce89424234465c9fd99b65401c6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+				"first_name": "조우성",
+				"real_name": "조우성",
+				"display_name": "3기_조우성",
+				"team": "T01QA5S537V",
+				"name": "wooseongcho95",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "8cc347a2-6a4c-495d-961a-26b807cd4eec",
+			"type": "message",
+			"user": "U02UJC5BU8P",
+			"text": "박사과정생 중 중급선형대수 정원 외 수강신청을 하고자 하는 분은 최병선 교수님(<mailto:bschoi12@snu.ac.kr|bschoi12@snu.ac.kr>)께 메일을 보내주시기 바랍니다.",
+			"ts": "1692424692.435489",
+			"thread_ts": "1692248540.867749",
+			"edited": {
+				"user": "U02UJC5BU8P",
+				"ts": "1692424708.000000"
+			},
+			"subtype": "thread_broadcast",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qIkcn",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "박사과정생 중 중급선형대수 정원 외 수강신청을 하고자 하는 분은 최병선 교수님("
+								},
+								{
+									"type": "link",
+									"url": "mailto:bschoi12@snu.ac.kr",
+									"text": "bschoi12@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")께 메일을 보내주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/48fbbce89424234465c9fd99b65401c6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+				"first_name": "조우성",
+				"real_name": "조우성",
+				"display_name": "3기_조우성",
+				"team": "T01QA5S537V",
+				"name": "wooseongcho95",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

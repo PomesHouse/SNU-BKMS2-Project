@@ -1,358 +1,360 @@
-[
-  {
-    "client_msg_id": "b37b1e43-5006-415b-8b77-f4001d3cd536",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "「Enjoy Like SNU - 제4회 도서관 별빛 영화제」 행사 개최 안내\n\n중앙도서관에서 서울대학교 구성원, 그리고 지역 주민과 함께 즐기며 소통하는 문화예술의 장으로서의 『*Enjoy Like SNU-제4회* *도서관 별빛 영화제』*행사를 다음과 같이 개최함을 알려와 안내드리오니 관심 있는 구성원은 참여 바랍니다.\n\n  가. 일 시: 2023. 5. 24.(수) ~ 5. 25.(목), 19:00 ~ 21:30\n  나. 장 소: 중앙도서관 판사 주홍점·홍계수 옥상정원\n  다. 참가대상: 서울대학교 구성원 및 지역 주민\n  라. 행사일정\n    1) *1일차: 5.24.(수)*\n        1부(19:00 ~ 19:30) 재즈 학생 동아리 및 음악대학 반도네온 트리오 공연\n        2부(19:30 ~ 22:00) 그랜드 부다페스트 호텔(The Grand Budapest Hotel, 2014)\n    2) *2일차: 5.25.(목)*\n        1부(19:00 ~ 19:30) 재즈 학생 동아리 및 음악대학 반도네온 트리오 공연\n        2부(19:30 ~ 22:00) 소울(애니메이션)(Soul,2020)",
-    "ts": "1684195441.998179",
-    "files": [
-      {
-        "id": "F057WQV3G9G",
-        "created": 1684195365,
-        "timestamp": 1684195365,
-        "name": "[붙임]제4회 도서관 별빛 영화제 포스터.png",
-        "title": "[붙임]제4회 도서관 별빛 영화제 포스터.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1325473,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F057WQV3G9G-[붙임]제4회 도서관 별빛 영화제 포스터.png",
-        "url_private_download": "attachments/F057WQV3G9G-[붙임]제4회 도서관 별빛 영화제 포스터.png",
-        "original_h": 1126,
-        "original_w": 800,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 256,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________480.png",
-        "thumb_480_w": 341,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________720.png",
-        "thumb_720_w": 512,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________960.png",
-        "thumb_960_w": 682,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________1024.png",
-        "thumb_1024_w": 728,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F057WQV3G9G/___________4________________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F057WQV3G9G-0f8bcdad4e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "8A8",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "「Enjoy Like SNU - 제4회 도서관 별빛 영화제」 행사 개최 안내\n\n중앙도서관에서 서울대학교 구성원, 그리고 지역 주민과 함께 즐기며 소통하는 문화예술의 장으로서의 『"
-              },
-              {
-                "type": "text",
-                "text": "Enjoy Like SNU-제4회",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "도서관 별빛 영화제』",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "행사를 다음과 같이 개최함을 알려와 안내드리오니 관심 있는 구성원은 참여 바랍니다.\n\n  가. 일 시: 2023. 5. 24.(수) ~ 5. 25.(목), 19:00 ~ 21:30\n  나. 장 소: 중앙도서관 판사 주홍점·홍계수 옥상정원\n  다. 참가대상: 서울대학교 구성원 및 지역 주민\n  라. 행사일정\n    1) "
-              },
-              {
-                "type": "text",
-                "text": "1일차: 5.24.(수)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n        1부(19:00 ~ 19:30) 재즈 학생 동아리 및 음악대학 반도네온 트리오 공연\n        2부(19:30 ~ 22:00) 그랜드 부다페스트 호텔(The Grand Budapest Hotel, 2014)\n    2) "
-              },
-              {
-                "type": "text",
-                "text": "2일차: 5.25.(목)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n        1부(19:00 ~ 19:30) 재즈 학생 동아리 및 음악대학 반도네온 트리오 공연\n        2부(19:30 ~ 22:00) 소울(애니메이션)(Soul,2020)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "a6bbe9b4-3f6e-462a-b347-dc772c535e57",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023년도 하절기 냉방/환기시설 운영 계획 안내\u0026gt;\n\n우리 대학의 2023년도 하절기 냉방·환기시설 운영 계획을 다음과 같이 안내드립니다. 아울러, 942동 건물은 서울대학교 중앙에서 직접 냉난방을 관리하므로 서울대학교 전체 계획에 따라 냉방이 가동되며, 행정실에서 임의로 조정할 수 없음을 알려드립니다.\n\nㅇ *냉방 시작 기간: 2023년 5월 말 또는 6월 초*(실별 공급기준 및 실내/외 온도 기준에 따라 *탄력적으로 공급* 예정)\nㅇ 운영기준\n  -*실내온도가 26도 이상*(사무공간은 28도 이상)인 경우 공급온도 24~26도(사무공간은 26~28도)로 공급\n  -공급시간은 상시(강의실 등은 강의시간에 한함)이나, 자동 off(일과 중 1회(12시), 일과 후 3시간 단위(18:00~익06:00)로 자동 종료되며, 사용자 필요에 따라 재가동 가능\n -교수연구실 및 대학원연구실, 사무공간의 경우 전력 피크시간대(09:30~10:00, 16:00~16:30)에 냉방기 가동 정지되며 냉방조작 불가능\nㅇ기타사항\n -상기 기준 외의 사유로 임의 가동은 불가\n -온도가 높은 경우 *바로처리센터(880-2000)에 연락하면 온도측정 이후 기준 충족 시(26도 이상)에만 냉방기 가동*\n  (※ 덥다고 느끼더라도 온도가 충족하지 않으면 본부에서 에어컨을 가동해주지 않으니 참고하시기 바랍니다.)",
-    "ts": "1684201361.636269",
-    "files": [
-      {
-        "id": "F057GH8KVU7",
-        "created": 1684201349,
-        "timestamp": 1684201349,
-        "name": "2023년도 하절기 냉방·환기시설 운영 계획_.pdf",
-        "title": "2023년도 하절기 냉방·환기시설 운영 계획_.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 465068,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F057GH8KVU7-2023년도 하절기 냉방·환기시설 운영 계획_.pdf",
-        "url_private_download": "attachments/F057GH8KVU7-2023년도 하절기 냉방·환기시설 운영 계획_.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F057GH8KVU7/2023____________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F057GH8KVU7-abf6006d2f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "3EQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년도 하절기 냉방/환기시설 운영 계획 안내\u003e\n\n우리 대학의 2023년도 하절기 냉방·환기시설 운영 계획을 다음과 같이 안내드립니다. 아울러, 942동 건물은 서울대학교 중앙에서 직접 냉난방을 관리하므로 서울대학교 전체 계획에 따라 냉방이 가동되며, 행정실에서 임의로 조정할 수 없음을 알려드립니다.\n\nㅇ "
-              },
-              {
-                "type": "text",
-                "text": "냉방 시작 기간: 2023년 5월 말 또는 6월 초",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(실별 공급기준 및 실내/외 온도 기준에 따라 "
-              },
-              {
-                "type": "text",
-                "text": "탄력적으로 공급",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 예정)\nㅇ 운영기준\n  -"
-              },
-              {
-                "type": "text",
-                "text": "실내온도가 26도 이상",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(사무공간은 28도 이상)인 경우 공급온도 24~26도(사무공간은 26~28도)로 공급\n  -공급시간은 상시(강의실 등은 강의시간에 한함)이나, 자동 off(일과 중 1회(12시), 일과 후 3시간 단위(18:00~익06:00)로 자동 종료되며, 사용자 필요에 따라 재가동 가능\n -교수연구실 및 대학원연구실, 사무공간의 경우 전력 피크시간대(09:30~10:00, 16:00~16:30)에 냉방기 가동 정지되며 냉방조작 불가능\nㅇ기타사항\n -상기 기준 외의 사유로 임의 가동은 불가\n -온도가 높은 경우 "
-              },
-              {
-                "type": "text",
-                "text": "바로처리센터(880-2000)에 연락하면 온도측정 이후 기준 충족 시(26도 이상)에만 냉방기 가동",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  (※ 덥다고 느끼더라도 온도가 충족하지 않으면 본부에서 에어컨을 가동해주지 않으니 참고하시기 바랍니다.)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "4f15a1b5-534c-4741-8c52-ab539cc97831",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;냉방 임시 가동 안내\u0026gt;\n\n갑작스러운 더위로 인하여 기온이 상승함에 따라 실내온도가 26도 이상으로 측정(제어실 기준)되는 곳에 한하여 에어컨을 가동할 수 있도록 조치하였습니다(에어컨이 나오지 않는 공간은 본부 제어실에서 26도 미만으로 측정되는 공간임).\n학생 여러분께서는 시설 이용에 참고하시기 바랍니다.",
-    "ts": "1684211711.141119",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1684211940.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "sFhD",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c냉방 임시 가동 안내\u003e\n\n갑작스러운 더위로 인하여 기온이 상승함에 따라 실내온도가 26도 이상으로 측정(제어실 기준)되는 곳에 한하여 에어컨을 가동할 수 있도록 조치하였습니다(에어컨이 나오지 않는 공간은 본부 제어실에서 26도 미만으로 측정되는 공간임).\n학생 여러분께서는 시설 이용에 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "b37b1e43-5006-415b-8b77-f4001d3cd536",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "「Enjoy Like SNU - 제4회 도서관 별빛 영화제」 행사 개최 안내\n\n중앙도서관에서 서울대학교 구성원, 그리고 지역 주민과 함께 즐기며 소통하는 문화예술의 장으로서의 『*Enjoy Like SNU-제4회* *도서관 별빛 영화제』*행사를 다음과 같이 개최함을 알려와 안내드리오니 관심 있는 구성원은 참여 바랍니다.\n\n  가. 일 시: 2023. 5. 24.(수) ~ 5. 25.(목), 19:00 ~ 21:30\n  나. 장 소: 중앙도서관 판사 주홍점·홍계수 옥상정원\n  다. 참가대상: 서울대학교 구성원 및 지역 주민\n  라. 행사일정\n    1) *1일차: 5.24.(수)*\n        1부(19:00 ~ 19:30) 재즈 학생 동아리 및 음악대학 반도네온 트리오 공연\n        2부(19:30 ~ 22:00) 그랜드 부다페스트 호텔(The Grand Budapest Hotel, 2014)\n    2) *2일차: 5.25.(목)*\n        1부(19:00 ~ 19:30) 재즈 학생 동아리 및 음악대학 반도네온 트리오 공연\n        2부(19:30 ~ 22:00) 소울(애니메이션)(Soul,2020)",
+			"ts": "1684195441.998179",
+			"files": [
+				{
+					"id": "F057WQV3G9G",
+					"created": 1684195365,
+					"timestamp": 1684195365,
+					"name": "[붙임]제4회 도서관 별빛 영화제 포스터.png",
+					"title": "[붙임]제4회 도서관 별빛 영화제 포스터.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1325473,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F057WQV3G9G-[붙임]제4회 도서관 별빛 영화제 포스터.png",
+					"url_private_download": "attachments/F057WQV3G9G-[붙임]제4회 도서관 별빛 영화제 포스터.png",
+					"original_h": 1126,
+					"original_w": 800,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 256,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________480.png",
+					"thumb_480_w": 341,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________720.png",
+					"thumb_720_w": 512,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________960.png",
+					"thumb_960_w": 682,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F057WQV3G9G-505fa1a96c/___________4_________________________________________1024.png",
+					"thumb_1024_w": 728,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F057WQV3G9G/___________4________________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F057WQV3G9G-0f8bcdad4e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "8A8",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "「Enjoy Like SNU - 제4회 도서관 별빛 영화제」 행사 개최 안내\n\n중앙도서관에서 서울대학교 구성원, 그리고 지역 주민과 함께 즐기며 소통하는 문화예술의 장으로서의 『"
+								},
+								{
+									"type": "text",
+									"text": "Enjoy Like SNU-제4회",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "도서관 별빛 영화제』",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "행사를 다음과 같이 개최함을 알려와 안내드리오니 관심 있는 구성원은 참여 바랍니다.\n\n  가. 일 시: 2023. 5. 24.(수) ~ 5. 25.(목), 19:00 ~ 21:30\n  나. 장 소: 중앙도서관 판사 주홍점·홍계수 옥상정원\n  다. 참가대상: 서울대학교 구성원 및 지역 주민\n  라. 행사일정\n    1) "
+								},
+								{
+									"type": "text",
+									"text": "1일차: 5.24.(수)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n        1부(19:00 ~ 19:30) 재즈 학생 동아리 및 음악대학 반도네온 트리오 공연\n        2부(19:30 ~ 22:00) 그랜드 부다페스트 호텔(The Grand Budapest Hotel, 2014)\n    2) "
+								},
+								{
+									"type": "text",
+									"text": "2일차: 5.25.(목)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n        1부(19:00 ~ 19:30) 재즈 학생 동아리 및 음악대학 반도네온 트리오 공연\n        2부(19:30 ~ 22:00) 소울(애니메이션)(Soul,2020)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "a6bbe9b4-3f6e-462a-b347-dc772c535e57",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023년도 하절기 냉방/환기시설 운영 계획 안내&gt;\n\n우리 대학의 2023년도 하절기 냉방·환기시설 운영 계획을 다음과 같이 안내드립니다. 아울러, 942동 건물은 서울대학교 중앙에서 직접 냉난방을 관리하므로 서울대학교 전체 계획에 따라 냉방이 가동되며, 행정실에서 임의로 조정할 수 없음을 알려드립니다.\n\nㅇ *냉방 시작 기간: 2023년 5월 말 또는 6월 초*(실별 공급기준 및 실내/외 온도 기준에 따라 *탄력적으로 공급* 예정)\nㅇ 운영기준\n  -*실내온도가 26도 이상*(사무공간은 28도 이상)인 경우 공급온도 24~26도(사무공간은 26~28도)로 공급\n  -공급시간은 상시(강의실 등은 강의시간에 한함)이나, 자동 off(일과 중 1회(12시), 일과 후 3시간 단위(18:00~익06:00)로 자동 종료되며, 사용자 필요에 따라 재가동 가능\n -교수연구실 및 대학원연구실, 사무공간의 경우 전력 피크시간대(09:30~10:00, 16:00~16:30)에 냉방기 가동 정지되며 냉방조작 불가능\nㅇ기타사항\n -상기 기준 외의 사유로 임의 가동은 불가\n -온도가 높은 경우 *바로처리센터(880-2000)에 연락하면 온도측정 이후 기준 충족 시(26도 이상)에만 냉방기 가동*\n  (※ 덥다고 느끼더라도 온도가 충족하지 않으면 본부에서 에어컨을 가동해주지 않으니 참고하시기 바랍니다.)",
+			"ts": "1684201361.636269",
+			"files": [
+				{
+					"id": "F057GH8KVU7",
+					"created": 1684201349,
+					"timestamp": 1684201349,
+					"name": "2023년도 하절기 냉방·환기시설 운영 계획_.pdf",
+					"title": "2023년도 하절기 냉방·환기시설 운영 계획_.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 465068,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F057GH8KVU7-2023년도 하절기 냉방·환기시설 운영 계획_.pdf",
+					"url_private_download": "attachments/F057GH8KVU7-2023년도 하절기 냉방·환기시설 운영 계획_.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F057GH8KVU7/2023____________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F057GH8KVU7-abf6006d2f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "3EQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년도 하절기 냉방/환기시설 운영 계획 안내>\n\n우리 대학의 2023년도 하절기 냉방·환기시설 운영 계획을 다음과 같이 안내드립니다. 아울러, 942동 건물은 서울대학교 중앙에서 직접 냉난방을 관리하므로 서울대학교 전체 계획에 따라 냉방이 가동되며, 행정실에서 임의로 조정할 수 없음을 알려드립니다.\n\nㅇ "
+								},
+								{
+									"type": "text",
+									"text": "냉방 시작 기간: 2023년 5월 말 또는 6월 초",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(실별 공급기준 및 실내/외 온도 기준에 따라 "
+								},
+								{
+									"type": "text",
+									"text": "탄력적으로 공급",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 예정)\nㅇ 운영기준\n  -"
+								},
+								{
+									"type": "text",
+									"text": "실내온도가 26도 이상",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(사무공간은 28도 이상)인 경우 공급온도 24~26도(사무공간은 26~28도)로 공급\n  -공급시간은 상시(강의실 등은 강의시간에 한함)이나, 자동 off(일과 중 1회(12시), 일과 후 3시간 단위(18:00~익06:00)로 자동 종료되며, 사용자 필요에 따라 재가동 가능\n -교수연구실 및 대학원연구실, 사무공간의 경우 전력 피크시간대(09:30~10:00, 16:00~16:30)에 냉방기 가동 정지되며 냉방조작 불가능\nㅇ기타사항\n -상기 기준 외의 사유로 임의 가동은 불가\n -온도가 높은 경우 "
+								},
+								{
+									"type": "text",
+									"text": "바로처리센터(880-2000)에 연락하면 온도측정 이후 기준 충족 시(26도 이상)에만 냉방기 가동",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  (※ 덥다고 느끼더라도 온도가 충족하지 않으면 본부에서 에어컨을 가동해주지 않으니 참고하시기 바랍니다.)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "4f15a1b5-534c-4741-8c52-ab539cc97831",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;냉방 임시 가동 안내&gt;\n\n갑작스러운 더위로 인하여 기온이 상승함에 따라 실내온도가 26도 이상으로 측정(제어실 기준)되는 곳에 한하여 에어컨을 가동할 수 있도록 조치하였습니다(에어컨이 나오지 않는 공간은 본부 제어실에서 26도 미만으로 측정되는 공간임).\n학생 여러분께서는 시설 이용에 참고하시기 바랍니다.",
+			"ts": "1684211711.141119",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1684211940.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "sFhD",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<냉방 임시 가동 안내>\n\n갑작스러운 더위로 인하여 기온이 상승함에 따라 실내온도가 26도 이상으로 측정(제어실 기준)되는 곳에 한하여 에어컨을 가동할 수 있도록 조치하였습니다(에어컨이 나오지 않는 공간은 본부 제어실에서 26도 미만으로 측정되는 공간임).\n학생 여러분께서는 시설 이용에 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

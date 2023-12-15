@@ -1,0 +1,309 @@
+[
+  {
+    "client_msg_id": "45745396-70c4-4f92-bad5-96ab0486c96b",
+    "type": "message",
+    "user": "U01QV1TE2UR",
+    "text": "미드/정글/탑 갑니다 탑레는 중국섭 다1/한국섭 다5입니다",
+    "ts": "1625812983.173300",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "fire",
+        "count": 9,
+        "users": [
+          "U01Q1KM0M3R",
+          "U01Q3EP0E14",
+          "U01QV28FG4R",
+          "U01Q75KNV1T",
+          "U01QV1SQJ57",
+          "U01Q3A8TXU6",
+          "U01Q1KFN4JK",
+          "U01QDA36FJR",
+          "U01QAE5BVEX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YGpG4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "미드/정글/탑 갑니다 탑레는 중국섭 다1/한국섭 다5입니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1845061592593_2e0cee650a22445613f3_72.png",
+      "first_name": "길광연",
+      "real_name": "길광연",
+      "display_name": "2기 길광연",
+      "team": "T01QA5S537V",
+      "name": "gil9103",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "654E75A2-E9D2-4E53-9752-9045110EA99E",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "5명 모였으니 마감하겠습니다!",
+    "ts": "1625814020.174400",
+    "thread_ts": "1625640066.160100",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "casmk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "5명 모였으니 마감하겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "970D0F3C-0FB0-4612-B44F-52996C1930CA",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": "4층 탕비실 냉장고도 좀.. 상태가 뒤죽박죽인 것 같아요 이 상황에 조금이나마 도음이 될까 싶어서 펜을 하나 기증했는데 펜만 두면 잃어버릴 것 같아서 종이컵에 꽂아놨어요 ㅠ 혹시 더 좋은 아이디어가 있으면 교체해도 좋아요 :) 펜 기증도 환영합니다..",
+    "ts": "1625835100.176600",
+    "files": [
+      {
+        "id": "F027YQVS7U1",
+        "created": 1625835089,
+        "timestamp": 1625835089,
+        "name": "iOS 이미지.jpg",
+        "title": "iOS 이미지",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QZRUNBA4",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 327513,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F027YQVS7U1-iOS 이미지.jpg",
+        "url_private_download": "attachments/F027YQVS7U1-iOS 이미지.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F027YQVS7U1-fe52c6af7e/ios___________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F027YQVS7U1-fe52c6af7e/ios___________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F027YQVS7U1-fe52c6af7e/ios___________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F027YQVS7U1-fe52c6af7e/ios___________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F027YQVS7U1-fe52c6af7e/ios___________480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F027YQVS7U1-fe52c6af7e/ios___________720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F027YQVS7U1-fe52c6af7e/ios___________960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F027YQVS7U1-fe52c6af7e/ios___________1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QZRUNBA4/F027YQVS7U1/ios__________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F027YQVS7U1-11c93c829d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wIi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "4층 탕비실 냉장고도 좀.. 상태가 뒤죽박죽인 것 같아요 이 상황에 조금이나마 도음이 될까 싶어서 펜을 하나 기증했는데 펜만 두면 잃어버릴 것 같아서 종이컵에 꽂아놨어요 ㅠ 혹시 더 좋은 아이디어가 있으면 교체해도 좋아요 :) 펜 기증도 환영합니다.."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8B6F41AC-015D-487B-BD43-06749B0916C5",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": "4층도 이름 잘 써두고 냉장고 쓰도록 해요 ..! 4층 화이팅",
+    "ts": "1625835127.177400",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "man-gesturing-ok",
+        "count": 13,
+        "users": [
+          "U01PVETV83H",
+          "U01QZRUNBA4",
+          "U01PVETJY87",
+          "U01PVEU1A07",
+          "U01QV1SQJ57",
+          "U01QNMUAUKW",
+          "U01QNSM488Z",
+          "U01Q386CMKQ",
+          "U01QAE5DERZ",
+          "U01QV1WAPL1",
+          "U01QGJL6SP5",
+          "U01Q75KNV1T",
+          "U01QV28FG4R"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 5,
+        "users": [
+          "U01PVETV83H",
+          "U01PVETJY87",
+          "U01QV1TE2UR",
+          "U01Q3A8TXU6",
+          "U01QDA36FJR"
+        ]
+      },
+      {
+        "name": "blue_heart",
+        "count": 1,
+        "users": [
+          "U01PVEU98KH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "05MND",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "4층도 이름 잘 써두고 냉장고 쓰도록 해요 ..! 4층 화이팅"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

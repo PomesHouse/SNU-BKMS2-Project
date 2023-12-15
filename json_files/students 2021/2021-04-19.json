@@ -1,438 +1,440 @@
-[
-  {
-    "type": "message",
-    "user": "U01QV1WAPL1",
-    "text": ":ear_of_rice::pancakes:찰보리빵:ear_of_rice::pancakes: 나눔이에요. 앞선 원영님과 나연님으로부터 감화를 받아 적은 양이나마 동참합니다.",
-    "ts": "1618793738.081200",
-    "thread_ts": "1618793738.081200",
-    "edited": {
-      "user": "U01QV1WAPL1",
-      "ts": "1618794218.000000"
-    },
-    "reply_count": 3,
-    "replies": [
-      {
-        "user": "U01Q3A8TXU6",
-        "ts": "1618799982.083400"
-      },
-      {
-        "user": "U01Q386CMKQ",
-        "ts": "1618801076.084600"
-      },
-      {
-        "user": "U01Q75KNV1T",
-        "ts": "1618803590.085100"
-      }
-    ],
-    "latest_reply": "1618803590.085100",
-    "files": [
-      {
-        "id": "F01UPB0JYE7",
-        "created": 1618793574,
-        "timestamp": 1618793574,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QV1WAPL1",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 225772,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01UPB0JYE7-image.png",
-        "url_private_download": "attachments/F01UPB0JYE7-image.png",
-        "original_h": 276,
-        "original_w": 323,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F01UPB0JYE7-b48f791b39/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F01UPB0JYE7-b48f791b39/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F01UPB0JYE7-b48f791b39/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F01UPB0JYE7-b48f791b39/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 323,
-        "thumb_360_h": 276,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QV1WAPL1/F01UPB0JYE7/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01UPB0JYE7-6538f4f90b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F01U8BH2S23",
-        "created": 1618793599,
-        "timestamp": 1618793599,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QV1WAPL1",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 229193,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01U8BH2S23-image.png",
-        "url_private_download": "attachments/F01U8BH2S23-image.png",
-        "original_h": 351,
-        "original_w": 309,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F01U8BH2S23-9cf1f3d865/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F01U8BH2S23-9cf1f3d865/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F01U8BH2S23-9cf1f3d865/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F01U8BH2S23-9cf1f3d865/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 309,
-        "thumb_360_h": 351,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QV1WAPL1/F01U8BH2S23/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01U8BH2S23-46d3f6dcb4",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "tada",
-        "count": 4,
-        "users": [
-          "U01R719DKK2",
-          "U01QV28FG4R",
-          "U01QDANUYVB",
-          "U01Q75KNV1T"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 21,
-        "users": [
-          "U01R719DKK2",
-          "U01PVETJY87",
-          "U01PVEU1A07",
-          "U01QNHEAS0L",
-          "U01QAE573J7",
-          "U01QNHRHY0L",
-          "U01QNSM488Z",
-          "U01QUKKQ8GH",
-          "U01QV1SQJ57",
-          "U01Q1KFN4JK",
-          "U01Q3A8TXU6",
-          "U01QDANUYVB",
-          "U01Q386CMKQ",
-          "U01QA85T90A",
-          "U01QGKCUAJX",
-          "U01QAE5DERZ",
-          "U01QGKC5W03",
-          "U01Q9KJL8MC",
-          "U01QNSMEY0Z",
-          "U01PVEU69BR",
-          "U01PVET2C31"
-        ]
-      },
-      {
-        "name": "star-struck",
-        "count": 1,
-        "users": [
-          "U01Q1KFN4JK"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "TfCfy",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "emoji",
-                "name": "ear_of_rice",
-                "skin_tone": 0
-              },
-              {
-                "type": "emoji",
-                "name": "pancakes",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "찰보리빵"
-              },
-              {
-                "type": "emoji",
-                "name": "ear_of_rice",
-                "skin_tone": 0
-              },
-              {
-                "type": "emoji",
-                "name": "pancakes",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 나눔이에요. 앞선 원영님과 나연님으로부터 감화를 받아 적은 양이나마 동참합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1825660672566_06f8689d1fa538401ca7_72.jpg",
-      "first_name": "Jongwon",
-      "real_name": "Jongwon Kim",
-      "display_name": "2기_김종원",
-      "team": "T01QA5S537V",
-      "name": "kjwon21",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 3,
-    "reply_users": [
-      "U01Q386CMKQ",
-      "U01Q3A8TXU6",
-      "U01Q75KNV1T"
-    ]
-  },
-  {
-    "client_msg_id": "B1C329D4-1F39-4DD4-BA73-15F38A0191EC",
-    "type": "message",
-    "user": "U01Q3A8TXU6",
-    "text": "감사합니다 종원님~",
-    "ts": "1618799982.083400",
-    "thread_ts": "1618793738.081200",
-    "parent_user_id": "U01QV1WAPL1",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01Q75KNV1T"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "u3/N",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "감사합니다 종원님~"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
-      "first_name": "1기_성기홍",
-      "real_name": "1기_성기홍",
-      "display_name": "1기_성기홍",
-      "team": "T01QA5S537V",
-      "name": "kev94yo",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "6B677674-01A5-422F-8B7B-CCD104DDBC7A",
-    "type": "message",
-    "user": "U01Q386CMKQ",
-    "text": "헐 감동이네요ㅠㅠ :see_no_evil: 잘 먹겠습니다! ",
-    "ts": "1618801076.084600",
-    "thread_ts": "1618793738.081200",
-    "parent_user_id": "U01QV1WAPL1",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01Q75KNV1T"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "BfCjw",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "헐 감동이네요ㅠㅠ "
-              },
-              {
-                "type": "emoji",
-                "name": "see_no_evil",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 잘 먹겠습니다! "
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826260082339_3eb2f7686c0824cf17e0_72.jpg",
-      "first_name": "Na",
-      "real_name": "Na Yeon Kim",
-      "display_name": "1기_김나연",
-      "team": "T01QA5S537V",
-      "name": "nayeonkim1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "65979fa4-3ed5-4f2e-a922-1b3a308b7a72",
-    "type": "message",
-    "user": "U01Q75KNV1T",
-    "text": "감사합니다ㅎㅎㅎ",
-    "ts": "1618803590.085100",
-    "thread_ts": "1618793738.081200",
-    "parent_user_id": "U01QV1WAPL1",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Pk3n",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "감사합니다ㅎㅎㅎ"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1839499236017_e5a333503f5d47822279_72.jpg",
-      "first_name": "jwy4888",
-      "real_name": "jwy4888",
-      "display_name": "3기_장원영",
-      "team": "T01QA5S537V",
-      "name": "jwy4888",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QV1WAPL1",
+			"text": ":ear_of_rice::pancakes:찰보리빵:ear_of_rice::pancakes: 나눔이에요. 앞선 원영님과 나연님으로부터 감화를 받아 적은 양이나마 동참합니다.",
+			"ts": "1618793738.081200",
+			"thread_ts": "1618793738.081200",
+			"edited": {
+				"user": "U01QV1WAPL1",
+				"ts": "1618794218.000000"
+			},
+			"reply_count": 3,
+			"replies": [
+				{
+					"user": "U01Q3A8TXU6",
+					"ts": "1618799982.083400"
+				},
+				{
+					"user": "U01Q386CMKQ",
+					"ts": "1618801076.084600"
+				},
+				{
+					"user": "U01Q75KNV1T",
+					"ts": "1618803590.085100"
+				}
+			],
+			"latest_reply": "1618803590.085100",
+			"files": [
+				{
+					"id": "F01UPB0JYE7",
+					"created": 1618793574,
+					"timestamp": 1618793574,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QV1WAPL1",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 225772,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01UPB0JYE7-image.png",
+					"url_private_download": "attachments/F01UPB0JYE7-image.png",
+					"original_h": 276,
+					"original_w": 323,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F01UPB0JYE7-b48f791b39/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F01UPB0JYE7-b48f791b39/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F01UPB0JYE7-b48f791b39/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F01UPB0JYE7-b48f791b39/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 323,
+					"thumb_360_h": 276,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QV1WAPL1/F01UPB0JYE7/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01UPB0JYE7-6538f4f90b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F01U8BH2S23",
+					"created": 1618793599,
+					"timestamp": 1618793599,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QV1WAPL1",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 229193,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01U8BH2S23-image.png",
+					"url_private_download": "attachments/F01U8BH2S23-image.png",
+					"original_h": 351,
+					"original_w": 309,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F01U8BH2S23-9cf1f3d865/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F01U8BH2S23-9cf1f3d865/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F01U8BH2S23-9cf1f3d865/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F01U8BH2S23-9cf1f3d865/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 309,
+					"thumb_360_h": 351,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QV1WAPL1/F01U8BH2S23/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01U8BH2S23-46d3f6dcb4",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "tada",
+					"count": 4,
+					"users": [
+						"U01R719DKK2",
+						"U01QV28FG4R",
+						"U01QDANUYVB",
+						"U01Q75KNV1T"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 21,
+					"users": [
+						"U01R719DKK2",
+						"U01PVETJY87",
+						"U01PVEU1A07",
+						"U01QNHEAS0L",
+						"U01QAE573J7",
+						"U01QNHRHY0L",
+						"U01QNSM488Z",
+						"U01QUKKQ8GH",
+						"U01QV1SQJ57",
+						"U01Q1KFN4JK",
+						"U01Q3A8TXU6",
+						"U01QDANUYVB",
+						"U01Q386CMKQ",
+						"U01QA85T90A",
+						"U01QGKCUAJX",
+						"U01QAE5DERZ",
+						"U01QGKC5W03",
+						"U01Q9KJL8MC",
+						"U01QNSMEY0Z",
+						"U01PVEU69BR",
+						"U01PVET2C31"
+					]
+				},
+				{
+					"name": "star-struck",
+					"count": 1,
+					"users": [
+						"U01Q1KFN4JK"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "TfCfy",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "emoji",
+									"name": "ear_of_rice",
+									"skin_tone": 0
+								},
+								{
+									"type": "emoji",
+									"name": "pancakes",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "찰보리빵"
+								},
+								{
+									"type": "emoji",
+									"name": "ear_of_rice",
+									"skin_tone": 0
+								},
+								{
+									"type": "emoji",
+									"name": "pancakes",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 나눔이에요. 앞선 원영님과 나연님으로부터 감화를 받아 적은 양이나마 동참합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1825660672566_06f8689d1fa538401ca7_72.jpg",
+				"first_name": "Jongwon",
+				"real_name": "Jongwon Kim",
+				"display_name": "2기_김종원",
+				"team": "T01QA5S537V",
+				"name": "kjwon21",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 3,
+			"reply_users": [
+				"U01Q386CMKQ",
+				"U01Q3A8TXU6",
+				"U01Q75KNV1T"
+			]
+		},
+		{
+			"client_msg_id": "B1C329D4-1F39-4DD4-BA73-15F38A0191EC",
+			"type": "message",
+			"user": "U01Q3A8TXU6",
+			"text": "감사합니다 종원님~",
+			"ts": "1618799982.083400",
+			"thread_ts": "1618793738.081200",
+			"parent_user_id": "U01QV1WAPL1",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01Q75KNV1T"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "u3/N",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "감사합니다 종원님~"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+				"first_name": "1기_성기홍",
+				"real_name": "1기_성기홍",
+				"display_name": "1기_성기홍",
+				"team": "T01QA5S537V",
+				"name": "kev94yo",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "6B677674-01A5-422F-8B7B-CCD104DDBC7A",
+			"type": "message",
+			"user": "U01Q386CMKQ",
+			"text": "헐 감동이네요ㅠㅠ :see_no_evil: 잘 먹겠습니다! ",
+			"ts": "1618801076.084600",
+			"thread_ts": "1618793738.081200",
+			"parent_user_id": "U01QV1WAPL1",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01Q75KNV1T"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "BfCjw",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "헐 감동이네요ㅠㅠ "
+								},
+								{
+									"type": "emoji",
+									"name": "see_no_evil",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 잘 먹겠습니다! "
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826260082339_3eb2f7686c0824cf17e0_72.jpg",
+				"first_name": "Na",
+				"real_name": "Na Yeon Kim",
+				"display_name": "1기_김나연",
+				"team": "T01QA5S537V",
+				"name": "nayeonkim1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "65979fa4-3ed5-4f2e-a922-1b3a308b7a72",
+			"type": "message",
+			"user": "U01Q75KNV1T",
+			"text": "감사합니다ㅎㅎㅎ",
+			"ts": "1618803590.085100",
+			"thread_ts": "1618793738.081200",
+			"parent_user_id": "U01QV1WAPL1",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Pk3n",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "감사합니다ㅎㅎㅎ"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1839499236017_e5a333503f5d47822279_72.jpg",
+				"first_name": "jwy4888",
+				"real_name": "jwy4888",
+				"display_name": "3기_장원영",
+				"team": "T01QA5S537V",
+				"name": "jwy4888",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

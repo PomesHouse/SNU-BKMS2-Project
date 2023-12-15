@@ -1,388 +1,390 @@
-[
-  {
-    "client_msg_id": "5a4b608c-8345-466d-a958-13fcab99e158",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2023년 KT랜선야학 서울 지역 대학생 멘토 추천 안내\n\nKT그룹 희망나눔재단에서 2023년 KT랜선야학 서울 지역 대학생을 선발할 예정이오니 관심있는 학생들은 2022. 12. 5.(화)까지 행정실로 지원서를 제출하여 주시기 바랍니다.\n\n가. 활동기간: 2023년 1월 ~ 11월(11개월)\n나. 참가대상: 대학생, 대학원생으로 재학생 및 휴학생\n다. 선발인원: 20명(최종추천 15명, 예비 추천 5명 포함)\n ㅇ대학별 추천서류 취합 후 학생처에서 최종 20명을 선발하여 희망나눔재단에 추천\n라. 선발기준: 성적, 학습 지도 가능 여부, 유사 활동 경험 등 상세 내용은 붙임 참조\n마. 제출서류: 지원서, 재학증명서, 성적증명서 각 1부.",
-    "ts": "1669965190.509689",
-    "files": [
-      {
-        "id": "F04DTPPQ709",
-        "created": 1669960070,
-        "timestamp": 1669960070,
-        "name": "(붙임1 2 3)2023년 랜선야학 서울지역 멘토 선발 안내(22.11.24)_학생 공지.hwp",
-        "title": "(붙임1 2 3)2023년 랜선야학 서울지역 멘토 선발 안내(22.11.24)_학생 공지.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 69632,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04DTPPQ709-(붙임1 2 3)2023년 랜선야학 서울지역 멘토 선발 안내(22.11.24)_학생 공지.hwp",
-        "url_private_download": "attachments/F04DTPPQ709-(붙임1 2 3)2023년 랜선야학 서울지역 멘토 선발 안내(22.11.24)_학생 공지.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04DTPPQ709/_______1_2_3_2023___________________________________________________22.11.24_______________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04DTPPQ709-ba9e733be7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04DF4X9F3L",
-        "created": 1669960072,
-        "timestamp": 1669960072,
-        "name": "[랜선야학]2023년_대학생멘토 지원서(학교 이름).docx",
-        "title": "[랜선야학]2023년_대학생멘토 지원서(학교 이름).docx",
-        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "image_exif_rotation": 0,
-        "filetype": "docx",
-        "pretty_type": "Word 문서",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 121877,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04DF4X9F3L-[랜선야학]2023년_대학생멘토 지원서(학교 이름).docx",
-        "url_private_download": "attachments/F04DF4X9F3L-[랜선야학]2023년_대학생멘토 지원서(학교 이름).docx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04DF4X9F3L/______________2023____________________________________________.docx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04DF4X9F3L-ee4d5dd885",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "LSy",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2023년 KT랜선야학 서울 지역 대학생 멘토 추천 안내\n\nKT그룹 희망나눔재단에서 2023년 KT랜선야학 서울 지역 대학생을 선발할 예정이오니 관심있는 학생들은 2022. 12. 5.(화)까지 행정실로 지원서를 제출하여 주시기 바랍니다.\n\n가. 활동기간: 2023년 1월 ~ 11월(11개월)\n나. 참가대상: 대학생, 대학원생으로 재학생 및 휴학생\n다. 선발인원: 20명(최종추천 15명, 예비 추천 5명 포함)\n ㅇ대학별 추천서류 취합 후 학생처에서 최종 20명을 선발하여 희망나눔재단에 추천\n라. 선발기준: 성적, 학습 지도 가능 여부, 유사 활동 경험 등 상세 내용은 붙임 참조\n마. 제출서류: 지원서, 재학증명서, 성적증명서 각 1부."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "1b509878-21f1-412c-ac9c-bf78489c2ac1",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2023년 의무사관후보생 중 전문연구요원 선발전형 응시 희망자 파악\n\n군전공의수련기관에서 정해진 과정을 마치고(기 마친자 포함) *'23년 2월 역종분류 대상이 되는 의무사관후보생 중 박사학위과정 전문연구요원 선발 전형 응시 희망자*를 아래과 같이 파악하니 희망자는 신청하여 주시기 바랍니다.\n\n*가. 대상*\n    - '23년도 기초의학분야 등 *박사학위과정 자연계대학원(과학기술원 포함) 합격자 및 수학중인자*(석박사통합과정인 경우는 석사학위 수업연한을 마친자)\n      ※ 비대상자\n       1) '23. 2월 박사학위과정 수료예정자 및 '23년 석박사통합과정 합격자\n          (석사학위과정 수업연한을 마치지 않은 자 포함)\n       2) 국방부 보건정책과 통보 부족 전문과목 해당자\n          (부족 전문과목: 정신건강의학과, 산부인과, 예방의학과)\n  나. 제출 서류\n    - 박사학위과정 전문연구요원 선발전형 응시 분류 신청서(붙임서식)\n    - 박사학위과정 재학증명서 또는 입학예정증명서\n  다. 유의사항\n    - *희망자 전원이 전문연구요원으로 역종 분류되지 않음*\n      ※ 관련근거 '나'관련 부족적성 편입제한은 국방부 보건정책과(의무사관후보생 역종분류)문의(02-780-6653)",
-    "ts": "1669969087.107779",
-    "files": [
-      {
-        "id": "F04DU7N4XPB",
-        "created": 1669968643,
-        "timestamp": 1669968643,
-        "name": "[별지 15] 전문연구요원 편입예정자 명단.hwpx",
-        "title": "[별지 15] 전문연구요원 편입예정자 명단.hwpx",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 35838,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04DU7N4XPB-[별지 15] 전문연구요원 편입예정자 명단.hwpx",
-        "url_private_download": "attachments/F04DU7N4XPB-[별지 15] 전문연구요원 편입예정자 명단.hwpx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04DU7N4XPB/________15___________________________________________.hwpx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04DU7N4XPB-8065a5bc0b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04DFJ9LNSW",
-        "created": 1669968645,
-        "timestamp": 1669968645,
-        "name": "[별지 24] 박사과정 전문연구요원 선발전형 응시 분류 신청서.hwpx",
-        "title": "[별지 24] 박사과정 전문연구요원 선발전형 응시 분류 신청서.hwpx",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 52546,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04DFJ9LNSW-[별지 24] 박사과정 전문연구요원 선발전형 응시 분류 신청서.hwpx",
-        "url_private_download": "attachments/F04DFJ9LNSW-[별지 24] 박사과정 전문연구요원 선발전형 응시 분류 신청서.hwpx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04DFJ9LNSW/________24______________________________________________________________________.hwpx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04DFJ9LNSW-bbf2378692",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "15tq",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2023년 의무사관후보생 중 전문연구요원 선발전형 응시 희망자 파악\n\n군전공의수련기관에서 정해진 과정을 마치고(기 마친자 포함) "
-              },
-              {
-                "type": "text",
-                "text": "'23년 2월 역종분류 대상이 되는 의무사관후보생 중 박사학위과정 전문연구요원 선발 전형 응시 희망자",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "를 아래과 같이 파악하니 희망자는 신청하여 주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "가. 대상",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    - '23년도 기초의학분야 등"
-              },
-              {
-                "type": "text",
-                "text": " 박사학위과정 자연계대학원(과학기술원 포함) 합격자 및 수학중인자",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(석박사통합과정인 경우는 석사학위 수업연한을 마친자)\n      ※ 비대상자\n       1) '23. 2월 박사학위과정 수료예정자 및 '23년 석박사통합과정 합격자\n          (석사학위과정 수업연한을 마치지 않은 자 포함)\n       2) 국방부 보건정책과 통보 부족 전문과목 해당자\n          (부족 전문과목: 정신건강의학과, 산부인과, 예방의학과)\n  나. 제출 서류\n    - 박사학위과정 전문연구요원 선발전형 응시 분류 신청서(붙임서식)\n    - 박사학위과정 재학증명서 또는 입학예정증명서\n  다. 유의사항\n    - "
-              },
-              {
-                "type": "text",
-                "text": "희망자 전원이 전문연구요원으로 역종 분류되지 않음",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n      ※ 관련근거 '나'관련 부족적성 편입제한은 국방부 보건정책과(의무사관후보생 역종분류)문의(02-780-6653)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "5a4b608c-8345-466d-a958-13fcab99e158",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2023년 KT랜선야학 서울 지역 대학생 멘토 추천 안내\n\nKT그룹 희망나눔재단에서 2023년 KT랜선야학 서울 지역 대학생을 선발할 예정이오니 관심있는 학생들은 2022. 12. 5.(화)까지 행정실로 지원서를 제출하여 주시기 바랍니다.\n\n가. 활동기간: 2023년 1월 ~ 11월(11개월)\n나. 참가대상: 대학생, 대학원생으로 재학생 및 휴학생\n다. 선발인원: 20명(최종추천 15명, 예비 추천 5명 포함)\n ㅇ대학별 추천서류 취합 후 학생처에서 최종 20명을 선발하여 희망나눔재단에 추천\n라. 선발기준: 성적, 학습 지도 가능 여부, 유사 활동 경험 등 상세 내용은 붙임 참조\n마. 제출서류: 지원서, 재학증명서, 성적증명서 각 1부.",
+			"ts": "1669965190.509689",
+			"files": [
+				{
+					"id": "F04DTPPQ709",
+					"created": 1669960070,
+					"timestamp": 1669960070,
+					"name": "(붙임1 2 3)2023년 랜선야학 서울지역 멘토 선발 안내(22.11.24)_학생 공지.hwp",
+					"title": "(붙임1 2 3)2023년 랜선야학 서울지역 멘토 선발 안내(22.11.24)_학생 공지.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 69632,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04DTPPQ709-(붙임1 2 3)2023년 랜선야학 서울지역 멘토 선발 안내(22.11.24)_학생 공지.hwp",
+					"url_private_download": "attachments/F04DTPPQ709-(붙임1 2 3)2023년 랜선야학 서울지역 멘토 선발 안내(22.11.24)_학생 공지.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04DTPPQ709/_______1_2_3_2023___________________________________________________22.11.24_______________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04DTPPQ709-ba9e733be7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04DF4X9F3L",
+					"created": 1669960072,
+					"timestamp": 1669960072,
+					"name": "[랜선야학]2023년_대학생멘토 지원서(학교 이름).docx",
+					"title": "[랜선야학]2023년_대학생멘토 지원서(학교 이름).docx",
+					"mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+					"image_exif_rotation": 0,
+					"filetype": "docx",
+					"pretty_type": "Word 문서",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 121877,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04DF4X9F3L-[랜선야학]2023년_대학생멘토 지원서(학교 이름).docx",
+					"url_private_download": "attachments/F04DF4X9F3L-[랜선야학]2023년_대학생멘토 지원서(학교 이름).docx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04DF4X9F3L/______________2023____________________________________________.docx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04DF4X9F3L-ee4d5dd885",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "LSy",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2023년 KT랜선야학 서울 지역 대학생 멘토 추천 안내\n\nKT그룹 희망나눔재단에서 2023년 KT랜선야학 서울 지역 대학생을 선발할 예정이오니 관심있는 학생들은 2022. 12. 5.(화)까지 행정실로 지원서를 제출하여 주시기 바랍니다.\n\n가. 활동기간: 2023년 1월 ~ 11월(11개월)\n나. 참가대상: 대학생, 대학원생으로 재학생 및 휴학생\n다. 선발인원: 20명(최종추천 15명, 예비 추천 5명 포함)\n ㅇ대학별 추천서류 취합 후 학생처에서 최종 20명을 선발하여 희망나눔재단에 추천\n라. 선발기준: 성적, 학습 지도 가능 여부, 유사 활동 경험 등 상세 내용은 붙임 참조\n마. 제출서류: 지원서, 재학증명서, 성적증명서 각 1부."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "1b509878-21f1-412c-ac9c-bf78489c2ac1",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2023년 의무사관후보생 중 전문연구요원 선발전형 응시 희망자 파악\n\n군전공의수련기관에서 정해진 과정을 마치고(기 마친자 포함) *'23년 2월 역종분류 대상이 되는 의무사관후보생 중 박사학위과정 전문연구요원 선발 전형 응시 희망자*를 아래과 같이 파악하니 희망자는 신청하여 주시기 바랍니다.\n\n*가. 대상*\n    - '23년도 기초의학분야 등 *박사학위과정 자연계대학원(과학기술원 포함) 합격자 및 수학중인자*(석박사통합과정인 경우는 석사학위 수업연한을 마친자)\n      ※ 비대상자\n       1) '23. 2월 박사학위과정 수료예정자 및 '23년 석박사통합과정 합격자\n          (석사학위과정 수업연한을 마치지 않은 자 포함)\n       2) 국방부 보건정책과 통보 부족 전문과목 해당자\n          (부족 전문과목: 정신건강의학과, 산부인과, 예방의학과)\n  나. 제출 서류\n    - 박사학위과정 전문연구요원 선발전형 응시 분류 신청서(붙임서식)\n    - 박사학위과정 재학증명서 또는 입학예정증명서\n  다. 유의사항\n    - *희망자 전원이 전문연구요원으로 역종 분류되지 않음*\n      ※ 관련근거 '나'관련 부족적성 편입제한은 국방부 보건정책과(의무사관후보생 역종분류)문의(02-780-6653)",
+			"ts": "1669969087.107779",
+			"files": [
+				{
+					"id": "F04DU7N4XPB",
+					"created": 1669968643,
+					"timestamp": 1669968643,
+					"name": "[별지 15] 전문연구요원 편입예정자 명단.hwpx",
+					"title": "[별지 15] 전문연구요원 편입예정자 명단.hwpx",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 35838,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04DU7N4XPB-[별지 15] 전문연구요원 편입예정자 명단.hwpx",
+					"url_private_download": "attachments/F04DU7N4XPB-[별지 15] 전문연구요원 편입예정자 명단.hwpx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04DU7N4XPB/________15___________________________________________.hwpx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04DU7N4XPB-8065a5bc0b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04DFJ9LNSW",
+					"created": 1669968645,
+					"timestamp": 1669968645,
+					"name": "[별지 24] 박사과정 전문연구요원 선발전형 응시 분류 신청서.hwpx",
+					"title": "[별지 24] 박사과정 전문연구요원 선발전형 응시 분류 신청서.hwpx",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 52546,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04DFJ9LNSW-[별지 24] 박사과정 전문연구요원 선발전형 응시 분류 신청서.hwpx",
+					"url_private_download": "attachments/F04DFJ9LNSW-[별지 24] 박사과정 전문연구요원 선발전형 응시 분류 신청서.hwpx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04DFJ9LNSW/________24______________________________________________________________________.hwpx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04DFJ9LNSW-bbf2378692",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "15tq",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2023년 의무사관후보생 중 전문연구요원 선발전형 응시 희망자 파악\n\n군전공의수련기관에서 정해진 과정을 마치고(기 마친자 포함) "
+								},
+								{
+									"type": "text",
+									"text": "'23년 2월 역종분류 대상이 되는 의무사관후보생 중 박사학위과정 전문연구요원 선발 전형 응시 희망자",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "를 아래과 같이 파악하니 희망자는 신청하여 주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "가. 대상",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    - '23년도 기초의학분야 등"
+								},
+								{
+									"type": "text",
+									"text": " 박사학위과정 자연계대학원(과학기술원 포함) 합격자 및 수학중인자",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(석박사통합과정인 경우는 석사학위 수업연한을 마친자)\n      ※ 비대상자\n       1) '23. 2월 박사학위과정 수료예정자 및 '23년 석박사통합과정 합격자\n          (석사학위과정 수업연한을 마치지 않은 자 포함)\n       2) 국방부 보건정책과 통보 부족 전문과목 해당자\n          (부족 전문과목: 정신건강의학과, 산부인과, 예방의학과)\n  나. 제출 서류\n    - 박사학위과정 전문연구요원 선발전형 응시 분류 신청서(붙임서식)\n    - 박사학위과정 재학증명서 또는 입학예정증명서\n  다. 유의사항\n    - "
+								},
+								{
+									"type": "text",
+									"text": "희망자 전원이 전문연구요원으로 역종 분류되지 않음",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n      ※ 관련근거 '나'관련 부족적성 편입제한은 국방부 보건정책과(의무사관후보생 역종분류)문의(02-780-6653)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,0 +1,160 @@
+[
+  {
+    "client_msg_id": "7BC67289-E423-4180-8CC0-71F02CE7D05B",
+    "type": "message",
+    "user": "U040MB3TGSE",
+    "text": "이번주 연구공원 메뉴입니다:)",
+    "ts": "1690167519.564519",
+    "files": [
+      {
+        "id": "F05J5RJGWMC",
+        "created": 1690167508,
+        "timestamp": 1690167508,
+        "name": "IMG_5756.jpg",
+        "title": "IMG_5756",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U040MB3TGSE",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1752181,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05J5RJGWMC-IMG_5756.jpg",
+        "url_private_download": "attachments/F05J5RJGWMC-IMG_5756.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05J5RJGWMC-c0f184d37a/img_5756_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05J5RJGWMC-c0f184d37a/img_5756_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05J5RJGWMC-c0f184d37a/img_5756_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05J5RJGWMC-c0f184d37a/img_5756_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05J5RJGWMC-c0f184d37a/img_5756_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05J5RJGWMC-c0f184d37a/img_5756_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05J5RJGWMC-c0f184d37a/img_5756_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05J5RJGWMC-c0f184d37a/img_5756_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U040MB3TGSE/F05J5RJGWMC/img_5756.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05J5RJGWMC-454c046ac4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 14,
+        "users": [
+          "U040ZVCNVU1",
+          "U0302PHUHME",
+          "U041B24HMFS",
+          "U02UT1YNY6N",
+          "U01Q1KFN4JK",
+          "U02ULBHV58W",
+          "U040ZVCKKND",
+          "U040ENLD4QN",
+          "U02V5LTUGGH",
+          "U0302PLQ34Y",
+          "U04QGUCSQRZ",
+          "U0406PM050F",
+          "U040JBW6THT",
+          "U04QKG4K12Q"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gdhsz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이번주"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "연구공원"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "메뉴입니다"
+              },
+              {
+                "type": "text",
+                "text": ":)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3c469ffee79a52bc5e7c29a2e6c00970.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "3.5기_정재호",
+      "real_name": "3.5기_정재호",
+      "display_name": "3.5기_정재호",
+      "team": "T01QA5S537V",
+      "name": "jjhbest100",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

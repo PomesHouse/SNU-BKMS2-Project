@@ -1,92 +1,94 @@
-[
-  {
-    "client_msg_id": "620120ee-c8aa-4e1e-b7e0-2297c79cef81",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "안녕하세요 :slightly_smiling_face: 3,4층 세미나실 예약현황 관련하여 새롭게 공유 드립니다.\n아울러 곧 홈페이지에서 세미나실 예약을 할 수 있도록 개선 중에 있으니  참고 부탁 드립니다.\n\n• 3층: \u003chttps://docs.google.com/spreadsheets/d/1d8_MF8w9ai6PcRS8RrQiruPcc7U8gK9gS5EQ3WpiSUk/edit#gid=784947161\u003e\n• 4층: \u003chttps://docs.google.com/spreadsheets/d/1tCcy-Xk6h9Wa2ECJY5DrvLbfcx6mHxzRUjjlsEG4m0w/edit#gid=1588907816\u003e\n그럼 새해 복 많이 받으세요 :blob-grin:",
-    "ts": "1640932656.154300",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 9,
-        "users": [
-          "U01QAE573J7",
-          "U01Q386CMKQ",
-          "U01QV1WAPL1",
-          "U01PVEU1A07",
-          "U01QNMUAUKW",
-          "U01PVET2C31",
-          "U01QGKC4BM1",
-          "U01PVETMX2T",
-          "U01QGKD09K5"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "=UdZm",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 3,4층 세미나실 예약현황 관련하여 새롭게 공유 드립니다.\n아울러 곧 홈페이지에서 세미나실 예약을 할 수 있도록 개선 중에 있으니  참고 부탁 드립니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"3\\uce35: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1d8_MF8w9ai6PcRS8RrQiruPcc7U8gK9gS5EQ3WpiSUk\\/edit#gid=784947161\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"4\\uce35: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1tCcy-Xk6h9Wa2ECJY5DrvLbfcx6mHxzRUjjlsEG4m0w\\/edit#gid=1588907816\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n그럼 새해 복 많이 받으세요 "
-              },
-              {
-                "type": "emoji",
-                "name": "blob-grin",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "620120ee-c8aa-4e1e-b7e0-2297c79cef81",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "안녕하세요 :slightly_smiling_face: 3,4층 세미나실 예약현황 관련하여 새롭게 공유 드립니다.\n아울러 곧 홈페이지에서 세미나실 예약을 할 수 있도록 개선 중에 있으니  참고 부탁 드립니다.\n\n• 3층: <https://docs.google.com/spreadsheets/d/1d8_MF8w9ai6PcRS8RrQiruPcc7U8gK9gS5EQ3WpiSUk/edit#gid=784947161>\n• 4층: <https://docs.google.com/spreadsheets/d/1tCcy-Xk6h9Wa2ECJY5DrvLbfcx6mHxzRUjjlsEG4m0w/edit#gid=1588907816>\n그럼 새해 복 많이 받으세요 :blob-grin:",
+			"ts": "1640932656.154300",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 9,
+					"users": [
+						"U01QAE573J7",
+						"U01Q386CMKQ",
+						"U01QV1WAPL1",
+						"U01PVEU1A07",
+						"U01QNMUAUKW",
+						"U01PVET2C31",
+						"U01QGKC4BM1",
+						"U01PVETMX2T",
+						"U01QGKD09K5"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "=UdZm",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 3,4층 세미나실 예약현황 관련하여 새롭게 공유 드립니다.\n아울러 곧 홈페이지에서 세미나실 예약을 할 수 있도록 개선 중에 있으니  참고 부탁 드립니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"3\\uce35: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1d8_MF8w9ai6PcRS8RrQiruPcc7U8gK9gS5EQ3WpiSUk\\/edit#gid=784947161\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"4\\uce35: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/1tCcy-Xk6h9Wa2ECJY5DrvLbfcx6mHxzRUjjlsEG4m0w\\/edit#gid=1588907816\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n그럼 새해 복 많이 받으세요 "
+								},
+								{
+									"type": "emoji",
+									"name": "blob-grin",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

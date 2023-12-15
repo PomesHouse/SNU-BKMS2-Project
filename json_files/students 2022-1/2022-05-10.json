@@ -1,59 +1,61 @@
-[
-  {
-    "client_msg_id": "167ff977-ef79-4632-b44c-5c15ac1ccfdb",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "*[알림] ‘행운의 점심시간’ 5월 11일자 참여마감* \n\n많은 성원에 감사드립니다!\n\n남은 19일(목)과 27일(금) 프로그램에도 많이 신청해주세요!\n(특히 1,2기 재학생 분들의 많은 참여를 바랍니다!)\n\n오늘 하루도 보람차게 보내시길 바랍니다!",
-    "ts": "1652226978.188289",
-    "edited": {
-      "user": "U01Q1KFN4JK",
-      "ts": "1652227223.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "maquN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[알림] ‘행운의 점심시간’ 5월 11일자 참여마감 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n많은 성원에 감사드립니다!\n\n남은 19일(목)과 27일(금) 프로그램에도 많이 신청해주세요!\n(특히 1,2기 재학생 분들의 많은 참여를 바랍니다!)\n\n오늘 하루도 보람차게 보내시길 바랍니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "167ff977-ef79-4632-b44c-5c15ac1ccfdb",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "*[알림] ‘행운의 점심시간’ 5월 11일자 참여마감* \n\n많은 성원에 감사드립니다!\n\n남은 19일(목)과 27일(금) 프로그램에도 많이 신청해주세요!\n(특히 1,2기 재학생 분들의 많은 참여를 바랍니다!)\n\n오늘 하루도 보람차게 보내시길 바랍니다!",
+			"ts": "1652226978.188289",
+			"edited": {
+				"user": "U01Q1KFN4JK",
+				"ts": "1652227223.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "maquN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[알림] ‘행운의 점심시간’ 5월 11일자 참여마감 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n많은 성원에 감사드립니다!\n\n남은 19일(목)과 27일(금) 프로그램에도 많이 신청해주세요!\n(특히 1,2기 재학생 분들의 많은 참여를 바랍니다!)\n\n오늘 하루도 보람차게 보내시길 바랍니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,0 +1,269 @@
+[
+  {
+    "client_msg_id": "8f4fb1f5-b19c-45a3-9ff3-d73193284f4c",
+    "type": "message",
+    "user": "U02V5LU4ED7",
+    "text": "변경했습니다",
+    "ts": "1642724775.020000",
+    "thread_ts": "1642670216.015600",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q9ggy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "변경했습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8adbe29d761f8c7d83a4319eb814df6b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "임상수",
+      "real_name": "임상수",
+      "display_name": "3기_임상수",
+      "team": "T01QA5S537V",
+      "name": "vetyss91",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "CE35CA95-1AB3-4662-A0EA-54E15411A1E0",
+    "type": "message",
+    "user": "U02UQ4BRJE9",
+    "text": "변경했습니다.",
+    "ts": "1642730173.020800",
+    "thread_ts": "1642670216.015600",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jF7C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "변경했습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-01-19/2976152563749_4373772efe6a7f29395d_72.png",
+      "first_name": "3기_백은수",
+      "real_name": "3기_백은수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "beshu9407",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "423a6e50-d2e5-40b7-a8f1-eee29c146176",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022학년도 1학기 교내 근로장학 신청 안내\u0026gt;\n\n2022학년도 1학기 교내 근로장학 신청을 아래와 같이 알려드리오니 근로를 희망하는 학생들은 신청하시기 바랍니다.\n1. 신청대상: 2022학년도 1학기 등록 예정 재학생\n2. 신청기간: *2022. 1. 24.(월) ~ 2. 4.(금)*\n3. 신청유형: 유형 1(월 40시간), 유형 2(월 60시간), 유형 3(월 80시간)\n※ 유형1 및 유형2는 원칙적으로 학부생 선발 원칙\n4. 신청방법: mySNU포털\u0026gt; 학사정보 \u0026gt; 장학 \u0026gt; 신청/현황 \u0026gt; 근로장학금 신청\n5. 본 장학금은 *타 장학금과 중복수혜 가능* \n*6. 연말정산 시 근로장학금 교육비 세액공제대상에서 제외*",
+    "ts": "1642732845.032000",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "27Oh9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022학년도 1학기 교내 근로장학 신청 안내\u003e\n\n2022학년도 1학기 교내 근로장학 신청을 아래와 같이 알려드리오니 근로를 희망하는 학생들은 신청하시기 바랍니다.\n1. 신청대상: 2022학년도 1학기 등록 예정 재학생\n2. 신청기간: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 1. 24.(월) ~ 2. 4.(금)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n3. 신청유형: 유형 1(월 40시간), 유형 2(월 60시간), 유형 3(월 80시간)\n※ 유형1 및 유형2는 원칙적으로 학부생 선발 원칙\n4. 신청방법: mySNU포털\u003e 학사정보 \u003e 장학 \u003e 신청/현황 \u003e 근로장학금 신청\n5. 본 장학금은 "
+              },
+              {
+                "type": "text",
+                "text": "타 장학금과 중복수혜 가능 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "6. 연말정산 시 근로장학금 교육비 세액공제대상에서 제외",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "07eb160f-5821-4b48-a9be-fa787d8940b7",
+    "type": "message",
+    "user": "U02P4QDPG2W",
+    "text": "변경했습니다~",
+    "ts": "1642737606.032100",
+    "thread_ts": "1642670216.015600",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6QA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "변경했습니다~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5b53fb8c0ee12170c2616d7f6aba3ac1.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "3기_이승훈",
+      "real_name": "3기_이승훈",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "jaguar6182",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "682fea76-f9d9-48a1-93c8-259de4885889",
+    "type": "message",
+    "user": "U0302PM1LQ0",
+    "text": "변경했습니다",
+    "ts": "1642745082.032300",
+    "thread_ts": "1642670216.015600",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jJ2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "변경했습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9abd1e9135a8a38b275200f48c4269cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "3기_황예진",
+      "real_name": "3기_황예진",
+      "display_name": "3기_황예진",
+      "team": "T01QA5S537V",
+      "name": "yejinhwangc",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

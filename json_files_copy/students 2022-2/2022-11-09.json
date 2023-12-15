@@ -1,0 +1,366 @@
+[
+  {
+    "client_msg_id": "d1b1aab1-ee0e-48c7-8752-0e3836e771d0",
+    "type": "message",
+    "user": "U01PVEU1A07",
+    "text": "안녕하세요.\n얼마 전 미국으로 학회에 다녀오면서 원두를 한 봉지 사왔는데, 커피위원회에 나눔합니다.\n3층 탕비실 찬장에 넣어두었으니, 지금 먹고 있는 원두가 다 떨어지면 이걸로 드시면 될 것 같습니다. :coffee:",
+    "ts": "1667969081.069679",
+    "thread_ts": "1667969081.069679",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01QA85T90A",
+        "ts": "1667969141.891549"
+      },
+      {
+        "user": "U01PVEU1A07",
+        "ts": "1667969946.045959"
+      }
+    ],
+    "latest_reply": "1667969946.045959",
+    "files": [
+      {
+        "id": "F04A69PHY0L",
+        "created": 1667968987,
+        "timestamp": 1667968987,
+        "name": "KakaoTalk_Photo_2022-11-09-13-42-52.jpeg",
+        "title": "KakaoTalk_Photo_2022-11-09-13-42-52.jpeg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01PVEU1A07",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1627664,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04A69PHY0L-KakaoTalk_Photo_2022-11-09-13-42-52.jpeg",
+        "url_private_download": "attachments/F04A69PHY0L-KakaoTalk_Photo_2022-11-09-13-42-52.jpeg",
+        "original_h": 4000,
+        "original_w": 3000,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04A69PHY0L-7fbdf34609/kakaotalk_photo_2022-11-09-13-42-52_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04A69PHY0L-7fbdf34609/kakaotalk_photo_2022-11-09-13-42-52_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04A69PHY0L-7fbdf34609/kakaotalk_photo_2022-11-09-13-42-52_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04A69PHY0L-7fbdf34609/kakaotalk_photo_2022-11-09-13-42-52_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04A69PHY0L-7fbdf34609/kakaotalk_photo_2022-11-09-13-42-52_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04A69PHY0L-7fbdf34609/kakaotalk_photo_2022-11-09-13-42-52_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04A69PHY0L-7fbdf34609/kakaotalk_photo_2022-11-09-13-42-52_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04A69PHY0L-7fbdf34609/kakaotalk_photo_2022-11-09-13-42-52_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01PVEU1A07/F04A69PHY0L/kakaotalk_photo_2022-11-09-13-42-52.jpeg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04A69PHY0L-aa0374bfa1",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 10,
+        "users": [
+          "U02ULBHV58W",
+          "U01QA85T90A",
+          "U01QNMUAUKW",
+          "U01QAE5A9K5",
+          "U01Q386CMKQ",
+          "U01Q1KFN4JK",
+          "U03TC6PDAFP",
+          "U01QV1SQJ57",
+          "U02ULBJGHF0",
+          "U02UQ4D8L2Z"
+        ]
+      },
+      {
+        "name": "coffee",
+        "count": 7,
+        "users": [
+          "U01QNMUAUKW",
+          "U01Q1KFN4JK",
+          "U0302PLQ34Y",
+          "U01QNSM488Z",
+          "U02ULBJGHF0",
+          "U01QGKD09K5",
+          "U02V5LU4ED7"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 9,
+        "users": [
+          "U02UVAUFSRJ",
+          "U01QV1WAPL1",
+          "U01Q1KFN4JK",
+          "U01QNSM488Z",
+          "U02P4QDPG2W",
+          "U02UQ4BRJE9",
+          "U02ULBJGHF0",
+          "U01PVEU7QKH",
+          "U040ENMBB1C"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 5,
+        "users": [
+          "U02B19BV9ST",
+          "U02ULBJGHF0",
+          "U02UT2TFZ8B",
+          "U02V5LU4ED7",
+          "U02UT2UKVEX"
+        ]
+      },
+      {
+        "name": "blob-clap",
+        "count": 3,
+        "users": [
+          "U02ULBJGHF0",
+          "U02V5LTPGRX",
+          "U02V5LU4ED7"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LU4ED7"
+        ]
+      },
+      {
+        "name": "pray::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LU4ED7"
+        ]
+      },
+      {
+        "name": "blob_cheer",
+        "count": 1,
+        "users": [
+          "U02V5LU4ED7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s8UOL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요.\n얼마 전 미국으로 학회에 다녀오면서 원두를 한 봉지 사왔는데, 커피위원회에 나눔합니다.\n3층 탕비실 찬장에 넣어두었으니, 지금 먹고 있는 원두가 다 떨어지면 이걸로 드시면 될 것 같습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "coffee",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "1기_남기성",
+      "real_name": "1기_남기성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kisung.nam",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01PVEU1A07",
+      "U01QA85T90A"
+    ]
+  },
+  {
+    "client_msg_id": "b8a026ed-8290-4dae-b80f-4b2fe5044de8",
+    "type": "message",
+    "user": "U01QA85T90A",
+    "text": "미국에서 유명한 브랜드인가요?",
+    "ts": "1667969141.891549",
+    "thread_ts": "1667969081.069679",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "smile",
+        "count": 1,
+        "users": [
+          "U02UT2TFZ8B"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SDN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "미국에서 유명한 브랜드인가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+      "first_name": "gundo0102",
+      "real_name": "gundo0102",
+      "display_name": "3기_박건도",
+      "team": "T01QA5S537V",
+      "name": "gundo0102",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a3b664ab-85b5-4ec1-84bf-d0aafd9f7d16",
+    "type": "message",
+    "user": "U01PVEU1A07",
+    "text": "잘은 모르지만 스타벅스 커피의 시초라고 하네요. 다른 사람들이 사길래 따라서 샀습니다",
+    "ts": "1667969946.045959",
+    "thread_ts": "1667969081.069679",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "yum",
+        "count": 4,
+        "users": [
+          "U01QA85T90A",
+          "U01QNSM488Z",
+          "U01QGG6A5LJ",
+          "U02UT2TFZ8B"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XEIL6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "잘은 모르지만 스타벅스 커피의 시초라고 하네요. 다른 사람들이 사길래 따라서 샀습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "1기_남기성",
+      "real_name": "1기_남기성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kisung.nam",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01PVETTXCP",
+    "text": "\u003c@U01PVETTXCP\u003e has joined the channel",
+    "ts": "1667971733.013059",
+    "subtype": "channel_join",
+    "inviter": "U01QNSM5STT",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/327446a4ad0035b8dfa46ce031bad9e0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "김유진",
+      "real_name": "김유진",
+      "display_name": "1기_김유진",
+      "team": "T01QA5S537V",
+      "name": "eugine02",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

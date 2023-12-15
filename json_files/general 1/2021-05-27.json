@@ -1,94 +1,96 @@
-[
-  {
-    "client_msg_id": "b0d20835-067e-43a3-b456-df8df40a2cb7",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e 안녕하세요 행정실입니다. 현재 GSDS 슬랙에서 *프로필 이름을 실명으로 바꾸시지 않으신 경우  변경*해주시기 바랍니다.\n\n논자시 응시원서 제출하신 분 중 실명으로 되어있지 않아 논자시 게시판쪽으로 초대가 안되고 있습니다 ㅠㅠ\n\n시험 관련 가이드가 해당 게시판을 통해 나갈 예정이기때문에 반드시 변경하시기 바랍니다.\n\n응시원서 내신 분 중 논자시 게시판 초대 안된 경우 행정실로 DM주세요 :slightly_smiling_face:\n\n*프로필 편집 -\u0026gt; displayname(표시 이름)*\n*{기수}_{이름}*으로 바꿔주시기 바랍니다.\n\nex) 1기_000",
-    "ts": "1622099019.020000",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "jI7",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " 안녕하세요 행정실입니다. 현재 GSDS 슬랙에서 "
-              },
-              {
-                "type": "text",
-                "text": "프로필 이름을 실명으로 바꾸시지 않으신 경우  변경",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "해주시기 바랍니다.\n\n논자시 응시원서 제출하신 분 중 실명으로 되어있지 않아 논자시 게시판쪽으로 초대가 안되고 있습니다 ㅠㅠ\n\n시험 관련 가이드가 해당 게시판을 통해 나갈 예정이기때문에 반드시 변경하시기 바랍니다.\n\n응시원서 내신 분 중 논자시 게시판 초대 안된 경우 행정실로 DM주세요 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "프로필 편집 -\u003e displayname(표시 이름)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "{기수}_{이름}",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "으로 바꿔주시기 바랍니다.\n\nex) 1기_000"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "b0d20835-067e-43a3-b456-df8df40a2cb7",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> 안녕하세요 행정실입니다. 현재 GSDS 슬랙에서 *프로필 이름을 실명으로 바꾸시지 않으신 경우  변경*해주시기 바랍니다.\n\n논자시 응시원서 제출하신 분 중 실명으로 되어있지 않아 논자시 게시판쪽으로 초대가 안되고 있습니다 ㅠㅠ\n\n시험 관련 가이드가 해당 게시판을 통해 나갈 예정이기때문에 반드시 변경하시기 바랍니다.\n\n응시원서 내신 분 중 논자시 게시판 초대 안된 경우 행정실로 DM주세요 :slightly_smiling_face:\n\n*프로필 편집 -&gt; displayname(표시 이름)*\n*{기수}_{이름}*으로 바꿔주시기 바랍니다.\n\nex) 1기_000",
+			"ts": "1622099019.020000",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "jI7",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " 안녕하세요 행정실입니다. 현재 GSDS 슬랙에서 "
+								},
+								{
+									"type": "text",
+									"text": "프로필 이름을 실명으로 바꾸시지 않으신 경우  변경",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "해주시기 바랍니다.\n\n논자시 응시원서 제출하신 분 중 실명으로 되어있지 않아 논자시 게시판쪽으로 초대가 안되고 있습니다 ㅠㅠ\n\n시험 관련 가이드가 해당 게시판을 통해 나갈 예정이기때문에 반드시 변경하시기 바랍니다.\n\n응시원서 내신 분 중 논자시 게시판 초대 안된 경우 행정실로 DM주세요 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "프로필 편집 -> displayname(표시 이름)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "{기수}_{이름}",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "으로 바꿔주시기 바랍니다.\n\nex) 1기_000"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

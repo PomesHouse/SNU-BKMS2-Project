@@ -1,0 +1,185 @@
+[
+  {
+    "client_msg_id": "33570966-2c55-4f87-b4e5-31ccb29c4a96",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*[TA 조교 모집]*\n*Wen-Syan Li 교수님 수업 조교 1명을 모집합니다.*\n\n○조건:\n - BKMS1 수강(혹은 데이터 베이스 관련내용),\n - 데이터 인프라에 대한 지식(예: ETL이 무엇인지 안다)\n - 프로그래밍(python 및 SQL) 경험자\n\n○보수: 총 180만원(한 학기)\n\n○업무 내용:\n - BKMS2 50% (과제 및 시험 채점만 함)\n - 데이터사이언스 프로젝트 50% (프로젝트 제작 보조 및 과제 채점)\n\n★\"소속 대학, 학과, 학번, 과정, 성명\" 5개의 정보,\n참고가 될 수 있는 짧은 소개서(자유 양식)와 제목에 *\"[WSL TA 신청]\"*를 붙여서\n8월 15일 23:59까지 \u003cmailto:simonjisu@snu.ac.kr|simonjisu@snu.ac.kr\u003e로 보내주시길 바랍니다.",
+    "ts": "1660286368.473989",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RZr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[TA 조교 모집]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Wen-Syan Li 교수님 수업 조교 1명을 모집합니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n○조건:\n - BKMS1 수강(혹은 데이터 베이스 관련내용),\n - 데이터 인프라에 대한 지식(예: ETL이 무엇인지 안다)\n - 프로그래밍(python 및 SQL) 경험자\n\n○보수: 총 180만원(한 학기)\n\n○업무 내용:\n - BKMS2 50% (과제 및 시험 채점만 함)\n - 데이터사이언스 프로젝트 50% (프로젝트 제작 보조 및 과제 채점)\n\n★\"소속 대학, 학과, 학번, 과정, 성명\" 5개의 정보,\n참고가 될 수 있는 짧은 소개서(자유 양식)와 제목에 "
+              },
+              {
+                "type": "text",
+                "text": "\"[WSL TA 신청]\"",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "를 붙여서\n8월 15일 23:59까지 "
+              },
+              {
+                "type": "link",
+                "url": "mailto:simonjisu@snu.ac.kr",
+                "text": "simonjisu@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "로 보내주시길 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c2ba83f3-6377-410e-82e2-85d8bca51be8",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*[TA 조교 모집]*\n\n*박현우 교수님 “데이터사이언스를 위한 컴퓨팅 기초” 수업 조교 2~3명을 모집합니다.*\n*(모집 인원 일부 변동 가능)*\n\n○ 조건:\n - 본교 석사과정, 박사과정(석박사학위 통합과정 포함)에 재학중인 대학원생 또는 수료한 연구생\n - ★3.5기 학생 및 타 학과 학생도 지원 가능\n\n○ 우대 조건:\n - 프로그래밍(python 및 C) 경험자\n - 컴퓨팅 기초 선수강자(청강자) 혹은 컴퓨팅 부트캠프 수료자\n\n○보수: 총 180만원(30만원 * 6개월)\n\n★\"소속 대학, 학과, 학번, 과정, 성명\" 5개의 정보,\n참고가 될 수 있는 짧은 소개서(자유 양식)와 제목에 *“이름, 학번, 데이터사이언스를 위한 컴퓨팅 기초 TA 신청\"*를 붙여서\n8월 15일 23:59까지 \u003cmailto:sejinkim@snu.ac.kr|sejinkim@snu.ac.kr\u003e으로 보내주시길 바랍니다.",
+    "ts": "1660295254.989119",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1660295298.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=S3lT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[TA 조교 모집]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "박현우 교수님 “데이터사이언스를 위한 컴퓨팅 기초” 수업 조교 2~3명을 모집합니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "(모집 인원 일부 변동 가능)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n○ 조건:\n - 본교 석사과정, 박사과정(석박사학위 통합과정 포함)에 재학중인 대학원생 또는 수료한 연구생\n - ★3.5기 학생 및 타 학과 학생도 지원 가능\n\n○ 우대 조건:\n - 프로그래밍(python 및 C) 경험자\n - 컴퓨팅 기초 선수강자(청강자) 혹은 컴퓨팅 부트캠프 수료자\n\n○보수: 총 180만원(30만원 * 6개월)\n\n★\"소속 대학, 학과, 학번, 과정, 성명\" 5개의 정보,\n참고가 될 수 있는 짧은 소개서(자유 양식)와 제목에 "
+              },
+              {
+                "type": "text",
+                "text": "“이름, 학번, 데이터사이언스를 위한 컴퓨팅 기초 TA 신청\"",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "를 붙여서\n8월 15일 23:59까지 "
+              },
+              {
+                "type": "link",
+                "url": "mailto:sejinkim@snu.ac.kr",
+                "text": "sejinkim@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "으로 보내주시길 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

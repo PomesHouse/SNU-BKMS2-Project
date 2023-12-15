@@ -1,217 +1,219 @@
-[
-  {
-    "client_msg_id": "368852e5-5935-413f-9c71-b9a5adc5a5f7",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;*2023년 을지연습 연계 공습 대비 민방위 훈련(공습경보) 안내(8.23.(수) 14:00~14:20)*\u0026gt;\n\n*2023년 을지연습 연계 공습 대비 민방위 훈련*을 다음과 같이 안내합니다.\n\nㅇ일시: *2023년 8월 23일(수) 14:00 ~ 14:20 (20분 간)*\nㅇ지역: 전국 일원\nㅇ훈련 내용\n - 중앙민방위경보통제센터의 훈련 경습경보를 통해 훈련 시작 알림\n - 주민은 민방위 대피소 등으로 대피 훈련 실시, 라디오방송 청취 등\n\nㅇ협조 요청사항\n - 전 국민을 대상으로 국가 차원에서 실시하는 훈련이므로 ★★★*전국적으로 동시에 훈련 공습경보가 울릴 예정이므로 당황하지 않도록 유의★★*(실제상황 아님)\n - 데이터사이언스대학원 주관 대피훈련 등은 별도 미실시하므로, 첨부 리플릿 등을 참고하여 개인별 공습 시 대피 방법 숙지",
-    "ts": "1692593044.250769",
-    "files": [
-      {
-        "id": "F05NFT8GJT0",
-        "created": 1692593021,
-        "timestamp": 1692593021,
-        "name": "2023.8.23. National Civil Defense Exercise Leaflet(English).pdf",
-        "title": "2023.8.23. National Civil Defense Exercise Leaflet(English).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2547761,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05NFT8GJT0-2023.8.23. National Civil Defense Exercise Leaflet(English).pdf",
-        "url_private_download": "attachments/F05NFT8GJT0-2023.8.23. National Civil Defense Exercise Leaflet(English).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05NFT8GJT0/2023.8.23._national_civil_defense_exercise_leaflet_english_.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05NFT8GJT0-17f69433b2",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05PC81LDG8",
-        "created": 1692593028,
-        "timestamp": 1692593028,
-        "name": "230823_민방위훈련 리플릿.pdf",
-        "title": "230823_민방위훈련 리플릿.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2361321,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05PC81LDG8-230823_민방위훈련 리플릿.pdf",
-        "url_private_download": "attachments/F05PC81LDG8-230823_민방위훈련 리플릿.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05PC81LDG8/230823__________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05PC81LDG8-f0d807d577",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "O+c",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c"
-              },
-              {
-                "type": "text",
-                "text": "2023년 을지연습 연계 공습 대비 민방위 훈련(공습경보) 안내(8.23.(수) 14:00~14:20)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\u003e\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2023년 을지연습 연계 공습 대비 민방위 훈련",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 다음과 같이 안내합니다.\n\nㅇ일시: "
-              },
-              {
-                "type": "text",
-                "text": "2023년 8월 23일(수) 14:00 ~ 14:20 (20분 간)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\nㅇ지역: 전국 일원\nㅇ훈련 내용\n - 중앙민방위경보통제센터의 훈련 경습경보를 통해 훈련 시작 알림\n - 주민은 민방위 대피소 등으로 대피 훈련 실시, 라디오방송 청취 등\n\nㅇ협조 요청사항\n - 전 국민을 대상으로 국가 차원에서 실시하는 훈련이므로 ★★★"
-              },
-              {
-                "type": "text",
-                "text": "전국적으로 동시에 훈련 공습경보가 울릴 예정이므로 당황하지 않도록 유의★★",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(실제상황 아님)\n - 데이터사이언스대학원 주관 대피훈련 등은 별도 미실시하므로, 첨부 리플릿 등을 참고하여 개인별 공습 시 대피 방법 숙지"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "368852e5-5935-413f-9c71-b9a5adc5a5f7",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;*2023년 을지연습 연계 공습 대비 민방위 훈련(공습경보) 안내(8.23.(수) 14:00~14:20)*&gt;\n\n*2023년 을지연습 연계 공습 대비 민방위 훈련*을 다음과 같이 안내합니다.\n\nㅇ일시: *2023년 8월 23일(수) 14:00 ~ 14:20 (20분 간)*\nㅇ지역: 전국 일원\nㅇ훈련 내용\n - 중앙민방위경보통제센터의 훈련 경습경보를 통해 훈련 시작 알림\n - 주민은 민방위 대피소 등으로 대피 훈련 실시, 라디오방송 청취 등\n\nㅇ협조 요청사항\n - 전 국민을 대상으로 국가 차원에서 실시하는 훈련이므로 ★★★*전국적으로 동시에 훈련 공습경보가 울릴 예정이므로 당황하지 않도록 유의★★*(실제상황 아님)\n - 데이터사이언스대학원 주관 대피훈련 등은 별도 미실시하므로, 첨부 리플릿 등을 참고하여 개인별 공습 시 대피 방법 숙지",
+			"ts": "1692593044.250769",
+			"files": [
+				{
+					"id": "F05NFT8GJT0",
+					"created": 1692593021,
+					"timestamp": 1692593021,
+					"name": "2023.8.23. National Civil Defense Exercise Leaflet(English).pdf",
+					"title": "2023.8.23. National Civil Defense Exercise Leaflet(English).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2547761,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05NFT8GJT0-2023.8.23. National Civil Defense Exercise Leaflet(English).pdf",
+					"url_private_download": "attachments/F05NFT8GJT0-2023.8.23. National Civil Defense Exercise Leaflet(English).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05NFT8GJT0/2023.8.23._national_civil_defense_exercise_leaflet_english_.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05NFT8GJT0-17f69433b2",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05PC81LDG8",
+					"created": 1692593028,
+					"timestamp": 1692593028,
+					"name": "230823_민방위훈련 리플릿.pdf",
+					"title": "230823_민방위훈련 리플릿.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2361321,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05PC81LDG8-230823_민방위훈련 리플릿.pdf",
+					"url_private_download": "attachments/F05PC81LDG8-230823_민방위훈련 리플릿.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05PC81LDG8/230823__________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05PC81LDG8-f0d807d577",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "O+c",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<"
+								},
+								{
+									"type": "text",
+									"text": "2023년 을지연습 연계 공습 대비 민방위 훈련(공습경보) 안내(8.23.(수) 14:00~14:20)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ">\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2023년 을지연습 연계 공습 대비 민방위 훈련",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 다음과 같이 안내합니다.\n\nㅇ일시: "
+								},
+								{
+									"type": "text",
+									"text": "2023년 8월 23일(수) 14:00 ~ 14:20 (20분 간)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\nㅇ지역: 전국 일원\nㅇ훈련 내용\n - 중앙민방위경보통제센터의 훈련 경습경보를 통해 훈련 시작 알림\n - 주민은 민방위 대피소 등으로 대피 훈련 실시, 라디오방송 청취 등\n\nㅇ협조 요청사항\n - 전 국민을 대상으로 국가 차원에서 실시하는 훈련이므로 ★★★"
+								},
+								{
+									"type": "text",
+									"text": "전국적으로 동시에 훈련 공습경보가 울릴 예정이므로 당황하지 않도록 유의★★",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(실제상황 아님)\n - 데이터사이언스대학원 주관 대피훈련 등은 별도 미실시하므로, 첨부 리플릿 등을 참고하여 개인별 공습 시 대피 방법 숙지"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,322 +1,324 @@
-[
-  {
-    "type": "message",
-    "user": "USLACKBOT",
-    "text": "This message was deleted.",
-    "ts": "1665625226.241149",
-    "thread_ts": "1665625226.241149",
-    "subtype": "tombstone",
-    "hidden": true,
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01Q1KFN4JK",
-        "ts": "1665625330.823769"
-      }
-    ],
-    "parent_user_id": "USLACKBOT",
-    "latest_reply": "1665625330.823769",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
-      "first_name": "slackbot",
-      "real_name": "Slackbot",
-      "display_name": "Slackbot",
-      "team": "T01QA5S537V",
-      "name": "slackbot",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01Q1KFN4JK"
-    ]
-  },
-  {
-    "client_msg_id": "d31149ed-b303-4261-8642-470af1dd85e9",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "저 혹시 가능할까요? ^^;",
-    "ts": "1665625330.823769",
-    "thread_ts": "1665625226.241149",
-    "parent_user_id": "USLACKBOT",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "VxD9",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "저 혹시 가능할까요? ^^;"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "433B2EDA-6612-4A54-B6AF-9E7725E3C147",
-    "type": "message",
-    "user": "U040ENMBB1C",
-    "text": "혹시 오민환 교수님의 강화학습 수업 수강해보신 분 있으실까요? 질문드리고 싶은데 동기중엔 없을거라서 여쭤봅니다.",
-    "ts": "1665628162.044299",
-    "thread_ts": "1665628162.044299",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01QGJL6SP5",
-        "ts": "1665632595.640379"
-      }
-    ],
-    "latest_reply": "1665632595.640379",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "짱구s",
-        "count": 1,
-        "users": [
-          "U040ENMBB1C"
-        ]
-      },
-      {
-        "name": "smile",
-        "count": 1,
-        "users": [
-          "U040MB432JW"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "R6u/H",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "오민환"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "교수님의"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "강화학습"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "수업"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "수강해보신"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "분"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "있으실까요"
-              },
-              {
-                "type": "text",
-                "text": "? "
-              },
-              {
-                "type": "text",
-                "text": "질문드리고"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "싶은데"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "동기중엔"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "없을거라서"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "여쭤봅니다"
-              },
-              {
-                "type": "text",
-                "text": "."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2022-10-11/4194772773542_fc4d0df428680f769784_72.jpg",
-      "first_name": "Keon",
-      "real_name": "Keon Vin Park",
-      "display_name": "3.5기_박건빈",
-      "team": "T01QA5S537V",
-      "name": "kbpark16",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QGJL6SP5"
-    ]
-  },
-  {
-    "client_msg_id": "7a89f294-5e1f-40f5-97aa-97981ac6ad73",
-    "type": "message",
-    "user": "U01QGJL6SP5",
-    "text": "안녕하세요 석사 2기 이중규입니다. 현재 오민환 교수님께 지도를 받아 연구하고 있습니다. DM 주세요~",
-    "ts": "1665632595.640379",
-    "thread_ts": "1665628162.044299",
-    "parent_user_id": "U040ENMBB1C",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "짱구s",
-        "count": 1,
-        "users": [
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ueL",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요 석사 2기 이중규입니다. 현재 오민환 교수님께 지도를 받아 연구하고 있습니다. DM 주세요~"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/6a94f58f0bc82e36189ce7d8731cd6ce.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
-      "first_name": "이중규",
-      "real_name": "이중규",
-      "display_name": "4기_이중규",
-      "team": "T01QA5S537V",
-      "name": "jklee0717",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "USLACKBOT",
+			"text": "This message was deleted.",
+			"ts": "1665625226.241149",
+			"thread_ts": "1665625226.241149",
+			"subtype": "tombstone",
+			"hidden": true,
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01Q1KFN4JK",
+					"ts": "1665625330.823769"
+				}
+			],
+			"parent_user_id": "USLACKBOT",
+			"latest_reply": "1665625330.823769",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+				"first_name": "slackbot",
+				"real_name": "Slackbot",
+				"display_name": "Slackbot",
+				"team": "T01QA5S537V",
+				"name": "slackbot",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01Q1KFN4JK"
+			]
+		},
+		{
+			"client_msg_id": "d31149ed-b303-4261-8642-470af1dd85e9",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "저 혹시 가능할까요? ^^;",
+			"ts": "1665625330.823769",
+			"thread_ts": "1665625226.241149",
+			"parent_user_id": "USLACKBOT",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "VxD9",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "저 혹시 가능할까요? ^^;"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "433B2EDA-6612-4A54-B6AF-9E7725E3C147",
+			"type": "message",
+			"user": "U040ENMBB1C",
+			"text": "혹시 오민환 교수님의 강화학습 수업 수강해보신 분 있으실까요? 질문드리고 싶은데 동기중엔 없을거라서 여쭤봅니다.",
+			"ts": "1665628162.044299",
+			"thread_ts": "1665628162.044299",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01QGJL6SP5",
+					"ts": "1665632595.640379"
+				}
+			],
+			"latest_reply": "1665632595.640379",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "짱구s",
+					"count": 1,
+					"users": [
+						"U040ENMBB1C"
+					]
+				},
+				{
+					"name": "smile",
+					"count": 1,
+					"users": [
+						"U040MB432JW"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "R6u/H",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "오민환"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "교수님의"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "강화학습"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "수업"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "수강해보신"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "분"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "있으실까요"
+								},
+								{
+									"type": "text",
+									"text": "? "
+								},
+								{
+									"type": "text",
+									"text": "질문드리고"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "싶은데"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "동기중엔"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "없을거라서"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "여쭤봅니다"
+								},
+								{
+									"type": "text",
+									"text": "."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2022-10-11/4194772773542_fc4d0df428680f769784_72.jpg",
+				"first_name": "Keon",
+				"real_name": "Keon Vin Park",
+				"display_name": "3.5기_박건빈",
+				"team": "T01QA5S537V",
+				"name": "kbpark16",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QGJL6SP5"
+			]
+		},
+		{
+			"client_msg_id": "7a89f294-5e1f-40f5-97aa-97981ac6ad73",
+			"type": "message",
+			"user": "U01QGJL6SP5",
+			"text": "안녕하세요 석사 2기 이중규입니다. 현재 오민환 교수님께 지도를 받아 연구하고 있습니다. DM 주세요~",
+			"ts": "1665632595.640379",
+			"thread_ts": "1665628162.044299",
+			"parent_user_id": "U040ENMBB1C",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "짱구s",
+					"count": 1,
+					"users": [
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ueL",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요 석사 2기 이중규입니다. 현재 오민환 교수님께 지도를 받아 연구하고 있습니다. DM 주세요~"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/6a94f58f0bc82e36189ce7d8731cd6ce.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+				"first_name": "이중규",
+				"real_name": "이중규",
+				"display_name": "4기_이중규",
+				"team": "T01QA5S537V",
+				"name": "jklee0717",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,63 +1,65 @@
-[
-  {
-    "client_msg_id": "33ad7c2a-4d4f-4416-9e74-67a5bf37a82d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e \u0026lt;수강신청 사이트 오류로 인한 알림\u0026gt;\n\n현재 수강 신청 사이트의 기능이 원활하지 않아 시스템을 닫고 이를 해결한 후 다시 수강신청이 가능해 질 예정입니다. 이로 인한 변경일정은 아래와 같습니다. 확인하시어 수강신청에 문제가 없도록 해 주시기 바랍니다.\n\n*2021. 8. 17.(화), 8. 18.(수), 8. 19.(목) 08:30 ~ 16:00으로 변경*하여 진행\n\n 오늘(8월 13일 금)은 수강 신청 불가!!\n\n *8월 19일(목) 하루 추가됨",
-    "ts": "1628815205.016700",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "OEr",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c수강신청 사이트 오류로 인한 알림\u003e\n\n현재 수강 신청 사이트의 기능이 원활하지 않아 시스템을 닫고 이를 해결한 후 다시 수강신청이 가능해 질 예정입니다. 이로 인한 변경일정은 아래와 같습니다. 확인하시어 수강신청에 문제가 없도록 해 주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2021. 8. 17.(화), 8. 18.(수), 8. 19.(목) 08:30 ~ 16:00으로 변경",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하여 진행\n\n 오늘(8월 13일 금)은 수강 신청 불가!!\n\n *8월 19일(목) 하루 추가됨"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "33ad7c2a-4d4f-4416-9e74-67a5bf37a82d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> &lt;수강신청 사이트 오류로 인한 알림&gt;\n\n현재 수강 신청 사이트의 기능이 원활하지 않아 시스템을 닫고 이를 해결한 후 다시 수강신청이 가능해 질 예정입니다. 이로 인한 변경일정은 아래와 같습니다. 확인하시어 수강신청에 문제가 없도록 해 주시기 바랍니다.\n\n*2021. 8. 17.(화), 8. 18.(수), 8. 19.(목) 08:30 ~ 16:00으로 변경*하여 진행\n\n 오늘(8월 13일 금)은 수강 신청 불가!!\n\n *8월 19일(목) 하루 추가됨",
+			"ts": "1628815205.016700",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "OEr",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " <수강신청 사이트 오류로 인한 알림>\n\n현재 수강 신청 사이트의 기능이 원활하지 않아 시스템을 닫고 이를 해결한 후 다시 수강신청이 가능해 질 예정입니다. 이로 인한 변경일정은 아래와 같습니다. 확인하시어 수강신청에 문제가 없도록 해 주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2021. 8. 17.(화), 8. 18.(수), 8. 19.(목) 08:30 ~ 16:00으로 변경",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하여 진행\n\n 오늘(8월 13일 금)은 수강 신청 불가!!\n\n *8월 19일(목) 하루 추가됨"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

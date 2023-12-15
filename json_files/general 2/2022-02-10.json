@@ -1,261 +1,263 @@
-[
-  {
-    "client_msg_id": "f07df324-ad90-40f2-b432-88d4c9df7761",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e 3층 출입구 및 4층 라운지에 일회용 마스크(대형 및 중형)가 구비되어 있습니다.\n필요하신 학생분께서는 사용하시기 바랍니다 :mask:",
-    "ts": "1644452434.965129",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xjA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " 3층 출입구 및 4층 라운지에 일회용 마스크(대형 및 중형)가 구비되어 있습니다.\n필요하신 학생분께서는 사용하시기 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "mask",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "0a76afd1-5461-45bc-aa1d-c5f921121378",
-    "type": "message",
-    "user": "U02V5LU4ED7",
-    "text": "로그인이 안됩니다. 저만 그런 것이 아닌것 같은데 혹시 확인 가능한지 궁금합니다.",
-    "ts": "1644452544.134419",
-    "thread_ts": "1644390866.030679",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "XOmRF",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "로그인이 안됩니다. 저만 그런 것이 아닌것 같은데 혹시 확인 가능한지 궁금합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/8adbe29d761f8c7d83a4319eb814df6b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "임상수",
-      "real_name": "임상수",
-      "display_name": "3기_임상수",
-      "team": "T01QA5S537V",
-      "name": "vetyss91",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "c8a1a2d2-e560-4c62-a2e1-31d27eb78543",
-    "type": "message",
-    "user": "U01QZRUNBA4",
-    "text": "1기 석사였다가 3기 박사로 들어온 경우는 다시 들어야 한다는 말씀이시죠?",
-    "ts": "1644460749.225099",
-    "thread_ts": "1644390866.030679",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "1XX",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "1기 석사였다가 3기 박사로 들어온 경우는 다시 들어야 한다는 말씀이시죠?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
-      "first_name": "3기_최현준",
-      "real_name": "3기_최현준",
-      "display_name": "3기_최현준",
-      "team": "T01QA5S537V",
-      "name": "nschj1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "efd25515-12c6-429a-894d-f79513b7b245",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c@U02V5LU4ED7\u003e 관련 부서에 문의 부탁 드립니다.\n\u003c@U01QZRUNBA4\u003e 박사 신입생이므로 이수 해야 합니다.",
-    "ts": "1644470099.001119",
-    "thread_ts": "1644390866.030679",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Ql2IT",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "user",
-                "user_id": "U02V5LU4ED7"
-              },
-              {
-                "type": "text",
-                "text": " 관련 부서에 문의 부탁 드립니다.\n"
-              },
-              {
-                "type": "user",
-                "user_id": "U01QZRUNBA4"
-              },
-              {
-                "type": "text",
-                "text": " 박사 신입생이므로 이수 해야 합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "b883810d-55d9-42ab-9a07-fd2450a06182",
-    "type": "message",
-    "user": "U0302PKMR6C",
-    "text": "수강신청 버튼이 없습니다.",
-    "ts": "1644536520.534809",
-    "thread_ts": "1644390866.030679",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Z4Kx",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "수강신청 버튼이 없습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/cbe0783a7e2f521c193f8e9c91e05da5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
-      "first_name": "3기_권세희",
-      "real_name": "3기_권세희",
-      "display_name": "3기_권세희",
-      "team": "T01QA5S537V",
-      "name": "seram7",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "f07df324-ad90-40f2-b432-88d4c9df7761",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> 3층 출입구 및 4층 라운지에 일회용 마스크(대형 및 중형)가 구비되어 있습니다.\n필요하신 학생분께서는 사용하시기 바랍니다 :mask:",
+			"ts": "1644452434.965129",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xjA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " 3층 출입구 및 4층 라운지에 일회용 마스크(대형 및 중형)가 구비되어 있습니다.\n필요하신 학생분께서는 사용하시기 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "mask",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "0a76afd1-5461-45bc-aa1d-c5f921121378",
+			"type": "message",
+			"user": "U02V5LU4ED7",
+			"text": "로그인이 안됩니다. 저만 그런 것이 아닌것 같은데 혹시 확인 가능한지 궁금합니다.",
+			"ts": "1644452544.134419",
+			"thread_ts": "1644390866.030679",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "XOmRF",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "로그인이 안됩니다. 저만 그런 것이 아닌것 같은데 혹시 확인 가능한지 궁금합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/8adbe29d761f8c7d83a4319eb814df6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "임상수",
+				"real_name": "임상수",
+				"display_name": "3기_임상수",
+				"team": "T01QA5S537V",
+				"name": "vetyss91",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "c8a1a2d2-e560-4c62-a2e1-31d27eb78543",
+			"type": "message",
+			"user": "U01QZRUNBA4",
+			"text": "1기 석사였다가 3기 박사로 들어온 경우는 다시 들어야 한다는 말씀이시죠?",
+			"ts": "1644460749.225099",
+			"thread_ts": "1644390866.030679",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "1XX",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "1기 석사였다가 3기 박사로 들어온 경우는 다시 들어야 한다는 말씀이시죠?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+				"first_name": "3기_최현준",
+				"real_name": "3기_최현준",
+				"display_name": "3기_최현준",
+				"team": "T01QA5S537V",
+				"name": "nschj1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "efd25515-12c6-429a-894d-f79513b7b245",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<@U02V5LU4ED7> 관련 부서에 문의 부탁 드립니다.\n<@U01QZRUNBA4> 박사 신입생이므로 이수 해야 합니다.",
+			"ts": "1644470099.001119",
+			"thread_ts": "1644390866.030679",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Ql2IT",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "user",
+									"user_id": "U02V5LU4ED7"
+								},
+								{
+									"type": "text",
+									"text": " 관련 부서에 문의 부탁 드립니다.\n"
+								},
+								{
+									"type": "user",
+									"user_id": "U01QZRUNBA4"
+								},
+								{
+									"type": "text",
+									"text": " 박사 신입생이므로 이수 해야 합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "b883810d-55d9-42ab-9a07-fd2450a06182",
+			"type": "message",
+			"user": "U0302PKMR6C",
+			"text": "수강신청 버튼이 없습니다.",
+			"ts": "1644536520.534809",
+			"thread_ts": "1644390866.030679",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Z4Kx",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "수강신청 버튼이 없습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/cbe0783a7e2f521c193f8e9c91e05da5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+				"first_name": "3기_권세희",
+				"real_name": "3기_권세희",
+				"display_name": "3기_권세희",
+				"team": "T01QA5S537V",
+				"name": "seram7",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,0 +1,163 @@
+[
+  {
+    "client_msg_id": "c82651d5-8150-462e-9a43-3a8727d88bed",
+    "type": "message",
+    "user": "U01QDANUYVB",
+    "text": "안녕하세요, 2기 박성찬이라고 합니다. 다들 주말 잘 보내고 계신가요?\n혼자만 알기 아까운 정보들이 좀 있어 공유드려요, 도움이 된다면 좋겠습니다 :)\n\n\n*[1] 패스트캠퍼스 AI 온라인 컨퍼런스 (유료)*\n: Naver ,VUNO 등 총 5개 국내 AI 기업 재직자 분들이 연사로 참여한 컨퍼런스입니다.\n자율주행, 의료 등 관련한 국내 AI 비즈니스 트렌드 파악하기에 좋은 것 같습니다.\n*\u003chttps://www.fastcampus.co.kr/recon_data_ai|페이지링크\u003e\n\n*[2] Stanford CS 329S (무료)*\n: 스탠포드 강의인데요, ML/DL을 상품화 할 때 필요한 내용들을 담은 강의라고 합니다. ML/DL보다는 관련 모듈에 대한 내용이 주라고 합니다. AI 관련한 테크니컬한 이슈 파악하는 데에 아주 큰 도움이 될 것 같습니다.\n테슬라/넷플릭스/슬랙/스포티파이 재직자 분들도 연사로 참여하셨다고 합니다.\n*\u003chttps://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR0FYlRcnQwZrIhnt_9byD54_qGzWloAFxvnIxSmARsz0U1Uw7r5SX3FQco|페이지링크\u003e\n*\u003chttps://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq|영상링크\u003e\n\n*[3] LEEBROS code (유료)*\n: 정보올림피아드 국대 출신인 친구가 운영하는 코딩 교육 서비스입니다. 알고리즘을 핵심적으로 다루고 있습니다. 삼성 SW 테스트가 현존 알고리즘 테스트 중에 가장 체계화되어 있다고 해서 삼성 테스트 기반으로 커리큘럼이 구성되어 있긴 한데요, 여름, 겨울 방학 등 활용해서 알고리즘 실력 늘리고 싶은 분들께서 하셔도 아주 좋을 것 같습니다! :)\n*\u003chttps://leebroscode.com/|페이지링크\u003e",
+    "ts": "1616916903.036300",
+    "edited": {
+      "user": "U01QDANUYVB",
+      "ts": "1616916917.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 30,
+        "users": [
+          "U01QDA01NN9",
+          "U01QNSMEY0Z",
+          "U01QNJ9BB60",
+          "U01PVEU69BR",
+          "U01QA85T90A",
+          "U01R719DKK2",
+          "U01PVEU3007",
+          "U01PVETJY87",
+          "U01PVETHKF1",
+          "U01Q9KXMSF8",
+          "U01QV1WAPL1",
+          "U01QUKKQ8GH",
+          "U01QGKD09K5",
+          "U01Q386CMKQ",
+          "U01Q1KFN4JK",
+          "U01QNSM488Z",
+          "U01QV1SQJ57",
+          "U01QNHEAS0L",
+          "U01Q1KQ03PZ",
+          "U01Q1KM0M3R",
+          "U01Q75KNV1T",
+          "U01QNMUAUKW",
+          "U01Q9KJL8MC",
+          "U01QAE573J7",
+          "U01QGD03WUC",
+          "U01QGCLCLRY",
+          "U01Q3A8TXU6",
+          "U01PVEU1A07",
+          "U01PVET2C31",
+          "U01Q3EPDBAA"
+        ]
+      },
+      {
+        "name": "clap",
+        "count": 2,
+        "users": [
+          "U01R719DKK2",
+          "U01PVEU3007"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ePQ25",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요, 2기 박성찬이라고 합니다. 다들 주말 잘 보내고 계신가요?\n혼자만 알기 아까운 정보들이 좀 있어 공유드려요, 도움이 된다면 좋겠습니다 :)\n\n\n"
+              },
+              {
+                "type": "text",
+                "text": "[1] 패스트캠퍼스 AI 온라인 컨퍼런스 (유료)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n: Naver ,VUNO 등 총 5개 국내 AI 기업 재직자 분들이 연사로 참여한 컨퍼런스입니다.\n자율주행, 의료 등 관련한 국내 AI 비즈니스 트렌드 파악하기에 좋은 것 같습니다.\n*"
+              },
+              {
+                "type": "link",
+                "url": "https://www.fastcampus.co.kr/recon_data_ai",
+                "text": "페이지링크"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "[2] Stanford CS 329S (무료)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n: 스탠포드 강의인데요, ML/DL을 상품화 할 때 필요한 내용들을 담은 강의라고 합니다. ML/DL보다는 관련 모듈에 대한 내용이 주라고 합니다. AI 관련한 테크니컬한 이슈 파악하는 데에 아주 큰 도움이 될 것 같습니다.\n테슬라/넷플릭스/슬랙/스포티파이 재직자 분들도 연사로 참여하셨다고 합니다.\n*"
+              },
+              {
+                "type": "link",
+                "url": "https://stanford-cs329s.github.io/syllabus.html?fbclid=IwAR0FYlRcnQwZrIhnt_9byD54_qGzWloAFxvnIxSmARsz0U1Uw7r5SX3FQco",
+                "text": "페이지링크"
+              },
+              {
+                "type": "text",
+                "text": "\n*"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq",
+                "text": "영상링크"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "[3] LEEBROS code (유료)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n: 정보올림피아드 국대 출신인 친구가 운영하는 코딩 교육 서비스입니다. 알고리즘을 핵심적으로 다루고 있습니다. 삼성 SW 테스트가 현존 알고리즘 테스트 중에 가장 체계화되어 있다고 해서 삼성 테스트 기반으로 커리큘럼이 구성되어 있긴 한데요, 여름, 겨울 방학 등 활용해서 알고리즘 실력 늘리고 싶은 분들께서 하셔도 아주 좋을 것 같습니다! :)\n*"
+              },
+              {
+                "type": "link",
+                "url": "https://leebroscode.com/",
+                "text": "페이지링크"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
+      "first_name": "박성찬",
+      "real_name": "박성찬",
+      "display_name": "2기_박성찬",
+      "team": "T01QA5S537V",
+      "name": "warld2234",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,122 @@
+{
+	"array": [
+		{
+			"client_msg_id": "d6f32a1f-65de-4b3b-b3ce-108d6bb2a58b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;제36회 항공우주전 &gt; 개최 안내\n\n공과대학 항공우주공학과에서는 매년 항공우주전을 개최하고 있으며, 제36회 항공우주전에서 항공공학 관련 전시물을 선보이고자 하오니 관심 있는 학생들은 방문하시기 바랍니다.\n\n  가. 행 사 명: 제36회 항공우주전\n  나. 행사일시: 2023. 9. 20.(수) ~ 9. 21.(목) 10:00 ~ 17:00\n  다. 행사장소: 서울대학교 제1공학관(301동) 1층 복도\n  라. 전시계획(각 동아리 전시 및 설명)\n    - 하나로: 로켓의 본체, 모터, 전자부 전시\n    - 불나비: 플라이트 시뮬레이터 체험 활동, 드론 비행 영상\n    - 인공위성 제작소: gk2A 위성 영상데이터 수신 프로젝트 결과물\n  마. 문 의 처: 항공우주전 준비위원장(<mailto:dlxogh3220@snu.ac.kr|dlxogh3220@snu.ac.kr>)\n\n붙임 제36회 항공우주전 초대장 1부",
+			"ts": "1695011462.557289",
+			"files": [
+				{
+					"id": "F05T3FPD9BK",
+					"created": 1695011458,
+					"timestamp": 1695011458,
+					"name": "제36회 항공우주전 초대장.pdf",
+					"title": "제36회 항공우주전 초대장.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 452538,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05T3FPD9BK-제36회 항공우주전 초대장.pdf",
+					"url_private_download": "attachments/F05T3FPD9BK-제36회 항공우주전 초대장.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05T3FPD9BK/___36_____________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05T3FPD9BK-661dda3741",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "vogcD",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<제36회 항공우주전 > 개최 안내\n\n공과대학 항공우주공학과에서는 매년 항공우주전을 개최하고 있으며, 제36회 항공우주전에서 항공공학 관련 전시물을 선보이고자 하오니 관심 있는 학생들은 방문하시기 바랍니다.\n\n  가. 행 사 명: 제36회 항공우주전\n  나. 행사일시: 2023. 9. 20.(수) ~ 9. 21.(목) 10:00 ~ 17:00\n  다. 행사장소: 서울대학교 제1공학관(301동) 1층 복도\n  라. 전시계획(각 동아리 전시 및 설명)\n    - 하나로: 로켓의 본체, 모터, 전자부 전시\n    - 불나비: 플라이트 시뮬레이터 체험 활동, 드론 비행 영상\n    - 인공위성 제작소: gk2A 위성 영상데이터 수신 프로젝트 결과물\n  마. 문 의 처: 항공우주전 준비위원장("
+								},
+								{
+									"type": "link",
+									"url": "mailto:dlxogh3220@snu.ac.kr",
+									"text": "dlxogh3220@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n\n붙임 제36회 항공우주전 초대장 1부"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

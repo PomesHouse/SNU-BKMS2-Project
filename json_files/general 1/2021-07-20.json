@@ -1,63 +1,65 @@
-[
-  {
-    "client_msg_id": "138d7696-5397-41b0-968a-b28ac10abd68",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021학년도 2학기 교내 근로장학 신청 안내\u0026gt;\n\n\n2021학년도 2학기 교내 근로장학 신청과 관련한 정보를 안내드리니 관심있는 학생분들께서는 내용을 확인하시기 바랍니다.\n\n1. 신청대상: 2021학년도 2학기 등록 예정 재학생\n2. *신청기간: 2021.7.26.(월) ~ 8.6. (금)*\n3. 신청유형: 유형 1(월 40시간), 유형 2(월 60시간), 유형 3 (월 80시간) \n4. 신청방법: 스누포털 온라인 신청(서류는 행정실로 반드시 제출)\n5. 스누포털\u0026gt;학사정보\u0026gt;장학\u0026gt;신청/현황\u0026gt; 근로장학금 신청 \n6. 본 장학금은 *타 장학금과 중복수혜가 가능*합니다.\n7. *연말정산 시 근로장학금도 교육비 세액공제대상에서 제외됨을 확인하여 주시기 바랍니다.* ",
-    "ts": "1626746110.143300",
-    "thread_ts": "1626746110.143300",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01PVETPES3",
-        "ts": "1626861181.144700"
-      }
-    ],
-    "latest_reply": "1626861181.144700",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "15m+T",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 2학기 교내 근로장학 신청 안내\u003e\n\n\n2021학년도 2학기 교내 근로장학 신청과 관련한 정보를 안내드리니 관심있는 학생분들께서는 내용을 확인하시기 바랍니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ub300\\uc0c1: 2021\\ud559\\ub144\\ub3c4 2\\ud559\\uae30 \\ub4f1\\ub85d \\uc608\\uc815 \\uc7ac\\ud559\\uc0dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\uae30\\uac04: 2021.7.26.(\\uc6d4) ~ 8.6. (\\uae08)\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\uc720\\ud615: \\uc720\\ud615 1(\\uc6d4 40\\uc2dc\\uac04), \\uc720\\ud615 2(\\uc6d4 60\\uc2dc\\uac04), \\uc720\\ud615 3 (\\uc6d4 80\\uc2dc\\uac04) \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ubc29\\ubc95: \\uc2a4\\ub204\\ud3ec\\ud138 \\uc628\\ub77c\\uc778 \\uc2e0\\uccad(\\uc11c\\ub958\\ub294 \\ud589\\uc815\\uc2e4\\ub85c \\ubc18\\ub4dc\\uc2dc \\uc81c\\ucd9c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2a4\\ub204\\ud3ec\\ud138\u003e\\ud559\\uc0ac\\uc815\\ubcf4\u003e\\uc7a5\\ud559\u003e\\uc2e0\\uccad\\/\\ud604\\ud669\u003e \\uadfc\\ub85c\\uc7a5\\ud559\\uae08 \\uc2e0\\uccad \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubcf8 \\uc7a5\\ud559\\uae08\\uc740 \"},{\"type\":\"text\",\"text\":\"\\ud0c0 \\uc7a5\\ud559\\uae08\\uacfc \\uc911\\ubcf5\\uc218\\ud61c\\uac00 \\uac00\\ub2a5\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ud569\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5f0\\ub9d0\\uc815\\uc0b0 \\uc2dc \\uadfc\\ub85c\\uc7a5\\ud559\\uae08\\ub3c4 \\uad50\\uc721\\ube44 \\uc138\\uc561\\uacf5\\uc81c\\ub300\\uc0c1\\uc5d0\\uc11c \\uc81c\\uc678\\ub428\\uc744 \\ud655\\uc778\\ud558\\uc5ec \\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. \",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01PVETPES3"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "138d7696-5397-41b0-968a-b28ac10abd68",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021학년도 2학기 교내 근로장학 신청 안내&gt;\n\n\n2021학년도 2학기 교내 근로장학 신청과 관련한 정보를 안내드리니 관심있는 학생분들께서는 내용을 확인하시기 바랍니다.\n\n1. 신청대상: 2021학년도 2학기 등록 예정 재학생\n2. *신청기간: 2021.7.26.(월) ~ 8.6. (금)*\n3. 신청유형: 유형 1(월 40시간), 유형 2(월 60시간), 유형 3 (월 80시간) \n4. 신청방법: 스누포털 온라인 신청(서류는 행정실로 반드시 제출)\n5. 스누포털&gt;학사정보&gt;장학&gt;신청/현황&gt; 근로장학금 신청 \n6. 본 장학금은 *타 장학금과 중복수혜가 가능*합니다.\n7. *연말정산 시 근로장학금도 교육비 세액공제대상에서 제외됨을 확인하여 주시기 바랍니다.* ",
+			"ts": "1626746110.143300",
+			"thread_ts": "1626746110.143300",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01PVETPES3",
+					"ts": "1626861181.144700"
+				}
+			],
+			"latest_reply": "1626861181.144700",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "15m+T",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 2학기 교내 근로장학 신청 안내>\n\n\n2021학년도 2학기 교내 근로장학 신청과 관련한 정보를 안내드리니 관심있는 학생분들께서는 내용을 확인하시기 바랍니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ub300\\uc0c1: 2021\\ud559\\ub144\\ub3c4 2\\ud559\\uae30 \\ub4f1\\ub85d \\uc608\\uc815 \\uc7ac\\ud559\\uc0dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\uae30\\uac04: 2021.7.26.(\\uc6d4) ~ 8.6. (\\uae08)\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\uc720\\ud615: \\uc720\\ud615 1(\\uc6d4 40\\uc2dc\\uac04), \\uc720\\ud615 2(\\uc6d4 60\\uc2dc\\uac04), \\uc720\\ud615 3 (\\uc6d4 80\\uc2dc\\uac04) \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ubc29\\ubc95: \\uc2a4\\ub204\\ud3ec\\ud138 \\uc628\\ub77c\\uc778 \\uc2e0\\uccad(\\uc11c\\ub958\\ub294 \\ud589\\uc815\\uc2e4\\ub85c \\ubc18\\ub4dc\\uc2dc \\uc81c\\ucd9c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2a4\\ub204\\ud3ec\\ud138>\\ud559\\uc0ac\\uc815\\ubcf4>\\uc7a5\\ud559>\\uc2e0\\uccad\\/\\ud604\\ud669> \\uadfc\\ub85c\\uc7a5\\ud559\\uae08 \\uc2e0\\uccad \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubcf8 \\uc7a5\\ud559\\uae08\\uc740 \"},{\"type\":\"text\",\"text\":\"\\ud0c0 \\uc7a5\\ud559\\uae08\\uacfc \\uc911\\ubcf5\\uc218\\ud61c\\uac00 \\uac00\\ub2a5\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ud569\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5f0\\ub9d0\\uc815\\uc0b0 \\uc2dc \\uadfc\\ub85c\\uc7a5\\ud559\\uae08\\ub3c4 \\uad50\\uc721\\ube44 \\uc138\\uc561\\uacf5\\uc81c\\ub300\\uc0c1\\uc5d0\\uc11c \\uc81c\\uc678\\ub428\\uc744 \\ud655\\uc778\\ud558\\uc5ec \\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. \",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01PVETPES3"
+			]
+		}
+	]
+}

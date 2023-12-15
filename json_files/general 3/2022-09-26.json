@@ -1,263 +1,265 @@
-[
-  {
-    "client_msg_id": "a1b70759-e9a0-45e9-969c-e11a373161e6",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;제28대 총장예비후보자에 대한 정책평가 참여 독려 요청\u0026gt;\n\n제28대 총장 선출을 위하여 총장예비후보자에 대한 정책평가를 아래와 같이 실시하오니 적극 참여하여 주시기 바랍니다.\n\n*※ 학생 정책평가단 등록 방법* \n○ 서울대 앱(\u003chttp://mob.snu.ac.kr|mob.snu.ac.kr\u003e): 정책평가단 등록 → 개인정보 확인(수정) → 등록\n○ 서울대 포털 마이스누(\u003chttp://my.snu.ac.kr|my.snu.ac.kr\u003e): 정책평가단  등록 → 개인정보 확인(수정) → 등록\n\n가. 일시: 2022. *10. 6.(목)* 14:00 ~ 19:00\n   나. 장소: 관악 문화관 대강당, 연건 의과대학 3층 대강당(실시간 중계)\n   다. 방법: 모바일 투표(Kevoting 시스템)\n     - 정책평가 투표 시간: 2022. *10. 6.(금*) 17:30 ~ 19:00\n\n라. 정책평가단 구성\n     - 학생 정책평가단: 2022. 10. 5.(수) 15:00까지 등록한 대상자 전원 참여\n\n*마. 협조 사항*\n     *- 정책 평가일 '자율휴업일 지정' 안내(정책평가참여 및 투표자는 투표확인증을 제출할 경우 출석인정을 받을 수 있음)*",
-    "ts": "1664166609.632319",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1664167669.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "8bL8s",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c제28대 총장예비후보자에 대한 정책평가 참여 독려 요청\u003e\n\n제28대 총장 선출을 위하여 총장예비후보자에 대한 정책평가를 아래와 같이 실시하오니 적극 참여하여 주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "※ 학생 정책평가단 등록 방법 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n○ 서울대 앱("
-              },
-              {
-                "type": "link",
-                "url": "http://mob.snu.ac.kr",
-                "text": "mob.snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "): 정책평가단 등록 → 개인정보 확인(수정) → 등록\n○ 서울대 포털 마이스누("
-              },
-              {
-                "type": "link",
-                "url": "http://my.snu.ac.kr",
-                "text": "my.snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "): 정책평가단  등록 → 개인정보 확인(수정) → 등록\n\n가. 일시: 2022. "
-              },
-              {
-                "type": "text",
-                "text": "10. 6.(목)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 14:00 ~ 19:00\n   나. 장소: 관악 문화관 대강당, 연건 의과대학 3층 대강당(실시간 중계)\n   다. 방법: 모바일 투표(Kevoting 시스템)\n     - 정책평가 투표 시간: 2022. "
-              },
-              {
-                "type": "text",
-                "text": "10. 6.(금",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ") 17:30 ~ 19:00\n\n라. 정책평가단 구성\n     - 학생 정책평가단: 2022. 10. 5.(수) 15:00까지 등록한 대상자 전원 참여\n\n"
-              },
-              {
-                "type": "text",
-                "text": "마. 협조 사항",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n     "
-              },
-              {
-                "type": "text",
-                "text": "- 정책 평가일 '자율휴업일 지정' 안내(정책평가참여 및 투표자는 투표확인증을 제출할 경우 출석인정을 받을 수 있음)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "4892f927-288a-4b74-90e2-a733d3e6b853",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "ts": "1664166656.357419",
-    "files": [
-      {
-        "id": "F043WUMGC1J",
-        "created": 1664166654,
-        "timestamp": 1664166654,
-        "name": "학생 정책평가단 등록 안내문.hwp",
-        "title": "학생 정책평가단 등록 안내문.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 637952,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F043WUMGC1J-학생 정책평가단 등록 안내문.hwp",
-        "url_private_download": "attachments/F043WUMGC1J-학생 정책평가단 등록 안내문.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043WUMGC1J/_______________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F043WUMGC1J-ba85464436",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "3a69c5cb-31ca-4021-947f-181704aaf99a",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e  \u0026lt;2022학년도 2학기 논자시 구술고사로 인한 3층 출입 통제 안내\u0026gt;\n22학년도 2학기 논자시 구술고사로 인해 3층 전체 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2022. 9. 30.(금) 14:00 ~ 18:00",
-    "ts": "1664175465.714069",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "X9fQl",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": "  \u003c2022학년도 2학기 논자시 구술고사로 인한 3층 출입 통제 안내\u003e\n22학년도 2학기 논자시 구술고사로 인해 3층 전체 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2022. 9. 30.(금) 14:00 ~ 18:00"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "a1b70759-e9a0-45e9-969c-e11a373161e6",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;제28대 총장예비후보자에 대한 정책평가 참여 독려 요청&gt;\n\n제28대 총장 선출을 위하여 총장예비후보자에 대한 정책평가를 아래와 같이 실시하오니 적극 참여하여 주시기 바랍니다.\n\n*※ 학생 정책평가단 등록 방법* \n○ 서울대 앱(<http://mob.snu.ac.kr|mob.snu.ac.kr>): 정책평가단 등록 → 개인정보 확인(수정) → 등록\n○ 서울대 포털 마이스누(<http://my.snu.ac.kr|my.snu.ac.kr>): 정책평가단  등록 → 개인정보 확인(수정) → 등록\n\n가. 일시: 2022. *10. 6.(목)* 14:00 ~ 19:00\n   나. 장소: 관악 문화관 대강당, 연건 의과대학 3층 대강당(실시간 중계)\n   다. 방법: 모바일 투표(Kevoting 시스템)\n     - 정책평가 투표 시간: 2022. *10. 6.(금*) 17:30 ~ 19:00\n\n라. 정책평가단 구성\n     - 학생 정책평가단: 2022. 10. 5.(수) 15:00까지 등록한 대상자 전원 참여\n\n*마. 협조 사항*\n     *- 정책 평가일 '자율휴업일 지정' 안내(정책평가참여 및 투표자는 투표확인증을 제출할 경우 출석인정을 받을 수 있음)*",
+			"ts": "1664166609.632319",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1664167669.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "8bL8s",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<제28대 총장예비후보자에 대한 정책평가 참여 독려 요청>\n\n제28대 총장 선출을 위하여 총장예비후보자에 대한 정책평가를 아래와 같이 실시하오니 적극 참여하여 주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "※ 학생 정책평가단 등록 방법 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n○ 서울대 앱("
+								},
+								{
+									"type": "link",
+									"url": "http://mob.snu.ac.kr",
+									"text": "mob.snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "): 정책평가단 등록 → 개인정보 확인(수정) → 등록\n○ 서울대 포털 마이스누("
+								},
+								{
+									"type": "link",
+									"url": "http://my.snu.ac.kr",
+									"text": "my.snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "): 정책평가단  등록 → 개인정보 확인(수정) → 등록\n\n가. 일시: 2022. "
+								},
+								{
+									"type": "text",
+									"text": "10. 6.(목)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 14:00 ~ 19:00\n   나. 장소: 관악 문화관 대강당, 연건 의과대학 3층 대강당(실시간 중계)\n   다. 방법: 모바일 투표(Kevoting 시스템)\n     - 정책평가 투표 시간: 2022. "
+								},
+								{
+									"type": "text",
+									"text": "10. 6.(금",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ") 17:30 ~ 19:00\n\n라. 정책평가단 구성\n     - 학생 정책평가단: 2022. 10. 5.(수) 15:00까지 등록한 대상자 전원 참여\n\n"
+								},
+								{
+									"type": "text",
+									"text": "마. 협조 사항",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n     "
+								},
+								{
+									"type": "text",
+									"text": "- 정책 평가일 '자율휴업일 지정' 안내(정책평가참여 및 투표자는 투표확인증을 제출할 경우 출석인정을 받을 수 있음)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "4892f927-288a-4b74-90e2-a733d3e6b853",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"ts": "1664166656.357419",
+			"files": [
+				{
+					"id": "F043WUMGC1J",
+					"created": 1664166654,
+					"timestamp": 1664166654,
+					"name": "학생 정책평가단 등록 안내문.hwp",
+					"title": "학생 정책평가단 등록 안내문.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 637952,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F043WUMGC1J-학생 정책평가단 등록 안내문.hwp",
+					"url_private_download": "attachments/F043WUMGC1J-학생 정책평가단 등록 안내문.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043WUMGC1J/_______________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F043WUMGC1J-ba85464436",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "3a69c5cb-31ca-4021-947f-181704aaf99a",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel>  &lt;2022학년도 2학기 논자시 구술고사로 인한 3층 출입 통제 안내&gt;\n22학년도 2학기 논자시 구술고사로 인해 3층 전체 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2022. 9. 30.(금) 14:00 ~ 18:00",
+			"ts": "1664175465.714069",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "X9fQl",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": "  <2022학년도 2학기 논자시 구술고사로 인한 3층 출입 통제 안내>\n22학년도 2학기 논자시 구술고사로 인해 3층 전체 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2022. 9. 30.(금) 14:00 ~ 18:00"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,603 +1,605 @@
-[
-  {
-    "client_msg_id": "b05ac00d-059d-46cd-b196-5d538c5713ce",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023년 SNU-CMU(서울대학교-카네기 멜런 대학교) 워크숍 개최 안내\u0026gt;*\n 「해외 첨단 공동연구센터 설립」을 위한 해외 공동연구 지원사업의 일환으로 SNU-CMU(서울대학교-카네기 멜런 대학교) 워크숍을 아래와 같이 개최하오니, 융합 연구의 최신 동향에 관심있는 학생분들은 참고 바랍니다.\n\n  가. 행 사 명: 2023년 SNU-CMU 워크숍\n  나. 목 적: 서울대학교와 카네기 멜런 대학교의 공동 연구주제 논의\n  다. 일 시: 2023. 7. 26.(수) 10:00~17:00\n  라. 장 소: 서울대학교 관악캠퍼스 38동 5층 대강당\n  마. 참가신청\n    - *신청방법: 참가신청 링크 응답 제출(\u003chttps://naver.me/xXDJSAbp\u003e)*\n    - *신청기한: 2023. 7. 18.(화)까지 ※* 선착순 250명 마감\n  바. 관련문의: 이주은(\u003ctel:0318889128|031-888-9128\u003e, \u003cmailto:snulje@snu.ac.kr|snulje@snu.ac.kr\u003e)\n\n붙임 2023년 SNU-CMU 워크숍 운영 계획(안) 1부.",
-    "ts": "1689293808.004379",
-    "attachments": [
-      {
-        "fallback": "SNU-CMU 워크숍 참여 신청",
-        "id": 1,
-        "title": "SNU-CMU 워크숍 참여 신청",
-        "title_link": "https://naver.me/xXDJSAbp",
-        "text": "1. 주관: 서울대학교 연구처, 주최: 융합과학기술대학원 2. 일시: 2023. 7. 26. (수) 오전 10시 - 오후 5시 (선착순 90명 중식 제공) 3. 참가 신청 기한: 2023. 7. 18.(화) 자정까지 (선착순 250명 마감) 4. 장소: 서울대학교 관악캠퍼스 38동 5층 대강당(520호) 5. 목적: 서울대학교와 카네기 멜런 대학교의 공동 연구 주제 논의 6. 심포지엄 발표자: 미국 카네기 멜런 대학교(Carnegie Mellon University) 소속 초청 교원 12명 서울대학교 소속 교원 12명 7. 행사 일정 09:00 - 10:00: 행사 등록 10:00 - 10:10: 개회사 10:10 - 11:30: Session 1 (10분 휴식 포함) 11:30 - 12:40: Session 2 12:40 - 14:00: 점심 식사 14:00 - 15:20: Session 3 (10분 휴식 포함) 15:20 - 16:30: Session 4 16:30 - 17:00: 폐회사 8. 문의: 이주은 (031-888-9128, \u003cmailto:snulje@snu.ac.kr|snulje@snu.ac.kr\u003e)",
-        "image_url": "https://form.office.naver.com/form/images/mobile/img_ogtag.png",
-        "service_name": "form.office.naver.com",
-        "service_icon": "https://form.office.naver.com/form/images/favicon.ico",
-        "from_url": "https://naver.me/xXDJSAbp",
-        "original_url": "https://naver.me/xXDJSAbp",
-        "blocks": null
-      }
-    ],
-    "files": [
-      {
-        "id": "F05GX7GBG5T",
-        "created": 1689293787,
-        "timestamp": 1689293787,
-        "name": "붙임 (안내용) 2023년 SNU-CMU 워크숍 운영계획(안).hwp",
-        "title": "붙임 (안내용) 2023년 SNU-CMU 워크숍 운영계획(안).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 270336,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05GX7GBG5T-붙임 (안내용) 2023년 SNU-CMU 워크숍 운영계획(안).hwp",
-        "url_private_download": "attachments/F05GX7GBG5T-붙임 (안내용) 2023년 SNU-CMU 워크숍 운영계획(안).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GX7GBG5T/___________________2023____snu-cmu____________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GX7GBG5T-bf9cac6aba",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "pCIfJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 SNU-CMU(서울대학교-카네기 멜런 대학교) 워크숍 개최 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n 「해외 첨단 공동연구센터 설립」을 위한 해외 공동연구 지원사업의 일환으로 SNU-CMU(서울대학교-카네기 멜런 대학교) 워크숍을 아래와 같이 개최하오니, 융합 연구의 최신 동향에 관심있는 학생분들은 참고 바랍니다.\n\n  가. 행 사 명: 2023년 SNU-CMU 워크숍\n  나. 목 적: 서울대학교와 카네기 멜런 대학교의 공동 연구주제 논의\n  다. 일 시: 2023. 7. 26.(수) 10:00~17:00\n  라. 장 소: 서울대학교 관악캠퍼스 38동 5층 대강당\n  마. 참가신청\n    - "
-              },
-              {
-                "type": "text",
-                "text": "신청방법: 참가신청 링크 응답 제출(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "https://naver.me/xXDJSAbp",
-                "text": "",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    - "
-              },
-              {
-                "type": "text",
-                "text": "신청기한: 2023. 7. 18.(화)까지 ※ ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "선착순 250명 마감\n  바. 관련문의: 이주은("
-              },
-              {
-                "type": "link",
-                "url": "tel:0318889128",
-                "text": "031-888-9128"
-              },
-              {
-                "type": "text",
-                "text": ", "
-              },
-              {
-                "type": "link",
-                "url": "mailto:snulje@snu.ac.kr",
-                "text": "snulje@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n\n붙임 2023년 SNU-CMU 워크숍 운영 계획(안) 1부."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "b6fe6e82-7faa-4e77-961d-4bb0b6d3a7af",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;서울대학교 언어교육원 IT 강사 모집 공고\u0026gt;*\n\n서울대학교 언어교육원 한국어교육센터에서는 말레이시아 국비 장학생을 대상으로 공과대학 진학 시에 필요한 한국의 고등학교 과정 수준의 IT 과목을 강의할 용역 강사를 모집합니다.\n\n1. 강의내용: 파이썬 활용 및 응용\n2. 기타 조건: 첨부파일 참조\n3. 지원기간: 7. 17.(월) 오후 12시까지",
-    "ts": "1689315899.249999",
-    "files": [
-      {
-        "id": "F05H3KK5CGL",
-        "created": 1689315892,
-        "timestamp": 1689315892,
-        "name": "[급구]서울대학교 언어교육원 IT 강사 추가모집 공고[0717마감].pdf",
-        "title": "[급구]서울대학교 언어교육원 IT 강사 추가모집 공고[0717마감].pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 79921,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05H3KK5CGL-[급구]서울대학교 언어교육원 IT 강사 추가모집 공고[0717마감].pdf",
-        "url_private_download": "attachments/F05H3KK5CGL-[급구]서울대학교 언어교육원 IT 강사 추가모집 공고[0717마감].pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05H3KK5CGL/________________________________________it____________________________0717_______.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05H3KK5CGL-c5e4dee848",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "AQDr6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c서울대학교 언어교육원 IT 강사 모집 공고\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n서울대학교 언어교육원 한국어교육센터에서는 말레이시아 국비 장학생을 대상으로 공과대학 진학 시에 필요한 한국의 고등학교 과정 수준의 IT 과목을 강의할 용역 강사를 모집합니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac15\\uc758\\ub0b4\\uc6a9: \\ud30c\\uc774\\uc36c \\ud65c\\uc6a9 \\ubc0f \\uc751\\uc6a9\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\ud0c0 \\uc870\\uac74: \\ucca8\\ubd80\\ud30c\\uc77c \\ucc38\\uc870\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c0\\uc6d0\\uae30\\uac04: 7. 17.(\\uc6d4) \\uc624\\ud6c4 12\\uc2dc\\uae4c\\uc9c0\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "1ab3d306-2088-424d-8f14-64c6d738bf4a",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 2학기 등록금 수납 계획 알림\u0026gt;\n2023학년도 제2학기 등록금 수납계획을 붙임과 같이 알려드리니, 등록금 납부에 문제가 생겨 제적되는 일이 없도록 해주시기 바랍니다.\n규정학기 초과자의 경우 붙임 4의 규정학기 초과자 등록금을 확인하시기 바랍니다.\n상세한 사항은 반드시 붙임파일을 확인하시기 바랍니다.\nㅁ본등록: 2023. 8. 21.(월) 09:00 ~ 8. 25.(금) 17:00\nㅁ추가등록: 2023. 9. 12.(화) 09:00 ~ 9. 14.(목) 17:00\nㅁ최종등록: 2023. 9. 21.(목) 09:00 ~ 9. 25.(월) 17:00\n※최종등록까지 완납하지 않을 경우 미등록 처리\n※수업연한(규정학기)초과자는 수강신청 완료 후에 고지서 출력",
-    "ts": "1689316920.212769",
-    "files": [
-      {
-        "id": "F05GLMVSY9M",
-        "created": 1689316908,
-        "timestamp": 1689316908,
-        "name": "[붙임4] 2023학년도 규정학기초과자 등록금 일람표.pdf",
-        "title": "[붙임4] 2023학년도 규정학기초과자 등록금 일람표.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 101855,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05GLMVSY9M-[붙임4] 2023학년도 규정학기초과자 등록금 일람표.pdf",
-        "url_private_download": "attachments/F05GLMVSY9M-[붙임4] 2023학년도 규정학기초과자 등록금 일람표.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GLMVSY9M/_______4__2023___________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GLMVSY9M-39f218d818",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05H14YRKPV",
-        "created": 1689316911,
-        "timestamp": 1689316911,
-        "name": "[붙임2] 2023-2 등록금 납부 Q\u0026A.pdf",
-        "title": "[붙임2] 2023-2 등록금 납부 Q\u0026amp;A.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 202823,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05H14YRKPV-[붙임2] 2023-2 등록금 납부 Q\u0026A.pdf",
-        "url_private_download": "attachments/F05H14YRKPV-[붙임2] 2023-2 등록금 납부 Q\u0026A.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05H14YRKPV/_______2__2023-2__________________q_a.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05H14YRKPV-95cd7e3df4",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05GLMW5Y1M",
-        "created": 1689316913,
-        "timestamp": 1689316913,
-        "name": "[붙임3] 2023-2 대학(원)생 등록금 일람표.pdf",
-        "title": "[붙임3] 2023-2 대학(원)생 등록금 일람표.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 77405,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05GLMW5Y1M-[붙임3] 2023-2 대학(원)생 등록금 일람표.pdf",
-        "url_private_download": "attachments/F05GLMW5Y1M-[붙임3] 2023-2 대학(원)생 등록금 일람표.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GLMW5Y1M/_______3__2023-2___________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GLMW5Y1M-6fa1394482",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05H18C1058",
-        "created": 1689316915,
-        "timestamp": 1689316915,
-        "name": "[붙임1] 2023-2 재학생 등록 안내문.pdf",
-        "title": "[붙임1] 2023-2 재학생 등록 안내문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 253079,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05H18C1058-[붙임1] 2023-2 재학생 등록 안내문.pdf",
-        "url_private_download": "attachments/F05H18C1058-[붙임1] 2023-2 재학생 등록 안내문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05H18C1058/_______1__2023-2___________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05H18C1058-b30ed76a6f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "dRitm",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 2학기 등록금 수납 계획 알림\u003e\n2023학년도 제2학기 등록금 수납계획을 붙임과 같이 알려드리니, 등록금 납부에 문제가 생겨 제적되는 일이 없도록 해주시기 바랍니다.\n규정학기 초과자의 경우 붙임 4의 규정학기 초과자 등록금을 확인하시기 바랍니다.\n상세한 사항은 반드시 붙임파일을 확인하시기 바랍니다.\nㅁ본등록: 2023. 8. 21.(월) 09:00 ~ 8. 25.(금) 17:00\nㅁ추가등록: 2023. 9. 12.(화) 09:00 ~ 9. 14.(목) 17:00\nㅁ최종등록: 2023. 9. 21.(목) 09:00 ~ 9. 25.(월) 17:00\n※최종등록까지 완납하지 않을 경우 미등록 처리\n※수업연한(규정학기)초과자는 수강신청 완료 후에 고지서 출력"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "b05ac00d-059d-46cd-b196-5d538c5713ce",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023년 SNU-CMU(서울대학교-카네기 멜런 대학교) 워크숍 개최 안내&gt;*\n 「해외 첨단 공동연구센터 설립」을 위한 해외 공동연구 지원사업의 일환으로 SNU-CMU(서울대학교-카네기 멜런 대학교) 워크숍을 아래와 같이 개최하오니, 융합 연구의 최신 동향에 관심있는 학생분들은 참고 바랍니다.\n\n  가. 행 사 명: 2023년 SNU-CMU 워크숍\n  나. 목 적: 서울대학교와 카네기 멜런 대학교의 공동 연구주제 논의\n  다. 일 시: 2023. 7. 26.(수) 10:00~17:00\n  라. 장 소: 서울대학교 관악캠퍼스 38동 5층 대강당\n  마. 참가신청\n    - *신청방법: 참가신청 링크 응답 제출(<https://naver.me/xXDJSAbp>)*\n    - *신청기한: 2023. 7. 18.(화)까지 ※* 선착순 250명 마감\n  바. 관련문의: 이주은(<tel:0318889128|031-888-9128>, <mailto:snulje@snu.ac.kr|snulje@snu.ac.kr>)\n\n붙임 2023년 SNU-CMU 워크숍 운영 계획(안) 1부.",
+			"ts": "1689293808.004379",
+			"attachments": [
+				{
+					"fallback": "SNU-CMU 워크숍 참여 신청",
+					"id": 1,
+					"title": "SNU-CMU 워크숍 참여 신청",
+					"title_link": "https://naver.me/xXDJSAbp",
+					"text": "1. 주관: 서울대학교 연구처, 주최: 융합과학기술대학원 2. 일시: 2023. 7. 26. (수) 오전 10시 - 오후 5시 (선착순 90명 중식 제공) 3. 참가 신청 기한: 2023. 7. 18.(화) 자정까지 (선착순 250명 마감) 4. 장소: 서울대학교 관악캠퍼스 38동 5층 대강당(520호) 5. 목적: 서울대학교와 카네기 멜런 대학교의 공동 연구 주제 논의 6. 심포지엄 발표자: 미국 카네기 멜런 대학교(Carnegie Mellon University) 소속 초청 교원 12명 서울대학교 소속 교원 12명 7. 행사 일정 09:00 - 10:00: 행사 등록 10:00 - 10:10: 개회사 10:10 - 11:30: Session 1 (10분 휴식 포함) 11:30 - 12:40: Session 2 12:40 - 14:00: 점심 식사 14:00 - 15:20: Session 3 (10분 휴식 포함) 15:20 - 16:30: Session 4 16:30 - 17:00: 폐회사 8. 문의: 이주은 (031-888-9128, <mailto:snulje@snu.ac.kr|snulje@snu.ac.kr>)",
+					"image_url": "https://form.office.naver.com/form/images/mobile/img_ogtag.png",
+					"service_name": "form.office.naver.com",
+					"service_icon": "https://form.office.naver.com/form/images/favicon.ico",
+					"from_url": "https://naver.me/xXDJSAbp",
+					"original_url": "https://naver.me/xXDJSAbp",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F05GX7GBG5T",
+					"created": 1689293787,
+					"timestamp": 1689293787,
+					"name": "붙임 (안내용) 2023년 SNU-CMU 워크숍 운영계획(안).hwp",
+					"title": "붙임 (안내용) 2023년 SNU-CMU 워크숍 운영계획(안).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 270336,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05GX7GBG5T-붙임 (안내용) 2023년 SNU-CMU 워크숍 운영계획(안).hwp",
+					"url_private_download": "attachments/F05GX7GBG5T-붙임 (안내용) 2023년 SNU-CMU 워크숍 운영계획(안).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GX7GBG5T/___________________2023____snu-cmu____________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05GX7GBG5T-bf9cac6aba",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "pCIfJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 SNU-CMU(서울대학교-카네기 멜런 대학교) 워크숍 개최 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n 「해외 첨단 공동연구센터 설립」을 위한 해외 공동연구 지원사업의 일환으로 SNU-CMU(서울대학교-카네기 멜런 대학교) 워크숍을 아래와 같이 개최하오니, 융합 연구의 최신 동향에 관심있는 학생분들은 참고 바랍니다.\n\n  가. 행 사 명: 2023년 SNU-CMU 워크숍\n  나. 목 적: 서울대학교와 카네기 멜런 대학교의 공동 연구주제 논의\n  다. 일 시: 2023. 7. 26.(수) 10:00~17:00\n  라. 장 소: 서울대학교 관악캠퍼스 38동 5층 대강당\n  마. 참가신청\n    - "
+								},
+								{
+									"type": "text",
+									"text": "신청방법: 참가신청 링크 응답 제출(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "https://naver.me/xXDJSAbp",
+									"text": "",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    - "
+								},
+								{
+									"type": "text",
+									"text": "신청기한: 2023. 7. 18.(화)까지 ※ ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "선착순 250명 마감\n  바. 관련문의: 이주은("
+								},
+								{
+									"type": "link",
+									"url": "tel:0318889128",
+									"text": "031-888-9128"
+								},
+								{
+									"type": "text",
+									"text": ", "
+								},
+								{
+									"type": "link",
+									"url": "mailto:snulje@snu.ac.kr",
+									"text": "snulje@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n\n붙임 2023년 SNU-CMU 워크숍 운영 계획(안) 1부."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "b6fe6e82-7faa-4e77-961d-4bb0b6d3a7af",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;서울대학교 언어교육원 IT 강사 모집 공고&gt;*\n\n서울대학교 언어교육원 한국어교육센터에서는 말레이시아 국비 장학생을 대상으로 공과대학 진학 시에 필요한 한국의 고등학교 과정 수준의 IT 과목을 강의할 용역 강사를 모집합니다.\n\n1. 강의내용: 파이썬 활용 및 응용\n2. 기타 조건: 첨부파일 참조\n3. 지원기간: 7. 17.(월) 오후 12시까지",
+			"ts": "1689315899.249999",
+			"files": [
+				{
+					"id": "F05H3KK5CGL",
+					"created": 1689315892,
+					"timestamp": 1689315892,
+					"name": "[급구]서울대학교 언어교육원 IT 강사 추가모집 공고[0717마감].pdf",
+					"title": "[급구]서울대학교 언어교육원 IT 강사 추가모집 공고[0717마감].pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 79921,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05H3KK5CGL-[급구]서울대학교 언어교육원 IT 강사 추가모집 공고[0717마감].pdf",
+					"url_private_download": "attachments/F05H3KK5CGL-[급구]서울대학교 언어교육원 IT 강사 추가모집 공고[0717마감].pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05H3KK5CGL/________________________________________it____________________________0717_______.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05H3KK5CGL-c5e4dee848",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "AQDr6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<서울대학교 언어교육원 IT 강사 모집 공고>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n서울대학교 언어교육원 한국어교육센터에서는 말레이시아 국비 장학생을 대상으로 공과대학 진학 시에 필요한 한국의 고등학교 과정 수준의 IT 과목을 강의할 용역 강사를 모집합니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac15\\uc758\\ub0b4\\uc6a9: \\ud30c\\uc774\\uc36c \\ud65c\\uc6a9 \\ubc0f \\uc751\\uc6a9\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\ud0c0 \\uc870\\uac74: \\ucca8\\ubd80\\ud30c\\uc77c \\ucc38\\uc870\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c0\\uc6d0\\uae30\\uac04: 7. 17.(\\uc6d4) \\uc624\\ud6c4 12\\uc2dc\\uae4c\\uc9c0\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "1ab3d306-2088-424d-8f14-64c6d738bf4a",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 2학기 등록금 수납 계획 알림&gt;\n2023학년도 제2학기 등록금 수납계획을 붙임과 같이 알려드리니, 등록금 납부에 문제가 생겨 제적되는 일이 없도록 해주시기 바랍니다.\n규정학기 초과자의 경우 붙임 4의 규정학기 초과자 등록금을 확인하시기 바랍니다.\n상세한 사항은 반드시 붙임파일을 확인하시기 바랍니다.\nㅁ본등록: 2023. 8. 21.(월) 09:00 ~ 8. 25.(금) 17:00\nㅁ추가등록: 2023. 9. 12.(화) 09:00 ~ 9. 14.(목) 17:00\nㅁ최종등록: 2023. 9. 21.(목) 09:00 ~ 9. 25.(월) 17:00\n※최종등록까지 완납하지 않을 경우 미등록 처리\n※수업연한(규정학기)초과자는 수강신청 완료 후에 고지서 출력",
+			"ts": "1689316920.212769",
+			"files": [
+				{
+					"id": "F05GLMVSY9M",
+					"created": 1689316908,
+					"timestamp": 1689316908,
+					"name": "[붙임4] 2023학년도 규정학기초과자 등록금 일람표.pdf",
+					"title": "[붙임4] 2023학년도 규정학기초과자 등록금 일람표.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 101855,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05GLMVSY9M-[붙임4] 2023학년도 규정학기초과자 등록금 일람표.pdf",
+					"url_private_download": "attachments/F05GLMVSY9M-[붙임4] 2023학년도 규정학기초과자 등록금 일람표.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GLMVSY9M/_______4__2023___________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05GLMVSY9M-39f218d818",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05H14YRKPV",
+					"created": 1689316911,
+					"timestamp": 1689316911,
+					"name": "[붙임2] 2023-2 등록금 납부 Q&A.pdf",
+					"title": "[붙임2] 2023-2 등록금 납부 Q&amp;A.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 202823,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05H14YRKPV-[붙임2] 2023-2 등록금 납부 Q&A.pdf",
+					"url_private_download": "attachments/F05H14YRKPV-[붙임2] 2023-2 등록금 납부 Q&A.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05H14YRKPV/_______2__2023-2__________________q_a.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05H14YRKPV-95cd7e3df4",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05GLMW5Y1M",
+					"created": 1689316913,
+					"timestamp": 1689316913,
+					"name": "[붙임3] 2023-2 대학(원)생 등록금 일람표.pdf",
+					"title": "[붙임3] 2023-2 대학(원)생 등록금 일람표.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 77405,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05GLMW5Y1M-[붙임3] 2023-2 대학(원)생 등록금 일람표.pdf",
+					"url_private_download": "attachments/F05GLMW5Y1M-[붙임3] 2023-2 대학(원)생 등록금 일람표.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GLMW5Y1M/_______3__2023-2___________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05GLMW5Y1M-6fa1394482",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05H18C1058",
+					"created": 1689316915,
+					"timestamp": 1689316915,
+					"name": "[붙임1] 2023-2 재학생 등록 안내문.pdf",
+					"title": "[붙임1] 2023-2 재학생 등록 안내문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 253079,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05H18C1058-[붙임1] 2023-2 재학생 등록 안내문.pdf",
+					"url_private_download": "attachments/F05H18C1058-[붙임1] 2023-2 재학생 등록 안내문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05H18C1058/_______1__2023-2___________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05H18C1058-b30ed76a6f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "dRitm",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 2학기 등록금 수납 계획 알림>\n2023학년도 제2학기 등록금 수납계획을 붙임과 같이 알려드리니, 등록금 납부에 문제가 생겨 제적되는 일이 없도록 해주시기 바랍니다.\n규정학기 초과자의 경우 붙임 4의 규정학기 초과자 등록금을 확인하시기 바랍니다.\n상세한 사항은 반드시 붙임파일을 확인하시기 바랍니다.\nㅁ본등록: 2023. 8. 21.(월) 09:00 ~ 8. 25.(금) 17:00\nㅁ추가등록: 2023. 9. 12.(화) 09:00 ~ 9. 14.(목) 17:00\nㅁ최종등록: 2023. 9. 21.(목) 09:00 ~ 9. 25.(월) 17:00\n※최종등록까지 완납하지 않을 경우 미등록 처리\n※수업연한(규정학기)초과자는 수강신청 완료 후에 고지서 출력"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

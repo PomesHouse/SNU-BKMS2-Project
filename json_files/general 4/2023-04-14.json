@@ -1,363 +1,365 @@
-[
-  {
-    "client_msg_id": "e294cca2-153a-4a81-a309-c41f8188e086",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; *공간예약관리시스템(예약하샤) 도입 안내 (4.18.(화)~)* \u0026gt;\n\n데이터사이언스대학원 홈페이지가 신규 개발될 예정임에 따라 *현재 홈페이지 내의 공간 예약 방법은 종료하고, 학내 마이스누 공간예약관리시스템 '예약하샤'를 도입*합니다. 학생 여러분께서는 공간 사용에 있어 어려움을 겪지 않도록 아래 내용을 반드시 숙지하여 주시기 바랍니다.\n\nㅇ 접속 방법: *마이스누 포털시스템(\u003chttp://my.snu.ac.kr|my.snu.ac.kr\u003e) \u0026gt; 스누인지원 \u0026gt; 예약하샤* 를 통해 진입하거나, *\u003chttps://ssims.snu.ac.kr/index.do\u003e* 주소 직접 입력\nㅇ 도입일: *4. 18.(화)*\nㅇ 예약가능 공간: 현재와 동일(942동 300, 308, 309, 405, 407호 세미나실, 302호 강의실(수업 중복 불가)_)_\nㅇ *예약방법: 첨부 매뉴얼 참고*\n\nㅇ 도입에 따른 경과 조치: *가급적 4.14.(금)~4.17.(월)까지 신규 공간예약은 자제*하되, 다음과 같이 신청 가능\n - *신청(접수)일자 기준 4.17.(월)까지의 신청은 현재 홈페이지에서 신청 가능*하되, *예약(사용)일자 기준 4.21.(금)까지만 신청 가능*(행정실에서 예약하샤에 수기 입력 예정)\n    ※ 예약일자가 4.22.(토) 이후인 경우에는 일괄 반려 예정\n - *예약(사용)일자가 4.22.(토) 이후인 경우에는 4.18.(화)부터 \"예약하샤\"를 통해 신청*\n - 단, 4.11.(화)까지 현재 홈페이지를 통해 접수하여 *기 승인된 4.22.(토)~4.30.(일)의 예약 건은 행정실에서 예약하샤로 수기 입력 조치 완료*(기 승인 내용대로 사용 가능. *수기 입력에 따른 누락분이 있는지 반드시 신청자 본인이 확인*)\n - 현재 홈페이지에서 신청 후 기 승인된 *5월 이후 예약 건은 '예약하샤'에서 재신청하여야 함*(자료 이관 불가)\n\nㅇ 비고\n - 데이터사이언스대학원(BK21 사업단 포함) 소속 구성원만 예약 가능\n - 정규수업 시간과 중복하여 예약이 불가능하며, 기 확정된 예약이 있는 경우 중복 예약 불가\n - 종전과 같이 예약 승인 완료 후 사용 가능(예약 신청/확정/반려/취소 시 신청자에게 자동 메일 발송)\n - 기타 문의사항은 행정실로 연락(02-880-1146, \u003cmailto:changdae@snu.ac.kr|changdae@snu.ac.kr\u003e)",
-    "ts": "1681447798.281059",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1681447821.000000"
-    },
-    "files": [
-      {
-        "id": "F053L2G9LNM",
-        "created": 1681447634,
-        "timestamp": 1681447634,
-        "name": "(데이터사이언스대학원) '예약하샤' 공간예약 사용자 매뉴얼.pdf",
-        "title": "(데이터사이언스대학원) '예약하샤' 공간예약 사용자 매뉴얼.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 710687,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F053L2G9LNM-(데이터사이언스대학원) '예약하샤' 공간예약 사용자 매뉴얼.pdf",
-        "url_private_download": "attachments/F053L2G9LNM-(데이터사이언스대학원) '예약하샤' 공간예약 사용자 매뉴얼.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F053L2G9LNM/________________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F053L2G9LNM-614e24b1c7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F0534F64WG5",
-        "created": 1681447637,
-        "timestamp": 1681447637,
-        "name": "(참고) 개발자 제공 매뉴얼.docx",
-        "title": "(참고) 개발자 제공 매뉴얼.docx",
-        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "image_exif_rotation": 0,
-        "filetype": "docx",
-        "pretty_type": "Word 문서",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2136681,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0534F64WG5-(참고) 개발자 제공 매뉴얼.docx",
-        "url_private_download": "attachments/F0534F64WG5-(참고) 개발자 제공 매뉴얼.docx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0534F64WG5/___________________________________.docx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0534F64WG5-a838995dbd",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "zfi",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c "
-              },
-              {
-                "type": "text",
-                "text": "공간예약관리시스템(예약하샤) 도입 안내 (4.18.(화)~) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\u003e\n\n데이터사이언스대학원 홈페이지가 신규 개발될 예정임에 따라 "
-              },
-              {
-                "type": "text",
-                "text": "현재 홈페이지 내의 공간 예약 방법은 종료하고, 학내 마이스누 공간예약관리시스템 '예약하샤'를 도입",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "합니다. 학생 여러분께서는 공간 사용에 있어 어려움을 겪지 않도록 아래 내용을 반드시 숙지하여 주시기 바랍니다.\n\nㅇ 접속 방법: "
-              },
-              {
-                "type": "text",
-                "text": "마이스누 포털시스템(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "http://my.snu.ac.kr",
-                "text": "my.snu.ac.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ") \u003e 스누인지원 \u003e 예약하샤",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 를 통해 진입하거나, "
-              },
-              {
-                "type": "link",
-                "url": "https://ssims.snu.ac.kr/index.do",
-                "text": "",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "주소 직접 입력\nㅇ 도입일: "
-              },
-              {
-                "type": "text",
-                "text": "4. 18.(화)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\nㅇ 예약가능 공간: 현재와 동일(942동 300, 308, 309, 405, 407호 세미나실, 302호 강의실(수업 중복 불가)"
-              },
-              {
-                "type": "text",
-                "text": ")",
-                "style": {
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\nㅇ"
-              },
-              {
-                "type": "text",
-                "text": " 예약방법: 첨부 매뉴얼 참고",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nㅇ 도입에 따른 경과 조치: "
-              },
-              {
-                "type": "text",
-                "text": "가급적 4.14.(금)~4.17.(월)까지 신규 공간예약은 자제",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하되, 다음과 같이 신청 가능\n - "
-              },
-              {
-                "type": "text",
-                "text": "신청(접수)일자 기준 4.17.(월)까지의 신청은 현재 홈페이지에서 신청 가능",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하되, "
-              },
-              {
-                "type": "text",
-                "text": "예약(사용)일자 기준 4.21.(금)까지만 신청 가능",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(행정실에서 예약하샤에 수기 입력 예정)\n    ※ 예약일자가 4.22.(토) 이후인 경우에는 일괄 반려 예정\n - "
-              },
-              {
-                "type": "text",
-                "text": "예약(사용)일자가 4.22.(토) 이후인 경우에는 4.18.(화)부터 \"예약하샤\"를 통해 신청",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - 단, 4.11.(화)까지 현재 홈페이지를 통해 접수하여 "
-              },
-              {
-                "type": "text",
-                "text": "기 승인된 4.22.(토)~4.30.(일)의 예약 건은 행정실에서 예약하샤로 수기 입력 조치 완료",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(기 승인 내용대로 사용 가능. "
-              },
-              {
-                "type": "text",
-                "text": "수기 입력에 따른 누락분이 있는지 반드시 신청자 본인이 확인",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")\n - 현재 홈페이지에서 신청 후 기 승인된 "
-              },
-              {
-                "type": "text",
-                "text": "5월 이후 예약 건은 '예약하샤'에서 재신청하여야 함",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(자료 이관 불가)\n\nㅇ 비고\n - 데이터사이언스대학원(BK21 사업단 포함) 소속 구성원만 예약 가능\n - 정규수업 시간과 중복하여 예약이 불가능하며, 기 확정된 예약이 있는 경우 중복 예약 불가\n - 종전과 같이 예약 승인 완료 후 사용 가능(예약 신청/확정/반려/취소 시 신청자에게 자동 메일 발송)\n - 기타 문의사항은 행정실로 연락(02-880-1146, "
-              },
-              {
-                "type": "link",
-                "url": "mailto:changdae@snu.ac.kr",
-                "text": "changdae@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "e294cca2-153a-4a81-a309-c41f8188e086",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; *공간예약관리시스템(예약하샤) 도입 안내 (4.18.(화)~)* &gt;\n\n데이터사이언스대학원 홈페이지가 신규 개발될 예정임에 따라 *현재 홈페이지 내의 공간 예약 방법은 종료하고, 학내 마이스누 공간예약관리시스템 '예약하샤'를 도입*합니다. 학생 여러분께서는 공간 사용에 있어 어려움을 겪지 않도록 아래 내용을 반드시 숙지하여 주시기 바랍니다.\n\nㅇ 접속 방법: *마이스누 포털시스템(<http://my.snu.ac.kr|my.snu.ac.kr>) &gt; 스누인지원 &gt; 예약하샤* 를 통해 진입하거나, *<https://ssims.snu.ac.kr/index.do>* 주소 직접 입력\nㅇ 도입일: *4. 18.(화)*\nㅇ 예약가능 공간: 현재와 동일(942동 300, 308, 309, 405, 407호 세미나실, 302호 강의실(수업 중복 불가)_)_\nㅇ *예약방법: 첨부 매뉴얼 참고*\n\nㅇ 도입에 따른 경과 조치: *가급적 4.14.(금)~4.17.(월)까지 신규 공간예약은 자제*하되, 다음과 같이 신청 가능\n - *신청(접수)일자 기준 4.17.(월)까지의 신청은 현재 홈페이지에서 신청 가능*하되, *예약(사용)일자 기준 4.21.(금)까지만 신청 가능*(행정실에서 예약하샤에 수기 입력 예정)\n    ※ 예약일자가 4.22.(토) 이후인 경우에는 일괄 반려 예정\n - *예약(사용)일자가 4.22.(토) 이후인 경우에는 4.18.(화)부터 \"예약하샤\"를 통해 신청*\n - 단, 4.11.(화)까지 현재 홈페이지를 통해 접수하여 *기 승인된 4.22.(토)~4.30.(일)의 예약 건은 행정실에서 예약하샤로 수기 입력 조치 완료*(기 승인 내용대로 사용 가능. *수기 입력에 따른 누락분이 있는지 반드시 신청자 본인이 확인*)\n - 현재 홈페이지에서 신청 후 기 승인된 *5월 이후 예약 건은 '예약하샤'에서 재신청하여야 함*(자료 이관 불가)\n\nㅇ 비고\n - 데이터사이언스대학원(BK21 사업단 포함) 소속 구성원만 예약 가능\n - 정규수업 시간과 중복하여 예약이 불가능하며, 기 확정된 예약이 있는 경우 중복 예약 불가\n - 종전과 같이 예약 승인 완료 후 사용 가능(예약 신청/확정/반려/취소 시 신청자에게 자동 메일 발송)\n - 기타 문의사항은 행정실로 연락(02-880-1146, <mailto:changdae@snu.ac.kr|changdae@snu.ac.kr>)",
+			"ts": "1681447798.281059",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1681447821.000000"
+			},
+			"files": [
+				{
+					"id": "F053L2G9LNM",
+					"created": 1681447634,
+					"timestamp": 1681447634,
+					"name": "(데이터사이언스대학원) '예약하샤' 공간예약 사용자 매뉴얼.pdf",
+					"title": "(데이터사이언스대학원) '예약하샤' 공간예약 사용자 매뉴얼.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 710687,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F053L2G9LNM-(데이터사이언스대학원) '예약하샤' 공간예약 사용자 매뉴얼.pdf",
+					"url_private_download": "attachments/F053L2G9LNM-(데이터사이언스대학원) '예약하샤' 공간예약 사용자 매뉴얼.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F053L2G9LNM/________________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F053L2G9LNM-614e24b1c7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F0534F64WG5",
+					"created": 1681447637,
+					"timestamp": 1681447637,
+					"name": "(참고) 개발자 제공 매뉴얼.docx",
+					"title": "(참고) 개발자 제공 매뉴얼.docx",
+					"mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+					"image_exif_rotation": 0,
+					"filetype": "docx",
+					"pretty_type": "Word 문서",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2136681,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0534F64WG5-(참고) 개발자 제공 매뉴얼.docx",
+					"url_private_download": "attachments/F0534F64WG5-(참고) 개발자 제공 매뉴얼.docx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0534F64WG5/___________________________________.docx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0534F64WG5-a838995dbd",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "zfi",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< "
+								},
+								{
+									"type": "text",
+									"text": "공간예약관리시스템(예약하샤) 도입 안내 (4.18.(화)~) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ">\n\n데이터사이언스대학원 홈페이지가 신규 개발될 예정임에 따라 "
+								},
+								{
+									"type": "text",
+									"text": "현재 홈페이지 내의 공간 예약 방법은 종료하고, 학내 마이스누 공간예약관리시스템 '예약하샤'를 도입",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "합니다. 학생 여러분께서는 공간 사용에 있어 어려움을 겪지 않도록 아래 내용을 반드시 숙지하여 주시기 바랍니다.\n\nㅇ 접속 방법: "
+								},
+								{
+									"type": "text",
+									"text": "마이스누 포털시스템(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "http://my.snu.ac.kr",
+									"text": "my.snu.ac.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ") > 스누인지원 > 예약하샤",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 를 통해 진입하거나, "
+								},
+								{
+									"type": "link",
+									"url": "https://ssims.snu.ac.kr/index.do",
+									"text": "",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "주소 직접 입력\nㅇ 도입일: "
+								},
+								{
+									"type": "text",
+									"text": "4. 18.(화)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\nㅇ 예약가능 공간: 현재와 동일(942동 300, 308, 309, 405, 407호 세미나실, 302호 강의실(수업 중복 불가)"
+								},
+								{
+									"type": "text",
+									"text": ")",
+									"style": {
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\nㅇ"
+								},
+								{
+									"type": "text",
+									"text": " 예약방법: 첨부 매뉴얼 참고",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nㅇ 도입에 따른 경과 조치: "
+								},
+								{
+									"type": "text",
+									"text": "가급적 4.14.(금)~4.17.(월)까지 신규 공간예약은 자제",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하되, 다음과 같이 신청 가능\n - "
+								},
+								{
+									"type": "text",
+									"text": "신청(접수)일자 기준 4.17.(월)까지의 신청은 현재 홈페이지에서 신청 가능",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하되, "
+								},
+								{
+									"type": "text",
+									"text": "예약(사용)일자 기준 4.21.(금)까지만 신청 가능",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(행정실에서 예약하샤에 수기 입력 예정)\n    ※ 예약일자가 4.22.(토) 이후인 경우에는 일괄 반려 예정\n - "
+								},
+								{
+									"type": "text",
+									"text": "예약(사용)일자가 4.22.(토) 이후인 경우에는 4.18.(화)부터 \"예약하샤\"를 통해 신청",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - 단, 4.11.(화)까지 현재 홈페이지를 통해 접수하여 "
+								},
+								{
+									"type": "text",
+									"text": "기 승인된 4.22.(토)~4.30.(일)의 예약 건은 행정실에서 예약하샤로 수기 입력 조치 완료",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(기 승인 내용대로 사용 가능. "
+								},
+								{
+									"type": "text",
+									"text": "수기 입력에 따른 누락분이 있는지 반드시 신청자 본인이 확인",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")\n - 현재 홈페이지에서 신청 후 기 승인된 "
+								},
+								{
+									"type": "text",
+									"text": "5월 이후 예약 건은 '예약하샤'에서 재신청하여야 함",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(자료 이관 불가)\n\nㅇ 비고\n - 데이터사이언스대학원(BK21 사업단 포함) 소속 구성원만 예약 가능\n - 정규수업 시간과 중복하여 예약이 불가능하며, 기 확정된 예약이 있는 경우 중복 예약 불가\n - 종전과 같이 예약 승인 완료 후 사용 가능(예약 신청/확정/반려/취소 시 신청자에게 자동 메일 발송)\n - 기타 문의사항은 행정실로 연락(02-880-1146, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:changdae@snu.ac.kr",
+									"text": "changdae@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

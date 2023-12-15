@@ -1,347 +1,349 @@
-[
-  {
-    "client_msg_id": "8CAF7614-9264-4A99-B8F3-56036A5EEF6D",
-    "type": "message",
-    "user": "U0302PKMR6C",
-    "text": "오늘 논문자격시험을 응원하는 마음을 담아 학생회에서 간식을 준비해주셨습니다. \n1차 시험 전, 2차 시험 전, 그리고 시험이 끝난 후에 준비된 에너지와 응원 받아가세요 :blush:\n2기 선배님들 모두 오늘 논문자격시험에서 좋은 결실 있으시길 기원합니다. \n",
-    "ts": "1648540453.514929",
-    "files": [
-      {
-        "id": "F038W9JUYA2",
-        "created": 1648540442,
-        "timestamp": 1648540442,
-        "name": "Image from iOS.jpg",
-        "title": "Image from iOS",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U0302PKMR6C",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2398312,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F038W9JUYA2-Image from iOS.jpg",
-        "url_private_download": "attachments/F038W9JUYA2-Image from iOS.jpg",
-        "original_h": 3024,
-        "original_w": 4032,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 270,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 360,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 540,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 720,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 768,
-        "permalink": "https://snugsds.slack.com/files/U0302PKMR6C/F038W9JUYA2/image_from_ios.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F038W9JUYA2-8b6402a776",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F03902RAP7X",
-        "created": 1648540442,
-        "timestamp": 1648540442,
-        "name": "Image from iOS.jpg",
-        "title": "Image from iOS",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U0302PKMR6C",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1143129,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03902RAP7X-Image from iOS.jpg",
-        "url_private_download": "attachments/F03902RAP7X-Image from iOS.jpg",
-        "original_h": 4032,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U0302PKMR6C/F03902RAP7X/image_from_ios.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03902RAP7X-a6699c23ce",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 25,
-        "users": [
-          "U0302PJE83A",
-          "U01PVEU1A07",
-          "U01QAE573J7",
-          "U02V5LT2XFB",
-          "U0302PK342C",
-          "U01PVEU7QKH",
-          "U01Q1KQ03PZ",
-          "U01QV28F01X",
-          "U01Q9KXMSF8",
-          "U01Q1KFN4JK",
-          "U01QV28FG4R",
-          "U01QV1WAPL1",
-          "U02UT2UPB2P",
-          "U01QGKD09K5",
-          "U02UT2VBBR9",
-          "U01QDANUYVB",
-          "U02UT1YNY6N",
-          "U01PVET2C31",
-          "U01QNMUAUKW",
-          "U02ULBH3TEJ",
-          "U01QGKCT067",
-          "U02V5LT4DLZ",
-          "U02ULBHV58W",
-          "U0302PHUHME",
-          "U01R678KWP2"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xclRE",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "오늘 논문자격시험을 응원하는 마음을 담아 학생회에서 간식을 준비해주셨습니다. \n1차 시험 전, 2차 시험 전, 그리고 시험이 끝난 후에 준비된 에너지와 응원 받아가세요 "
-              },
-              {
-                "type": "emoji",
-                "name": "blush",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "2기 선배님들 모두 오늘 논문자격시험에서 좋은 결실 있으시길 기원합니다. \n"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/cbe0783a7e2f521c193f8e9c91e05da5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
-      "first_name": "3기_권세희",
-      "real_name": "3기_권세희",
-      "display_name": "3기_권세희",
-      "team": "T01QA5S537V",
-      "name": "seram7",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "bae1d8ac-2d03-45d1-86a1-326cd68e24be",
-    "type": "message",
-    "user": "U01Q1KFN4JK",
-    "text": "*[알림] 3,4층 간식* \n\n오늘 논자시를 치루신 학생분 여러분 다들 고생많으셨습니다! 집에 가서 푹 쉬시고\n\n*3,4층 탕비실에 바나나를 두었으니 출출하신 분들은 오가며 드시면 되겠습니다.*\n*(생생우동 컵라면도 둘테니 필요하신 분은 한 두 어개씩 가져가세요!)*\n\n이번 주 금요일 저녁까지 남는 바나나가 있으면 제가 처리하도록 하겠습니다.\n\n다시 한 번 정말 고생 많으셨습니다! :pray:",
-    "ts": "1648556984.758569",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "banana",
-        "count": 17,
-        "users": [
-          "U01R719DKK2",
-          "U01QV28F01X",
-          "U01PVEU1A07",
-          "U01R678KWP2",
-          "U01QNSM488Z",
-          "U01QGKCRNPM",
-          "U01QNJ98FA8",
-          "U02V5LU4ED7",
-          "U01QGJL6SP5",
-          "U01QNMUAUKW",
-          "U02ULBH3TEJ",
-          "U01QGG6A5LJ",
-          "U01QGKCT067",
-          "U01R689L5KJ",
-          "U01Q75KNV1T",
-          "U01Q386CMKQ",
-          "U02UT1XUGFL"
-        ]
-      },
-      {
-        "name": "blob_cheer",
-        "count": 6,
-        "users": [
-          "U01QGKD09K5",
-          "U01R678KWP2",
-          "U02V5LTKMPT",
-          "U01QGKCRNPM",
-          "U02V5LU4ED7",
-          "U02UT1XUGFL"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 5,
-        "users": [
-          "U02V5LU4ED7",
-          "U02UT1YNY6N",
-          "U01QV1WAPL1",
-          "U02V5LT4DLZ",
-          "U02UT1XUGFL"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "54s",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[알림] 3,4층 간식 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n오늘 논자시를 치루신 학생분 여러분 다들 고생많으셨습니다! 집에 가서 푹 쉬시고\n\n"
-              },
-              {
-                "type": "text",
-                "text": "3,4층 탕비실에 바나나를 두었으니 출출하신 분들은 오가며 드시면 되겠습니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "(생생우동 컵라면도 둘테니 필요하신 분은 한 두 어개씩 가져가세요!)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n이번 주 금요일 저녁까지 남는 바나나가 있으면 제가 처리하도록 하겠습니다.\n\n다시 한 번 정말 고생 많으셨습니다! "
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
-      "first_name": "고의천",
-      "real_name": "고의천",
-      "display_name": "2기_고의천",
-      "team": "T01QA5S537V",
-      "name": "hskoh87",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8CAF7614-9264-4A99-B8F3-56036A5EEF6D",
+			"type": "message",
+			"user": "U0302PKMR6C",
+			"text": "오늘 논문자격시험을 응원하는 마음을 담아 학생회에서 간식을 준비해주셨습니다. \n1차 시험 전, 2차 시험 전, 그리고 시험이 끝난 후에 준비된 에너지와 응원 받아가세요 :blush:\n2기 선배님들 모두 오늘 논문자격시험에서 좋은 결실 있으시길 기원합니다. \n",
+			"ts": "1648540453.514929",
+			"files": [
+				{
+					"id": "F038W9JUYA2",
+					"created": 1648540442,
+					"timestamp": 1648540442,
+					"name": "Image from iOS.jpg",
+					"title": "Image from iOS",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U0302PKMR6C",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2398312,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F038W9JUYA2-Image from iOS.jpg",
+					"url_private_download": "attachments/F038W9JUYA2-Image from iOS.jpg",
+					"original_h": 3024,
+					"original_w": 4032,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 270,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 360,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 540,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 720,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F038W9JUYA2-9f1babd2c8/image_from_ios_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 768,
+					"permalink": "https://snugsds.slack.com/files/U0302PKMR6C/F038W9JUYA2/image_from_ios.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F038W9JUYA2-8b6402a776",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F03902RAP7X",
+					"created": 1648540442,
+					"timestamp": 1648540442,
+					"name": "Image from iOS.jpg",
+					"title": "Image from iOS",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U0302PKMR6C",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1143129,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03902RAP7X-Image from iOS.jpg",
+					"url_private_download": "attachments/F03902RAP7X-Image from iOS.jpg",
+					"original_h": 4032,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03902RAP7X-bae3cf34fc/image_from_ios_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U0302PKMR6C/F03902RAP7X/image_from_ios.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03902RAP7X-a6699c23ce",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 25,
+					"users": [
+						"U0302PJE83A",
+						"U01PVEU1A07",
+						"U01QAE573J7",
+						"U02V5LT2XFB",
+						"U0302PK342C",
+						"U01PVEU7QKH",
+						"U01Q1KQ03PZ",
+						"U01QV28F01X",
+						"U01Q9KXMSF8",
+						"U01Q1KFN4JK",
+						"U01QV28FG4R",
+						"U01QV1WAPL1",
+						"U02UT2UPB2P",
+						"U01QGKD09K5",
+						"U02UT2VBBR9",
+						"U01QDANUYVB",
+						"U02UT1YNY6N",
+						"U01PVET2C31",
+						"U01QNMUAUKW",
+						"U02ULBH3TEJ",
+						"U01QGKCT067",
+						"U02V5LT4DLZ",
+						"U02ULBHV58W",
+						"U0302PHUHME",
+						"U01R678KWP2"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xclRE",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "오늘 논문자격시험을 응원하는 마음을 담아 학생회에서 간식을 준비해주셨습니다. \n1차 시험 전, 2차 시험 전, 그리고 시험이 끝난 후에 준비된 에너지와 응원 받아가세요 "
+								},
+								{
+									"type": "emoji",
+									"name": "blush",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "2기 선배님들 모두 오늘 논문자격시험에서 좋은 결실 있으시길 기원합니다. \n"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/cbe0783a7e2f521c193f8e9c91e05da5.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+				"first_name": "3기_권세희",
+				"real_name": "3기_권세희",
+				"display_name": "3기_권세희",
+				"team": "T01QA5S537V",
+				"name": "seram7",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "bae1d8ac-2d03-45d1-86a1-326cd68e24be",
+			"type": "message",
+			"user": "U01Q1KFN4JK",
+			"text": "*[알림] 3,4층 간식* \n\n오늘 논자시를 치루신 학생분 여러분 다들 고생많으셨습니다! 집에 가서 푹 쉬시고\n\n*3,4층 탕비실에 바나나를 두었으니 출출하신 분들은 오가며 드시면 되겠습니다.*\n*(생생우동 컵라면도 둘테니 필요하신 분은 한 두 어개씩 가져가세요!)*\n\n이번 주 금요일 저녁까지 남는 바나나가 있으면 제가 처리하도록 하겠습니다.\n\n다시 한 번 정말 고생 많으셨습니다! :pray:",
+			"ts": "1648556984.758569",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "banana",
+					"count": 17,
+					"users": [
+						"U01R719DKK2",
+						"U01QV28F01X",
+						"U01PVEU1A07",
+						"U01R678KWP2",
+						"U01QNSM488Z",
+						"U01QGKCRNPM",
+						"U01QNJ98FA8",
+						"U02V5LU4ED7",
+						"U01QGJL6SP5",
+						"U01QNMUAUKW",
+						"U02ULBH3TEJ",
+						"U01QGG6A5LJ",
+						"U01QGKCT067",
+						"U01R689L5KJ",
+						"U01Q75KNV1T",
+						"U01Q386CMKQ",
+						"U02UT1XUGFL"
+					]
+				},
+				{
+					"name": "blob_cheer",
+					"count": 6,
+					"users": [
+						"U01QGKD09K5",
+						"U01R678KWP2",
+						"U02V5LTKMPT",
+						"U01QGKCRNPM",
+						"U02V5LU4ED7",
+						"U02UT1XUGFL"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 5,
+					"users": [
+						"U02V5LU4ED7",
+						"U02UT1YNY6N",
+						"U01QV1WAPL1",
+						"U02V5LT4DLZ",
+						"U02UT1XUGFL"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "54s",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[알림] 3,4층 간식 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n오늘 논자시를 치루신 학생분 여러분 다들 고생많으셨습니다! 집에 가서 푹 쉬시고\n\n"
+								},
+								{
+									"type": "text",
+									"text": "3,4층 탕비실에 바나나를 두었으니 출출하신 분들은 오가며 드시면 되겠습니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "(생생우동 컵라면도 둘테니 필요하신 분은 한 두 어개씩 가져가세요!)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n이번 주 금요일 저녁까지 남는 바나나가 있으면 제가 처리하도록 하겠습니다.\n\n다시 한 번 정말 고생 많으셨습니다! "
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+				"first_name": "고의천",
+				"real_name": "고의천",
+				"display_name": "2기_고의천",
+				"team": "T01QA5S537V",
+				"name": "hskoh87",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

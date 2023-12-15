@@ -1,0 +1,160 @@
+{
+	"array": [
+		{
+			"client_msg_id": "a0481c3c-3958-4934-a335-31913887d01d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;수리과학부 8월 Summer School 홍보&gt;\n\n수리과학부에서 8월에 10-10 SummerSchool을 개최합니다.\n\nAI관련 주제라 많은 학생들이 관심있어 할 것 같습니다.\n서울대 구성원을 우선 등록 받는 중입니다.\n\n문의처: 수학기반산업데이터해석연구센터 김송이(02-880-6272)\n\n\n등록 홈페이지:point_down::skin-tone-2::point_down::skin-tone-2:\n<https://sites.google.com/view/summerschooldl/%ED%99%88>\n<https://summerschool.sigongji.com/>",
+			"ts": "1689746906.280189",
+			"attachments": [
+				{
+					"fallback": "SNU 10-10 Projct",
+					"id": 1,
+					"title": "SNU 10-10 Projct",
+					"title_link": "https://sites.google.com/view/summerschooldl/%ED%99%88",
+					"text": "연사\n** 대면 강연 **",
+					"image_url": "https://lh6.googleusercontent.com/QeGc3Zsax6i4oo2E8XkZBFbgWUgFoHOXfI1p2f6ivL5bOJZmiq3QxAVAAMz4SGIyE9yWR1uoFz-A8Eb0JUGumQ8",
+					"service_name": "sites.google.com",
+					"service_icon": "https://lh3.googleusercontent.com/1XkgpmVElhUdOVifo2puhsmCQNT97LJZn5JbIOX5lmxIkphlb0dYEsoiJl4d6sJPSRq-nDwMQiGYByIWU4LEYctbb6cpzMMxhDkuDGNpuMp5hRQ",
+					"from_url": "https://sites.google.com/view/summerschooldl/%ED%99%88",
+					"original_url": "https://sites.google.com/view/summerschooldl/%ED%99%88",
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1689746925.000000"
+			},
+			"files": [
+				{
+					"id": "F05HPTSL474",
+					"created": 1689746877,
+					"timestamp": 1689746877,
+					"name": "♣웹포스터(summer school).jpg",
+					"title": ":clubs:웹포스터(summer school).jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 8552321,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05HPTSL474-♣웹포스터(summer school).jpg",
+					"url_private_download": "attachments/F05HPTSL474-♣웹포스터(summer school).jpg",
+					"original_h": 7087,
+					"original_w": 5032,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05HPTSL474-2ef787d9c9/________________summer_school__64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05HPTSL474-2ef787d9c9/________________summer_school__80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05HPTSL474-2ef787d9c9/________________summer_school__160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05HPTSL474-2ef787d9c9/________________summer_school__360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 256,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05HPTSL474-2ef787d9c9/________________summer_school__480.jpg",
+					"thumb_480_w": 341,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05HPTSL474-2ef787d9c9/________________summer_school__720.jpg",
+					"thumb_720_w": 511,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05HPTSL474-2ef787d9c9/________________summer_school__960.jpg",
+					"thumb_960_w": 682,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05HPTSL474-2ef787d9c9/________________summer_school__1024.jpg",
+					"thumb_1024_w": 727,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05HPTSL474/________________summer_school_.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05HPTSL474-9a61b0276a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xWayS",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<수리과학부 8월 Summer School 홍보>\n\n수리과학부에서 8월에 10-10 SummerSchool을 개최합니다.\n\nAI관련 주제라 많은 학생들이 관심있어 할 것 같습니다.\n서울대 구성원을 우선 등록 받는 중입니다.\n\n문의처: 수학기반산업데이터해석연구센터 김송이(02-880-6272)\n\n\n등록 홈페이지"
+								},
+								{
+									"type": "emoji",
+									"name": "point_down",
+									"skin_tone": 2
+								},
+								{
+									"type": "emoji",
+									"name": "point_down",
+									"skin_tone": 2
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "link",
+									"url": "https://sites.google.com/view/summerschooldl/%ED%99%88",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "link",
+									"url": "https://summerschool.sigongji.com/",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

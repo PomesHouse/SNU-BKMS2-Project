@@ -1,0 +1,73 @@
+[
+  {
+    "client_msg_id": "94B9986B-8DAD-4E82-A365-94B1A4E8EB6F",
+    "type": "message",
+    "user": "U01QV1PBKUZ",
+    "text": "냉장고 및 탕비실 청소 마쳤습니다. 적어두신 기한이 지났거나 기한이 적혀있지 않은 경우에는 모두 폐기처분하였습니다. ",
+    "ts": "1664434907.797159",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 17,
+        "users": [
+          "U01Q75KNV1T",
+          "U01QGKD09K5",
+          "U01QGKCT067",
+          "U02UT2VQ9NF",
+          "U01QV1WAPL1",
+          "U01R689L5KJ",
+          "U02V5LTUGGH",
+          "U01Q1KFN4JK",
+          "U01R678KWP2",
+          "U02UQ4D8L2Z",
+          "U0302PHUHME",
+          "U0302PLQ34Y",
+          "U02ULBHV58W",
+          "U01QV28FG4R",
+          "U01PVEU1A07",
+          "U01QV1PBKUZ",
+          "U040ENMBB1C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "L56FX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "냉장고 및 탕비실 청소 마쳤습니다. 적어두신 기한이 지났거나 기한이 적혀있지 않은 경우에는 모두 폐기처분하였습니다. "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-15/1865580143060_c8cd9db7c1c2f4d45cd7_72.jpg",
+      "first_name": "황예진",
+      "real_name": "황예진",
+      "display_name": "2기_황예진",
+      "team": "T01QA5S537V",
+      "name": "evergreen97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

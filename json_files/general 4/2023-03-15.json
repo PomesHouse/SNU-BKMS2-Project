@@ -1,635 +1,637 @@
-[
-  {
-    "client_msg_id": "9b68d09c-6961-4cf7-9b7c-aba3e94278b2",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023년 동아시아 연구논문 학봉장학상 지원 안내\u0026gt;\n\n재단법인 학봉장학회의 동아시아지역 관련 우수논문에 대한 장학 사업을 다음과 같이 안내드리니 우수한 외국인 학생을 추천하여 주시기 바랍니다.\n  가. 추천대상자 (동시 충족)\n     (1) 서울대학교 석사 또는 박사 학위과정생\n     (2) 외국인 학생 또는 재외한국인 유학생\n     (3) 동아시아 지역 관련 학술연구논문을 제출하는 학생\n     ※ 입상논문 혹은 입상논문을 발전시킨 동일제목의 논문이 학위수여 논문 혹은 학술지 게재논문으로 채택되었을 시에는 추가 장려금 50만원을 지급함 (단, 수상논문 발표 시 동아시아 연구논문 학봉            장학생 수상논문임을 명기해야 하며, 수상논문에 대한 논문제출 확인서를 국제협력과에 제출해야 함)\n  나. 장학금 지급액 및 지급인원\n     (1) 최우수상 : 300만원, 1명\n      (2) 우수상 : 200만원, 1명\n      (3) 장려상 : 100만원, 1명\n  다. 제출 서류\n     (1) 지도교수 추천서 1부 (붙임 양식)\n     (2) 본교 석사 혹은 박사과정 성적증명서(국문, 전체 학기) 1부\n     (3) 해당논문 abstract 및 논문 사본 각 1부\n  라. 추천 기한: 2023년 3월 20일(월)\n  마. 추천 방법\n     - 행정실로 구비서류를 제출",
-    "ts": "1678853519.533599",
-    "files": [
-      {
-        "id": "F04TTB9GURL",
-        "created": 1678853488,
-        "timestamp": 1678853488,
-        "name": "★동아시아 연구논문 학봉장학상 지도교수 추천서 양식.hwp",
-        "title": "★동아시아 연구논문 학봉장학상 지도교수 추천서 양식.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 49664,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04TTB9GURL-★동아시아 연구논문 학봉장학상 지도교수 추천서 양식.hwp",
-        "url_private_download": "attachments/F04TTB9GURL-★동아시아 연구논문 학봉장학상 지도교수 추천서 양식.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04TTB9GURL/__________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04TTB9GURL-089accd1c8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04UPKQ7KNU",
-        "created": 1678853490,
-        "timestamp": 1678853490,
-        "name": "추천 의뢰공문(학봉장학회 재단) (1).pdf",
-        "title": "추천 의뢰공문(학봉장학회 재단) (1).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 482115,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04UPKQ7KNU-추천 의뢰공문(학봉장학회 재단) (1).pdf",
-        "url_private_download": "attachments/F04UPKQ7KNU-추천 의뢰공문(학봉장학회 재단) (1).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04UPKQ7KNU/_____________________________________________1_.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04UPKQ7KNU-ef522f08ee",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "z2rXM",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 동아시아 연구논문 학봉장학상 지원 안내\u003e\n\n재단법인 학봉장학회의 동아시아지역 관련 우수논문에 대한 장학 사업을 다음과 같이 안내드리니 우수한 외국인 학생을 추천하여 주시기 바랍니다.\n  가. 추천대상자 (동시 충족)\n     (1) 서울대학교 석사 또는 박사 학위과정생\n     (2) 외국인 학생 또는 재외한국인 유학생\n     (3) 동아시아 지역 관련 학술연구논문을 제출하는 학생\n     ※ 입상논문 혹은 입상논문을 발전시킨 동일제목의 논문이 학위수여 논문 혹은 학술지 게재논문으로 채택되었을 시에는 추가 장려금 50만원을 지급함 (단, 수상논문 발표 시 동아시아 연구논문 학봉            장학생 수상논문임을 명기해야 하며, 수상논문에 대한 논문제출 확인서를 국제협력과에 제출해야 함)\n  나. 장학금 지급액 및 지급인원\n     (1) 최우수상 : 300만원, 1명\n      (2) 우수상 : 200만원, 1명\n      (3) 장려상 : 100만원, 1명\n  다. 제출 서류\n     (1) 지도교수 추천서 1부 (붙임 양식)\n     (2) 본교 석사 혹은 박사과정 성적증명서(국문, 전체 학기) 1부\n     (3) 해당논문 abstract 및 논문 사본 각 1부\n  라. 추천 기한: 2023년 3월 20일(월)\n  마. 추천 방법\n     - 행정실로 구비서류를 제출"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "f659e2ca-d7cc-4364-9937-ae8c07fd3a28",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "*[공지] 2023-1 논자시 Q\u0026amp;A 답변*\n교수님들께서 주신 답변을 아래 공유 링크에 추가하였습니다(서울대학교 메일만 접근 가능합니다).\n링크: \u003chttps://docs.google.com/document/d/1kevjdrFeTie_2r23OeWD7RGVoP9vLNqmSjhpvoi6EG8/edit\u003e",
-    "ts": "1678864378.779789",
-    "thread_ts": "1678864378.779789",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U02UT1XUGFL",
-        "ts": "1678865297.813539"
-      },
-      {
-        "user": "U02V5LS84JV",
-        "ts": "1678865365.641379"
-      }
-    ],
-    "latest_reply": "1678865365.641379",
-    "files": [
-      {
-        "id": "F04TXH4A58V",
-        "created": 1678864087,
-        "timestamp": 1678864087,
-        "name": "Screenshot 2023-03-15 at 4.08.03 PM.png",
-        "title": "Screenshot 2023-03-15 at 4.08.03 PM.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U02V5LS84JV",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 318103,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04TXH4A58V-Screenshot 2023-03-15 at 4.08.03 PM.png",
-        "url_private_download": "attachments/F04TXH4A58V-Screenshot 2023-03-15 at 4.08.03 PM.png",
-        "original_h": 1042,
-        "original_w": 1326,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 283,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 377,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 566,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 754,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 805,
-        "permalink": "https://snugsds.slack.com/files/U02V5LS84JV/F04TXH4A58V/screenshot_2023-03-15_at_4.08.03_pm.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04TXH4A58V-3857721b4e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 5,
-        "users": [
-          "U02UT1XUGFL",
-          "U0302PLQ34Y",
-          "U02V5LU4ED7",
-          "U02UVAT3BPW",
-          "U02ULBHV58W"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "aXm",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[공지] 2023-1 논자시 Q\u0026A 답변",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n교수님들께서 주신 답변을 아래 공유 링크에 추가하였습니다(서울대학교 메일만 접근 가능합니다).\n링크: "
-              },
-              {
-                "type": "link",
-                "url": "https://docs.google.com/document/d/1kevjdrFeTie_2r23OeWD7RGVoP9vLNqmSjhpvoi6EG8/edit",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U02UT1XUGFL",
-      "U02V5LS84JV"
-    ]
-  },
-  {
-    "client_msg_id": "163d7c69-8cff-40c5-bf4a-ae79db5080d0",
-    "type": "message",
-    "user": "U02UT1XUGFL",
-    "text": "1번 필기 cheat sheet은 모든 세부 과목(수학과 통계, MLDL 등)에 대해서 1장이 아니라 작년처럼 세부 과목 별 1장이 맞나요?",
-    "ts": "1678865297.813539",
-    "thread_ts": "1678864378.779789",
-    "edited": {
-      "user": "U02UT1XUGFL",
-      "ts": "1678865511.000000"
-    },
-    "parent_user_id": "U02V5LS84JV",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ey15G",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "1번 필기 cheat sheet은 모든 세부 과목(수학과 통계, MLDL 등)에 대해서 1장이 아니라 작년처럼 세부 과목 별 1장이 맞나요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a2dd1abfbec20efd22e870a1fb92a3b8.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
-      "first_name": "3기_김소정_94",
-      "real_name": "3기_김소정_94",
-      "display_name": "3기_김소정_94",
-      "team": "T01QA5S537V",
-      "name": "melissasj",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "8d2b522d-6232-4e31-87de-92e06cf4bb87",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "해당 내용 모호한 부분이 있는 것 같아서 교수님께 다시 확인 중에 있습니다:smiling_face_with_tear:",
-    "ts": "1678865365.641379",
-    "thread_ts": "1678864378.779789",
-    "parent_user_id": "U02V5LS84JV",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 5,
-        "users": [
-          "U03TC6PDAFP",
-          "U02V5LT2XFB",
-          "U02UT1XUGFL",
-          "U0302PLQ34Y",
-          "U02ULBHV58W"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "sFR",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "해당 내용 모호한 부분이 있는 것 같아서 교수님께 다시 확인 중에 있습니다"
-              },
-              {
-                "type": "emoji",
-                "name": "smiling_face_with_tear",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "03256f3a-73dd-42b2-8a53-9ddd7f62a62c",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 학생건강검진 안내\u0026gt;*\n\nㅇ안내사항\n 1) 일 정: 매일 오전 9:00~12:00, 오후 13:30~15:00\n 2) 대 상\n     - 학 생: 학부/석사/박사과정 재학생(휴학생,연구생 포함): 매년 1회 무료\n     - 일 반: 연구원, 언어교육원생, 연 2회 이상 검진자: 2만원\n 3) 장 소: 학생회관(63동) 3층 보건진료소\n 4) 온라인 사전예약 필수: 보건진료소 홈페이지 \u003chttp://health4u.snu.ac.kr\u003e\n\nㅇ 학생건강검진자 혜택\n 1) 검진전 예진을 통해 개인별 필요한 검사 유료 추가 가능\n 2) 요약 및 상세 검진결과지 제공\n 3) 의사와 검진결과에 대한 무료 상담 및 추후 관리\n 4) 관악학생생활관 입사용 건강진단서 대체 가능\n 5) *유학/교환학생 서류 및 기타 진단서 발급 건강검진 동시시행 및 비용할인*",
-    "ts": "1678867493.239119",
-    "files": [
-      {
-        "id": "F04TU4E7UEA",
-        "created": 1678867478,
-        "timestamp": 1678867478,
-        "name": "2023 학생검진 포스터 최종본(영문).jpg",
-        "title": "2023 학생검진 포스터 최종본(영문).jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1720965,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04TU4E7UEA-2023 학생검진 포스터 최종본(영문).jpg",
-        "url_private_download": "attachments/F04TU4E7UEA-2023 학생검진 포스터 최종본(영문).jpg",
-        "original_h": 1684,
-        "original_w": 1192,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________480.jpg",
-        "thumb_480_w": 340,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________720.jpg",
-        "thumb_720_w": 510,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________960.jpg",
-        "thumb_960_w": 680,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________1024.jpg",
-        "thumb_1024_w": 725,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04TU4E7UEA/2023_________________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04TU4E7UEA-18e54cca86",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04UDB3H6AD",
-        "created": 1678867482,
-        "timestamp": 1678867482,
-        "name": "2023 학생검진 포스터 최종본(국문).jpg",
-        "title": "2023 학생검진 포스터 최종본(국문).jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1583209,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04UDB3H6AD-2023 학생검진 포스터 최종본(국문).jpg",
-        "url_private_download": "attachments/F04UDB3H6AD-2023 학생검진 포스터 최종본(국문).jpg",
-        "original_h": 1684,
-        "original_w": 1191,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04UDB3H6AD/2023_________________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04UDB3H6AD-5f4c93dd41",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "hkp",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 학생건강검진 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nㅇ안내사항\n 1) 일 정: 매일 오전 9:00~12:00, 오후 13:30~15:00\n 2) 대 상\n     - 학 생: 학부/석사/박사과정 재학생(휴학생,연구생 포함): 매년 1회 무료\n     - 일 반: 연구원, 언어교육원생, 연 2회 이상 검진자: 2만원\n 3) 장 소: 학생회관(63동) 3층 보건진료소\n 4) 온라인 사전예약 필수: 보건진료소 홈페이지 "
-              },
-              {
-                "type": "link",
-                "url": "http://health4u.snu.ac.kr",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n\nㅇ 학생건강검진자 혜택\n 1) 검진전 예진을 통해 개인별 필요한 검사 유료 추가 가능\n 2) 요약 및 상세 검진결과지 제공\n 3) 의사와 검진결과에 대한 무료 상담 및 추후 관리\n 4) 관악학생생활관 입사용 건강진단서 대체 가능\n 5) "
-              },
-              {
-                "type": "text",
-                "text": "유학/교환학생 서류 및 기타 진단서 발급 건강검진 동시시행 및 비용할인",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "9b68d09c-6961-4cf7-9b7c-aba3e94278b2",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023년 동아시아 연구논문 학봉장학상 지원 안내&gt;\n\n재단법인 학봉장학회의 동아시아지역 관련 우수논문에 대한 장학 사업을 다음과 같이 안내드리니 우수한 외국인 학생을 추천하여 주시기 바랍니다.\n  가. 추천대상자 (동시 충족)\n     (1) 서울대학교 석사 또는 박사 학위과정생\n     (2) 외국인 학생 또는 재외한국인 유학생\n     (3) 동아시아 지역 관련 학술연구논문을 제출하는 학생\n     ※ 입상논문 혹은 입상논문을 발전시킨 동일제목의 논문이 학위수여 논문 혹은 학술지 게재논문으로 채택되었을 시에는 추가 장려금 50만원을 지급함 (단, 수상논문 발표 시 동아시아 연구논문 학봉            장학생 수상논문임을 명기해야 하며, 수상논문에 대한 논문제출 확인서를 국제협력과에 제출해야 함)\n  나. 장학금 지급액 및 지급인원\n     (1) 최우수상 : 300만원, 1명\n      (2) 우수상 : 200만원, 1명\n      (3) 장려상 : 100만원, 1명\n  다. 제출 서류\n     (1) 지도교수 추천서 1부 (붙임 양식)\n     (2) 본교 석사 혹은 박사과정 성적증명서(국문, 전체 학기) 1부\n     (3) 해당논문 abstract 및 논문 사본 각 1부\n  라. 추천 기한: 2023년 3월 20일(월)\n  마. 추천 방법\n     - 행정실로 구비서류를 제출",
+			"ts": "1678853519.533599",
+			"files": [
+				{
+					"id": "F04TTB9GURL",
+					"created": 1678853488,
+					"timestamp": 1678853488,
+					"name": "★동아시아 연구논문 학봉장학상 지도교수 추천서 양식.hwp",
+					"title": "★동아시아 연구논문 학봉장학상 지도교수 추천서 양식.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 49664,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04TTB9GURL-★동아시아 연구논문 학봉장학상 지도교수 추천서 양식.hwp",
+					"url_private_download": "attachments/F04TTB9GURL-★동아시아 연구논문 학봉장학상 지도교수 추천서 양식.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04TTB9GURL/__________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04TTB9GURL-089accd1c8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04UPKQ7KNU",
+					"created": 1678853490,
+					"timestamp": 1678853490,
+					"name": "추천 의뢰공문(학봉장학회 재단) (1).pdf",
+					"title": "추천 의뢰공문(학봉장학회 재단) (1).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 482115,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04UPKQ7KNU-추천 의뢰공문(학봉장학회 재단) (1).pdf",
+					"url_private_download": "attachments/F04UPKQ7KNU-추천 의뢰공문(학봉장학회 재단) (1).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04UPKQ7KNU/_____________________________________________1_.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04UPKQ7KNU-ef522f08ee",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "z2rXM",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 동아시아 연구논문 학봉장학상 지원 안내>\n\n재단법인 학봉장학회의 동아시아지역 관련 우수논문에 대한 장학 사업을 다음과 같이 안내드리니 우수한 외국인 학생을 추천하여 주시기 바랍니다.\n  가. 추천대상자 (동시 충족)\n     (1) 서울대학교 석사 또는 박사 학위과정생\n     (2) 외국인 학생 또는 재외한국인 유학생\n     (3) 동아시아 지역 관련 학술연구논문을 제출하는 학생\n     ※ 입상논문 혹은 입상논문을 발전시킨 동일제목의 논문이 학위수여 논문 혹은 학술지 게재논문으로 채택되었을 시에는 추가 장려금 50만원을 지급함 (단, 수상논문 발표 시 동아시아 연구논문 학봉            장학생 수상논문임을 명기해야 하며, 수상논문에 대한 논문제출 확인서를 국제협력과에 제출해야 함)\n  나. 장학금 지급액 및 지급인원\n     (1) 최우수상 : 300만원, 1명\n      (2) 우수상 : 200만원, 1명\n      (3) 장려상 : 100만원, 1명\n  다. 제출 서류\n     (1) 지도교수 추천서 1부 (붙임 양식)\n     (2) 본교 석사 혹은 박사과정 성적증명서(국문, 전체 학기) 1부\n     (3) 해당논문 abstract 및 논문 사본 각 1부\n  라. 추천 기한: 2023년 3월 20일(월)\n  마. 추천 방법\n     - 행정실로 구비서류를 제출"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "f659e2ca-d7cc-4364-9937-ae8c07fd3a28",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "*[공지] 2023-1 논자시 Q&amp;A 답변*\n교수님들께서 주신 답변을 아래 공유 링크에 추가하였습니다(서울대학교 메일만 접근 가능합니다).\n링크: <https://docs.google.com/document/d/1kevjdrFeTie_2r23OeWD7RGVoP9vLNqmSjhpvoi6EG8/edit>",
+			"ts": "1678864378.779789",
+			"thread_ts": "1678864378.779789",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U02UT1XUGFL",
+					"ts": "1678865297.813539"
+				},
+				{
+					"user": "U02V5LS84JV",
+					"ts": "1678865365.641379"
+				}
+			],
+			"latest_reply": "1678865365.641379",
+			"files": [
+				{
+					"id": "F04TXH4A58V",
+					"created": 1678864087,
+					"timestamp": 1678864087,
+					"name": "Screenshot 2023-03-15 at 4.08.03 PM.png",
+					"title": "Screenshot 2023-03-15 at 4.08.03 PM.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U02V5LS84JV",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 318103,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04TXH4A58V-Screenshot 2023-03-15 at 4.08.03 PM.png",
+					"url_private_download": "attachments/F04TXH4A58V-Screenshot 2023-03-15 at 4.08.03 PM.png",
+					"original_h": 1042,
+					"original_w": 1326,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 283,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 377,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 566,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 754,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04TXH4A58V-458fafd902/screenshot_2023-03-15_at_4.08.03_pm_1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 805,
+					"permalink": "https://snugsds.slack.com/files/U02V5LS84JV/F04TXH4A58V/screenshot_2023-03-15_at_4.08.03_pm.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04TXH4A58V-3857721b4e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 5,
+					"users": [
+						"U02UT1XUGFL",
+						"U0302PLQ34Y",
+						"U02V5LU4ED7",
+						"U02UVAT3BPW",
+						"U02ULBHV58W"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "aXm",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[공지] 2023-1 논자시 Q&A 답변",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n교수님들께서 주신 답변을 아래 공유 링크에 추가하였습니다(서울대학교 메일만 접근 가능합니다).\n링크: "
+								},
+								{
+									"type": "link",
+									"url": "https://docs.google.com/document/d/1kevjdrFeTie_2r23OeWD7RGVoP9vLNqmSjhpvoi6EG8/edit",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U02UT1XUGFL",
+				"U02V5LS84JV"
+			]
+		},
+		{
+			"client_msg_id": "163d7c69-8cff-40c5-bf4a-ae79db5080d0",
+			"type": "message",
+			"user": "U02UT1XUGFL",
+			"text": "1번 필기 cheat sheet은 모든 세부 과목(수학과 통계, MLDL 등)에 대해서 1장이 아니라 작년처럼 세부 과목 별 1장이 맞나요?",
+			"ts": "1678865297.813539",
+			"thread_ts": "1678864378.779789",
+			"edited": {
+				"user": "U02UT1XUGFL",
+				"ts": "1678865511.000000"
+			},
+			"parent_user_id": "U02V5LS84JV",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ey15G",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "1번 필기 cheat sheet은 모든 세부 과목(수학과 통계, MLDL 등)에 대해서 1장이 아니라 작년처럼 세부 과목 별 1장이 맞나요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a2dd1abfbec20efd22e870a1fb92a3b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+				"first_name": "3기_김소정_94",
+				"real_name": "3기_김소정_94",
+				"display_name": "3기_김소정_94",
+				"team": "T01QA5S537V",
+				"name": "melissasj",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "8d2b522d-6232-4e31-87de-92e06cf4bb87",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "해당 내용 모호한 부분이 있는 것 같아서 교수님께 다시 확인 중에 있습니다:smiling_face_with_tear:",
+			"ts": "1678865365.641379",
+			"thread_ts": "1678864378.779789",
+			"parent_user_id": "U02V5LS84JV",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 5,
+					"users": [
+						"U03TC6PDAFP",
+						"U02V5LT2XFB",
+						"U02UT1XUGFL",
+						"U0302PLQ34Y",
+						"U02ULBHV58W"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "sFR",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "해당 내용 모호한 부분이 있는 것 같아서 교수님께 다시 확인 중에 있습니다"
+								},
+								{
+									"type": "emoji",
+									"name": "smiling_face_with_tear",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "03256f3a-73dd-42b2-8a53-9ddd7f62a62c",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 학생건강검진 안내&gt;*\n\nㅇ안내사항\n 1) 일 정: 매일 오전 9:00~12:00, 오후 13:30~15:00\n 2) 대 상\n     - 학 생: 학부/석사/박사과정 재학생(휴학생,연구생 포함): 매년 1회 무료\n     - 일 반: 연구원, 언어교육원생, 연 2회 이상 검진자: 2만원\n 3) 장 소: 학생회관(63동) 3층 보건진료소\n 4) 온라인 사전예약 필수: 보건진료소 홈페이지 <http://health4u.snu.ac.kr>\n\nㅇ 학생건강검진자 혜택\n 1) 검진전 예진을 통해 개인별 필요한 검사 유료 추가 가능\n 2) 요약 및 상세 검진결과지 제공\n 3) 의사와 검진결과에 대한 무료 상담 및 추후 관리\n 4) 관악학생생활관 입사용 건강진단서 대체 가능\n 5) *유학/교환학생 서류 및 기타 진단서 발급 건강검진 동시시행 및 비용할인*",
+			"ts": "1678867493.239119",
+			"files": [
+				{
+					"id": "F04TU4E7UEA",
+					"created": 1678867478,
+					"timestamp": 1678867478,
+					"name": "2023 학생검진 포스터 최종본(영문).jpg",
+					"title": "2023 학생검진 포스터 최종본(영문).jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1720965,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04TU4E7UEA-2023 학생검진 포스터 최종본(영문).jpg",
+					"url_private_download": "attachments/F04TU4E7UEA-2023 학생검진 포스터 최종본(영문).jpg",
+					"original_h": 1684,
+					"original_w": 1192,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________480.jpg",
+					"thumb_480_w": 340,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________720.jpg",
+					"thumb_720_w": 510,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________960.jpg",
+					"thumb_960_w": 680,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04TU4E7UEA-5f6fe7e589/2023__________________________________________1024.jpg",
+					"thumb_1024_w": 725,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04TU4E7UEA/2023_________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04TU4E7UEA-18e54cca86",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04UDB3H6AD",
+					"created": 1678867482,
+					"timestamp": 1678867482,
+					"name": "2023 학생검진 포스터 최종본(국문).jpg",
+					"title": "2023 학생검진 포스터 최종본(국문).jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1583209,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04UDB3H6AD-2023 학생검진 포스터 최종본(국문).jpg",
+					"url_private_download": "attachments/F04UDB3H6AD-2023 학생검진 포스터 최종본(국문).jpg",
+					"original_h": 1684,
+					"original_w": 1191,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04UDB3H6AD-89257f544c/2023__________________________________________1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04UDB3H6AD/2023_________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04UDB3H6AD-5f4c93dd41",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "hkp",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 학생건강검진 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nㅇ안내사항\n 1) 일 정: 매일 오전 9:00~12:00, 오후 13:30~15:00\n 2) 대 상\n     - 학 생: 학부/석사/박사과정 재학생(휴학생,연구생 포함): 매년 1회 무료\n     - 일 반: 연구원, 언어교육원생, 연 2회 이상 검진자: 2만원\n 3) 장 소: 학생회관(63동) 3층 보건진료소\n 4) 온라인 사전예약 필수: 보건진료소 홈페이지 "
+								},
+								{
+									"type": "link",
+									"url": "http://health4u.snu.ac.kr",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n\nㅇ 학생건강검진자 혜택\n 1) 검진전 예진을 통해 개인별 필요한 검사 유료 추가 가능\n 2) 요약 및 상세 검진결과지 제공\n 3) 의사와 검진결과에 대한 무료 상담 및 추후 관리\n 4) 관악학생생활관 입사용 건강진단서 대체 가능\n 5) "
+								},
+								{
+									"type": "text",
+									"text": "유학/교환학생 서류 및 기타 진단서 발급 건강검진 동시시행 및 비용할인",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

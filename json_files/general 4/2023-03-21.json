@@ -1,99 +1,101 @@
-[
-  {
-    "client_msg_id": "a931a418-ad54-48a1-bba4-c618c316e8ab",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023년 온라인 인권/성평등 교육(법정의무교육) 이수 협조 요청\u0026gt;*\n\n4대 폭력예방교육(성희롱·성폭력·가정폭력·성매매)은 관련 법령에 따라 실시되는 법정의무교육으로 대학 전 구성원은 매년 1회 이상 교육을 이수하여야 합니다(본교에서는 *\"인권/성평등 교육\"으로 통합·운영).* 이에, *모든 구성원은 다음과 같이 인권/성평등 교육을 이수*하여 주시기 바랍니다.\n\nㅇ 이수 대상: 교원(전임 및 비전임), 재학생(휴학생 제외), 직원(전체)\nㅇ 이수 방법: *온라인 인권/성평등 교육 시스템(\u003chttp://helplms.snu.ac.kr\u003e)에서 이수*",
-    "ts": "1679370114.937859",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "wUGO",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 온라인 인권/성평등 교육(법정의무교육) 이수 협조 요청\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n4대 폭력예방교육(성희롱·성폭력·가정폭력·성매매)은 관련 법령에 따라 실시되는 법정의무교육으로 대학 전 구성원은 매년 1회 이상 교육을 이수하여야 합니다(본교에서는 "
-              },
-              {
-                "type": "text",
-                "text": "\"인권/성평등 교육\"으로 통합·운영). ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "이에, "
-              },
-              {
-                "type": "text",
-                "text": "모든 구성원은 다음과 같이 인권/성평등 교육을 이수",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하여 주시기 바랍니다.\n\nㅇ 이수 대상: 교원(전임 및 비전임), 재학생(휴학생 제외), 직원(전체)\nㅇ 이수 방법: "
-              },
-              {
-                "type": "text",
-                "text": "온라인 인권/성평등 교육 시스템(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "http://helplms.snu.ac.kr",
-                "text": "",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")에서 이수",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "a931a418-ad54-48a1-bba4-c618c316e8ab",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023년 온라인 인권/성평등 교육(법정의무교육) 이수 협조 요청&gt;*\n\n4대 폭력예방교육(성희롱·성폭력·가정폭력·성매매)은 관련 법령에 따라 실시되는 법정의무교육으로 대학 전 구성원은 매년 1회 이상 교육을 이수하여야 합니다(본교에서는 *\"인권/성평등 교육\"으로 통합·운영).* 이에, *모든 구성원은 다음과 같이 인권/성평등 교육을 이수*하여 주시기 바랍니다.\n\nㅇ 이수 대상: 교원(전임 및 비전임), 재학생(휴학생 제외), 직원(전체)\nㅇ 이수 방법: *온라인 인권/성평등 교육 시스템(<http://helplms.snu.ac.kr>)에서 이수*",
+			"ts": "1679370114.937859",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "wUGO",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 온라인 인권/성평등 교육(법정의무교육) 이수 협조 요청>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n4대 폭력예방교육(성희롱·성폭력·가정폭력·성매매)은 관련 법령에 따라 실시되는 법정의무교육으로 대학 전 구성원은 매년 1회 이상 교육을 이수하여야 합니다(본교에서는 "
+								},
+								{
+									"type": "text",
+									"text": "\"인권/성평등 교육\"으로 통합·운영). ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "이에, "
+								},
+								{
+									"type": "text",
+									"text": "모든 구성원은 다음과 같이 인권/성평등 교육을 이수",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하여 주시기 바랍니다.\n\nㅇ 이수 대상: 교원(전임 및 비전임), 재학생(휴학생 제외), 직원(전체)\nㅇ 이수 방법: "
+								},
+								{
+									"type": "text",
+									"text": "온라인 인권/성평등 교육 시스템(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "http://helplms.snu.ac.kr",
+									"text": "",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")에서 이수",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

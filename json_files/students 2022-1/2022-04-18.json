@@ -1,275 +1,277 @@
-[
-  {
-    "client_msg_id": "4f200e6a-6259-437b-906f-06719754bc98",
-    "type": "message",
-    "user": "U01R689L5KJ",
-    "text": "안녕하세요? 석사과정 2기 임찬송입니다.\n몇몇 학생들이 모여 만든 기도모임에서 작은 간식을 마련했습니다.:relaxed:\n우리나라에서는 조금 생소한 날일 수 있지만, 어제가 부활절(Easter)이었어서, 달걀:muscle:을 비롯한 여러 간식들을 포장해 3, 4층에 두었어요 ㅎㅎ\n시험, 연구 등으로 많이 바쁘실텐데 원하시는만큼 자유롭게 가져가서 드시고 에너지 보충하세요!\n그럼 이번주도 평안하세요:pray:\nSNU GSDS 화이팅!",
-    "ts": "1650273210.053869",
-    "files": [
-      {
-        "id": "F03BUG4LM50",
-        "created": 1650273165,
-        "timestamp": 1650273165,
-        "name": "KakaoTalk_20220418_170403587_01.jpg",
-        "title": "KakaoTalk_20220418_170403587_01.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01R689L5KJ",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 415542,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03BUG4LM50-KakaoTalk_20220418_170403587_01.jpg",
-        "url_private_download": "attachments/F03BUG4LM50-KakaoTalk_20220418_170403587_01.jpg",
-        "original_h": 1440,
-        "original_w": 1080,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01R689L5KJ/F03BUG4LM50/kakaotalk_20220418_170403587_01.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03BUG4LM50-cc8d4077dd",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F03BRKN35C5",
-        "created": 1650273169,
-        "timestamp": 1650273169,
-        "name": "KakaoTalk_20220418_170403587_03.jpg",
-        "title": "KakaoTalk_20220418_170403587_03.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01R689L5KJ",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 326710,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03BRKN35C5-KakaoTalk_20220418_170403587_03.jpg",
-        "url_private_download": "attachments/F03BRKN35C5-KakaoTalk_20220418_170403587_03.jpg",
-        "original_h": 1440,
-        "original_w": 1080,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01R689L5KJ/F03BRKN35C5/kakaotalk_20220418_170403587_03.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03BRKN35C5-04bfb41386",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "heart",
-        "count": 16,
-        "users": [
-          "U01PVETJY87",
-          "U02V5LT2XFB",
-          "U02UQ4CHX3P",
-          "U02UT1YNY6N",
-          "U02UT2U1PFV",
-          "U0302PKMR6C",
-          "U02UT2UPB2P",
-          "U02V5LT4DLZ",
-          "U01QGJL6SP5",
-          "U02P4QDPG2W",
-          "U01QNMUAUKW",
-          "U02V5LTRU2V",
-          "U02V5LRSE2V",
-          "U02UT1XUGFL",
-          "U01QNJ98FA8",
-          "U01QGKC4BM1"
-        ]
-      },
-      {
-        "name": "pray",
-        "count": 14,
-        "users": [
-          "U01R678KWP2",
-          "U02V5LT2XFB",
-          "U01QA85T90A",
-          "U02UCD2C9V5",
-          "U01QV1SQJ57",
-          "U01QDANUYVB",
-          "U0302PKMR6C",
-          "U02UT2U1PFV",
-          "U01PVEU3007",
-          "U01QNMUAUKW",
-          "U01PVETJY87",
-          "U01QV28FG4R",
-          "U01PVEU1A07",
-          "U02ULBH3TEJ"
-        ]
-      },
-      {
-        "name": "egg",
-        "count": 18,
-        "users": [
-          "U02V5LT2XFB",
-          "U01QV28F01X",
-          "U01Q75KNV1T",
-          "U01Q1KQ03PZ",
-          "U01QGKD09K5",
-          "U01QGKCT067",
-          "U0302PKMR6C",
-          "U01QV1WAPL1",
-          "U02UT2U1PFV",
-          "U02P4QDPG2W",
-          "U02ULBJR9GE",
-          "U01QNMUAUKW",
-          "U02V5LTRU2V",
-          "U02V5LRSE2V",
-          "U01QGD03WUC",
-          "U01QV28FG4R",
-          "U01PVEU1A07",
-          "U01QGKC4BM1"
-        ]
-      },
-      {
-        "name": "pray::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/IF7",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요? 석사과정 2기 임찬송입니다.\n몇몇 학생들이 모여 만든 기도모임에서 작은 간식을 마련했습니다."
-              },
-              {
-                "type": "emoji",
-                "name": "relaxed",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n우리나라에서는 조금 생소한 날일 수 있지만, 어제가 부활절(Easter)이었어서, 달걀"
-              },
-              {
-                "type": "emoji",
-                "name": "muscle",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "을 비롯한 여러 간식들을 포장해 3, 4층에 두었어요 ㅎㅎ\n시험, 연구 등으로 많이 바쁘실텐데 원하시는만큼 자유롭게 가져가서 드시고 에너지 보충하세요!\n그럼 이번주도 평안하세요"
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\nSNU GSDS 화이팅!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1817838162567_d155dbe0ec1cbbbfe1f9_72.jpg",
-      "first_name": "임찬송",
-      "real_name": "임찬송",
-      "display_name": "2기_임찬송",
-      "team": "T01QA5S537V",
-      "name": "dlacksthd94",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "4f200e6a-6259-437b-906f-06719754bc98",
+			"type": "message",
+			"user": "U01R689L5KJ",
+			"text": "안녕하세요? 석사과정 2기 임찬송입니다.\n몇몇 학생들이 모여 만든 기도모임에서 작은 간식을 마련했습니다.:relaxed:\n우리나라에서는 조금 생소한 날일 수 있지만, 어제가 부활절(Easter)이었어서, 달걀:muscle:을 비롯한 여러 간식들을 포장해 3, 4층에 두었어요 ㅎㅎ\n시험, 연구 등으로 많이 바쁘실텐데 원하시는만큼 자유롭게 가져가서 드시고 에너지 보충하세요!\n그럼 이번주도 평안하세요:pray:\nSNU GSDS 화이팅!",
+			"ts": "1650273210.053869",
+			"files": [
+				{
+					"id": "F03BUG4LM50",
+					"created": 1650273165,
+					"timestamp": 1650273165,
+					"name": "KakaoTalk_20220418_170403587_01.jpg",
+					"title": "KakaoTalk_20220418_170403587_01.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01R689L5KJ",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 415542,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03BUG4LM50-KakaoTalk_20220418_170403587_01.jpg",
+					"url_private_download": "attachments/F03BUG4LM50-KakaoTalk_20220418_170403587_01.jpg",
+					"original_h": 1440,
+					"original_w": 1080,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03BUG4LM50-a209e1f020/kakaotalk_20220418_170403587_01_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01R689L5KJ/F03BUG4LM50/kakaotalk_20220418_170403587_01.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03BUG4LM50-cc8d4077dd",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F03BRKN35C5",
+					"created": 1650273169,
+					"timestamp": 1650273169,
+					"name": "KakaoTalk_20220418_170403587_03.jpg",
+					"title": "KakaoTalk_20220418_170403587_03.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01R689L5KJ",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 326710,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03BRKN35C5-KakaoTalk_20220418_170403587_03.jpg",
+					"url_private_download": "attachments/F03BRKN35C5-KakaoTalk_20220418_170403587_03.jpg",
+					"original_h": 1440,
+					"original_w": 1080,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03BRKN35C5-a6eaee3aaa/kakaotalk_20220418_170403587_03_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01R689L5KJ/F03BRKN35C5/kakaotalk_20220418_170403587_03.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03BRKN35C5-04bfb41386",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "heart",
+					"count": 16,
+					"users": [
+						"U01PVETJY87",
+						"U02V5LT2XFB",
+						"U02UQ4CHX3P",
+						"U02UT1YNY6N",
+						"U02UT2U1PFV",
+						"U0302PKMR6C",
+						"U02UT2UPB2P",
+						"U02V5LT4DLZ",
+						"U01QGJL6SP5",
+						"U02P4QDPG2W",
+						"U01QNMUAUKW",
+						"U02V5LTRU2V",
+						"U02V5LRSE2V",
+						"U02UT1XUGFL",
+						"U01QNJ98FA8",
+						"U01QGKC4BM1"
+					]
+				},
+				{
+					"name": "pray",
+					"count": 14,
+					"users": [
+						"U01R678KWP2",
+						"U02V5LT2XFB",
+						"U01QA85T90A",
+						"U02UCD2C9V5",
+						"U01QV1SQJ57",
+						"U01QDANUYVB",
+						"U0302PKMR6C",
+						"U02UT2U1PFV",
+						"U01PVEU3007",
+						"U01QNMUAUKW",
+						"U01PVETJY87",
+						"U01QV28FG4R",
+						"U01PVEU1A07",
+						"U02ULBH3TEJ"
+					]
+				},
+				{
+					"name": "egg",
+					"count": 18,
+					"users": [
+						"U02V5LT2XFB",
+						"U01QV28F01X",
+						"U01Q75KNV1T",
+						"U01Q1KQ03PZ",
+						"U01QGKD09K5",
+						"U01QGKCT067",
+						"U0302PKMR6C",
+						"U01QV1WAPL1",
+						"U02UT2U1PFV",
+						"U02P4QDPG2W",
+						"U02ULBJR9GE",
+						"U01QNMUAUKW",
+						"U02V5LTRU2V",
+						"U02V5LRSE2V",
+						"U01QGD03WUC",
+						"U01QV28FG4R",
+						"U01PVEU1A07",
+						"U01QGKC4BM1"
+					]
+				},
+				{
+					"name": "pray::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/IF7",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요? 석사과정 2기 임찬송입니다.\n몇몇 학생들이 모여 만든 기도모임에서 작은 간식을 마련했습니다."
+								},
+								{
+									"type": "emoji",
+									"name": "relaxed",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n우리나라에서는 조금 생소한 날일 수 있지만, 어제가 부활절(Easter)이었어서, 달걀"
+								},
+								{
+									"type": "emoji",
+									"name": "muscle",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "을 비롯한 여러 간식들을 포장해 3, 4층에 두었어요 ㅎㅎ\n시험, 연구 등으로 많이 바쁘실텐데 원하시는만큼 자유롭게 가져가서 드시고 에너지 보충하세요!\n그럼 이번주도 평안하세요"
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\nSNU GSDS 화이팅!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1817838162567_d155dbe0ec1cbbbfe1f9_72.jpg",
+				"first_name": "임찬송",
+				"real_name": "임찬송",
+				"display_name": "2기_임찬송",
+				"team": "T01QA5S537V",
+				"name": "dlacksthd94",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

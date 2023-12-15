@@ -1,50 +1,52 @@
-[
-  {
-    "client_msg_id": "f412a79f-733e-4fb7-bc14-002c8ce83584",
-    "type": "message",
-    "user": "U01Q3A8TXU6",
-    "text": "chang chang the GOAT",
-    "ts": "1623658845.054400",
-    "thread_ts": "1623485735.051100",
-    "parent_user_id": "U01PVET2C31",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "R+2G2",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "chang chang the GOAT"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
-      "first_name": "1기_성기홍",
-      "real_name": "1기_성기홍",
-      "display_name": "1기_성기홍",
-      "team": "T01QA5S537V",
-      "name": "kev94yo",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "f412a79f-733e-4fb7-bc14-002c8ce83584",
+			"type": "message",
+			"user": "U01Q3A8TXU6",
+			"text": "chang chang the GOAT",
+			"ts": "1623658845.054400",
+			"thread_ts": "1623485735.051100",
+			"parent_user_id": "U01PVET2C31",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "R+2G2",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "chang chang the GOAT"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+				"first_name": "1기_성기홍",
+				"real_name": "1기_성기홍",
+				"display_name": "1기_성기홍",
+				"team": "T01QA5S537V",
+				"name": "kev94yo",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

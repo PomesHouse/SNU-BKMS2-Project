@@ -1,48 +1,50 @@
-[
-  {
-    "client_msg_id": "8caa481a-3b43-4fcf-b660-3149643cb0ea",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "아직 워크샵 경품 수령자 이름/연락처 저한테 DM 안보내신 두 분~!\n이분들이 보내셔야 다른분께도 경품을 발송해드릴 수 있습니다.\n혹시 누군지 아시면 주변에서 말해주세욤",
-    "ts": "1684814927.647479",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Runm",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "아직 워크샵 경품 수령자 이름/연락처 저한테 DM 안보내신 두 분~!\n이분들이 보내셔야 다른분께도 경품을 발송해드릴 수 있습니다.\n혹시 누군지 아시면 주변에서 말해주세욤"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8caa481a-3b43-4fcf-b660-3149643cb0ea",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "아직 워크샵 경품 수령자 이름/연락처 저한테 DM 안보내신 두 분~!\n이분들이 보내셔야 다른분께도 경품을 발송해드릴 수 있습니다.\n혹시 누군지 아시면 주변에서 말해주세욤",
+			"ts": "1684814927.647479",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Runm",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "아직 워크샵 경품 수령자 이름/연락처 저한테 DM 안보내신 두 분~!\n이분들이 보내셔야 다른분께도 경품을 발송해드릴 수 있습니다.\n혹시 누군지 아시면 주변에서 말해주세욤"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

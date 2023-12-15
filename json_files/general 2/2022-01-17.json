@@ -1,120 +1,122 @@
-[
-  {
-    "client_msg_id": "eb80e80e-7258-48e4-9632-701f8cbde8af",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "( BK21)\u0026lt;제3회 BK21 대학원혁신사업단 콜로키움 우수대학원생 추천\u0026gt;\n\n안녕하세요. 데이터사이언스 BK교육연구단입니다.\n\u0026lt;BK대학원혁신사업단\u0026gt;에서 BK참여 대학원생 중 우수대학원생 추천 요청이 있어 안내드립니다.\n교육연구단 별로 2명 추천이 가능하며, 인 당 50만원의 포상이 주어집니다.\n\n지난 2021년 논문, 특허, 학회 발표, 경진대회, 저서 등 우수대학원생임을 증명할 수 있는 개인 연구성과가 있는 경우,\nBK 교육연구단 담당자(\u003cmailto:gsdsbk@snu.ac.kr|gsdsbk@snu.ac.kr\u003e)에게 1/19(수)까지 메일 부탁드립니다.\n\n\u0026lt;제3회 BK21 대학원혁신사업단 콜로키움 우수대학원생 추천\u0026gt;\n1. 시상식 일정 및 장소 : 2021. 2. 9.(수) 14:00~17:00, 호암교수회관 2층 무궁화홀\n2. 우수대학원생 추천 자격 : BK참여대학원생만 가능하며, 교육연구단 별로 2명 추천 인당 50만원 포상\n3. 추천 제출자료 : [붙임1]의 우수대학원생 선발 신청서(1페이지 내외), 신청서에 기술한 개인 연구성과 증빙자료",
-    "ts": "1642400471.001000",
-    "files": [
-      {
-        "id": "F02UMTA5R5F",
-        "created": 1642400434,
-        "timestamp": 1642400434,
-        "name": "[붙임 1] 제3회 BK21대학원혁신사업단 콜로키움 개최 안내 및 우수 대학원생 선발 신청서.hwp",
-        "title": "[붙임 1] 제3회 BK21대학원혁신사업단 콜로키움 개최 안내 및 우수 대학원생 선발 신청서.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 72192,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02UMTA5R5F-[붙임 1] 제3회 BK21대학원혁신사업단 콜로키움 개최 안내 및 우수 대학원생 선발 신청서.hwp",
-        "url_private_download": "attachments/F02UMTA5R5F-[붙임 1] 제3회 BK21대학원혁신사업단 콜로키움 개최 안내 및 우수 대학원생 선발 신청서.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02UMTA5R5F/________1_____3____bk21____________________________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02UMTA5R5F-25a26eb7d9",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "UAN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "( BK21)\u003c제3회 BK21 대학원혁신사업단 콜로키움 우수대학원생 추천\u003e\n\n안녕하세요. 데이터사이언스 BK교육연구단입니다.\n\u003cBK대학원혁신사업단\u003e에서 BK참여 대학원생 중 우수대학원생 추천 요청이 있어 안내드립니다.\n교육연구단 별로 2명 추천이 가능하며, 인 당 50만원의 포상이 주어집니다.\n\n지난 2021년 논문, 특허, 학회 발표, 경진대회, 저서 등 우수대학원생임을 증명할 수 있는 개인 연구성과가 있는 경우,\nBK 교육연구단 담당자("
-              },
-              {
-                "type": "link",
-                "url": "mailto:gsdsbk@snu.ac.kr",
-                "text": "gsdsbk@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")에게 1/19(수)까지 메일 부탁드립니다.\n\n\u003c제3회 BK21 대학원혁신사업단 콜로키움 우수대학원생 추천\u003e\n1. 시상식 일정 및 장소 : 2021. 2. 9.(수) 14:00~17:00, 호암교수회관 2층 무궁화홀\n2. 우수대학원생 추천 자격 : BK참여대학원생만 가능하며, 교육연구단 별로 2명 추천 인당 50만원 포상\n3. 추천 제출자료 : [붙임1]의 우수대학원생 선발 신청서(1페이지 내외), 신청서에 기술한 개인 연구성과 증빙자료"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "eb80e80e-7258-48e4-9632-701f8cbde8af",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "( BK21)&lt;제3회 BK21 대학원혁신사업단 콜로키움 우수대학원생 추천&gt;\n\n안녕하세요. 데이터사이언스 BK교육연구단입니다.\n&lt;BK대학원혁신사업단&gt;에서 BK참여 대학원생 중 우수대학원생 추천 요청이 있어 안내드립니다.\n교육연구단 별로 2명 추천이 가능하며, 인 당 50만원의 포상이 주어집니다.\n\n지난 2021년 논문, 특허, 학회 발표, 경진대회, 저서 등 우수대학원생임을 증명할 수 있는 개인 연구성과가 있는 경우,\nBK 교육연구단 담당자(<mailto:gsdsbk@snu.ac.kr|gsdsbk@snu.ac.kr>)에게 1/19(수)까지 메일 부탁드립니다.\n\n&lt;제3회 BK21 대학원혁신사업단 콜로키움 우수대학원생 추천&gt;\n1. 시상식 일정 및 장소 : 2021. 2. 9.(수) 14:00~17:00, 호암교수회관 2층 무궁화홀\n2. 우수대학원생 추천 자격 : BK참여대학원생만 가능하며, 교육연구단 별로 2명 추천 인당 50만원 포상\n3. 추천 제출자료 : [붙임1]의 우수대학원생 선발 신청서(1페이지 내외), 신청서에 기술한 개인 연구성과 증빙자료",
+			"ts": "1642400471.001000",
+			"files": [
+				{
+					"id": "F02UMTA5R5F",
+					"created": 1642400434,
+					"timestamp": 1642400434,
+					"name": "[붙임 1] 제3회 BK21대학원혁신사업단 콜로키움 개최 안내 및 우수 대학원생 선발 신청서.hwp",
+					"title": "[붙임 1] 제3회 BK21대학원혁신사업단 콜로키움 개최 안내 및 우수 대학원생 선발 신청서.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 72192,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02UMTA5R5F-[붙임 1] 제3회 BK21대학원혁신사업단 콜로키움 개최 안내 및 우수 대학원생 선발 신청서.hwp",
+					"url_private_download": "attachments/F02UMTA5R5F-[붙임 1] 제3회 BK21대학원혁신사업단 콜로키움 개최 안내 및 우수 대학원생 선발 신청서.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02UMTA5R5F/________1_____3____bk21____________________________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02UMTA5R5F-25a26eb7d9",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "UAN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "( BK21)<제3회 BK21 대학원혁신사업단 콜로키움 우수대학원생 추천>\n\n안녕하세요. 데이터사이언스 BK교육연구단입니다.\n<BK대학원혁신사업단>에서 BK참여 대학원생 중 우수대학원생 추천 요청이 있어 안내드립니다.\n교육연구단 별로 2명 추천이 가능하며, 인 당 50만원의 포상이 주어집니다.\n\n지난 2021년 논문, 특허, 학회 발표, 경진대회, 저서 등 우수대학원생임을 증명할 수 있는 개인 연구성과가 있는 경우,\nBK 교육연구단 담당자("
+								},
+								{
+									"type": "link",
+									"url": "mailto:gsdsbk@snu.ac.kr",
+									"text": "gsdsbk@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")에게 1/19(수)까지 메일 부탁드립니다.\n\n<제3회 BK21 대학원혁신사업단 콜로키움 우수대학원생 추천>\n1. 시상식 일정 및 장소 : 2021. 2. 9.(수) 14:00~17:00, 호암교수회관 2층 무궁화홀\n2. 우수대학원생 추천 자격 : BK참여대학원생만 가능하며, 교육연구단 별로 2명 추천 인당 50만원 포상\n3. 추천 제출자료 : [붙임1]의 우수대학원생 선발 신청서(1페이지 내외), 신청서에 기술한 개인 연구성과 증빙자료"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

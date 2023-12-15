@@ -1,80 +1,82 @@
-[
-  {
-    "client_msg_id": "51d7d00a-23e1-4f53-b6c2-6d7e3640d0c5",
-    "type": "message",
-    "user": "U01QNSKMEDP",
-    "text": "안녕하세요, 데이터사이언스 대학원 1기 AIoT LAB 석사과정 강동식입니다.\n\n제가 실시간 가상피팅 어플리케이션을 주제로 졸업 논문을 작성하고 있습니다. 공개된 데이터 중 제 어플리케이션에 매칭되는 오픈 데이터셋이 존재하지 않아 제가 구현한 모델의 성능을 최종적으로 평가하기 위한 테스트 동영상 데이터를 수집하고 있습니다. 수집에 도움을 주신 분께는 소정의 상품(스타벅스 음료)를 드리고자 하니 잠시만 투자해주시면 정말 감사하겠습니다. 오늘부터 이번주 일요일까지 (12월 1일 ~12월 5일) 수집하고자 하니 약간의 시간을 투자해 주시면 정말 감사하겠습니다..! 단순히 정량적 성능평가에만 사용하고 절대 다른 곳에 공유하지 않을 것입니다. 직접 동영상을 촬영하여 슬랙 또는 메일 (\u003cmailto:silkyday@snu.ac.kr|silkyday@snu.ac.kr\u003e)로 보내주시거나 오늘이나 내일 중으로 308호 앞 제 자리로 와주시면 3분 이내로 빠르게 찍어드리도록 하겠습니다. 동영상을 촬영하는데 어려움을 겪으시는 경우 다양한 포즈와 예시 동영상을 다음 링크(\u003chttps://drive.google.com/drive/folders/1Fm09xcuW8fpcE3Ql9FYH0bRWh0QzVvw_?usp=sharing)에\u003e 올려 놓았으니 참고하셔서 촬영해주시면 감사하겠습니다!!\n\n* 다음과 같은 조건을 만족하는 동영상 데이터를 수집하고 있습니다.\n1. 천천히 다양한 포즈를 변경하는 30초 가량의 동영상 데이터\n2. 정면 위주의 데이터 (45도 정도의 회전은 상관 없음)\n3. 얼굴과 상체 전부가 동영상에 포함되어야 합니다\n4. 팔이 어깨 위로 올라가지 않아야 합니다\n5. 외투를 입지 않고 최대한 얇은 옷일 수록 좋습니다\n6. 배경이 옷의 색과 너무 동일하지만 않게 해주세요",
-    "ts": "1638325766.016000",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 6,
-        "users": [
-          "U01QV1TE2UR",
-          "U01Q75KNV1T",
-          "U01QAE5A9K5",
-          "U01QNSMEY0Z",
-          "U01Q1KFN4JK",
-          "U01Q75K6FB7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "JJpi",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 데이터사이언스 대학원 1기 AIoT LAB 석사과정 강동식입니다.\n\n제가 실시간 가상피팅 어플리케이션을 주제로 졸업 논문을 작성하고 있습니다. 공개된 데이터 중 제 어플리케이션에 매칭되는 오픈 데이터셋이 존재하지 않아 제가 구현한 모델의 성능을 최종적으로 평가하기 위한 테스트 동영상 데이터를 수집하고 있습니다. 수집에 도움을 주신 분께는 소정의 상품(스타벅스 음료)를 드리고자 하니 잠시만 투자해주시면 정말 감사하겠습니다. 오늘부터 이번주 일요일까지 (12월 1일 ~12월 5일) 수집하고자 하니 약간의 시간을 투자해 주시면 정말 감사하겠습니다..! 단순히 정량적 성능평가에만 사용하고 절대 다른 곳에 공유하지 않을 것입니다. 직접 동영상을 촬영하여 슬랙 또는 메일 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:silkyday@snu.ac.kr",
-                "text": "silkyday@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")로 보내주시거나 오늘이나 내일 중으로 308호 앞 제 자리로 와주시면 3분 이내로 빠르게 찍어드리도록 하겠습니다. 동영상을 촬영하는데 어려움을 겪으시는 경우 다양한 포즈와 예시 동영상을 다음 링크("
-              },
-              {
-                "type": "link",
-                "url": "https://drive.google.com/drive/folders/1Fm09xcuW8fpcE3Ql9FYH0bRWh0QzVvw_?usp=sharing)에",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": " 올려 놓았으니 참고하셔서 촬영해주시면 감사하겠습니다!!\n\n* 다음과 같은 조건을 만족하는 동영상 데이터를 수집하고 있습니다.\n1. 천천히 다양한 포즈를 변경하는 30초 가량의 동영상 데이터\n2. 정면 위주의 데이터 (45도 정도의 회전은 상관 없음)\n3. 얼굴과 상체 전부가 동영상에 포함되어야 합니다\n4. 팔이 어깨 위로 올라가지 않아야 합니다\n5. 외투를 입지 않고 최대한 얇은 옷일 수록 좋습니다\n6. 배경이 옷의 색과 너무 동일하지만 않게 해주세요"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1817564694615_9c2fcfe3c613e19d0cbd_72.png",
-      "first_name": "silkyday",
-      "real_name": "silkyday",
-      "display_name": "1기_강동식",
-      "team": "T01QA5S537V",
-      "name": "silkyday",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "51d7d00a-23e1-4f53-b6c2-6d7e3640d0c5",
+			"type": "message",
+			"user": "U01QNSKMEDP",
+			"text": "안녕하세요, 데이터사이언스 대학원 1기 AIoT LAB 석사과정 강동식입니다.\n\n제가 실시간 가상피팅 어플리케이션을 주제로 졸업 논문을 작성하고 있습니다. 공개된 데이터 중 제 어플리케이션에 매칭되는 오픈 데이터셋이 존재하지 않아 제가 구현한 모델의 성능을 최종적으로 평가하기 위한 테스트 동영상 데이터를 수집하고 있습니다. 수집에 도움을 주신 분께는 소정의 상품(스타벅스 음료)를 드리고자 하니 잠시만 투자해주시면 정말 감사하겠습니다. 오늘부터 이번주 일요일까지 (12월 1일 ~12월 5일) 수집하고자 하니 약간의 시간을 투자해 주시면 정말 감사하겠습니다..! 단순히 정량적 성능평가에만 사용하고 절대 다른 곳에 공유하지 않을 것입니다. 직접 동영상을 촬영하여 슬랙 또는 메일 (<mailto:silkyday@snu.ac.kr|silkyday@snu.ac.kr>)로 보내주시거나 오늘이나 내일 중으로 308호 앞 제 자리로 와주시면 3분 이내로 빠르게 찍어드리도록 하겠습니다. 동영상을 촬영하는데 어려움을 겪으시는 경우 다양한 포즈와 예시 동영상을 다음 링크(<https://drive.google.com/drive/folders/1Fm09xcuW8fpcE3Ql9FYH0bRWh0QzVvw_?usp=sharing)에> 올려 놓았으니 참고하셔서 촬영해주시면 감사하겠습니다!!\n\n* 다음과 같은 조건을 만족하는 동영상 데이터를 수집하고 있습니다.\n1. 천천히 다양한 포즈를 변경하는 30초 가량의 동영상 데이터\n2. 정면 위주의 데이터 (45도 정도의 회전은 상관 없음)\n3. 얼굴과 상체 전부가 동영상에 포함되어야 합니다\n4. 팔이 어깨 위로 올라가지 않아야 합니다\n5. 외투를 입지 않고 최대한 얇은 옷일 수록 좋습니다\n6. 배경이 옷의 색과 너무 동일하지만 않게 해주세요",
+			"ts": "1638325766.016000",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 6,
+					"users": [
+						"U01QV1TE2UR",
+						"U01Q75KNV1T",
+						"U01QAE5A9K5",
+						"U01QNSMEY0Z",
+						"U01Q1KFN4JK",
+						"U01Q75K6FB7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "JJpi",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 데이터사이언스 대학원 1기 AIoT LAB 석사과정 강동식입니다.\n\n제가 실시간 가상피팅 어플리케이션을 주제로 졸업 논문을 작성하고 있습니다. 공개된 데이터 중 제 어플리케이션에 매칭되는 오픈 데이터셋이 존재하지 않아 제가 구현한 모델의 성능을 최종적으로 평가하기 위한 테스트 동영상 데이터를 수집하고 있습니다. 수집에 도움을 주신 분께는 소정의 상품(스타벅스 음료)를 드리고자 하니 잠시만 투자해주시면 정말 감사하겠습니다. 오늘부터 이번주 일요일까지 (12월 1일 ~12월 5일) 수집하고자 하니 약간의 시간을 투자해 주시면 정말 감사하겠습니다..! 단순히 정량적 성능평가에만 사용하고 절대 다른 곳에 공유하지 않을 것입니다. 직접 동영상을 촬영하여 슬랙 또는 메일 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:silkyday@snu.ac.kr",
+									"text": "silkyday@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")로 보내주시거나 오늘이나 내일 중으로 308호 앞 제 자리로 와주시면 3분 이내로 빠르게 찍어드리도록 하겠습니다. 동영상을 촬영하는데 어려움을 겪으시는 경우 다양한 포즈와 예시 동영상을 다음 링크("
+								},
+								{
+									"type": "link",
+									"url": "https://drive.google.com/drive/folders/1Fm09xcuW8fpcE3Ql9FYH0bRWh0QzVvw_?usp=sharing)에",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": " 올려 놓았으니 참고하셔서 촬영해주시면 감사하겠습니다!!\n\n* 다음과 같은 조건을 만족하는 동영상 데이터를 수집하고 있습니다.\n1. 천천히 다양한 포즈를 변경하는 30초 가량의 동영상 데이터\n2. 정면 위주의 데이터 (45도 정도의 회전은 상관 없음)\n3. 얼굴과 상체 전부가 동영상에 포함되어야 합니다\n4. 팔이 어깨 위로 올라가지 않아야 합니다\n5. 외투를 입지 않고 최대한 얇은 옷일 수록 좋습니다\n6. 배경이 옷의 색과 너무 동일하지만 않게 해주세요"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1817564694615_9c2fcfe3c613e19d0cbd_72.png",
+				"first_name": "silkyday",
+				"real_name": "silkyday",
+				"display_name": "1기_강동식",
+				"team": "T01QA5S537V",
+				"name": "silkyday",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

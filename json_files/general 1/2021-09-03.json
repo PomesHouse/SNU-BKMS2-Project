@@ -1,563 +1,565 @@
-[
-  {
-    "client_msg_id": "ec86ddd9-cf29-4e45-8f88-0ac11a3d8f0b",
-    "type": "message",
-    "user": "U01QDANUYVB",
-    "text": "지금 학외에서 주피터 서브에 접속하려 하니 안되네요ㅠ (어제까지는 잘 됐어요)\n\n한번 확인해주시면 감사하겠습니다",
-    "ts": "1630633410.046700",
-    "thread_ts": "1630312496.027200",
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "8Ln5",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "지금 학외에서 주피터 서브에 접속하려 하니 안되네요ㅠ (어제까지는 잘 됐어요)\n\n한번 확인해주시면 감사하겠습니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
-      "first_name": "박성찬",
-      "real_name": "박성찬",
-      "display_name": "2기_박성찬",
-      "team": "T01QA5S537V",
-      "name": "warld2234",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "E0DEC3BC-F953-42E9-86D7-149B917BD7BC",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "일부 악성코드가 다시 생겨서 조치하고 있습니다:exploding_head:\n얼른 처리하고 공지드릴게요..",
-    "ts": "1630634615.048500",
-    "thread_ts": "1630312496.027200",
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "uTxn",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "일부 악성코드가 다시 생겨서 조치하고 있습니다"
-              },
-              {
-                "type": "emoji",
-                "name": "exploding_head",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n얼른 처리하고 공지드릴게요.."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ba69c6d8-c08e-41eb-9e60-1d34684cc005",
-    "type": "message",
-    "user": "U01QDANUYVB",
-    "text": "수고에 감사드립니다 :pray:",
-    "ts": "1630634974.048700",
-    "thread_ts": "1630312496.027200",
-    "edited": {
-      "user": "U01QDANUYVB",
-      "ts": "1630634980.000000"
-    },
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "U=b0",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "수고에 감사드립니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
-      "first_name": "박성찬",
-      "real_name": "박성찬",
-      "display_name": "2기_박성찬",
-      "team": "T01QA5S537V",
-      "name": "warld2234",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "5e645588-c505-4b58-a9bd-1277c333f6be",
-    "type": "message",
-    "user": "U01QDANUYVB",
-    "text": "대략적인 복구 시점은 언제쯤일까요?\n작업에 참고하려구요",
-    "ts": "1630637072.049000",
-    "thread_ts": "1630312496.027200",
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qzdLK",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "대략적인 복구 시점은 언제쯤일까요?\n작업에 참고하려구요"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
-      "first_name": "박성찬",
-      "real_name": "박성찬",
-      "display_name": "2기_박성찬",
-      "team": "T01QA5S537V",
-      "name": "warld2234",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "54b53264-1bdb-448e-9280-22b6c0c984ef",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "저희쪽에서 할 수 있는건 다 했고 문제없으면 5시전에 해제될 것 같아요",
-    "ts": "1630651372.049200",
-    "thread_ts": "1630312496.027200",
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "H/Aj",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "저희쪽에서 할 수 있는건 다 했고 문제없으면 5시전에 해제될 것 같아요"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "b74f9b88-1b3a-43c0-984e-b8aa7906760e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2021학년도 2학기 논문제출 일정 알림\u0026gt;* \n\n2021학년도 2학기 논문 제출 일정과 관련하여 아래와 같이 알려드리오니 해당하시는 학생분들께서는 일정 및 내용을 확인하여 주시기 바랍니다.\n\n*○예비심사: 2021년 10월 29일 (금요일)*\n - 논문 진행상황 공유\n - 영문, 국문에 상관없이 10페이지의 proposal 제출\n   (어떤 문제에 대해 어떤 연구 자료가 있었고 이를 어떻게 풀어갈지에 대한 Proposal)\n - 10분 발표와 5분 질문 (총 15분)\n\n*○최종심사: 2021년 12월 10일 (금요일)* \n\n*○종결: 2022년 1월 12일 (수요일)*",
-    "ts": "1630652740.050800",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1633498313.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Tquc",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 2학기 논문제출 일정 알림\u003e ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2021학년도 2학기 논문 제출 일정과 관련하여 아래와 같이 알려드리오니 해당하시는 학생분들께서는 일정 및 내용을 확인하여 주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "○예비심사: 2021년 10월 29일 (금요일)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - 논문 진행상황 공유\n - 영문, 국문에 상관없이 10페이지의 proposal 제출\n   (어떤 문제에 대해 어떤 연구 자료가 있었고 이를 어떻게 풀어갈지에 대한 Proposal)\n - 10분 발표와 5분 질문 (총 15분)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "○최종심사: 2021년 12월 10일 (금요일) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "○종결: 2022년 1월 12일 (수요일)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "e5f39952-24ae-4f07-882e-e394f194c2d6",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "복구되었습니다",
-    "ts": "1630653888.050900",
-    "thread_ts": "1630312496.027200",
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "aNA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "복구되었습니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "367c91ba-2459-4333-a027-2fced9a1fe7a",
-    "type": "message",
-    "user": "U01QDANUYVB",
-    "text": "감사합니다! :slightly_smiling_face:",
-    "ts": "1630654936.051100",
-    "thread_ts": "1630312496.027200",
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "GW1",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "감사합니다! "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
-      "first_name": "박성찬",
-      "real_name": "박성찬",
-      "display_name": "2기_박성찬",
-      "team": "T01QA5S537V",
-      "name": "warld2234",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "6e946c65-292d-48f1-8376-35ca7c592a76",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "*[GSDS 클러스터 포맷 및 개편 안내]*\n\n안녕하십니까. GSDS 클러스터 관리자입니다.\n\n얼마 전 발생한 보안 이슈와 관련하여 중앙전산원 측에서 서버 포맷을 권고받았고,\n서버 포맷과 더불어 이번 기회에 클러스터 서버가 개편될 예정입니다.\n\n현재 계획된 일정은 아래와 같으며,\n연구실 별 서버 관리자를 통하여 개편 일정 관련 의견 수렴 후 (현재 진행중)\n9/7(화)에 확정된 일정이 공지될 예정입니다.\n\n*서버 포맷 시 클러스터 (Linux, JupyterHub) 내의 모든 데이터가 삭제될 예정이오니,*\n*반드시 백업 기간에 필요한 데이터를 백업하여 주시기 바랍니다.*\n\n                                          -          아         래          -\n\n■ 개편 항목: CUDA 및 Lustre 버전 업그레이드, 계산 노드 패키지 버전 관리 등\n\n■ 주요 일정 (계획)\n    - 9/6(월): 연구실 별 의견 조사 마감 및 개편/오픈 일정 확정\n    - 9/7(화): 클러스터 개편/오픈 일정 확정 공지, 클러스터 사용 설문조사 재공지\n    *- 9/12(일): 유저 데이터 백업 마감 및 클러스터 종료 (9/12, 23:59:59)*\n    - 9/13(월) ~ 9/19(일): 서버 개편 작업\n    *- 9/20(월): 서비스 오픈*\n    ※ 상기 일정은 유저 의견 수렴 결과에 따라 변경될 수 있음\n\n금번 개편 시 유저 분들의 의견을 수렴하여 가능한 항목은 반영하고자 합니다.\n\n가령, 현 계획은 계산 노드 직접 접속 (ssh)은 개발용 (디버깅)만 일부 배정 (작업 당 5분 제한)하고,\n그 외의 모든 노드는 slurm 스케줄러를 이용하도록 할 예정인데,\n설문 조사 결과를 검토하여 노드 비율 등을 최종 결정할 예정입니다.\n\n본 설문조사에 응답하시어 클러스터 개편과 관련하여 많은 의견 부탁드립니다.\n(설문링크: \u003chttps://docs.google.com/forms/d/1OHll3YeTiQdUiOY0tJfSHZgBLCKhVHxUAsBpkh2ZOME/\u003e)\n\n관련하여 궁금한 점은 연구실 별 서버 관리자를 통해 문의주시기 바랍니다.\n\n감사합니다.\n\nGSDS 클러스터 관리자 드림.",
-    "ts": "1630675485.053600",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 2,
-        "users": [
-          "U01QNSM488Z",
-          "U01Q9KXMSF8"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bL9",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 클러스터 포맷 및 개편 안내]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하십니까. GSDS 클러스터 관리자입니다.\n\n얼마 전 발생한 보안 이슈와 관련하여 중앙전산원 측에서 서버 포맷을 권고받았고,\n서버 포맷과 더불어 이번 기회에 클러스터 서버가 개편될 예정입니다.\n\n현재 계획된 일정은 아래와 같으며,\n연구실 별 서버 관리자를 통하여 개편 일정 관련 의견 수렴 후 (현재 진행중)\n9/7(화)에 확정된 일정이 공지될 예정입니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "서버 포맷 시 클러스터 (Linux, JupyterHub) 내의 모든 데이터가 삭제될 예정이오니,",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "반드시 백업 기간에 필요한 데이터를 백업하여 주시기 바랍니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n                                          -          아         래          -\n\n■ 개편 항목: CUDA 및 Lustre 버전 업그레이드, 계산 노드 패키지 버전 관리 등\n\n■ 주요 일정 (계획)\n    - 9/6(월): 연구실 별 의견 조사 마감 및 개편/오픈 일정 확정\n    - 9/7(화): 클러스터 개편/오픈 일정 확정 공지, 클러스터 사용 설문조사 재공지\n    "
-              },
-              {
-                "type": "text",
-                "text": "- 9/12(일): 유저 데이터 백업 마감 및 클러스터 종료 (9/12, 23:59:59)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    - 9/13(월) ~ 9/19(일): 서버 개편 작업\n    "
-              },
-              {
-                "type": "text",
-                "text": "- 9/20(월): 서비스 오픈",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    ※ 상기 일정은 유저 의견 수렴 결과에 따라 변경될 수 있음\n\n금번 개편 시 유저 분들의 의견을 수렴하여 가능한 항목은 반영하고자 합니다.\n\n가령, 현 계획은 계산 노드 직접 접속 (ssh)은 개발용 (디버깅)만 일부 배정 (작업 당 5분 제한)하고,\n그 외의 모든 노드는 slurm 스케줄러를 이용하도록 할 예정인데,\n설문 조사 결과를 검토하여 노드 비율 등을 최종 결정할 예정입니다.\n\n본 설문조사에 응답하시어 클러스터 개편과 관련하여 많은 의견 부탁드립니다.\n(설문링크: "
-              },
-              {
-                "type": "link",
-                "url": "https://docs.google.com/forms/d/1OHll3YeTiQdUiOY0tJfSHZgBLCKhVHxUAsBpkh2ZOME/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n\n관련하여 궁금한 점은 연구실 별 서버 관리자를 통해 문의주시기 바랍니다.\n\n감사합니다.\n\nGSDS 클러스터 관리자 드림."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ec86ddd9-cf29-4e45-8f88-0ac11a3d8f0b",
+			"type": "message",
+			"user": "U01QDANUYVB",
+			"text": "지금 학외에서 주피터 서브에 접속하려 하니 안되네요ㅠ (어제까지는 잘 됐어요)\n\n한번 확인해주시면 감사하겠습니다",
+			"ts": "1630633410.046700",
+			"thread_ts": "1630312496.027200",
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "8Ln5",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "지금 학외에서 주피터 서브에 접속하려 하니 안되네요ㅠ (어제까지는 잘 됐어요)\n\n한번 확인해주시면 감사하겠습니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
+				"first_name": "박성찬",
+				"real_name": "박성찬",
+				"display_name": "2기_박성찬",
+				"team": "T01QA5S537V",
+				"name": "warld2234",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "E0DEC3BC-F953-42E9-86D7-149B917BD7BC",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "일부 악성코드가 다시 생겨서 조치하고 있습니다:exploding_head:\n얼른 처리하고 공지드릴게요..",
+			"ts": "1630634615.048500",
+			"thread_ts": "1630312496.027200",
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "uTxn",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "일부 악성코드가 다시 생겨서 조치하고 있습니다"
+								},
+								{
+									"type": "emoji",
+									"name": "exploding_head",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n얼른 처리하고 공지드릴게요.."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ba69c6d8-c08e-41eb-9e60-1d34684cc005",
+			"type": "message",
+			"user": "U01QDANUYVB",
+			"text": "수고에 감사드립니다 :pray:",
+			"ts": "1630634974.048700",
+			"thread_ts": "1630312496.027200",
+			"edited": {
+				"user": "U01QDANUYVB",
+				"ts": "1630634980.000000"
+			},
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "U=b0",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "수고에 감사드립니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
+				"first_name": "박성찬",
+				"real_name": "박성찬",
+				"display_name": "2기_박성찬",
+				"team": "T01QA5S537V",
+				"name": "warld2234",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "5e645588-c505-4b58-a9bd-1277c333f6be",
+			"type": "message",
+			"user": "U01QDANUYVB",
+			"text": "대략적인 복구 시점은 언제쯤일까요?\n작업에 참고하려구요",
+			"ts": "1630637072.049000",
+			"thread_ts": "1630312496.027200",
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qzdLK",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "대략적인 복구 시점은 언제쯤일까요?\n작업에 참고하려구요"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
+				"first_name": "박성찬",
+				"real_name": "박성찬",
+				"display_name": "2기_박성찬",
+				"team": "T01QA5S537V",
+				"name": "warld2234",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "54b53264-1bdb-448e-9280-22b6c0c984ef",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "저희쪽에서 할 수 있는건 다 했고 문제없으면 5시전에 해제될 것 같아요",
+			"ts": "1630651372.049200",
+			"thread_ts": "1630312496.027200",
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "H/Aj",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "저희쪽에서 할 수 있는건 다 했고 문제없으면 5시전에 해제될 것 같아요"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "b74f9b88-1b3a-43c0-984e-b8aa7906760e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2021학년도 2학기 논문제출 일정 알림&gt;* \n\n2021학년도 2학기 논문 제출 일정과 관련하여 아래와 같이 알려드리오니 해당하시는 학생분들께서는 일정 및 내용을 확인하여 주시기 바랍니다.\n\n*○예비심사: 2021년 10월 29일 (금요일)*\n - 논문 진행상황 공유\n - 영문, 국문에 상관없이 10페이지의 proposal 제출\n   (어떤 문제에 대해 어떤 연구 자료가 있었고 이를 어떻게 풀어갈지에 대한 Proposal)\n - 10분 발표와 5분 질문 (총 15분)\n\n*○최종심사: 2021년 12월 10일 (금요일)* \n\n*○종결: 2022년 1월 12일 (수요일)*",
+			"ts": "1630652740.050800",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1633498313.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Tquc",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 2학기 논문제출 일정 알림> ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2021학년도 2학기 논문 제출 일정과 관련하여 아래와 같이 알려드리오니 해당하시는 학생분들께서는 일정 및 내용을 확인하여 주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "○예비심사: 2021년 10월 29일 (금요일)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - 논문 진행상황 공유\n - 영문, 국문에 상관없이 10페이지의 proposal 제출\n   (어떤 문제에 대해 어떤 연구 자료가 있었고 이를 어떻게 풀어갈지에 대한 Proposal)\n - 10분 발표와 5분 질문 (총 15분)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "○최종심사: 2021년 12월 10일 (금요일) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "○종결: 2022년 1월 12일 (수요일)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "e5f39952-24ae-4f07-882e-e394f194c2d6",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "복구되었습니다",
+			"ts": "1630653888.050900",
+			"thread_ts": "1630312496.027200",
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "aNA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "복구되었습니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "367c91ba-2459-4333-a027-2fced9a1fe7a",
+			"type": "message",
+			"user": "U01QDANUYVB",
+			"text": "감사합니다! :slightly_smiling_face:",
+			"ts": "1630654936.051100",
+			"thread_ts": "1630312496.027200",
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "GW1",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "감사합니다! "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
+				"first_name": "박성찬",
+				"real_name": "박성찬",
+				"display_name": "2기_박성찬",
+				"team": "T01QA5S537V",
+				"name": "warld2234",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "6e946c65-292d-48f1-8376-35ca7c592a76",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "*[GSDS 클러스터 포맷 및 개편 안내]*\n\n안녕하십니까. GSDS 클러스터 관리자입니다.\n\n얼마 전 발생한 보안 이슈와 관련하여 중앙전산원 측에서 서버 포맷을 권고받았고,\n서버 포맷과 더불어 이번 기회에 클러스터 서버가 개편될 예정입니다.\n\n현재 계획된 일정은 아래와 같으며,\n연구실 별 서버 관리자를 통하여 개편 일정 관련 의견 수렴 후 (현재 진행중)\n9/7(화)에 확정된 일정이 공지될 예정입니다.\n\n*서버 포맷 시 클러스터 (Linux, JupyterHub) 내의 모든 데이터가 삭제될 예정이오니,*\n*반드시 백업 기간에 필요한 데이터를 백업하여 주시기 바랍니다.*\n\n                                          -          아         래          -\n\n■ 개편 항목: CUDA 및 Lustre 버전 업그레이드, 계산 노드 패키지 버전 관리 등\n\n■ 주요 일정 (계획)\n    - 9/6(월): 연구실 별 의견 조사 마감 및 개편/오픈 일정 확정\n    - 9/7(화): 클러스터 개편/오픈 일정 확정 공지, 클러스터 사용 설문조사 재공지\n    *- 9/12(일): 유저 데이터 백업 마감 및 클러스터 종료 (9/12, 23:59:59)*\n    - 9/13(월) ~ 9/19(일): 서버 개편 작업\n    *- 9/20(월): 서비스 오픈*\n    ※ 상기 일정은 유저 의견 수렴 결과에 따라 변경될 수 있음\n\n금번 개편 시 유저 분들의 의견을 수렴하여 가능한 항목은 반영하고자 합니다.\n\n가령, 현 계획은 계산 노드 직접 접속 (ssh)은 개발용 (디버깅)만 일부 배정 (작업 당 5분 제한)하고,\n그 외의 모든 노드는 slurm 스케줄러를 이용하도록 할 예정인데,\n설문 조사 결과를 검토하여 노드 비율 등을 최종 결정할 예정입니다.\n\n본 설문조사에 응답하시어 클러스터 개편과 관련하여 많은 의견 부탁드립니다.\n(설문링크: <https://docs.google.com/forms/d/1OHll3YeTiQdUiOY0tJfSHZgBLCKhVHxUAsBpkh2ZOME/>)\n\n관련하여 궁금한 점은 연구실 별 서버 관리자를 통해 문의주시기 바랍니다.\n\n감사합니다.\n\nGSDS 클러스터 관리자 드림.",
+			"ts": "1630675485.053600",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 2,
+					"users": [
+						"U01QNSM488Z",
+						"U01Q9KXMSF8"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bL9",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 클러스터 포맷 및 개편 안내]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하십니까. GSDS 클러스터 관리자입니다.\n\n얼마 전 발생한 보안 이슈와 관련하여 중앙전산원 측에서 서버 포맷을 권고받았고,\n서버 포맷과 더불어 이번 기회에 클러스터 서버가 개편될 예정입니다.\n\n현재 계획된 일정은 아래와 같으며,\n연구실 별 서버 관리자를 통하여 개편 일정 관련 의견 수렴 후 (현재 진행중)\n9/7(화)에 확정된 일정이 공지될 예정입니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "서버 포맷 시 클러스터 (Linux, JupyterHub) 내의 모든 데이터가 삭제될 예정이오니,",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "반드시 백업 기간에 필요한 데이터를 백업하여 주시기 바랍니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n                                          -          아         래          -\n\n■ 개편 항목: CUDA 및 Lustre 버전 업그레이드, 계산 노드 패키지 버전 관리 등\n\n■ 주요 일정 (계획)\n    - 9/6(월): 연구실 별 의견 조사 마감 및 개편/오픈 일정 확정\n    - 9/7(화): 클러스터 개편/오픈 일정 확정 공지, 클러스터 사용 설문조사 재공지\n    "
+								},
+								{
+									"type": "text",
+									"text": "- 9/12(일): 유저 데이터 백업 마감 및 클러스터 종료 (9/12, 23:59:59)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    - 9/13(월) ~ 9/19(일): 서버 개편 작업\n    "
+								},
+								{
+									"type": "text",
+									"text": "- 9/20(월): 서비스 오픈",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    ※ 상기 일정은 유저 의견 수렴 결과에 따라 변경될 수 있음\n\n금번 개편 시 유저 분들의 의견을 수렴하여 가능한 항목은 반영하고자 합니다.\n\n가령, 현 계획은 계산 노드 직접 접속 (ssh)은 개발용 (디버깅)만 일부 배정 (작업 당 5분 제한)하고,\n그 외의 모든 노드는 slurm 스케줄러를 이용하도록 할 예정인데,\n설문 조사 결과를 검토하여 노드 비율 등을 최종 결정할 예정입니다.\n\n본 설문조사에 응답하시어 클러스터 개편과 관련하여 많은 의견 부탁드립니다.\n(설문링크: "
+								},
+								{
+									"type": "link",
+									"url": "https://docs.google.com/forms/d/1OHll3YeTiQdUiOY0tJfSHZgBLCKhVHxUAsBpkh2ZOME/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n\n관련하여 궁금한 점은 연구실 별 서버 관리자를 통해 문의주시기 바랍니다.\n\n감사합니다.\n\nGSDS 클러스터 관리자 드림."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

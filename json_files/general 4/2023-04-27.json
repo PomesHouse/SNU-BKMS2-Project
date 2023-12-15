@@ -1,123 +1,125 @@
-[
-  {
-    "client_msg_id": "5d0767d5-ac2a-410e-b211-92d3d6d55f09",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt; SciVal(연구성과분석솔루션) 온라인 교육 신청 안내 \u0026gt;*\n연구처에서는 연구성과 분석 공신력 확보 및 편의 향상을 위해 Elsevier사의 SciVal (연구성과분석솔루션)＊을 구독하고 있습니다.\n     ＊ SciVal(Science Evaluation) : SCOPUS를 기반으로 기관, 국가, 연구주제, 토픽, 연구자 별로 30여개의 성과 평가 매트릭스를 통해 비교·분석 가능한 솔루션\n학내 구성원들이 보다 잘 활용할 수 있도록 엘스비어에서 진행하는 SciVal 온라인 교육  (웨비나) 일정을 공유해드리니, 관심있는 학생분들의 많은 신청을 부탁드립니다.\n-일시: 5.10.(수)  14:00-15:30\n-내용: Scival을 통한 연구성과 분석하기\n   - Scival 소개 및 필요성\n   - 연구성과 평가 지표 소개\n   - Scival 모듈별 기능 시연과 활용\n   - 연구자별 연구성과 분석과 학과별 연구성과 분석\n   - 분석 사례 소개\n-교육 신청링크: \u003chttps://elsevier.zoom.us/webinar/register/WN_b77z57FuQYOthTXtDlV4yw\u003e",
-    "ts": "1682571931.200579",
-    "files": [
-      {
-        "id": "F054Z850FE2",
-        "created": 1682571907,
-        "timestamp": 1682571907,
-        "name": "2023_Scival User Manual_공통.pdf",
-        "title": "2023_Scival User Manual_공통.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 6093521,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F054Z850FE2-2023_Scival User Manual_공통.pdf",
-        "url_private_download": "attachments/F054Z850FE2-2023_Scival User Manual_공통.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F054Z850FE2/2023_scival_user_manual_______.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F054Z850FE2-4fd7a4d5d8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "0aDo",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c SciVal(연구성과분석솔루션) 온라인 교육 신청 안내 \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n연구처에서는 연구성과 분석 공신력 확보 및 편의 향상을 위해 Elsevier사의 SciVal (연구성과분석솔루션)＊을 구독하고 있습니다.\n     ＊ SciVal(Science Evaluation) : SCOPUS를 기반으로 기관, 국가, 연구주제, 토픽, 연구자 별로 30여개의 성과 평가 매트릭스를 통해 비교·분석 가능한 솔루션\n학내 구성원들이 보다 잘 활용할 수 있도록 엘스비어에서 진행하는 SciVal 온라인 교육  (웨비나) 일정을 공유해드리니, 관심있는 학생분들의 많은 신청을 부탁드립니다.\n-일시: 5.10.(수)  14:00-15:30\n-내용: Scival을 통한 연구성과 분석하기\n   - Scival 소개 및 필요성\n   - 연구성과 평가 지표 소개\n   - Scival 모듈별 기능 시연과 활용\n   - 연구자별 연구성과 분석과 학과별 연구성과 분석\n   - 분석 사례 소개\n-교육 신청링크: "
-              },
-              {
-                "type": "link",
-                "url": "https://elsevier.zoom.us/webinar/register/WN_b77z57FuQYOthTXtDlV4yw",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "5d0767d5-ac2a-410e-b211-92d3d6d55f09",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt; SciVal(연구성과분석솔루션) 온라인 교육 신청 안내 &gt;*\n연구처에서는 연구성과 분석 공신력 확보 및 편의 향상을 위해 Elsevier사의 SciVal (연구성과분석솔루션)＊을 구독하고 있습니다.\n     ＊ SciVal(Science Evaluation) : SCOPUS를 기반으로 기관, 국가, 연구주제, 토픽, 연구자 별로 30여개의 성과 평가 매트릭스를 통해 비교·분석 가능한 솔루션\n학내 구성원들이 보다 잘 활용할 수 있도록 엘스비어에서 진행하는 SciVal 온라인 교육  (웨비나) 일정을 공유해드리니, 관심있는 학생분들의 많은 신청을 부탁드립니다.\n-일시: 5.10.(수)  14:00-15:30\n-내용: Scival을 통한 연구성과 분석하기\n   - Scival 소개 및 필요성\n   - 연구성과 평가 지표 소개\n   - Scival 모듈별 기능 시연과 활용\n   - 연구자별 연구성과 분석과 학과별 연구성과 분석\n   - 분석 사례 소개\n-교육 신청링크: <https://elsevier.zoom.us/webinar/register/WN_b77z57FuQYOthTXtDlV4yw>",
+			"ts": "1682571931.200579",
+			"files": [
+				{
+					"id": "F054Z850FE2",
+					"created": 1682571907,
+					"timestamp": 1682571907,
+					"name": "2023_Scival User Manual_공통.pdf",
+					"title": "2023_Scival User Manual_공통.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 6093521,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F054Z850FE2-2023_Scival User Manual_공통.pdf",
+					"url_private_download": "attachments/F054Z850FE2-2023_Scival User Manual_공통.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F054Z850FE2/2023_scival_user_manual_______.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F054Z850FE2-4fd7a4d5d8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "0aDo",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< SciVal(연구성과분석솔루션) 온라인 교육 신청 안내 >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n연구처에서는 연구성과 분석 공신력 확보 및 편의 향상을 위해 Elsevier사의 SciVal (연구성과분석솔루션)＊을 구독하고 있습니다.\n     ＊ SciVal(Science Evaluation) : SCOPUS를 기반으로 기관, 국가, 연구주제, 토픽, 연구자 별로 30여개의 성과 평가 매트릭스를 통해 비교·분석 가능한 솔루션\n학내 구성원들이 보다 잘 활용할 수 있도록 엘스비어에서 진행하는 SciVal 온라인 교육  (웨비나) 일정을 공유해드리니, 관심있는 학생분들의 많은 신청을 부탁드립니다.\n-일시: 5.10.(수)  14:00-15:30\n-내용: Scival을 통한 연구성과 분석하기\n   - Scival 소개 및 필요성\n   - 연구성과 평가 지표 소개\n   - Scival 모듈별 기능 시연과 활용\n   - 연구자별 연구성과 분석과 학과별 연구성과 분석\n   - 분석 사례 소개\n-교육 신청링크: "
+								},
+								{
+									"type": "link",
+									"url": "https://elsevier.zoom.us/webinar/register/WN_b77z57FuQYOthTXtDlV4yw",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

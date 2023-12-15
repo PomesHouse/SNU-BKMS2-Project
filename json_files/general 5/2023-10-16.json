@@ -1,656 +1,658 @@
-[
-  {
-    "client_msg_id": "d04cbc00-222c-4bc3-ad36-23d0fcb4c25b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023년 특별상환유예 제도 안내\u0026gt;*\n\n*한국장학재단*에서 경제적으로 곤란한 사유가 발생한 일반상환학자금대출자의 실질 상환부담을 완화하기 위한*「특별상환유예대출」제도*를 운영하고 있어 알려드리니, 해당 학생들은 지원받길 바랍니다.\n가. 내용: 경제적으로 곤란한 사유가 발생한 *일반 상환 학자금대출자*의 원리금 상환 유예\n- *대학 졸업자 중 상환취약계층의 학자금대출 원리금 납부유예(최대 3년) 후 무이자 분할상환(4년 간) 또는 만기 일시상환(4년 후)*\n*나. 지원대상: 학부 또는 대학원 졸업생* 및 기타 사유발생자*\n* 자퇴, 제적, 중퇴, 최종학년 수료, 학위취득유예(졸업유예) 등 포함\n다. 지원기간: 약정시점부터 최대 3년간 유예\n라. 대상대출: 일반 상환 학자금대출(2009.2학기 이후 취급분)\n※ 학점은행제 학습자 학자금대출은 제외\n마. 신청방법: 재단 홈페이지 또는 모바일 애플리케이션 신청\n※ 홈페이지 및 모바일 신청 시 필수 제출서류 업로드\n바. *문의: 한국장학재단 대표 콜센터 (Tel.1599-2000)*",
-    "ts": "1697421642.525529",
-    "files": [
-      {
-        "id": "F061LG5MNV7",
-        "created": 1697421636,
-        "timestamp": 1697421636,
-        "name": "3. 2023년 특별상환유예 제도 신청 안내 게시용 문구.hwp",
-        "title": "3. 2023년 특별상환유예 제도 신청 안내 게시용 문구.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 262144,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F061LG5MNV7-3. 2023년 특별상환유예 제도 신청 안내 게시용 문구.hwp",
-        "url_private_download": "attachments/F061LG5MNV7-3. 2023년 특별상환유예 제도 신청 안내 게시용 문구.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F061LG5MNV7/3._2023____________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F061LG5MNV7-85de19fde2",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F0617PZH2TV",
-        "created": 1697421637,
-        "timestamp": 1697421637,
-        "name": "2. 2023년 특별상환유예 제도 신청 안내 이미지.pdf",
-        "title": "2. 2023년 특별상환유예 제도 신청 안내 이미지.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 296119,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0617PZH2TV-2. 2023년 특별상환유예 제도 신청 안내 이미지.pdf",
-        "url_private_download": "attachments/F0617PZH2TV-2. 2023년 특별상환유예 제도 신청 안내 이미지.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0617PZH2TV/2._2023_____________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0617PZH2TV-1e0a6f2be6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F061AAM0VLL",
-        "created": 1697421640,
-        "timestamp": 1697421640,
-        "name": "1. 2023년 특별상환유예 제도 홍보 포스터.pdf",
-        "title": "1. 2023년 특별상환유예 제도 홍보 포스터.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 245122,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F061AAM0VLL-1. 2023년 특별상환유예 제도 홍보 포스터.pdf",
-        "url_private_download": "attachments/F061AAM0VLL-1. 2023년 특별상환유예 제도 홍보 포스터.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F061AAM0VLL/1._2023______________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F061AAM0VLL-244b001cbe",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qV6hw",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 특별상환유예 제도 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "한국장학재단",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "에서 경제적으로 곤란한 사유가 발생한 일반상환학자금대출자의 실질 상환부담을 완화하기 위한"
-              },
-              {
-                "type": "text",
-                "text": "「특별상환유예대출」제도",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "를 운영하고 있어 알려드리니, 해당 학생들은 지원받길 바랍니다.\n가. 내용: 경제적으로 곤란한 사유가 발생한 "
-              },
-              {
-                "type": "text",
-                "text": "일반 상환 학자금대출자",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "의 원리금 상환 유예\n-"
-              },
-              {
-                "type": "text",
-                "text": " 대학 졸업자 중 상환취약계층의 학자금대출 원리금 납부유예(최대 3년) 후 무이자 분할상환(4년 간) 또는 만기 일시상환(4년 후)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "나. 지원대상: 학부 또는 대학원 졸업생* 및 기타 사유발생자",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n* 자퇴, 제적, 중퇴, 최종학년 수료, 학위취득유예(졸업유예) 등 포함\n다. 지원기간: 약정시점부터 최대 3년간 유예\n라. 대상대출: 일반 상환 학자금대출(2009.2학기 이후 취급분)\n※ 학점은행제 학습자 학자금대출은 제외\n마. 신청방법: 재단 홈페이지 또는 모바일 애플리케이션 신청\n※ 홈페이지 및 모바일 신청 시 필수 제출서류 업로드\n바. "
-              },
-              {
-                "type": "text",
-                "text": "문의: 한국장학재단 대표 콜센터 (Tel.1599-2000)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "0f0b9738-4c99-4f33-b511-37379d6e017b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 동계 계절학기 국내 타 대학 학점교류 신청 안내\u0026gt;\n\n2023학년도 동계 계절학기 국내 타 대학 학점교류 신청 안내드립니다.\n\n붙임 서류를 확인하여 주시기 바라며, 신청을 원하는 경우 행정실에도 알려주시기 바랍니다.",
-    "ts": "1697432899.754109",
-    "files": [
-      {
-        "id": "F061LV2JZU1",
-        "created": 1697432728,
-        "timestamp": 1697432728,
-        "name": "(붙임5)국내교류 신청 관련 서식.zip",
-        "title": "(붙임5)국내교류 신청 관련 서식.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 25260,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F061LV2JZU1-(붙임5)국내교류 신청 관련 서식.zip",
-        "url_private_download": "attachments/F061LV2JZU1-(붙임5)국내교류 신청 관련 서식.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F061LV2JZU1/_______5__________________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F061LV2JZU1-3cc1f6c4a1",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F060TPYLYF9",
-        "created": 1697432730,
-        "timestamp": 1697432730,
-        "name": "(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
-        "title": "(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 419627,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F060TPYLYF9-(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
-        "url_private_download": "attachments/F060TPYLYF9-(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F060TPYLYF9/_______4______________out__________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F060TPYLYF9-178b3234af",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F06187GH12P",
-        "created": 1697432732,
-        "timestamp": 1697432732,
-        "name": "(붙임2) 2023학년도 서울대학교 국내교류 대학 명단(52개교).hwp",
-        "title": "(붙임2) 2023학년도 서울대학교 국내교류 대학 명단(52개교).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 43520,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F06187GH12P-(붙임2) 2023학년도 서울대학교 국내교류 대학 명단(52개교).hwp",
-        "url_private_download": "attachments/F06187GH12P-(붙임2) 2023학년도 서울대학교 국내교류 대학 명단(52개교).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F06187GH12P/_______2__2023_____________________________________________________52_______.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F06187GH12P-15a3adeefe",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F060TPYSJNT",
-        "created": 1697432734,
-        "timestamp": 1697432734,
-        "name": "(붙임1) 2023학년도 동계 계절수업 국내 타 대학 학점교류 신청 안내문.hwp",
-        "title": "(붙임1) 2023학년도 동계 계절수업 국내 타 대학 학점교류 신청 안내문.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 87040,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F060TPYSJNT-(붙임1) 2023학년도 동계 계절수업 국내 타 대학 학점교류 신청 안내문.hwp",
-        "url_private_download": "attachments/F060TPYSJNT-(붙임1) 2023학년도 동계 계절수업 국내 타 대학 학점교류 신청 안내문.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F060TPYSJNT/_______1__2023_____________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F060TPYSJNT-27b9a82601",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "TfM48",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 동계 계절학기 국내 타 대학 학점교류 신청 안내\u003e\n\n2023학년도 동계 계절학기 국내 타 대학 학점교류 신청 안내드립니다.\n\n붙임 서류를 확인하여 주시기 바라며, 신청을 원하는 경우 행정실에도 알려주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "9cca6371-6594-4291-ad6d-f527e6ff3a30",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u003c2024학년도 전기 신입생 모집 면접 및 구술고사 보조위원 모집 안내\u003e*\n\n마감완료. 추가 인원 필요시 재공지함",
-    "ts": "1697444943.692959",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1697445535.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Ugc+C",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2024학년도 전기 신입생 모집 면접 및 구술고사 보조위원 모집 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n마감완료. 추가 인원 필요시 재공지함"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "d04cbc00-222c-4bc3-ad36-23d0fcb4c25b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023년 특별상환유예 제도 안내&gt;*\n\n*한국장학재단*에서 경제적으로 곤란한 사유가 발생한 일반상환학자금대출자의 실질 상환부담을 완화하기 위한*「특별상환유예대출」제도*를 운영하고 있어 알려드리니, 해당 학생들은 지원받길 바랍니다.\n가. 내용: 경제적으로 곤란한 사유가 발생한 *일반 상환 학자금대출자*의 원리금 상환 유예\n- *대학 졸업자 중 상환취약계층의 학자금대출 원리금 납부유예(최대 3년) 후 무이자 분할상환(4년 간) 또는 만기 일시상환(4년 후)*\n*나. 지원대상: 학부 또는 대학원 졸업생* 및 기타 사유발생자*\n* 자퇴, 제적, 중퇴, 최종학년 수료, 학위취득유예(졸업유예) 등 포함\n다. 지원기간: 약정시점부터 최대 3년간 유예\n라. 대상대출: 일반 상환 학자금대출(2009.2학기 이후 취급분)\n※ 학점은행제 학습자 학자금대출은 제외\n마. 신청방법: 재단 홈페이지 또는 모바일 애플리케이션 신청\n※ 홈페이지 및 모바일 신청 시 필수 제출서류 업로드\n바. *문의: 한국장학재단 대표 콜센터 (Tel.1599-2000)*",
+			"ts": "1697421642.525529",
+			"files": [
+				{
+					"id": "F061LG5MNV7",
+					"created": 1697421636,
+					"timestamp": 1697421636,
+					"name": "3. 2023년 특별상환유예 제도 신청 안내 게시용 문구.hwp",
+					"title": "3. 2023년 특별상환유예 제도 신청 안내 게시용 문구.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 262144,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F061LG5MNV7-3. 2023년 특별상환유예 제도 신청 안내 게시용 문구.hwp",
+					"url_private_download": "attachments/F061LG5MNV7-3. 2023년 특별상환유예 제도 신청 안내 게시용 문구.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F061LG5MNV7/3._2023____________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F061LG5MNV7-85de19fde2",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F0617PZH2TV",
+					"created": 1697421637,
+					"timestamp": 1697421637,
+					"name": "2. 2023년 특별상환유예 제도 신청 안내 이미지.pdf",
+					"title": "2. 2023년 특별상환유예 제도 신청 안내 이미지.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 296119,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0617PZH2TV-2. 2023년 특별상환유예 제도 신청 안내 이미지.pdf",
+					"url_private_download": "attachments/F0617PZH2TV-2. 2023년 특별상환유예 제도 신청 안내 이미지.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0617PZH2TV/2._2023_____________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0617PZH2TV-1e0a6f2be6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F061AAM0VLL",
+					"created": 1697421640,
+					"timestamp": 1697421640,
+					"name": "1. 2023년 특별상환유예 제도 홍보 포스터.pdf",
+					"title": "1. 2023년 특별상환유예 제도 홍보 포스터.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 245122,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F061AAM0VLL-1. 2023년 특별상환유예 제도 홍보 포스터.pdf",
+					"url_private_download": "attachments/F061AAM0VLL-1. 2023년 특별상환유예 제도 홍보 포스터.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F061AAM0VLL/1._2023______________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F061AAM0VLL-244b001cbe",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qV6hw",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 특별상환유예 제도 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "한국장학재단",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "에서 경제적으로 곤란한 사유가 발생한 일반상환학자금대출자의 실질 상환부담을 완화하기 위한"
+								},
+								{
+									"type": "text",
+									"text": "「특별상환유예대출」제도",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "를 운영하고 있어 알려드리니, 해당 학생들은 지원받길 바랍니다.\n가. 내용: 경제적으로 곤란한 사유가 발생한 "
+								},
+								{
+									"type": "text",
+									"text": "일반 상환 학자금대출자",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "의 원리금 상환 유예\n-"
+								},
+								{
+									"type": "text",
+									"text": " 대학 졸업자 중 상환취약계층의 학자금대출 원리금 납부유예(최대 3년) 후 무이자 분할상환(4년 간) 또는 만기 일시상환(4년 후)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "나. 지원대상: 학부 또는 대학원 졸업생* 및 기타 사유발생자",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n* 자퇴, 제적, 중퇴, 최종학년 수료, 학위취득유예(졸업유예) 등 포함\n다. 지원기간: 약정시점부터 최대 3년간 유예\n라. 대상대출: 일반 상환 학자금대출(2009.2학기 이후 취급분)\n※ 학점은행제 학습자 학자금대출은 제외\n마. 신청방법: 재단 홈페이지 또는 모바일 애플리케이션 신청\n※ 홈페이지 및 모바일 신청 시 필수 제출서류 업로드\n바. "
+								},
+								{
+									"type": "text",
+									"text": "문의: 한국장학재단 대표 콜센터 (Tel.1599-2000)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "0f0b9738-4c99-4f33-b511-37379d6e017b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 동계 계절학기 국내 타 대학 학점교류 신청 안내&gt;\n\n2023학년도 동계 계절학기 국내 타 대학 학점교류 신청 안내드립니다.\n\n붙임 서류를 확인하여 주시기 바라며, 신청을 원하는 경우 행정실에도 알려주시기 바랍니다.",
+			"ts": "1697432899.754109",
+			"files": [
+				{
+					"id": "F061LV2JZU1",
+					"created": 1697432728,
+					"timestamp": 1697432728,
+					"name": "(붙임5)국내교류 신청 관련 서식.zip",
+					"title": "(붙임5)국내교류 신청 관련 서식.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 25260,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F061LV2JZU1-(붙임5)국내교류 신청 관련 서식.zip",
+					"url_private_download": "attachments/F061LV2JZU1-(붙임5)국내교류 신청 관련 서식.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F061LV2JZU1/_______5__________________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F061LV2JZU1-3cc1f6c4a1",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F060TPYLYF9",
+					"created": 1697432730,
+					"timestamp": 1697432730,
+					"name": "(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
+					"title": "(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 419627,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F060TPYLYF9-(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
+					"url_private_download": "attachments/F060TPYLYF9-(붙임4)국내교류(OUT)신청매뉴얼_학생용.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F060TPYLYF9/_______4______________out__________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F060TPYLYF9-178b3234af",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F06187GH12P",
+					"created": 1697432732,
+					"timestamp": 1697432732,
+					"name": "(붙임2) 2023학년도 서울대학교 국내교류 대학 명단(52개교).hwp",
+					"title": "(붙임2) 2023학년도 서울대학교 국내교류 대학 명단(52개교).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 43520,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F06187GH12P-(붙임2) 2023학년도 서울대학교 국내교류 대학 명단(52개교).hwp",
+					"url_private_download": "attachments/F06187GH12P-(붙임2) 2023학년도 서울대학교 국내교류 대학 명단(52개교).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F06187GH12P/_______2__2023_____________________________________________________52_______.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F06187GH12P-15a3adeefe",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F060TPYSJNT",
+					"created": 1697432734,
+					"timestamp": 1697432734,
+					"name": "(붙임1) 2023학년도 동계 계절수업 국내 타 대학 학점교류 신청 안내문.hwp",
+					"title": "(붙임1) 2023학년도 동계 계절수업 국내 타 대학 학점교류 신청 안내문.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 87040,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F060TPYSJNT-(붙임1) 2023학년도 동계 계절수업 국내 타 대학 학점교류 신청 안내문.hwp",
+					"url_private_download": "attachments/F060TPYSJNT-(붙임1) 2023학년도 동계 계절수업 국내 타 대학 학점교류 신청 안내문.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F060TPYSJNT/_______1__2023_____________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F060TPYSJNT-27b9a82601",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "TfM48",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 동계 계절학기 국내 타 대학 학점교류 신청 안내>\n\n2023학년도 동계 계절학기 국내 타 대학 학점교류 신청 안내드립니다.\n\n붙임 서류를 확인하여 주시기 바라며, 신청을 원하는 경우 행정실에도 알려주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "9cca6371-6594-4291-ad6d-f527e6ff3a30",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*<2024학년도 전기 신입생 모집 면접 및 구술고사 보조위원 모집 안내>*\n\n마감완료. 추가 인원 필요시 재공지함",
+			"ts": "1697444943.692959",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1697445535.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Ugc+C",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2024학년도 전기 신입생 모집 면접 및 구술고사 보조위원 모집 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n마감완료. 추가 인원 필요시 재공지함"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,117 +1,119 @@
-[
-  {
-    "client_msg_id": "77D932C2-102E-4615-90DF-887068557138",
-    "type": "message",
-    "user": "U0406PM050F",
-    "text": "아마 매우 뒷북이겠지만, \n오늘 카카오 개발자 컨퍼런스에서 AI 및 데이터 관련된 발표도 많은 것 같아서 공유합니다! \n사전등록을 하지 않아도 세션을 볼 수 있고 세션별 프리뷰 영상도 있다고 하니 참고하시면 좋을 것 같아요!\n\n\u003chttps://if.kakao.com/session|https://if.kakao.com/session\u003e",
-    "ts": "1670549193.263289",
-    "attachments": [
-      {
-        "fallback": "if(kakao)dev2022",
-        "id": 1,
-        "title": "if(kakao)dev2022",
-        "title_link": "https://if.kakao.com/session",
-        "text": "함께 나아가는 더 나은 세상",
-        "image_url": "https://t1.kakaocdn.net/inhouse_daglona/apps/72133429cc6a4da9ad7ed073c4483ef5/settings/icon/ogImage.png",
-        "service_name": "if.kakao.com",
-        "service_icon": "https://t1.kakaocdn.net/inhouse_daglona/apps/72133429cc6a4da9ad7ed073c4483ef5/settings/icon/icon.synced",
-        "from_url": "https://if.kakao.com/session",
-        "original_url": "https://if.kakao.com/session",
-        "blocks": null
-      }
-    ],
-    "edited": {
-      "user": "U0406PM050F",
-      "ts": "1670554178.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 14,
-        "users": [
-          "U02C3D2T0BS",
-          "U02UT1YNY6N",
-          "U02UQ4BAMB7",
-          "U040MB3TGSE",
-          "U01QGJUT403",
-          "U02V5LT2XFB",
-          "U040C40QE6T",
-          "U040ENMTCEA",
-          "U040ENMBB1C",
-          "U02UT1XUGFL",
-          "U041B24HMFS",
-          "U040MB432JW",
-          "U02ULBJR9GE",
-          "U02V5LT4DLZ"
-        ]
-      },
-      {
-        "name": "gift",
-        "count": 1,
-        "users": [
-          "U040ENLD4QN"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Lj7l",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "아마 매우 뒷북이겠지만, \n오늘 카카오 개발자 컨퍼런스에서 AI "
-              },
-              {
-                "type": "text",
-                "text": "및"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "데이터"
-              },
-              {
-                "type": "text",
-                "text": " 관련된 발표도 많은 것 같아서 공유합니다! \n사전등록을 하지 않아도 세션을 볼 수 있고 세션별 프리뷰 영상도 있다고 하니 참고하시면 좋을 것 같아요!\n\n"
-              },
-              {
-                "type": "link",
-                "url": "https://if.kakao.com/session",
-                "text": "https://if.kakao.com/session"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2022-11-08/4360699869840_c05147c8c7dbead948b5_72.png",
-      "first_name": "3.5기_손혜령",
-      "real_name": "3.5기_손혜령",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "hyeryung.son",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "77D932C2-102E-4615-90DF-887068557138",
+			"type": "message",
+			"user": "U0406PM050F",
+			"text": "아마 매우 뒷북이겠지만, \n오늘 카카오 개발자 컨퍼런스에서 AI 및 데이터 관련된 발표도 많은 것 같아서 공유합니다! \n사전등록을 하지 않아도 세션을 볼 수 있고 세션별 프리뷰 영상도 있다고 하니 참고하시면 좋을 것 같아요!\n\n<https://if.kakao.com/session|https://if.kakao.com/session>",
+			"ts": "1670549193.263289",
+			"attachments": [
+				{
+					"fallback": "if(kakao)dev2022",
+					"id": 1,
+					"title": "if(kakao)dev2022",
+					"title_link": "https://if.kakao.com/session",
+					"text": "함께 나아가는 더 나은 세상",
+					"image_url": "https://t1.kakaocdn.net/inhouse_daglona/apps/72133429cc6a4da9ad7ed073c4483ef5/settings/icon/ogImage.png",
+					"service_name": "if.kakao.com",
+					"service_icon": "https://t1.kakaocdn.net/inhouse_daglona/apps/72133429cc6a4da9ad7ed073c4483ef5/settings/icon/icon.synced",
+					"from_url": "https://if.kakao.com/session",
+					"original_url": "https://if.kakao.com/session",
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U0406PM050F",
+				"ts": "1670554178.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 14,
+					"users": [
+						"U02C3D2T0BS",
+						"U02UT1YNY6N",
+						"U02UQ4BAMB7",
+						"U040MB3TGSE",
+						"U01QGJUT403",
+						"U02V5LT2XFB",
+						"U040C40QE6T",
+						"U040ENMTCEA",
+						"U040ENMBB1C",
+						"U02UT1XUGFL",
+						"U041B24HMFS",
+						"U040MB432JW",
+						"U02ULBJR9GE",
+						"U02V5LT4DLZ"
+					]
+				},
+				{
+					"name": "gift",
+					"count": 1,
+					"users": [
+						"U040ENLD4QN"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Lj7l",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "아마 매우 뒷북이겠지만, \n오늘 카카오 개발자 컨퍼런스에서 AI "
+								},
+								{
+									"type": "text",
+									"text": "및"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "데이터"
+								},
+								{
+									"type": "text",
+									"text": " 관련된 발표도 많은 것 같아서 공유합니다! \n사전등록을 하지 않아도 세션을 볼 수 있고 세션별 프리뷰 영상도 있다고 하니 참고하시면 좋을 것 같아요!\n\n"
+								},
+								{
+									"type": "link",
+									"url": "https://if.kakao.com/session",
+									"text": "https://if.kakao.com/session"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2022-11-08/4360699869840_c05147c8c7dbead948b5_72.png",
+				"first_name": "3.5기_손혜령",
+				"real_name": "3.5기_손혜령",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "hyeryung.son",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

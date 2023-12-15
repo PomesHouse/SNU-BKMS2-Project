@@ -1,219 +1,221 @@
-[
-  {
-    "client_msg_id": "565e4c71-24c1-4353-a2de-09223d391e61",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」홍보 안내\u0026gt;\n\n연구처에서 2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」교육을 개최한다고 하오니 *'인간대상' 연구를 계획하는 연구자분*들의 많은 참여 바랍니다.\n\n1. 교육명: 2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」\n2. 일시: 2021.10.6.(수) 10:00 ~ 12:00\n3. 참석대상: 인간대상연구 연구자 (교원, 대학원생, 연구원 등)\n4. 등록방법:  \u003chttps://forms.gle/LoGWtgde84GZo172A\u003e   (이름, 소속, E-mail 기재)\n5. *사전등록기간: 2021.9.29. 09:00 ~ (선착순 마감 70명)*\n6. 문의처: 연구윤리팀 (02-880-5153)\n",
-    "ts": "1631774221.083000",
-    "attachments": [
-      {
-        "fallback": "Google Docs: 2021.10 찾아가는 연구자 교육",
-        "id": 1,
-        "title": "2021.10 찾아가는 연구자 교육",
-        "title_link": "https://forms.gle/LoGWtgde84GZo172A",
-        "text": "2021. 10. 12.(수) 10:00~12:00, ZOOM 강의",
-        "image_url": "https://lh3.googleusercontent.com/UvRgZ7Lrp10F0kJIxZtPz4b-u7tH_zTy2qtaS36K7hK-YqTiJhh1Jmehth47I_S2bF8Ryzli63w",
-        "service_name": "Google Docs",
-        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
-        "from_url": "https://forms.gle/LoGWtgde84GZo172A",
-        "original_url": "https://forms.gle/LoGWtgde84GZo172A",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "J8t",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」홍보 안내\u003e\n\n연구처에서 2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」교육을 개최한다고 하오니"
-              },
-              {
-                "type": "text",
-                "text": " '인간대상' 연구를 계획하는 연구자분",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "들의 많은 참여 바랍니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uad50\\uc721\\uba85: 2021\\ub144\\ub3c4 \\uc81c 6\\ucc28 \\u300c\\ucc3e\\uc544\\uac00\\ub294 \\uc5f0\\uad6c\\uc790 \\uad50\\uc721: IRB \\uc2ec\\uc758\\uc758\\ub8b0\\uc11c \\uc791\\uc131\\ubc95\\u300d\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 2021.10.6.(\\uc218) 10:00 ~ 12:00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d\\ub300\\uc0c1: \\uc778\\uac04\\ub300\\uc0c1\\uc5f0\\uad6c \\uc5f0\\uad6c\\uc790 (\\uad50\\uc6d0, \\ub300\\ud559\\uc6d0\\uc0dd, \\uc5f0\\uad6c\\uc6d0 \\ub4f1)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub4f1\\ub85d\\ubc29\\ubc95:  \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/LoGWtgde84GZo172A\"},{\"type\":\"text\",\"text\":\"   (\\uc774\\ub984, \\uc18c\\uc18d, E-mail \\uae30\\uc7ac)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc804\\ub4f1\\ub85d\\uae30\\uac04: 2021.9.29. 09:00 ~ (\\uc120\\ucc29\\uc21c \\ub9c8\\uac10 70\\uba85)\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubb38\\uc758\\ucc98: \\uc5f0\\uad6c\\uc724\\ub9ac\\ud300 (02-880-5153)\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": []
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021학년도 원장재단 장학생 선발 안내\u0026gt;\n\n원장재단에서 2021학년도 장학생을 선발한다고 하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발인원: 10명\n  나. 장학금액: 학업장려금 500만원\n  다. 지원자격\n    1) 공통자격: 서울시 소재 대학교에 재학 중인 학부생 및 대학원생 중 한국 국적자\n    2) 성적 장학생: 직전학기 12학점(대학원생 6학점) 이상 이수, 백분위 80점 이상 취득한 자\n    3) 모범 장학생: 학자금 지원구간 8구간 이하이며, 직전학기 12학점(대학원생 6학점) 이상 이수하고 백분위 70점 이상 취득한 자\n                               ※ 대학원생의 경우 학자금 지원구간 통지서 발급이 불가하므로 이를 제외한 모범 장학생 추가 제출서류(소득 관련 증빙서류)를 완비하여 제출\n  라. 접수기간: 2021. 9. 13.(월) ~ 10. 29.(금)\n  마. 접수방법: 스캔본 이메일 접수 후 원본은 우편 송부\n    1) 이메일: \u003cmailto:wjf@wonjangfoundation.org|wjf@wonjangfoundation.org\u003e\n    2) 우편: (우18472) 경기도 화성시 동탄순환대로29길 25, 2층 재단법인 원장재단\n  바. 제출서류: 장학생 신청서, 추천서, 개인정보 수집·이용 및 제공동의서, 재학증명서, 가족관계증명서 및 주민등록등본, 본인 명의 통장 사본, 성적증명서, *학자금지원구간통지서, 소득금액증명원, 지방세세목별(미)과세증명서* 각 1부\n                         ※  볼드체 서류는 모범 장학생 유형 지원 시 제출\n  사. 기타사항: 자세한 사항은 공고문을 반드시 확인하고 기타 문의사항이 있을 경우 재단 홈페이지(\u003chttp://www.wonjangfoundation.org|www.wonjangfoundation.org\u003e) 및 FAQ 활용",
-    "ts": "1631776073.085000",
-    "files": [
-      {
-        "id": "F02EETXH1CN",
-        "created": 1631776020,
-        "timestamp": 1631776020,
-        "name": "원장재단 장학생.zip",
-        "title": "원장재단 장학생.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 247697,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02EETXH1CN-원장재단 장학생.zip",
-        "url_private_download": "attachments/F02EETXH1CN-원장재단 장학생.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02EETXH1CN/______________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02EETXH1CN-2d9c246c44",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "lwus",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 원장재단 장학생 선발 안내\u003e\n\n원장재단에서 2021학년도 장학생을 선발한다고 하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발인원: 10명\n  나. 장학금액: 학업장려금 500만원\n  다. 지원자격\n    1) 공통자격: 서울시 소재 대학교에 재학 중인 학부생 및 대학원생 중 한국 국적자\n    2) 성적 장학생: 직전학기 12학점(대학원생 6학점) 이상 이수, 백분위 80점 이상 취득한 자\n    3) 모범 장학생: 학자금 지원구간 8구간 이하이며, 직전학기 12학점(대학원생 6학점) 이상 이수하고 백분위 70점 이상 취득한 자\n                               ※ 대학원생의 경우 학자금 지원구간 통지서 발급이 불가하므로 이를 제외한 모범 장학생 추가 제출서류(소득 관련 증빙서류)를 완비하여 제출\n  라. 접수기간: 2021. 9. 13.(월) ~ 10. 29.(금)\n  마. 접수방법: 스캔본 이메일 접수 후 원본은 우편 송부\n    1) 이메일: "
-              },
-              {
-                "type": "link",
-                "url": "mailto:wjf@wonjangfoundation.org",
-                "text": "wjf@wonjangfoundation.org"
-              },
-              {
-                "type": "text",
-                "text": "\n    2) 우편: (우18472) 경기도 화성시 동탄순환대로29길 25, 2층 재단법인 원장재단\n  바. 제출서류: 장학생 신청서, 추천서, 개인정보 수집·이용 및 제공동의서, 재학증명서, 가족관계증명서 및 주민등록등본, 본인 명의 통장 사본, 성적증명서, "
-              },
-              {
-                "type": "text",
-                "text": "학자금지원구간통지서, 소득금액증명원, 지방세세목별(미)과세증명서",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 각 1부\n                         ※  볼드체 서류는 모범 장학생 유형 지원 시 제출\n  사. 기타사항: 자세한 사항은 공고문을 반드시 확인하고 기타 문의사항이 있을 경우 재단 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "http://www.wonjangfoundation.org",
-                "text": "www.wonjangfoundation.org"
-              },
-              {
-                "type": "text",
-                "text": ") 및 FAQ 활용"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "565e4c71-24c1-4353-a2de-09223d391e61",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」홍보 안내&gt;\n\n연구처에서 2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」교육을 개최한다고 하오니 *'인간대상' 연구를 계획하는 연구자분*들의 많은 참여 바랍니다.\n\n1. 교육명: 2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」\n2. 일시: 2021.10.6.(수) 10:00 ~ 12:00\n3. 참석대상: 인간대상연구 연구자 (교원, 대학원생, 연구원 등)\n4. 등록방법:  <https://forms.gle/LoGWtgde84GZo172A>   (이름, 소속, E-mail 기재)\n5. *사전등록기간: 2021.9.29. 09:00 ~ (선착순 마감 70명)*\n6. 문의처: 연구윤리팀 (02-880-5153)\n",
+			"ts": "1631774221.083000",
+			"attachments": [
+				{
+					"fallback": "Google Docs: 2021.10 찾아가는 연구자 교육",
+					"id": 1,
+					"title": "2021.10 찾아가는 연구자 교육",
+					"title_link": "https://forms.gle/LoGWtgde84GZo172A",
+					"text": "2021. 10. 12.(수) 10:00~12:00, ZOOM 강의",
+					"image_url": "https://lh3.googleusercontent.com/UvRgZ7Lrp10F0kJIxZtPz4b-u7tH_zTy2qtaS36K7hK-YqTiJhh1Jmehth47I_S2bF8Ryzli63w",
+					"service_name": "Google Docs",
+					"service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+					"from_url": "https://forms.gle/LoGWtgde84GZo172A",
+					"original_url": "https://forms.gle/LoGWtgde84GZo172A",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "J8t",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」홍보 안내>\n\n연구처에서 2021년도 제 6차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」교육을 개최한다고 하오니"
+								},
+								{
+									"type": "text",
+									"text": " '인간대상' 연구를 계획하는 연구자분",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "들의 많은 참여 바랍니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uad50\\uc721\\uba85: 2021\\ub144\\ub3c4 \\uc81c 6\\ucc28 \\u300c\\ucc3e\\uc544\\uac00\\ub294 \\uc5f0\\uad6c\\uc790 \\uad50\\uc721: IRB \\uc2ec\\uc758\\uc758\\ub8b0\\uc11c \\uc791\\uc131\\ubc95\\u300d\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 2021.10.6.(\\uc218) 10:00 ~ 12:00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d\\ub300\\uc0c1: \\uc778\\uac04\\ub300\\uc0c1\\uc5f0\\uad6c \\uc5f0\\uad6c\\uc790 (\\uad50\\uc6d0, \\ub300\\ud559\\uc6d0\\uc0dd, \\uc5f0\\uad6c\\uc6d0 \\ub4f1)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub4f1\\ub85d\\ubc29\\ubc95:  \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/LoGWtgde84GZo172A\"},{\"type\":\"text\",\"text\":\"   (\\uc774\\ub984, \\uc18c\\uc18d, E-mail \\uae30\\uc7ac)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc804\\ub4f1\\ub85d\\uae30\\uac04: 2021.9.29. 09:00 ~ (\\uc120\\ucc29\\uc21c \\ub9c8\\uac10 70\\uba85)\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubb38\\uc758\\ucc98: \\uc5f0\\uad6c\\uc724\\ub9ac\\ud300 (02-880-5153)\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": []
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021학년도 원장재단 장학생 선발 안내&gt;\n\n원장재단에서 2021학년도 장학생을 선발한다고 하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발인원: 10명\n  나. 장학금액: 학업장려금 500만원\n  다. 지원자격\n    1) 공통자격: 서울시 소재 대학교에 재학 중인 학부생 및 대학원생 중 한국 국적자\n    2) 성적 장학생: 직전학기 12학점(대학원생 6학점) 이상 이수, 백분위 80점 이상 취득한 자\n    3) 모범 장학생: 학자금 지원구간 8구간 이하이며, 직전학기 12학점(대학원생 6학점) 이상 이수하고 백분위 70점 이상 취득한 자\n                               ※ 대학원생의 경우 학자금 지원구간 통지서 발급이 불가하므로 이를 제외한 모범 장학생 추가 제출서류(소득 관련 증빙서류)를 완비하여 제출\n  라. 접수기간: 2021. 9. 13.(월) ~ 10. 29.(금)\n  마. 접수방법: 스캔본 이메일 접수 후 원본은 우편 송부\n    1) 이메일: <mailto:wjf@wonjangfoundation.org|wjf@wonjangfoundation.org>\n    2) 우편: (우18472) 경기도 화성시 동탄순환대로29길 25, 2층 재단법인 원장재단\n  바. 제출서류: 장학생 신청서, 추천서, 개인정보 수집·이용 및 제공동의서, 재학증명서, 가족관계증명서 및 주민등록등본, 본인 명의 통장 사본, 성적증명서, *학자금지원구간통지서, 소득금액증명원, 지방세세목별(미)과세증명서* 각 1부\n                         ※  볼드체 서류는 모범 장학생 유형 지원 시 제출\n  사. 기타사항: 자세한 사항은 공고문을 반드시 확인하고 기타 문의사항이 있을 경우 재단 홈페이지(<http://www.wonjangfoundation.org|www.wonjangfoundation.org>) 및 FAQ 활용",
+			"ts": "1631776073.085000",
+			"files": [
+				{
+					"id": "F02EETXH1CN",
+					"created": 1631776020,
+					"timestamp": 1631776020,
+					"name": "원장재단 장학생.zip",
+					"title": "원장재단 장학생.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 247697,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02EETXH1CN-원장재단 장학생.zip",
+					"url_private_download": "attachments/F02EETXH1CN-원장재단 장학생.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02EETXH1CN/______________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02EETXH1CN-2d9c246c44",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "lwus",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 원장재단 장학생 선발 안내>\n\n원장재단에서 2021학년도 장학생을 선발한다고 하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발인원: 10명\n  나. 장학금액: 학업장려금 500만원\n  다. 지원자격\n    1) 공통자격: 서울시 소재 대학교에 재학 중인 학부생 및 대학원생 중 한국 국적자\n    2) 성적 장학생: 직전학기 12학점(대학원생 6학점) 이상 이수, 백분위 80점 이상 취득한 자\n    3) 모범 장학생: 학자금 지원구간 8구간 이하이며, 직전학기 12학점(대학원생 6학점) 이상 이수하고 백분위 70점 이상 취득한 자\n                               ※ 대학원생의 경우 학자금 지원구간 통지서 발급이 불가하므로 이를 제외한 모범 장학생 추가 제출서류(소득 관련 증빙서류)를 완비하여 제출\n  라. 접수기간: 2021. 9. 13.(월) ~ 10. 29.(금)\n  마. 접수방법: 스캔본 이메일 접수 후 원본은 우편 송부\n    1) 이메일: "
+								},
+								{
+									"type": "link",
+									"url": "mailto:wjf@wonjangfoundation.org",
+									"text": "wjf@wonjangfoundation.org"
+								},
+								{
+									"type": "text",
+									"text": "\n    2) 우편: (우18472) 경기도 화성시 동탄순환대로29길 25, 2층 재단법인 원장재단\n  바. 제출서류: 장학생 신청서, 추천서, 개인정보 수집·이용 및 제공동의서, 재학증명서, 가족관계증명서 및 주민등록등본, 본인 명의 통장 사본, 성적증명서, "
+								},
+								{
+									"type": "text",
+									"text": "학자금지원구간통지서, 소득금액증명원, 지방세세목별(미)과세증명서",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 각 1부\n                         ※  볼드체 서류는 모범 장학생 유형 지원 시 제출\n  사. 기타사항: 자세한 사항은 공고문을 반드시 확인하고 기타 문의사항이 있을 경우 재단 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "http://www.wonjangfoundation.org",
+									"text": "www.wonjangfoundation.org"
+								},
+								{
+									"type": "text",
+									"text": ") 및 FAQ 활용"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

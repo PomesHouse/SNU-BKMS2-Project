@@ -1,296 +1,298 @@
-[
-  {
-    "client_msg_id": "335823b2-c32e-4486-af78-40a0542adcb9",
-    "type": "message",
-    "user": "U02ULBH3TEJ",
-    "text": "[GSDS 단체복 수령 공지]\n\n:: 재학생 단체복 배부\n- 일시: 2월 23일 목요일 오후 2시 - 4시\n- 장소: GSDS 건물(942동) ~409호 앞~  *405호 앞*\n:: 최종 단체복 배부\n- 일시: 3월 2일 목요일 오후 4시 - 5시\n- 장소: 위와 동일\n\n------\n안녕하세요 여러분! 학생 부대표 권유진입니다.\n\nGSDS 단체복이 나왔습니다! :blob_cheer:\n\n단체복 수령은 위에 공지된 정해진 기간에 이뤄질 예정이오니 해당 시간에 409호로 방문해주시기 바랍니다. (사이즈는 선착순 입니다.)",
-    "ts": "1676961771.608829",
-    "thread_ts": "1676961771.608829",
-    "edited": {
-      "user": "U02ULBH3TEJ",
-      "ts": "1677742651.000000"
-    },
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U02V5LS84JV",
-        "ts": "1677059419.897729"
-      },
-      {
-        "user": "U02UQ4BRJE9",
-        "ts": "1677068459.136809"
-      }
-    ],
-    "latest_reply": "1677068459.136809",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heavy_check_mark",
-        "count": 16,
-        "users": [
-          "U02V5LTPGRX",
-          "U041B24HMFS",
-          "U02UVAT3BPW",
-          "U02UT1XABT4",
-          "U02V5LT4DLZ",
-          "U02UT1XUGFL",
-          "U02UT2UKVEX",
-          "U02V5LU4ED7",
-          "U0302PLQ34Y",
-          "U02V5LS84JV",
-          "U02UCD2C9V5",
-          "U01QA82PZFU",
-          "U02V5LTUGGH",
-          "U02UT1YMCDQ",
-          "U02V5LRSE2V",
-          "U02ULBHV58W"
-        ]
-      },
-      {
-        "name": "grin",
-        "count": 3,
-        "users": [
-          "U01QV1PBKUZ",
-          "U02UVAT3BPW",
-          "U02V5LU4ED7"
-        ]
-      },
-      {
-        "name": "party_blob-2",
-        "count": 4,
-        "users": [
-          "U02UQ4BRJE9",
-          "U02UVAT3BPW",
-          "U02ULBGNF7G",
-          "U02V5LU4ED7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "S4L8o",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 단체복 수령 공지]\n\n:: 재학생 단체복 배부\n- 일시: 2월 23일 목요일 오후 2시 - 4시\n- 장소: GSDS 건물(942동) "
-              },
-              {
-                "type": "text",
-                "text": "409호 앞",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "  "
-              },
-              {
-                "type": "text",
-                "text": "405호 앞",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n:: 최종 단체복 배부\n- 일시: 3월 2일 목요일 오후 4시 - 5시\n- 장소: 위와 동일\n\n------\n안녕하세요 여러분! 학생 부대표 권유진입니다.\n\nGSDS 단체복이 나왔습니다! "
-              },
-              {
-                "type": "emoji",
-                "name": "blob_cheer",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n단체복 수령은 위에 공지된 정해진 기간에 이뤄질 예정이오니 해당 시간에 409호로 방문해주시기 바랍니다. (사이즈는 선착순 입니다.)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
-      "first_name": "3기_권유진",
-      "real_name": "3기_권유진",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "ideastraw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U02UQ4BRJE9",
-      "U02V5LS84JV"
-    ]
-  },
-  {
-    "client_msg_id": "fefa6543-c00a-4655-98d7-1c7b8ea3e3f0",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": "*[GSDS 942동 301호 책상 배치 관련]*\n\n안녕하세요, 학생 대표 3기 이효진입니다.\n\n내일 오후 3시 ~ 7시 사이에 학생 연구공간 추가 조성을 위하여 3층, 4층, 301호에 새로운 책상이 들어올 예정입니다. 책상 이동과 설치 관련하여 혼잡과 설치를 위해 발생하는 소음 등에 널리 양해 부탁드립니다.\n\n특히 301호의 경우, 아래 사진과 같이 *전체적으로 책상 배치가 조정될 예정*입니다. 관련하여 기존의 책상을 조금씩 이동하거나 회전시켜야 하는 경우가 불가피하게 발생할 예정입니다. 만약 귀중품이나 이동 시에 파손 가능성이 있는 물품들은 미리 치워주시길 바라며, 만약 가능하시다면 미리 해당 배치대로 책상을 옮겨주신다면 업체에서 직접 책상을 옮기는 일이 없을 것으로 예상됩니다. 따라서 가능한 선 내에서 정리해 주시면 정말 감사하겠습니다.\n\n배려에 미리 감사드립니다. 곧 자리 배정 관련된 공지도 올리겠습니다 :) 감사합니다!",
-    "ts": "1676977125.487469",
-    "files": [
-      {
-        "id": "F04Q3QBJE1M",
-        "created": 1676975997,
-        "timestamp": 1676975997,
-        "name": "Screenshot 2023-02-21 at 5.32.35 PM.png",
-        "title": "Screenshot 2023-02-21 at 5.32.35 PM.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U02V5LS84JV",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 188390,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04Q3QBJE1M-Screenshot 2023-02-21 at 5.32.35 PM.png",
-        "url_private_download": "attachments/F04Q3QBJE1M-Screenshot 2023-02-21 at 5.32.35 PM.png",
-        "original_h": 1468,
-        "original_w": 2668,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 198,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 264,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 396,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 528,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 563,
-        "permalink": "https://snugsds.slack.com/files/U02V5LS84JV/F04Q3QBJE1M/screenshot_2023-02-21_at_5.32.35_pm.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04Q3QBJE1M-939113810c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "heavy_check_mark",
-        "count": 5,
-        "users": [
-          "U02V5LTPGRX",
-          "U0302PLQ34Y",
-          "U02UT1XABT4",
-          "U0302PHUHME",
-          "U040MB432JW"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 8,
-        "users": [
-          "U02UVAT3BPW",
-          "U02UT1XABT4",
-          "U0302PHUHME",
-          "U02UCD2C9V5",
-          "U02V5LT4DLZ",
-          "U02UT1YNY6N",
-          "U02ULBHV58W",
-          "U02ULBH3TEJ"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "v6S",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 942동 301호 책상 배치 관련]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요, 학생 대표 3기 이효진입니다.\n\n내일 오후 3시 ~ 7시 사이에 학생 연구공간 추가 조성을 위하여 3층, 4층, 301호에 새로운 책상이 들어올 예정입니다. 책상 이동과 설치 관련하여 혼잡과 설치를 위해 발생하는 소음 등에 널리 양해 부탁드립니다.\n\n특히 301호의 경우, 아래 사진과 같이 "
-              },
-              {
-                "type": "text",
-                "text": "전체적으로 책상 배치가 조정될 예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "입니다. 관련하여 기존의 책상을 조금씩 이동하거나 회전시켜야 하는 경우가 불가피하게 발생할 예정입니다. 만약 귀중품이나 이동 시에 파손 가능성이 있는 물품들은 미리 치워주시길 바라며, 만약 가능하시다면 미리 해당 배치대로 책상을 옮겨주신다면 업체에서 직접 책상을 옮기는 일이 없을 것으로 예상됩니다. 따라서 가능한 선 내에서 정리해 주시면 정말 감사하겠습니다.\n\n배려에 미리 감사드립니다. 곧 자리 배정 관련된 공지도 올리겠습니다 :) 감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "335823b2-c32e-4486-af78-40a0542adcb9",
+			"type": "message",
+			"user": "U02ULBH3TEJ",
+			"text": "[GSDS 단체복 수령 공지]\n\n:: 재학생 단체복 배부\n- 일시: 2월 23일 목요일 오후 2시 - 4시\n- 장소: GSDS 건물(942동) ~409호 앞~  *405호 앞*\n:: 최종 단체복 배부\n- 일시: 3월 2일 목요일 오후 4시 - 5시\n- 장소: 위와 동일\n\n------\n안녕하세요 여러분! 학생 부대표 권유진입니다.\n\nGSDS 단체복이 나왔습니다! :blob_cheer:\n\n단체복 수령은 위에 공지된 정해진 기간에 이뤄질 예정이오니 해당 시간에 409호로 방문해주시기 바랍니다. (사이즈는 선착순 입니다.)",
+			"ts": "1676961771.608829",
+			"thread_ts": "1676961771.608829",
+			"edited": {
+				"user": "U02ULBH3TEJ",
+				"ts": "1677742651.000000"
+			},
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U02V5LS84JV",
+					"ts": "1677059419.897729"
+				},
+				{
+					"user": "U02UQ4BRJE9",
+					"ts": "1677068459.136809"
+				}
+			],
+			"latest_reply": "1677068459.136809",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heavy_check_mark",
+					"count": 16,
+					"users": [
+						"U02V5LTPGRX",
+						"U041B24HMFS",
+						"U02UVAT3BPW",
+						"U02UT1XABT4",
+						"U02V5LT4DLZ",
+						"U02UT1XUGFL",
+						"U02UT2UKVEX",
+						"U02V5LU4ED7",
+						"U0302PLQ34Y",
+						"U02V5LS84JV",
+						"U02UCD2C9V5",
+						"U01QA82PZFU",
+						"U02V5LTUGGH",
+						"U02UT1YMCDQ",
+						"U02V5LRSE2V",
+						"U02ULBHV58W"
+					]
+				},
+				{
+					"name": "grin",
+					"count": 3,
+					"users": [
+						"U01QV1PBKUZ",
+						"U02UVAT3BPW",
+						"U02V5LU4ED7"
+					]
+				},
+				{
+					"name": "party_blob-2",
+					"count": 4,
+					"users": [
+						"U02UQ4BRJE9",
+						"U02UVAT3BPW",
+						"U02ULBGNF7G",
+						"U02V5LU4ED7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "S4L8o",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 단체복 수령 공지]\n\n:: 재학생 단체복 배부\n- 일시: 2월 23일 목요일 오후 2시 - 4시\n- 장소: GSDS 건물(942동) "
+								},
+								{
+									"type": "text",
+									"text": "409호 앞",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "  "
+								},
+								{
+									"type": "text",
+									"text": "405호 앞",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n:: 최종 단체복 배부\n- 일시: 3월 2일 목요일 오후 4시 - 5시\n- 장소: 위와 동일\n\n------\n안녕하세요 여러분! 학생 부대표 권유진입니다.\n\nGSDS 단체복이 나왔습니다! "
+								},
+								{
+									"type": "emoji",
+									"name": "blob_cheer",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n단체복 수령은 위에 공지된 정해진 기간에 이뤄질 예정이오니 해당 시간에 409호로 방문해주시기 바랍니다. (사이즈는 선착순 입니다.)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+				"first_name": "3기_권유진",
+				"real_name": "3기_권유진",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "ideastraw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U02UQ4BRJE9",
+				"U02V5LS84JV"
+			]
+		},
+		{
+			"client_msg_id": "fefa6543-c00a-4655-98d7-1c7b8ea3e3f0",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": "*[GSDS 942동 301호 책상 배치 관련]*\n\n안녕하세요, 학생 대표 3기 이효진입니다.\n\n내일 오후 3시 ~ 7시 사이에 학생 연구공간 추가 조성을 위하여 3층, 4층, 301호에 새로운 책상이 들어올 예정입니다. 책상 이동과 설치 관련하여 혼잡과 설치를 위해 발생하는 소음 등에 널리 양해 부탁드립니다.\n\n특히 301호의 경우, 아래 사진과 같이 *전체적으로 책상 배치가 조정될 예정*입니다. 관련하여 기존의 책상을 조금씩 이동하거나 회전시켜야 하는 경우가 불가피하게 발생할 예정입니다. 만약 귀중품이나 이동 시에 파손 가능성이 있는 물품들은 미리 치워주시길 바라며, 만약 가능하시다면 미리 해당 배치대로 책상을 옮겨주신다면 업체에서 직접 책상을 옮기는 일이 없을 것으로 예상됩니다. 따라서 가능한 선 내에서 정리해 주시면 정말 감사하겠습니다.\n\n배려에 미리 감사드립니다. 곧 자리 배정 관련된 공지도 올리겠습니다 :) 감사합니다!",
+			"ts": "1676977125.487469",
+			"files": [
+				{
+					"id": "F04Q3QBJE1M",
+					"created": 1676975997,
+					"timestamp": 1676975997,
+					"name": "Screenshot 2023-02-21 at 5.32.35 PM.png",
+					"title": "Screenshot 2023-02-21 at 5.32.35 PM.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U02V5LS84JV",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 188390,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04Q3QBJE1M-Screenshot 2023-02-21 at 5.32.35 PM.png",
+					"url_private_download": "attachments/F04Q3QBJE1M-Screenshot 2023-02-21 at 5.32.35 PM.png",
+					"original_h": 1468,
+					"original_w": 2668,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 198,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 264,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 396,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 528,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04Q3QBJE1M-9153fb4b71/screenshot_2023-02-21_at_5.32.35_pm_1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 563,
+					"permalink": "https://snugsds.slack.com/files/U02V5LS84JV/F04Q3QBJE1M/screenshot_2023-02-21_at_5.32.35_pm.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04Q3QBJE1M-939113810c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "heavy_check_mark",
+					"count": 5,
+					"users": [
+						"U02V5LTPGRX",
+						"U0302PLQ34Y",
+						"U02UT1XABT4",
+						"U0302PHUHME",
+						"U040MB432JW"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 8,
+					"users": [
+						"U02UVAT3BPW",
+						"U02UT1XABT4",
+						"U0302PHUHME",
+						"U02UCD2C9V5",
+						"U02V5LT4DLZ",
+						"U02UT1YNY6N",
+						"U02ULBHV58W",
+						"U02ULBH3TEJ"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "v6S",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 942동 301호 책상 배치 관련]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요, 학생 대표 3기 이효진입니다.\n\n내일 오후 3시 ~ 7시 사이에 학생 연구공간 추가 조성을 위하여 3층, 4층, 301호에 새로운 책상이 들어올 예정입니다. 책상 이동과 설치 관련하여 혼잡과 설치를 위해 발생하는 소음 등에 널리 양해 부탁드립니다.\n\n특히 301호의 경우, 아래 사진과 같이 "
+								},
+								{
+									"type": "text",
+									"text": "전체적으로 책상 배치가 조정될 예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "입니다. 관련하여 기존의 책상을 조금씩 이동하거나 회전시켜야 하는 경우가 불가피하게 발생할 예정입니다. 만약 귀중품이나 이동 시에 파손 가능성이 있는 물품들은 미리 치워주시길 바라며, 만약 가능하시다면 미리 해당 배치대로 책상을 옮겨주신다면 업체에서 직접 책상을 옮기는 일이 없을 것으로 예상됩니다. 따라서 가능한 선 내에서 정리해 주시면 정말 감사하겠습니다.\n\n배려에 미리 감사드립니다. 곧 자리 배정 관련된 공지도 올리겠습니다 :) 감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

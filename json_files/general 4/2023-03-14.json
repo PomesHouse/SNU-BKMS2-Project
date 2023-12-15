@@ -1,138 +1,140 @@
-[
-  {
-    "client_msg_id": "89b3f757-3ae7-409d-8570-a0369789a5da",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;비교과 정보 검색ㆍ추천 서비스 \u0026lt;스누지니\u0026gt; 오픈 안내\u0026gt;\n\n정보화본부에서 운영하는 학생 중심의 지능형 학사정보 서비스('스누지니')에 학내 비교과 프로그램 정보를 검색ㆍ추천하는 기능이 추가되어 알려드리니 이용에 참고 바랍니다.\n\n가. 주요기능\n    - (전 구성원) 교과목, 교수자, 전공, *비교과 프로그램(추가)* 검색\n    - (학생) 교과목 추천, 학업이수현황 제공, 학생설계전공 교과과정 설계·신청, 학습케어 대상자 알림,\n          *비교과 프로그램 추천 및 신청기간 전 알림(추가)*\n  나. 접속 URL: \u003chttp://snugenie.snu.ac.kr|snugenie.snu.ac.kr\u003e",
-    "ts": "1678777633.390309",
-    "files": [
-      {
-        "id": "F04TLN9PPN2",
-        "created": 1678777630,
-        "timestamp": 1678777630,
-        "name": "[붙임1] 스누지니 서비스 매뉴얼.pdf",
-        "title": "[붙임1] 스누지니 서비스 매뉴얼.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1951377,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04TLN9PPN2-[붙임1] 스누지니 서비스 매뉴얼.pdf",
-        "url_private_download": "attachments/F04TLN9PPN2-[붙임1] 스누지니 서비스 매뉴얼.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04TLN9PPN2/_______1__________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04TLN9PPN2-44d7573bb9",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Dm1",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c비교과 정보 검색ㆍ추천 서비스 \u003c스누지니\u003e 오픈 안내\u003e\n\n정보화본부에서 운영하는 학생 중심의 지능형 학사정보 서비스('스누지니')에 학내 비교과 프로그램 정보를 검색ㆍ추천하는 기능이 추가되어 알려드리니 이용에 참고 바랍니다.\n\n가. 주요기능\n    - (전 구성원) 교과목, 교수자, 전공, "
-              },
-              {
-                "type": "text",
-                "text": "비교과 프로그램(추가)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 검색\n    - (학생) 교과목 추천, 학업이수현황 제공, 학생설계전공 교과과정 설계·신청, 학습케어 대상자 알림,\n          "
-              },
-              {
-                "type": "text",
-                "text": "비교과 프로그램 추천 및 신청기간 전 알림(추가)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  나. 접속 URL: "
-              },
-              {
-                "type": "link",
-                "url": "http://snugenie.snu.ac.kr",
-                "text": "snugenie.snu.ac.kr"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "89b3f757-3ae7-409d-8570-a0369789a5da",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;비교과 정보 검색ㆍ추천 서비스 &lt;스누지니&gt; 오픈 안내&gt;\n\n정보화본부에서 운영하는 학생 중심의 지능형 학사정보 서비스('스누지니')에 학내 비교과 프로그램 정보를 검색ㆍ추천하는 기능이 추가되어 알려드리니 이용에 참고 바랍니다.\n\n가. 주요기능\n    - (전 구성원) 교과목, 교수자, 전공, *비교과 프로그램(추가)* 검색\n    - (학생) 교과목 추천, 학업이수현황 제공, 학생설계전공 교과과정 설계·신청, 학습케어 대상자 알림,\n          *비교과 프로그램 추천 및 신청기간 전 알림(추가)*\n  나. 접속 URL: <http://snugenie.snu.ac.kr|snugenie.snu.ac.kr>",
+			"ts": "1678777633.390309",
+			"files": [
+				{
+					"id": "F04TLN9PPN2",
+					"created": 1678777630,
+					"timestamp": 1678777630,
+					"name": "[붙임1] 스누지니 서비스 매뉴얼.pdf",
+					"title": "[붙임1] 스누지니 서비스 매뉴얼.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1951377,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04TLN9PPN2-[붙임1] 스누지니 서비스 매뉴얼.pdf",
+					"url_private_download": "attachments/F04TLN9PPN2-[붙임1] 스누지니 서비스 매뉴얼.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04TLN9PPN2/_______1__________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04TLN9PPN2-44d7573bb9",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Dm1",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<비교과 정보 검색ㆍ추천 서비스 <스누지니> 오픈 안내>\n\n정보화본부에서 운영하는 학생 중심의 지능형 학사정보 서비스('스누지니')에 학내 비교과 프로그램 정보를 검색ㆍ추천하는 기능이 추가되어 알려드리니 이용에 참고 바랍니다.\n\n가. 주요기능\n    - (전 구성원) 교과목, 교수자, 전공, "
+								},
+								{
+									"type": "text",
+									"text": "비교과 프로그램(추가)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 검색\n    - (학생) 교과목 추천, 학업이수현황 제공, 학생설계전공 교과과정 설계·신청, 학습케어 대상자 알림,\n          "
+								},
+								{
+									"type": "text",
+									"text": "비교과 프로그램 추천 및 신청기간 전 알림(추가)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  나. 접속 URL: "
+								},
+								{
+									"type": "link",
+									"url": "http://snugenie.snu.ac.kr",
+									"text": "snugenie.snu.ac.kr"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

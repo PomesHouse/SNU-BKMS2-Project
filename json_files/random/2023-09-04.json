@@ -1,187 +1,189 @@
-[
-  {
-    "client_msg_id": "1fb61574-7372-4fc3-913b-035392857636",
-    "type": "message",
-    "user": "U02UT1XUGFL",
-    "text": "\u003c@U01QNJ7PWRX\u003e 안녕하세요 43-2동 출입시에 학생증을 찍으면 열릴 때 알림 소리가 크게 나는데요, 혹시 소리의 음량을 줄이거나 없앨 수 있을까요? 출입할 때마다 학우들에게 방해가 될까 걱정됩니다.",
-    "ts": "1693808026.021129",
-    "thread_ts": "1693808026.021129",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QV1SQJ57",
-        "ts": "1693808178.829439"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1694738072.528499"
-      }
-    ],
-    "latest_reply": "1694738072.528499",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "cry",
-        "count": 3,
-        "users": [
-          "U01QV1SQJ57",
-          "U02V5LTRU2V",
-          "U02BD3EV4DQ"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "tkB",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "user",
-                "user_id": "U01QNJ7PWRX"
-              },
-              {
-                "type": "text",
-                "text": " 안녕하세요 43-2동 출입시에 학생증을 찍으면 열릴 때 알림 소리가 크게 나는데요, 혹시 소리의 음량을 줄이거나 없앨 수 있을까요? 출입할 때마다 학우들에게 방해가 될까 걱정됩니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a2dd1abfbec20efd22e870a1fb92a3b8.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
-      "first_name": "3기_김소정_94",
-      "real_name": "3기_김소정_94",
-      "display_name": "3기_김소정_94",
-      "team": "T01QA5S537V",
-      "name": "melissasj",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01QNJ7PWRX",
-      "U01QV1SQJ57"
-    ]
-  },
-  {
-    "client_msg_id": "968dec37-573a-4d1a-b2b2-7f16c61636a1",
-    "type": "message",
-    "user": "U01QV1SQJ57",
-    "text": "평일에는 942처럼 상시 개방 될까요? 오후 7시 이후부터만 카드 찍고 들어갈수 있도록하면 좋을거같습니다.",
-    "ts": "1693808178.829439",
-    "thread_ts": "1693808026.021129",
-    "parent_user_id": "U02UT1XUGFL",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 4,
-        "users": [
-          "U01QNSM488Z",
-          "U02UT1XUGFL",
-          "U02BD3EV4DQ",
-          "U02UVAS5T44"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "DbDaA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "평일에는 942처럼 상시 개방 될까요? 오후 7시 이후부터만 카드 찍고 들어갈수 있도록하면 좋을거같습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
-      "first_name": "김병찬",
-      "real_name": "김병찬",
-      "display_name": "4기_김병찬",
-      "team": "T01QA5S537V",
-      "name": "bckim97",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "1bafefef-83f7-4e20-ab2f-5b9a305c7182",
-    "type": "message",
-    "user": "U040JBW6THT",
-    "text": "교체 완료 되었습니당",
-    "ts": "1693815876.165169",
-    "thread_ts": "1693734709.361859",
-    "parent_user_id": "U040JBW6THT",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "c5u=D",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "교체 완료 되었습니당"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/fcee63d923d42aa67a37d02f82ba3a06.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "김병우",
-      "real_name": "김병우",
-      "display_name": "3.5기_김병우",
-      "team": "T01QA5S537V",
-      "name": "byungwoo.kim",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "1fb61574-7372-4fc3-913b-035392857636",
+			"type": "message",
+			"user": "U02UT1XUGFL",
+			"text": "<@U01QNJ7PWRX> 안녕하세요 43-2동 출입시에 학생증을 찍으면 열릴 때 알림 소리가 크게 나는데요, 혹시 소리의 음량을 줄이거나 없앨 수 있을까요? 출입할 때마다 학우들에게 방해가 될까 걱정됩니다.",
+			"ts": "1693808026.021129",
+			"thread_ts": "1693808026.021129",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QV1SQJ57",
+					"ts": "1693808178.829439"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1694738072.528499"
+				}
+			],
+			"latest_reply": "1694738072.528499",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "cry",
+					"count": 3,
+					"users": [
+						"U01QV1SQJ57",
+						"U02V5LTRU2V",
+						"U02BD3EV4DQ"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "tkB",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "user",
+									"user_id": "U01QNJ7PWRX"
+								},
+								{
+									"type": "text",
+									"text": " 안녕하세요 43-2동 출입시에 학생증을 찍으면 열릴 때 알림 소리가 크게 나는데요, 혹시 소리의 음량을 줄이거나 없앨 수 있을까요? 출입할 때마다 학우들에게 방해가 될까 걱정됩니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a2dd1abfbec20efd22e870a1fb92a3b8.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-72.png",
+				"first_name": "3기_김소정_94",
+				"real_name": "3기_김소정_94",
+				"display_name": "3기_김소정_94",
+				"team": "T01QA5S537V",
+				"name": "melissasj",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01QNJ7PWRX",
+				"U01QV1SQJ57"
+			]
+		},
+		{
+			"client_msg_id": "968dec37-573a-4d1a-b2b2-7f16c61636a1",
+			"type": "message",
+			"user": "U01QV1SQJ57",
+			"text": "평일에는 942처럼 상시 개방 될까요? 오후 7시 이후부터만 카드 찍고 들어갈수 있도록하면 좋을거같습니다.",
+			"ts": "1693808178.829439",
+			"thread_ts": "1693808026.021129",
+			"parent_user_id": "U02UT1XUGFL",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 4,
+					"users": [
+						"U01QNSM488Z",
+						"U02UT1XUGFL",
+						"U02BD3EV4DQ",
+						"U02UVAS5T44"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "DbDaA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "평일에는 942처럼 상시 개방 될까요? 오후 7시 이후부터만 카드 찍고 들어갈수 있도록하면 좋을거같습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+				"first_name": "김병찬",
+				"real_name": "김병찬",
+				"display_name": "4기_김병찬",
+				"team": "T01QA5S537V",
+				"name": "bckim97",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "1bafefef-83f7-4e20-ab2f-5b9a305c7182",
+			"type": "message",
+			"user": "U040JBW6THT",
+			"text": "교체 완료 되었습니당",
+			"ts": "1693815876.165169",
+			"thread_ts": "1693734709.361859",
+			"parent_user_id": "U040JBW6THT",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "c5u=D",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "교체 완료 되었습니당"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/fcee63d923d42aa67a37d02f82ba3a06.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "김병우",
+				"real_name": "김병우",
+				"display_name": "3.5기_김병우",
+				"team": "T01QA5S537V",
+				"name": "byungwoo.kim",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

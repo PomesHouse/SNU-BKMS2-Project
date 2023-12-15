@@ -1,105 +1,107 @@
-[
-  {
-    "client_msg_id": "6bbea8c3-868c-4f8c-8a11-3625390596b2",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e 필독!!! 중요!!!\n\u0026lt;소독 및 신입생 면접 관련 책상 물품 정리 안내\u0026gt;\n\n*2022학년도 신입생 구술 및 면접 고사가 12월 20일 (다음주 월요일 11:30~19:00) 예정*되어있습니다.\n\n관련하여 전면 통제가 있을 예정이며 수험생 대기실로 학생 연구공간이 사용될 예정입니다.\n\n관련하여 12월 20일 새벽과 12월 21일 오후에 전체적인 방역 작업이 예정되어있습니다.\n\n*소독제가 전체적으로 살포될 예정인 관계로 개인 물품을 모두 정리*하여 주시기 바랍니다.\n(알콜 성분으로 종이가 젖을 수 있습니다. 연구용 장비에도 피해가 없도록 정리 부탁 드립니다 !)\n\n*정리 시 사용할 수 있는 상자는 각 출입구에 15일 (수요일) 15시 이후 배치*해 놓을 예정이오니 상자를 이용하시어 물품을 정리하시기 바랍니다. 되도록 사물함을 이용해 주시고 필요하신 경우 상자를 사용해 주시면 됩니다.\n(개인 사물함이 부족한 경우 바닥 쪽 사물함은 아직 미사용 상태이니 추가 이용 가능 합니다.)\n\n*※※※※※ 정리하지 않은 물품이 분실되거나 소독으로 인해 손상되지 않도록 꼭 협조하여 주시기 바랍니다!* :pray: ※※※※※※",
-    "ts": "1639543816.130000",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1639553658.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Aal",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " 필독!!! 중요!!!\n\u003c소독 및 신입생 면접 관련 책상 물품 정리 안내\u003e\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2022학년도 신입생 구술 및 면접 고사가 12월 20일 (다음주 월요일 11:30~19:00) 예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "되어있습니다.\n\n관련하여 전면 통제가 있을 예정이며 수험생 대기실로 학생 연구공간이 사용될 예정입니다.\n\n관련하여 12월 20일 새벽과 12월 21일 오후에 전체적인 방역 작업이 예정되어있습니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "소독제가 전체적으로 살포될 예정인 관계로 개인 물품을 모두 정리",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하여 주시기 바랍니다.\n(알콜 성분으로 종이가 젖을 수 있습니다. 연구용 장비에도 피해가 없도록 정리 부탁 드립니다 !)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "정리 시 사용할 수 있는 상자는 각 출입구에 15일 (수요일) 15시 이후 배치",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "해 놓을 예정이오니 상자를 이용하시어 물품을 정리하시기 바랍니다. 되도록 사물함을 이용해 주시고 필요하신 경우 상자를 사용해 주시면 됩니다.\n(개인 사물함이 부족한 경우 바닥 쪽 사물함은 아직 미사용 상태이니 추가 이용 가능 합니다.)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "※※※※※ 정리하지 않은 물품이 분실되거나 소독으로 인해 손상되지 않도록 꼭 협조하여 주시기 바랍니다! ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " ※※※※※※"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "6bbea8c3-868c-4f8c-8a11-3625390596b2",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> 필독!!! 중요!!!\n&lt;소독 및 신입생 면접 관련 책상 물품 정리 안내&gt;\n\n*2022학년도 신입생 구술 및 면접 고사가 12월 20일 (다음주 월요일 11:30~19:00) 예정*되어있습니다.\n\n관련하여 전면 통제가 있을 예정이며 수험생 대기실로 학생 연구공간이 사용될 예정입니다.\n\n관련하여 12월 20일 새벽과 12월 21일 오후에 전체적인 방역 작업이 예정되어있습니다.\n\n*소독제가 전체적으로 살포될 예정인 관계로 개인 물품을 모두 정리*하여 주시기 바랍니다.\n(알콜 성분으로 종이가 젖을 수 있습니다. 연구용 장비에도 피해가 없도록 정리 부탁 드립니다 !)\n\n*정리 시 사용할 수 있는 상자는 각 출입구에 15일 (수요일) 15시 이후 배치*해 놓을 예정이오니 상자를 이용하시어 물품을 정리하시기 바랍니다. 되도록 사물함을 이용해 주시고 필요하신 경우 상자를 사용해 주시면 됩니다.\n(개인 사물함이 부족한 경우 바닥 쪽 사물함은 아직 미사용 상태이니 추가 이용 가능 합니다.)\n\n*※※※※※ 정리하지 않은 물품이 분실되거나 소독으로 인해 손상되지 않도록 꼭 협조하여 주시기 바랍니다!* :pray: ※※※※※※",
+			"ts": "1639543816.130000",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1639553658.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Aal",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " 필독!!! 중요!!!\n<소독 및 신입생 면접 관련 책상 물품 정리 안내>\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2022학년도 신입생 구술 및 면접 고사가 12월 20일 (다음주 월요일 11:30~19:00) 예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "되어있습니다.\n\n관련하여 전면 통제가 있을 예정이며 수험생 대기실로 학생 연구공간이 사용될 예정입니다.\n\n관련하여 12월 20일 새벽과 12월 21일 오후에 전체적인 방역 작업이 예정되어있습니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "소독제가 전체적으로 살포될 예정인 관계로 개인 물품을 모두 정리",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하여 주시기 바랍니다.\n(알콜 성분으로 종이가 젖을 수 있습니다. 연구용 장비에도 피해가 없도록 정리 부탁 드립니다 !)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "정리 시 사용할 수 있는 상자는 각 출입구에 15일 (수요일) 15시 이후 배치",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "해 놓을 예정이오니 상자를 이용하시어 물품을 정리하시기 바랍니다. 되도록 사물함을 이용해 주시고 필요하신 경우 상자를 사용해 주시면 됩니다.\n(개인 사물함이 부족한 경우 바닥 쪽 사물함은 아직 미사용 상태이니 추가 이용 가능 합니다.)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "※※※※※ 정리하지 않은 물품이 분실되거나 소독으로 인해 손상되지 않도록 꼭 협조하여 주시기 바랍니다! ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " ※※※※※※"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

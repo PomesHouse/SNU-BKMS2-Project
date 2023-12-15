@@ -1,168 +1,170 @@
-[
-  {
-    "client_msg_id": "8fbcd0b5-8ba3-4619-bede-ded45fa22e31",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;개인형 이동장치 이용자 증가에 따른 협조 요청\u0026gt;\n1. 관련: 「도로교통법」, 「서울대학교 개인형 이동장치 안전관리 운영세칙」\n2. 대면수업 활성화에 따라 공유형 개인형 이동장치(전동킥보드 등)의 학내 이용·반납량이 급증하였으며, 각종 홍보 및 계도에도 불구하고 안전모 착용을 비롯한 기본적 안전수칙을 지키지 않는 이용자도 함께\n    늘어나고 있는 실정입니다.\n3. 이에 학내 규정과 그 주요내용을 다음과 같이 안내하오니 각 기관에서는 이용자와 보행자 모두의 안전 제고에 적극 협조하여 주시기 바랍니다.\n\n  *□ 개인형 이동장치 이용자 준수사항*\n   - 원동기장치자전거 면허 이상 보유\n   - 안전모 착용 필수\n   - 음주운전 금지\n   - 2인 이상 동승 금지\n   - 차도 주행(인도 주행 불가)\n\n붙임 「서울대학교 개인형 이동장치 안전관리 운영세칙」",
-    "ts": "1654733578.536529",
-    "files": [
-      {
-        "id": "F03KKUH61K2",
-        "created": 1654733573,
-        "timestamp": 1654733573,
-        "name": "서울대학교 개인형 이동장치 안전관리 운영세칙 전문.pdf",
-        "title": "서울대학교 개인형 이동장치 안전관리 운영세칙 전문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 94859,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03KKUH61K2-서울대학교 개인형 이동장치 안전관리 운영세칙 전문.pdf",
-        "url_private_download": "attachments/F03KKUH61K2-서울대학교 개인형 이동장치 안전관리 운영세칙 전문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03KKUH61K2/_______________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03KKUH61K2-5ed1904a24",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "iO+6p",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c개인형 이동장치 이용자 증가에 따른 협조 요청\u003e\n1. 관련: 「도로교통법」, 「서울대학교 개인형 이동장치 안전관리 운영세칙」\n2. 대면수업 활성화에 따라 공유형 개인형 이동장치(전동킥보드 등)의 학내 이용·반납량이 급증하였으며, 각종 홍보 및 계도에도 불구하고 안전모 착용을 비롯한 기본적 안전수칙을 지키지 않는 이용자도 함께\n    늘어나고 있는 실정입니다.\n3. 이에 학내 규정과 그 주요내용을 다음과 같이 안내하오니 각 기관에서는 이용자와 보행자 모두의 안전 제고에 적극 협조하여 주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "  □ 개인형 이동장치 이용자 준수사항",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   - 원동기장치자전거 면허 이상 보유\n   - 안전모 착용 필수\n   - 음주운전 금지\n   - 2인 이상 동승 금지\n   - 차도 주행(인도 주행 불가)\n\n붙임 「서울대학교 개인형 이동장치 안전관리 운영세칙」"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "140d41ae-3bbe-4056-b56b-a1f7aaa89c38",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;관악캠퍼스 소방차 진입 합동훈련 실시 안내\u0026gt;\n관악캠퍼스 내 화재 등의 긴급상황에 대비하여 관악소방서와 소방차 진입 합동훈련을 아래와 같이 실시하고자 합니다.\n1. 훈련일자: 매월 둘째주 금요일(2022년 6월: 2022. 6. 10.(금) 10:00)\n   ※ 관악소방서 일정에 따라 변경 가능\n2. 훈련장소: 정문-순환도로-나들문 4번 게이트-28동-공대간이식당-22동 및 56동 부근\n3. 훈련내용: 소방차 진입 훈련\n4. 훈련차량: 관악소방서 및 캠퍼스안전반 차량\n5. 문의사항\n   가. 관악소방서 현장대응단: 02-883-8119\n   나. 캠퍼스관리과: 02-880-5131\n   다. 캠퍼스안전반: 02-880-8112, 8119.",
-    "ts": "1654734375.209709",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "K9Nmf",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c관악캠퍼스 소방차 진입 합동훈련 실시 안내\u003e\n관악캠퍼스 내 화재 등의 긴급상황에 대비하여 관악소방서와 소방차 진입 합동훈련을 아래와 같이 실시하고자 합니다.\n1. 훈련일자: 매월 둘째주 금요일(2022년 6월: 2022. 6. 10.(금) 10:00)\n   ※ 관악소방서 일정에 따라 변경 가능\n2. 훈련장소: 정문-순환도로-나들문 4번 게이트-28동-공대간이식당-22동 및 56동 부근\n3. 훈련내용: 소방차 진입 훈련\n4. 훈련차량: 관악소방서 및 캠퍼스안전반 차량\n5. 문의사항\n   가. 관악소방서 현장대응단: 02-883-8119\n   나. 캠퍼스관리과: 02-880-5131\n   다. 캠퍼스안전반: 02-880-8112, 8119."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8fbcd0b5-8ba3-4619-bede-ded45fa22e31",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;개인형 이동장치 이용자 증가에 따른 협조 요청&gt;\n1. 관련: 「도로교통법」, 「서울대학교 개인형 이동장치 안전관리 운영세칙」\n2. 대면수업 활성화에 따라 공유형 개인형 이동장치(전동킥보드 등)의 학내 이용·반납량이 급증하였으며, 각종 홍보 및 계도에도 불구하고 안전모 착용을 비롯한 기본적 안전수칙을 지키지 않는 이용자도 함께\n    늘어나고 있는 실정입니다.\n3. 이에 학내 규정과 그 주요내용을 다음과 같이 안내하오니 각 기관에서는 이용자와 보행자 모두의 안전 제고에 적극 협조하여 주시기 바랍니다.\n\n  *□ 개인형 이동장치 이용자 준수사항*\n   - 원동기장치자전거 면허 이상 보유\n   - 안전모 착용 필수\n   - 음주운전 금지\n   - 2인 이상 동승 금지\n   - 차도 주행(인도 주행 불가)\n\n붙임 「서울대학교 개인형 이동장치 안전관리 운영세칙」",
+			"ts": "1654733578.536529",
+			"files": [
+				{
+					"id": "F03KKUH61K2",
+					"created": 1654733573,
+					"timestamp": 1654733573,
+					"name": "서울대학교 개인형 이동장치 안전관리 운영세칙 전문.pdf",
+					"title": "서울대학교 개인형 이동장치 안전관리 운영세칙 전문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 94859,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03KKUH61K2-서울대학교 개인형 이동장치 안전관리 운영세칙 전문.pdf",
+					"url_private_download": "attachments/F03KKUH61K2-서울대학교 개인형 이동장치 안전관리 운영세칙 전문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03KKUH61K2/_______________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03KKUH61K2-5ed1904a24",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "iO+6p",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<개인형 이동장치 이용자 증가에 따른 협조 요청>\n1. 관련: 「도로교통법」, 「서울대학교 개인형 이동장치 안전관리 운영세칙」\n2. 대면수업 활성화에 따라 공유형 개인형 이동장치(전동킥보드 등)의 학내 이용·반납량이 급증하였으며, 각종 홍보 및 계도에도 불구하고 안전모 착용을 비롯한 기본적 안전수칙을 지키지 않는 이용자도 함께\n    늘어나고 있는 실정입니다.\n3. 이에 학내 규정과 그 주요내용을 다음과 같이 안내하오니 각 기관에서는 이용자와 보행자 모두의 안전 제고에 적극 협조하여 주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "  □ 개인형 이동장치 이용자 준수사항",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   - 원동기장치자전거 면허 이상 보유\n   - 안전모 착용 필수\n   - 음주운전 금지\n   - 2인 이상 동승 금지\n   - 차도 주행(인도 주행 불가)\n\n붙임 「서울대학교 개인형 이동장치 안전관리 운영세칙」"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "140d41ae-3bbe-4056-b56b-a1f7aaa89c38",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;관악캠퍼스 소방차 진입 합동훈련 실시 안내&gt;\n관악캠퍼스 내 화재 등의 긴급상황에 대비하여 관악소방서와 소방차 진입 합동훈련을 아래와 같이 실시하고자 합니다.\n1. 훈련일자: 매월 둘째주 금요일(2022년 6월: 2022. 6. 10.(금) 10:00)\n   ※ 관악소방서 일정에 따라 변경 가능\n2. 훈련장소: 정문-순환도로-나들문 4번 게이트-28동-공대간이식당-22동 및 56동 부근\n3. 훈련내용: 소방차 진입 훈련\n4. 훈련차량: 관악소방서 및 캠퍼스안전반 차량\n5. 문의사항\n   가. 관악소방서 현장대응단: 02-883-8119\n   나. 캠퍼스관리과: 02-880-5131\n   다. 캠퍼스안전반: 02-880-8112, 8119.",
+			"ts": "1654734375.209709",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "K9Nmf",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<관악캠퍼스 소방차 진입 합동훈련 실시 안내>\n관악캠퍼스 내 화재 등의 긴급상황에 대비하여 관악소방서와 소방차 진입 합동훈련을 아래와 같이 실시하고자 합니다.\n1. 훈련일자: 매월 둘째주 금요일(2022년 6월: 2022. 6. 10.(금) 10:00)\n   ※ 관악소방서 일정에 따라 변경 가능\n2. 훈련장소: 정문-순환도로-나들문 4번 게이트-28동-공대간이식당-22동 및 56동 부근\n3. 훈련내용: 소방차 진입 훈련\n4. 훈련차량: 관악소방서 및 캠퍼스안전반 차량\n5. 문의사항\n   가. 관악소방서 현장대응단: 02-883-8119\n   나. 캠퍼스관리과: 02-880-5131\n   다. 캠퍼스안전반: 02-880-8112, 8119."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,136 +1,138 @@
-[
-  {
-    "client_msg_id": "e22d3722-0755-495c-9f81-dc6425deb0be",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내* \n\n2022학년도 하계 계절학기 및 방학 셔틀버스 운행을 아래와 같이 안내하오니 셔틀버스 이용에 참고하시기 바랍니다.\n\n1. 운행기간(주말 및 공휴일 미운행)\n  가. 하계 계절학기: 2022. 6. 22.(수) ~ 2022. 8. 2.(화)\n  나. 하계 방학: 2022. 8. 3.(수) ~ 2022. 8. 31.(수)\n    *※ 공휴일: 광복절(8.15.(월))*\n\n2. 운행정보\n  가. 운행노선: 통학셔틀, 교내셔틀, 야간 도서관셔틀, 교직원 출·퇴근\n    1) 서울대입구역→제2공학관, 낙성대→제1공학관, 심야셔틀 미운행\n  나. 운행시간: 첨부파일 참고\n     *※ 배차시간은 교통상황에 따라 다소 변경될 수 있음*",
-    "ts": "1655251425.605379",
-    "files": [
-      {
-        "id": "F03KP66JND8",
-        "created": 1655251419,
-        "timestamp": 1655251419,
-        "name": "2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내.hwp",
-        "title": "2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 23552,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03KP66JND8-2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내.hwp",
-        "url_private_download": "attachments/F03KP66JND8-2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03KP66JND8/2022___________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03KP66JND8-5e8f75b604",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "F8I",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2022학년도 하계 계절학기 및 방학 셔틀버스 운행을 아래와 같이 안내하오니 셔틀버스 이용에 참고하시기 바랍니다.\n\n1. 운행기간(주말 및 공휴일 미운행)\n  가. 하계 계절학기: 2022. 6. 22.(수) ~ 2022. 8. 2.(화)\n  나. 하계 방학: 2022. 8. 3.(수) ~ 2022. 8. 31.(수)\n"
-              },
-              {
-                "type": "text",
-                "text": "    ※ 공휴일: 광복절(8.15.(월))",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2. 운행정보\n  가. 운행노선: 통학셔틀, 교내셔틀, 야간 도서관셔틀, 교직원 출·퇴근\n    1) 서울대입구역→제2공학관, 낙성대→제1공학관, 심야셔틀 미운행\n  나. 운행시간: 첨부파일 참고\n     "
-              },
-              {
-                "type": "text",
-                "text": "※ 배차시간은 교통상황에 따라 다소 변경될 수 있음",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "e22d3722-0755-495c-9f81-dc6425deb0be",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내* \n\n2022학년도 하계 계절학기 및 방학 셔틀버스 운행을 아래와 같이 안내하오니 셔틀버스 이용에 참고하시기 바랍니다.\n\n1. 운행기간(주말 및 공휴일 미운행)\n  가. 하계 계절학기: 2022. 6. 22.(수) ~ 2022. 8. 2.(화)\n  나. 하계 방학: 2022. 8. 3.(수) ~ 2022. 8. 31.(수)\n    *※ 공휴일: 광복절(8.15.(월))*\n\n2. 운행정보\n  가. 운행노선: 통학셔틀, 교내셔틀, 야간 도서관셔틀, 교직원 출·퇴근\n    1) 서울대입구역→제2공학관, 낙성대→제1공학관, 심야셔틀 미운행\n  나. 운행시간: 첨부파일 참고\n     *※ 배차시간은 교통상황에 따라 다소 변경될 수 있음*",
+			"ts": "1655251425.605379",
+			"files": [
+				{
+					"id": "F03KP66JND8",
+					"created": 1655251419,
+					"timestamp": 1655251419,
+					"name": "2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내.hwp",
+					"title": "2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 23552,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03KP66JND8-2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내.hwp",
+					"url_private_download": "attachments/F03KP66JND8-2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03KP66JND8/2022___________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03KP66JND8-5e8f75b604",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "F8I",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 하계 계절학기 및 방학 셔틀버스 운행 안내 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2022학년도 하계 계절학기 및 방학 셔틀버스 운행을 아래와 같이 안내하오니 셔틀버스 이용에 참고하시기 바랍니다.\n\n1. 운행기간(주말 및 공휴일 미운행)\n  가. 하계 계절학기: 2022. 6. 22.(수) ~ 2022. 8. 2.(화)\n  나. 하계 방학: 2022. 8. 3.(수) ~ 2022. 8. 31.(수)\n"
+								},
+								{
+									"type": "text",
+									"text": "    ※ 공휴일: 광복절(8.15.(월))",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2. 운행정보\n  가. 운행노선: 통학셔틀, 교내셔틀, 야간 도서관셔틀, 교직원 출·퇴근\n    1) 서울대입구역→제2공학관, 낙성대→제1공학관, 심야셔틀 미운행\n  나. 운행시간: 첨부파일 참고\n     "
+								},
+								{
+									"type": "text",
+									"text": "※ 배차시간은 교통상황에 따라 다소 변경될 수 있음",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

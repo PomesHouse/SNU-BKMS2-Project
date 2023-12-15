@@ -1,534 +1,536 @@
-[
-  {
-    "client_msg_id": "be1bec15-cdbd-405c-8207-6fd42664d02b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "내발산동 공공기숙사 입주 홍보\n\n내발산동 공공기숙사는 서울시와 참여 지자체가 협력하여 건립 및 운영하며 수도권 소재 대학교에 재학중인 해당 지자체 출신 대학생의 주거안정을 도모하는데 그 목적이 있습니다. 아래 사항을 참고하여 해당 지자체 출신 학생들 중 관심있으신 분들은 확인하여 주시기 바랍니다.\n\nㅇ위치: 강서구 내발산동 740번지\nㅇ입주인원: 총 193호 382명(일반실 189호/2인, 서울시 4호/1인)\nㅇ참여지자체: 서울시 등 19개 지자체\nㅇ기숙사비: 월 12만원",
-    "ts": "1667288744.131069",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1667288751.000000"
-    },
-    "files": [
-      {
-        "id": "F048XT9QE10",
-        "created": 1667288520,
-        "timestamp": 1667288520,
-        "name": "공공기숙사신청안내문.pdf",
-        "title": "공공기숙사신청안내문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 490665,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F048XT9QE10-공공기숙사신청안내문.pdf",
-        "url_private_download": "attachments/F048XT9QE10-공공기숙사신청안내문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048XT9QE10/______________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F048XT9QE10-e5fc73415b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "W7pc",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "내발산동 공공기숙사 입주 홍보\n\n내발산동 공공기숙사는 서울시와 참여 지자체가 협력하여 건립 및 운영하며 수도권 소재 대학교에 재학중인 해당 지자체 출신 대학생의 주거안정을 도모하는데 그 목적이 있습니다. 아래 사항을 참고하여 해당 지자체 출신 학생들 중 관심있으신 분들은 확인하여 주시기 바랍니다.\n\nㅇ위치: 강서구 내발산동 740번지\nㅇ입주인원: 총 193호 382명(일반실 189호/2인, 서울시 4호/1인)\nㅇ참여지자체: 서울시 등 19개 지자체\nㅇ기숙사비: 월 12만원"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "e0784169-74bd-49b9-b961-0d592cd3a6b4",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;지문 인식 관련\u0026gt;\n지난주 지문등록 프로그램에 문제가 생겨서 업체에서 프로그램을 재설치 하였습니다.\n프로그램 재설치 과정에서 일부 학생들의 출입문 지문 등록 내역이 누락되었습니다.\n(3층 또는 4층) 출입문 지문인식이 안될 경우 행정실 방문 또는 아래 연락처로 이메일을 보내주시기 바랍니다.\n*연락처: 조정은(\u003cmailto:milky337@snu.ac.kr|milky337@snu.ac.kr\u003e, 02-880-1146)* ",
-    "ts": "1667289976.506819",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "gfw",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c지문 인식 관련\u003e\n지난주 지문등록 프로그램에 문제가 생겨서 업체에서 프로그램을 재설치 하였습니다.\n프로그램 재설치 과정에서 일부 학생들의 출입문 지문 등록 내역이 누락되었습니다.\n(3층 또는 4층) 출입문 지문인식이 안될 경우 행정실 방문 또는 아래 연락처로 이메일을 보내주시기 바랍니다.\n"
-              },
-              {
-                "type": "text",
-                "text": "연락처: 조정은(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:milky337@snu.ac.kr",
-                "text": "milky337@snu.ac.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ", 02-880-1146) ",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "47c45d5d-a413-422d-bd08-4c8ef33ae803",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "[디지털혁신공유대학사업 차세대반도체분야] 2022학년도 포항공과대학교 동계 계절수업 교류 수학 안내\n\n[디지털혁신공유대학사업 차세대반도체분야] 2022학년도 포항공과대학교 동계 계절수업 교류 수학을 붙임과 같이 안내하오니, 신청을 원하시는 분께서는 행정실 담당자(임채연, 880-1331, \u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e)에게 연락주시기 바랍니다.(2022. 11. 10.(목) 까지)",
-    "ts": "1667292762.229759",
-    "files": [
-      {
-        "id": "F049MRWP8F2",
-        "created": 1667292746,
-        "timestamp": 1667292746,
-        "name": "붙임4 국내교류(OUT)신청매뉴얼_학생용(서울대학교) (4).pdf",
-        "title": "붙임4 국내교류(OUT)신청매뉴얼_학생용(서울대학교) (4).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 419627,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F049MRWP8F2-붙임4 국내교류(OUT)신청매뉴얼_학생용(서울대학교) (4).pdf",
-        "url_private_download": "attachments/F049MRWP8F2-붙임4 국내교류(OUT)신청매뉴얼_학생용(서울대학교) (4).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F049MRWP8F2/______4______________out_____________________________________________4_.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F049MRWP8F2-0f0aa3a2b8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F0490JYCQP6",
-        "created": 1667292749,
-        "timestamp": 1667292749,
-        "name": "붙임2 2022-겨울학기_포항공과대학교_포스터.png",
-        "title": "붙임2 2022-겨울학기_포항공과대학교_포스터.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 608958,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0490JYCQP6-붙임2 2022-겨울학기_포항공과대학교_포스터.png",
-        "url_private_download": "attachments/F0490JYCQP6-붙임2 2022-겨울학기_포항공과대학교_포스터.png",
-        "original_h": 2245,
-        "original_w": 1587,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 254,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________480.png",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________720.png",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________960.png",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________1024.png",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0490JYCQP6/______2_2022-____________________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0490JYCQP6-77be6172e7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F048HJRFJJ3",
-        "created": 1667292753,
-        "timestamp": 1667292753,
-        "name": "붙임1 2022-겨울학기_포항공과대학교_혁신공유대학_수강 안내.hwp",
-        "title": "붙임1 2022-겨울학기_포항공과대학교_혁신공유대학_수강 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 61440,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F048HJRFJJ3-붙임1 2022-겨울학기_포항공과대학교_혁신공유대학_수강 안내.hwp",
-        "url_private_download": "attachments/F048HJRFJJ3-붙임1 2022-겨울학기_포항공과대학교_혁신공유대학_수강 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048HJRFJJ3/______1_2022-___________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F048HJRFJJ3-13e4efce49",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "6v7M1",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[디지털혁신공유대학사업 차세대반도체분야] 2022학년도 포항공과대학교 동계 계절수업 교류 수학 안내\n\n[디지털혁신공유대학사업 차세대반도체분야] 2022학년도 포항공과대학교 동계 계절수업 교류 수학을 붙임과 같이 안내하오니, 신청을 원하시는 분께서는 행정실 담당자(임채연, 880-1331, "
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")에게 연락주시기 바랍니다.(2022. 11. 10.(목) 까지)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "2d23f0c1-cd2a-40f5-b6a0-a9a9b8114217",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;940동 연구공원 식당 중식 금액 할인 안내\u0026gt;\n\n940동 연구공원 식당 더펠리체에서 데이터사이언스 대학원 학생에 한해 식대 가격을 할인한다고 하니 붙임 안내문을 확인하여 주시기 바랍니다.\n\n  ㅇ식당에 구비되어있는 키오스크에서는 할인이 불가하며, 1층 예약실에서 식권을 구입하여 사용하시고, 학생증을 꼭 지참하시기 바랍니다.",
-    "ts": "1667292958.566619",
-    "files": [
-      {
-        "id": "F048RHE0S5U",
-        "created": 1667292947,
-        "timestamp": 1667292947,
-        "name": "데이터사이언스 대학원 중식 금액할인 안내.hwp",
-        "title": "데이터사이언스 대학원 중식 금액할인 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 73728,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F048RHE0S5U-데이터사이언스 대학원 중식 금액할인 안내.hwp",
-        "url_private_download": "attachments/F048RHE0S5U-데이터사이언스 대학원 중식 금액할인 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048RHE0S5U/__________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F048RHE0S5U-1afb7c2f95",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "len",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c940동 연구공원 식당 중식 금액 할인 안내\u003e\n\n940동 연구공원 식당 더펠리체에서 데이터사이언스 대학원 학생에 한해 식대 가격을 할인한다고 하니 붙임 안내문을 확인하여 주시기 바랍니다.\n\n  ㅇ식당에 구비되어있는 키오스크에서는 할인이 불가하며, 1층 예약실에서 식권을 구입하여 사용하시고, 학생증을 꼭 지참하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "be1bec15-cdbd-405c-8207-6fd42664d02b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "내발산동 공공기숙사 입주 홍보\n\n내발산동 공공기숙사는 서울시와 참여 지자체가 협력하여 건립 및 운영하며 수도권 소재 대학교에 재학중인 해당 지자체 출신 대학생의 주거안정을 도모하는데 그 목적이 있습니다. 아래 사항을 참고하여 해당 지자체 출신 학생들 중 관심있으신 분들은 확인하여 주시기 바랍니다.\n\nㅇ위치: 강서구 내발산동 740번지\nㅇ입주인원: 총 193호 382명(일반실 189호/2인, 서울시 4호/1인)\nㅇ참여지자체: 서울시 등 19개 지자체\nㅇ기숙사비: 월 12만원",
+			"ts": "1667288744.131069",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1667288751.000000"
+			},
+			"files": [
+				{
+					"id": "F048XT9QE10",
+					"created": 1667288520,
+					"timestamp": 1667288520,
+					"name": "공공기숙사신청안내문.pdf",
+					"title": "공공기숙사신청안내문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 490665,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F048XT9QE10-공공기숙사신청안내문.pdf",
+					"url_private_download": "attachments/F048XT9QE10-공공기숙사신청안내문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048XT9QE10/______________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F048XT9QE10-e5fc73415b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "W7pc",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "내발산동 공공기숙사 입주 홍보\n\n내발산동 공공기숙사는 서울시와 참여 지자체가 협력하여 건립 및 운영하며 수도권 소재 대학교에 재학중인 해당 지자체 출신 대학생의 주거안정을 도모하는데 그 목적이 있습니다. 아래 사항을 참고하여 해당 지자체 출신 학생들 중 관심있으신 분들은 확인하여 주시기 바랍니다.\n\nㅇ위치: 강서구 내발산동 740번지\nㅇ입주인원: 총 193호 382명(일반실 189호/2인, 서울시 4호/1인)\nㅇ참여지자체: 서울시 등 19개 지자체\nㅇ기숙사비: 월 12만원"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "e0784169-74bd-49b9-b961-0d592cd3a6b4",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;지문 인식 관련&gt;\n지난주 지문등록 프로그램에 문제가 생겨서 업체에서 프로그램을 재설치 하였습니다.\n프로그램 재설치 과정에서 일부 학생들의 출입문 지문 등록 내역이 누락되었습니다.\n(3층 또는 4층) 출입문 지문인식이 안될 경우 행정실 방문 또는 아래 연락처로 이메일을 보내주시기 바랍니다.\n*연락처: 조정은(<mailto:milky337@snu.ac.kr|milky337@snu.ac.kr>, 02-880-1146)* ",
+			"ts": "1667289976.506819",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "gfw",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<지문 인식 관련>\n지난주 지문등록 프로그램에 문제가 생겨서 업체에서 프로그램을 재설치 하였습니다.\n프로그램 재설치 과정에서 일부 학생들의 출입문 지문 등록 내역이 누락되었습니다.\n(3층 또는 4층) 출입문 지문인식이 안될 경우 행정실 방문 또는 아래 연락처로 이메일을 보내주시기 바랍니다.\n"
+								},
+								{
+									"type": "text",
+									"text": "연락처: 조정은(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:milky337@snu.ac.kr",
+									"text": "milky337@snu.ac.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ", 02-880-1146) ",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "47c45d5d-a413-422d-bd08-4c8ef33ae803",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "[디지털혁신공유대학사업 차세대반도체분야] 2022학년도 포항공과대학교 동계 계절수업 교류 수학 안내\n\n[디지털혁신공유대학사업 차세대반도체분야] 2022학년도 포항공과대학교 동계 계절수업 교류 수학을 붙임과 같이 안내하오니, 신청을 원하시는 분께서는 행정실 담당자(임채연, 880-1331, <mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>)에게 연락주시기 바랍니다.(2022. 11. 10.(목) 까지)",
+			"ts": "1667292762.229759",
+			"files": [
+				{
+					"id": "F049MRWP8F2",
+					"created": 1667292746,
+					"timestamp": 1667292746,
+					"name": "붙임4 국내교류(OUT)신청매뉴얼_학생용(서울대학교) (4).pdf",
+					"title": "붙임4 국내교류(OUT)신청매뉴얼_학생용(서울대학교) (4).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 419627,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F049MRWP8F2-붙임4 국내교류(OUT)신청매뉴얼_학생용(서울대학교) (4).pdf",
+					"url_private_download": "attachments/F049MRWP8F2-붙임4 국내교류(OUT)신청매뉴얼_학생용(서울대학교) (4).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F049MRWP8F2/______4______________out_____________________________________________4_.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F049MRWP8F2-0f0aa3a2b8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F0490JYCQP6",
+					"created": 1667292749,
+					"timestamp": 1667292749,
+					"name": "붙임2 2022-겨울학기_포항공과대학교_포스터.png",
+					"title": "붙임2 2022-겨울학기_포항공과대학교_포스터.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 608958,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0490JYCQP6-붙임2 2022-겨울학기_포항공과대학교_포스터.png",
+					"url_private_download": "attachments/F0490JYCQP6-붙임2 2022-겨울학기_포항공과대학교_포스터.png",
+					"original_h": 2245,
+					"original_w": 1587,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 254,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________480.png",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________720.png",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________960.png",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0490JYCQP6-53d5d87ee6/______2_2022-_____________________________________________1024.png",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0490JYCQP6/______2_2022-____________________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0490JYCQP6-77be6172e7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F048HJRFJJ3",
+					"created": 1667292753,
+					"timestamp": 1667292753,
+					"name": "붙임1 2022-겨울학기_포항공과대학교_혁신공유대학_수강 안내.hwp",
+					"title": "붙임1 2022-겨울학기_포항공과대학교_혁신공유대학_수강 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 61440,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F048HJRFJJ3-붙임1 2022-겨울학기_포항공과대학교_혁신공유대학_수강 안내.hwp",
+					"url_private_download": "attachments/F048HJRFJJ3-붙임1 2022-겨울학기_포항공과대학교_혁신공유대학_수강 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048HJRFJJ3/______1_2022-___________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F048HJRFJJ3-13e4efce49",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "6v7M1",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[디지털혁신공유대학사업 차세대반도체분야] 2022학년도 포항공과대학교 동계 계절수업 교류 수학 안내\n\n[디지털혁신공유대학사업 차세대반도체분야] 2022학년도 포항공과대학교 동계 계절수업 교류 수학을 붙임과 같이 안내하오니, 신청을 원하시는 분께서는 행정실 담당자(임채연, 880-1331, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")에게 연락주시기 바랍니다.(2022. 11. 10.(목) 까지)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "2d23f0c1-cd2a-40f5-b6a0-a9a9b8114217",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;940동 연구공원 식당 중식 금액 할인 안내&gt;\n\n940동 연구공원 식당 더펠리체에서 데이터사이언스 대학원 학생에 한해 식대 가격을 할인한다고 하니 붙임 안내문을 확인하여 주시기 바랍니다.\n\n  ㅇ식당에 구비되어있는 키오스크에서는 할인이 불가하며, 1층 예약실에서 식권을 구입하여 사용하시고, 학생증을 꼭 지참하시기 바랍니다.",
+			"ts": "1667292958.566619",
+			"files": [
+				{
+					"id": "F048RHE0S5U",
+					"created": 1667292947,
+					"timestamp": 1667292947,
+					"name": "데이터사이언스 대학원 중식 금액할인 안내.hwp",
+					"title": "데이터사이언스 대학원 중식 금액할인 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 73728,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F048RHE0S5U-데이터사이언스 대학원 중식 금액할인 안내.hwp",
+					"url_private_download": "attachments/F048RHE0S5U-데이터사이언스 대학원 중식 금액할인 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048RHE0S5U/__________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F048RHE0S5U-1afb7c2f95",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "len",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<940동 연구공원 식당 중식 금액 할인 안내>\n\n940동 연구공원 식당 더펠리체에서 데이터사이언스 대학원 학생에 한해 식대 가격을 할인한다고 하니 붙임 안내문을 확인하여 주시기 바랍니다.\n\n  ㅇ식당에 구비되어있는 키오스크에서는 할인이 불가하며, 1층 예약실에서 식권을 구입하여 사용하시고, 학생증을 꼭 지참하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

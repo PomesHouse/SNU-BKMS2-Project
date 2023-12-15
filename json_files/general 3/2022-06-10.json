@@ -1,261 +1,263 @@
-[
-  {
-    "client_msg_id": "8093c930-73c4-46b3-8cd3-c293e8f97851",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022학년도 1학기 강의평가 실시 안내\u0026gt;\n\n2022학년도 1학기 강의평가를 다음과 같이 실시하니 학생분들의 많은 참여 부탁드립니다.\n\n1. 기간: 2022. 6. 14.(화) ~ 2022. 6. 28.(화)\n2. 방법: ‘포털 마이스누’ 또는 ‘서울대학교 모바일 앱’\n포털 마이스누/서울대학교 모바일 앱 ⇒ 학사행정 ⇒ 수업/성적 ⇒ 성적 ⇒ 강의평가\n3. 평가대상: 학부 및 대학원 강좌(‘대학원 논문연구’ 제외) 전체\n4. 평가문항: 공통문항 3개(공동강의 강좌 교수별 평가 적용), 자유서술식 2개, 선택문항 4개 이내, 비대면 수업 관련 공통 선택문항* 1개, 특성화영역 문항 0개 또는 2개",
-    "ts": "1654845004.329229",
-    "files": [
-      {
-        "id": "F03KTBHEEJC",
-        "created": 1654844996,
-        "timestamp": 1654844996,
-        "name": "강의평가 프로그램 안내(학생용).pdf",
-        "title": "강의평가 프로그램 안내(학생용).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 450995,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03KTBHEEJC-강의평가 프로그램 안내(학생용).pdf",
-        "url_private_download": "attachments/F03KTBHEEJC-강의평가 프로그램 안내(학생용).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03KTBHEEJC/___________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03KTBHEEJC-7055c974e5",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "GnZ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022학년도 1학기 강의평가 실시 안내\u003e\n\n2022학년도 1학기 강의평가를 다음과 같이 실시하니 학생분들의 많은 참여 부탁드립니다.\n\n1. 기간: 2022. 6. 14.(화) ~ 2022. 6. 28.(화)\n2. 방법: ‘포털 마이스누’ 또는 ‘서울대학교 모바일 앱’\n포털 마이스누/서울대학교 모바일 앱 ⇒ 학사행정 ⇒ 수업/성적 ⇒ 성적 ⇒ 강의평가\n3. 평가대상: 학부 및 대학원 강좌(‘대학원 논문연구’ 제외) 전체\n4. 평가문항: 공통문항 3개(공동강의 강좌 교수별 평가 적용), 자유서술식 2개, 선택문항 4개 이내, 비대면 수업 관련 공통 선택문항* 1개, 특성화영역 문항 0개 또는 2개"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ec5fb458-48a2-4aa3-a0b5-2f09fc2cbe24",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022년 율촌 AI 장학생 선발 안내\n\n서울대학교 AI연구원에서는 농심그룹 율촌재단에서 지원하는 2022년 '율촌 AI 장학생'을 아래와 같이 선발하오니, 관심 있는 학생들이 빠짐없이 지원하시길 바랍니다.\n\n온라인 신청\n   가. 신청기간: 2022. 6. 9.(목) ~ 6. 30.(목) 17시까지\n   나. 신청방법: *AI연구원 홈페이지(\u003chttp://aiis.snu.ac.kr\u003e) 신청* (온라인 지원 및 지원서양식 다운로드 링크 포함)\n   다. 제출서류: 지원서, 성적증명서, 재학증명서 또는 연구생 증명서, 연구성과 증빙자료\n                ※ 지도교수 추천서는 1차 합격자에 한해 추후 제출\n   라. 기타사항: 자세한 사항은 붙임 참고",
-    "ts": "1654848868.288509",
-    "attachments": [
-      {
-        "fallback": "서울대학교AI연구원(AIIS)",
-        "id": 1,
-        "title": "서울대학교AI연구원(AIIS)",
-        "title_link": "http://aiis.snu.ac.kr/",
-        "text": "서울대학교 AI 연구원(AIIS)은 ‘모두를 위한 AI’를 목표로 서울대학교의 인공지능 관련 연구자원을 총괄하는 본부주관 연구소입니다.",
-        "thumb_url": "https://aiis.snu.ac.kr/favicon/ms-icon-310x310.png",
-        "service_name": "aiis.snu.ac.kr",
-        "service_icon": "https://aiis.snu.ac.kr/favicon/ms-icon-310x310.png",
-        "from_url": "http://aiis.snu.ac.kr/",
-        "original_url": "http://aiis.snu.ac.kr",
-        "blocks": null
-      }
-    ],
-    "files": [
-      {
-        "id": "F03JX8XK3B8",
-        "created": 1654848863,
-        "timestamp": 1654848863,
-        "name": "2022 율촌AI장학금 공고문.docx",
-        "title": "2022 율촌AI장학금 공고문.docx",
-        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "image_exif_rotation": 0,
-        "filetype": "docx",
-        "pretty_type": "Word 문서",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 26930,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03JX8XK3B8-2022 율촌AI장학금 공고문.docx",
-        "url_private_download": "attachments/F03JX8XK3B8-2022 율촌AI장학금 공고문.docx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03JX8XK3B8/2022_______ai___________________.docx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03JX8XK3B8-7286229a3d",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "5uiQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022년 율촌 AI 장학생 선발 안내\n\n서울대학교 AI연구원에서는 농심그룹 율촌재단에서 지원하는 2022년 '율촌 AI 장학생'을 아래와 같이 선발하오니, 관심 있는 학생들이 빠짐없이 지원하시길 바랍니다.\n\n온라인 신청\n   가. 신청기간: 2022. 6. 9.(목) ~ 6. 30.(목) 17시까지\n   나. 신청방법: "
-              },
-              {
-                "type": "text",
-                "text": "AI연구원 홈페이지(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "http://aiis.snu.ac.kr",
-                "text": "",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ") 신청 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(온라인 지원 및 지원서양식 다운로드 링크 포함)\n   다. 제출서류: 지원서, 성적증명서, 재학증명서 또는 연구생 증명서, 연구성과 증빙자료\n                ※ 지도교수 추천서는 1차 합격자에 한해 추후 제출\n   라. 기타사항: 자세한 사항은 붙임 참고"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8093c930-73c4-46b3-8cd3-c293e8f97851",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022학년도 1학기 강의평가 실시 안내&gt;\n\n2022학년도 1학기 강의평가를 다음과 같이 실시하니 학생분들의 많은 참여 부탁드립니다.\n\n1. 기간: 2022. 6. 14.(화) ~ 2022. 6. 28.(화)\n2. 방법: ‘포털 마이스누’ 또는 ‘서울대학교 모바일 앱’\n포털 마이스누/서울대학교 모바일 앱 ⇒ 학사행정 ⇒ 수업/성적 ⇒ 성적 ⇒ 강의평가\n3. 평가대상: 학부 및 대학원 강좌(‘대학원 논문연구’ 제외) 전체\n4. 평가문항: 공통문항 3개(공동강의 강좌 교수별 평가 적용), 자유서술식 2개, 선택문항 4개 이내, 비대면 수업 관련 공통 선택문항* 1개, 특성화영역 문항 0개 또는 2개",
+			"ts": "1654845004.329229",
+			"files": [
+				{
+					"id": "F03KTBHEEJC",
+					"created": 1654844996,
+					"timestamp": 1654844996,
+					"name": "강의평가 프로그램 안내(학생용).pdf",
+					"title": "강의평가 프로그램 안내(학생용).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 450995,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03KTBHEEJC-강의평가 프로그램 안내(학생용).pdf",
+					"url_private_download": "attachments/F03KTBHEEJC-강의평가 프로그램 안내(학생용).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03KTBHEEJC/___________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03KTBHEEJC-7055c974e5",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "GnZ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022학년도 1학기 강의평가 실시 안내>\n\n2022학년도 1학기 강의평가를 다음과 같이 실시하니 학생분들의 많은 참여 부탁드립니다.\n\n1. 기간: 2022. 6. 14.(화) ~ 2022. 6. 28.(화)\n2. 방법: ‘포털 마이스누’ 또는 ‘서울대학교 모바일 앱’\n포털 마이스누/서울대학교 모바일 앱 ⇒ 학사행정 ⇒ 수업/성적 ⇒ 성적 ⇒ 강의평가\n3. 평가대상: 학부 및 대학원 강좌(‘대학원 논문연구’ 제외) 전체\n4. 평가문항: 공통문항 3개(공동강의 강좌 교수별 평가 적용), 자유서술식 2개, 선택문항 4개 이내, 비대면 수업 관련 공통 선택문항* 1개, 특성화영역 문항 0개 또는 2개"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ec5fb458-48a2-4aa3-a0b5-2f09fc2cbe24",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022년 율촌 AI 장학생 선발 안내\n\n서울대학교 AI연구원에서는 농심그룹 율촌재단에서 지원하는 2022년 '율촌 AI 장학생'을 아래와 같이 선발하오니, 관심 있는 학생들이 빠짐없이 지원하시길 바랍니다.\n\n온라인 신청\n   가. 신청기간: 2022. 6. 9.(목) ~ 6. 30.(목) 17시까지\n   나. 신청방법: *AI연구원 홈페이지(<http://aiis.snu.ac.kr>) 신청* (온라인 지원 및 지원서양식 다운로드 링크 포함)\n   다. 제출서류: 지원서, 성적증명서, 재학증명서 또는 연구생 증명서, 연구성과 증빙자료\n                ※ 지도교수 추천서는 1차 합격자에 한해 추후 제출\n   라. 기타사항: 자세한 사항은 붙임 참고",
+			"ts": "1654848868.288509",
+			"attachments": [
+				{
+					"fallback": "서울대학교AI연구원(AIIS)",
+					"id": 1,
+					"title": "서울대학교AI연구원(AIIS)",
+					"title_link": "http://aiis.snu.ac.kr/",
+					"text": "서울대학교 AI 연구원(AIIS)은 ‘모두를 위한 AI’를 목표로 서울대학교의 인공지능 관련 연구자원을 총괄하는 본부주관 연구소입니다.",
+					"thumb_url": "https://aiis.snu.ac.kr/favicon/ms-icon-310x310.png",
+					"service_name": "aiis.snu.ac.kr",
+					"service_icon": "https://aiis.snu.ac.kr/favicon/ms-icon-310x310.png",
+					"from_url": "http://aiis.snu.ac.kr/",
+					"original_url": "http://aiis.snu.ac.kr",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F03JX8XK3B8",
+					"created": 1654848863,
+					"timestamp": 1654848863,
+					"name": "2022 율촌AI장학금 공고문.docx",
+					"title": "2022 율촌AI장학금 공고문.docx",
+					"mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+					"image_exif_rotation": 0,
+					"filetype": "docx",
+					"pretty_type": "Word 문서",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 26930,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03JX8XK3B8-2022 율촌AI장학금 공고문.docx",
+					"url_private_download": "attachments/F03JX8XK3B8-2022 율촌AI장학금 공고문.docx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03JX8XK3B8/2022_______ai___________________.docx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03JX8XK3B8-7286229a3d",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "5uiQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022년 율촌 AI 장학생 선발 안내\n\n서울대학교 AI연구원에서는 농심그룹 율촌재단에서 지원하는 2022년 '율촌 AI 장학생'을 아래와 같이 선발하오니, 관심 있는 학생들이 빠짐없이 지원하시길 바랍니다.\n\n온라인 신청\n   가. 신청기간: 2022. 6. 9.(목) ~ 6. 30.(목) 17시까지\n   나. 신청방법: "
+								},
+								{
+									"type": "text",
+									"text": "AI연구원 홈페이지(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "http://aiis.snu.ac.kr",
+									"text": "",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ") 신청 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(온라인 지원 및 지원서양식 다운로드 링크 포함)\n   다. 제출서류: 지원서, 성적증명서, 재학증명서 또는 연구생 증명서, 연구성과 증빙자료\n                ※ 지도교수 추천서는 1차 합격자에 한해 추후 제출\n   라. 기타사항: 자세한 사항은 붙임 참고"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

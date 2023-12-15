@@ -1,588 +1,590 @@
-[
-  {
-    "client_msg_id": "e76ae4e8-bb92-4280-8f44-e7c24b97276f",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;주민등록증 모바일 확인서비스\u0026gt;민간플랫폼(PASS) 서비스 확대 안내\n1. 교육부 운영지원과-25464(2022.11.7.), 행정안전부 주민과-7801(2022.11.3.)\n2. 행정안전부에서는 실물 주민등록증 휴대에 따른 불편을 해소하고자 주민등록법을 일부 개정하여 *「주민등록증 모바일 확인서비스」*를 정부24 앱을 통해 제공('22.7.12.~) 하고\n    *실물 주민등록증을 확인한 것과 동일한 효력*을 갖도록 하고 있습니다.\n3. 또한 국민의 편의성 및 접근성 향상을 위해 민간플랫폼인 *PASS앱을 통해서도 이용할 수 있도록 서비스를 확대*하였다고 합니다.\n  ※ '22.10.25.일부터 PASS앱에서 시범 운영중, 11.10.일 정식 서비스 개시 예정\n4. 이에 따라, 「주민등록증 모바일 확인서비스」관련 내용을 [붙임]과 같이 안내드리니 업무에 참고하여 주시기 바라며, 자세한 문의사항은 행정안전부 주민과에 확인바랍니다.",
-    "ts": "1667798439.242819",
-    "files": [
-      {
-        "id": "F04A3F5K4MP",
-        "created": 1667798430,
-        "timestamp": 1667798430,
-        "name": "주민등록증 모바일 확인서비스 PASS앱 확대 안내.hwpx",
-        "title": "주민등록증 모바일 확인서비스 PASS앱 확대 안내.hwpx",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 64943,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04A3F5K4MP-주민등록증 모바일 확인서비스 PASS앱 확대 안내.hwpx",
-        "url_private_download": "attachments/F04A3F5K4MP-주민등록증 모바일 확인서비스 PASS앱 확대 안내.hwpx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04A3F5K4MP/__________________________________________pass_________________.hwpx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04A3F5K4MP-c5317663f0",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F049QNQP69Z",
-        "created": 1667798436,
-        "timestamp": 1667798436,
-        "name": "주민등록증 모바일 확인서비스 이용안내.pdf",
-        "title": "주민등록증 모바일 확인서비스 이용안내.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1712451,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F049QNQP69Z-주민등록증 모바일 확인서비스 이용안내.pdf",
-        "url_private_download": "attachments/F049QNQP69Z-주민등록증 모바일 확인서비스 이용안내.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F049QNQP69Z/______________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F049QNQP69Z-9c0c3b2e6e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "l9I",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c주민등록증 모바일 확인서비스\u003e민간플랫폼(PASS) 서비스 확대 안내\n1. 교육부 운영지원과-25464(2022.11.7.), 행정안전부 주민과-7801(2022.11.3.)\n2. 행정안전부에서는 실물 주민등록증 휴대에 따른 불편을 해소하고자 주민등록법을 일부 개정하여 "
-              },
-              {
-                "type": "text",
-                "text": "「주민등록증 모바일 확인서비스」",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "를 정부24 앱을 통해 제공('22.7.12.~) 하고\n"
-              },
-              {
-                "type": "text",
-                "text": "    실물 주민등록증을 확인한 것과 동일한 효력",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 갖도록 하고 있습니다.\n3. 또한 국민의 편의성 및 접근성 향상을 위해 민간플랫폼인 "
-              },
-              {
-                "type": "text",
-                "text": "PASS앱을 통해서도 이용할 수 있도록 서비스를 확대",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하였다고 합니다.\n  ※ '22.10.25.일부터 PASS앱에서 시범 운영중, 11.10.일 정식 서비스 개시 예정\n4. 이에 따라, 「주민등록증 모바일 확인서비스」관련 내용을 [붙임]과 같이 안내드리니 업무에 참고하여 주시기 바라며, 자세한 문의사항은 행정안전부 주민과에 확인바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "8c359a5a-0dfb-47bd-a8ed-139d82eb1f32",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*[2022학년도 2학기 대학원 신입생 연구윤리 교육 수강기간 연장 안내]*\n\n교육 *수강기간을 연장*하오니,  미이수자는 이수하여 주시기 바랍니다.\n\n가. 강좌명\n    - 2022-2) 대학원생을 위한 연구윤리(인문사회계 / 이공계)\n    - 2022-2) Research ethics for graduate students(Humanities and Social Sciences / Science and Engineering)\n  나. 수강대상: 2022학년도 2학기 대학원 신입생, 1학기 신입생 중 미이수자, BK21 참여대학원생, 교육수강 희망자 등\n  다. 수강기간: 2022.9.1.(목) *~ 11.30.(수)*\n  *※ 2022학년도 2학기 대학원 신입생이 아닌 수강 희망자의 경우 12월까지 수강 가능하며, 대학원 신입생은 11월까지 수강*\n  라. 수강 방법\n    - eTL SNUON접속(\u003chttp://etl.snu.ac.kr/snuon\u003e) → 우측 상단의 검색창에서 '연구윤리' 또는 'ethics' 검색 → 계열에 맞는 강좌 수강신청 → 수강(약 3시간 소요)\n  *※ 동영상 100% 수강 및 학습자료 열람시 이수 인정되며, 수강자 본인이 이수증 출력 가능*",
-    "ts": "1667802212.772359",
-    "files": [
-      {
-        "id": "F049TER1J3E",
-        "created": 1667802210,
-        "timestamp": 1667802210,
-        "name": "2022학년도 2학기 대학원 신입생 연구윤리 교육 수강 안내 (1).pdf",
-        "title": "2022학년도 2학기 대학원 신입생 연구윤리 교육 수강 안내 (1).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 90787,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F049TER1J3E-2022학년도 2학기 대학원 신입생 연구윤리 교육 수강 안내 (1).pdf",
-        "url_private_download": "attachments/F049TER1J3E-2022학년도 2학기 대학원 신입생 연구윤리 교육 수강 안내 (1).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F049TER1J3E/2022__________2______________________________________________________________1_.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F049TER1J3E-d0ac58b17a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "7J0Kx",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[2022학년도 2학기 대학원 신입생 연구윤리 교육 수강기간 연장 안내]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n교육"
-              },
-              {
-                "type": "text",
-                "text": " 수강기간을 연장",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하오니,  미이수자는 이수하여 주시기 바랍니다.\n\n가. 강좌명\n    - 2022-2) 대학원생을 위한 연구윤리(인문사회계 / 이공계)\n    - 2022-2) Research ethics for graduate students(Humanities and Social Sciences / Science and Engineering)\n  나. 수강대상: 2022학년도 2학기 대학원 신입생, 1학기 신입생 중 미이수자, BK21 참여대학원생, 교육수강 희망자 등\n  다. 수강기간: 2022.9.1.(목)"
-              },
-              {
-                "type": "text",
-                "text": " ~ 11.30.(수)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "  ※ 2022학년도 2학기 대학원 신입생이 아닌 수강 희망자의 경우 12월까지 수강 가능하며, 대학원 신입생은 11월까지 수강",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  라. 수강 방법\n    - eTL SNUON접속("
-              },
-              {
-                "type": "link",
-                "url": "http://etl.snu.ac.kr/snuon",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") → 우측 상단의 검색창에서 '연구윤리' 또는 'ethics' 검색 → 계열에 맞는 강좌 수강신청 → 수강(약 3시간 소요)\n  "
-              },
-              {
-                "type": "text",
-                "text": "※ 동영상 100% 수강 및 학습자료 열람시 이수 인정되며, 수강자 본인이 이수증 출력 가능",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "84b1903c-5094-4111-b662-556dde0bffd4",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "[2022년 2학기 안전환경 정기교육(법정의무교육) 이수 안내]\n\n1. 교내 실험/실습 및 연구 등을 수행하고 있는 연구활동종사자는 연구실안전법에 따라 매학기마다 *「안전환경 정기교육」*을 이수하여야 합니다.\n\n2. 환경안전원은*「2022년 2학기 안전환경 정기교육」*을 아래과 같이 실시하오니 각  교육 대상자는 교육을 필히 이수하도록 바랍니다.\n\n*현재 안전환경 신규교육 미이수자 또는 2022년 2학기 안전환경 신규교육 이수자는 본 교육에 해당 없음*\n\n *가. 대상:* 본교 이공계열(미술대 포함) 연구활동종사자(교수,학부생,대학원생/연구생(원)/직원 등)\n *나. 방법:* 온라인안전교육 수강 =\u0026gt; 연구안전통합정보시스템(\u003chttp://rsis.snu.ac.kr|rsis.snu.ac.kr\u003e) 접속 후 *(붙임1)*의\n            매뉴얼을 참고하여 수강\n *다. 기간:* 2022. 11. 7.(월) ~ 12. 31.(토)\n *라. 이수:* 학습 진도(100%) + 평가 60점 이상 =\u0026gt; [즉시] 온라인 이수증 발급\n\n   ※ 최근 국가연구과제 신청 시 연구활동종사자(연구책임자 포함)의*「안전교육 이수증*」 미제출 불이익 발생",
-    "ts": "1667802478.120719",
-    "files": [
-      {
-        "id": "F049TF3DQFN",
-        "created": 1667802475,
-        "timestamp": 1667802475,
-        "name": "[User manual]안전환경 정기교육(온라인안전교육) 수강 매뉴얼(국문,영문).pdf",
-        "title": "[User manual]안전환경 정기교육(온라인안전교육) 수강 매뉴얼(국문,영문).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1450013,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F049TF3DQFN-[User manual]안전환경 정기교육(온라인안전교육) 수강 매뉴얼(국문,영문).pdf",
-        "url_private_download": "attachments/F049TF3DQFN-[User manual]안전환경 정기교육(온라인안전교육) 수강 매뉴얼(국문,영문).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F049TF3DQFN/_user_manual_________________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F049TF3DQFN-c896e95a83",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "CRsc",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[2022년 2학기 안전환경 정기교육(법정의무교육) 이수 안내]\n\n1. 교내 실험/실습 및 연구 등을 수행하고 있는 연구활동종사자는 연구실안전법에 따라 매학기마다 "
-              },
-              {
-                "type": "text",
-                "text": "「안전환경 정기교육」",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 이수하여야 합니다.\n\n2. 환경안전원은"
-              },
-              {
-                "type": "text",
-                "text": "「2022년 2학기 안전환경 정기교육」",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 아래과 같이 실시하오니 각  교육 대상자는 교육을 필히 이수하도록 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "현재 안전환경 신규교육 미이수자 또는 2022년 2학기 안전환경 신규교육 이수자는 본 교육에 해당 없음",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": " 가. 대상: ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "본교 이공계열(미술대 포함) 연구활동종사자(교수,학부생,대학원생/연구생(원)/직원 등)\n "
-              },
-              {
-                "type": "text",
-                "text": "나. 방법: ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "온라인안전교육 수강 =\u003e 연구안전통합정보시스템("
-              },
-              {
-                "type": "link",
-                "url": "http://rsis.snu.ac.kr",
-                "text": "rsis.snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ") 접속 후 "
-              },
-              {
-                "type": "text",
-                "text": "(붙임1)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "의\n            매뉴얼을 참고하여 수강\n"
-              },
-              {
-                "type": "text",
-                "text": " 다. 기간: ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "2022. 11. 7.(월) ~ 12. 31.(토)\n "
-              },
-              {
-                "type": "text",
-                "text": "라. 이수: ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "학습 진도(100%) + 평가 60점 이상 =\u003e [즉시] 온라인 이수증 발급\n\n   ※ 최근 국가연구과제 신청 시 연구활동종사자(연구책임자 포함)의"
-              },
-              {
-                "type": "text",
-                "text": "「안전교육 이수증",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "」 미제출 불이익 발생"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "e76ae4e8-bb92-4280-8f44-e7c24b97276f",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;주민등록증 모바일 확인서비스&gt;민간플랫폼(PASS) 서비스 확대 안내\n1. 교육부 운영지원과-25464(2022.11.7.), 행정안전부 주민과-7801(2022.11.3.)\n2. 행정안전부에서는 실물 주민등록증 휴대에 따른 불편을 해소하고자 주민등록법을 일부 개정하여 *「주민등록증 모바일 확인서비스」*를 정부24 앱을 통해 제공('22.7.12.~) 하고\n    *실물 주민등록증을 확인한 것과 동일한 효력*을 갖도록 하고 있습니다.\n3. 또한 국민의 편의성 및 접근성 향상을 위해 민간플랫폼인 *PASS앱을 통해서도 이용할 수 있도록 서비스를 확대*하였다고 합니다.\n  ※ '22.10.25.일부터 PASS앱에서 시범 운영중, 11.10.일 정식 서비스 개시 예정\n4. 이에 따라, 「주민등록증 모바일 확인서비스」관련 내용을 [붙임]과 같이 안내드리니 업무에 참고하여 주시기 바라며, 자세한 문의사항은 행정안전부 주민과에 확인바랍니다.",
+			"ts": "1667798439.242819",
+			"files": [
+				{
+					"id": "F04A3F5K4MP",
+					"created": 1667798430,
+					"timestamp": 1667798430,
+					"name": "주민등록증 모바일 확인서비스 PASS앱 확대 안내.hwpx",
+					"title": "주민등록증 모바일 확인서비스 PASS앱 확대 안내.hwpx",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 64943,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04A3F5K4MP-주민등록증 모바일 확인서비스 PASS앱 확대 안내.hwpx",
+					"url_private_download": "attachments/F04A3F5K4MP-주민등록증 모바일 확인서비스 PASS앱 확대 안내.hwpx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04A3F5K4MP/__________________________________________pass_________________.hwpx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04A3F5K4MP-c5317663f0",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F049QNQP69Z",
+					"created": 1667798436,
+					"timestamp": 1667798436,
+					"name": "주민등록증 모바일 확인서비스 이용안내.pdf",
+					"title": "주민등록증 모바일 확인서비스 이용안내.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1712451,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F049QNQP69Z-주민등록증 모바일 확인서비스 이용안내.pdf",
+					"url_private_download": "attachments/F049QNQP69Z-주민등록증 모바일 확인서비스 이용안내.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F049QNQP69Z/______________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F049QNQP69Z-9c0c3b2e6e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "l9I",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<주민등록증 모바일 확인서비스>민간플랫폼(PASS) 서비스 확대 안내\n1. 교육부 운영지원과-25464(2022.11.7.), 행정안전부 주민과-7801(2022.11.3.)\n2. 행정안전부에서는 실물 주민등록증 휴대에 따른 불편을 해소하고자 주민등록법을 일부 개정하여 "
+								},
+								{
+									"type": "text",
+									"text": "「주민등록증 모바일 확인서비스」",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "를 정부24 앱을 통해 제공('22.7.12.~) 하고\n"
+								},
+								{
+									"type": "text",
+									"text": "    실물 주민등록증을 확인한 것과 동일한 효력",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 갖도록 하고 있습니다.\n3. 또한 국민의 편의성 및 접근성 향상을 위해 민간플랫폼인 "
+								},
+								{
+									"type": "text",
+									"text": "PASS앱을 통해서도 이용할 수 있도록 서비스를 확대",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하였다고 합니다.\n  ※ '22.10.25.일부터 PASS앱에서 시범 운영중, 11.10.일 정식 서비스 개시 예정\n4. 이에 따라, 「주민등록증 모바일 확인서비스」관련 내용을 [붙임]과 같이 안내드리니 업무에 참고하여 주시기 바라며, 자세한 문의사항은 행정안전부 주민과에 확인바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "8c359a5a-0dfb-47bd-a8ed-139d82eb1f32",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*[2022학년도 2학기 대학원 신입생 연구윤리 교육 수강기간 연장 안내]*\n\n교육 *수강기간을 연장*하오니,  미이수자는 이수하여 주시기 바랍니다.\n\n가. 강좌명\n    - 2022-2) 대학원생을 위한 연구윤리(인문사회계 / 이공계)\n    - 2022-2) Research ethics for graduate students(Humanities and Social Sciences / Science and Engineering)\n  나. 수강대상: 2022학년도 2학기 대학원 신입생, 1학기 신입생 중 미이수자, BK21 참여대학원생, 교육수강 희망자 등\n  다. 수강기간: 2022.9.1.(목) *~ 11.30.(수)*\n  *※ 2022학년도 2학기 대학원 신입생이 아닌 수강 희망자의 경우 12월까지 수강 가능하며, 대학원 신입생은 11월까지 수강*\n  라. 수강 방법\n    - eTL SNUON접속(<http://etl.snu.ac.kr/snuon>) → 우측 상단의 검색창에서 '연구윤리' 또는 'ethics' 검색 → 계열에 맞는 강좌 수강신청 → 수강(약 3시간 소요)\n  *※ 동영상 100% 수강 및 학습자료 열람시 이수 인정되며, 수강자 본인이 이수증 출력 가능*",
+			"ts": "1667802212.772359",
+			"files": [
+				{
+					"id": "F049TER1J3E",
+					"created": 1667802210,
+					"timestamp": 1667802210,
+					"name": "2022학년도 2학기 대학원 신입생 연구윤리 교육 수강 안내 (1).pdf",
+					"title": "2022학년도 2학기 대학원 신입생 연구윤리 교육 수강 안내 (1).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 90787,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F049TER1J3E-2022학년도 2학기 대학원 신입생 연구윤리 교육 수강 안내 (1).pdf",
+					"url_private_download": "attachments/F049TER1J3E-2022학년도 2학기 대학원 신입생 연구윤리 교육 수강 안내 (1).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F049TER1J3E/2022__________2______________________________________________________________1_.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F049TER1J3E-d0ac58b17a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "7J0Kx",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[2022학년도 2학기 대학원 신입생 연구윤리 교육 수강기간 연장 안내]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n교육"
+								},
+								{
+									"type": "text",
+									"text": " 수강기간을 연장",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하오니,  미이수자는 이수하여 주시기 바랍니다.\n\n가. 강좌명\n    - 2022-2) 대학원생을 위한 연구윤리(인문사회계 / 이공계)\n    - 2022-2) Research ethics for graduate students(Humanities and Social Sciences / Science and Engineering)\n  나. 수강대상: 2022학년도 2학기 대학원 신입생, 1학기 신입생 중 미이수자, BK21 참여대학원생, 교육수강 희망자 등\n  다. 수강기간: 2022.9.1.(목)"
+								},
+								{
+									"type": "text",
+									"text": " ~ 11.30.(수)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "  ※ 2022학년도 2학기 대학원 신입생이 아닌 수강 희망자의 경우 12월까지 수강 가능하며, 대학원 신입생은 11월까지 수강",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  라. 수강 방법\n    - eTL SNUON접속("
+								},
+								{
+									"type": "link",
+									"url": "http://etl.snu.ac.kr/snuon",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") → 우측 상단의 검색창에서 '연구윤리' 또는 'ethics' 검색 → 계열에 맞는 강좌 수강신청 → 수강(약 3시간 소요)\n  "
+								},
+								{
+									"type": "text",
+									"text": "※ 동영상 100% 수강 및 학습자료 열람시 이수 인정되며, 수강자 본인이 이수증 출력 가능",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "84b1903c-5094-4111-b662-556dde0bffd4",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "[2022년 2학기 안전환경 정기교육(법정의무교육) 이수 안내]\n\n1. 교내 실험/실습 및 연구 등을 수행하고 있는 연구활동종사자는 연구실안전법에 따라 매학기마다 *「안전환경 정기교육」*을 이수하여야 합니다.\n\n2. 환경안전원은*「2022년 2학기 안전환경 정기교육」*을 아래과 같이 실시하오니 각  교육 대상자는 교육을 필히 이수하도록 바랍니다.\n\n*현재 안전환경 신규교육 미이수자 또는 2022년 2학기 안전환경 신규교육 이수자는 본 교육에 해당 없음*\n\n *가. 대상:* 본교 이공계열(미술대 포함) 연구활동종사자(교수,학부생,대학원생/연구생(원)/직원 등)\n *나. 방법:* 온라인안전교육 수강 =&gt; 연구안전통합정보시스템(<http://rsis.snu.ac.kr|rsis.snu.ac.kr>) 접속 후 *(붙임1)*의\n            매뉴얼을 참고하여 수강\n *다. 기간:* 2022. 11. 7.(월) ~ 12. 31.(토)\n *라. 이수:* 학습 진도(100%) + 평가 60점 이상 =&gt; [즉시] 온라인 이수증 발급\n\n   ※ 최근 국가연구과제 신청 시 연구활동종사자(연구책임자 포함)의*「안전교육 이수증*」 미제출 불이익 발생",
+			"ts": "1667802478.120719",
+			"files": [
+				{
+					"id": "F049TF3DQFN",
+					"created": 1667802475,
+					"timestamp": 1667802475,
+					"name": "[User manual]안전환경 정기교육(온라인안전교육) 수강 매뉴얼(국문,영문).pdf",
+					"title": "[User manual]안전환경 정기교육(온라인안전교육) 수강 매뉴얼(국문,영문).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1450013,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F049TF3DQFN-[User manual]안전환경 정기교육(온라인안전교육) 수강 매뉴얼(국문,영문).pdf",
+					"url_private_download": "attachments/F049TF3DQFN-[User manual]안전환경 정기교육(온라인안전교육) 수강 매뉴얼(국문,영문).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F049TF3DQFN/_user_manual_________________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F049TF3DQFN-c896e95a83",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "CRsc",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[2022년 2학기 안전환경 정기교육(법정의무교육) 이수 안내]\n\n1. 교내 실험/실습 및 연구 등을 수행하고 있는 연구활동종사자는 연구실안전법에 따라 매학기마다 "
+								},
+								{
+									"type": "text",
+									"text": "「안전환경 정기교육」",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 이수하여야 합니다.\n\n2. 환경안전원은"
+								},
+								{
+									"type": "text",
+									"text": "「2022년 2학기 안전환경 정기교육」",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 아래과 같이 실시하오니 각  교육 대상자는 교육을 필히 이수하도록 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "현재 안전환경 신규교육 미이수자 또는 2022년 2학기 안전환경 신규교육 이수자는 본 교육에 해당 없음",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": " 가. 대상: ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "본교 이공계열(미술대 포함) 연구활동종사자(교수,학부생,대학원생/연구생(원)/직원 등)\n "
+								},
+								{
+									"type": "text",
+									"text": "나. 방법: ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "온라인안전교육 수강 => 연구안전통합정보시스템("
+								},
+								{
+									"type": "link",
+									"url": "http://rsis.snu.ac.kr",
+									"text": "rsis.snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ") 접속 후 "
+								},
+								{
+									"type": "text",
+									"text": "(붙임1)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "의\n            매뉴얼을 참고하여 수강\n"
+								},
+								{
+									"type": "text",
+									"text": " 다. 기간: ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "2022. 11. 7.(월) ~ 12. 31.(토)\n "
+								},
+								{
+									"type": "text",
+									"text": "라. 이수: ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "학습 진도(100%) + 평가 60점 이상 => [즉시] 온라인 이수증 발급\n\n   ※ 최근 국가연구과제 신청 시 연구활동종사자(연구책임자 포함)의"
+								},
+								{
+									"type": "text",
+									"text": "「안전교육 이수증",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "」 미제출 불이익 발생"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

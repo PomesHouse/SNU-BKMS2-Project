@@ -1,301 +1,303 @@
-[
-  {
-    "client_msg_id": "7B41474F-3D9F-43C8-97BE-1B34AE94DE56",
-    "type": "message",
-    "user": "U0361QTEZMG",
-    "text": "❏ :trophy: 제2회 현대자동차 연구개발본부 인공지능(AI) 경진대회\n\n• 인공지능(AI) 활용 연구환경 조성 프로젝트형 경진대회\n• 활동증명서 발급 및 입사지원 서류전형 면제 등 참여자 혜택\n• “우수 인재 역량 발휘 + 채용 연결”\n\n현대자동차가 ‘제2회 현대자동차 연구개발본부 AI 경진대회’를 개최합니다. \n\n올해로 두 번째를 맞는 이번 ‘AI 경진대회’는 현대자동차 연구개발본부 실무자와 대학(원)생이 팀을 이뤄 실제 연구개발 현장에서 발굴된 문제점을 인공지능 알고리즘을 활용해 개선하는 프로젝트형 경진대회로 진행됩니다. \n\n■ 참가 자격\n• :mortar_board: SW/머신러닝/딥러닝에 대한 이해가 있는 대학(원) 재학/휴학/졸업생\n• :mortar_board: 서류 합격자에 한해 별도 코딩테스트 예정\n■ 필요 역량\n• :juggling: 소프트웨어 및 머신러닝/딥러닝 역량 요구 수준\n• :juggling: 데이터 이해 기반 알고리즘 선택, 필요 Pipe-line 구현 수준\n■ 접수 기간\n• :date: 2022.05.25(수) 10:00 ~ 06.22(수) 23:59\n■ 참가 신청\n• :memo: \u003chttps://lnkd.in/dRB54R7B|https://lnkd.in/dRB54R7B\u003e\n\n※ ‘AI 경진대회’ 진행\n    ◦ 30명 선발, 현대자동차 연구원과 팀업,\n    ◦ 실무 현장에서 발굴된 개선 프로젝트를 공동으로 진행\n※ 참가 혜택\n    ◦ 참여자: 소정의 활동비(200만원) 지급\n    ◦ 우수팀으로 선정 시 비슷한 규모의 시상품이 수여\n    ◦ ‘현대자동차 R\u0026amp;D AI 경진대회 활동 증명서’ 발급\n    ◦ 유관부문 입사지원 시 서류평가를 면제\n:point_right: Find more at : \n• 현대자동차 연구개발본부 AI경진대회\n: \u003chttps://lnkd.in/djCM36Xe|https://lnkd.in/djCM36Xe\u003e",
-    "ts": "1655115876.270469",
-    "attachments": [
-      {
-        "fallback": "현대자동차 연구개발본부 AI경진대회",
-        "id": 1,
-        "title": "현대자동차 연구개발본부 AI경진대회",
-        "title_link": "https://lnkd.in/djCM36Xe",
-        "text": "현대자동차 연구개발본부 2021년 AI경진대회 페이지입니다.",
-        "service_name": "hyundai-ai-competition.com",
-        "service_icon": "https://static.parastorage.com/client/pfavico.ico",
-        "from_url": "https://lnkd.in/djCM36Xe",
-        "original_url": "https://lnkd.in/djCM36Xe",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 10,
-        "users": [
-          "U01QV1SQJ57",
-          "U01Q1KFN4JK",
-          "U02UQ4CMR7X",
-          "U02ULBHV58W",
-          "U0302PL7F7S",
-          "U01SXEG547P",
-          "U01QAE5BVEX",
-          "U02UVAT3BPW",
-          "U01QV28FG4R",
-          "U02UT1XUGFL"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ieAY",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "❏ "
-              },
-              {
-                "type": "emoji",
-                "name": "trophy",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 제2회 현대자동차 연구개발본부 인공지능(AI) 경진대회"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "\n• 인공지능(AI) 활용 연구환경 조성 프로젝트형 경진대회"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "• 활동증명서 발급 및 입사지원 서류전형 면제 등 참여자 혜택"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "• “우수 인재 역량 발휘 + 채용 연결”"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "\n현대자동차가 ‘제2회 현대자동차 연구개발본부 AI 경진대회’를 개최합니다. "
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "\n올해로 두 번째를 맞는 이번 ‘AI 경진대회’는 현대자동차 연구개발본부 실무자와 대학(원)생이 팀을 이뤄 실제 연구개발 현장에서 발굴된 문제점을 인공지능 알고리즘을 활용해 개선하는 프로젝트형 경진대회로 진행됩니다. "
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "\n■ 참가 자격"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"mortar_board\",\"unicode\":\"1f393\"},{\"type\":\"text\",\"text\":\" SW\\/\\uba38\\uc2e0\\ub7ec\\ub2dd\\/\\ub525\\ub7ec\\ub2dd\\uc5d0 \\ub300\\ud55c \\uc774\\ud574\\uac00 \\uc788\\ub294 \\ub300\\ud559(\\uc6d0) \\uc7ac\\ud559\\/\\ud734\\ud559\\/\\uc878\\uc5c5\\uc0dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"mortar_board\",\"unicode\":\"1f393\"},{\"type\":\"text\",\"text\":\" \\uc11c\\ub958 \\ud569\\uaca9\\uc790\\uc5d0 \\ud55c\\ud574 \\ubcc4\\ub3c4 \\ucf54\\ub529\\ud14c\\uc2a4\\ud2b8 \\uc608\\uc815\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "■ 필요 역량"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"juggling\",\"unicode\":\"1f939\"},{\"type\":\"text\",\"text\":\" \\uc18c\\ud504\\ud2b8\\uc6e8\\uc5b4 \\ubc0f \\uba38\\uc2e0\\ub7ec\\ub2dd\\/\\ub525\\ub7ec\\ub2dd \\uc5ed\\ub7c9 \\uc694\\uad6c \\uc218\\uc900\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"juggling\",\"unicode\":\"1f939\"},{\"type\":\"text\",\"text\":\" \\ub370\\uc774\\ud130 \\uc774\\ud574 \\uae30\\ubc18 \\uc54c\\uace0\\ub9ac\\uc998 \\uc120\\ud0dd, \\ud544\\uc694 Pipe-line \\uad6c\\ud604 \\uc218\\uc900\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "■ 접수 기간"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"date\",\"unicode\":\"1f4c5\"},{\"type\":\"text\",\"text\":\" 2022.05.25(\\uc218) 10:00 ~ 06.22(\\uc218) 23:59\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "■ 참가 신청"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"memo\",\"unicode\":\"1f4dd\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"link\",\"url\":\"https:\\/\\/lnkd.in\\/dRB54R7B\",\"text\":\"https:\\/\\/lnkd.in\\/dRB54R7B\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "※ ‘AI 경진대회’ 진행"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"30\\uba85 \\uc120\\ubc1c, \\ud604\\ub300\\uc790\\ub3d9\\ucc28 \\uc5f0\\uad6c\\uc6d0\\uacfc \\ud300\\uc5c5,\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e4\\ubb34 \\ud604\\uc7a5\\uc5d0\\uc11c \\ubc1c\\uad74\\ub41c \\uac1c\\uc120 \\ud504\\ub85c\\uc81d\\ud2b8\\ub97c \\uacf5\\ub3d9\\uc73c\\ub85c \\uc9c4\\ud589\"}]}],\"style\":\"bullet\",\"indent\":1,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "※ 참가 혜택"
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc5ec\\uc790: \\uc18c\\uc815\\uc758 \\ud65c\\ub3d9\\ube44(200\\ub9cc\\uc6d0) \\uc9c0\\uae09\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b0\\uc218\\ud300\\uc73c\\ub85c \\uc120\\uc815 \\uc2dc \\ube44\\uc2b7\\ud55c \\uaddc\\ubaa8\\uc758 \\uc2dc\\uc0c1\\ud488\\uc774 \\uc218\\uc5ec\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\u2018\\ud604\\ub300\\uc790\\ub3d9\\ucc28 R\u0026D AI \\uacbd\\uc9c4\\ub300\\ud68c \\ud65c\\ub3d9 \\uc99d\\uba85\\uc11c\\u2019 \\ubc1c\\uae09\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc720\\uad00\\ubd80\\ubb38 \\uc785\\uc0ac\\uc9c0\\uc6d0 \\uc2dc \\uc11c\\ub958\\ud3c9\\uac00\\ub97c \\uba74\\uc81c\"}]}],\"style\":\"bullet\",\"indent\":1,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "emoji",
-                "name": "point_right",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " Find more at : "
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud604\\ub300\\uc790\\ub3d9\\ucc28 \\uc5f0\\uad6c\\uac1c\\ubc1c\\ubcf8\\ubd80 AI\\uacbd\\uc9c4\\ub300\\ud68c\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": ": "
-              },
-              {
-                "type": "link",
-                "url": "https://lnkd.in/djCM36Xe",
-                "text": "https://lnkd.in/djCM36Xe"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/35f5044bbe94859089465570a4e20139.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
-      "first_name": "Taesup",
-      "real_name": "Taesup Kim",
-      "display_name": "Taesup Kim",
-      "team": "T01QA5S537V",
-      "name": "taesup.kim",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "7B41474F-3D9F-43C8-97BE-1B34AE94DE56",
+			"type": "message",
+			"user": "U0361QTEZMG",
+			"text": "❏ :trophy: 제2회 현대자동차 연구개발본부 인공지능(AI) 경진대회\n\n• 인공지능(AI) 활용 연구환경 조성 프로젝트형 경진대회\n• 활동증명서 발급 및 입사지원 서류전형 면제 등 참여자 혜택\n• “우수 인재 역량 발휘 + 채용 연결”\n\n현대자동차가 ‘제2회 현대자동차 연구개발본부 AI 경진대회’를 개최합니다. \n\n올해로 두 번째를 맞는 이번 ‘AI 경진대회’는 현대자동차 연구개발본부 실무자와 대학(원)생이 팀을 이뤄 실제 연구개발 현장에서 발굴된 문제점을 인공지능 알고리즘을 활용해 개선하는 프로젝트형 경진대회로 진행됩니다. \n\n■ 참가 자격\n• :mortar_board: SW/머신러닝/딥러닝에 대한 이해가 있는 대학(원) 재학/휴학/졸업생\n• :mortar_board: 서류 합격자에 한해 별도 코딩테스트 예정\n■ 필요 역량\n• :juggling: 소프트웨어 및 머신러닝/딥러닝 역량 요구 수준\n• :juggling: 데이터 이해 기반 알고리즘 선택, 필요 Pipe-line 구현 수준\n■ 접수 기간\n• :date: 2022.05.25(수) 10:00 ~ 06.22(수) 23:59\n■ 참가 신청\n• :memo: <https://lnkd.in/dRB54R7B|https://lnkd.in/dRB54R7B>\n\n※ ‘AI 경진대회’ 진행\n    ◦ 30명 선발, 현대자동차 연구원과 팀업,\n    ◦ 실무 현장에서 발굴된 개선 프로젝트를 공동으로 진행\n※ 참가 혜택\n    ◦ 참여자: 소정의 활동비(200만원) 지급\n    ◦ 우수팀으로 선정 시 비슷한 규모의 시상품이 수여\n    ◦ ‘현대자동차 R&amp;D AI 경진대회 활동 증명서’ 발급\n    ◦ 유관부문 입사지원 시 서류평가를 면제\n:point_right: Find more at : \n• 현대자동차 연구개발본부 AI경진대회\n: <https://lnkd.in/djCM36Xe|https://lnkd.in/djCM36Xe>",
+			"ts": "1655115876.270469",
+			"attachments": [
+				{
+					"fallback": "현대자동차 연구개발본부 AI경진대회",
+					"id": 1,
+					"title": "현대자동차 연구개발본부 AI경진대회",
+					"title_link": "https://lnkd.in/djCM36Xe",
+					"text": "현대자동차 연구개발본부 2021년 AI경진대회 페이지입니다.",
+					"service_name": "hyundai-ai-competition.com",
+					"service_icon": "https://static.parastorage.com/client/pfavico.ico",
+					"from_url": "https://lnkd.in/djCM36Xe",
+					"original_url": "https://lnkd.in/djCM36Xe",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 10,
+					"users": [
+						"U01QV1SQJ57",
+						"U01Q1KFN4JK",
+						"U02UQ4CMR7X",
+						"U02ULBHV58W",
+						"U0302PL7F7S",
+						"U01SXEG547P",
+						"U01QAE5BVEX",
+						"U02UVAT3BPW",
+						"U01QV28FG4R",
+						"U02UT1XUGFL"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ieAY",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "❏ "
+								},
+								{
+									"type": "emoji",
+									"name": "trophy",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 제2회 현대자동차 연구개발본부 인공지능(AI) 경진대회"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "\n• 인공지능(AI) 활용 연구환경 조성 프로젝트형 경진대회"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "• 활동증명서 발급 및 입사지원 서류전형 면제 등 참여자 혜택"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "• “우수 인재 역량 발휘 + 채용 연결”"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "\n현대자동차가 ‘제2회 현대자동차 연구개발본부 AI 경진대회’를 개최합니다. "
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "\n올해로 두 번째를 맞는 이번 ‘AI 경진대회’는 현대자동차 연구개발본부 실무자와 대학(원)생이 팀을 이뤄 실제 연구개발 현장에서 발굴된 문제점을 인공지능 알고리즘을 활용해 개선하는 프로젝트형 경진대회로 진행됩니다. "
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "\n■ 참가 자격"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"mortar_board\",\"unicode\":\"1f393\"},{\"type\":\"text\",\"text\":\" SW\\/\\uba38\\uc2e0\\ub7ec\\ub2dd\\/\\ub525\\ub7ec\\ub2dd\\uc5d0 \\ub300\\ud55c \\uc774\\ud574\\uac00 \\uc788\\ub294 \\ub300\\ud559(\\uc6d0) \\uc7ac\\ud559\\/\\ud734\\ud559\\/\\uc878\\uc5c5\\uc0dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"mortar_board\",\"unicode\":\"1f393\"},{\"type\":\"text\",\"text\":\" \\uc11c\\ub958 \\ud569\\uaca9\\uc790\\uc5d0 \\ud55c\\ud574 \\ubcc4\\ub3c4 \\ucf54\\ub529\\ud14c\\uc2a4\\ud2b8 \\uc608\\uc815\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "■ 필요 역량"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"juggling\",\"unicode\":\"1f939\"},{\"type\":\"text\",\"text\":\" \\uc18c\\ud504\\ud2b8\\uc6e8\\uc5b4 \\ubc0f \\uba38\\uc2e0\\ub7ec\\ub2dd\\/\\ub525\\ub7ec\\ub2dd \\uc5ed\\ub7c9 \\uc694\\uad6c \\uc218\\uc900\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"juggling\",\"unicode\":\"1f939\"},{\"type\":\"text\",\"text\":\" \\ub370\\uc774\\ud130 \\uc774\\ud574 \\uae30\\ubc18 \\uc54c\\uace0\\ub9ac\\uc998 \\uc120\\ud0dd, \\ud544\\uc694 Pipe-line \\uad6c\\ud604 \\uc218\\uc900\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "■ 접수 기간"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"date\",\"unicode\":\"1f4c5\"},{\"type\":\"text\",\"text\":\" 2022.05.25(\\uc218) 10:00 ~ 06.22(\\uc218) 23:59\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "■ 참가 신청"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"emoji\",\"name\":\"memo\",\"unicode\":\"1f4dd\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"link\",\"url\":\"https:\\/\\/lnkd.in\\/dRB54R7B\",\"text\":\"https:\\/\\/lnkd.in\\/dRB54R7B\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "※ ‘AI 경진대회’ 진행"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"30\\uba85 \\uc120\\ubc1c, \\ud604\\ub300\\uc790\\ub3d9\\ucc28 \\uc5f0\\uad6c\\uc6d0\\uacfc \\ud300\\uc5c5,\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e4\\ubb34 \\ud604\\uc7a5\\uc5d0\\uc11c \\ubc1c\\uad74\\ub41c \\uac1c\\uc120 \\ud504\\ub85c\\uc81d\\ud2b8\\ub97c \\uacf5\\ub3d9\\uc73c\\ub85c \\uc9c4\\ud589\"}]}],\"style\":\"bullet\",\"indent\":1,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "※ 참가 혜택"
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc5ec\\uc790: \\uc18c\\uc815\\uc758 \\ud65c\\ub3d9\\ube44(200\\ub9cc\\uc6d0) \\uc9c0\\uae09\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b0\\uc218\\ud300\\uc73c\\ub85c \\uc120\\uc815 \\uc2dc \\ube44\\uc2b7\\ud55c \\uaddc\\ubaa8\\uc758 \\uc2dc\\uc0c1\\ud488\\uc774 \\uc218\\uc5ec\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\u2018\\ud604\\ub300\\uc790\\ub3d9\\ucc28 R&D AI \\uacbd\\uc9c4\\ub300\\ud68c \\ud65c\\ub3d9 \\uc99d\\uba85\\uc11c\\u2019 \\ubc1c\\uae09\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc720\\uad00\\ubd80\\ubb38 \\uc785\\uc0ac\\uc9c0\\uc6d0 \\uc2dc \\uc11c\\ub958\\ud3c9\\uac00\\ub97c \\uba74\\uc81c\"}]}],\"style\":\"bullet\",\"indent\":1,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "emoji",
+									"name": "point_right",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " Find more at : "
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud604\\ub300\\uc790\\ub3d9\\ucc28 \\uc5f0\\uad6c\\uac1c\\ubc1c\\ubcf8\\ubd80 AI\\uacbd\\uc9c4\\ub300\\ud68c\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": ": "
+								},
+								{
+									"type": "link",
+									"url": "https://lnkd.in/djCM36Xe",
+									"text": "https://lnkd.in/djCM36Xe"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/35f5044bbe94859089465570a4e20139.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+				"first_name": "Taesup",
+				"real_name": "Taesup Kim",
+				"display_name": "Taesup Kim",
+				"team": "T01QA5S537V",
+				"name": "taesup.kim",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,241 +1,243 @@
-[
-  {
-    "client_msg_id": "6643f985-839d-4b81-9bba-42e1ca365b58",
-    "type": "message",
-    "user": "U02UT1Y2UJW",
-    "text": "안녕하세요. 석사 3기 박성일입니다\n\n재밌는 해커톤을 찾아서 같이 참가하실 분을 찾고 있습니다\n\n• *주제*\n    ◦ 자연어처리 기법을 활용한 매장 메뉴 정리\n    ◦ 정확한 설명은 없는데 아마 *NER 태스크*인 것 같습니다\n• *개요*\n    ◦ *모집인원 : 1~2명*\n    ◦ *모집기한 : 11월 29일(화) 까지*\n• *대회일*\n    ◦ 1월 27일(금) ~ 29일(일) (2박 3일)\n    ◦ 금요일은 출퇴근, 주말은 합숙으로 숙식 제공\n    ◦ 3일 모두 참석가능 해야합니다\n• *상금 및 상품*\n    ◦ 1등-3등 팀은 각 약 300만원, 200만원, 100만원에 달하는 가치의 상품\n    ◦ 참가자 전원에게 몇 10만원의 가치가 있는 상품\n    ◦ 좋은 성과의 팀은 전환형 인턴으로 채용\n• *참고 사항*\n    ◦ 프로젝트 기간 동안 노트북 제공\n    ◦ 참가 확정 시 데이터 정보, 해커톤을 위한 공부 방향성 등 가이드 제공\n• *해커톤 세부 사항(링크)*\n    ◦ \u003chttps://pinkwink.kr/1399|비버웍스가 NLP 해커톤 대회를 통해 좋은 인재를 모집합니다. [feat. 핑크랩]\u003e\n개인적으로 요즘 데이터 공모전들이 지나치게 time-consuming해서 참여하기가 꺼려지는데 2박 3일만 고생(?)하면 돼서 좋은 것 같습니다. 관심있으신 분은 슬랙 DM이나 카카오톡 athjk3로 연락주세요!",
-    "ts": "1669103123.064979",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U0406PM050F"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "iEd8L",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요. 석사 3기 박성일입니다\n\n재밌는 해커톤을 찾아서 같이 참가하실 분을 찾고 있습니다\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc81c\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc790\\uc5f0\\uc5b4\\ucc98\\ub9ac \\uae30\\ubc95\\uc744 \\ud65c\\uc6a9\\ud55c \\ub9e4\\uc7a5 \\uba54\\ub274 \\uc815\\ub9ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc815\\ud655\\ud55c \\uc124\\uba85\\uc740 \\uc5c6\\ub294\\ub370 \\uc544\\ub9c8 \"},{\"type\":\"text\",\"text\":\"NER \\ud0dc\\uc2a4\\ud06c\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc778 \\uac83 \\uac19\\uc2b5\\ub2c8\\ub2e4\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\uc694\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1\\uc778\\uc6d0 : 1~2\\uba85\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1\\uae30\\ud55c : 11\\uc6d4 29\\uc77c(\\ud654) \\uae4c\\uc9c0\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub300\\ud68c\\uc77c\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\uc6d4 27\\uc77c(\\uae08) ~ 29\\uc77c(\\uc77c) (2\\ubc15 3\\uc77c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae08\\uc694\\uc77c\\uc740 \\ucd9c\\ud1f4\\uadfc, \\uc8fc\\ub9d0\\uc740 \\ud569\\uc219\\uc73c\\ub85c \\uc219\\uc2dd \\uc81c\\uacf5\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"3\\uc77c \\ubaa8\\ub450 \\ucc38\\uc11d\\uac00\\ub2a5 \\ud574\\uc57c\\ud569\\ub2c8\\ub2e4\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0c1\\uae08 \\ubc0f \\uc0c1\\ud488\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\ub4f1-3\\ub4f1 \\ud300\\uc740 \\uac01 \\uc57d 300\\ub9cc\\uc6d0, 200\\ub9cc\\uc6d0, 100\\ub9cc\\uc6d0\\uc5d0 \\ub2ec\\ud558\\ub294 \\uac00\\uce58\\uc758 \\uc0c1\\ud488\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uac00\\uc790 \\uc804\\uc6d0\\uc5d0\\uac8c \\uba87 10\\ub9cc\\uc6d0\\uc758 \\uac00\\uce58\\uac00 \\uc788\\ub294 \\uc0c1\\ud488\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc88b\\uc740 \\uc131\\uacfc\\uc758 \\ud300\\uc740 \\uc804\\ud658\\ud615 \\uc778\\ud134\\uc73c\\ub85c \\ucc44\\uc6a9\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uace0 \\uc0ac\\ud56d\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud504\\ub85c\\uc81d\\ud2b8 \\uae30\\uac04 \\ub3d9\\uc548 \\ub178\\ud2b8\\ubd81 \\uc81c\\uacf5\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uac00 \\ud655\\uc815 \\uc2dc \\ub370\\uc774\\ud130 \\uc815\\ubcf4, \\ud574\\ucee4\\ud1a4\\uc744 \\uc704\\ud55c \\uacf5\\ubd80 \\ubc29\\ud5a5\\uc131 \\ub4f1 \\uac00\\uc774\\ub4dc \\uc81c\\uacf5\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud574\\ucee4\\ud1a4 \\uc138\\ubd80 \\uc0ac\\ud56d(\\ub9c1\\ud06c)\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/pinkwink.kr\\/1399\",\"text\":\"\\ube44\\ubc84\\uc6cd\\uc2a4\\uac00 NLP \\ud574\\ucee4\\ud1a4 \\ub300\\ud68c\\ub97c \\ud1b5\\ud574 \\uc88b\\uc740 \\uc778\\uc7ac\\ub97c \\ubaa8\\uc9d1\\ud569\\ub2c8\\ub2e4. [feat. \\ud551\\ud06c\\ub7a9]\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n개인적으로 요즘 데이터 공모전들이 지나치게 time-consuming해서 참여하기가 꺼려지는데 2박 3일만 고생(?)하면 돼서 좋은 것 같습니다. 관심있으신 분은 슬랙 DM이나 카카오톡 athjk3로 연락주세요!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/32f847ec32c79ee2beb412338ef86d76.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
-      "first_name": "3기_박성일",
-      "real_name": "3기_박성일",
-      "display_name": "3기_박성일",
-      "team": "T01QA5S537V",
-      "name": "athjk3",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "3c6637c6-c2c2-432a-b49e-a42a09e66480",
-    "type": "message",
-    "user": "U01QGG6A5LJ",
-    "text": "안녕하세요. 이승근 교수님 연구실 운영위원 2기 정석호입니다.\n11월 탕비실 청소를 저희 연구실이 맡게 되어 공지드립니다.\n\n11월 25일(금) 오후에 냉장고 및 탕비실 청소를 진행하겠습니다.\n지난달과 마찬가지로 아래 링크의 가이드라인을 참고하셔서 사전에 정리해주시면 감사하겠습니다.\n\n*[사용 및 정리 가이드라인]*\n\u003chttps://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799\u003e\n1. 개인 및 랩실 단위로 사용하는 물품의 경우, 사용자 이름과 유통기한을 적시해주셔야합니다. 하나라도 없는 경우 폐기처분 할 예정입니다.\n2. 사용자 이름과 유통기한을 쓰셔도 과도하게 대량구매하여 냉장고 큰 부분을 차지하는 경우도 폐기처분 대상입니다.\n3. 탕비실 내 보관 장소 또한 개인이나 랩이 사용할 수 없습니다. 정리 대상입니다.\n혹시 청소 전까지 물품을 옮기지 못하는 경우 개인적으로 연락주시거나 아래 댓글 부탁드립니다.",
-    "ts": "1669104791.786919",
-    "attachments": [
-      {
-        "fallback": "[July 25th, 2022 10:52 PM] kimjoohyoen: 안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
-        "id": 1,
-        "author_id": "U01QGKCT067",
-        "author_name": "2기_김주현",
-        "author_subname": "2기_김주현",
-        "author_link": "https://snugsds.slack.com/team/U01QGKCT067",
-        "author_icon": "https://secure.gravatar.com/avatar/c6966545056a08d1f4311a48cc662172.jpg?s=48\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-48.png",
-        "text": "안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
-        "from_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
-        "original_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
-        "mrkdwn_in": [
-          "text"
-        ],
-        "blocks": null,
-        "footer": "Slack Conversation",
-        "ts": 1658814777.571799
-      }
-    ],
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 20,
-        "users": [
-          "U01Q75KNV1T",
-          "U01PVEU7QKH",
-          "U01Q1KFN4JK",
-          "U01Q386CMKQ",
-          "U01QV1WAPL1",
-          "U01QGKD09K5",
-          "U01QGKCT067",
-          "U01QV1SQJ57",
-          "U01PVEU1A07",
-          "U0302PLQ34Y",
-          "U03TC6PDAFP",
-          "U01QGJUT403",
-          "U01Q1KQ03PZ",
-          "U02ULBHV58W",
-          "U01QNSM488Z",
-          "U01R689L5KJ",
-          "U01QGKC4BM1",
-          "U02UQ4D8L2Z",
-          "U040ENMBB1C",
-          "U02ULBJGHF0"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Q5N86",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요. 이승근 교수님 연구실 운영위원 2기 정석호입니다.\n11월 탕비실 청소를 저희 연구실이 맡게 되어 공지드립니다.\n\n11월 25일(금) 오후에 냉장고 및 탕비실 청소를 진행하겠습니다.\n지난달과 마찬가지로 아래 링크의 가이드라인을 참고하셔서 사전에 정리해주시면 감사하겠습니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "[사용 및 정리 가이드라인]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "link",
-                "url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\uc778 \\ubc0f \\ub7a9\\uc2e4 \\ub2e8\\uc704\\ub85c \\uc0ac\\uc6a9\\ud558\\ub294 \\ubb3c\\ud488\\uc758 \\uacbd\\uc6b0, \\uc0ac\\uc6a9\\uc790 \\uc774\\ub984\\uacfc \\uc720\\ud1b5\\uae30\\ud55c\\uc744 \\uc801\\uc2dc\\ud574\\uc8fc\\uc154\\uc57c\\ud569\\ub2c8\\ub2e4. \\ud558\\ub098\\ub77c\\ub3c4 \\uc5c6\\ub294 \\uacbd\\uc6b0 \\ud3d0\\uae30\\ucc98\\ubd84 \\ud560 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc6a9\\uc790 \\uc774\\ub984\\uacfc \\uc720\\ud1b5\\uae30\\ud55c\\uc744 \\uc4f0\\uc154\\ub3c4 \\uacfc\\ub3c4\\ud558\\uac8c \\ub300\\ub7c9\\uad6c\\ub9e4\\ud558\\uc5ec \\ub0c9\\uc7a5\\uace0 \\ud070 \\ubd80\\ubd84\\uc744 \\ucc28\\uc9c0\\ud558\\ub294 \\uacbd\\uc6b0\\ub3c4 \\ud3d0\\uae30\\ucc98\\ubd84 \\ub300\\uc0c1\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud0d5\\ube44\\uc2e4 \\ub0b4 \\ubcf4\\uad00 \\uc7a5\\uc18c \\ub610\\ud55c \\uac1c\\uc778\\uc774\\ub098 \\ub7a9\\uc774 \\uc0ac\\uc6a9\\ud560 \\uc218 \\uc5c6\\uc2b5\\ub2c8\\ub2e4. \\uc815\\ub9ac \\ub300\\uc0c1\\uc785\\ub2c8\\ub2e4.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시 청소 전까지 물품을 옮기지 못하는 경우 개인적으로 연락주시거나 아래 댓글 부탁드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1845178163313_ec8016a9186a6e00037d_72.png",
-      "first_name": "2기_정석호",
-      "real_name": "2기_정석호",
-      "display_name": "2기_정석호",
-      "team": "T01QA5S537V",
-      "name": "seokho92",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "6643f985-839d-4b81-9bba-42e1ca365b58",
+			"type": "message",
+			"user": "U02UT1Y2UJW",
+			"text": "안녕하세요. 석사 3기 박성일입니다\n\n재밌는 해커톤을 찾아서 같이 참가하실 분을 찾고 있습니다\n\n• *주제*\n    ◦ 자연어처리 기법을 활용한 매장 메뉴 정리\n    ◦ 정확한 설명은 없는데 아마 *NER 태스크*인 것 같습니다\n• *개요*\n    ◦ *모집인원 : 1~2명*\n    ◦ *모집기한 : 11월 29일(화) 까지*\n• *대회일*\n    ◦ 1월 27일(금) ~ 29일(일) (2박 3일)\n    ◦ 금요일은 출퇴근, 주말은 합숙으로 숙식 제공\n    ◦ 3일 모두 참석가능 해야합니다\n• *상금 및 상품*\n    ◦ 1등-3등 팀은 각 약 300만원, 200만원, 100만원에 달하는 가치의 상품\n    ◦ 참가자 전원에게 몇 10만원의 가치가 있는 상품\n    ◦ 좋은 성과의 팀은 전환형 인턴으로 채용\n• *참고 사항*\n    ◦ 프로젝트 기간 동안 노트북 제공\n    ◦ 참가 확정 시 데이터 정보, 해커톤을 위한 공부 방향성 등 가이드 제공\n• *해커톤 세부 사항(링크)*\n    ◦ <https://pinkwink.kr/1399|비버웍스가 NLP 해커톤 대회를 통해 좋은 인재를 모집합니다. [feat. 핑크랩]>\n개인적으로 요즘 데이터 공모전들이 지나치게 time-consuming해서 참여하기가 꺼려지는데 2박 3일만 고생(?)하면 돼서 좋은 것 같습니다. 관심있으신 분은 슬랙 DM이나 카카오톡 athjk3로 연락주세요!",
+			"ts": "1669103123.064979",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U0406PM050F"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "iEd8L",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요. 석사 3기 박성일입니다\n\n재밌는 해커톤을 찾아서 같이 참가하실 분을 찾고 있습니다\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc81c\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc790\\uc5f0\\uc5b4\\ucc98\\ub9ac \\uae30\\ubc95\\uc744 \\ud65c\\uc6a9\\ud55c \\ub9e4\\uc7a5 \\uba54\\ub274 \\uc815\\ub9ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc815\\ud655\\ud55c \\uc124\\uba85\\uc740 \\uc5c6\\ub294\\ub370 \\uc544\\ub9c8 \"},{\"type\":\"text\",\"text\":\"NER \\ud0dc\\uc2a4\\ud06c\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc778 \\uac83 \\uac19\\uc2b5\\ub2c8\\ub2e4\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\uc694\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1\\uc778\\uc6d0 : 1~2\\uba85\",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1\\uae30\\ud55c : 11\\uc6d4 29\\uc77c(\\ud654) \\uae4c\\uc9c0\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub300\\ud68c\\uc77c\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\uc6d4 27\\uc77c(\\uae08) ~ 29\\uc77c(\\uc77c) (2\\ubc15 3\\uc77c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae08\\uc694\\uc77c\\uc740 \\ucd9c\\ud1f4\\uadfc, \\uc8fc\\ub9d0\\uc740 \\ud569\\uc219\\uc73c\\ub85c \\uc219\\uc2dd \\uc81c\\uacf5\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"3\\uc77c \\ubaa8\\ub450 \\ucc38\\uc11d\\uac00\\ub2a5 \\ud574\\uc57c\\ud569\\ub2c8\\ub2e4\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0c1\\uae08 \\ubc0f \\uc0c1\\ud488\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\ub4f1-3\\ub4f1 \\ud300\\uc740 \\uac01 \\uc57d 300\\ub9cc\\uc6d0, 200\\ub9cc\\uc6d0, 100\\ub9cc\\uc6d0\\uc5d0 \\ub2ec\\ud558\\ub294 \\uac00\\uce58\\uc758 \\uc0c1\\ud488\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uac00\\uc790 \\uc804\\uc6d0\\uc5d0\\uac8c \\uba87 10\\ub9cc\\uc6d0\\uc758 \\uac00\\uce58\\uac00 \\uc788\\ub294 \\uc0c1\\ud488\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc88b\\uc740 \\uc131\\uacfc\\uc758 \\ud300\\uc740 \\uc804\\ud658\\ud615 \\uc778\\ud134\\uc73c\\ub85c \\ucc44\\uc6a9\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uace0 \\uc0ac\\ud56d\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud504\\ub85c\\uc81d\\ud2b8 \\uae30\\uac04 \\ub3d9\\uc548 \\ub178\\ud2b8\\ubd81 \\uc81c\\uacf5\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uac00 \\ud655\\uc815 \\uc2dc \\ub370\\uc774\\ud130 \\uc815\\ubcf4, \\ud574\\ucee4\\ud1a4\\uc744 \\uc704\\ud55c \\uacf5\\ubd80 \\ubc29\\ud5a5\\uc131 \\ub4f1 \\uac00\\uc774\\ub4dc \\uc81c\\uacf5\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud574\\ucee4\\ud1a4 \\uc138\\ubd80 \\uc0ac\\ud56d(\\ub9c1\\ud06c)\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/pinkwink.kr\\/1399\",\"text\":\"\\ube44\\ubc84\\uc6cd\\uc2a4\\uac00 NLP \\ud574\\ucee4\\ud1a4 \\ub300\\ud68c\\ub97c \\ud1b5\\ud574 \\uc88b\\uc740 \\uc778\\uc7ac\\ub97c \\ubaa8\\uc9d1\\ud569\\ub2c8\\ub2e4. [feat. \\ud551\\ud06c\\ub7a9]\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n개인적으로 요즘 데이터 공모전들이 지나치게 time-consuming해서 참여하기가 꺼려지는데 2박 3일만 고생(?)하면 돼서 좋은 것 같습니다. 관심있으신 분은 슬랙 DM이나 카카오톡 athjk3로 연락주세요!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/32f847ec32c79ee2beb412338ef86d76.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+				"first_name": "3기_박성일",
+				"real_name": "3기_박성일",
+				"display_name": "3기_박성일",
+				"team": "T01QA5S537V",
+				"name": "athjk3",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "3c6637c6-c2c2-432a-b49e-a42a09e66480",
+			"type": "message",
+			"user": "U01QGG6A5LJ",
+			"text": "안녕하세요. 이승근 교수님 연구실 운영위원 2기 정석호입니다.\n11월 탕비실 청소를 저희 연구실이 맡게 되어 공지드립니다.\n\n11월 25일(금) 오후에 냉장고 및 탕비실 청소를 진행하겠습니다.\n지난달과 마찬가지로 아래 링크의 가이드라인을 참고하셔서 사전에 정리해주시면 감사하겠습니다.\n\n*[사용 및 정리 가이드라인]*\n<https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799>\n1. 개인 및 랩실 단위로 사용하는 물품의 경우, 사용자 이름과 유통기한을 적시해주셔야합니다. 하나라도 없는 경우 폐기처분 할 예정입니다.\n2. 사용자 이름과 유통기한을 쓰셔도 과도하게 대량구매하여 냉장고 큰 부분을 차지하는 경우도 폐기처분 대상입니다.\n3. 탕비실 내 보관 장소 또한 개인이나 랩이 사용할 수 없습니다. 정리 대상입니다.\n혹시 청소 전까지 물품을 옮기지 못하는 경우 개인적으로 연락주시거나 아래 댓글 부탁드립니다.",
+			"ts": "1669104791.786919",
+			"attachments": [
+				{
+					"fallback": "[July 25th, 2022 10:52 PM] kimjoohyoen: 안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+					"id": 1,
+					"author_id": "U01QGKCT067",
+					"author_name": "2기_김주현",
+					"author_subname": "2기_김주현",
+					"author_link": "https://snugsds.slack.com/team/U01QGKCT067",
+					"author_icon": "https://secure.gravatar.com/avatar/c6966545056a08d1f4311a48cc662172.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-48.png",
+					"text": "안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+					"from_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+					"original_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+					"mrkdwn_in": [
+						"text"
+					],
+					"blocks": null,
+					"footer": "Slack Conversation",
+					"ts": 1658814777.571799
+				}
+			],
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 20,
+					"users": [
+						"U01Q75KNV1T",
+						"U01PVEU7QKH",
+						"U01Q1KFN4JK",
+						"U01Q386CMKQ",
+						"U01QV1WAPL1",
+						"U01QGKD09K5",
+						"U01QGKCT067",
+						"U01QV1SQJ57",
+						"U01PVEU1A07",
+						"U0302PLQ34Y",
+						"U03TC6PDAFP",
+						"U01QGJUT403",
+						"U01Q1KQ03PZ",
+						"U02ULBHV58W",
+						"U01QNSM488Z",
+						"U01R689L5KJ",
+						"U01QGKC4BM1",
+						"U02UQ4D8L2Z",
+						"U040ENMBB1C",
+						"U02ULBJGHF0"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Q5N86",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요. 이승근 교수님 연구실 운영위원 2기 정석호입니다.\n11월 탕비실 청소를 저희 연구실이 맡게 되어 공지드립니다.\n\n11월 25일(금) 오후에 냉장고 및 탕비실 청소를 진행하겠습니다.\n지난달과 마찬가지로 아래 링크의 가이드라인을 참고하셔서 사전에 정리해주시면 감사하겠습니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "[사용 및 정리 가이드라인]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "link",
+									"url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\uc778 \\ubc0f \\ub7a9\\uc2e4 \\ub2e8\\uc704\\ub85c \\uc0ac\\uc6a9\\ud558\\ub294 \\ubb3c\\ud488\\uc758 \\uacbd\\uc6b0, \\uc0ac\\uc6a9\\uc790 \\uc774\\ub984\\uacfc \\uc720\\ud1b5\\uae30\\ud55c\\uc744 \\uc801\\uc2dc\\ud574\\uc8fc\\uc154\\uc57c\\ud569\\ub2c8\\ub2e4. \\ud558\\ub098\\ub77c\\ub3c4 \\uc5c6\\ub294 \\uacbd\\uc6b0 \\ud3d0\\uae30\\ucc98\\ubd84 \\ud560 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc6a9\\uc790 \\uc774\\ub984\\uacfc \\uc720\\ud1b5\\uae30\\ud55c\\uc744 \\uc4f0\\uc154\\ub3c4 \\uacfc\\ub3c4\\ud558\\uac8c \\ub300\\ub7c9\\uad6c\\ub9e4\\ud558\\uc5ec \\ub0c9\\uc7a5\\uace0 \\ud070 \\ubd80\\ubd84\\uc744 \\ucc28\\uc9c0\\ud558\\ub294 \\uacbd\\uc6b0\\ub3c4 \\ud3d0\\uae30\\ucc98\\ubd84 \\ub300\\uc0c1\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud0d5\\ube44\\uc2e4 \\ub0b4 \\ubcf4\\uad00 \\uc7a5\\uc18c \\ub610\\ud55c \\uac1c\\uc778\\uc774\\ub098 \\ub7a9\\uc774 \\uc0ac\\uc6a9\\ud560 \\uc218 \\uc5c6\\uc2b5\\ub2c8\\ub2e4. \\uc815\\ub9ac \\ub300\\uc0c1\\uc785\\ub2c8\\ub2e4.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시 청소 전까지 물품을 옮기지 못하는 경우 개인적으로 연락주시거나 아래 댓글 부탁드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1845178163313_ec8016a9186a6e00037d_72.png",
+				"first_name": "2기_정석호",
+				"real_name": "2기_정석호",
+				"display_name": "2기_정석호",
+				"team": "T01QA5S537V",
+				"name": "seokho92",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

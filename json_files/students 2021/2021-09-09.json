@@ -1,475 +1,477 @@
-[
-  {
-    "client_msg_id": "8442f3da-b2d0-4478-a5ea-f1de64fb69e8",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "*[GSDS 서버 OS 재설치 관련 긴급 요청]*\n안내드렸던대로 서버 포맷이 예정되어 있는데요.\n30개의 노드에 OS 재설치를 해야 하는데 usb가 좀 많아야 저희가 빠른 시간 안에 작업을 할 수 있습니다.\n\n_*GSDS 학생분들 중에 usb (8GB 이상)를 빌려주실 수 있는 분 계시면*_\n_*저에게 DM 또는 이 글에 댓글을 부탁드립니다.*_\nusb는 차주 월요일에 사용할건데, 미리 빌려주셔도 좋고, 당일 오전에 빌려주셔도 좋습니다.\n\n적극적인 도움 부탁드립니다.",
-    "ts": "1631153887.035400",
-    "thread_ts": "1631153887.035400",
-    "edited": {
-      "user": "U01QAE573J7",
-      "ts": "1631154351.000000"
-    },
-    "reply_count": 6,
-    "replies": [
-      {
-        "user": "U01Q3EP0E14",
-        "ts": "1631154013.035600"
-      },
-      {
-        "user": "U01QNSM488Z",
-        "ts": "1631154039.035900"
-      },
-      {
-        "user": "U01QNSM5STT",
-        "ts": "1631157659.036700"
-      },
-      {
-        "user": "U01QV1TE2UR",
-        "ts": "1631158202.037100"
-      },
-      {
-        "user": "U01QV1SQJ57",
-        "ts": "1631158623.037300"
-      },
-      {
-        "user": "U01QV1WAPL1",
-        "ts": "1631162711.037800"
-      }
-    ],
-    "latest_reply": "1631162711.037800",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "짱구s",
-        "count": 1,
-        "users": [
-          "U01QNSM488Z"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bjWxV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 서버 OS 재설치 관련 긴급 요청]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n안내드렸던대로 서버 포맷이 예정되어 있는데요.\n30개의 노드에 OS 재설치를 해야 하는데 usb가 좀 많아야 저희가 빠른 시간 안에 작업을 할 수 있습니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "GSDS 학생분들 중에 usb (8GB 이상)를 빌려주실 수 있는 분 계시면",
-                "style": {
-                  "bold": true,
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "저에게 DM 또는 이 글에 댓글을 부탁드립니다.",
-                "style": {
-                  "bold": true,
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\nusb는 차주 월요일에 사용할건데, 미리 빌려주셔도 좋고, 당일 오전에 빌려주셔도 좋습니다.\n\n적극적인 도움 부탁드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 6,
-    "reply_users": [
-      "U01Q3EP0E14",
-      "U01QNSM488Z",
-      "U01QNSM5STT",
-      "U01QV1SQJ57",
-      "U01QV1TE2UR",
-      "U01QV1WAPL1"
-    ]
-  },
-  {
-    "client_msg_id": "7891d8ef-86a3-4131-80a7-5d4ebc8b8a15",
-    "type": "message",
-    "user": "U01Q3EP0E14",
-    "text": "usb 1개 가능합니다",
-    "ts": "1631154013.035600",
-    "thread_ts": "1631153887.035400",
-    "parent_user_id": "U01QAE573J7",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heart_eyes",
-        "count": 1,
-        "users": [
-          "U01QAE573J7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "OX2H",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "usb 1개 가능합니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826751142355_2e2bc6d04d608acbe86e_72.png",
-      "first_name": "김우중",
-      "real_name": "김우중",
-      "display_name": "1기_김우중",
-      "team": "T01QA5S537V",
-      "name": "kimwj94",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "e3e6325a-4c54-441c-a99c-85a3419ffc4c",
-    "type": "message",
-    "user": "U01QNSM488Z",
-    "text": "전 usb 3.0으로 가능합니다 :muscle:",
-    "ts": "1631154039.035900",
-    "thread_ts": "1631153887.035400",
-    "parent_user_id": "U01QAE573J7",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heart_eyes",
-        "count": 1,
-        "users": [
-          "U01QAE573J7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "+iyl",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "전 usb 3.0으로 가능합니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "muscle",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
-      "first_name": "1기_황태현",
-      "real_name": "1기_황태현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "th.hwang",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "f252bee1-b602-4433-b63d-3b44b43b96bf",
-    "type": "message",
-    "user": "U01QNSM5STT",
-    "text": "2개 가능합니다",
-    "ts": "1631157659.036700",
-    "thread_ts": "1631153887.035400",
-    "parent_user_id": "U01QAE573J7",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heart_eyes",
-        "count": 1,
-        "users": [
-          "U01QAE573J7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Zg=1a",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2개 가능합니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-06/1836421447860_d2ff22f432fa2cd4f9b0_72.png",
-      "first_name": "김선유",
-      "real_name": "김선유",
-      "display_name": "3기_김선유",
-      "team": "T01QA5S537V",
-      "name": "meoignis",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "5293E167-34F7-46D0-A1CE-7049AE8D0587",
-    "type": "message",
-    "user": "U01QV1TE2UR",
-    "text": "Usb 1개 가능합니다",
-    "ts": "1631158202.037100",
-    "thread_ts": "1631153887.035400",
-    "parent_user_id": "U01QAE573J7",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heart_eyes",
-        "count": 1,
-        "users": [
-          "U01QAE573J7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "L4h",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "Usb 1개 가능합니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1845061592593_2e0cee650a22445613f3_72.png",
-      "first_name": "길광연",
-      "real_name": "길광연",
-      "display_name": "2기 길광연",
-      "team": "T01QA5S537V",
-      "name": "gil9103",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "893a6869-f019-490f-b1a1-4972662247a9",
-    "type": "message",
-    "user": "U01QV1SQJ57",
-    "text": "1개 가능합니다",
-    "ts": "1631158623.037300",
-    "thread_ts": "1631153887.035400",
-    "parent_user_id": "U01QAE573J7",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heart_eyes",
-        "count": 1,
-        "users": [
-          "U01QAE573J7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "aCp",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "1개 가능합니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
-      "first_name": "김병찬",
-      "real_name": "김병찬",
-      "display_name": "4기_김병찬",
-      "team": "T01QA5S537V",
-      "name": "bckim97",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "1ab34332-2649-4a90-a628-8a6d3ecba9d6",
-    "type": "message",
-    "user": "U01QV1WAPL1",
-    "text": "1개 가능합니다.",
-    "ts": "1631162711.037800",
-    "thread_ts": "1631153887.035400",
-    "parent_user_id": "U01QAE573J7",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "heart_eyes",
-        "count": 1,
-        "users": [
-          "U01QAE573J7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "mC3ZC",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "1개 가능합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1825660672566_06f8689d1fa538401ca7_72.jpg",
-      "first_name": "Jongwon",
-      "real_name": "Jongwon Kim",
-      "display_name": "2기_김종원",
-      "team": "T01QA5S537V",
-      "name": "kjwon21",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8442f3da-b2d0-4478-a5ea-f1de64fb69e8",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "*[GSDS 서버 OS 재설치 관련 긴급 요청]*\n안내드렸던대로 서버 포맷이 예정되어 있는데요.\n30개의 노드에 OS 재설치를 해야 하는데 usb가 좀 많아야 저희가 빠른 시간 안에 작업을 할 수 있습니다.\n\n_*GSDS 학생분들 중에 usb (8GB 이상)를 빌려주실 수 있는 분 계시면*_\n_*저에게 DM 또는 이 글에 댓글을 부탁드립니다.*_\nusb는 차주 월요일에 사용할건데, 미리 빌려주셔도 좋고, 당일 오전에 빌려주셔도 좋습니다.\n\n적극적인 도움 부탁드립니다.",
+			"ts": "1631153887.035400",
+			"thread_ts": "1631153887.035400",
+			"edited": {
+				"user": "U01QAE573J7",
+				"ts": "1631154351.000000"
+			},
+			"reply_count": 6,
+			"replies": [
+				{
+					"user": "U01Q3EP0E14",
+					"ts": "1631154013.035600"
+				},
+				{
+					"user": "U01QNSM488Z",
+					"ts": "1631154039.035900"
+				},
+				{
+					"user": "U01QNSM5STT",
+					"ts": "1631157659.036700"
+				},
+				{
+					"user": "U01QV1TE2UR",
+					"ts": "1631158202.037100"
+				},
+				{
+					"user": "U01QV1SQJ57",
+					"ts": "1631158623.037300"
+				},
+				{
+					"user": "U01QV1WAPL1",
+					"ts": "1631162711.037800"
+				}
+			],
+			"latest_reply": "1631162711.037800",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "짱구s",
+					"count": 1,
+					"users": [
+						"U01QNSM488Z"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bjWxV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 서버 OS 재설치 관련 긴급 요청]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n안내드렸던대로 서버 포맷이 예정되어 있는데요.\n30개의 노드에 OS 재설치를 해야 하는데 usb가 좀 많아야 저희가 빠른 시간 안에 작업을 할 수 있습니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "GSDS 학생분들 중에 usb (8GB 이상)를 빌려주실 수 있는 분 계시면",
+									"style": {
+										"bold": true,
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "저에게 DM 또는 이 글에 댓글을 부탁드립니다.",
+									"style": {
+										"bold": true,
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\nusb는 차주 월요일에 사용할건데, 미리 빌려주셔도 좋고, 당일 오전에 빌려주셔도 좋습니다.\n\n적극적인 도움 부탁드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 6,
+			"reply_users": [
+				"U01Q3EP0E14",
+				"U01QNSM488Z",
+				"U01QNSM5STT",
+				"U01QV1SQJ57",
+				"U01QV1TE2UR",
+				"U01QV1WAPL1"
+			]
+		},
+		{
+			"client_msg_id": "7891d8ef-86a3-4131-80a7-5d4ebc8b8a15",
+			"type": "message",
+			"user": "U01Q3EP0E14",
+			"text": "usb 1개 가능합니다",
+			"ts": "1631154013.035600",
+			"thread_ts": "1631153887.035400",
+			"parent_user_id": "U01QAE573J7",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heart_eyes",
+					"count": 1,
+					"users": [
+						"U01QAE573J7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "OX2H",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "usb 1개 가능합니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826751142355_2e2bc6d04d608acbe86e_72.png",
+				"first_name": "김우중",
+				"real_name": "김우중",
+				"display_name": "1기_김우중",
+				"team": "T01QA5S537V",
+				"name": "kimwj94",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "e3e6325a-4c54-441c-a99c-85a3419ffc4c",
+			"type": "message",
+			"user": "U01QNSM488Z",
+			"text": "전 usb 3.0으로 가능합니다 :muscle:",
+			"ts": "1631154039.035900",
+			"thread_ts": "1631153887.035400",
+			"parent_user_id": "U01QAE573J7",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heart_eyes",
+					"count": 1,
+					"users": [
+						"U01QAE573J7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "+iyl",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "전 usb 3.0으로 가능합니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "muscle",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+				"first_name": "1기_황태현",
+				"real_name": "1기_황태현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "th.hwang",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "f252bee1-b602-4433-b63d-3b44b43b96bf",
+			"type": "message",
+			"user": "U01QNSM5STT",
+			"text": "2개 가능합니다",
+			"ts": "1631157659.036700",
+			"thread_ts": "1631153887.035400",
+			"parent_user_id": "U01QAE573J7",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heart_eyes",
+					"count": 1,
+					"users": [
+						"U01QAE573J7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Zg=1a",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2개 가능합니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-06/1836421447860_d2ff22f432fa2cd4f9b0_72.png",
+				"first_name": "김선유",
+				"real_name": "김선유",
+				"display_name": "3기_김선유",
+				"team": "T01QA5S537V",
+				"name": "meoignis",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "5293E167-34F7-46D0-A1CE-7049AE8D0587",
+			"type": "message",
+			"user": "U01QV1TE2UR",
+			"text": "Usb 1개 가능합니다",
+			"ts": "1631158202.037100",
+			"thread_ts": "1631153887.035400",
+			"parent_user_id": "U01QAE573J7",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heart_eyes",
+					"count": 1,
+					"users": [
+						"U01QAE573J7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "L4h",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "Usb 1개 가능합니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1845061592593_2e0cee650a22445613f3_72.png",
+				"first_name": "길광연",
+				"real_name": "길광연",
+				"display_name": "2기 길광연",
+				"team": "T01QA5S537V",
+				"name": "gil9103",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "893a6869-f019-490f-b1a1-4972662247a9",
+			"type": "message",
+			"user": "U01QV1SQJ57",
+			"text": "1개 가능합니다",
+			"ts": "1631158623.037300",
+			"thread_ts": "1631153887.035400",
+			"parent_user_id": "U01QAE573J7",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heart_eyes",
+					"count": 1,
+					"users": [
+						"U01QAE573J7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "aCp",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "1개 가능합니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+				"first_name": "김병찬",
+				"real_name": "김병찬",
+				"display_name": "4기_김병찬",
+				"team": "T01QA5S537V",
+				"name": "bckim97",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "1ab34332-2649-4a90-a628-8a6d3ecba9d6",
+			"type": "message",
+			"user": "U01QV1WAPL1",
+			"text": "1개 가능합니다.",
+			"ts": "1631162711.037800",
+			"thread_ts": "1631153887.035400",
+			"parent_user_id": "U01QAE573J7",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "heart_eyes",
+					"count": 1,
+					"users": [
+						"U01QAE573J7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "mC3ZC",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "1개 가능합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1825660672566_06f8689d1fa538401ca7_72.jpg",
+				"first_name": "Jongwon",
+				"real_name": "Jongwon Kim",
+				"display_name": "2기_김종원",
+				"team": "T01QA5S537V",
+				"name": "kjwon21",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

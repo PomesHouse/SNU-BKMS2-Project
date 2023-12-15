@@ -1,353 +1,355 @@
-[
-  {
-    "client_msg_id": "817072ec-8911-41b0-b240-056012e7aad0",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2기 학생 알림\u0026gt; GSDS 후드티 배부 안내*\n\n사이즈 조사가 완료되어 오늘 오후 부터 후드티 배부를 시작하겠습니다.\n• 장소: 3층 318호 학생 탕비실\n• 배부기간: 2021.3.22 ~ 3.26(금)  18:00까지\n※ 수령명부에 서명 후 본인 사이즈에 맞게 수령해 가시면 됩니다. 아울러 서명부에 날인 없이 먼저 수령한 학생분들이 있다면  서명부에 날인  부탁 드립니다.",
-    "ts": "1616394301.015400",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1616395607.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "tada",
-        "count": 3,
-        "users": [
-          "U01R719DKK2",
-          "U01QV28FG4R",
-          "U01Q3A8TXU6"
-        ]
-      },
-      {
-        "name": "white_check_mark",
-        "count": 4,
-        "users": [
-          "U01QGKD09K5",
-          "U01QGKCUAJX",
-          "U01QGKC5W03",
-          "U01R678KWP2"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/9x4",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2기 학생 알림\u003e GSDS 후드티 배부 안내",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n사이즈 조사가 완료되어 오늘 오후 부터 후드티 배부를 시작하겠습니다.\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: 3\\uce35 318\\ud638 \\ud559\\uc0dd \\ud0d5\\ube44\\uc2e4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc30\\ubd80\\uae30\\uac04: 2021.3.22 ~ 3.26(\\uae08)  18:00\\uae4c\\uc9c0\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n※ 수령명부에 서명 후 본인 사이즈에 맞게 수령해 가시면 됩니다. 아울러 서명부에 날인 없이 먼저 수령한 학생분들이 있다면  서명부에 날인  부탁 드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "aa134fdb-7ff5-4812-9d89-0afc1e4045b2",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;제 1회 SNU GSDS InnoJam 결승 진출 포스터 관련 공지\u0026gt;*\n\nInnoJam 포스터 제출과 투표에 참여해주셔서 감사합니다. 총 28개의 개인 및 그룹 포스터가 제출되었으며 36명의 대학원생과 9명의 교수님들이 투표에 참여해 주셨습니다.\nInnoJam 결승에 진출한 9개*의 포스터는 다음과 같습니다. (포스터 순서: 제목 알파벳 순서에 따름)\n※ 8위가 동점이 발생하여 포스터 9개가 결승에 진출하였습니다.\n\n• Combinatorial Neural Bandits: 황태현\n• Efficient Uncertainty Quantification for Deep Learning Models: 장우석, 최현준\n• Finding Pathological Patterns of Brainaging: 김장호, 이준형\n• Getting hands dirty to clean dishes AI and data science approach for dishwasher performance enhancement: 강동식, 김우중, 임재환, 장지수, 장창섭\n• LuxMea: Object Localization Aid For Blind:  박건도\n• Private and Personalized Learning for Mobile Applications: 송재헌\n• Restoration of Degraded Images Taken by Under Display Camera: 안규수\n• Split Federated Learning with Semantic Hashing - Communication Efficient Distributed Learning: 김우중\n• Transfer Learning between Visual-Linguistic Multimodal Tasks: 이채현\n각 결승 진출 발표자들은  3월 26일 (금) 오후 3시30분에 열리는 InnoJam 행사에서 10분의 구두 발표 및 2분의 Q\u0026amp;A를 준비해주시기 바랍니다.\n발표한 내용에 대한 심사를 통해서 행사 당일 Top 3가 선정될 예정입니다.\nInnoJam은 대학원 모든 학생들이 참여 하는 행사입니다.\n결승 진출 포스터를 포함하여 제출된 모든 포스터들이 대학원내에 전시될 예정입니다. 많은 참여 부탁드립니다.",
-    "ts": "1616397570.018100",
-    "thread_ts": "1616397570.018100",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1616397581.000000"
-    },
-    "reply_count": 3,
-    "replies": [
-      {
-        "user": "U01QNSM488Z",
-        "ts": "1616397881.018300"
-      },
-      {
-        "user": "U01QA85T90A",
-        "ts": "1616398500.018800"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1616401648.019400"
-      }
-    ],
-    "latest_reply": "1616401648.019400",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "tada",
-        "count": 12,
-        "users": [
-          "U01QGKD09K5",
-          "U01PVEU1A07",
-          "U01Q386CMKQ",
-          "U01Q3A8TXU6",
-          "U01PVEU3007",
-          "U01Q75KNV1T",
-          "U01PVEU98KH",
-          "U01QGCLCLRY",
-          "U01QGJL6SP5",
-          "U01R0307KEU",
-          "U01Q3EPDBAA",
-          "U01Q9KJL8MC"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "O8Vr",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c제 1회 SNU GSDS InnoJam 결승 진출 포스터 관련 공지\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nInnoJam 포스터 제출과 투표에 참여해주셔서 감사합니다. 총 28개의 개인 및 그룹 포스터가 제출되었으며 36명의 대학원생과 9명의 교수님들이 투표에 참여해 주셨습니다.\nInnoJam 결승에 진출한 9개*의 포스터는 다음과 같습니다. (포스터 순서: 제목 알파벳 순서에 따름)\n※ 8위가 동점이 발생하여 포스터 9개가 결승에 진출하였습니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Combinatorial Neural Bandits: \\ud669\\ud0dc\\ud604\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Efficient Uncertainty Quantification for Deep Learning Models: \\uc7a5\\uc6b0\\uc11d, \\ucd5c\\ud604\\uc900\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Finding Pathological Patterns of Brainaging: \\uae40\\uc7a5\\ud638, \\uc774\\uc900\\ud615\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Getting hands dirty to clean dishes AI and data science approach for dishwasher performance enhancement: \\uac15\\ub3d9\\uc2dd, \\uae40\\uc6b0\\uc911, \\uc784\\uc7ac\\ud658, \\uc7a5\\uc9c0\\uc218, \\uc7a5\\ucc3d\\uc12d\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"LuxMea: Object Localization Aid For Blind:  \\ubc15\\uac74\\ub3c4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Private and Personalized Learning for Mobile Applications: \\uc1a1\\uc7ac\\ud5cc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Restoration of Degraded Images Taken by Under Display Camera: \\uc548\\uaddc\\uc218\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Split Federated Learning with Semantic Hashing - Communication Efficient Distributed Learning: \\uae40\\uc6b0\\uc911\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Transfer Learning between Visual-Linguistic Multimodal Tasks: \\uc774\\ucc44\\ud604\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n각 결승 진출 발표자들은  3월 26일 (금) 오후 3시30분에 열리는 InnoJam 행사에서 10분의 구두 발표 및 2분의 Q\u0026A를 준비해주시기 바랍니다.\n발표한 내용에 대한 심사를 통해서 행사 당일 Top 3가 선정될 예정입니다.\nInnoJam은 대학원 모든 학생들이 참여 하는 행사입니다.\n결승 진출 포스터를 포함하여 제출된 모든 포스터들이 대학원내에 전시될 예정입니다. 많은 참여 부탁드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 3,
-    "reply_users": [
-      "U01QA85T90A",
-      "U01QNJ7PWRX",
-      "U01QNSM488Z"
-    ]
-  },
-  {
-    "client_msg_id": "385886b6-c9e0-4031-8b22-9359523e6b15",
-    "type": "message",
-    "user": "U01QNSM488Z",
-    "text": "해당 시간에 수업이 있는 경우 어떻게 해야하나요?",
-    "ts": "1616397881.018300",
-    "thread_ts": "1616397570.018100",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "3RL4M",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "해당 시간에 수업이 있는 경우 어떻게 해야하나요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
-      "first_name": "1기_황태현",
-      "real_name": "1기_황태현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "th.hwang",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "2f346e13-2482-4fe1-9362-42a95c54d119",
-    "type": "message",
-    "user": "U01QA85T90A",
-    "text": "Top 3가 되면 어떤 혜택이 있나요?:grinning:",
-    "ts": "1616398500.018800",
-    "thread_ts": "1616397570.018100",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Fmy7",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "Top 3가 되면 어떤 혜택이 있나요?"
-              },
-              {
-                "type": "emoji",
-                "name": "grinning",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
-      "first_name": "gundo0102",
-      "real_name": "gundo0102",
-      "display_name": "3기_박건도",
-      "team": "T01QA5S537V",
-      "name": "gundo0102",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "814255b9-169f-4738-80fe-00e79130e0e0",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "황태현님, 조직원위회 교수님들께 문의 바랍니다.",
-    "ts": "1616401648.019400",
-    "thread_ts": "1616397570.018100",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "q8B=",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "황태현님, 조직원위회 교수님들께 문의 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "817072ec-8911-41b0-b240-056012e7aad0",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2기 학생 알림&gt; GSDS 후드티 배부 안내*\n\n사이즈 조사가 완료되어 오늘 오후 부터 후드티 배부를 시작하겠습니다.\n• 장소: 3층 318호 학생 탕비실\n• 배부기간: 2021.3.22 ~ 3.26(금)  18:00까지\n※ 수령명부에 서명 후 본인 사이즈에 맞게 수령해 가시면 됩니다. 아울러 서명부에 날인 없이 먼저 수령한 학생분들이 있다면  서명부에 날인  부탁 드립니다.",
+			"ts": "1616394301.015400",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1616395607.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "tada",
+					"count": 3,
+					"users": [
+						"U01R719DKK2",
+						"U01QV28FG4R",
+						"U01Q3A8TXU6"
+					]
+				},
+				{
+					"name": "white_check_mark",
+					"count": 4,
+					"users": [
+						"U01QGKD09K5",
+						"U01QGKCUAJX",
+						"U01QGKC5W03",
+						"U01R678KWP2"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/9x4",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2기 학생 알림> GSDS 후드티 배부 안내",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n사이즈 조사가 완료되어 오늘 오후 부터 후드티 배부를 시작하겠습니다.\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: 3\\uce35 318\\ud638 \\ud559\\uc0dd \\ud0d5\\ube44\\uc2e4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc30\\ubd80\\uae30\\uac04: 2021.3.22 ~ 3.26(\\uae08)  18:00\\uae4c\\uc9c0\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n※ 수령명부에 서명 후 본인 사이즈에 맞게 수령해 가시면 됩니다. 아울러 서명부에 날인 없이 먼저 수령한 학생분들이 있다면  서명부에 날인  부탁 드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "aa134fdb-7ff5-4812-9d89-0afc1e4045b2",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;제 1회 SNU GSDS InnoJam 결승 진출 포스터 관련 공지&gt;*\n\nInnoJam 포스터 제출과 투표에 참여해주셔서 감사합니다. 총 28개의 개인 및 그룹 포스터가 제출되었으며 36명의 대학원생과 9명의 교수님들이 투표에 참여해 주셨습니다.\nInnoJam 결승에 진출한 9개*의 포스터는 다음과 같습니다. (포스터 순서: 제목 알파벳 순서에 따름)\n※ 8위가 동점이 발생하여 포스터 9개가 결승에 진출하였습니다.\n\n• Combinatorial Neural Bandits: 황태현\n• Efficient Uncertainty Quantification for Deep Learning Models: 장우석, 최현준\n• Finding Pathological Patterns of Brainaging: 김장호, 이준형\n• Getting hands dirty to clean dishes AI and data science approach for dishwasher performance enhancement: 강동식, 김우중, 임재환, 장지수, 장창섭\n• LuxMea: Object Localization Aid For Blind:  박건도\n• Private and Personalized Learning for Mobile Applications: 송재헌\n• Restoration of Degraded Images Taken by Under Display Camera: 안규수\n• Split Federated Learning with Semantic Hashing - Communication Efficient Distributed Learning: 김우중\n• Transfer Learning between Visual-Linguistic Multimodal Tasks: 이채현\n각 결승 진출 발표자들은  3월 26일 (금) 오후 3시30분에 열리는 InnoJam 행사에서 10분의 구두 발표 및 2분의 Q&amp;A를 준비해주시기 바랍니다.\n발표한 내용에 대한 심사를 통해서 행사 당일 Top 3가 선정될 예정입니다.\nInnoJam은 대학원 모든 학생들이 참여 하는 행사입니다.\n결승 진출 포스터를 포함하여 제출된 모든 포스터들이 대학원내에 전시될 예정입니다. 많은 참여 부탁드립니다.",
+			"ts": "1616397570.018100",
+			"thread_ts": "1616397570.018100",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1616397581.000000"
+			},
+			"reply_count": 3,
+			"replies": [
+				{
+					"user": "U01QNSM488Z",
+					"ts": "1616397881.018300"
+				},
+				{
+					"user": "U01QA85T90A",
+					"ts": "1616398500.018800"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1616401648.019400"
+				}
+			],
+			"latest_reply": "1616401648.019400",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "tada",
+					"count": 12,
+					"users": [
+						"U01QGKD09K5",
+						"U01PVEU1A07",
+						"U01Q386CMKQ",
+						"U01Q3A8TXU6",
+						"U01PVEU3007",
+						"U01Q75KNV1T",
+						"U01PVEU98KH",
+						"U01QGCLCLRY",
+						"U01QGJL6SP5",
+						"U01R0307KEU",
+						"U01Q3EPDBAA",
+						"U01Q9KJL8MC"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "O8Vr",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<제 1회 SNU GSDS InnoJam 결승 진출 포스터 관련 공지>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nInnoJam 포스터 제출과 투표에 참여해주셔서 감사합니다. 총 28개의 개인 및 그룹 포스터가 제출되었으며 36명의 대학원생과 9명의 교수님들이 투표에 참여해 주셨습니다.\nInnoJam 결승에 진출한 9개*의 포스터는 다음과 같습니다. (포스터 순서: 제목 알파벳 순서에 따름)\n※ 8위가 동점이 발생하여 포스터 9개가 결승에 진출하였습니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Combinatorial Neural Bandits: \\ud669\\ud0dc\\ud604\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Efficient Uncertainty Quantification for Deep Learning Models: \\uc7a5\\uc6b0\\uc11d, \\ucd5c\\ud604\\uc900\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Finding Pathological Patterns of Brainaging: \\uae40\\uc7a5\\ud638, \\uc774\\uc900\\ud615\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Getting hands dirty to clean dishes AI and data science approach for dishwasher performance enhancement: \\uac15\\ub3d9\\uc2dd, \\uae40\\uc6b0\\uc911, \\uc784\\uc7ac\\ud658, \\uc7a5\\uc9c0\\uc218, \\uc7a5\\ucc3d\\uc12d\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"LuxMea: Object Localization Aid For Blind:  \\ubc15\\uac74\\ub3c4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Private and Personalized Learning for Mobile Applications: \\uc1a1\\uc7ac\\ud5cc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Restoration of Degraded Images Taken by Under Display Camera: \\uc548\\uaddc\\uc218\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Split Federated Learning with Semantic Hashing - Communication Efficient Distributed Learning: \\uae40\\uc6b0\\uc911\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Transfer Learning between Visual-Linguistic Multimodal Tasks: \\uc774\\ucc44\\ud604\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n각 결승 진출 발표자들은  3월 26일 (금) 오후 3시30분에 열리는 InnoJam 행사에서 10분의 구두 발표 및 2분의 Q&A를 준비해주시기 바랍니다.\n발표한 내용에 대한 심사를 통해서 행사 당일 Top 3가 선정될 예정입니다.\nInnoJam은 대학원 모든 학생들이 참여 하는 행사입니다.\n결승 진출 포스터를 포함하여 제출된 모든 포스터들이 대학원내에 전시될 예정입니다. 많은 참여 부탁드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 3,
+			"reply_users": [
+				"U01QA85T90A",
+				"U01QNJ7PWRX",
+				"U01QNSM488Z"
+			]
+		},
+		{
+			"client_msg_id": "385886b6-c9e0-4031-8b22-9359523e6b15",
+			"type": "message",
+			"user": "U01QNSM488Z",
+			"text": "해당 시간에 수업이 있는 경우 어떻게 해야하나요?",
+			"ts": "1616397881.018300",
+			"thread_ts": "1616397570.018100",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "3RL4M",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "해당 시간에 수업이 있는 경우 어떻게 해야하나요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+				"first_name": "1기_황태현",
+				"real_name": "1기_황태현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "th.hwang",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "2f346e13-2482-4fe1-9362-42a95c54d119",
+			"type": "message",
+			"user": "U01QA85T90A",
+			"text": "Top 3가 되면 어떤 혜택이 있나요?:grinning:",
+			"ts": "1616398500.018800",
+			"thread_ts": "1616397570.018100",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Fmy7",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "Top 3가 되면 어떤 혜택이 있나요?"
+								},
+								{
+									"type": "emoji",
+									"name": "grinning",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+				"first_name": "gundo0102",
+				"real_name": "gundo0102",
+				"display_name": "3기_박건도",
+				"team": "T01QA5S537V",
+				"name": "gundo0102",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "814255b9-169f-4738-80fe-00e79130e0e0",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "황태현님, 조직원위회 교수님들께 문의 바랍니다.",
+			"ts": "1616401648.019400",
+			"thread_ts": "1616397570.018100",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "q8B=",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "황태현님, 조직원위회 교수님들께 문의 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

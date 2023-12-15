@@ -1,313 +1,315 @@
-[
-  {
-    "client_msg_id": "04002e44-edd6-4890-8d7a-f33ca2a2a9f7",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u003c!channel\u003e ★중요★  신입생 면접고사 진행 관련하여 책상위의 물품 꼭 정리해주시기 바랍니다.*\n*면접진행에 앞서 전체 방역도 진행될 예정이오니 종이 및 파손될 수 있는 전자기기 정리 부탁 드립니다.* :blob-grin:",
-    "ts": "1639726068.132300",
-    "thread_ts": "1639726068.132300",
-    "reply_count": 4,
-    "replies": [
-      {
-        "user": "U01QNSMDGF3",
-        "ts": "1639726105.132900"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1639729406.133200"
-      },
-      {
-        "user": "U01QNSM488Z",
-        "ts": "1639729549.133500"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1639729813.133700"
-      }
-    ],
-    "latest_reply": "1639729813.133700",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "+D+b",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " ★중요★  신입생 면접고사 진행 관련하여 책상위의 물품 꼭 정리해주시기 바랍니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "면접진행에 앞서 전체 방역도 진행될 예정이오니 종이 및 파손될 수 있는 전자기기 정리 부탁 드립니다. ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "blob-grin",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 3,
-    "reply_users": [
-      "U01QNJ7PWRX",
-      "U01QNSM488Z",
-      "U01QNSMDGF3"
-    ]
-  },
-  {
-    "client_msg_id": "6B50847E-C53E-4C81-BE78-3D3C179D850C",
-    "type": "message",
-    "user": "U01QNSMDGF3",
-    "text": "혹시 월요일 11시 이전에 정리해도 괜찮을까요?",
-    "ts": "1639726105.132900",
-    "thread_ts": "1639726068.132300",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "2Ew8",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시 월요일 11시 이전에 정리해도 괜찮을까요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/359dc98921adc6a6f1279b431734408c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "박민혜",
-      "real_name": "박민혜",
-      "display_name": "1기_박민혜",
-      "team": "T01QA5S537V",
-      "name": "minhye11",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "768bb2ce-811d-49eb-aca9-afe3c50e3cdc",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "오전 7시 부터 방역 할 예정이라서 어렵습니다 ㅜㅜ",
-    "ts": "1639729406.133200",
-    "thread_ts": "1639726068.132300",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1639729425.000000"
-    },
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "EKt",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "오전 7시 부터 방역 할 예정이라서 어렵습니다 ㅜㅜ"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "65381c81-6841-45f9-8ab8-2f52dae88408",
-    "type": "message",
-    "user": "U01QNSM488Z",
-    "text": "모니터는 책상 위에 두어도 괜찮나요?",
-    "ts": "1639729549.133500",
-    "thread_ts": "1639726068.132300",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01PVET2C31"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "JYuvH",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "모니터는 책상 위에 두어도 괜찮나요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
-      "first_name": "1기_황태현",
-      "real_name": "1기_황태현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "th.hwang",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "285dfa15-4f70-4c34-905e-4b06d21d1650",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "네 괜찮습니다.",
-    "ts": "1639729813.133700",
-    "thread_ts": "1639726068.132300",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 1,
-        "users": [
-          "U01QNSM488Z"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xJLr",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "네 괜찮습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "04002e44-edd6-4890-8d7a-f33ca2a2a9f7",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*<!channel> ★중요★  신입생 면접고사 진행 관련하여 책상위의 물품 꼭 정리해주시기 바랍니다.*\n*면접진행에 앞서 전체 방역도 진행될 예정이오니 종이 및 파손될 수 있는 전자기기 정리 부탁 드립니다.* :blob-grin:",
+			"ts": "1639726068.132300",
+			"thread_ts": "1639726068.132300",
+			"reply_count": 4,
+			"replies": [
+				{
+					"user": "U01QNSMDGF3",
+					"ts": "1639726105.132900"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1639729406.133200"
+				},
+				{
+					"user": "U01QNSM488Z",
+					"ts": "1639729549.133500"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1639729813.133700"
+				}
+			],
+			"latest_reply": "1639729813.133700",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "+D+b",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " ★중요★  신입생 면접고사 진행 관련하여 책상위의 물품 꼭 정리해주시기 바랍니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "면접진행에 앞서 전체 방역도 진행될 예정이오니 종이 및 파손될 수 있는 전자기기 정리 부탁 드립니다. ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "blob-grin",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 3,
+			"reply_users": [
+				"U01QNJ7PWRX",
+				"U01QNSM488Z",
+				"U01QNSMDGF3"
+			]
+		},
+		{
+			"client_msg_id": "6B50847E-C53E-4C81-BE78-3D3C179D850C",
+			"type": "message",
+			"user": "U01QNSMDGF3",
+			"text": "혹시 월요일 11시 이전에 정리해도 괜찮을까요?",
+			"ts": "1639726105.132900",
+			"thread_ts": "1639726068.132300",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "2Ew8",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시 월요일 11시 이전에 정리해도 괜찮을까요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/359dc98921adc6a6f1279b431734408c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "박민혜",
+				"real_name": "박민혜",
+				"display_name": "1기_박민혜",
+				"team": "T01QA5S537V",
+				"name": "minhye11",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "768bb2ce-811d-49eb-aca9-afe3c50e3cdc",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "오전 7시 부터 방역 할 예정이라서 어렵습니다 ㅜㅜ",
+			"ts": "1639729406.133200",
+			"thread_ts": "1639726068.132300",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1639729425.000000"
+			},
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "EKt",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "오전 7시 부터 방역 할 예정이라서 어렵습니다 ㅜㅜ"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "65381c81-6841-45f9-8ab8-2f52dae88408",
+			"type": "message",
+			"user": "U01QNSM488Z",
+			"text": "모니터는 책상 위에 두어도 괜찮나요?",
+			"ts": "1639729549.133500",
+			"thread_ts": "1639726068.132300",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01PVET2C31"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "JYuvH",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "모니터는 책상 위에 두어도 괜찮나요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+				"first_name": "1기_황태현",
+				"real_name": "1기_황태현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "th.hwang",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "285dfa15-4f70-4c34-905e-4b06d21d1650",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "네 괜찮습니다.",
+			"ts": "1639729813.133700",
+			"thread_ts": "1639726068.132300",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 1,
+					"users": [
+						"U01QNSM488Z"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xJLr",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "네 괜찮습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,234 +1,236 @@
-[
-  {
-    "type": "message",
-    "user": "U01PVEU1A07",
-    "text": "*[커피 원두 구입 관련 모금]*\n안녕하세요. 1기 남기성이라고 합니다.\n\n우리 과에서는 3층 탕비실 커피머신에 사용할 원두 구입을 위해 회비를 모금하고 있습니다.\n커피를 안드시거나 학교에 자주 오시지 않는 분들도 많은 관계로, \"*자발적으로*\" 모금에 참여하도록 운영 중입니다.\n모금에 참여하실 분은 첨부된 QR코드 (카카오페이) 송금 또는 계좌이체 (우리은행 1002-345-094245 남기성) 로 송금해주시면 됩니다.\n1회당 모금 금액은 5천원이며, 더 주시는 것은 당연히 가능합니다. :slightly_smiling_face:\n(무임승차자 없이 운영된다는 가정하에, 한번 모금하면 약 6개월 정도 지속될 것으로 예상하고 있습니다.)\n회비 모금내역 및 사용내역은 하단 링크의 구글 스프레드시트를 통해 공유하고 있습니다.\n\u003chttps://docs.google.com/spreadsheets/d/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA/edit?usp=sharing\u003e\n원두 구입과 관련하여 좋은 의견이 있으시면 언제든 말씀 주세요. 감사합니다!",
-    "ts": "1617014715.040700",
-    "thread_ts": "1617014715.040700",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01QA85T90A",
-        "ts": "1617018725.041600"
-      }
-    ],
-    "latest_reply": "1617018725.041600",
-    "files": [
-      {
-        "id": "F01SPFA0H7C",
-        "created": 1617014606,
-        "timestamp": 1617014606,
-        "name": "qr.png",
-        "title": "qr.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01PVEU1A07",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 51356,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01SPFA0H7C-qr.png",
-        "url_private_download": "attachments/F01SPFA0H7C-qr.png",
-        "original_h": 900,
-        "original_w": 600,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 240,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_480.png",
-        "thumb_480_w": 320,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_720.png",
-        "thumb_720_w": 480,
-        "thumb_720_h": 720,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01PVEU1A07/F01SPFA0H7C/qr.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01SPFA0H7C-18dbc109f7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "raised_hands",
-        "count": 12,
-        "users": [
-          "U01Q3A8TXU6",
-          "U01QNSMEY0Z",
-          "U01QNSM488Z",
-          "U01QAE573J7",
-          "U01Q75KNV1T",
-          "U01Q386CMKQ",
-          "U01QZRUNBA4",
-          "U01QDANUYVB",
-          "U01QGD03WUC",
-          "U01QV1WAPL1",
-          "U01PVET2C31",
-          "U01QGKCUAJX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "0rfP",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[커피 원두 구입 관련 모금]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n안녕하세요. 1기 남기성이라고 합니다.\n\n우리 과에서는 3층 탕비실 커피머신에 사용할 원두 구입을 위해 회비를 모금하고 있습니다.\n커피를 안드시거나 학교에 자주 오시지 않는 분들도 많은 관계로, \""
-              },
-              {
-                "type": "text",
-                "text": "자발적으로",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\" 모금에 참여하도록 운영 중입니다.\n모금에 참여하실 분은 첨부된 QR코드 (카카오페이) 송금 또는 계좌이체 (우리은행 1002-345-094245 남기성) 로 송금해주시면 됩니다.\n1회당 모금 금액은 5천원이며, 더 주시는 것은 당연히 가능합니다. "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n(무임승차자 없이 운영된다는 가정하에, 한번 모금하면 약 6개월 정도 지속될 것으로 예상하고 있습니다.)\n회비 모금내역 및 사용내역은 하단 링크의 구글 스프레드시트를 통해 공유하고 있습니다.\n"
-              },
-              {
-                "type": "link",
-                "url": "https://docs.google.com/spreadsheets/d/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA/edit?usp=sharing",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n원두 구입과 관련하여 좋은 의견이 있으시면 언제든 말씀 주세요. 감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
-      "first_name": "1기_남기성",
-      "real_name": "1기_남기성",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kisung.nam",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QA85T90A"
-    ]
-  },
-  {
-    "client_msg_id": "ab24161c-3fc1-4bc2-be99-cb1e7fa2cced",
-    "type": "message",
-    "user": "U01QA85T90A",
-    "text": "커피위원장님 봉사해주셔서 감사합니다!",
-    "ts": "1617018725.041600",
-    "thread_ts": "1617014715.040700",
-    "parent_user_id": "U01PVEU1A07",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 1,
-        "users": [
-          "U01Q75KNV1T"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "YT/9m",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "커피위원장님 봉사해주셔서 감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
-      "first_name": "gundo0102",
-      "real_name": "gundo0102",
-      "display_name": "3기_박건도",
-      "team": "T01QA5S537V",
-      "name": "gundo0102",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01PVEU1A07",
+			"text": "*[커피 원두 구입 관련 모금]*\n안녕하세요. 1기 남기성이라고 합니다.\n\n우리 과에서는 3층 탕비실 커피머신에 사용할 원두 구입을 위해 회비를 모금하고 있습니다.\n커피를 안드시거나 학교에 자주 오시지 않는 분들도 많은 관계로, \"*자발적으로*\" 모금에 참여하도록 운영 중입니다.\n모금에 참여하실 분은 첨부된 QR코드 (카카오페이) 송금 또는 계좌이체 (우리은행 1002-345-094245 남기성) 로 송금해주시면 됩니다.\n1회당 모금 금액은 5천원이며, 더 주시는 것은 당연히 가능합니다. :slightly_smiling_face:\n(무임승차자 없이 운영된다는 가정하에, 한번 모금하면 약 6개월 정도 지속될 것으로 예상하고 있습니다.)\n회비 모금내역 및 사용내역은 하단 링크의 구글 스프레드시트를 통해 공유하고 있습니다.\n<https://docs.google.com/spreadsheets/d/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA/edit?usp=sharing>\n원두 구입과 관련하여 좋은 의견이 있으시면 언제든 말씀 주세요. 감사합니다!",
+			"ts": "1617014715.040700",
+			"thread_ts": "1617014715.040700",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01QA85T90A",
+					"ts": "1617018725.041600"
+				}
+			],
+			"latest_reply": "1617018725.041600",
+			"files": [
+				{
+					"id": "F01SPFA0H7C",
+					"created": 1617014606,
+					"timestamp": 1617014606,
+					"name": "qr.png",
+					"title": "qr.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01PVEU1A07",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 51356,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01SPFA0H7C-qr.png",
+					"url_private_download": "attachments/F01SPFA0H7C-qr.png",
+					"original_h": 900,
+					"original_w": 600,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 240,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_480.png",
+					"thumb_480_w": 320,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F01SPFA0H7C-ed0fbdb6bc/qr_720.png",
+					"thumb_720_w": 480,
+					"thumb_720_h": 720,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01PVEU1A07/F01SPFA0H7C/qr.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01SPFA0H7C-18dbc109f7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "raised_hands",
+					"count": 12,
+					"users": [
+						"U01Q3A8TXU6",
+						"U01QNSMEY0Z",
+						"U01QNSM488Z",
+						"U01QAE573J7",
+						"U01Q75KNV1T",
+						"U01Q386CMKQ",
+						"U01QZRUNBA4",
+						"U01QDANUYVB",
+						"U01QGD03WUC",
+						"U01QV1WAPL1",
+						"U01PVET2C31",
+						"U01QGKCUAJX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "0rfP",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[커피 원두 구입 관련 모금]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n안녕하세요. 1기 남기성이라고 합니다.\n\n우리 과에서는 3층 탕비실 커피머신에 사용할 원두 구입을 위해 회비를 모금하고 있습니다.\n커피를 안드시거나 학교에 자주 오시지 않는 분들도 많은 관계로, \""
+								},
+								{
+									"type": "text",
+									"text": "자발적으로",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\" 모금에 참여하도록 운영 중입니다.\n모금에 참여하실 분은 첨부된 QR코드 (카카오페이) 송금 또는 계좌이체 (우리은행 1002-345-094245 남기성) 로 송금해주시면 됩니다.\n1회당 모금 금액은 5천원이며, 더 주시는 것은 당연히 가능합니다. "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n(무임승차자 없이 운영된다는 가정하에, 한번 모금하면 약 6개월 정도 지속될 것으로 예상하고 있습니다.)\n회비 모금내역 및 사용내역은 하단 링크의 구글 스프레드시트를 통해 공유하고 있습니다.\n"
+								},
+								{
+									"type": "link",
+									"url": "https://docs.google.com/spreadsheets/d/1if11_BJfQSakQwD00M0ZfXY51TLsUVl7fLkG1JeG7HA/edit?usp=sharing",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n원두 구입과 관련하여 좋은 의견이 있으시면 언제든 말씀 주세요. 감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+				"first_name": "1기_남기성",
+				"real_name": "1기_남기성",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kisung.nam",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QA85T90A"
+			]
+		},
+		{
+			"client_msg_id": "ab24161c-3fc1-4bc2-be99-cb1e7fa2cced",
+			"type": "message",
+			"user": "U01QA85T90A",
+			"text": "커피위원장님 봉사해주셔서 감사합니다!",
+			"ts": "1617018725.041600",
+			"thread_ts": "1617014715.040700",
+			"parent_user_id": "U01PVEU1A07",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 1,
+					"users": [
+						"U01Q75KNV1T"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "YT/9m",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "커피위원장님 봉사해주셔서 감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+				"first_name": "gundo0102",
+				"real_name": "gundo0102",
+				"display_name": "3기_박건도",
+				"team": "T01QA5S537V",
+				"name": "gundo0102",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

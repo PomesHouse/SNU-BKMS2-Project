@@ -1,72 +1,74 @@
-[
-  {
-    "client_msg_id": "77151603-3899-436c-9b08-b2c5a33a31f6",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "공지사항\n• ‘확장형 병렬 컴퓨팅’ 수업용으로 할당되었던 titan 노드 전체를 원복하였습니다. 현재 모든 노드를 사용하실 수 있습니다.\n",
-    "ts": "1640591393.011700",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 8,
-        "users": [
-          "U01QAE5DERZ",
-          "U01PVEU1A07",
-          "U01Q1KFN4JK",
-          "U01Q386CMKQ",
-          "U01Q75KNV1T",
-          "U01Q3EP0E14",
-          "U01PVET2C31",
-          "U01QAE5A9K5"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "LhH",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "공지사항\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\u2018\\ud655\\uc7a5\\ud615 \\ubcd1\\ub82c \\ucef4\\ud4e8\\ud305\\u2019 \\uc218\\uc5c5\\uc6a9\\uc73c\\ub85c \\ud560\\ub2f9\\ub418\\uc5c8\\ub358 titan \\ub178\\ub4dc \\uc804\\uccb4\\ub97c \\uc6d0\\ubcf5\\ud558\\uc600\\uc2b5\\ub2c8\\ub2e4. \\ud604\\uc7ac \\ubaa8\\ub4e0 \\ub178\\ub4dc\\ub97c \\uc0ac\\uc6a9\\ud558\\uc2e4 \\uc218 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": []
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "77151603-3899-436c-9b08-b2c5a33a31f6",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "공지사항\n• ‘확장형 병렬 컴퓨팅’ 수업용으로 할당되었던 titan 노드 전체를 원복하였습니다. 현재 모든 노드를 사용하실 수 있습니다.\n",
+			"ts": "1640591393.011700",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 8,
+					"users": [
+						"U01QAE5DERZ",
+						"U01PVEU1A07",
+						"U01Q1KFN4JK",
+						"U01Q386CMKQ",
+						"U01Q75KNV1T",
+						"U01Q3EP0E14",
+						"U01PVET2C31",
+						"U01QAE5A9K5"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "LhH",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "공지사항\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\u2018\\ud655\\uc7a5\\ud615 \\ubcd1\\ub82c \\ucef4\\ud4e8\\ud305\\u2019 \\uc218\\uc5c5\\uc6a9\\uc73c\\ub85c \\ud560\\ub2f9\\ub418\\uc5c8\\ub358 titan \\ub178\\ub4dc \\uc804\\uccb4\\ub97c \\uc6d0\\ubcf5\\ud558\\uc600\\uc2b5\\ub2c8\\ub2e4. \\ud604\\uc7ac \\ubaa8\\ub4e0 \\ub178\\ub4dc\\ub97c \\uc0ac\\uc6a9\\ud558\\uc2e4 \\uc218 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": []
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

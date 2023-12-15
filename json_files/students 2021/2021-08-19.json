@@ -1,59 +1,61 @@
-[
-  {
-    "client_msg_id": "0e8e3492-108c-4e3b-b74b-a763358e7a99",
-    "type": "message",
-    "user": "U01PVET2C31",
-    "text": "감사합니당!",
-    "ts": "1629338700.024900",
-    "thread_ts": "1629258254.021700",
-    "parent_user_id": "U01QNSMDGF3",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "smile",
-        "count": 1,
-        "users": [
-          "U01QNSMDGF3"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "btas",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "감사합니당!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
-      "first_name": "1기_장창섭",
-      "real_name": "1기_장창섭",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "charlie9007",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "0e8e3492-108c-4e3b-b74b-a763358e7a99",
+			"type": "message",
+			"user": "U01PVET2C31",
+			"text": "감사합니당!",
+			"ts": "1629338700.024900",
+			"thread_ts": "1629258254.021700",
+			"parent_user_id": "U01QNSMDGF3",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "smile",
+					"count": 1,
+					"users": [
+						"U01QNSMDGF3"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "btas",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "감사합니당!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+				"first_name": "1기_장창섭",
+				"real_name": "1기_장창섭",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "charlie9007",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

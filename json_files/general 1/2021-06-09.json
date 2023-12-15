@@ -1,90 +1,92 @@
-[
-  {
-    "client_msg_id": "7d96a7bd-5b9e-4f97-bd16-78a92113917d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2021년 연구보안관리 온라인 교육과정 안내\u0026gt;*\n\n국가연구개발혁신법에 따라 각 기관에서는 연구자(학생, 연구원)의 보안의식 제고를 위하여 *\"연구보안 교육과정\"*으로 인정되는 온라인 강좌를 다음과 같이 제공하오니 연구 과제에 참여하는 학생분들께서는 확인하시고 수강하시기 바랍니다.\n\n가. 교육과정(국가과학기술인력개발원 온라인교육콘텐츠 공동이용)\n\n    1. 연구보안관리 기본:연구개발단계별 보안(연구책임자 및 참여연구원)\n\n        (\u003chttp://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744\u003e)\n\n나. 수강방법: 서울대 eTL 사이트 접속 → SNUON 과정검색 → 수강신청\n\n다. 교육기간: 상시\n\n라. 수료증 발급 : 수강 완료 후, SNUON → My SNUON → 수료여부/수료증 화면에서 발급",
-    "ts": "1623201222.048300",
-    "attachments": [
-      {
-        "fallback": "연구보안관리(연구책임자 및 참여연구원)",
-        "id": 1,
-        "title": "연구보안관리(연구책임자 및 참여연구원)",
-        "title_link": "http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744",
-        "text": "서울대학교 열린교육 SNUON의 다양한 강좌들을 수강해보세요.",
-        "image_url": "http://etl.snu.ac.kr/image.php?course=197744",
-        "service_name": "etl.snu.ac.kr",
-        "service_icon": "http://etl.snu.ac.kr/theme/image.php/coursemosv2/theme/1621588021/favicon",
-        "from_url": "http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744",
-        "original_url": "http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "GFy",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021년 연구보안관리 온라인 교육과정 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n국가연구개발혁신법에 따라 각 기관에서는 연구자(학생, 연구원)의 보안의식 제고를 위하여 "
-              },
-              {
-                "type": "text",
-                "text": "\"연구보안 교육과정\"",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "으로 인정되는 온라인 강좌를 다음과 같이 제공하오니 연구 과제에 참여하는 학생분들께서는 확인하시고 수강하시기 바랍니다.\n\n가. 교육과정(국가과학기술인력개발원 온라인교육콘텐츠 공동이용)\n\n    1. 연구보안관리 기본:연구개발단계별 보안(연구책임자 및 참여연구원)\n\n        ("
-              },
-              {
-                "type": "link",
-                "url": "http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n\n나. 수강방법: 서울대 eTL 사이트 접속 → SNUON 과정검색 → 수강신청\n\n다. 교육기간: 상시\n\n라. 수료증 발급 : 수강 완료 후, SNUON → My SNUON → 수료여부/수료증 화면에서 발급"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "7d96a7bd-5b9e-4f97-bd16-78a92113917d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2021년 연구보안관리 온라인 교육과정 안내&gt;*\n\n국가연구개발혁신법에 따라 각 기관에서는 연구자(학생, 연구원)의 보안의식 제고를 위하여 *\"연구보안 교육과정\"*으로 인정되는 온라인 강좌를 다음과 같이 제공하오니 연구 과제에 참여하는 학생분들께서는 확인하시고 수강하시기 바랍니다.\n\n가. 교육과정(국가과학기술인력개발원 온라인교육콘텐츠 공동이용)\n\n    1. 연구보안관리 기본:연구개발단계별 보안(연구책임자 및 참여연구원)\n\n        (<http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744>)\n\n나. 수강방법: 서울대 eTL 사이트 접속 → SNUON 과정검색 → 수강신청\n\n다. 교육기간: 상시\n\n라. 수료증 발급 : 수강 완료 후, SNUON → My SNUON → 수료여부/수료증 화면에서 발급",
+			"ts": "1623201222.048300",
+			"attachments": [
+				{
+					"fallback": "연구보안관리(연구책임자 및 참여연구원)",
+					"id": 1,
+					"title": "연구보안관리(연구책임자 및 참여연구원)",
+					"title_link": "http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744",
+					"text": "서울대학교 열린교육 SNUON의 다양한 강좌들을 수강해보세요.",
+					"image_url": "http://etl.snu.ac.kr/image.php?course=197744",
+					"service_name": "etl.snu.ac.kr",
+					"service_icon": "http://etl.snu.ac.kr/theme/image.php/coursemosv2/theme/1621588021/favicon",
+					"from_url": "http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744",
+					"original_url": "http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "GFy",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021년 연구보안관리 온라인 교육과정 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n국가연구개발혁신법에 따라 각 기관에서는 연구자(학생, 연구원)의 보안의식 제고를 위하여 "
+								},
+								{
+									"type": "text",
+									"text": "\"연구보안 교육과정\"",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "으로 인정되는 온라인 강좌를 다음과 같이 제공하오니 연구 과제에 참여하는 학생분들께서는 확인하시고 수강하시기 바랍니다.\n\n가. 교육과정(국가과학기술인력개발원 온라인교육콘텐츠 공동이용)\n\n    1. 연구보안관리 기본:연구개발단계별 보안(연구책임자 및 참여연구원)\n\n        ("
+								},
+								{
+									"type": "link",
+									"url": "http://etl.snu.ac.kr/local/ubonline/course_view.php?id=197744",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n\n나. 수강방법: 서울대 eTL 사이트 접속 → SNUON 과정검색 → 수강신청\n\n다. 교육기간: 상시\n\n라. 수료증 발급 : 수강 완료 후, SNUON → My SNUON → 수료여부/수료증 화면에서 발급"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

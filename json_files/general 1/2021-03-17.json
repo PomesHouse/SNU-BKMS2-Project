@@ -1,332 +1,334 @@
-[
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;찾아가는 연구자 교육: IRB 심의의뢰서 작성법 교육 홍보 안내\u0026gt;*\n\n인간대상연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획 및 작성에의 이해를 돕고는 교육입니다.\n\n※ 사전 KIRD 수강신청 없이 교육당일 연구윤리 강의를 듣는 경우 출결 확인 및 수료증 발급 불가\n\n  ○ 교육 내용: IRB (Institutional Review Board) 심의 절차 및 활용법 등\n  ○ 대상: 대학원생\n  ○ 일시: 2021.3.31.(수) 10:30 ~ 12:00 (90분)\n  ○ 교육 방법: zoom을 활용한 온라인 실시간 교육\n  ○ 사전 신청: 2021.3.29.(월)까지 아래 링크에서 신청\n(\u003chttp://www.kird.re.kr/portal/guide/jobViewSearchAction.do?pageTitle=15\u0026amp;pageSubTitle=01\u0026amp;crsId=1105215\u0026amp;crsSessId=1105215202100050\u003e)\n  ○ 출석 확인 방법: zoom 접속 후 화면에 보이는 QR코드를 휴대폰 어플 (KIRD 스마트에듀)로 QR인식\n  ○ 유의사항\n    - 원활한 접속환경을 위해 크롬(Chrome) 브라우저 접속 필수 (익스플로어의 경우 접속제한이 발생할 수 있음)\n    - 교육 zoom 링크와 회의ID, 암호는 사전신청자에게 교육 전날 SMS와 이메일로 통해 개별안내\n    - 이니셜, 닉네임 등의 대화명을 사용할 경우 교육장 입장에 제한이 있을 수 있으니, '실명(학과명)'로 대화명 변경 후 입장해주시기 바랍니다.\n\n관련하여 자세한 내용은 첨부의 안내자료 꼭 참고하시기 바랍니다.",
-    "ts": "1615942293.005200",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1615967254.000000"
-    },
-    "files": [
-      {
-        "id": "F01RH2Q9FGB",
-        "created": 1615942268,
-        "timestamp": 1615942268,
-        "name": "찾아가는 연구자 교육 IRB 심의의뢰서 작성법.zip",
-        "title": "찾아가는 연구자 교육 IRB 심의의뢰서 작성법.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 10077067,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01RH2Q9FGB-찾아가는 연구자 교육 IRB 심의의뢰서 작성법.zip",
-        "url_private_download": "attachments/F01RH2Q9FGB-찾아가는 연구자 교육 IRB 심의의뢰서 작성법.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01RH2Q9FGB/______________________________irb__________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01RH2Q9FGB-5fe7c93eca",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "MMtdE",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c찾아가는 연구자 교육: IRB 심의의뢰서 작성법 교육 홍보 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n인간대상연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획 및 작성에의 이해를 돕고는 교육입니다.\n\n※ 사전 KIRD 수강신청 없이 교육당일 연구윤리 강의를 듣는 경우 출결 확인 및 수료증 발급 불가\n\n  ○ 교육 내용: IRB (Institutional Review Board) 심의 절차 및 활용법 등\n  ○ 대상: 대학원생\n  ○ 일시: 2021.3.31.(수) 10:30 ~ 12:00 (90분)\n  ○ 교육 방법: zoom을 활용한 온라인 실시간 교육\n  ○ 사전 신청: 2021.3.29.(월)까지 아래 링크에서 신청\n("
-              },
-              {
-                "type": "link",
-                "url": "http://www.kird.re.kr/portal/guide/jobViewSearchAction.do?pageTitle=15\u0026pageSubTitle=01\u0026crsId=1105215\u0026crsSessId=1105215202100050",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n  ○ 출석 확인 방법: zoom 접속 후 화면에 보이는 QR코드를 휴대폰 어플 (KIRD 스마트에듀)로 QR인식\n  ○ 유의사항\n    - 원활한 접속환경을 위해 크롬(Chrome) 브라우저 접속 필수 (익스플로어의 경우 접속제한이 발생할 수 있음)\n    - 교육 zoom 링크와 회의ID, 암호는 사전신청자에게 교육 전날 SMS와 이메일로 통해 개별안내\n    - 이니셜, 닉네임 등의 대화명을 사용할 경우 교육장 입장에 제한이 있을 수 있으니, '실명(학과명)'로 대화명 변경 후 입장해주시기 바랍니다.\n\n관련하여 자세한 내용은 첨부의 안내자료 꼭 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt; 해외학자(Henry Greely (Stanford Law School)) 초청 특강 홍보 \u0026gt;*\n\n 연구윤리 정규 강좌(담당교수: 의학과 김미경)에서 해외학자를 초청하여 비대면 특강을 진행하오니, 관심 있는 교내 구성원(교원, 대학원생 등)이 참여할 수 있도록 적극 홍보하여 주시기 바랍니다.\n\n  ○ 강연 주제: Neuroscience in World: Ethical, Legal, and Social Issues\n  ○ 연자: Prof. Henry T. Greely (Stanford Law School)\n  ○ 일시: 3.25.(목) 9:00 ~ 10:30\n  ○ 실시간 zoom 링크: \u003chttps://snu-ac-kr.zoom.us/j/87012497501\u003e",
-    "ts": "1615960607.006000",
-    "files": [
-      {
-        "id": "F01RHCM5MNW",
-        "created": 1615960605,
-        "timestamp": 1615960605,
-        "name": "특강(Henry Greely) 포스터.pdf",
-        "title": "특강(Henry Greely) 포스터.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1150745,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01RHCM5MNW-특강(Henry Greely) 포스터.pdf",
-        "url_private_download": "attachments/F01RHCM5MNW-특강(Henry Greely) 포스터.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01RHCM5MNW/_______henry_greely___________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01RHCM5MNW-eed306ff8c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "JiZQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 해외학자(Henry Greely (Stanford Law School)) 초청 특강 홍보 \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n 연구윤리 정규 강좌(담당교수: 의학과 김미경)에서 해외학자를 초청하여 비대면 특강을 진행하오니, 관심 있는 교내 구성원(교원, 대학원생 등)이 참여할 수 있도록 적극 홍보하여 주시기 바랍니다.\n\n  ○ 강연 주제: Neuroscience in World: Ethical, Legal, and Social Issues\n  ○ 연자: Prof. Henry T. Greely (Stanford Law School)\n  ○ 일시: 3.25.(목) 9:00 ~ 10:30\n  ○ 실시간 zoom 링크: "
-              },
-              {
-                "type": "link",
-                "url": "https://snu-ac-kr.zoom.us/j/87012497501",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "c49f9c05-6925-4e64-8f2a-892925fded10",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2021학년도 1학기 대학원 신입생 연구윤리 교육\n\n수강가능 기간을 확인하시어 교육을 받으시기 바랍니다.\n\n가. 강좌명\n    - 2021-1) 대학원 신입생을 위한 연구윤리(인문사회·예체능계 / 이공계)\n    - 2021-1) Research ethics for graduate students(Humanities and Social Sciences·Arts and Phsical Education / Science and Engineering)\n  나. 수강 대상: 2021학년도 1학기 대학원 신입생, 2020학년도 신입생 중 미이수자\n  다. 수강 기간: 2021.3.2.(화) *~ 3.31.(수)*\n  라. 수강 방법\n    - eTL 접속(\u003chttp://etl.snu.ac.kr\u003e) → 좌측 ‘e-Class’ 클릭 → ‘연구윤리 / Ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강 (약 3시간 소요)\n\n*※ 2021학년 신입생 수료자 대상으로 커피 기프티콘 발송 예정*",
-    "ts": "1615967330.006800",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 1,
-        "users": [
-          "U01QGKCUAJX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bkdqx",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2021학년도 1학기 대학원 신입생 연구윤리 교육\n\n수강가능 기간을 확인하시어 교육을 받으시기 바랍니다.\n\n가. 강좌명\n    - 2021-1) 대학원 신입생을 위한 연구윤리(인문사회·예체능계 / 이공계)\n    - 2021-1) Research ethics for graduate students(Humanities and Social Sciences·Arts and Phsical Education / Science and Engineering)\n  나. 수강 대상: 2021학년도 1학기 대학원 신입생, 2020학년도 신입생 중 미이수자\n  다. 수강 기간: 2021.3.2.(화) "
-              },
-              {
-                "type": "text",
-                "text": "~ 3.31.(수)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  라. 수강 방법\n    - eTL 접속("
-              },
-              {
-                "type": "link",
-                "url": "http://etl.snu.ac.kr",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") → 좌측 ‘e-Class’ 클릭 → ‘연구윤리 / Ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강 (약 3시간 소요)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "※ 2021학년 신입생 수료자 대상으로 커피 기프티콘 발송 예정",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;찾아가는 연구자 교육: IRB 심의의뢰서 작성법 교육 홍보 안내&gt;*\n\n인간대상연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획 및 작성에의 이해를 돕고는 교육입니다.\n\n※ 사전 KIRD 수강신청 없이 교육당일 연구윤리 강의를 듣는 경우 출결 확인 및 수료증 발급 불가\n\n  ○ 교육 내용: IRB (Institutional Review Board) 심의 절차 및 활용법 등\n  ○ 대상: 대학원생\n  ○ 일시: 2021.3.31.(수) 10:30 ~ 12:00 (90분)\n  ○ 교육 방법: zoom을 활용한 온라인 실시간 교육\n  ○ 사전 신청: 2021.3.29.(월)까지 아래 링크에서 신청\n(<http://www.kird.re.kr/portal/guide/jobViewSearchAction.do?pageTitle=15&amp;pageSubTitle=01&amp;crsId=1105215&amp;crsSessId=1105215202100050>)\n  ○ 출석 확인 방법: zoom 접속 후 화면에 보이는 QR코드를 휴대폰 어플 (KIRD 스마트에듀)로 QR인식\n  ○ 유의사항\n    - 원활한 접속환경을 위해 크롬(Chrome) 브라우저 접속 필수 (익스플로어의 경우 접속제한이 발생할 수 있음)\n    - 교육 zoom 링크와 회의ID, 암호는 사전신청자에게 교육 전날 SMS와 이메일로 통해 개별안내\n    - 이니셜, 닉네임 등의 대화명을 사용할 경우 교육장 입장에 제한이 있을 수 있으니, '실명(학과명)'로 대화명 변경 후 입장해주시기 바랍니다.\n\n관련하여 자세한 내용은 첨부의 안내자료 꼭 참고하시기 바랍니다.",
+			"ts": "1615942293.005200",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1615967254.000000"
+			},
+			"files": [
+				{
+					"id": "F01RH2Q9FGB",
+					"created": 1615942268,
+					"timestamp": 1615942268,
+					"name": "찾아가는 연구자 교육 IRB 심의의뢰서 작성법.zip",
+					"title": "찾아가는 연구자 교육 IRB 심의의뢰서 작성법.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 10077067,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01RH2Q9FGB-찾아가는 연구자 교육 IRB 심의의뢰서 작성법.zip",
+					"url_private_download": "attachments/F01RH2Q9FGB-찾아가는 연구자 교육 IRB 심의의뢰서 작성법.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01RH2Q9FGB/______________________________irb__________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01RH2Q9FGB-5fe7c93eca",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "MMtdE",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<찾아가는 연구자 교육: IRB 심의의뢰서 작성법 교육 홍보 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n인간대상연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획 및 작성에의 이해를 돕고는 교육입니다.\n\n※ 사전 KIRD 수강신청 없이 교육당일 연구윤리 강의를 듣는 경우 출결 확인 및 수료증 발급 불가\n\n  ○ 교육 내용: IRB (Institutional Review Board) 심의 절차 및 활용법 등\n  ○ 대상: 대학원생\n  ○ 일시: 2021.3.31.(수) 10:30 ~ 12:00 (90분)\n  ○ 교육 방법: zoom을 활용한 온라인 실시간 교육\n  ○ 사전 신청: 2021.3.29.(월)까지 아래 링크에서 신청\n("
+								},
+								{
+									"type": "link",
+									"url": "http://www.kird.re.kr/portal/guide/jobViewSearchAction.do?pageTitle=15&pageSubTitle=01&crsId=1105215&crsSessId=1105215202100050",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n  ○ 출석 확인 방법: zoom 접속 후 화면에 보이는 QR코드를 휴대폰 어플 (KIRD 스마트에듀)로 QR인식\n  ○ 유의사항\n    - 원활한 접속환경을 위해 크롬(Chrome) 브라우저 접속 필수 (익스플로어의 경우 접속제한이 발생할 수 있음)\n    - 교육 zoom 링크와 회의ID, 암호는 사전신청자에게 교육 전날 SMS와 이메일로 통해 개별안내\n    - 이니셜, 닉네임 등의 대화명을 사용할 경우 교육장 입장에 제한이 있을 수 있으니, '실명(학과명)'로 대화명 변경 후 입장해주시기 바랍니다.\n\n관련하여 자세한 내용은 첨부의 안내자료 꼭 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt; 해외학자(Henry Greely (Stanford Law School)) 초청 특강 홍보 &gt;*\n\n 연구윤리 정규 강좌(담당교수: 의학과 김미경)에서 해외학자를 초청하여 비대면 특강을 진행하오니, 관심 있는 교내 구성원(교원, 대학원생 등)이 참여할 수 있도록 적극 홍보하여 주시기 바랍니다.\n\n  ○ 강연 주제: Neuroscience in World: Ethical, Legal, and Social Issues\n  ○ 연자: Prof. Henry T. Greely (Stanford Law School)\n  ○ 일시: 3.25.(목) 9:00 ~ 10:30\n  ○ 실시간 zoom 링크: <https://snu-ac-kr.zoom.us/j/87012497501>",
+			"ts": "1615960607.006000",
+			"files": [
+				{
+					"id": "F01RHCM5MNW",
+					"created": 1615960605,
+					"timestamp": 1615960605,
+					"name": "특강(Henry Greely) 포스터.pdf",
+					"title": "특강(Henry Greely) 포스터.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1150745,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01RHCM5MNW-특강(Henry Greely) 포스터.pdf",
+					"url_private_download": "attachments/F01RHCM5MNW-특강(Henry Greely) 포스터.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01RHCM5MNW/_______henry_greely___________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01RHCM5MNW-eed306ff8c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "JiZQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 해외학자(Henry Greely (Stanford Law School)) 초청 특강 홍보 >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n 연구윤리 정규 강좌(담당교수: 의학과 김미경)에서 해외학자를 초청하여 비대면 특강을 진행하오니, 관심 있는 교내 구성원(교원, 대학원생 등)이 참여할 수 있도록 적극 홍보하여 주시기 바랍니다.\n\n  ○ 강연 주제: Neuroscience in World: Ethical, Legal, and Social Issues\n  ○ 연자: Prof. Henry T. Greely (Stanford Law School)\n  ○ 일시: 3.25.(목) 9:00 ~ 10:30\n  ○ 실시간 zoom 링크: "
+								},
+								{
+									"type": "link",
+									"url": "https://snu-ac-kr.zoom.us/j/87012497501",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "c49f9c05-6925-4e64-8f2a-892925fded10",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2021학년도 1학기 대학원 신입생 연구윤리 교육\n\n수강가능 기간을 확인하시어 교육을 받으시기 바랍니다.\n\n가. 강좌명\n    - 2021-1) 대학원 신입생을 위한 연구윤리(인문사회·예체능계 / 이공계)\n    - 2021-1) Research ethics for graduate students(Humanities and Social Sciences·Arts and Phsical Education / Science and Engineering)\n  나. 수강 대상: 2021학년도 1학기 대학원 신입생, 2020학년도 신입생 중 미이수자\n  다. 수강 기간: 2021.3.2.(화) *~ 3.31.(수)*\n  라. 수강 방법\n    - eTL 접속(<http://etl.snu.ac.kr>) → 좌측 ‘e-Class’ 클릭 → ‘연구윤리 / Ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강 (약 3시간 소요)\n\n*※ 2021학년 신입생 수료자 대상으로 커피 기프티콘 발송 예정*",
+			"ts": "1615967330.006800",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 1,
+					"users": [
+						"U01QGKCUAJX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bkdqx",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2021학년도 1학기 대학원 신입생 연구윤리 교육\n\n수강가능 기간을 확인하시어 교육을 받으시기 바랍니다.\n\n가. 강좌명\n    - 2021-1) 대학원 신입생을 위한 연구윤리(인문사회·예체능계 / 이공계)\n    - 2021-1) Research ethics for graduate students(Humanities and Social Sciences·Arts and Phsical Education / Science and Engineering)\n  나. 수강 대상: 2021학년도 1학기 대학원 신입생, 2020학년도 신입생 중 미이수자\n  다. 수강 기간: 2021.3.2.(화) "
+								},
+								{
+									"type": "text",
+									"text": "~ 3.31.(수)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  라. 수강 방법\n    - eTL 접속("
+								},
+								{
+									"type": "link",
+									"url": "http://etl.snu.ac.kr",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") → 좌측 ‘e-Class’ 클릭 → ‘연구윤리 / Ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강 (약 3시간 소요)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "※ 2021학년 신입생 수료자 대상으로 커피 기프티콘 발송 예정",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

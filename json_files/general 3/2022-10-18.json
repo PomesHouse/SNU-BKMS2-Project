@@ -1,211 +1,213 @@
-[
-  {
-    "client_msg_id": "fe41d04c-7ae7-4ebb-874f-b272c0287fb9",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*2022학년도 2학기 대학원 교과학점 통산인정 신청 안내(리마인드)*\n\n학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정받고자 하는 학생은 *2022. 10. 18.(화)*까지 신청하여 주시기 바랍니다.\nㅁ마이스누-학생서비스-수업/성적-학점인정신청 내 '과정간 통산인정'신청\nㅁ석사/박사과정의 동일, 유사 전공의 경우 수료 기준학점을 초과한 범위 내에서 학-석사간 최대 6학점, 석-박사간 최대 12학점까지 통산인청 받을 수 있음\n ㅇ성적이 B0이상인 교과목만 신청가능하며, S/U과목은 불가\n\n원활한 학사운영을 위하여 입학 첫 학기에 통산인정을 신청하여주시기 바랍니다.\n\n문의사항: 행정실 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e, 02-880-1331)\n\n*2022학년도 2학기 본교 입학전 타교 수학학점 인정 신청 안내(리마인드)*\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 *2022. 10. 18.(화)*까지 신청서를 제출하여 주시기 바랍니다.\n\nㅁ본교 석사, 박사과정 입학 이전 타교 동일/유사 전공의 석사, 박사과정에서 취득한 교과학점의 경우 성적이 B0이상이면서, 10년 이내 이수한 동일 혹은 유사 교과목에 한하여\n ㅇ석사과정 6학점, 박사과점 9학점까지 이수학점으로 인정할 수 있습니다.\n\n원활한 학사운영을 위하여 입학 첫 학기에 타교 수학학점 인정 신청 하여 주시기 바랍니다.\n\n문의사항: 행정실 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e, 02-880-1331)",
-    "ts": "1666056403.121919",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "k=k",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 대학원 교과학점 통산인정 신청 안내(리마인드)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정받고자 하는 학생은 "
-              },
-              {
-                "type": "text",
-                "text": "2022. 10. 18.(화)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "까지 신청하여 주시기 바랍니다.\nㅁ마이스누-학생서비스-수업/성적-학점인정신청 내 '과정간 통산인정'신청\nㅁ석사/박사과정의 동일, 유사 전공의 경우 수료 기준학점을 초과한 범위 내에서 학-석사간 최대 6학점, 석-박사간 최대 12학점까지 통산인청 받을 수 있음\n ㅇ성적이 B0이상인 교과목만 신청가능하며, S/U과목은 불가\n\n원활한 학사운영을 위하여 입학 첫 학기에 통산인정을 신청하여주시기 바랍니다.\n\n문의사항: 행정실 임채연("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 02-880-1331)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 본교 입학전 타교 수학학점 인정 신청 안내(리마인드)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은"
-              },
-              {
-                "type": "text",
-                "text": " 2022. 10. 18.(화)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "까지 신청서를 제출하여 주시기 바랍니다.\n\nㅁ본교 석사, 박사과정 입학 이전 타교 동일/유사 전공의 석사, 박사과정에서 취득한 교과학점의 경우 성적이 B0이상이면서, 10년 이내 이수한 동일 혹은 유사 교과목에 한하여\n ㅇ석사과정 6학점, 박사과점 9학점까지 이수학점으로 인정할 수 있습니다.\n\n원활한 학사운영을 위하여 입학 첫 학기에 타교 수학학점 인정 신청 하여 주시기 바랍니다.\n\n문의사항: 행정실 임채연("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 02-880-1331)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "9a896db0-922a-415d-b340-fee48da3f0a5",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 전기 신입생 모집 면접 및 구술고사 보조위원 모집 안내\u0026gt;*\n\n마감 완료. 감사합니다",
-    "ts": "1666068117.912419",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1666075949.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "hYI",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 전기 신입생 모집 면접 및 구술고사 보조위원 모집 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n마감 완료. 감사합니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "819e02f4-1f29-4772-bef4-f0ef3c520f55",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "마이스누 - 학생서비스 - 졸업 - 논문/실적심사 신청/취소에서 하시면 됩니다",
-    "ts": "1666071047.432529",
-    "thread_ts": "1665707086.163489",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "pm4I",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "마이스누 - 학생서비스 - 졸업 - 논문/실적심사 신청/취소에서 하시면 됩니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "fe41d04c-7ae7-4ebb-874f-b272c0287fb9",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*2022학년도 2학기 대학원 교과학점 통산인정 신청 안내(리마인드)*\n\n학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정받고자 하는 학생은 *2022. 10. 18.(화)*까지 신청하여 주시기 바랍니다.\nㅁ마이스누-학생서비스-수업/성적-학점인정신청 내 '과정간 통산인정'신청\nㅁ석사/박사과정의 동일, 유사 전공의 경우 수료 기준학점을 초과한 범위 내에서 학-석사간 최대 6학점, 석-박사간 최대 12학점까지 통산인청 받을 수 있음\n ㅇ성적이 B0이상인 교과목만 신청가능하며, S/U과목은 불가\n\n원활한 학사운영을 위하여 입학 첫 학기에 통산인정을 신청하여주시기 바랍니다.\n\n문의사항: 행정실 임채연(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>, 02-880-1331)\n\n*2022학년도 2학기 본교 입학전 타교 수학학점 인정 신청 안내(리마인드)*\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은 *2022. 10. 18.(화)*까지 신청서를 제출하여 주시기 바랍니다.\n\nㅁ본교 석사, 박사과정 입학 이전 타교 동일/유사 전공의 석사, 박사과정에서 취득한 교과학점의 경우 성적이 B0이상이면서, 10년 이내 이수한 동일 혹은 유사 교과목에 한하여\n ㅇ석사과정 6학점, 박사과점 9학점까지 이수학점으로 인정할 수 있습니다.\n\n원활한 학사운영을 위하여 입학 첫 학기에 타교 수학학점 인정 신청 하여 주시기 바랍니다.\n\n문의사항: 행정실 임채연(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>, 02-880-1331)",
+			"ts": "1666056403.121919",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "k=k",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 대학원 교과학점 통산인정 신청 안내(리마인드)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n학사-석사, 석사-박사 과정간 이수한 학점을 통산 인정받고자 하는 학생은 "
+								},
+								{
+									"type": "text",
+									"text": "2022. 10. 18.(화)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "까지 신청하여 주시기 바랍니다.\nㅁ마이스누-학생서비스-수업/성적-학점인정신청 내 '과정간 통산인정'신청\nㅁ석사/박사과정의 동일, 유사 전공의 경우 수료 기준학점을 초과한 범위 내에서 학-석사간 최대 6학점, 석-박사간 최대 12학점까지 통산인청 받을 수 있음\n ㅇ성적이 B0이상인 교과목만 신청가능하며, S/U과목은 불가\n\n원활한 학사운영을 위하여 입학 첫 학기에 통산인정을 신청하여주시기 바랍니다.\n\n문의사항: 행정실 임채연("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 02-880-1331)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 본교 입학전 타교 수학학점 인정 신청 안내(리마인드)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n본교 입학 이전에 타교 대학원에서 취득한 학점을 인정받고자 하는 학생은"
+								},
+								{
+									"type": "text",
+									"text": " 2022. 10. 18.(화)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "까지 신청서를 제출하여 주시기 바랍니다.\n\nㅁ본교 석사, 박사과정 입학 이전 타교 동일/유사 전공의 석사, 박사과정에서 취득한 교과학점의 경우 성적이 B0이상이면서, 10년 이내 이수한 동일 혹은 유사 교과목에 한하여\n ㅇ석사과정 6학점, 박사과점 9학점까지 이수학점으로 인정할 수 있습니다.\n\n원활한 학사운영을 위하여 입학 첫 학기에 타교 수학학점 인정 신청 하여 주시기 바랍니다.\n\n문의사항: 행정실 임채연("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 02-880-1331)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "9a896db0-922a-415d-b340-fee48da3f0a5",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 전기 신입생 모집 면접 및 구술고사 보조위원 모집 안내&gt;*\n\n마감 완료. 감사합니다",
+			"ts": "1666068117.912419",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1666075949.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "hYI",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 전기 신입생 모집 면접 및 구술고사 보조위원 모집 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n마감 완료. 감사합니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "819e02f4-1f29-4772-bef4-f0ef3c520f55",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "마이스누 - 학생서비스 - 졸업 - 논문/실적심사 신청/취소에서 하시면 됩니다",
+			"ts": "1666071047.432529",
+			"thread_ts": "1665707086.163489",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "pm4I",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "마이스누 - 학생서비스 - 졸업 - 논문/실적심사 신청/취소에서 하시면 됩니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

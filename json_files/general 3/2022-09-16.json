@@ -1,780 +1,782 @@
-[
-  {
-    "client_msg_id": "54dfdb0f-3f96-40d0-ab87-b2825cc6a570",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022년도 후기 전문연구요원 편입대상자 선발 공고 안내\n\n2022년도 후기 자연계 대학원 전문연구요원 편입대상자 선발계획을 알려드리니 지원자께서는 신청기간 내에 온라인으로 신청 후 *관련서류 일체를 출력하여 대학·학과(부) 행정실에 제출*해 주시기 바랍니다.\n 가. 서울대 지원자 *온라인 신청기간 : 2022. 9. 23.(금) ~ 10. 6.(목) 17:00*\n 나. 신청대상: *자연계 대학원* 박사학위과정 수학 중에 있는 자",
-    "ts": "1663295439.476769",
-    "files": [
-      {
-        "id": "F043C3H143S",
-        "created": 1663295206,
-        "timestamp": 1663295206,
-        "name": "붙임1. [공고문] 2022년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
-        "title": "붙임1. [공고문] 2022년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 356352,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F043C3H143S-붙임1. [공고문] 2022년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
-        "url_private_download": "attachments/F043C3H143S-붙임1. [공고문] 2022년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043C3H143S/______1._____________2022________________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F043C3H143S-977fdcf1d2",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F042QRK1W4U",
-        "created": 1663295401,
-        "timestamp": 1663295401,
-        "name": "붙임2. (지원자) 제출서류 양식 및 온라인 신청 메뉴얼 .zip",
-        "title": "붙임2. (지원자) 제출서류 양식 및 온라인 신청 메뉴얼 .zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1776490,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F042QRK1W4U-붙임2. (지원자) 제출서류 양식 및 온라인 신청 메뉴얼 .zip",
-        "url_private_download": "attachments/F042QRK1W4U-붙임2. (지원자) 제출서류 양식 및 온라인 신청 메뉴얼 .zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F042QRK1W4U/______2.________________________________________________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F042QRK1W4U-c6b4f24537",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "kUOu",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022년도 후기 전문연구요원 편입대상자 선발 공고 안내\n\n2022년도 후기 자연계 대학원 전문연구요원 편입대상자 선발계획을 알려드리니 지원자께서는 신청기간 내에 온라인으로 신청 후 "
-              },
-              {
-                "type": "text",
-                "text": "관련서류 일체를 출력하여 대학·학과(부) 행정실에 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "해 주시기 바랍니다.\n 가. 서울대 지원자 "
-              },
-              {
-                "type": "text",
-                "text": "온라인 신청기간 : 2022. 9. 23.(금) ~ 10. 6.(목) 17:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n 나. 신청대상: "
-              },
-              {
-                "type": "text",
-                "text": "자연계 대학원",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 박사학위과정 수학 중에 있는 자"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "6a2ea82c-965a-4121-83e7-92f323427391",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 안내\n\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 *2022학년도 동계 Study Abroad Program(SAP)*을 실시하오니 관심있는 학생께서는 확인하시기 바랍니다.\n  가. 일정\n    1. 신청서 제출: *2022. 9. 21.(수)까지* \u0026lt;지원자 → 소속 단과대학(원) 행정실\u0026gt;\n   2. 신청서 취합 및 제출: *2022. 9. 23.(금)까지* \u0026lt;각 단과대학(원) → 국제협력본부\u0026gt;\n     가) 모든 지원서류를 지원자별로 *하나의 PDF 파일로 스캔 후* *신청자 명단(붙임 3)*과 함께 *공문 발송*\n      나) 지원서류 원본을 국제협력본부 담당자에게 *사송 제출*\n    3. 1차 합격자 발표: 2022. 9. 28.(수)\n    4. 면접: 2022. 10. 4.(화) ~ 10. 7.(금) 중 1일\n    5. 최종 합격자 발표: 2022. 10. 12.(수)\n  나. 문의: 국제협력본부 김유리 (\u003cmailto:yrkim25@snu.ac.kr|yrkim25@snu.ac.kr\u003e/02-880-4357)",
-    "ts": "1663307652.664789",
-    "files": [
-      {
-        "id": "F043CHMNKCY",
-        "created": 1663307630,
-        "timestamp": 1663307630,
-        "name": "4. 양식 및 가이드라인.zip",
-        "title": "4. 양식 및 가이드라인.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 974362,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F043CHMNKCY-4. 양식 및 가이드라인.zip",
-        "url_private_download": "attachments/F043CHMNKCY-4. 양식 및 가이드라인.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043CHMNKCY/4.___________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F043CHMNKCY-4af7e177fb",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F043CHMRFL0",
-        "created": 1663307632,
-        "timestamp": 1663307632,
-        "name": "1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 공고문 (1).hwp",
-        "title": "1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 공고문 (1).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 59392,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F043CHMRFL0-1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 공고문 (1).hwp",
-        "url_private_download": "attachments/F043CHMRFL0-1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 공고문 (1).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043CHMRFL0/1._2022_________________study_abroad_program__sap______________________________1_.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F043CHMRFL0-d4f60b8f86",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F042KTF9Z4M",
-        "created": 1663307634,
-        "timestamp": 1663307634,
-        "name": "2. 국제협력본부 지정 프로그램 리스트(수정).xlsx",
-        "title": "2. 국제협력본부 지정 프로그램 리스트(수정).xlsx",
-        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-        "image_exif_rotation": 0,
-        "filetype": "xlsx",
-        "pretty_type": "Excel 스프레드시트",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 14372,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F042KTF9Z4M-2. 국제협력본부 지정 프로그램 리스트(수정).xlsx",
-        "url_private_download": "attachments/F042KTF9Z4M-2. 국제협력본부 지정 프로그램 리스트(수정).xlsx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F042KTF9Z4M/2._________________________________________________________.xlsx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F042KTF9Z4M-24ea6ff207",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "oHW",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 안내\n\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 "
-              },
-              {
-                "type": "text",
-                "text": "2022학년도 동계 Study Abroad Program(SAP)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 실시하오니 관심있는 학생께서는 확인하시기 바랍니다.\n  가. 일정\n    1. 신청서 제출: "
-              },
-              {
-                "type": "text",
-                "text": "2022. 9. 21.(수)까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " \u003c지원자 → 소속 단과대학(원) 행정실\u003e\n   2. 신청서 취합 및 제출: "
-              },
-              {
-                "type": "text",
-                "text": "2022. 9. 23.(금)까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " \u003c각 단과대학(원) → 국제협력본부\u003e\n     가) 모든 지원서류를 지원자별로 "
-              },
-              {
-                "type": "text",
-                "text": "하나의 PDF 파일로 스캔 후",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "신청자 명단(붙임 3)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "과 함께 "
-              },
-              {
-                "type": "text",
-                "text": "공문 발송",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n      나) 지원서류 원본을 국제협력본부 담당자에게 "
-              },
-              {
-                "type": "text",
-                "text": "사송 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    3. 1차 합격자 발표: 2022. 9. 28.(수)\n    4. 면접: 2022. 10. 4.(화) ~ 10. 7.(금) 중 1일\n    5. 최종 합격자 발표: 2022. 10. 12.(수)\n  나. 문의: 국제협력본부 김유리 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:yrkim25@snu.ac.kr",
-                "text": "yrkim25@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "/02-880-4357)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d6c54b0f-483a-41c3-ac18-624629eb0952",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;서울대학교 2022 예술주간; ArtSpace@SNU 행사 알림\u0026gt;\n\n「*2022 예술주간; ArtSpace@SNU*」행사를 아래와 같이 개최합니다. 관심 있는 학생들의 적극적인 참여 부탁드립니다.\n\n  1. 행사명: *2022 예술주간; ArtSpace@SNU*\n  2. 기 간: 2022. 9. 19.(월) ~ 9. 23.(금) ※ 프로그램 별 세부 일정은 첨부 파일 참조\n  3. 장 소: 관악 및 연건 캠퍼스 일대(실내·외)\n  4. 행사내용: 개막 공연, 시 낭송 음악회, 음악 공연, 미술 전시, 동아리 공연, 강연회 등",
-    "ts": "1663308145.805529",
-    "files": [
-      {
-        "id": "F043CJCAZ4G",
-        "created": 1663308091,
-        "timestamp": 1663308091,
-        "name": "2022 예술주간 메인포스터(관악).pdf",
-        "title": "2022 예술주간 메인포스터(관악).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 17631098,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F043CJCAZ4G-2022 예술주간 메인포스터(관악).pdf",
-        "url_private_download": "attachments/F043CJCAZ4G-2022 예술주간 메인포스터(관악).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043CJCAZ4G/2022_____________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F043CJCAZ4G-179803b53d",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F0431G737LH",
-        "created": 1663308099,
-        "timestamp": 1663308099,
-        "name": "2022 예술주간 메인포스터(연건).pdf",
-        "title": "2022 예술주간 메인포스터(연건).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 17501262,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0431G737LH-2022 예술주간 메인포스터(연건).pdf",
-        "url_private_download": "attachments/F0431G737LH-2022 예술주간 메인포스터(연건).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0431G737LH/2022_____________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0431G737LH-4bae7ca4a7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F0431G7H457",
-        "created": 1663308108,
-        "timestamp": 1663308108,
-        "name": "2022 예술주간 주요일정(팜플렛).pdf",
-        "title": "2022 예술주간 주요일정(팜플렛).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3757487,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0431G7H457-2022 예술주간 주요일정(팜플렛).pdf",
-        "url_private_download": "attachments/F0431G7H457-2022 예술주간 주요일정(팜플렛).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0431G7H457/2022_____________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0431G7H457-0ea46472ec",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Lzzrp",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c서울대학교 2022 예술주간; ArtSpace@SNU 행사 알림\u003e\n\n「"
-              },
-              {
-                "type": "text",
-                "text": "2022 예술주간; ArtSpace@SNU",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "」행사를 아래와 같이 개최합니다. 관심 있는 학생들의 적극적인 참여 부탁드립니다.\n\n  1. 행사명: "
-              },
-              {
-                "type": "text",
-                "text": "2022 예술주간; ArtSpace@SNU",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  2. 기 간: 2022. 9. 19.(월) ~ 9. 23.(금) ※ 프로그램 별 세부 일정은 첨부 파일 참조\n  3. 장 소: 관악 및 연건 캠퍼스 일대(실내·외)\n  4. 행사내용: 개막 공연, 시 낭송 음악회, 음악 공연, 미술 전시, 동아리 공연, 강연회 등"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "54dfdb0f-3f96-40d0-ab87-b2825cc6a570",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022년도 후기 전문연구요원 편입대상자 선발 공고 안내\n\n2022년도 후기 자연계 대학원 전문연구요원 편입대상자 선발계획을 알려드리니 지원자께서는 신청기간 내에 온라인으로 신청 후 *관련서류 일체를 출력하여 대학·학과(부) 행정실에 제출*해 주시기 바랍니다.\n 가. 서울대 지원자 *온라인 신청기간 : 2022. 9. 23.(금) ~ 10. 6.(목) 17:00*\n 나. 신청대상: *자연계 대학원* 박사학위과정 수학 중에 있는 자",
+			"ts": "1663295439.476769",
+			"files": [
+				{
+					"id": "F043C3H143S",
+					"created": 1663295206,
+					"timestamp": 1663295206,
+					"name": "붙임1. [공고문] 2022년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
+					"title": "붙임1. [공고문] 2022년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 356352,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F043C3H143S-붙임1. [공고문] 2022년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
+					"url_private_download": "attachments/F043C3H143S-붙임1. [공고문] 2022년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043C3H143S/______1._____________2022________________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F043C3H143S-977fdcf1d2",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F042QRK1W4U",
+					"created": 1663295401,
+					"timestamp": 1663295401,
+					"name": "붙임2. (지원자) 제출서류 양식 및 온라인 신청 메뉴얼 .zip",
+					"title": "붙임2. (지원자) 제출서류 양식 및 온라인 신청 메뉴얼 .zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1776490,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F042QRK1W4U-붙임2. (지원자) 제출서류 양식 및 온라인 신청 메뉴얼 .zip",
+					"url_private_download": "attachments/F042QRK1W4U-붙임2. (지원자) 제출서류 양식 및 온라인 신청 메뉴얼 .zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F042QRK1W4U/______2.________________________________________________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F042QRK1W4U-c6b4f24537",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "kUOu",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022년도 후기 전문연구요원 편입대상자 선발 공고 안내\n\n2022년도 후기 자연계 대학원 전문연구요원 편입대상자 선발계획을 알려드리니 지원자께서는 신청기간 내에 온라인으로 신청 후 "
+								},
+								{
+									"type": "text",
+									"text": "관련서류 일체를 출력하여 대학·학과(부) 행정실에 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "해 주시기 바랍니다.\n 가. 서울대 지원자 "
+								},
+								{
+									"type": "text",
+									"text": "온라인 신청기간 : 2022. 9. 23.(금) ~ 10. 6.(목) 17:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n 나. 신청대상: "
+								},
+								{
+									"type": "text",
+									"text": "자연계 대학원",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 박사학위과정 수학 중에 있는 자"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "6a2ea82c-965a-4121-83e7-92f323427391",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 안내\n\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 *2022학년도 동계 Study Abroad Program(SAP)*을 실시하오니 관심있는 학생께서는 확인하시기 바랍니다.\n  가. 일정\n    1. 신청서 제출: *2022. 9. 21.(수)까지* &lt;지원자 → 소속 단과대학(원) 행정실&gt;\n   2. 신청서 취합 및 제출: *2022. 9. 23.(금)까지* &lt;각 단과대학(원) → 국제협력본부&gt;\n     가) 모든 지원서류를 지원자별로 *하나의 PDF 파일로 스캔 후* *신청자 명단(붙임 3)*과 함께 *공문 발송*\n      나) 지원서류 원본을 국제협력본부 담당자에게 *사송 제출*\n    3. 1차 합격자 발표: 2022. 9. 28.(수)\n    4. 면접: 2022. 10. 4.(화) ~ 10. 7.(금) 중 1일\n    5. 최종 합격자 발표: 2022. 10. 12.(수)\n  나. 문의: 국제협력본부 김유리 (<mailto:yrkim25@snu.ac.kr|yrkim25@snu.ac.kr>/02-880-4357)",
+			"ts": "1663307652.664789",
+			"files": [
+				{
+					"id": "F043CHMNKCY",
+					"created": 1663307630,
+					"timestamp": 1663307630,
+					"name": "4. 양식 및 가이드라인.zip",
+					"title": "4. 양식 및 가이드라인.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 974362,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F043CHMNKCY-4. 양식 및 가이드라인.zip",
+					"url_private_download": "attachments/F043CHMNKCY-4. 양식 및 가이드라인.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043CHMNKCY/4.___________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F043CHMNKCY-4af7e177fb",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F043CHMRFL0",
+					"created": 1663307632,
+					"timestamp": 1663307632,
+					"name": "1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 공고문 (1).hwp",
+					"title": "1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 공고문 (1).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 59392,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F043CHMRFL0-1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 공고문 (1).hwp",
+					"url_private_download": "attachments/F043CHMRFL0-1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 공고문 (1).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043CHMRFL0/1._2022_________________study_abroad_program__sap______________________________1_.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F043CHMRFL0-d4f60b8f86",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F042KTF9Z4M",
+					"created": 1663307634,
+					"timestamp": 1663307634,
+					"name": "2. 국제협력본부 지정 프로그램 리스트(수정).xlsx",
+					"title": "2. 국제협력본부 지정 프로그램 리스트(수정).xlsx",
+					"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+					"image_exif_rotation": 0,
+					"filetype": "xlsx",
+					"pretty_type": "Excel 스프레드시트",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 14372,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F042KTF9Z4M-2. 국제협력본부 지정 프로그램 리스트(수정).xlsx",
+					"url_private_download": "attachments/F042KTF9Z4M-2. 국제협력본부 지정 프로그램 리스트(수정).xlsx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F042KTF9Z4M/2._________________________________________________________.xlsx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F042KTF9Z4M-24ea6ff207",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "oHW",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 동계 Study Abroad Program (SAP) 참가자 모집 안내\n\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 "
+								},
+								{
+									"type": "text",
+									"text": "2022학년도 동계 Study Abroad Program(SAP)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 실시하오니 관심있는 학생께서는 확인하시기 바랍니다.\n  가. 일정\n    1. 신청서 제출: "
+								},
+								{
+									"type": "text",
+									"text": "2022. 9. 21.(수)까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " <지원자 → 소속 단과대학(원) 행정실>\n   2. 신청서 취합 및 제출: "
+								},
+								{
+									"type": "text",
+									"text": "2022. 9. 23.(금)까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " <각 단과대학(원) → 국제협력본부>\n     가) 모든 지원서류를 지원자별로 "
+								},
+								{
+									"type": "text",
+									"text": "하나의 PDF 파일로 스캔 후",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "신청자 명단(붙임 3)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "과 함께 "
+								},
+								{
+									"type": "text",
+									"text": "공문 발송",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n      나) 지원서류 원본을 국제협력본부 담당자에게 "
+								},
+								{
+									"type": "text",
+									"text": "사송 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    3. 1차 합격자 발표: 2022. 9. 28.(수)\n    4. 면접: 2022. 10. 4.(화) ~ 10. 7.(금) 중 1일\n    5. 최종 합격자 발표: 2022. 10. 12.(수)\n  나. 문의: 국제협력본부 김유리 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:yrkim25@snu.ac.kr",
+									"text": "yrkim25@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "/02-880-4357)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d6c54b0f-483a-41c3-ac18-624629eb0952",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;서울대학교 2022 예술주간; ArtSpace@SNU 행사 알림&gt;\n\n「*2022 예술주간; ArtSpace@SNU*」행사를 아래와 같이 개최합니다. 관심 있는 학생들의 적극적인 참여 부탁드립니다.\n\n  1. 행사명: *2022 예술주간; ArtSpace@SNU*\n  2. 기 간: 2022. 9. 19.(월) ~ 9. 23.(금) ※ 프로그램 별 세부 일정은 첨부 파일 참조\n  3. 장 소: 관악 및 연건 캠퍼스 일대(실내·외)\n  4. 행사내용: 개막 공연, 시 낭송 음악회, 음악 공연, 미술 전시, 동아리 공연, 강연회 등",
+			"ts": "1663308145.805529",
+			"files": [
+				{
+					"id": "F043CJCAZ4G",
+					"created": 1663308091,
+					"timestamp": 1663308091,
+					"name": "2022 예술주간 메인포스터(관악).pdf",
+					"title": "2022 예술주간 메인포스터(관악).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 17631098,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F043CJCAZ4G-2022 예술주간 메인포스터(관악).pdf",
+					"url_private_download": "attachments/F043CJCAZ4G-2022 예술주간 메인포스터(관악).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F043CJCAZ4G/2022_____________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F043CJCAZ4G-179803b53d",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F0431G737LH",
+					"created": 1663308099,
+					"timestamp": 1663308099,
+					"name": "2022 예술주간 메인포스터(연건).pdf",
+					"title": "2022 예술주간 메인포스터(연건).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 17501262,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0431G737LH-2022 예술주간 메인포스터(연건).pdf",
+					"url_private_download": "attachments/F0431G737LH-2022 예술주간 메인포스터(연건).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0431G737LH/2022_____________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0431G737LH-4bae7ca4a7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F0431G7H457",
+					"created": 1663308108,
+					"timestamp": 1663308108,
+					"name": "2022 예술주간 주요일정(팜플렛).pdf",
+					"title": "2022 예술주간 주요일정(팜플렛).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3757487,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0431G7H457-2022 예술주간 주요일정(팜플렛).pdf",
+					"url_private_download": "attachments/F0431G7H457-2022 예술주간 주요일정(팜플렛).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0431G7H457/2022_____________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0431G7H457-0ea46472ec",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Lzzrp",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<서울대학교 2022 예술주간; ArtSpace@SNU 행사 알림>\n\n「"
+								},
+								{
+									"type": "text",
+									"text": "2022 예술주간; ArtSpace@SNU",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "」행사를 아래와 같이 개최합니다. 관심 있는 학생들의 적극적인 참여 부탁드립니다.\n\n  1. 행사명: "
+								},
+								{
+									"type": "text",
+									"text": "2022 예술주간; ArtSpace@SNU",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  2. 기 간: 2022. 9. 19.(월) ~ 9. 23.(금) ※ 프로그램 별 세부 일정은 첨부 파일 참조\n  3. 장 소: 관악 및 연건 캠퍼스 일대(실내·외)\n  4. 행사내용: 개막 공연, 시 낭송 음악회, 음악 공연, 미술 전시, 동아리 공연, 강연회 등"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

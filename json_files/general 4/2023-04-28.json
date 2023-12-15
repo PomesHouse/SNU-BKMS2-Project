@@ -1,61 +1,63 @@
-[
-  {
-    "client_msg_id": "8e5189d5-ed10-46b3-b752-1d82d9d52f3e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;연구과제 보조인력 채용 공고\u0026gt;\n\n김형신 교수님이 참여 중인 \"디지털 대전환 시대 서울대 교육혁신 방향 연구\" (서울대 평의원회 정책과제)를 위한 보조인력을 구합니다. 많은 지원 부탁드립니다. 지원 및 문의사항은 김형신 교수님께 연락해주시기 바랍니다 (\u003cmailto:hyungkim@snu.ac.kr|hyungkim@snu.ac.kr\u003e).\n\n- 인원: 1명 (인문대 조교 1명과 함께 2명이 작업)\n- 업무: 교수님들이 작성한 최종보고서 에디팅 (오탈자 검증 등) 및 사례분석 추가 (해외대학 데이터사이언스 수업 사례, 학생의 관점 등)\n- 현재 교수님들이 보고서 작성 중이며 5월 중에 전달될 것으로 예상\n- 인건비: 100만원\n- 지원시기: 5/2(화)까지",
-    "ts": "1682669454.159659",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1682669624.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "RyG",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c연구과제 보조인력 채용 공고\u003e\n\n김형신 교수님이 참여 중인 \"디지털 대전환 시대 서울대 교육혁신 방향 연구\" (서울대 평의원회 정책과제)를 위한 보조인력을 구합니다. 많은 지원 부탁드립니다. 지원 및 문의사항은 김형신 교수님께 연락해주시기 바랍니다 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:hyungkim@snu.ac.kr",
-                "text": "hyungkim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ").\n\n- 인원: 1명 (인문대 조교 1명과 함께 2명이 작업)\n- 업무: 교수님들이 작성한 최종보고서 에디팅 (오탈자 검증 등) 및 사례분석 추가 (해외대학 데이터사이언스 수업 사례, 학생의 관점 등)\n- 현재 교수님들이 보고서 작성 중이며 5월 중에 전달될 것으로 예상\n- 인건비: 100만원\n- 지원시기: 5/2(화)까지"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8e5189d5-ed10-46b3-b752-1d82d9d52f3e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;연구과제 보조인력 채용 공고&gt;\n\n김형신 교수님이 참여 중인 \"디지털 대전환 시대 서울대 교육혁신 방향 연구\" (서울대 평의원회 정책과제)를 위한 보조인력을 구합니다. 많은 지원 부탁드립니다. 지원 및 문의사항은 김형신 교수님께 연락해주시기 바랍니다 (<mailto:hyungkim@snu.ac.kr|hyungkim@snu.ac.kr>).\n\n- 인원: 1명 (인문대 조교 1명과 함께 2명이 작업)\n- 업무: 교수님들이 작성한 최종보고서 에디팅 (오탈자 검증 등) 및 사례분석 추가 (해외대학 데이터사이언스 수업 사례, 학생의 관점 등)\n- 현재 교수님들이 보고서 작성 중이며 5월 중에 전달될 것으로 예상\n- 인건비: 100만원\n- 지원시기: 5/2(화)까지",
+			"ts": "1682669454.159659",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1682669624.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "RyG",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<연구과제 보조인력 채용 공고>\n\n김형신 교수님이 참여 중인 \"디지털 대전환 시대 서울대 교육혁신 방향 연구\" (서울대 평의원회 정책과제)를 위한 보조인력을 구합니다. 많은 지원 부탁드립니다. 지원 및 문의사항은 김형신 교수님께 연락해주시기 바랍니다 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:hyungkim@snu.ac.kr",
+									"text": "hyungkim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ").\n\n- 인원: 1명 (인문대 조교 1명과 함께 2명이 작업)\n- 업무: 교수님들이 작성한 최종보고서 에디팅 (오탈자 검증 등) 및 사례분석 추가 (해외대학 데이터사이언스 수업 사례, 학생의 관점 등)\n- 현재 교수님들이 보고서 작성 중이며 5월 중에 전달될 것으로 예상\n- 인건비: 100만원\n- 지원시기: 5/2(화)까지"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

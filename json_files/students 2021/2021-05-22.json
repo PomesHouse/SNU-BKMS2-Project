@@ -1,247 +1,249 @@
-[
-  {
-    "type": "message",
-    "user": "U01QDA01NN9",
-    "text": "전략적 변곡점에서 신속하게 대응하여 기업의 성공을 이끈 그로브,창의 반도체 리더쉽에 대한 내용입니다.\n차상균 교수님의 코멘트와 함께 유투브 링크와 기사 첨부드립니다.\n \"History and Role Model counts!\nMorris Chang is a great human being.  He advises students to Learn and Think.  If you just learn and don’t think, you will lose. If you just think and don’t learn, you will run out of what to think.\"\n\n*Youtube link: \u003chttps://youtu.be/wEh3ZgbvBrE\u003e",
-    "ts": "1621645612.001600",
-    "thread_ts": "1621645612.001600",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01QGKD09K5",
-        "ts": "1621647560.002000"
-      }
-    ],
-    "latest_reply": "1621647560.002000",
-    "files": [
-      {
-        "id": "F022R005Y90",
-        "created": 1621645606,
-        "timestamp": 1621645606,
-        "name": "0522_27면_INSIGHT_디지털 걸리버여행기.pdf",
-        "title": "0522_27면_INSIGHT_디지털 걸리버여행기.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QDA01NN9",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 4503447,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F022R005Y90-0522_27면_INSIGHT_디지털 걸리버여행기.pdf",
-        "url_private_download": "attachments/F022R005Y90-0522_27면_INSIGHT_디지털 걸리버여행기.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QDA01NN9/F022R005Y90/0522_27____insight_____________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F022R005Y90-2bf0b52e99",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F022R68FCV9",
-        "created": 0,
-        "timestamp": 0,
-        "name": "",
-        "title": "",
-        "mimetype": "",
-        "image_exif_rotation": 0,
-        "filetype": "",
-        "pretty_type": "",
-        "user": "",
-        "mode": "tombstone",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 0,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F022R68FCV9-",
-        "url_private_download": "attachments/F022R68FCV9-",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "",
-        "permalink_public": "",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 3,
-        "users": [
-          "U01QUKKQ8GH",
-          "U01Q75KNV1T",
-          "U01QGKCUAJX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "93k",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "전략적 변곡점에서 신속하게 대응하여 기업의 성공을 이끈 그로브,창의 반도체 리더쉽에 대한 내용입니다.\n차상균 교수님의 코멘트와 함께 유투브 링크와 기사 첨부드립니다.\n \"History and Role Model counts!\nMorris Chang is a great human being.  He advises students to Learn and Think.  If you just learn and don’t think, you will lose. If you just think and don’t learn, you will run out of what to think.\"\n\n*Youtube link: "
-              },
-              {
-                "type": "link",
-                "url": "https://youtu.be/wEh3ZgbvBrE",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
-      "first_name": "Young",
-      "real_name": "Young Chung",
-      "display_name": "2기_정채영",
-      "team": "T01QA5S537V",
-      "name": "thisisyoung21",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QGKD09K5"
-    ]
-  },
-  {
-    "client_msg_id": "82686b66-2660-41bd-9586-1beef1a25a6e",
-    "type": "message",
-    "user": "U01QGKD09K5",
-    "text": "시리즈 물로 계속되어서 연재되고 있었군요. 공유 감사합니다~",
-    "ts": "1621647560.002000",
-    "thread_ts": "1621645612.001600",
-    "parent_user_id": "U01QDA01NN9",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/E6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "시리즈 물로 계속되어서 연재되고 있었군요. 공유 감사합니다~"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
-      "first_name": "어경선",
-      "real_name": "어경선",
-      "display_name": "2기_어경선",
-      "team": "T01QA5S537V",
-      "name": "eks104",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QDA01NN9",
+			"text": "전략적 변곡점에서 신속하게 대응하여 기업의 성공을 이끈 그로브,창의 반도체 리더쉽에 대한 내용입니다.\n차상균 교수님의 코멘트와 함께 유투브 링크와 기사 첨부드립니다.\n \"History and Role Model counts!\nMorris Chang is a great human being.  He advises students to Learn and Think.  If you just learn and don’t think, you will lose. If you just think and don’t learn, you will run out of what to think.\"\n\n*Youtube link: <https://youtu.be/wEh3ZgbvBrE>",
+			"ts": "1621645612.001600",
+			"thread_ts": "1621645612.001600",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01QGKD09K5",
+					"ts": "1621647560.002000"
+				}
+			],
+			"latest_reply": "1621647560.002000",
+			"files": [
+				{
+					"id": "F022R005Y90",
+					"created": 1621645606,
+					"timestamp": 1621645606,
+					"name": "0522_27면_INSIGHT_디지털 걸리버여행기.pdf",
+					"title": "0522_27면_INSIGHT_디지털 걸리버여행기.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QDA01NN9",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 4503447,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F022R005Y90-0522_27면_INSIGHT_디지털 걸리버여행기.pdf",
+					"url_private_download": "attachments/F022R005Y90-0522_27면_INSIGHT_디지털 걸리버여행기.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QDA01NN9/F022R005Y90/0522_27____insight_____________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F022R005Y90-2bf0b52e99",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F022R68FCV9",
+					"created": 0,
+					"timestamp": 0,
+					"name": "",
+					"title": "",
+					"mimetype": "",
+					"image_exif_rotation": 0,
+					"filetype": "",
+					"pretty_type": "",
+					"user": "",
+					"mode": "tombstone",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 0,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F022R68FCV9-",
+					"url_private_download": "attachments/F022R68FCV9-",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "",
+					"permalink_public": "",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 3,
+					"users": [
+						"U01QUKKQ8GH",
+						"U01Q75KNV1T",
+						"U01QGKCUAJX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "93k",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "전략적 변곡점에서 신속하게 대응하여 기업의 성공을 이끈 그로브,창의 반도체 리더쉽에 대한 내용입니다.\n차상균 교수님의 코멘트와 함께 유투브 링크와 기사 첨부드립니다.\n \"History and Role Model counts!\nMorris Chang is a great human being.  He advises students to Learn and Think.  If you just learn and don’t think, you will lose. If you just think and don’t learn, you will run out of what to think.\"\n\n*Youtube link: "
+								},
+								{
+									"type": "link",
+									"url": "https://youtu.be/wEh3ZgbvBrE",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
+				"first_name": "Young",
+				"real_name": "Young Chung",
+				"display_name": "2기_정채영",
+				"team": "T01QA5S537V",
+				"name": "thisisyoung21",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QGKD09K5"
+			]
+		},
+		{
+			"client_msg_id": "82686b66-2660-41bd-9586-1beef1a25a6e",
+			"type": "message",
+			"user": "U01QGKD09K5",
+			"text": "시리즈 물로 계속되어서 연재되고 있었군요. 공유 감사합니다~",
+			"ts": "1621647560.002000",
+			"thread_ts": "1621645612.001600",
+			"parent_user_id": "U01QDA01NN9",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/E6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "시리즈 물로 계속되어서 연재되고 있었군요. 공유 감사합니다~"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+				"first_name": "어경선",
+				"real_name": "어경선",
+				"display_name": "2기_어경선",
+				"team": "T01QA5S537V",
+				"name": "eks104",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

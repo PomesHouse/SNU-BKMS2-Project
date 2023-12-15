@@ -1,608 +1,610 @@
-[
-  {
-    "client_msg_id": "5B4907D7-5CFC-4291-B967-812E9FE44816",
-    "type": "message",
-    "user": "U02UQ4CKE2H",
-    "text": "\u003c@U01QUKKQ8GH\u003e 님 토스카드 4층에서 줏었습니다. :thinking_face:\n311호 옆에 제 자리에 두었으니 가져가세요~~ ",
-    "ts": "1656646948.916299",
-    "thread_ts": "1656646948.916299",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01QUKKQ8GH",
-        "ts": "1656647075.607919"
-      }
-    ],
-    "latest_reply": "1656647075.607919",
-    "files": [
-      {
-        "id": "F03N10885K6",
-        "created": 1656646942,
-        "timestamp": 1656646942,
-        "name": "iOS 이미지.jpg",
-        "title": "iOS 이미지",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U02UQ4CKE2H",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1764921,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03N10885K6-iOS 이미지.jpg",
-        "url_private_download": "attachments/F03N10885K6-iOS 이미지.jpg",
-        "original_h": 4032,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U02UQ4CKE2H/F03N10885K6/ios__________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03N10885K6-7612b8dd3e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "OtoGV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "user",
-                "user_id": "U01QUKKQ8GH"
-              },
-              {
-                "type": "text",
-                "text": " 님"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "토스카드"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "4층에서"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "줏었습니다."
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "emoji",
-                "name": "thinking_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "311호"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "옆에"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "제"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "자리에"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "두었으니"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "가져가세요~~"
-              },
-              {
-                "type": "text",
-                "text": " "
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2022-03-02/3177509869699_8f2dd6ce0e2c4268e807_72.png",
-      "first_name": "3기_장지수",
-      "real_name": "3기_장지수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "simonjisu213",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QUKKQ8GH"
-    ]
-  },
-  {
-    "client_msg_id": "b99deaef-47dd-4525-8bc6-bb03f9de0881",
-    "type": "message",
-    "user": "U01QUKKQ8GH",
-    "text": "엥. 잃어버린 줄도 전혀 몰랐는데.. 큰일 날 뻔했네요. 감사합니다!!",
-    "ts": "1656647075.607919",
-    "thread_ts": "1656646948.916299",
-    "parent_user_id": "U02UQ4CKE2H",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U02UQ4CKE2H"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xoJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "엥. 잃어버린 줄도 전혀 몰랐는데.. 큰일 날 뻔했네요. 감사합니다!!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
-      "first_name": "김호현",
-      "real_name": "김호현",
-      "display_name": "2기_김호현",
-      "team": "T01QA5S537V",
-      "name": "waterdream",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "5D32930F-62A0-46A5-B906-33B11F405265",
-    "type": "message",
-    "user": "U01QDA01NN9",
-    "text": "357자리에 gsds후디 놓고 가신 분 있으시면 책상위 스탠드 옆에 놓았으니 시간되실때 가져가세요 :)",
-    "ts": "1656648066.325899",
-    "thread_ts": "1656648066.325899",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01R689L5KJ",
-        "ts": "1656682189.286609"
-      }
-    ],
-    "latest_reply": "1656682189.286609",
-    "files": [
-      {
-        "id": "F03MYH74A6P",
-        "created": 1656648055,
-        "timestamp": 1656648055,
-        "name": "iOS 이미지.jpg",
-        "title": "iOS 이미지",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QDA01NN9",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1126128,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03MYH74A6P-iOS 이미지.jpg",
-        "url_private_download": "attachments/F03MYH74A6P-iOS 이미지.jpg",
-        "original_h": 4032,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QDA01NN9/F03MYH74A6P/ios__________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03MYH74A6P-4eed44da4b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "P8=Tl",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "357자리에"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "gsds후디"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "놓고"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "가신"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "분"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "있으시면"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "책상위"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "스탠드"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "옆에"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "놓았으니"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "시간되실때"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "가져가세요"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": ":)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
-      "first_name": "Young",
-      "real_name": "Young Chung",
-      "display_name": "2기_정채영",
-      "team": "T01QA5S537V",
-      "name": "thisisyoung21",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01R689L5KJ"
-    ]
-  },
-  {
-    "client_msg_id": "dbbd9c57-3020-4bfd-8a9a-49c176af32f7",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "안녕하세요. 1기 안규수입니다.\n얼마 전 차상균 원장님께서 수상하신 삼성호암상 시상식 영상을 학생분들과 공유해서 보라고 하셔서 링크를 공유드립니다.\n\u003chttps://www.youtube.com/watch?v=YYDqUdN-_jI\u003e",
-    "ts": "1656660889.191989",
-    "attachments": [
-      {
-        "fallback": "YouTube Video: 2022 삼성호암상 시상식",
-        "id": 1,
-        "author_name": "호암재단 Ho-Am Foundation",
-        "author_link": "https://www.youtube.com/channel/UCbVdFpnazyUskEuZcEtndHQ",
-        "title": "2022 삼성호암상 시상식",
-        "title_link": "https://www.youtube.com/watch?v=YYDqUdN-_jI",
-        "thumb_url": "https://i.ytimg.com/vi/YYDqUdN-_jI/hqdefault.jpg",
-        "service_name": "YouTube",
-        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
-        "from_url": "https://www.youtube.com/watch?v=YYDqUdN-_jI",
-        "original_url": "https://www.youtube.com/watch?v=YYDqUdN-_jI",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "JgUs",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요. 1기 안규수입니다.\n얼마 전 차상균 원장님께서 수상하신 삼성호암상 시상식 영상을 학생분들과 공유해서 보라고 하셔서 링크를 공유드립니다.\n"
-              },
-              {
-                "type": "link",
-                "url": "https://www.youtube.com/watch?v=YYDqUdN-_jI",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "f38710c2-61e2-4dc8-af23-1c88af60eeab",
-    "type": "message",
-    "user": "U01R689L5KJ",
-    "text": "엇 제 거 같은데 주말에 가져가겠습니다..! 감사합니다:)",
-    "ts": "1656682189.286609",
-    "thread_ts": "1656648066.325899",
-    "parent_user_id": "U01QDA01NN9",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "grinning",
-        "count": 1,
-        "users": [
-          "U01QDA01NN9"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "54E",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "엇 제 거 같은데 주말에 가져가겠습니다..! 감사합니다:)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1817838162567_d155dbe0ec1cbbbfe1f9_72.jpg",
-      "first_name": "임찬송",
-      "real_name": "임찬송",
-      "display_name": "2기_임찬송",
-      "team": "T01QA5S537V",
-      "name": "dlacksthd94",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "5B4907D7-5CFC-4291-B967-812E9FE44816",
+			"type": "message",
+			"user": "U02UQ4CKE2H",
+			"text": "<@U01QUKKQ8GH> 님 토스카드 4층에서 줏었습니다. :thinking_face:\n311호 옆에 제 자리에 두었으니 가져가세요~~ ",
+			"ts": "1656646948.916299",
+			"thread_ts": "1656646948.916299",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01QUKKQ8GH",
+					"ts": "1656647075.607919"
+				}
+			],
+			"latest_reply": "1656647075.607919",
+			"files": [
+				{
+					"id": "F03N10885K6",
+					"created": 1656646942,
+					"timestamp": 1656646942,
+					"name": "iOS 이미지.jpg",
+					"title": "iOS 이미지",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U02UQ4CKE2H",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1764921,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03N10885K6-iOS 이미지.jpg",
+					"url_private_download": "attachments/F03N10885K6-iOS 이미지.jpg",
+					"original_h": 4032,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03N10885K6-2211890588/ios___________1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U02UQ4CKE2H/F03N10885K6/ios__________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03N10885K6-7612b8dd3e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "OtoGV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "user",
+									"user_id": "U01QUKKQ8GH"
+								},
+								{
+									"type": "text",
+									"text": " 님"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "토스카드"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "4층에서"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "줏었습니다."
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "emoji",
+									"name": "thinking_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "311호"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "옆에"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "제"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "자리에"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "두었으니"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "가져가세요~~"
+								},
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2022-03-02/3177509869699_8f2dd6ce0e2c4268e807_72.png",
+				"first_name": "3기_장지수",
+				"real_name": "3기_장지수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "simonjisu213",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QUKKQ8GH"
+			]
+		},
+		{
+			"client_msg_id": "b99deaef-47dd-4525-8bc6-bb03f9de0881",
+			"type": "message",
+			"user": "U01QUKKQ8GH",
+			"text": "엥. 잃어버린 줄도 전혀 몰랐는데.. 큰일 날 뻔했네요. 감사합니다!!",
+			"ts": "1656647075.607919",
+			"thread_ts": "1656646948.916299",
+			"parent_user_id": "U02UQ4CKE2H",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U02UQ4CKE2H"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xoJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "엥. 잃어버린 줄도 전혀 몰랐는데.. 큰일 날 뻔했네요. 감사합니다!!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+				"first_name": "김호현",
+				"real_name": "김호현",
+				"display_name": "2기_김호현",
+				"team": "T01QA5S537V",
+				"name": "waterdream",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "5D32930F-62A0-46A5-B906-33B11F405265",
+			"type": "message",
+			"user": "U01QDA01NN9",
+			"text": "357자리에 gsds후디 놓고 가신 분 있으시면 책상위 스탠드 옆에 놓았으니 시간되실때 가져가세요 :)",
+			"ts": "1656648066.325899",
+			"thread_ts": "1656648066.325899",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01R689L5KJ",
+					"ts": "1656682189.286609"
+				}
+			],
+			"latest_reply": "1656682189.286609",
+			"files": [
+				{
+					"id": "F03MYH74A6P",
+					"created": 1656648055,
+					"timestamp": 1656648055,
+					"name": "iOS 이미지.jpg",
+					"title": "iOS 이미지",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QDA01NN9",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1126128,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03MYH74A6P-iOS 이미지.jpg",
+					"url_private_download": "attachments/F03MYH74A6P-iOS 이미지.jpg",
+					"original_h": 4032,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03MYH74A6P-8e10e6e8e2/ios___________1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QDA01NN9/F03MYH74A6P/ios__________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03MYH74A6P-4eed44da4b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "P8=Tl",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "357자리에"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "gsds후디"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "놓고"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "가신"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "분"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "있으시면"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "책상위"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "스탠드"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "옆에"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "놓았으니"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "시간되실때"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "가져가세요"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": ":)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829340152709_1ce73f2abc4098849fbc_72.png",
+				"first_name": "Young",
+				"real_name": "Young Chung",
+				"display_name": "2기_정채영",
+				"team": "T01QA5S537V",
+				"name": "thisisyoung21",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01R689L5KJ"
+			]
+		},
+		{
+			"client_msg_id": "dbbd9c57-3020-4bfd-8a9a-49c176af32f7",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "안녕하세요. 1기 안규수입니다.\n얼마 전 차상균 원장님께서 수상하신 삼성호암상 시상식 영상을 학생분들과 공유해서 보라고 하셔서 링크를 공유드립니다.\n<https://www.youtube.com/watch?v=YYDqUdN-_jI>",
+			"ts": "1656660889.191989",
+			"attachments": [
+				{
+					"fallback": "YouTube Video: 2022 삼성호암상 시상식",
+					"id": 1,
+					"author_name": "호암재단 Ho-Am Foundation",
+					"author_link": "https://www.youtube.com/channel/UCbVdFpnazyUskEuZcEtndHQ",
+					"title": "2022 삼성호암상 시상식",
+					"title_link": "https://www.youtube.com/watch?v=YYDqUdN-_jI",
+					"thumb_url": "https://i.ytimg.com/vi/YYDqUdN-_jI/hqdefault.jpg",
+					"service_name": "YouTube",
+					"service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+					"from_url": "https://www.youtube.com/watch?v=YYDqUdN-_jI",
+					"original_url": "https://www.youtube.com/watch?v=YYDqUdN-_jI",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "JgUs",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요. 1기 안규수입니다.\n얼마 전 차상균 원장님께서 수상하신 삼성호암상 시상식 영상을 학생분들과 공유해서 보라고 하셔서 링크를 공유드립니다.\n"
+								},
+								{
+									"type": "link",
+									"url": "https://www.youtube.com/watch?v=YYDqUdN-_jI",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "f38710c2-61e2-4dc8-af23-1c88af60eeab",
+			"type": "message",
+			"user": "U01R689L5KJ",
+			"text": "엇 제 거 같은데 주말에 가져가겠습니다..! 감사합니다:)",
+			"ts": "1656682189.286609",
+			"thread_ts": "1656648066.325899",
+			"parent_user_id": "U01QDA01NN9",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "grinning",
+					"count": 1,
+					"users": [
+						"U01QDA01NN9"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "54E",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "엇 제 거 같은데 주말에 가져가겠습니다..! 감사합니다:)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1817838162567_d155dbe0ec1cbbbfe1f9_72.jpg",
+				"first_name": "임찬송",
+				"real_name": "임찬송",
+				"display_name": "2기_임찬송",
+				"team": "T01QA5S537V",
+				"name": "dlacksthd94",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

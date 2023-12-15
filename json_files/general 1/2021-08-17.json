@@ -1,189 +1,191 @@
-[
-  {
-    "client_msg_id": "328a5613-433c-4dd8-9e5e-441f4d75b697",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e \u0026lt;우리 대학원 미화선생님 휴무 알림\u0026gt;\n\n안녕하세요, 우리 대학원의 미화를 담당하고 계신 *미화선생님께서 2021.8.20.(금) 휴무예정*입니다.\n*건강상의 이유로 휴무*할 예정이므로 쓰레기 분리수거, 화장실 깨끗하게 사용하기 등 학생분들의 협조 부탁 드립니다 :pray:.",
-    "ts": "1629174126.020600",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 8,
-        "users": [
-          "U01Q386CMKQ",
-          "U01QGKC33BM",
-          "U01Q75KNV1T",
-          "U01PVEU69BR",
-          "U01QNJ9BB60",
-          "U01QV1SQJ57",
-          "U01QGKD09K5",
-          "U01QV1WAPL1"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "SeM",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c우리 대학원 미화선생님 휴무 알림\u003e\n\n안녕하세요, 우리 대학원의 미화를 담당하고 계신"
-              },
-              {
-                "type": "text",
-                "text": " 미화선생님께서 2021.8.20.(금) 휴무예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "입니다.\n"
-              },
-              {
-                "type": "text",
-                "text": "건강상의 이유로 휴무",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "할 예정이므로 쓰레기 분리수거, 화장실 깨끗하게 사용하기 등 학생분들의 협조 부탁 드립니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "3fea17d4-3bcc-4e1d-85dd-d5b4153d88bd",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2021학년도 입학생 대상으로 부트캠프에서 진행되었던 강의(수학/통계/컴퓨팅) 중 미통과 과목에 대하여 아래와 같이 재시험 안내 드립니다.\n\n*○ 시험 일시*\n - 수학(담당교수: 오민환): 8. 30.(월) 오전 10:00 ~ 11:30\n - 통계(담당교수: 이승근): 8. 30.(월) 오후 1:00 ~ 2:30\n - 컴퓨팅(담당교수: 김형신): 8. 31.(화) 오후 2:00 ~ 4:00\n  컴퓨팅 과목 시험은 정규학기 \"데이터사이언스를 위한 컴퓨팅\" 수업 내용으로 구성되며, 이론과 손코딩이 모두 포함.\n ※ 대면시험 방식으로 진행됨\n*○ 시험 장소*: 942동 데이터사이언스대학원 301호, 302호\n*○ 각 과목별 응시 대상자*: *mysnu 메일로 개별 안내*\n\n※ 문의: 데이터사이언스대학원 행정실 (02-880-1331)",
-    "ts": "1629190922.024500",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "+AC",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2021학년도 입학생 대상으로 부트캠프에서 진행되었던 강의(수학/통계/컴퓨팅) 중 미통과 과목에 대하여 아래와 같이 재시험 안내 드립니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "○ 시험 일시",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - 수학(담당교수: 오민환): 8. 30.(월) 오전 10:00 ~ 11:30\n - 통계(담당교수: 이승근): 8. 30.(월) 오후 1:00 ~ 2:30\n - 컴퓨팅(담당교수: 김형신): 8. 31.(화) 오후 2:00 ~ 4:00\n  컴퓨팅 과목 시험은 정규학기 \"데이터사이언스를 위한 컴퓨팅\" 수업 내용으로 구성되며, 이론과 손코딩이 모두 포함.\n ※ 대면시험 방식으로 진행됨\n"
-              },
-              {
-                "type": "text",
-                "text": "○ 시험 장소",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 942동 데이터사이언스대학원 301호, 302호\n"
-              },
-              {
-                "type": "text",
-                "text": "○ 각 과목별 응시 대상자",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": "
-              },
-              {
-                "type": "text",
-                "text": "mysnu 메일로 개별 안내",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n※ 문의: 데이터사이언스대학원 행정실 (02-880-1331)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "328a5613-433c-4dd8-9e5e-441f4d75b697",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> &lt;우리 대학원 미화선생님 휴무 알림&gt;\n\n안녕하세요, 우리 대학원의 미화를 담당하고 계신 *미화선생님께서 2021.8.20.(금) 휴무예정*입니다.\n*건강상의 이유로 휴무*할 예정이므로 쓰레기 분리수거, 화장실 깨끗하게 사용하기 등 학생분들의 협조 부탁 드립니다 :pray:.",
+			"ts": "1629174126.020600",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 8,
+					"users": [
+						"U01Q386CMKQ",
+						"U01QGKC33BM",
+						"U01Q75KNV1T",
+						"U01PVEU69BR",
+						"U01QNJ9BB60",
+						"U01QV1SQJ57",
+						"U01QGKD09K5",
+						"U01QV1WAPL1"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "SeM",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " <우리 대학원 미화선생님 휴무 알림>\n\n안녕하세요, 우리 대학원의 미화를 담당하고 계신"
+								},
+								{
+									"type": "text",
+									"text": " 미화선생님께서 2021.8.20.(금) 휴무예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "입니다.\n"
+								},
+								{
+									"type": "text",
+									"text": "건강상의 이유로 휴무",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "할 예정이므로 쓰레기 분리수거, 화장실 깨끗하게 사용하기 등 학생분들의 협조 부탁 드립니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "3fea17d4-3bcc-4e1d-85dd-d5b4153d88bd",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2021학년도 입학생 대상으로 부트캠프에서 진행되었던 강의(수학/통계/컴퓨팅) 중 미통과 과목에 대하여 아래와 같이 재시험 안내 드립니다.\n\n*○ 시험 일시*\n - 수학(담당교수: 오민환): 8. 30.(월) 오전 10:00 ~ 11:30\n - 통계(담당교수: 이승근): 8. 30.(월) 오후 1:00 ~ 2:30\n - 컴퓨팅(담당교수: 김형신): 8. 31.(화) 오후 2:00 ~ 4:00\n  컴퓨팅 과목 시험은 정규학기 \"데이터사이언스를 위한 컴퓨팅\" 수업 내용으로 구성되며, 이론과 손코딩이 모두 포함.\n ※ 대면시험 방식으로 진행됨\n*○ 시험 장소*: 942동 데이터사이언스대학원 301호, 302호\n*○ 각 과목별 응시 대상자*: *mysnu 메일로 개별 안내*\n\n※ 문의: 데이터사이언스대학원 행정실 (02-880-1331)",
+			"ts": "1629190922.024500",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "+AC",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2021학년도 입학생 대상으로 부트캠프에서 진행되었던 강의(수학/통계/컴퓨팅) 중 미통과 과목에 대하여 아래와 같이 재시험 안내 드립니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "○ 시험 일시",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - 수학(담당교수: 오민환): 8. 30.(월) 오전 10:00 ~ 11:30\n - 통계(담당교수: 이승근): 8. 30.(월) 오후 1:00 ~ 2:30\n - 컴퓨팅(담당교수: 김형신): 8. 31.(화) 오후 2:00 ~ 4:00\n  컴퓨팅 과목 시험은 정규학기 \"데이터사이언스를 위한 컴퓨팅\" 수업 내용으로 구성되며, 이론과 손코딩이 모두 포함.\n ※ 대면시험 방식으로 진행됨\n"
+								},
+								{
+									"type": "text",
+									"text": "○ 시험 장소",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 942동 데이터사이언스대학원 301호, 302호\n"
+								},
+								{
+									"type": "text",
+									"text": "○ 각 과목별 응시 대상자",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": "
+								},
+								{
+									"type": "text",
+									"text": "mysnu 메일로 개별 안내",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n※ 문의: 데이터사이언스대학원 행정실 (02-880-1331)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,583 +1,585 @@
-[
-  {
-    "client_msg_id": "009e7d01-dd3b-4e64-8ebc-b1a0651857c0",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e 연계과목 인정 신청관련\n\n현재 2022학년도 1학기 수강신청기간 중에 있습니다. 관련하여 2021학년도 2학기까지 연계과목 신청하신 건에대하여 각 신청하신 분들께 이전 연계과목 신청내역과 이에대한 승인 결과를 확인하는 메일을 드렸습니다.\n\n*본인이 연계과목을 신청한 적이 있음에도 승인여부에 대한 메일을 받지 못했거나 오늘 보낸 확인메일을 받지 못하신 분께서는 신청이 누락되었을 수 있으니 반.드.시. 행정실로 연락 주시기 바랍니다.* 이번학기 신청이 아닌 이전 승인건에 대한 메일이므로 연계과목을 한번이라도 신청하신 분들께서는 반드시 확인하시어 졸업에 지장이 없도록 해 주시기 바랍니다.",
-    "ts": "1645666374.757809",
-    "thread_ts": "1645666374.757809",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1645669587.831219"
-      }
-    ],
-    "latest_reply": "1645669587.831219",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "JqTi",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " 연계과목 인정 신청관련\n\n현재 2022학년도 1학기 수강신청기간 중에 있습니다. 관련하여 2021학년도 2학기까지 연계과목 신청하신 건에대하여 각 신청하신 분들께 이전 연계과목 신청내역과 이에대한 승인 결과를 확인하는 메일을 드렸습니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "본인이 연계과목을 신청한 적이 있음에도 승인여부에 대한 메일을 받지 못했거나 오늘 보낸 확인메일을 받지 못하신 분께서는 신청이 누락되었을 수 있으니 반.드.시. 행정실로 연락 주시기 바랍니다. ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "이번학기 신청이 아닌 이전 승인건에 대한 메일이므로 연계과목을 한번이라도 신청하신 분들께서는 반드시 확인하시어 졸업에 지장이 없도록 해 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QNJ7PWRX"
-    ]
-  },
-  {
-    "client_msg_id": "7a47c688-e188-4992-8fbb-a2e255b72d43",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022학년도 1학기 신청자는 해당 없습니다. :slightly_smiling_face: 아직 심의중입니다!",
-    "ts": "1645669587.831219",
-    "thread_ts": "1645666374.757809",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "dL/iJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 1학기 신청자는 해당 없습니다. "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 아직 심의중입니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "b32608c5-bb8a-4217-916a-77622ff5e574",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;학위복 대여 가능 안내\u0026gt;\n\n학위복이 도착하여 안내 드립니다. 학위복 대여 가능하시며 317호로 오시면 안내 드리겠습니다.\n\n*신분증 필히 지참하여 주시기 바랍니다.\n*학위복은 세탁이 어려운 관계로 오염되지 않게 착용하여 주시기 바랍니다.",
-    "ts": "1645675807.732749",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "jmsb",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c학위복 대여 가능 안내\u003e\n\n학위복이 도착하여 안내 드립니다. 학위복 대여 가능하시며 317호로 오시면 안내 드리겠습니다.\n\n*신분증 필히 지참하여 주시기 바랍니다.\n*학위복은 세탁이 어려운 관계로 오염되지 않게 착용하여 주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "869debc4-acf5-4393-8150-146ba84a1619",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022년도 1학기 친환경 학생 활동 지원 사업 안내\u0026gt;\n\n2022학년도 1학기 친환경 학생 활동 지원 사업을 아래와 같이 시행하오니 관심있는 학생들의 많은 참여 부탁드립니다.\n\n*가. 사 업 명 : 서울대학교 친환경 학생 활동 지원 사업*\n  나. 사업기간 : 2022년 3월 ~ 8월(2022년도 1학기)\n  *다. 지원대상 : 친환경 활동에 관심이 있는 학생 그룹(4인 이상)*\n  *라. 지원규모 : 그룹당 1백만원 이내*\n  *마. 신청기간 : 2022. 2. 18.(금) ~ 3. 4.(금) 15:00*\n  *바. 신청방법 : \u0026lt;붙임2\u0026gt; 공고문의 \u0026lt;별지 제1호\u0026gt; 활동계획서 작성 및 제출* \n    ※ 제출방법 : 이메일 제출(\u003cmailto:co2co2@snu.ac.kr|co2co2@snu.ac.kr\u003e)\n  사. 문 의 처 : 온실가스·에너지종합관리센터, 02-880-9524, \u003cmailto:co2co2@snu.ac.kr|co2co2@snu.ac.kr\u003e",
-    "ts": "1645677922.299639",
-    "files": [
-      {
-        "id": "F0354KYFV0Q",
-        "created": 1645677904,
-        "timestamp": 1645677904,
-        "name": "1. 서울대학교 친환경 학생 활동 지원 사업 안내.hwp외1건.zip",
-        "title": "1. 서울대학교 친환경 학생 활동 지원 사업 안내.hwp외1건.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 136452,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0354KYFV0Q-1. 서울대학교 친환경 학생 활동 지원 사업 안내.hwp외1건.zip",
-        "url_private_download": "attachments/F0354KYFV0Q-1. 서울대학교 친환경 학생 활동 지원 사업 안내.hwp외1건.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0354KYFV0Q/1._____________________________________________________________.hwp___1___.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0354KYFV0Q-42bec07c70",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "MOp",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022년도 1학기 친환경 학생 활동 지원 사업 안내\u003e\n\n2022학년도 1학기 친환경 학생 활동 지원 사업을 아래와 같이 시행하오니 관심있는 학생들의 많은 참여 부탁드립니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "가. 사 업 명 : 서울대학교 친환경 학생 활동 지원 사업",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  나. 사업기간 : 2022년 3월 ~ 8월(2022년도 1학기)\n"
-              },
-              {
-                "type": "text",
-                "text": "  다. 지원대상 : 친환경 활동에 관심이 있는 학생 그룹(4인 이상)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "  라. 지원규모 : 그룹당 1백만원 이내",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "  마. 신청기간 : 2022. 2. 18.(금) ~ 3. 4.(금) 15:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "  바. 신청방법 : \u003c붙임2\u003e 공고문의 \u003c별지 제1호\u003e 활동계획서 작성 및 제출 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    ※ 제출방법 : 이메일 제출("
-              },
-              {
-                "type": "link",
-                "url": "mailto:co2co2@snu.ac.kr",
-                "text": "co2co2@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n  사. 문 의 처 : 온실가스·에너지종합관리센터, 02-880-9524, "
-              },
-              {
-                "type": "link",
-                "url": "mailto:co2co2@snu.ac.kr",
-                "text": "co2co2@snu.ac.kr"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "476d5e43-0c17-4929-ae97-1871ddd98843",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022학년도 1학기 S-CARD 업무 은행 임시영업소 개시 안내\u0026gt;\n서울대-우리은행 간 S-CARD 업무협약에 따라 S-CARD 발급을 위한 *우리은행 임시영업소가 아래와 같이 운영되고 있으니 참고하시기 바랍니다.* \n가. 임시영업소(우리은행)\n    - 운영기간: *2022. 2. 24.(목) ~ 4. 29.(금), 약 10주*\n    *-* 운영시간: 9:30 ~ 15:30(점심시간: 오전 11:30~12:30 미운영)\n    - 장 소: NH농협두레문예관(67동) 2층\n    ※ 우리은행 방문시 신분증 필히 지참\n  나. 학내 다른지점 운영\n    - 우리은행 서울대학교지점(신양인문학술정보관, 4동) 및 공대영업소(글로벌공학교육 센터, 38동)는 기존과 동일하게 운영.",
-    "ts": "1645679368.756989",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "be7PM",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022학년도 1학기 S-CARD 업무 은행 임시영업소 개시 안내\u003e\n서울대-우리은행 간 S-CARD 업무협약에 따라 S-CARD 발급을 위한 "
-              },
-              {
-                "type": "text",
-                "text": "우리은행 임시영업소가 아래와 같이 운영되고 있으니 참고하시기 바랍니다. ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n가. 임시영업소(우리은행)\n    - 운영기간: "
-              },
-              {
-                "type": "text",
-                "text": "2022. 2. 24.(목) ~ 4. 29.(금), 약 10주",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "    -",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 운영시간: 9:30 ~ 15:30(점심시간: 오전 11:30~12:30 미운영)\n    - 장 소: NH농협두레문예관(67동) 2층\n    ※ 우리은행 방문시 신분증 필히 지참\n  나. 학내 다른지점 운영\n    - 우리은행 서울대학교지점(신양인문학술정보관, 4동) 및 공대영업소(글로벌공학교육 센터, 38동)는 기존과 동일하게 운영."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ca824e8f-c13a-4a68-9152-03737b18c465",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;서울시 운영 방역택시 안내\u0026gt;\n*서울시에서는 현재 운영 중인 방역택시 업무 범위를 아래와 같이 확대하여 운영하고 있으니 참고하시기 바랍니다.* \n\n가. 이용대상 : *해외입국자, 대중교통 이용이 불가한 격리자(확진자 미포함)*\n  나. 예약시간 : 월~금 09:00~18:00, 토요일 09:00~13:00 (※운영은 365일)\n  다. 예약방법 : 예약센터(1644-2255), 이메일(\u003cmailto:reserve@intltaxi.co.kr|reserve@intltaxi.co.kr\u003e), 홈페이지(\u003chttp://www.intltaxi.co.kr|www.intltaxi.co.kr\u003e)\n  라. 배 차 : 당일예약 시 1시간 후 배차가능, 익일예약은 시간지정 가능\n  마. 이용요금 : 시간요금 (첨부파일 참조)",
-    "ts": "1645681370.690849",
-    "files": [
-      {
-        "id": "F0348CPGDHU",
-        "created": 1645681368,
-        "timestamp": 1645681368,
-        "name": "[관악구청] 서울시 운영 방역택시 안내.pdf",
-        "title": "[관악구청] 서울시 운영 방역택시 안내.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 703521,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0348CPGDHU-[관악구청] 서울시 운영 방역택시 안내.pdf",
-        "url_private_download": "attachments/F0348CPGDHU-[관악구청] 서울시 운영 방역택시 안내.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0348CPGDHU/___________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0348CPGDHU-5598f56468",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fQAAs",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c서울시 운영 방역택시 안내\u003e\n"
-              },
-              {
-                "type": "text",
-                "text": "서울시에서는 현재 운영 중인 방역택시 업무 범위를 아래와 같이 확대하여 운영하고 있으니 참고하시기 바랍니다. ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n가. 이용대상 : "
-              },
-              {
-                "type": "text",
-                "text": "해외입국자, 대중교통 이용이 불가한 격리자(확진자 미포함)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  나. 예약시간 : 월~금 09:00~18:00, 토요일 09:00~13:00 (※운영은 365일)\n  다. 예약방법 : 예약센터(1644-2255), 이메일("
-              },
-              {
-                "type": "link",
-                "url": "mailto:reserve@intltaxi.co.kr",
-                "text": "reserve@intltaxi.co.kr"
-              },
-              {
-                "type": "text",
-                "text": "), 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "http://www.intltaxi.co.kr",
-                "text": "www.intltaxi.co.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n  라. 배 차 : 당일예약 시 1시간 후 배차가능, 익일예약은 시간지정 가능\n  마. 이용요금 : 시간요금 (첨부파일 참조)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "009e7d01-dd3b-4e64-8ebc-b1a0651857c0",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> 연계과목 인정 신청관련\n\n현재 2022학년도 1학기 수강신청기간 중에 있습니다. 관련하여 2021학년도 2학기까지 연계과목 신청하신 건에대하여 각 신청하신 분들께 이전 연계과목 신청내역과 이에대한 승인 결과를 확인하는 메일을 드렸습니다.\n\n*본인이 연계과목을 신청한 적이 있음에도 승인여부에 대한 메일을 받지 못했거나 오늘 보낸 확인메일을 받지 못하신 분께서는 신청이 누락되었을 수 있으니 반.드.시. 행정실로 연락 주시기 바랍니다.* 이번학기 신청이 아닌 이전 승인건에 대한 메일이므로 연계과목을 한번이라도 신청하신 분들께서는 반드시 확인하시어 졸업에 지장이 없도록 해 주시기 바랍니다.",
+			"ts": "1645666374.757809",
+			"thread_ts": "1645666374.757809",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1645669587.831219"
+				}
+			],
+			"latest_reply": "1645669587.831219",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "JqTi",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " 연계과목 인정 신청관련\n\n현재 2022학년도 1학기 수강신청기간 중에 있습니다. 관련하여 2021학년도 2학기까지 연계과목 신청하신 건에대하여 각 신청하신 분들께 이전 연계과목 신청내역과 이에대한 승인 결과를 확인하는 메일을 드렸습니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "본인이 연계과목을 신청한 적이 있음에도 승인여부에 대한 메일을 받지 못했거나 오늘 보낸 확인메일을 받지 못하신 분께서는 신청이 누락되었을 수 있으니 반.드.시. 행정실로 연락 주시기 바랍니다. ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "이번학기 신청이 아닌 이전 승인건에 대한 메일이므로 연계과목을 한번이라도 신청하신 분들께서는 반드시 확인하시어 졸업에 지장이 없도록 해 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QNJ7PWRX"
+			]
+		},
+		{
+			"client_msg_id": "7a47c688-e188-4992-8fbb-a2e255b72d43",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022학년도 1학기 신청자는 해당 없습니다. :slightly_smiling_face: 아직 심의중입니다!",
+			"ts": "1645669587.831219",
+			"thread_ts": "1645666374.757809",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "dL/iJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 1학기 신청자는 해당 없습니다. "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 아직 심의중입니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "b32608c5-bb8a-4217-916a-77622ff5e574",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;학위복 대여 가능 안내&gt;\n\n학위복이 도착하여 안내 드립니다. 학위복 대여 가능하시며 317호로 오시면 안내 드리겠습니다.\n\n*신분증 필히 지참하여 주시기 바랍니다.\n*학위복은 세탁이 어려운 관계로 오염되지 않게 착용하여 주시기 바랍니다.",
+			"ts": "1645675807.732749",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "jmsb",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<학위복 대여 가능 안내>\n\n학위복이 도착하여 안내 드립니다. 학위복 대여 가능하시며 317호로 오시면 안내 드리겠습니다.\n\n*신분증 필히 지참하여 주시기 바랍니다.\n*학위복은 세탁이 어려운 관계로 오염되지 않게 착용하여 주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "869debc4-acf5-4393-8150-146ba84a1619",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022년도 1학기 친환경 학생 활동 지원 사업 안내&gt;\n\n2022학년도 1학기 친환경 학생 활동 지원 사업을 아래와 같이 시행하오니 관심있는 학생들의 많은 참여 부탁드립니다.\n\n*가. 사 업 명 : 서울대학교 친환경 학생 활동 지원 사업*\n  나. 사업기간 : 2022년 3월 ~ 8월(2022년도 1학기)\n  *다. 지원대상 : 친환경 활동에 관심이 있는 학생 그룹(4인 이상)*\n  *라. 지원규모 : 그룹당 1백만원 이내*\n  *마. 신청기간 : 2022. 2. 18.(금) ~ 3. 4.(금) 15:00*\n  *바. 신청방법 : &lt;붙임2&gt; 공고문의 &lt;별지 제1호&gt; 활동계획서 작성 및 제출* \n    ※ 제출방법 : 이메일 제출(<mailto:co2co2@snu.ac.kr|co2co2@snu.ac.kr>)\n  사. 문 의 처 : 온실가스·에너지종합관리센터, 02-880-9524, <mailto:co2co2@snu.ac.kr|co2co2@snu.ac.kr>",
+			"ts": "1645677922.299639",
+			"files": [
+				{
+					"id": "F0354KYFV0Q",
+					"created": 1645677904,
+					"timestamp": 1645677904,
+					"name": "1. 서울대학교 친환경 학생 활동 지원 사업 안내.hwp외1건.zip",
+					"title": "1. 서울대학교 친환경 학생 활동 지원 사업 안내.hwp외1건.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 136452,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0354KYFV0Q-1. 서울대학교 친환경 학생 활동 지원 사업 안내.hwp외1건.zip",
+					"url_private_download": "attachments/F0354KYFV0Q-1. 서울대학교 친환경 학생 활동 지원 사업 안내.hwp외1건.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0354KYFV0Q/1._____________________________________________________________.hwp___1___.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0354KYFV0Q-42bec07c70",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "MOp",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022년도 1학기 친환경 학생 활동 지원 사업 안내>\n\n2022학년도 1학기 친환경 학생 활동 지원 사업을 아래와 같이 시행하오니 관심있는 학생들의 많은 참여 부탁드립니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "가. 사 업 명 : 서울대학교 친환경 학생 활동 지원 사업",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  나. 사업기간 : 2022년 3월 ~ 8월(2022년도 1학기)\n"
+								},
+								{
+									"type": "text",
+									"text": "  다. 지원대상 : 친환경 활동에 관심이 있는 학생 그룹(4인 이상)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "  라. 지원규모 : 그룹당 1백만원 이내",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "  마. 신청기간 : 2022. 2. 18.(금) ~ 3. 4.(금) 15:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "  바. 신청방법 : <붙임2> 공고문의 <별지 제1호> 활동계획서 작성 및 제출 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    ※ 제출방법 : 이메일 제출("
+								},
+								{
+									"type": "link",
+									"url": "mailto:co2co2@snu.ac.kr",
+									"text": "co2co2@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n  사. 문 의 처 : 온실가스·에너지종합관리센터, 02-880-9524, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:co2co2@snu.ac.kr",
+									"text": "co2co2@snu.ac.kr"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "476d5e43-0c17-4929-ae97-1871ddd98843",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022학년도 1학기 S-CARD 업무 은행 임시영업소 개시 안내&gt;\n서울대-우리은행 간 S-CARD 업무협약에 따라 S-CARD 발급을 위한 *우리은행 임시영업소가 아래와 같이 운영되고 있으니 참고하시기 바랍니다.* \n가. 임시영업소(우리은행)\n    - 운영기간: *2022. 2. 24.(목) ~ 4. 29.(금), 약 10주*\n    *-* 운영시간: 9:30 ~ 15:30(점심시간: 오전 11:30~12:30 미운영)\n    - 장 소: NH농협두레문예관(67동) 2층\n    ※ 우리은행 방문시 신분증 필히 지참\n  나. 학내 다른지점 운영\n    - 우리은행 서울대학교지점(신양인문학술정보관, 4동) 및 공대영업소(글로벌공학교육 센터, 38동)는 기존과 동일하게 운영.",
+			"ts": "1645679368.756989",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "be7PM",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022학년도 1학기 S-CARD 업무 은행 임시영업소 개시 안내>\n서울대-우리은행 간 S-CARD 업무협약에 따라 S-CARD 발급을 위한 "
+								},
+								{
+									"type": "text",
+									"text": "우리은행 임시영업소가 아래와 같이 운영되고 있으니 참고하시기 바랍니다. ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n가. 임시영업소(우리은행)\n    - 운영기간: "
+								},
+								{
+									"type": "text",
+									"text": "2022. 2. 24.(목) ~ 4. 29.(금), 약 10주",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "    -",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 운영시간: 9:30 ~ 15:30(점심시간: 오전 11:30~12:30 미운영)\n    - 장 소: NH농협두레문예관(67동) 2층\n    ※ 우리은행 방문시 신분증 필히 지참\n  나. 학내 다른지점 운영\n    - 우리은행 서울대학교지점(신양인문학술정보관, 4동) 및 공대영업소(글로벌공학교육 센터, 38동)는 기존과 동일하게 운영."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ca824e8f-c13a-4a68-9152-03737b18c465",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;서울시 운영 방역택시 안내&gt;\n*서울시에서는 현재 운영 중인 방역택시 업무 범위를 아래와 같이 확대하여 운영하고 있으니 참고하시기 바랍니다.* \n\n가. 이용대상 : *해외입국자, 대중교통 이용이 불가한 격리자(확진자 미포함)*\n  나. 예약시간 : 월~금 09:00~18:00, 토요일 09:00~13:00 (※운영은 365일)\n  다. 예약방법 : 예약센터(1644-2255), 이메일(<mailto:reserve@intltaxi.co.kr|reserve@intltaxi.co.kr>), 홈페이지(<http://www.intltaxi.co.kr|www.intltaxi.co.kr>)\n  라. 배 차 : 당일예약 시 1시간 후 배차가능, 익일예약은 시간지정 가능\n  마. 이용요금 : 시간요금 (첨부파일 참조)",
+			"ts": "1645681370.690849",
+			"files": [
+				{
+					"id": "F0348CPGDHU",
+					"created": 1645681368,
+					"timestamp": 1645681368,
+					"name": "[관악구청] 서울시 운영 방역택시 안내.pdf",
+					"title": "[관악구청] 서울시 운영 방역택시 안내.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 703521,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0348CPGDHU-[관악구청] 서울시 운영 방역택시 안내.pdf",
+					"url_private_download": "attachments/F0348CPGDHU-[관악구청] 서울시 운영 방역택시 안내.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0348CPGDHU/___________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0348CPGDHU-5598f56468",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fQAAs",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<서울시 운영 방역택시 안내>\n"
+								},
+								{
+									"type": "text",
+									"text": "서울시에서는 현재 운영 중인 방역택시 업무 범위를 아래와 같이 확대하여 운영하고 있으니 참고하시기 바랍니다. ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n가. 이용대상 : "
+								},
+								{
+									"type": "text",
+									"text": "해외입국자, 대중교통 이용이 불가한 격리자(확진자 미포함)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  나. 예약시간 : 월~금 09:00~18:00, 토요일 09:00~13:00 (※운영은 365일)\n  다. 예약방법 : 예약센터(1644-2255), 이메일("
+								},
+								{
+									"type": "link",
+									"url": "mailto:reserve@intltaxi.co.kr",
+									"text": "reserve@intltaxi.co.kr"
+								},
+								{
+									"type": "text",
+									"text": "), 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "http://www.intltaxi.co.kr",
+									"text": "www.intltaxi.co.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n  라. 배 차 : 당일예약 시 1시간 후 배차가능, 익일예약은 시간지정 가능\n  마. 이용요금 : 시간요금 (첨부파일 참조)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

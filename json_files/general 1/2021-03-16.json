@@ -1,391 +1,393 @@
-[
-  {
-    "client_msg_id": "ecec15b8-90f4-430c-811d-bedb70a36454",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2기 학생 알림\u0026gt; GSDS 후드티 배부 관련 사이즈 조회*\n안녕하세요 :slightly_smiling_face:\nGSDS후드 집업을 배부하고자 합니다.\n2기 학생회 대표(혹은 부대표)님께서는 2기 학생 분들의 사이즈를 조회하여 \u003cmailto:gowoonsky@snu.ac.kr|gowoonsky@snu.ac.kr\u003e 로 회신 부탁 드립니다.\n후드집업 사이즈: S, M, L, XL, XXL, XXXL\n관련하여 추가 문의사항 있으시면 연락 부탁 드립니다.",
-    "ts": "1615857747.000600",
-    "thread_ts": "1615857747.000600",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1615857885.000000"
-    },
-    "reply_count": 5,
-    "replies": [
-      {
-        "user": "U01QGKCUAJX",
-        "ts": "1615859242.001000"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1615860776.001300"
-      },
-      {
-        "user": "U01QNMUAUKW",
-        "ts": "1615864908.001700"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1615865788.001900"
-      },
-      {
-        "user": "U01R688N9BJ",
-        "ts": "1615876367.002500"
-      }
-    ],
-    "latest_reply": "1615876367.002500",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "partying_face",
-        "count": 3,
-        "users": [
-          "U01R719DKK2",
-          "U01QNHEAS0L",
-          "U01PVET2C31"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01Q9KJL8MC"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "JOU",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2기 학생 알림\u003e GSDS 후드티 배부 관련 사이즈 조회",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n안녕하세요 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\nGSDS후드 집업을 배부하고자 합니다.\n2기 학생회 대표(혹은 부대표)님께서는 2기 학생 분들의 사이즈를 조회하여 "
-              },
-              {
-                "type": "link",
-                "url": "mailto:gowoonsky@snu.ac.kr",
-                "text": "gowoonsky@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": " 로 회신 부탁 드립니다.\n후드집업 사이즈: S, M, L, XL, XXL, XXXL\n관련하여 추가 문의사항 있으시면 연락 부탁 드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 4,
-    "reply_users": [
-      "U01QGKCUAJX",
-      "U01QNJ7PWRX",
-      "U01QNMUAUKW",
-      "U01R688N9BJ"
-    ]
-  },
-  {
-    "client_msg_id": "eeff324a-65fd-4406-bea0-b84acbdf71fd",
-    "type": "message",
-    "user": "U01QGKCUAJX",
-    "text": "사이즈가 제조사마다 조금씩 달라서요, 혹시 학교에 가면 샘플 있을까요?",
-    "ts": "1615859242.001000",
-    "thread_ts": "1615857747.000600",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "09vN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "사이즈가 제조사마다 조금씩 달라서요, 혹시 학교에 가면 샘플 있을까요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856850722064_b0db75079ec8fe5ad451_72.png",
-      "first_name": "2기_조민수",
-      "real_name": "2기_조민수",
-      "display_name": "2기_조민수",
-      "team": "T01QA5S537V",
-      "name": "chominsoo",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "00165d4b-aefe-4bd8-8ab3-b8158ef7990b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "샘플은 따로 없지만 보통 사이즈 보다 조금 작게 나온 편 입니다.  혹시 학교 방문 하시면 보여드리겠습니다.",
-    "ts": "1615860776.001300",
-    "thread_ts": "1615857747.000600",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 1,
-        "users": [
-          "U01QGKCUAJX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "GYF",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "샘플은 따로 없지만 보통 사이즈 보다 조금 작게 나온 편 입니다.  혹시 학교 방문 하시면 보여드리겠습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "92a7380f-9522-4804-b93b-df9054afac3a",
-    "type": "message",
-    "user": "U01QNMUAUKW",
-    "text": "혹시 제조사 브랜드가 있나요?",
-    "ts": "1615864908.001700",
-    "thread_ts": "1615857747.000600",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "EL1",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시 제조사 브랜드가 있나요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/2b1495435b2113be4f58e565cb3a27ae.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
-      "first_name": "",
-      "real_name": "2기_김도균",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "dokyunkim",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "e782878b-01ad-4e43-aa10-7e7cc5b1e626",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "제조사 브랜드 없습니다.",
-    "ts": "1615865788.001900",
-    "thread_ts": "1615857747.000600",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "SUWi",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "제조사 브랜드 없습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "3dc1e70d-237c-4f96-a33d-d0a3b809bccd",
-    "type": "message",
-    "user": "U01R688N9BJ",
-    "text": "후드집업 사이즈 설문입니다. 2기 동기분들 참여해주세요!\n\u003chttps://docs.google.com/forms/d/e/1FAIpQLScsFYDJwQ2_4R0AvScNhHW-RQQ7vKqwqy3rYGiHx0XMbD_G8g/viewform?usp=sf_link\u003e",
-    "ts": "1615876367.002500",
-    "thread_ts": "1615857747.000600",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 4,
-        "users": [
-          "U01Q9KJL8MC",
-          "U01QGKCUAJX",
-          "U01QV1SQJ57",
-          "U01QNHRHY0L"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "R01",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "후드집업 사이즈 설문입니다. 2기 동기분들 참여해주세요!\n"
-              },
-              {
-                "type": "link",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLScsFYDJwQ2_4R0AvScNhHW-RQQ7vKqwqy3rYGiHx0XMbD_G8g/viewform?usp=sf_link",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
-      "first_name": "Jinwoong",
-      "real_name": "Jinwoong Kim",
-      "display_name": "2기_김진웅",
-      "team": "T01QA5S537V",
-      "name": "qazcde.k",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ecec15b8-90f4-430c-811d-bedb70a36454",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2기 학생 알림&gt; GSDS 후드티 배부 관련 사이즈 조회*\n안녕하세요 :slightly_smiling_face:\nGSDS후드 집업을 배부하고자 합니다.\n2기 학생회 대표(혹은 부대표)님께서는 2기 학생 분들의 사이즈를 조회하여 <mailto:gowoonsky@snu.ac.kr|gowoonsky@snu.ac.kr> 로 회신 부탁 드립니다.\n후드집업 사이즈: S, M, L, XL, XXL, XXXL\n관련하여 추가 문의사항 있으시면 연락 부탁 드립니다.",
+			"ts": "1615857747.000600",
+			"thread_ts": "1615857747.000600",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1615857885.000000"
+			},
+			"reply_count": 5,
+			"replies": [
+				{
+					"user": "U01QGKCUAJX",
+					"ts": "1615859242.001000"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1615860776.001300"
+				},
+				{
+					"user": "U01QNMUAUKW",
+					"ts": "1615864908.001700"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1615865788.001900"
+				},
+				{
+					"user": "U01R688N9BJ",
+					"ts": "1615876367.002500"
+				}
+			],
+			"latest_reply": "1615876367.002500",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "partying_face",
+					"count": 3,
+					"users": [
+						"U01R719DKK2",
+						"U01QNHEAS0L",
+						"U01PVET2C31"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01Q9KJL8MC"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "JOU",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2기 학생 알림> GSDS 후드티 배부 관련 사이즈 조회",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n안녕하세요 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\nGSDS후드 집업을 배부하고자 합니다.\n2기 학생회 대표(혹은 부대표)님께서는 2기 학생 분들의 사이즈를 조회하여 "
+								},
+								{
+									"type": "link",
+									"url": "mailto:gowoonsky@snu.ac.kr",
+									"text": "gowoonsky@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": " 로 회신 부탁 드립니다.\n후드집업 사이즈: S, M, L, XL, XXL, XXXL\n관련하여 추가 문의사항 있으시면 연락 부탁 드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 4,
+			"reply_users": [
+				"U01QGKCUAJX",
+				"U01QNJ7PWRX",
+				"U01QNMUAUKW",
+				"U01R688N9BJ"
+			]
+		},
+		{
+			"client_msg_id": "eeff324a-65fd-4406-bea0-b84acbdf71fd",
+			"type": "message",
+			"user": "U01QGKCUAJX",
+			"text": "사이즈가 제조사마다 조금씩 달라서요, 혹시 학교에 가면 샘플 있을까요?",
+			"ts": "1615859242.001000",
+			"thread_ts": "1615857747.000600",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "09vN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "사이즈가 제조사마다 조금씩 달라서요, 혹시 학교에 가면 샘플 있을까요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856850722064_b0db75079ec8fe5ad451_72.png",
+				"first_name": "2기_조민수",
+				"real_name": "2기_조민수",
+				"display_name": "2기_조민수",
+				"team": "T01QA5S537V",
+				"name": "chominsoo",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "00165d4b-aefe-4bd8-8ab3-b8158ef7990b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "샘플은 따로 없지만 보통 사이즈 보다 조금 작게 나온 편 입니다.  혹시 학교 방문 하시면 보여드리겠습니다.",
+			"ts": "1615860776.001300",
+			"thread_ts": "1615857747.000600",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 1,
+					"users": [
+						"U01QGKCUAJX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "GYF",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "샘플은 따로 없지만 보통 사이즈 보다 조금 작게 나온 편 입니다.  혹시 학교 방문 하시면 보여드리겠습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "92a7380f-9522-4804-b93b-df9054afac3a",
+			"type": "message",
+			"user": "U01QNMUAUKW",
+			"text": "혹시 제조사 브랜드가 있나요?",
+			"ts": "1615864908.001700",
+			"thread_ts": "1615857747.000600",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "EL1",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시 제조사 브랜드가 있나요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/2b1495435b2113be4f58e565cb3a27ae.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+				"first_name": "",
+				"real_name": "2기_김도균",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "dokyunkim",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "e782878b-01ad-4e43-aa10-7e7cc5b1e626",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "제조사 브랜드 없습니다.",
+			"ts": "1615865788.001900",
+			"thread_ts": "1615857747.000600",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "SUWi",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "제조사 브랜드 없습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "3dc1e70d-237c-4f96-a33d-d0a3b809bccd",
+			"type": "message",
+			"user": "U01R688N9BJ",
+			"text": "후드집업 사이즈 설문입니다. 2기 동기분들 참여해주세요!\n<https://docs.google.com/forms/d/e/1FAIpQLScsFYDJwQ2_4R0AvScNhHW-RQQ7vKqwqy3rYGiHx0XMbD_G8g/viewform?usp=sf_link>",
+			"ts": "1615876367.002500",
+			"thread_ts": "1615857747.000600",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 4,
+					"users": [
+						"U01Q9KJL8MC",
+						"U01QGKCUAJX",
+						"U01QV1SQJ57",
+						"U01QNHRHY0L"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "R01",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "후드집업 사이즈 설문입니다. 2기 동기분들 참여해주세요!\n"
+								},
+								{
+									"type": "link",
+									"url": "https://docs.google.com/forms/d/e/1FAIpQLScsFYDJwQ2_4R0AvScNhHW-RQQ7vKqwqy3rYGiHx0XMbD_G8g/viewform?usp=sf_link",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+				"first_name": "Jinwoong",
+				"real_name": "Jinwoong Kim",
+				"display_name": "2기_김진웅",
+				"team": "T01QA5S537V",
+				"name": "qazcde.k",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

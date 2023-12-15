@@ -1,170 +1,172 @@
-[
-  {
-    "client_msg_id": "ef681002-6687-4972-9365-91a624ce8efc",
-    "type": "message",
-    "user": "U01QA85T90A",
-    "text": "안녕하세요.  프랑스에서 사온 과자 나눔합니다. 다들 새해복 많이 받으시고 올해도 열심히 공부하세요!! 4층 탕비실에 두었습니다.",
-    "ts": "1642046115.004900",
-    "thread_ts": "1642046115.004900",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QGD03WUC",
-        "ts": "1642467393.000500"
-      },
-      {
-        "user": "U01QA85T90A",
-        "ts": "1642468584.001000"
-      }
-    ],
-    "latest_reply": "1642468584.001000",
-    "files": [
-      {
-        "id": "F02TMF4A66S",
-        "created": 1642046060,
-        "timestamp": 1642046060,
-        "name": "20220113_125402.jpg",
-        "title": "20220113_125402.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QA85T90A",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 648503,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02TMF4A66S-20220113_125402.jpg",
-        "url_private_download": "attachments/F02TMF4A66S-20220113_125402.jpg",
-        "original_h": 4032,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QA85T90A/F02TMF4A66S/20220113_125402.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02TMF4A66S-b3c28431d7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 10,
-        "users": [
-          "U01PVEU1A07",
-          "U01Q75K6FB7",
-          "U01PVEU69BR",
-          "U01QNSMEY0Z",
-          "U01QV28F01X",
-          "U01Q75KNV1T",
-          "U01PVETJY87",
-          "U01PVETMX2T",
-          "U01Q1KFN4JK",
-          "U01QGD03WUC"
-        ]
-      },
-      {
-        "name": "fr",
-        "count": 11,
-        "users": [
-          "U01QNSM488Z",
-          "U01QNJ9BB60",
-          "U01QAE5BVEX",
-          "U01QNSMEY0Z",
-          "U01Q75KNV1T",
-          "U01PVETJY87",
-          "U01QV1WAPL1",
-          "U01PVEU1A07",
-          "U01Q1KFN4JK",
-          "U01QNMUAUKW",
-          "U01QGD03WUC"
-        ]
-      },
-      {
-        "name": "heart",
-        "count": 2,
-        "users": [
-          "U01QAE5DERZ",
-          "U01QGD03WUC"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Bjcmj",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요.  프랑스에서 사온 과자 나눔합니다. 다들 새해복 많이 받으시고 올해도 열심히 공부하세요!! 4층 탕비실에 두었습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
-      "first_name": "gundo0102",
-      "real_name": "gundo0102",
-      "display_name": "3기_박건도",
-      "team": "T01QA5S537V",
-      "name": "gundo0102",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01QA85T90A",
-      "U01QGD03WUC"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ef681002-6687-4972-9365-91a624ce8efc",
+			"type": "message",
+			"user": "U01QA85T90A",
+			"text": "안녕하세요.  프랑스에서 사온 과자 나눔합니다. 다들 새해복 많이 받으시고 올해도 열심히 공부하세요!! 4층 탕비실에 두었습니다.",
+			"ts": "1642046115.004900",
+			"thread_ts": "1642046115.004900",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QGD03WUC",
+					"ts": "1642467393.000500"
+				},
+				{
+					"user": "U01QA85T90A",
+					"ts": "1642468584.001000"
+				}
+			],
+			"latest_reply": "1642468584.001000",
+			"files": [
+				{
+					"id": "F02TMF4A66S",
+					"created": 1642046060,
+					"timestamp": 1642046060,
+					"name": "20220113_125402.jpg",
+					"title": "20220113_125402.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QA85T90A",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 648503,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02TMF4A66S-20220113_125402.jpg",
+					"url_private_download": "attachments/F02TMF4A66S-20220113_125402.jpg",
+					"original_h": 4032,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02TMF4A66S-8ebcd08e4c/20220113_125402_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QA85T90A/F02TMF4A66S/20220113_125402.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02TMF4A66S-b3c28431d7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 10,
+					"users": [
+						"U01PVEU1A07",
+						"U01Q75K6FB7",
+						"U01PVEU69BR",
+						"U01QNSMEY0Z",
+						"U01QV28F01X",
+						"U01Q75KNV1T",
+						"U01PVETJY87",
+						"U01PVETMX2T",
+						"U01Q1KFN4JK",
+						"U01QGD03WUC"
+					]
+				},
+				{
+					"name": "fr",
+					"count": 11,
+					"users": [
+						"U01QNSM488Z",
+						"U01QNJ9BB60",
+						"U01QAE5BVEX",
+						"U01QNSMEY0Z",
+						"U01Q75KNV1T",
+						"U01PVETJY87",
+						"U01QV1WAPL1",
+						"U01PVEU1A07",
+						"U01Q1KFN4JK",
+						"U01QNMUAUKW",
+						"U01QGD03WUC"
+					]
+				},
+				{
+					"name": "heart",
+					"count": 2,
+					"users": [
+						"U01QAE5DERZ",
+						"U01QGD03WUC"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Bjcmj",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요.  프랑스에서 사온 과자 나눔합니다. 다들 새해복 많이 받으시고 올해도 열심히 공부하세요!! 4층 탕비실에 두었습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+				"first_name": "gundo0102",
+				"real_name": "gundo0102",
+				"display_name": "3기_박건도",
+				"team": "T01QA5S537V",
+				"name": "gundo0102",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01QA85T90A",
+				"U01QGD03WUC"
+			]
+		}
+	]
+}

@@ -1,55 +1,57 @@
-[
-  {
-    "client_msg_id": "ca541ea5-4e34-4805-aa33-6de706f8cc8f",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "*[서버 이용 에티켓 안내]*\n여러 번 공지가 되긴 했었습니다만,\n로그인 노드에서 프로그램을 실행하는 일이 없도록 해주시기 바랍니다.\nGPU를 사용하지 않고 CPU만 사용하시더라도, 반드시 노드를 할당 받아 사용해주세요.\n방금 로그인 노드 접속이 안될 정도로 부하를 주는 계정에 대하여 모든 프로그램을 kill 하였으니, 해당 사용자 분은 이 점 양해해주시기 바랍니다.",
-    "ts": "1671684137.302569",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "GNQKL",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[서버 이용 에티켓 안내]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n여러 번 공지가 되긴 했었습니다만,\n로그인 노드에서 프로그램을 실행하는 일이 없도록 해주시기 바랍니다.\nGPU를 사용하지 않고 CPU만 사용하시더라도, 반드시 노드를 할당 받아 사용해주세요.\n방금 로그인 노드 접속이 안될 정도로 부하를 주는 계정에 대하여 모든 프로그램을 kill 하였으니, 해당 사용자 분은 이 점 양해해주시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ca541ea5-4e34-4805-aa33-6de706f8cc8f",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "*[서버 이용 에티켓 안내]*\n여러 번 공지가 되긴 했었습니다만,\n로그인 노드에서 프로그램을 실행하는 일이 없도록 해주시기 바랍니다.\nGPU를 사용하지 않고 CPU만 사용하시더라도, 반드시 노드를 할당 받아 사용해주세요.\n방금 로그인 노드 접속이 안될 정도로 부하를 주는 계정에 대하여 모든 프로그램을 kill 하였으니, 해당 사용자 분은 이 점 양해해주시기 바랍니다.",
+			"ts": "1671684137.302569",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "GNQKL",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[서버 이용 에티켓 안내]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n여러 번 공지가 되긴 했었습니다만,\n로그인 노드에서 프로그램을 실행하는 일이 없도록 해주시기 바랍니다.\nGPU를 사용하지 않고 CPU만 사용하시더라도, 반드시 노드를 할당 받아 사용해주세요.\n방금 로그인 노드 접속이 안될 정도로 부하를 주는 계정에 대하여 모든 프로그램을 kill 하였으니, 해당 사용자 분은 이 점 양해해주시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

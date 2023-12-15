@@ -1,156 +1,158 @@
-[
-  {
-    "client_msg_id": "586d269d-ed81-46a3-aed8-bb213638a759",
-    "type": "message",
-    "user": "U01QV1SQJ57",
-    "text": "\u003c@U01QNJ7PWRX\u003e 안녕하세요~ 4층 창가쪽에 있는 등 12개가 나간거 같습니다. 저번주 공사이후로 들어오지 않았던 거 같은데 확인부탁드립니다~\n(추가로 407호 세미나실 불도 들어오지 않습니다!!!!!)",
-    "ts": "1652668785.379079",
-    "thread_ts": "1652668785.379079",
-    "edited": {
-      "user": "U01QV1SQJ57",
-      "ts": "1652671985.000000"
-    },
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U02V5LU4ED7",
-        "ts": "1652671971.245059"
-      }
-    ],
-    "latest_reply": "1652671971.245059",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 3,
-        "users": [
-          "U01QNSM488Z",
-          "U01QV1SQJ57",
-          "U02V5LU4ED7"
-        ]
-      },
-      {
-        "name": "pray",
-        "count": 1,
-        "users": [
-          "U02V5LU4ED7"
-        ]
-      },
-      {
-        "name": "writing_hand",
-        "count": 1,
-        "users": [
-          "U02V5LU4ED7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/zr3",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "user",
-                "user_id": "U01QNJ7PWRX"
-              },
-              {
-                "type": "text",
-                "text": " 안녕하세요~ 4층 창가쪽에 있는 등 12개가 나간거 같습니다. 저번주 공사이후로 들어오지 않았던 거 같은데 확인부탁드립니다~\n(추가로 407호 세미나실 불도 들어오지 않습니다!!!!!)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
-      "first_name": "김병찬",
-      "real_name": "김병찬",
-      "display_name": "4기_김병찬",
-      "team": "T01QA5S537V",
-      "name": "bckim97",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U02V5LU4ED7"
-    ]
-  },
-  {
-    "client_msg_id": "d4797a58-fc14-4d44-a181-89f05ab0b4d1",
-    "type": "message",
-    "user": "U02V5LU4ED7",
-    "text": "407호 불도 안들와요. 전기가 나간것 같아요. 4층 창가 쪽 어둡습니다. 확인부탁드려요",
-    "ts": "1652671971.245059",
-    "thread_ts": "1652668785.379079",
-    "parent_user_id": "U01QV1SQJ57",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "smiling_face_with_tear",
-        "count": 1,
-        "users": [
-          "U01QV1SQJ57"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01R688KH6U"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9f9",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "407호 불도 안들와요. 전기가 나간것 같아요. 4층 창가 쪽 어둡습니다. 확인부탁드려요"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/8adbe29d761f8c7d83a4319eb814df6b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "임상수",
-      "real_name": "임상수",
-      "display_name": "3기_임상수",
-      "team": "T01QA5S537V",
-      "name": "vetyss91",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "586d269d-ed81-46a3-aed8-bb213638a759",
+			"type": "message",
+			"user": "U01QV1SQJ57",
+			"text": "<@U01QNJ7PWRX> 안녕하세요~ 4층 창가쪽에 있는 등 12개가 나간거 같습니다. 저번주 공사이후로 들어오지 않았던 거 같은데 확인부탁드립니다~\n(추가로 407호 세미나실 불도 들어오지 않습니다!!!!!)",
+			"ts": "1652668785.379079",
+			"thread_ts": "1652668785.379079",
+			"edited": {
+				"user": "U01QV1SQJ57",
+				"ts": "1652671985.000000"
+			},
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U02V5LU4ED7",
+					"ts": "1652671971.245059"
+				}
+			],
+			"latest_reply": "1652671971.245059",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 3,
+					"users": [
+						"U01QNSM488Z",
+						"U01QV1SQJ57",
+						"U02V5LU4ED7"
+					]
+				},
+				{
+					"name": "pray",
+					"count": 1,
+					"users": [
+						"U02V5LU4ED7"
+					]
+				},
+				{
+					"name": "writing_hand",
+					"count": 1,
+					"users": [
+						"U02V5LU4ED7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/zr3",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "user",
+									"user_id": "U01QNJ7PWRX"
+								},
+								{
+									"type": "text",
+									"text": " 안녕하세요~ 4층 창가쪽에 있는 등 12개가 나간거 같습니다. 저번주 공사이후로 들어오지 않았던 거 같은데 확인부탁드립니다~\n(추가로 407호 세미나실 불도 들어오지 않습니다!!!!!)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+				"first_name": "김병찬",
+				"real_name": "김병찬",
+				"display_name": "4기_김병찬",
+				"team": "T01QA5S537V",
+				"name": "bckim97",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U02V5LU4ED7"
+			]
+		},
+		{
+			"client_msg_id": "d4797a58-fc14-4d44-a181-89f05ab0b4d1",
+			"type": "message",
+			"user": "U02V5LU4ED7",
+			"text": "407호 불도 안들와요. 전기가 나간것 같아요. 4층 창가 쪽 어둡습니다. 확인부탁드려요",
+			"ts": "1652671971.245059",
+			"thread_ts": "1652668785.379079",
+			"parent_user_id": "U01QV1SQJ57",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "smiling_face_with_tear",
+					"count": 1,
+					"users": [
+						"U01QV1SQJ57"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01R688KH6U"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9f9",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "407호 불도 안들와요. 전기가 나간것 같아요. 4층 창가 쪽 어둡습니다. 확인부탁드려요"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/8adbe29d761f8c7d83a4319eb814df6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "임상수",
+				"real_name": "임상수",
+				"display_name": "3기_임상수",
+				"team": "T01QA5S537V",
+				"name": "vetyss91",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

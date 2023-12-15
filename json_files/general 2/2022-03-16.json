@@ -1,494 +1,496 @@
-[
-  {
-    "client_msg_id": "c1860212-f181-4373-b66b-1a18d95dac5b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;우리가 바꾸는 SNU 프로그램 공모 안내\u0026gt;\n학생 자치활동을 장려하고 학생-대학 간 자유롭고 다양한 의견교환을 통한 상호신뢰를 강화하고자 아래와 같이 기획단계부터 학생이 참여하는 \"우리가 바꾸는 SNU\" 프로그램을 공모하고 있으니, 관심있는 학생들의 많은 참여 부탁드립니다.\n 가. 공 모 명: 우리가 바꾸는 SNU\n 나. 공모 자격: 서울대학교 학생(졸업생 제외)\n 다. 분 야\nㅇ *아이디어 공모*: 학교의 발전 및 상생 관련 아이디어를 공모하여 학생-대학이 협력·시행\nㅇ *팀 프로젝트 공모*: 5명 내외의 팀을 구성하여 협력 활동의 선한 영향력을 보일 수 있는 프로젝트 공모를 통해 채택된 팀에게 지원금 지급, 팀 프로젝트 수행 및 결과보고(발표)\n 라. 공모 방법: 공모신청서 작성 후 학생지원과 이메일 제출(\u003cmailto:student@snu.ac.kr|student@snu.ac.kr\u003e)\n 마. 공모 기한: *2022. 3. 25.(금)*\n 바. 시 상: 대상 100만원 등 상금 및 활동 지원금 지급\n 사. 공 지: 마이스누(mySNU) 학생공지 및 학생지원과 홈페이지 참조(\u003chttp://student.snu.ac.kr|student.snu.ac.kr\u003e)",
-    "ts": "1647390228.739389",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1647390454.000000"
-    },
-    "files": [
-      {
-        "id": "F037165ND6J",
-        "created": 1647390222,
-        "timestamp": 1647390222,
-        "name": "학생 주도 프로그램(우리가 바꾸는 SNU) 공모_발송용.hwp",
-        "title": "학생 주도 프로그램(우리가 바꾸는 SNU) 공모_발송용.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 98816,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F037165ND6J-학생 주도 프로그램(우리가 바꾸는 SNU) 공모_발송용.hwp",
-        "url_private_download": "attachments/F037165ND6J-학생 주도 프로그램(우리가 바꾸는 SNU) 공모_발송용.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F037165ND6J/_______________________________________________snu__________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F037165ND6J-d93cf0e3a5",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "A1Z2",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c우리가 바꾸는 SNU 프로그램 공모 안내\u003e\n학생 자치활동을 장려하고 학생-대학 간 자유롭고 다양한 의견교환을 통한 상호신뢰를 강화하고자 아래와 같이 기획단계부터 학생이 참여하는 \"우리가 바꾸는 SNU\" 프로그램을 공모하고 있으니, 관심있는 학생들의 많은 참여 부탁드립니다.\n 가. 공 모 명: 우리가 바꾸는 SNU\n 나. 공모 자격: 서울대학교 학생(졸업생 제외)\n 다. 분 야\nㅇ "
-              },
-              {
-                "type": "text",
-                "text": "아이디어 공모",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 학교의 발전 및 상생 관련 아이디어를 공모하여 학생-대학이 협력·시행\nㅇ "
-              },
-              {
-                "type": "text",
-                "text": "팀 프로젝트 공모",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 5명 내외의 팀을 구성하여 협력 활동의 선한 영향력을 보일 수 있는 프로젝트 공모를 통해 채택된 팀에게 지원금 지급, 팀 프로젝트 수행 및 결과보고(발표)\n 라. 공모 방법: 공모신청서 작성 후 학생지원과 이메일 제출("
-              },
-              {
-                "type": "link",
-                "url": "mailto:student@snu.ac.kr",
-                "text": "student@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n 마. 공모 기한: "
-              },
-              {
-                "type": "text",
-                "text": "2022. 3. 25.(금)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n 바. 시 상: 대상 100만원 등 상금 및 활동 지원금 지급\n 사. 공 지: 마이스누(mySNU) 학생공지 및 학생지원과 홈페이지 참조("
-              },
-              {
-                "type": "link",
-                "url": "http://student.snu.ac.kr",
-                "text": "student.snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ef53ce7a-b65d-462c-a651-ac6c5513c3d8",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;승강기내 에어컨 설치 \u0026gt;\n942동 승강기내 에어컨 설치 관련으로 3월 17일(목) 약 1시간 가량 설치가 진행될 예정입니다.\n설치가 진행되는 동안 약 1시간 가량은 정지될 예정이니 참고하시기 바랍니다.\n\n*일자: 3월 17일(목)\n*시간:  11:00~12:00 (상기 시간은 변경될 수 있습니다.)",
-    "ts": "1647391482.890649",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "R5SXO",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c승강기내 에어컨 설치 \u003e\n942동 승강기내 에어컨 설치 관련으로 3월 17일(목) 약 1시간 가량 설치가 진행될 예정입니다.\n설치가 진행되는 동안 약 1시간 가량은 정지될 예정이니 참고하시기 바랍니다.\n\n*일자: 3월 17일(목)\n*시간:  11:00~12:00 (상기 시간은 변경될 수 있습니다.)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "23b48814-d4c8-4884-b0dc-3ca0db60e8f1",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "인공지능 경진대회 AI Spark",
-    "ts": "1647395612.910849",
-    "files": [
-      {
-        "id": "F036TEHL5T9",
-        "created": 1647395600,
-        "timestamp": 1647395600,
-        "name": "제3회 스파크챌린지 포스터_220217.jpg",
-        "title": "제3회 스파크챌린지 포스터_220217.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 6511282,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F036TEHL5T9-제3회 스파크챌린지 포스터_220217.jpg",
-        "url_private_download": "attachments/F036TEHL5T9-제3회 스파크챌린지 포스터_220217.jpg",
-        "original_h": 7016,
-        "original_w": 4961,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F036TEHL5T9/___3_________________________________220217.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F036TEHL5T9-60dbc9b850",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "D82Gl",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "인공지능 경진대회 AI Spark"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "8b932b57-12d5-409c-96f8-5bf604c64dec",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 안내\u0026gt;\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 2022학년도 하계 Study Abroad Program(SAP)을 실시하오니\n관심있는 학생들의 많은 참여 바랍니다.\n가. 일정\n   1. 신청서 제출: *2022. 3. 17.(목)까지* \u0026lt;지원자 → 소속 단과대학(원) 행정실\u0026gt;\n   2. 신청서 취합 및 제출: *2022. 3. 18.(금)까지* \u0026lt; 단과대학(원) 행정실 → 국제협력본부\u0026gt;\n     가) 모든 지원서류를 지원자별로 하나의 PDF 파일로 *스캔 후* 신청자 명단(붙임 3)과 함께 *공문 발송*\n     나) 지원서류 원본을 국제협력본부 담당자에게 *사송 제출*\n   3. 1차 합격자 발표: 2022. 3. 23.(수)\n   4. 면접: 2022. 3. 28.(월) ~ 4. 1.(금) 중 1일\n   5. 최종 합격자 발표: 2022. 4. 6.(수)\n나. 문의: 국제협력본부 황윤주 (\u003cmailto:yunju96@snu.ac.kr|yunju96@snu.ac.kr\u003e/02-880-4357)",
-    "ts": "1647414330.340449",
-    "files": [
-      {
-        "id": "F03760LBK61",
-        "created": 1647414244,
-        "timestamp": 1647414244,
-        "name": "1. 2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 공고문.hwp외2건.zip",
-        "title": "1. 2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 공고문.hwp외2건.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1051461,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03760LBK61-1. 2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 공고문.hwp외2건.zip",
-        "url_private_download": "attachments/F03760LBK61-1. 2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 공고문.hwp외2건.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03760LBK61/1._2022_________________study_abroad_program__sap____________________________.hwp___2___.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03760LBK61-876c18f8d5",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Vkq",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 안내\u003e\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 2022학년도 하계 Study Abroad Program(SAP)을 실시하오니\n관심있는 학생들의 많은 참여 바랍니다.\n가. 일정\n   1. 신청서 제출: "
-              },
-              {
-                "type": "text",
-                "text": "2022. 3. 17.(목)까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " \u003c지원자 → 소속 단과대학(원) 행정실\u003e\n   2. 신청서 취합 및 제출: "
-              },
-              {
-                "type": "text",
-                "text": "2022. 3. 18.(금)까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " \u003c 단과대학(원) 행정실 → 국제협력본부\u003e\n     가) 모든 지원서류를 지원자별로 하나의 PDF 파일로 "
-              },
-              {
-                "type": "text",
-                "text": "스캔 후",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 신청자 명단(붙임 3)과 함께 "
-              },
-              {
-                "type": "text",
-                "text": "공문 발송",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n     나) 지원서류 원본을 국제협력본부 담당자에게 "
-              },
-              {
-                "type": "text",
-                "text": "사송 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   3. 1차 합격자 발표: 2022. 3. 23.(수)\n   4. 면접: 2022. 3. 28.(월) ~ 4. 1.(금) 중 1일\n   5. 최종 합격자 발표: 2022. 4. 6.(수)\n나. 문의: 국제협력본부 황윤주 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:yunju96@snu.ac.kr",
-                "text": "yunju96@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "/02-880-4357)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "c1860212-f181-4373-b66b-1a18d95dac5b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;우리가 바꾸는 SNU 프로그램 공모 안내&gt;\n학생 자치활동을 장려하고 학생-대학 간 자유롭고 다양한 의견교환을 통한 상호신뢰를 강화하고자 아래와 같이 기획단계부터 학생이 참여하는 \"우리가 바꾸는 SNU\" 프로그램을 공모하고 있으니, 관심있는 학생들의 많은 참여 부탁드립니다.\n 가. 공 모 명: 우리가 바꾸는 SNU\n 나. 공모 자격: 서울대학교 학생(졸업생 제외)\n 다. 분 야\nㅇ *아이디어 공모*: 학교의 발전 및 상생 관련 아이디어를 공모하여 학생-대학이 협력·시행\nㅇ *팀 프로젝트 공모*: 5명 내외의 팀을 구성하여 협력 활동의 선한 영향력을 보일 수 있는 프로젝트 공모를 통해 채택된 팀에게 지원금 지급, 팀 프로젝트 수행 및 결과보고(발표)\n 라. 공모 방법: 공모신청서 작성 후 학생지원과 이메일 제출(<mailto:student@snu.ac.kr|student@snu.ac.kr>)\n 마. 공모 기한: *2022. 3. 25.(금)*\n 바. 시 상: 대상 100만원 등 상금 및 활동 지원금 지급\n 사. 공 지: 마이스누(mySNU) 학생공지 및 학생지원과 홈페이지 참조(<http://student.snu.ac.kr|student.snu.ac.kr>)",
+			"ts": "1647390228.739389",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1647390454.000000"
+			},
+			"files": [
+				{
+					"id": "F037165ND6J",
+					"created": 1647390222,
+					"timestamp": 1647390222,
+					"name": "학생 주도 프로그램(우리가 바꾸는 SNU) 공모_발송용.hwp",
+					"title": "학생 주도 프로그램(우리가 바꾸는 SNU) 공모_발송용.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 98816,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F037165ND6J-학생 주도 프로그램(우리가 바꾸는 SNU) 공모_발송용.hwp",
+					"url_private_download": "attachments/F037165ND6J-학생 주도 프로그램(우리가 바꾸는 SNU) 공모_발송용.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F037165ND6J/_______________________________________________snu__________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F037165ND6J-d93cf0e3a5",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "A1Z2",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<우리가 바꾸는 SNU 프로그램 공모 안내>\n학생 자치활동을 장려하고 학생-대학 간 자유롭고 다양한 의견교환을 통한 상호신뢰를 강화하고자 아래와 같이 기획단계부터 학생이 참여하는 \"우리가 바꾸는 SNU\" 프로그램을 공모하고 있으니, 관심있는 학생들의 많은 참여 부탁드립니다.\n 가. 공 모 명: 우리가 바꾸는 SNU\n 나. 공모 자격: 서울대학교 학생(졸업생 제외)\n 다. 분 야\nㅇ "
+								},
+								{
+									"type": "text",
+									"text": "아이디어 공모",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 학교의 발전 및 상생 관련 아이디어를 공모하여 학생-대학이 협력·시행\nㅇ "
+								},
+								{
+									"type": "text",
+									"text": "팀 프로젝트 공모",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 5명 내외의 팀을 구성하여 협력 활동의 선한 영향력을 보일 수 있는 프로젝트 공모를 통해 채택된 팀에게 지원금 지급, 팀 프로젝트 수행 및 결과보고(발표)\n 라. 공모 방법: 공모신청서 작성 후 학생지원과 이메일 제출("
+								},
+								{
+									"type": "link",
+									"url": "mailto:student@snu.ac.kr",
+									"text": "student@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n 마. 공모 기한: "
+								},
+								{
+									"type": "text",
+									"text": "2022. 3. 25.(금)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n 바. 시 상: 대상 100만원 등 상금 및 활동 지원금 지급\n 사. 공 지: 마이스누(mySNU) 학생공지 및 학생지원과 홈페이지 참조("
+								},
+								{
+									"type": "link",
+									"url": "http://student.snu.ac.kr",
+									"text": "student.snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ef53ce7a-b65d-462c-a651-ac6c5513c3d8",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;승강기내 에어컨 설치 &gt;\n942동 승강기내 에어컨 설치 관련으로 3월 17일(목) 약 1시간 가량 설치가 진행될 예정입니다.\n설치가 진행되는 동안 약 1시간 가량은 정지될 예정이니 참고하시기 바랍니다.\n\n*일자: 3월 17일(목)\n*시간:  11:00~12:00 (상기 시간은 변경될 수 있습니다.)",
+			"ts": "1647391482.890649",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "R5SXO",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<승강기내 에어컨 설치 >\n942동 승강기내 에어컨 설치 관련으로 3월 17일(목) 약 1시간 가량 설치가 진행될 예정입니다.\n설치가 진행되는 동안 약 1시간 가량은 정지될 예정이니 참고하시기 바랍니다.\n\n*일자: 3월 17일(목)\n*시간:  11:00~12:00 (상기 시간은 변경될 수 있습니다.)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "23b48814-d4c8-4884-b0dc-3ca0db60e8f1",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "인공지능 경진대회 AI Spark",
+			"ts": "1647395612.910849",
+			"files": [
+				{
+					"id": "F036TEHL5T9",
+					"created": 1647395600,
+					"timestamp": 1647395600,
+					"name": "제3회 스파크챌린지 포스터_220217.jpg",
+					"title": "제3회 스파크챌린지 포스터_220217.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 6511282,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F036TEHL5T9-제3회 스파크챌린지 포스터_220217.jpg",
+					"url_private_download": "attachments/F036TEHL5T9-제3회 스파크챌린지 포스터_220217.jpg",
+					"original_h": 7016,
+					"original_w": 4961,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F036TEHL5T9-180fb3e392/___3_________________________________220217_1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F036TEHL5T9/___3_________________________________220217.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F036TEHL5T9-60dbc9b850",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "D82Gl",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "인공지능 경진대회 AI Spark"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "8b932b57-12d5-409c-96f8-5bf604c64dec",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 안내&gt;\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 2022학년도 하계 Study Abroad Program(SAP)을 실시하오니\n관심있는 학생들의 많은 참여 바랍니다.\n가. 일정\n   1. 신청서 제출: *2022. 3. 17.(목)까지* &lt;지원자 → 소속 단과대학(원) 행정실&gt;\n   2. 신청서 취합 및 제출: *2022. 3. 18.(금)까지* &lt; 단과대학(원) 행정실 → 국제협력본부&gt;\n     가) 모든 지원서류를 지원자별로 하나의 PDF 파일로 *스캔 후* 신청자 명단(붙임 3)과 함께 *공문 발송*\n     나) 지원서류 원본을 국제협력본부 담당자에게 *사송 제출*\n   3. 1차 합격자 발표: 2022. 3. 23.(수)\n   4. 면접: 2022. 3. 28.(월) ~ 4. 1.(금) 중 1일\n   5. 최종 합격자 발표: 2022. 4. 6.(수)\n나. 문의: 국제협력본부 황윤주 (<mailto:yunju96@snu.ac.kr|yunju96@snu.ac.kr>/02-880-4357)",
+			"ts": "1647414330.340449",
+			"files": [
+				{
+					"id": "F03760LBK61",
+					"created": 1647414244,
+					"timestamp": 1647414244,
+					"name": "1. 2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 공고문.hwp외2건.zip",
+					"title": "1. 2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 공고문.hwp외2건.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1051461,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03760LBK61-1. 2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 공고문.hwp외2건.zip",
+					"url_private_download": "attachments/F03760LBK61-1. 2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 공고문.hwp외2건.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03760LBK61/1._2022_________________study_abroad_program__sap____________________________.hwp___2___.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03760LBK61-876c18f8d5",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Vkq",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022학년도 하계 Study Abroad Program (SAP) 참가자 모집 안내>\n본교 재학생들의 글로벌 경쟁력을 제고하기 위해 2022학년도 하계 Study Abroad Program(SAP)을 실시하오니\n관심있는 학생들의 많은 참여 바랍니다.\n가. 일정\n   1. 신청서 제출: "
+								},
+								{
+									"type": "text",
+									"text": "2022. 3. 17.(목)까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " <지원자 → 소속 단과대학(원) 행정실>\n   2. 신청서 취합 및 제출: "
+								},
+								{
+									"type": "text",
+									"text": "2022. 3. 18.(금)까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " < 단과대학(원) 행정실 → 국제협력본부>\n     가) 모든 지원서류를 지원자별로 하나의 PDF 파일로 "
+								},
+								{
+									"type": "text",
+									"text": "스캔 후",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 신청자 명단(붙임 3)과 함께 "
+								},
+								{
+									"type": "text",
+									"text": "공문 발송",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n     나) 지원서류 원본을 국제협력본부 담당자에게 "
+								},
+								{
+									"type": "text",
+									"text": "사송 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   3. 1차 합격자 발표: 2022. 3. 23.(수)\n   4. 면접: 2022. 3. 28.(월) ~ 4. 1.(금) 중 1일\n   5. 최종 합격자 발표: 2022. 4. 6.(수)\n나. 문의: 국제협력본부 황윤주 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:yunju96@snu.ac.kr",
+									"text": "yunju96@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "/02-880-4357)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

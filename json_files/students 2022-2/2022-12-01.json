@@ -1,443 +1,445 @@
-[
-  {
-    "client_msg_id": "cd0869eb-7e8b-4133-8aaa-29032c7e2421",
-    "type": "message",
-    "user": "U041B24P34G",
-    "text": "안녕하세요, 어제 학교에 와보니 누군가의 후리스가 제 자리에 놓여져있는데요, 본인 것이라 생각하시면 가져가주시면 감사하겠습니다!",
-    "ts": "1669865749.667839",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "laughing",
-        "count": 1,
-        "users": [
-          "U0406PM050F"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "D7AQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 어제 학교에 와보니 누군가의 후리스가 제 자리에 놓여져있는데요, 본인 것이라 생각하시면 가져가주시면 감사하겠습니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/187937d12a502b5be9ec44013625d6be.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "3.5기_한지훈",
-      "real_name": "3.5기_한지훈",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "joon7092",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d1ef5d07-aa63-4e28-8212-5b279199d3c3",
-    "type": "message",
-    "user": "U041B24P34G",
-    "text": "제 자리는 3층 321번 자리입니다!",
-    "ts": "1669865764.271879",
-    "files": [
-      {
-        "id": "F04CTET1WLF",
-        "created": 1669865752,
-        "timestamp": 1669865752,
-        "name": "img_1320.png",
-        "title": "img_1320.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 1,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U041B24P34G",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 824041,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04CTET1WLF-img_1320.png",
-        "url_private_download": "attachments/F04CTET1WLF-img_1320.png",
-        "original_h": 2778,
-        "original_w": 1284,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 166,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_480.png",
-        "thumb_480_w": 222,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_720.png",
-        "thumb_720_w": 333,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_960.png",
-        "thumb_960_w": 444,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_1024.png",
-        "thumb_1024_w": 473,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U041B24P34G/F04CTET1WLF/img_1320.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04CTET1WLF-7946486544",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "psAKr",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "제 자리는 3층 321번 자리입니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/187937d12a502b5be9ec44013625d6be.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "3.5기_한지훈",
-      "real_name": "3.5기_한지훈",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "joon7092",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ab80bfce-34eb-4d2f-9e88-71260c2ffca0",
-    "type": "message",
-    "user": "U041B24P34G",
-    "ts": "1669865791.460299",
-    "files": [
-      {
-        "id": "F04DLL5Q1LH",
-        "created": 1669865785,
-        "timestamp": 1669865785,
-        "name": "20221201_123331.jpg",
-        "title": "20221201_123331.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U041B24P34G",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1130293,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04DLL5Q1LH-20221201_123331.jpg",
-        "url_private_download": "attachments/F04DLL5Q1LH-20221201_123331.jpg",
-        "original_h": 3024,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U041B24P34G/F04DLL5Q1LH/20221201_123331.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04DLL5Q1LH-5d52d63a34",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "w/72l",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": []
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/187937d12a502b5be9ec44013625d6be.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "3.5기_한지훈",
-      "real_name": "3.5기_한지훈",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "joon7092",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "1051f623-c66c-472e-936a-8c189d3df0f5",
-    "type": "message",
-    "user": "U02V5LU4ED7",
-    "text": "안녕하세요? 3기 학생회 임상수, 최광호 입니다.\n\n이번학기 종강파티는 `12월 26일(월)` 에 진행될 예정입니다!! :party_blob-2:\n\n구체적인 시간과 진행 계획은 아직 결정되지 않았으나 잠정적으로 지난 학기와 비슷할 것으로 예상됩니다.\n\n이번 종강파티에서 기존 재학생들은 2차 일정부터 참여할 것을 예상됩니다. (`12월 26일 21시 @낙성대 푸다기` 예정)\n종강파티 *2차 참석 투표는 따로 진행할 예정*입니다.(*전체 재학생 대상*)\n\n후기 지도교수 배정에 참여하는 인원들에 한하여 먼저 종강 파티 참석 여부를 확인하고자 합니다.\n\n위에 해당하시는 분들은 아래 투표로 참석 여부를 알려주시면 감사하겠습니다.(*지도 교수 배정 참여 인원만!*)\n\n[종강파티 잠정 일정]\n17:00~18:00 - 교수님들의 연구분야 소개 일정 with 연구실 미배정 인원 (대학원 302호)\n18:00~18:30 - 종강파티 장소 이동\n18:30~19:00 - 전체 참석 인원 착석 및 자유롭게 대화 및 음주 (고정석)\n19:00~20:00 - 오후 7시 경에 첫 번째 전체 자리 이동 (고정석)\n20:00~21:00 - 오후 8시 경에 두 번째 전체 자리 이동 (자유석)\n21:00~ - 뒷정리 및 2차 일정 진행",
-    "ts": "1669872204.841089",
-    "edited": {
-      "user": "U02V5LU4ED7",
-      "ts": "1669873452.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "blob-clap",
-        "count": 13,
-        "users": [
-          "U02ULBJGHF0",
-          "U02UCD2C9V5",
-          "U01PVEU1A07",
-          "U01QV1WAPL1",
-          "U0302PHUHME",
-          "U040MB432JW",
-          "U0302PLQ34Y",
-          "U01QNSM488Z",
-          "U040C40QE6T",
-          "U0302PK342C",
-          "U02UVAUFSRJ",
-          "U01Q1KFN4JK",
-          "U02ULBJR9GE"
-        ]
-      },
-      {
-        "name": "slightly_smiling_face",
-        "count": 3,
-        "users": [
-          "U02V5LU4ED7",
-          "U02UCD2C9V5",
-          "U01Q1KFN4JK"
-        ]
-      },
-      {
-        "name": "goodgun",
-        "count": 2,
-        "users": [
-          "U02UVAT3BPW",
-          "U040ENMBB1C"
-        ]
-      },
-      {
-        "name": "captain",
-        "count": 2,
-        "users": [
-          "U02UVAT3BPW",
-          "U01QV1SQJ57"
-        ]
-      },
-      {
-        "name": "heart",
-        "count": 1,
-        "users": [
-          "U02V5LU4ED7"
-        ]
-      },
-      {
-        "name": "loudspeaker",
-        "count": 1,
-        "users": [
-          "U02V5LU4ED7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "prjP",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요? 3기 학생회 임상수, 최광호 입니다.\n\n이번학기 종강파티는 "
-              },
-              {
-                "type": "text",
-                "text": "12월 26일(월)",
-                "style": {
-                  "code": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 에 진행될 예정입니다!! "
-              },
-              {
-                "type": "emoji",
-                "name": "party_blob-2",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n구체적인 시간과 진행 계획은 아직 결정되지 않았으나 잠정적으로 지난 학기와 비슷할 것으로 예상됩니다.\n\n이번 종강파티에서 기존 재학생들은 2차 일정부터 참여할 것을 예상됩니다. ("
-              },
-              {
-                "type": "text",
-                "text": "12월 26일 21시 @낙성대 푸다기",
-                "style": {
-                  "code": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 예정)\n종강파티 "
-              },
-              {
-                "type": "text",
-                "text": "2차 참석 투표는 따로 진행할 예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "입니다.("
-              },
-              {
-                "type": "text",
-                "text": "전체 재학생 대상",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")\n\n후기 지도교수 배정에 참여하는 인원들에 한하여 먼저 종강 파티 참석 여부를 확인하고자 합니다.\n\n위에 해당하시는 분들은 아래 투표로 참석 여부를 알려주시면 감사하겠습니다.("
-              },
-              {
-                "type": "text",
-                "text": "지도 교수 배정 참여 인원만!",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")\n\n[종강파티 잠정 일정]\n17:00~18:00 - 교수님들의 연구분야 소개 일정 with 연구실 미배정 인원 (대학원 302호)\n18:00~18:30 - 종강파티 장소 이동\n18:30~19:00 - 전체 참석 인원 착석 및 자유롭게 대화 및 음주 (고정석)\n19:00~20:00 - 오후 7시 경에 첫 번째 전체 자리 이동 (고정석)\n20:00~21:00 - 오후 8시 경에 두 번째 전체 자리 이동 (자유석)\n21:00~ - 뒷정리 및 2차 일정 진행"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/8adbe29d761f8c7d83a4319eb814df6b.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "임상수",
-      "real_name": "임상수",
-      "display_name": "3기_임상수",
-      "team": "T01QA5S537V",
-      "name": "vetyss91",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "cd0869eb-7e8b-4133-8aaa-29032c7e2421",
+			"type": "message",
+			"user": "U041B24P34G",
+			"text": "안녕하세요, 어제 학교에 와보니 누군가의 후리스가 제 자리에 놓여져있는데요, 본인 것이라 생각하시면 가져가주시면 감사하겠습니다!",
+			"ts": "1669865749.667839",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "laughing",
+					"count": 1,
+					"users": [
+						"U0406PM050F"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "D7AQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 어제 학교에 와보니 누군가의 후리스가 제 자리에 놓여져있는데요, 본인 것이라 생각하시면 가져가주시면 감사하겠습니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/187937d12a502b5be9ec44013625d6be.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "3.5기_한지훈",
+				"real_name": "3.5기_한지훈",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "joon7092",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d1ef5d07-aa63-4e28-8212-5b279199d3c3",
+			"type": "message",
+			"user": "U041B24P34G",
+			"text": "제 자리는 3층 321번 자리입니다!",
+			"ts": "1669865764.271879",
+			"files": [
+				{
+					"id": "F04CTET1WLF",
+					"created": 1669865752,
+					"timestamp": 1669865752,
+					"name": "img_1320.png",
+					"title": "img_1320.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 1,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U041B24P34G",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 824041,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04CTET1WLF-img_1320.png",
+					"url_private_download": "attachments/F04CTET1WLF-img_1320.png",
+					"original_h": 2778,
+					"original_w": 1284,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 166,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_480.png",
+					"thumb_480_w": 222,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_720.png",
+					"thumb_720_w": 333,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_960.png",
+					"thumb_960_w": 444,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04CTET1WLF-b18974c916/img_1320_1024.png",
+					"thumb_1024_w": 473,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U041B24P34G/F04CTET1WLF/img_1320.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04CTET1WLF-7946486544",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "psAKr",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "제 자리는 3층 321번 자리입니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/187937d12a502b5be9ec44013625d6be.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "3.5기_한지훈",
+				"real_name": "3.5기_한지훈",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "joon7092",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ab80bfce-34eb-4d2f-9e88-71260c2ffca0",
+			"type": "message",
+			"user": "U041B24P34G",
+			"ts": "1669865791.460299",
+			"files": [
+				{
+					"id": "F04DLL5Q1LH",
+					"created": 1669865785,
+					"timestamp": 1669865785,
+					"name": "20221201_123331.jpg",
+					"title": "20221201_123331.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U041B24P34G",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1130293,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04DLL5Q1LH-20221201_123331.jpg",
+					"url_private_download": "attachments/F04DLL5Q1LH-20221201_123331.jpg",
+					"original_h": 3024,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04DLL5Q1LH-eda7f11757/20221201_123331_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U041B24P34G/F04DLL5Q1LH/20221201_123331.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04DLL5Q1LH-5d52d63a34",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "w/72l",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": []
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/187937d12a502b5be9ec44013625d6be.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "3.5기_한지훈",
+				"real_name": "3.5기_한지훈",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "joon7092",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "1051f623-c66c-472e-936a-8c189d3df0f5",
+			"type": "message",
+			"user": "U02V5LU4ED7",
+			"text": "안녕하세요? 3기 학생회 임상수, 최광호 입니다.\n\n이번학기 종강파티는 `12월 26일(월)` 에 진행될 예정입니다!! :party_blob-2:\n\n구체적인 시간과 진행 계획은 아직 결정되지 않았으나 잠정적으로 지난 학기와 비슷할 것으로 예상됩니다.\n\n이번 종강파티에서 기존 재학생들은 2차 일정부터 참여할 것을 예상됩니다. (`12월 26일 21시 @낙성대 푸다기` 예정)\n종강파티 *2차 참석 투표는 따로 진행할 예정*입니다.(*전체 재학생 대상*)\n\n후기 지도교수 배정에 참여하는 인원들에 한하여 먼저 종강 파티 참석 여부를 확인하고자 합니다.\n\n위에 해당하시는 분들은 아래 투표로 참석 여부를 알려주시면 감사하겠습니다.(*지도 교수 배정 참여 인원만!*)\n\n[종강파티 잠정 일정]\n17:00~18:00 - 교수님들의 연구분야 소개 일정 with 연구실 미배정 인원 (대학원 302호)\n18:00~18:30 - 종강파티 장소 이동\n18:30~19:00 - 전체 참석 인원 착석 및 자유롭게 대화 및 음주 (고정석)\n19:00~20:00 - 오후 7시 경에 첫 번째 전체 자리 이동 (고정석)\n20:00~21:00 - 오후 8시 경에 두 번째 전체 자리 이동 (자유석)\n21:00~ - 뒷정리 및 2차 일정 진행",
+			"ts": "1669872204.841089",
+			"edited": {
+				"user": "U02V5LU4ED7",
+				"ts": "1669873452.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "blob-clap",
+					"count": 13,
+					"users": [
+						"U02ULBJGHF0",
+						"U02UCD2C9V5",
+						"U01PVEU1A07",
+						"U01QV1WAPL1",
+						"U0302PHUHME",
+						"U040MB432JW",
+						"U0302PLQ34Y",
+						"U01QNSM488Z",
+						"U040C40QE6T",
+						"U0302PK342C",
+						"U02UVAUFSRJ",
+						"U01Q1KFN4JK",
+						"U02ULBJR9GE"
+					]
+				},
+				{
+					"name": "slightly_smiling_face",
+					"count": 3,
+					"users": [
+						"U02V5LU4ED7",
+						"U02UCD2C9V5",
+						"U01Q1KFN4JK"
+					]
+				},
+				{
+					"name": "goodgun",
+					"count": 2,
+					"users": [
+						"U02UVAT3BPW",
+						"U040ENMBB1C"
+					]
+				},
+				{
+					"name": "captain",
+					"count": 2,
+					"users": [
+						"U02UVAT3BPW",
+						"U01QV1SQJ57"
+					]
+				},
+				{
+					"name": "heart",
+					"count": 1,
+					"users": [
+						"U02V5LU4ED7"
+					]
+				},
+				{
+					"name": "loudspeaker",
+					"count": 1,
+					"users": [
+						"U02V5LU4ED7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "prjP",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요? 3기 학생회 임상수, 최광호 입니다.\n\n이번학기 종강파티는 "
+								},
+								{
+									"type": "text",
+									"text": "12월 26일(월)",
+									"style": {
+										"code": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 에 진행될 예정입니다!! "
+								},
+								{
+									"type": "emoji",
+									"name": "party_blob-2",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n구체적인 시간과 진행 계획은 아직 결정되지 않았으나 잠정적으로 지난 학기와 비슷할 것으로 예상됩니다.\n\n이번 종강파티에서 기존 재학생들은 2차 일정부터 참여할 것을 예상됩니다. ("
+								},
+								{
+									"type": "text",
+									"text": "12월 26일 21시 @낙성대 푸다기",
+									"style": {
+										"code": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 예정)\n종강파티 "
+								},
+								{
+									"type": "text",
+									"text": "2차 참석 투표는 따로 진행할 예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "입니다.("
+								},
+								{
+									"type": "text",
+									"text": "전체 재학생 대상",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")\n\n후기 지도교수 배정에 참여하는 인원들에 한하여 먼저 종강 파티 참석 여부를 확인하고자 합니다.\n\n위에 해당하시는 분들은 아래 투표로 참석 여부를 알려주시면 감사하겠습니다.("
+								},
+								{
+									"type": "text",
+									"text": "지도 교수 배정 참여 인원만!",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")\n\n[종강파티 잠정 일정]\n17:00~18:00 - 교수님들의 연구분야 소개 일정 with 연구실 미배정 인원 (대학원 302호)\n18:00~18:30 - 종강파티 장소 이동\n18:30~19:00 - 전체 참석 인원 착석 및 자유롭게 대화 및 음주 (고정석)\n19:00~20:00 - 오후 7시 경에 첫 번째 전체 자리 이동 (고정석)\n20:00~21:00 - 오후 8시 경에 두 번째 전체 자리 이동 (자유석)\n21:00~ - 뒷정리 및 2차 일정 진행"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/8adbe29d761f8c7d83a4319eb814df6b.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "임상수",
+				"real_name": "임상수",
+				"display_name": "3기_임상수",
+				"team": "T01QA5S537V",
+				"name": "vetyss91",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

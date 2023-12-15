@@ -1,214 +1,216 @@
-[
-  {
-    "client_msg_id": "c0ae8563-a674-419d-ba82-b0a080df3c4c",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e \u0026lt;2021학년도 2학기 지도교수 선정 관련\u0026gt;\n\n2021학년도 2학기 지도교수 선정과 관련하여 미선정 학생분들께 메일 드렸습니다. 확인하여 주시고 미선정이신데 메일을 받지 못하신 경우 메일 주시기 바랍니다.\n담당자: 김민서 (\u003cmailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr\u003e, 880-1331)",
-    "ts": "1638318940.090400",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "KBva",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c2021학년도 2학기 지도교수 선정 관련\u003e\n\n2021학년도 2학기 지도교수 선정과 관련하여 미선정 학생분들께 메일 드렸습니다. 확인하여 주시고 미선정이신데 메일을 받지 못하신 경우 메일 주시기 바랍니다.\n담당자: 김민서 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:pocahontas@snu.ac.kr",
-                "text": "pocahontas@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 880-1331)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "f2ca5e6f-8611-46b9-a3cf-cadc6635ac6c",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "~크리스마스 씰 판매 안내~:blob-grin: (판매완료)\n\n~'놀면뭐하니'의 국민MC 유재석 캐릭터의 키링으로 제작된 크리스마스씰을 판매하고 있습니다.~\n~혹시 관심있으신 분들은 DM주세요 ! (판매가격: 5,000원, 계좌이체도 가능합니다 !)~",
-    "ts": "1638320830.092400",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1638426313.000000"
-    },
-    "files": [
-      {
-        "id": "F02PFUX8VBK",
-        "created": 1638320825,
-        "timestamp": 1638320825,
-        "name": "크리스마스씰.jpg",
-        "title": "크리스마스씰.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3168664,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02PFUX8VBK-크리스마스씰.jpg",
-        "url_private_download": "attachments/F02PFUX8VBK-크리스마스씰.jpg",
-        "original_h": 4032,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02PFUX8VBK/__________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02PFUX8VBK-0b946f85a3",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bZr",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "크리스마스 씰 판매 안내",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "blob-grin",
-                "skin_tone": 0,
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(판매완료)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "'놀면뭐하니'의 국민MC 유재석 캐릭터의 키링으로 제작된 크리스마스씰을 판매하고 있습니다.",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "혹시 관심있으신 분들은 DM주세요 ! (판매가격: 5,000원, 계좌이체도 가능합니다 !)",
-                "style": {
-                  "strike": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "c0ae8563-a674-419d-ba82-b0a080df3c4c",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> &lt;2021학년도 2학기 지도교수 선정 관련&gt;\n\n2021학년도 2학기 지도교수 선정과 관련하여 미선정 학생분들께 메일 드렸습니다. 확인하여 주시고 미선정이신데 메일을 받지 못하신 경우 메일 주시기 바랍니다.\n담당자: 김민서 (<mailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr>, 880-1331)",
+			"ts": "1638318940.090400",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "KBva",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " <2021학년도 2학기 지도교수 선정 관련>\n\n2021학년도 2학기 지도교수 선정과 관련하여 미선정 학생분들께 메일 드렸습니다. 확인하여 주시고 미선정이신데 메일을 받지 못하신 경우 메일 주시기 바랍니다.\n담당자: 김민서 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:pocahontas@snu.ac.kr",
+									"text": "pocahontas@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 880-1331)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "f2ca5e6f-8611-46b9-a3cf-cadc6635ac6c",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "~크리스마스 씰 판매 안내~:blob-grin: (판매완료)\n\n~'놀면뭐하니'의 국민MC 유재석 캐릭터의 키링으로 제작된 크리스마스씰을 판매하고 있습니다.~\n~혹시 관심있으신 분들은 DM주세요 ! (판매가격: 5,000원, 계좌이체도 가능합니다 !)~",
+			"ts": "1638320830.092400",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1638426313.000000"
+			},
+			"files": [
+				{
+					"id": "F02PFUX8VBK",
+					"created": 1638320825,
+					"timestamp": 1638320825,
+					"name": "크리스마스씰.jpg",
+					"title": "크리스마스씰.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3168664,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02PFUX8VBK-크리스마스씰.jpg",
+					"url_private_download": "attachments/F02PFUX8VBK-크리스마스씰.jpg",
+					"original_h": 4032,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02PFUX8VBK-0b9474a928/___________________1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02PFUX8VBK/__________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02PFUX8VBK-0b946f85a3",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bZr",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "크리스마스 씰 판매 안내",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "blob-grin",
+									"skin_tone": 0,
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(판매완료)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "'놀면뭐하니'의 국민MC 유재석 캐릭터의 키링으로 제작된 크리스마스씰을 판매하고 있습니다.",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "혹시 관심있으신 분들은 DM주세요 ! (판매가격: 5,000원, 계좌이체도 가능합니다 !)",
+									"style": {
+										"strike": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,102 +1,104 @@
-[
-  {
-    "client_msg_id": "513b774c-ba4c-41da-ac59-aad796a626cd",
-    "type": "message",
-    "user": "U02V5LTPGRX",
-    "text": "연구공원 메뉴는 어디에 있는지 아무도 모르는 것 같아요ㅜㅜ",
-    "ts": "1652517579.810739",
-    "thread_ts": "1652465268.665629",
-    "parent_user_id": "U02UT1Y2UJW",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "NeS",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "연구공원 메뉴는 어디에 있는지 아무도 모르는 것 같아요ㅜㅜ"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "Daye",
-      "real_name": "Daye Lee",
-      "display_name": "3기_이다예",
-      "team": "T01QA5S537V",
-      "name": "gbyou1694",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "19e6332a-9ccb-4038-bedf-35ec2309e77a",
-    "type": "message",
-    "user": "U02UT1Y2UJW",
-    "text": "\u003c@U02V5LTPGRX\u003e 네 ㅠㅠ 식당 측에 문의해봐야겠네요",
-    "ts": "1652541012.104799",
-    "thread_ts": "1652465268.665629",
-    "parent_user_id": "U02UT1Y2UJW",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "AwtLJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "user",
-                "user_id": "U02V5LTPGRX"
-              },
-              {
-                "type": "text",
-                "text": " 네 ㅠㅠ 식당 측에 문의해봐야겠네요"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/32f847ec32c79ee2beb412338ef86d76.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
-      "first_name": "3기_박성일",
-      "real_name": "3기_박성일",
-      "display_name": "3기_박성일",
-      "team": "T01QA5S537V",
-      "name": "athjk3",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "513b774c-ba4c-41da-ac59-aad796a626cd",
+			"type": "message",
+			"user": "U02V5LTPGRX",
+			"text": "연구공원 메뉴는 어디에 있는지 아무도 모르는 것 같아요ㅜㅜ",
+			"ts": "1652517579.810739",
+			"thread_ts": "1652465268.665629",
+			"parent_user_id": "U02UT1Y2UJW",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "NeS",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "연구공원 메뉴는 어디에 있는지 아무도 모르는 것 같아요ㅜㅜ"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "Daye",
+				"real_name": "Daye Lee",
+				"display_name": "3기_이다예",
+				"team": "T01QA5S537V",
+				"name": "gbyou1694",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "19e6332a-9ccb-4038-bedf-35ec2309e77a",
+			"type": "message",
+			"user": "U02UT1Y2UJW",
+			"text": "<@U02V5LTPGRX> 네 ㅠㅠ 식당 측에 문의해봐야겠네요",
+			"ts": "1652541012.104799",
+			"thread_ts": "1652465268.665629",
+			"parent_user_id": "U02UT1Y2UJW",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "AwtLJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "user",
+									"user_id": "U02V5LTPGRX"
+								},
+								{
+									"type": "text",
+									"text": " 네 ㅠㅠ 식당 측에 문의해봐야겠네요"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/32f847ec32c79ee2beb412338ef86d76.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+				"first_name": "3기_박성일",
+				"real_name": "3기_박성일",
+				"display_name": "3기_박성일",
+				"team": "T01QA5S537V",
+				"name": "athjk3",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

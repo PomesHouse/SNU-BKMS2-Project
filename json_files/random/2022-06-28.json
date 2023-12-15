@@ -1,164 +1,166 @@
-[
-  {
-    "client_msg_id": "70072048-3e3b-4d61-a8e1-9c786da03c6c",
-    "type": "message",
-    "user": "U0361QTEZMG",
-    "text": "우리나라에도 kaggle같은 플랫폼이 있네요. 재미있을것 같아요.\n\u003chttps://dacon.io/\u003e",
-    "ts": "1656379499.290089",
-    "thread_ts": "1656379499.290089",
-    "attachments": [
-      {
-        "fallback": "데이터사이언티스트 AI 컴피티션",
-        "id": 1,
-        "title": "데이터사이언티스트 AI 컴피티션",
-        "title_link": "https://dacon.io/",
-        "text": "5만 AI팀이 협업하는 인공지능 플랫폼",
-        "image_url": "https://dacon-images.s3.ap-northeast-2.amazonaws.com/dacon-2021.png",
-        "service_name": "dacon.io",
-        "service_icon": "https://dacon.io/favicon.ico",
-        "from_url": "https://dacon.io/",
-        "original_url": "https://dacon.io/",
-        "blocks": null
-      }
-    ],
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U0361QTEZMG",
-        "ts": "1656379512.045799"
-      }
-    ],
-    "latest_reply": "1656379512.045799",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 22,
-        "users": [
-          "U02UQ4CKE2H",
-          "U02UT1YNY6N",
-          "U01R688KH6U",
-          "U02UT2U1PFV",
-          "U02UT1XABT4",
-          "U02UVAUFSRJ",
-          "U01QGKC5W03",
-          "U0302PLQ34Y",
-          "U02UVAT3BPW",
-          "U02ULBJR9GE",
-          "U01QGJUT403",
-          "U02UT1XUGFL",
-          "U02UVATUSLU",
-          "U02V5LT4DLZ",
-          "U01QGKCJY3V",
-          "U01R678KWP2",
-          "U01R689L5KJ",
-          "U02B19BV9ST",
-          "U0302PHUHME",
-          "U040ZVD3C0H",
-          "U0302PL7F7S",
-          "U040SPGC01Y"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "5LR",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "우리나라에도 kaggle같은 플랫폼이 있네요. 재미있을것 같아요.\n"
-              },
-              {
-                "type": "link",
-                "url": "https://dacon.io/",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/35f5044bbe94859089465570a4e20139.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
-      "first_name": "Taesup",
-      "real_name": "Taesup Kim",
-      "display_name": "Taesup Kim",
-      "team": "T01QA5S537V",
-      "name": "taesup.kim",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U0361QTEZMG"
-    ]
-  },
-  {
-    "client_msg_id": "aef975c7-3875-40fd-be14-917675873dee",
-    "type": "message",
-    "user": "U0361QTEZMG",
-    "text": "제 이전 직장 동료가 여기 CDO로 있으니까, 관련해서 궁금하신 내용있으시면 알려주세요.",
-    "ts": "1656379512.045799",
-    "thread_ts": "1656379499.290089",
-    "parent_user_id": "U0361QTEZMG",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "l=14L",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "제 이전 직장 동료가 여기 CDO로 있으니까, 관련해서 궁금하신 내용있으시면 알려주세요."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/35f5044bbe94859089465570a4e20139.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
-      "first_name": "Taesup",
-      "real_name": "Taesup Kim",
-      "display_name": "Taesup Kim",
-      "team": "T01QA5S537V",
-      "name": "taesup.kim",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "70072048-3e3b-4d61-a8e1-9c786da03c6c",
+			"type": "message",
+			"user": "U0361QTEZMG",
+			"text": "우리나라에도 kaggle같은 플랫폼이 있네요. 재미있을것 같아요.\n<https://dacon.io/>",
+			"ts": "1656379499.290089",
+			"thread_ts": "1656379499.290089",
+			"attachments": [
+				{
+					"fallback": "데이터사이언티스트 AI 컴피티션",
+					"id": 1,
+					"title": "데이터사이언티스트 AI 컴피티션",
+					"title_link": "https://dacon.io/",
+					"text": "5만 AI팀이 협업하는 인공지능 플랫폼",
+					"image_url": "https://dacon-images.s3.ap-northeast-2.amazonaws.com/dacon-2021.png",
+					"service_name": "dacon.io",
+					"service_icon": "https://dacon.io/favicon.ico",
+					"from_url": "https://dacon.io/",
+					"original_url": "https://dacon.io/",
+					"blocks": null
+				}
+			],
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U0361QTEZMG",
+					"ts": "1656379512.045799"
+				}
+			],
+			"latest_reply": "1656379512.045799",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 22,
+					"users": [
+						"U02UQ4CKE2H",
+						"U02UT1YNY6N",
+						"U01R688KH6U",
+						"U02UT2U1PFV",
+						"U02UT1XABT4",
+						"U02UVAUFSRJ",
+						"U01QGKC5W03",
+						"U0302PLQ34Y",
+						"U02UVAT3BPW",
+						"U02ULBJR9GE",
+						"U01QGJUT403",
+						"U02UT1XUGFL",
+						"U02UVATUSLU",
+						"U02V5LT4DLZ",
+						"U01QGKCJY3V",
+						"U01R678KWP2",
+						"U01R689L5KJ",
+						"U02B19BV9ST",
+						"U0302PHUHME",
+						"U040ZVD3C0H",
+						"U0302PL7F7S",
+						"U040SPGC01Y"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "5LR",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "우리나라에도 kaggle같은 플랫폼이 있네요. 재미있을것 같아요.\n"
+								},
+								{
+									"type": "link",
+									"url": "https://dacon.io/",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/35f5044bbe94859089465570a4e20139.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+				"first_name": "Taesup",
+				"real_name": "Taesup Kim",
+				"display_name": "Taesup Kim",
+				"team": "T01QA5S537V",
+				"name": "taesup.kim",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U0361QTEZMG"
+			]
+		},
+		{
+			"client_msg_id": "aef975c7-3875-40fd-be14-917675873dee",
+			"type": "message",
+			"user": "U0361QTEZMG",
+			"text": "제 이전 직장 동료가 여기 CDO로 있으니까, 관련해서 궁금하신 내용있으시면 알려주세요.",
+			"ts": "1656379512.045799",
+			"thread_ts": "1656379499.290089",
+			"parent_user_id": "U0361QTEZMG",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "l=14L",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "제 이전 직장 동료가 여기 CDO로 있으니까, 관련해서 궁금하신 내용있으시면 알려주세요."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/35f5044bbe94859089465570a4e20139.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+				"first_name": "Taesup",
+				"real_name": "Taesup Kim",
+				"display_name": "Taesup Kim",
+				"team": "T01QA5S537V",
+				"name": "taesup.kim",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

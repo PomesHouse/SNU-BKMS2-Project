@@ -1,481 +1,483 @@
-[
-  {
-    "client_msg_id": "e492c056-dec6-401e-8e84-e65c56377ddf",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;McDonnell International Scholars Academy 장학프로그램 설명회 홍보 안내\u0026gt;*\n\n미국 세인트루이스 워싱턴대학교(Washington University in St. Louis, WUSTL)의 맥도넬 아카데미(McDonnell International Scholars Academy) 대학원 장학프로그램 설명회를 아래와 같이 개최하오니,\n관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n\n 1. 행사명 : 맥도넬 아카데미 장학 설명회\n 2. 일 시 : 2021. 11. 23.(화) 11:00~12:00 (10:50까지 입장 요망)\n 3. 장 소 : ZOOM 회의실 [링크] \u003chttps://wustl.zoom.us/j/91634172784?pwd=MjZtYUEzL1NPamlNT1B6UmRCSkd5Zz09\u003e\n 4. 대 상 : Washington University in St. Louis의 대학원 박사학위 과정 진학(지원) 예정자\n 5. 내 용 : 맥도넬 아카데미 지원 방법 및 절차 등 소개\n6. 발표자/문의 : 맥도넬 아카데미 전영신 교수(\u003cmailto:ysjun@wustl.edu|ysjun@wustl.edu\u003e)",
-    "ts": "1636422089.038700",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1636422104.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "4v1=",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003cMcDonnell International Scholars Academy 장학프로그램 설명회 홍보 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n미국 세인트루이스 워싱턴대학교(Washington University in St. Louis, WUSTL)의 맥도넬 아카데미(McDonnell International Scholars Academy) 대학원 장학프로그램 설명회를 아래와 같이 개최하오니,\n관심있는 학생분들의 많은 참여 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n 1. 행사명 : 맥도넬 아카데미 장학 설명회\n 2. 일 시 : 2021. 11. 23.(화) 11:00~12:00 (10:50까지 입장 요망)\n 3. 장 소 : ZOOM 회의실 [링크] "
-              },
-              {
-                "type": "link",
-                "url": "https://wustl.zoom.us/j/91634172784?pwd=MjZtYUEzL1NPamlNT1B6UmRCSkd5Zz09",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n 4. 대 상 : Washington University in St. Louis의 대학원 박사학위 과정 진학(지원) 예정자\n 5. 내 용 : 맥도넬 아카데미 지원 방법 및 절차 등 소개\n6. 발표자/문의 : 맥도넬 아카데미 전영신 교수("
-              },
-              {
-                "type": "link",
-                "url": "mailto:ysjun@wustl.edu",
-                "text": "ysjun@wustl.edu"
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "1611095f-06e2-471e-84a9-8c0fba2f0228",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt; 제2회 SNU 토크콘서트(총장님과 함께 그려보는 2040년의 서울대) 개최 안내 \u0026gt;*\n\n10월부터 수업을 대면으로 실시함에 따라 다양한 구성원의 참여를 통하여 우리 대학의 정상화 및 미래 설계를 위한 공감대를 형성하고자 아래와 같이 '제2회 SNU 토크콘서트(총장님과 함께 그려보는 2040년의 서울대)'를 개최할 예정입니다.\n관심있는 학생분들의 많은 참여 바랍니다 :allo-tongue:\n\n\n1. 일시: 2021. 11. 11.(목) 16:00 ~ 17:30\n2. 장소: 문화관 중강당 및 온라인(ZOOM, Youtube) 생중계 - 온·오프라인 하이브리드\n3. 주제: 총장님과 함께 그려보는 2040년의 서울대\n4. 참석인원: 문화관 중강당(선착순 200명), ZOOM(선착순 49명), Youtube(제한 없음)\n5. 일정: \u0026lt;붙임\u0026gt; 홍보 포스터 참조\n6. 참여신청:(링크) \u003chttps://forms.gle/6r9io7LDq5qTtpxh7\u003e / (홈페이지) \u003chttp://snutalk.co.kr|snutalk.co.kr\u003e",
-    "ts": "1636423486.040300",
-    "attachments": [
-      {
-        "fallback": "Google Docs: 제2회 SNU 토크콘서트: \"총장님과 함께 그려보는 2040년의 서울대\" 참가 신청",
-        "id": 1,
-        "title": "제2회 SNU 토크콘서트: \"총장님과 함께 그려보는 2040년의 서울대\" 참가 신청",
-        "title_link": "https://forms.gle/6r9io7LDq5qTtpxh7",
-        "text": "★ 참가자 선정 후 노쇼(NO-SHOW) 는 다른 학생뿐만 아니라 행사에도 피해를 끼칩니다. 신중하게 판단하시어 참가 신청하여 주시기 바랍니다 ★ 1. 일시: 2021. 11. 11.(목) 16:00~17:30 (15:30부터 입장 가능) 2. 장소: 문화관 중강당 및 온라인(ZOOM, Youtube) 3. 참석 대상: 아래 3가지 중 1가지 이상에 해당되는 서울대학교 학생(졸업생 제외) 1) 코로나19 백신접종 2차 접종완료 후 2주 경과자 2) 48시간 내 PCR검사 결과 음성 (구청 보건소 등에서 시행하는 검사로 학내 신속분자진단 검사와 다름) 3) 당일 교내 코로나19 신속분자진단 검사 결과 음성 (자연대 25-1동, 공대 301동, 경영대와 박물관 사이에서 검사 가능) 4. 참석 가능 인원 ★★실제 참가자 대상 기프티콘 및 다양한 경품 증정 예정★★ 1) 문화관 중강당: 선착순 200명 2) 온라인: ZOOM(선착순 49명) Youtube(인원 제한 없음. \"서울대학교\" 검색) 5. 참석 패널: 총장님, 강정구 본부장님(카카오엔터테인먼트), 변지민 웹툰작가님(무적핑크), 조동준 교수님(KBS 특파원 보고 세계는 지금 출연), 권지현 학생(前 축제하는 사람들 대표), 권재윤(SNU 토크콘서트 공모전 대상 수상자)",
-        "image_url": "https://lh3.googleusercontent.com/w8BkI3-J__g7CnbwhhcuNfqrxZScWn618FR_OmnUYNCLyTfFYBmH_FjOtrJHaLslF1O9LV3YzFM",
-        "service_name": "Google Docs",
-        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
-        "from_url": "https://forms.gle/6r9io7LDq5qTtpxh7",
-        "original_url": "https://forms.gle/6r9io7LDq5qTtpxh7",
-        "blocks": null
-      }
-    ],
-    "files": [
-      {
-        "id": "F02LPK8357W",
-        "created": 1636423482,
-        "timestamp": 1636423482,
-        "name": "제2회 SNU 토크콘서트 포스터.jpg",
-        "title": "제2회 SNU 토크콘서트 포스터.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 647991,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02LPK8357W-제2회 SNU 토크콘서트 포스터.jpg",
-        "url_private_download": "attachments/F02LPK8357W-제2회 SNU 토크콘서트 포스터.jpg",
-        "original_h": 1415,
-        "original_w": 1000,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 254,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________960.jpg",
-        "thumb_960_w": 678,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02LPK8357W/___2____snu__________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02LPK8357W-f49c5b1e6a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "39O",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 제2회 SNU 토크콘서트(총장님과 함께 그려보는 2040년의 서울대) 개최 안내 \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n10월부터 수업을 대면으로 실시함에 따라 다양한 구성원의 참여를 통하여 우리 대학의 정상화 및 미래 설계를 위한 공감대를 형성하고자 아래와 같이 '제2회 SNU 토크콘서트(총장님과 함께 그려보는 2040년의 서울대)'를 개최할 예정입니다.\n관심있는 학생분들의 많은 참여 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "allo-tongue",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n\n1. 일시: 2021. 11. 11.(목) 16:00 ~ 17:30\n2. 장소: 문화관 중강당 및 온라인(ZOOM, Youtube) 생중계 - 온·오프라인 하이브리드\n3. 주제: 총장님과 함께 그려보는 2040년의 서울대\n4. 참석인원: 문화관 중강당(선착순 200명), ZOOM(선착순 49명), Youtube(제한 없음)\n5. 일정: \u003c붙임\u003e 홍보 포스터 참조\n6. 참여신청:(링크) "
-              },
-              {
-                "type": "link",
-                "url": "https://forms.gle/6r9io7LDq5qTtpxh7",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": " / (홈페이지) "
-              },
-              {
-                "type": "link",
-                "url": "http://snutalk.co.kr",
-                "text": "snutalk.co.kr"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "06537dd9-3dc9-465c-b6b3-66a9c6924ef5",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt; 1. 아시아대학연맹 2021 AUA Overseas Study Program 신청 안내(Shaping the Future Generation for Life Beyond COVID-19) \u0026gt;*\n\n 아시아대학연맹(AUA) 회원교에서 진행하는「2021 AUA Overseas Study Program」참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 지원 바랍니다.\n  1. 프로그램명: 2021 아시아대학연맹(AUA) Overseas Study Program (주제: Shaping the Future Generation for Life Beyond COVID-19)\n  2. 기간: 2022년 2월 28일(월) ~ 3월 4일(금), 전 과정 온라인 진행\n  3. 주관: 말레이시아 Universiti Malaya\n  4. 선발인원 및 지원자격\n    가. 선발인원: 3명\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n      3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n    가. 제출서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일(\u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e)제출\n    나. 제출기한: 2021년 11월 17일(수)\n  6. 문의처: 국제협력본부 안시헌 (\u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e, 내선 8636)\n\n*\u0026lt; 2. 아시아대학연맹 2021 AUA Overseas Study Program 신청 안내(Artificial Intelligence in Health Science) \u0026gt;*\n아시아대학연맹(AUA) 회원교에서 진행하는「2021 AUA Overseas Study Program」참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 지원 바랍니다.\n  1. 프로그램명: 2021 아시아대학연맹(AUA) Overseas Study Program (주제: Artificial Intelligence in Health Science)\n  2. 기간: 2021년 12월 1일(수) ~ 12월 3일(금), *전 과정 온라인 진행*\n  3. 주관: 말레이시아 Universiti Malaya\n  4. 선발인원 및 지원자격\n    가. 선발인원: 1명(타회원교 참가인원 미달시 2명)\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n   가. 제출서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일 제출(\u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e)\n   나. 제출기한: 2021년 11월 19일(금)\n 6. 문의처: 국제협력본부 안시헌(Tel. 880-8636, \u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e)\n\n관련하여 자세한 내용은 첨부 파일 확인 부탁 드립니다 :allo-tongue:",
-    "ts": "1636423972.042700",
-    "files": [
-      {
-        "id": "F02L6NS4KJT",
-        "created": 1636423956,
-        "timestamp": 1636423956,
-        "name": "1. Shaping the Future Generation for Life Beyond COVID-19 안내문.pdf",
-        "title": "1. Shaping the Future Generation for Life Beyond COVID-19 안내문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1889901,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02L6NS4KJT-1. Shaping the Future Generation for Life Beyond COVID-19 안내문.pdf",
-        "url_private_download": "attachments/F02L6NS4KJT-1. Shaping the Future Generation for Life Beyond COVID-19 안내문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02L6NS4KJT/1._shaping_the_future_generation_for_life_beyond_covid-19__________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02L6NS4KJT-4ff0077e44",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02LPKR6NKE",
-        "created": 1636423959,
-        "timestamp": 1636423959,
-        "name": "2. Artificial Intelligence in Health Science 안내문.pdf",
-        "title": "2. Artificial Intelligence in Health Science 안내문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 243695,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02LPKR6NKE-2. Artificial Intelligence in Health Science 안내문.pdf",
-        "url_private_download": "attachments/F02LPKR6NKE-2. Artificial Intelligence in Health Science 안내문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02LPKR6NKE/2._artificial_intelligence_in_health_science__________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02LPKR6NKE-ee9e5f63d6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "XHy",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 1. 아시아대학연맹 2021 AUA Overseas Study Program 신청 안내(Shaping the Future Generation for Life Beyond COVID-19) \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n 아시아대학연맹(AUA) 회원교에서 진행하는「2021 AUA Overseas Study Program」참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 지원 바랍니다.\n  1. 프로그램명: 2021 아시아대학연맹(AUA) Overseas Study Program (주제: Shaping the Future Generation for Life Beyond COVID-19)\n  2. 기간: 2022년 2월 28일(월) ~ 3월 4일(금), 전 과정 온라인 진행\n  3. 주관: 말레이시아 Universiti Malaya\n  4. 선발인원 및 지원자격\n    가. 선발인원: 3명\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n      3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n    가. 제출서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일("
-              },
-              {
-                "type": "link",
-                "url": "mailto:ahnsihun@snu.ac.kr",
-                "text": "ahnsihun@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")제출\n    나. 제출기한: 2021년 11월 17일(수)\n  6. 문의처: 국제협력본부 안시헌 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:ahnsihun@snu.ac.kr",
-                "text": "ahnsihun@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ", 내선 8636)\n\n"
-              },
-              {
-                "type": "text",
-                "text": "\u003c 2. 아시아대학연맹 2021 AUA Overseas Study Program 신청 안내(Artificial Intelligence in Health Science) \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n아시아대학연맹(AUA) 회원교에서 진행하는「2021 AUA Overseas Study Program」참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 지원 바랍니다.\n  1. 프로그램명: 2021 아시아대학연맹(AUA) Overseas Study Program (주제: Artificial Intelligence in Health Science)\n  2. 기간: 2021년 12월 1일(수) ~ 12월 3일(금), "
-              },
-              {
-                "type": "text",
-                "text": "전 과정 온라인 진행",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  3. 주관: 말레이시아 Universiti Malaya\n  4. 선발인원 및 지원자격\n    가. 선발인원: 1명(타회원교 참가인원 미달시 2명)\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n   가. 제출서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일 제출("
-              },
-              {
-                "type": "link",
-                "url": "mailto:ahnsihun@snu.ac.kr",
-                "text": "ahnsihun@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n   나. 제출기한: 2021년 11월 19일(금)\n 6. 문의처: 국제협력본부 안시헌(Tel. 880-8636, "
-              },
-              {
-                "type": "link",
-                "url": "mailto:ahnsihun@snu.ac.kr",
-                "text": "ahnsihun@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n\n관련하여 자세한 내용은 첨부 파일 확인 부탁 드립니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "allo-tongue",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "e492c056-dec6-401e-8e84-e65c56377ddf",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;McDonnell International Scholars Academy 장학프로그램 설명회 홍보 안내&gt;*\n\n미국 세인트루이스 워싱턴대학교(Washington University in St. Louis, WUSTL)의 맥도넬 아카데미(McDonnell International Scholars Academy) 대학원 장학프로그램 설명회를 아래와 같이 개최하오니,\n관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n\n 1. 행사명 : 맥도넬 아카데미 장학 설명회\n 2. 일 시 : 2021. 11. 23.(화) 11:00~12:00 (10:50까지 입장 요망)\n 3. 장 소 : ZOOM 회의실 [링크] <https://wustl.zoom.us/j/91634172784?pwd=MjZtYUEzL1NPamlNT1B6UmRCSkd5Zz09>\n 4. 대 상 : Washington University in St. Louis의 대학원 박사학위 과정 진학(지원) 예정자\n 5. 내 용 : 맥도넬 아카데미 지원 방법 및 절차 등 소개\n6. 발표자/문의 : 맥도넬 아카데미 전영신 교수(<mailto:ysjun@wustl.edu|ysjun@wustl.edu>)",
+			"ts": "1636422089.038700",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1636422104.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "4v1=",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<McDonnell International Scholars Academy 장학프로그램 설명회 홍보 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n미국 세인트루이스 워싱턴대학교(Washington University in St. Louis, WUSTL)의 맥도넬 아카데미(McDonnell International Scholars Academy) 대학원 장학프로그램 설명회를 아래와 같이 개최하오니,\n관심있는 학생분들의 많은 참여 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n 1. 행사명 : 맥도넬 아카데미 장학 설명회\n 2. 일 시 : 2021. 11. 23.(화) 11:00~12:00 (10:50까지 입장 요망)\n 3. 장 소 : ZOOM 회의실 [링크] "
+								},
+								{
+									"type": "link",
+									"url": "https://wustl.zoom.us/j/91634172784?pwd=MjZtYUEzL1NPamlNT1B6UmRCSkd5Zz09",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n 4. 대 상 : Washington University in St. Louis의 대학원 박사학위 과정 진학(지원) 예정자\n 5. 내 용 : 맥도넬 아카데미 지원 방법 및 절차 등 소개\n6. 발표자/문의 : 맥도넬 아카데미 전영신 교수("
+								},
+								{
+									"type": "link",
+									"url": "mailto:ysjun@wustl.edu",
+									"text": "ysjun@wustl.edu"
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "1611095f-06e2-471e-84a9-8c0fba2f0228",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt; 제2회 SNU 토크콘서트(총장님과 함께 그려보는 2040년의 서울대) 개최 안내 &gt;*\n\n10월부터 수업을 대면으로 실시함에 따라 다양한 구성원의 참여를 통하여 우리 대학의 정상화 및 미래 설계를 위한 공감대를 형성하고자 아래와 같이 '제2회 SNU 토크콘서트(총장님과 함께 그려보는 2040년의 서울대)'를 개최할 예정입니다.\n관심있는 학생분들의 많은 참여 바랍니다 :allo-tongue:\n\n\n1. 일시: 2021. 11. 11.(목) 16:00 ~ 17:30\n2. 장소: 문화관 중강당 및 온라인(ZOOM, Youtube) 생중계 - 온·오프라인 하이브리드\n3. 주제: 총장님과 함께 그려보는 2040년의 서울대\n4. 참석인원: 문화관 중강당(선착순 200명), ZOOM(선착순 49명), Youtube(제한 없음)\n5. 일정: &lt;붙임&gt; 홍보 포스터 참조\n6. 참여신청:(링크) <https://forms.gle/6r9io7LDq5qTtpxh7> / (홈페이지) <http://snutalk.co.kr|snutalk.co.kr>",
+			"ts": "1636423486.040300",
+			"attachments": [
+				{
+					"fallback": "Google Docs: 제2회 SNU 토크콘서트: \"총장님과 함께 그려보는 2040년의 서울대\" 참가 신청",
+					"id": 1,
+					"title": "제2회 SNU 토크콘서트: \"총장님과 함께 그려보는 2040년의 서울대\" 참가 신청",
+					"title_link": "https://forms.gle/6r9io7LDq5qTtpxh7",
+					"text": "★ 참가자 선정 후 노쇼(NO-SHOW) 는 다른 학생뿐만 아니라 행사에도 피해를 끼칩니다. 신중하게 판단하시어 참가 신청하여 주시기 바랍니다 ★ 1. 일시: 2021. 11. 11.(목) 16:00~17:30 (15:30부터 입장 가능) 2. 장소: 문화관 중강당 및 온라인(ZOOM, Youtube) 3. 참석 대상: 아래 3가지 중 1가지 이상에 해당되는 서울대학교 학생(졸업생 제외) 1) 코로나19 백신접종 2차 접종완료 후 2주 경과자 2) 48시간 내 PCR검사 결과 음성 (구청 보건소 등에서 시행하는 검사로 학내 신속분자진단 검사와 다름) 3) 당일 교내 코로나19 신속분자진단 검사 결과 음성 (자연대 25-1동, 공대 301동, 경영대와 박물관 사이에서 검사 가능) 4. 참석 가능 인원 ★★실제 참가자 대상 기프티콘 및 다양한 경품 증정 예정★★ 1) 문화관 중강당: 선착순 200명 2) 온라인: ZOOM(선착순 49명) Youtube(인원 제한 없음. \"서울대학교\" 검색) 5. 참석 패널: 총장님, 강정구 본부장님(카카오엔터테인먼트), 변지민 웹툰작가님(무적핑크), 조동준 교수님(KBS 특파원 보고 세계는 지금 출연), 권지현 학생(前 축제하는 사람들 대표), 권재윤(SNU 토크콘서트 공모전 대상 수상자)",
+					"image_url": "https://lh3.googleusercontent.com/w8BkI3-J__g7CnbwhhcuNfqrxZScWn618FR_OmnUYNCLyTfFYBmH_FjOtrJHaLslF1O9LV3YzFM",
+					"service_name": "Google Docs",
+					"service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+					"from_url": "https://forms.gle/6r9io7LDq5qTtpxh7",
+					"original_url": "https://forms.gle/6r9io7LDq5qTtpxh7",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F02LPK8357W",
+					"created": 1636423482,
+					"timestamp": 1636423482,
+					"name": "제2회 SNU 토크콘서트 포스터.jpg",
+					"title": "제2회 SNU 토크콘서트 포스터.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 647991,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02LPK8357W-제2회 SNU 토크콘서트 포스터.jpg",
+					"url_private_download": "attachments/F02LPK8357W-제2회 SNU 토크콘서트 포스터.jpg",
+					"original_h": 1415,
+					"original_w": 1000,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 254,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________960.jpg",
+					"thumb_960_w": 678,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02LPK8357W-f45d48b105/___2____snu___________________________1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02LPK8357W/___2____snu__________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02LPK8357W-f49c5b1e6a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "39O",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 제2회 SNU 토크콘서트(총장님과 함께 그려보는 2040년의 서울대) 개최 안내 >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n10월부터 수업을 대면으로 실시함에 따라 다양한 구성원의 참여를 통하여 우리 대학의 정상화 및 미래 설계를 위한 공감대를 형성하고자 아래와 같이 '제2회 SNU 토크콘서트(총장님과 함께 그려보는 2040년의 서울대)'를 개최할 예정입니다.\n관심있는 학생분들의 많은 참여 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "allo-tongue",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n\n1. 일시: 2021. 11. 11.(목) 16:00 ~ 17:30\n2. 장소: 문화관 중강당 및 온라인(ZOOM, Youtube) 생중계 - 온·오프라인 하이브리드\n3. 주제: 총장님과 함께 그려보는 2040년의 서울대\n4. 참석인원: 문화관 중강당(선착순 200명), ZOOM(선착순 49명), Youtube(제한 없음)\n5. 일정: <붙임> 홍보 포스터 참조\n6. 참여신청:(링크) "
+								},
+								{
+									"type": "link",
+									"url": "https://forms.gle/6r9io7LDq5qTtpxh7",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": " / (홈페이지) "
+								},
+								{
+									"type": "link",
+									"url": "http://snutalk.co.kr",
+									"text": "snutalk.co.kr"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "06537dd9-3dc9-465c-b6b3-66a9c6924ef5",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt; 1. 아시아대학연맹 2021 AUA Overseas Study Program 신청 안내(Shaping the Future Generation for Life Beyond COVID-19) &gt;*\n\n 아시아대학연맹(AUA) 회원교에서 진행하는「2021 AUA Overseas Study Program」참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 지원 바랍니다.\n  1. 프로그램명: 2021 아시아대학연맹(AUA) Overseas Study Program (주제: Shaping the Future Generation for Life Beyond COVID-19)\n  2. 기간: 2022년 2월 28일(월) ~ 3월 4일(금), 전 과정 온라인 진행\n  3. 주관: 말레이시아 Universiti Malaya\n  4. 선발인원 및 지원자격\n    가. 선발인원: 3명\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n      3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n    가. 제출서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일(<mailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr>)제출\n    나. 제출기한: 2021년 11월 17일(수)\n  6. 문의처: 국제협력본부 안시헌 (<mailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr>, 내선 8636)\n\n*&lt; 2. 아시아대학연맹 2021 AUA Overseas Study Program 신청 안내(Artificial Intelligence in Health Science) &gt;*\n아시아대학연맹(AUA) 회원교에서 진행하는「2021 AUA Overseas Study Program」참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 지원 바랍니다.\n  1. 프로그램명: 2021 아시아대학연맹(AUA) Overseas Study Program (주제: Artificial Intelligence in Health Science)\n  2. 기간: 2021년 12월 1일(수) ~ 12월 3일(금), *전 과정 온라인 진행*\n  3. 주관: 말레이시아 Universiti Malaya\n  4. 선발인원 및 지원자격\n    가. 선발인원: 1명(타회원교 참가인원 미달시 2명)\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n   가. 제출서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일 제출(<mailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr>)\n   나. 제출기한: 2021년 11월 19일(금)\n 6. 문의처: 국제협력본부 안시헌(Tel. 880-8636, <mailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr>)\n\n관련하여 자세한 내용은 첨부 파일 확인 부탁 드립니다 :allo-tongue:",
+			"ts": "1636423972.042700",
+			"files": [
+				{
+					"id": "F02L6NS4KJT",
+					"created": 1636423956,
+					"timestamp": 1636423956,
+					"name": "1. Shaping the Future Generation for Life Beyond COVID-19 안내문.pdf",
+					"title": "1. Shaping the Future Generation for Life Beyond COVID-19 안내문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1889901,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02L6NS4KJT-1. Shaping the Future Generation for Life Beyond COVID-19 안내문.pdf",
+					"url_private_download": "attachments/F02L6NS4KJT-1. Shaping the Future Generation for Life Beyond COVID-19 안내문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02L6NS4KJT/1._shaping_the_future_generation_for_life_beyond_covid-19__________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02L6NS4KJT-4ff0077e44",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02LPKR6NKE",
+					"created": 1636423959,
+					"timestamp": 1636423959,
+					"name": "2. Artificial Intelligence in Health Science 안내문.pdf",
+					"title": "2. Artificial Intelligence in Health Science 안내문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 243695,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02LPKR6NKE-2. Artificial Intelligence in Health Science 안내문.pdf",
+					"url_private_download": "attachments/F02LPKR6NKE-2. Artificial Intelligence in Health Science 안내문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02LPKR6NKE/2._artificial_intelligence_in_health_science__________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02LPKR6NKE-ee9e5f63d6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "XHy",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 1. 아시아대학연맹 2021 AUA Overseas Study Program 신청 안내(Shaping the Future Generation for Life Beyond COVID-19) >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n 아시아대학연맹(AUA) 회원교에서 진행하는「2021 AUA Overseas Study Program」참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 지원 바랍니다.\n  1. 프로그램명: 2021 아시아대학연맹(AUA) Overseas Study Program (주제: Shaping the Future Generation for Life Beyond COVID-19)\n  2. 기간: 2022년 2월 28일(월) ~ 3월 4일(금), 전 과정 온라인 진행\n  3. 주관: 말레이시아 Universiti Malaya\n  4. 선발인원 및 지원자격\n    가. 선발인원: 3명\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n      3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n    가. 제출서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일("
+								},
+								{
+									"type": "link",
+									"url": "mailto:ahnsihun@snu.ac.kr",
+									"text": "ahnsihun@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")제출\n    나. 제출기한: 2021년 11월 17일(수)\n  6. 문의처: 국제협력본부 안시헌 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:ahnsihun@snu.ac.kr",
+									"text": "ahnsihun@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ", 내선 8636)\n\n"
+								},
+								{
+									"type": "text",
+									"text": "< 2. 아시아대학연맹 2021 AUA Overseas Study Program 신청 안내(Artificial Intelligence in Health Science) >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n아시아대학연맹(AUA) 회원교에서 진행하는「2021 AUA Overseas Study Program」참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 지원 바랍니다.\n  1. 프로그램명: 2021 아시아대학연맹(AUA) Overseas Study Program (주제: Artificial Intelligence in Health Science)\n  2. 기간: 2021년 12월 1일(수) ~ 12월 3일(금), "
+								},
+								{
+									"type": "text",
+									"text": "전 과정 온라인 진행",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  3. 주관: 말레이시아 Universiti Malaya\n  4. 선발인원 및 지원자격\n    가. 선발인원: 1명(타회원교 참가인원 미달시 2명)\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n   가. 제출서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일 제출("
+								},
+								{
+									"type": "link",
+									"url": "mailto:ahnsihun@snu.ac.kr",
+									"text": "ahnsihun@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n   나. 제출기한: 2021년 11월 19일(금)\n 6. 문의처: 국제협력본부 안시헌(Tel. 880-8636, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:ahnsihun@snu.ac.kr",
+									"text": "ahnsihun@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n\n관련하여 자세한 내용은 첨부 파일 확인 부탁 드립니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "allo-tongue",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

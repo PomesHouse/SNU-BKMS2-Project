@@ -1,449 +1,451 @@
-[
-  {
-    "client_msg_id": "c91ebc09-f231-44d2-b496-b3ca5da185cb",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u003c!channel\u003e \u0026lt;2022학년도 1학기 데이터사이언스대학원 석사 ‧ 박사학위 논문제출자격시험\u0026gt;* \n\n2022학년도 1학기 석사 ‧ 박사학위 논문제출자격시험 시행계획을 다음과 같이 알려드리니\n아래 사항을 숙지하여 기간 내 접수하시기 바랍니다.\n\n*1. 시험과목*\n가. 외국어시험\n- TEPS(298점 이상) 또는 TOEFL(IBT 79점 이상) 성적표를 제출하여야 함\n※ 영어성적은 응시원서 접수마감일 기준 2년 이내 성적만 인정\n※ 입학 시 영어성적으로 대체 가능\n※ 합격여부 확인 방법: mysnu - 학사정보 - 졸업 - 졸업시험 신청 - 종합시험판정결과\n나. 종합시험\n종합시험은 ‘필기’, ‘프로그래밍’, ‘데이터사이언스 프로젝트’ 의 세 영역으로 구성되며\n‘데이터사이언스 프로젝트’의 경우에는 프로젝트 결과에 대한 구술시험이 진행됨\n- 1차(Written Test/Programming Test): 제시되는 ’정형/비정형‘ 데이터를 가지고 프로그램\n또는 툴 등을 사용하여 문제를 푸는 open notebook 테스트와 프로그래밍 테스트\n※ 1차(Written, Programming Test)는 불합격한 과목에 대해서만 다음 기회가 있는 경우 재응시 가능\n(예) Written 합격 / Programming 불합격 시 ☞ Programming만 재응시 가능\n- 2차(Data Science Project): 1차 시험 후 제시되는 자료를 가지고 프로젝트를 수행한 후 발표\n\n*2. 배점 및 합격기준*\n가. 석사과정(100점 만점): 1, 2차 과목별 70점 이상\n나. 박사과정(100점 만점): 1, 2차 과목별 70점 이상\n\n*3. 응시자격*\n가. 석사과정: 2개 학기 이상 등록하고, 12학점 이상 취득한 자\n나. 박사과정: 3개 학기 이상 등록하고, 18학점 이상 취득한 자\n\n*4. 시험일정*\n가. 신청기간: 2022. 3. 3.(목) ~ 3. 10.(목) 18:00 \u0026lt;기간 종료 후 신청 불가\u0026gt;\n나. 신청방법\n- 마이스누 로그인 \u0026gt; 학사정보 \u0026gt; 졸업 \u0026gt; 졸업시험신청 \u0026gt; 종합시험신청 \u0026gt; 신규 \u0026gt; 신청\n\u0026gt; 신청과목정보에서 “추가” 버튼 \u0026gt; 신청시험과목 구분 \u0026gt; 전공시험 또는 한국어 시험 선택\n\u0026gt; 저장 \u0026gt; 지원서 출력 \u0026gt; 본인 및 지도교수 서명 \u0026gt; 행정실로 제출\n※ 시스템 신청 후 3. 14.(월) 18:00까지 지도교수님 서명(또는 확인 메일)을 받은 지원서를 행정실로 제출해야 신청이 완료됨\n다. 시험일시 및 장소\n- 1차(Written Test/Programming Test): 3. 29.(화) 17:00 ~ 21:00, 942동 301, 302호\n(※ Written: 120분 / Programming: 100분)\n- 2차(Data Science Project): 4. 1.(금) 14:00 ~ 17:00, 942동 308, 309호\n※ 시험시간 및 장소 등은 응시자 수 등에 따라 변동 가능\n\n*5. 합격자 발표일: 2022. 4. 8.(금)*\n\n*6. 문의: 학과행정실 담당자 김민서 (\u003cmailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr\u003e/*:phone:*02-880-1331)*",
-    "ts": "1643347407.083939",
-    "thread_ts": "1643347407.083939",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01R678KWP2",
-        "ts": "1643348211.368379"
-      },
-      {
-        "user": "U01QNJ7PWRX",
-        "ts": "1643360338.933569"
-      }
-    ],
-    "latest_reply": "1643360338.933569",
-    "files": [
-      {
-        "id": "F030HSM6PDK",
-        "created": 1643347389,
-        "timestamp": 1643347389,
-        "name": "2022학년도 1학기 데이터사이언스대학원 논문자격시험 시행계획(안).pdf",
-        "title": "2022학년도 1학기 데이터사이언스대학원 논문자격시험 시행계획(안).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 91495,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F030HSM6PDK-2022학년도 1학기 데이터사이언스대학원 논문자격시험 시행계획(안).pdf",
-        "url_private_download": "attachments/F030HSM6PDK-2022학년도 1학기 데이터사이언스대학원 논문자격시험 시행계획(안).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F030HSM6PDK/2022__________1__________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F030HSM6PDK-7da3a1b6d7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F030P3M2PK6",
-        "created": 1643347391,
-        "timestamp": 1643347391,
-        "name": "데이터사이언스대학원 22학년도 1학기 논자시 안내 (세부사항).pdf",
-        "title": "데이터사이언스대학원 22학년도 1학기 논자시 안내 (세부사항).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 80392,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F030P3M2PK6-데이터사이언스대학원 22학년도 1학기 논자시 안내 (세부사항).pdf",
-        "url_private_download": "attachments/F030P3M2PK6-데이터사이언스대학원 22학년도 1학기 논자시 안내 (세부사항).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F030P3M2PK6/_______________________________22__________1______________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F030P3M2PK6-7f3e226adc",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "=aTGQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c2022학년도 1학기 데이터사이언스대학원 석사 ‧ 박사학위 논문제출자격시험\u003e ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2022학년도 1학기 석사 ‧ 박사학위 논문제출자격시험 시행계획을 다음과 같이 알려드리니\n아래 사항을 숙지하여 기간 내 접수하시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "1. 시험과목",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n가. 외국어시험\n- TEPS(298점 이상) 또는 TOEFL(IBT 79점 이상) 성적표를 제출하여야 함\n※ 영어성적은 응시원서 접수마감일 기준 2년 이내 성적만 인정\n※ 입학 시 영어성적으로 대체 가능\n※ 합격여부 확인 방법: mysnu - 학사정보 - 졸업 - 졸업시험 신청 - 종합시험판정결과\n나. 종합시험\n종합시험은 ‘필기’, ‘프로그래밍’, ‘데이터사이언스 프로젝트’ 의 세 영역으로 구성되며\n‘데이터사이언스 프로젝트’의 경우에는 프로젝트 결과에 대한 구술시험이 진행됨\n- 1차(Written Test/Programming Test): 제시되는 ’정형/비정형‘ 데이터를 가지고 프로그램\n또는 툴 등을 사용하여 문제를 푸는 open notebook 테스트와 프로그래밍 테스트\n※ 1차(Written, Programming Test)는 불합격한 과목에 대해서만 다음 기회가 있는 경우 재응시 가능\n(예) Written 합격 / Programming 불합격 시 ☞ Programming만 재응시 가능\n- 2차(Data Science Project): 1차 시험 후 제시되는 자료를 가지고 프로젝트를 수행한 후 발표\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2. 배점 및 합격기준",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n가. 석사과정(100점 만점): 1, 2차 과목별 70점 이상\n나. 박사과정(100점 만점): 1, 2차 과목별 70점 이상\n\n"
-              },
-              {
-                "type": "text",
-                "text": "3. 응시자격",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n가. 석사과정: 2개 학기 이상 등록하고, 12학점 이상 취득한 자\n나. 박사과정: 3개 학기 이상 등록하고, 18학점 이상 취득한 자\n\n"
-              },
-              {
-                "type": "text",
-                "text": "4. 시험일정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n가. 신청기간: 2022. 3. 3.(목) ~ 3. 10.(목) 18:00 \u003c기간 종료 후 신청 불가\u003e\n나. 신청방법\n- 마이스누 로그인 \u003e 학사정보 \u003e 졸업 \u003e 졸업시험신청 \u003e 종합시험신청 \u003e 신규 \u003e 신청\n\u003e 신청과목정보에서 “추가” 버튼 \u003e 신청시험과목 구분 \u003e 전공시험 또는 한국어 시험 선택\n\u003e 저장 \u003e 지원서 출력 \u003e 본인 및 지도교수 서명 \u003e 행정실로 제출\n※ 시스템 신청 후 3. 14.(월) 18:00까지 지도교수님 서명(또는 확인 메일)을 받은 지원서를 행정실로 제출해야 신청이 완료됨\n다. 시험일시 및 장소\n- 1차(Written Test/Programming Test): 3. 29.(화) 17:00 ~ 21:00, 942동 301, 302호\n(※ Written: 120분 / Programming: 100분)\n- 2차(Data Science Project): 4. 1.(금) 14:00 ~ 17:00, 942동 308, 309호\n※ 시험시간 및 장소 등은 응시자 수 등에 따라 변동 가능\n\n"
-              },
-              {
-                "type": "text",
-                "text": "5. 합격자 발표일: 2022. 4. 8.(금)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "6. 문의: 학과행정실 담당자 김민서 (",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:pocahontas@snu.ac.kr",
-                "text": "pocahontas@snu.ac.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "/",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "phone",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "02-880-1331)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01QNJ7PWRX",
-      "U01R678KWP2"
-    ]
-  },
-  {
-    "client_msg_id": "25d5f2e4-6a42-4935-9e6a-0413ed2be4ab",
-    "type": "message",
-    "user": "U01R678KWP2",
-    "text": "영어성적은 어떤 방식으로 제출하나요?",
-    "ts": "1643348211.368379",
-    "thread_ts": "1643347407.083939",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "296Rj",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "영어성적은 어떤 방식으로 제출하나요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
-      "first_name": "조동규",
-      "real_name": "조동규",
-      "display_name": "2기_조동규",
-      "team": "T01QA5S537V",
-      "name": "kulupapa1127",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "fff3c26e-2084-4330-8fc4-decfcd8b5da3",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "일단 입학시 제출하신 성적도 인정이 되기때문에 입학시 성적을 확인하시면 됩니다. 면제되셨던 분들은 면제 유지 됩니다.",
-    "ts": "1643360338.933569",
-    "thread_ts": "1643347407.083939",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xpq",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "일단 입학시 제출하신 성적도 인정이 되기때문에 입학시 성적을 확인하시면 됩니다. 면제되셨던 분들은 면제 유지 됩니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "9b2b2aa5-806d-417e-9798-f159f68eca5e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": ":sandwich: 4층 라운지에 샌드위치가있어요. 출출하신분드세요~!",
-    "ts": "1643362091.208099",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 2,
-        "users": [
-          "U01QGG6A5LJ",
-          "U02UT2U1PFV"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "B1m",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "emoji",
-                "name": "sandwich",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 4층 라운지에 샌드위치가있어요. 출출하신분드세요~!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "c91ebc09-f231-44d2-b496-b3ca5da185cb",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*<!channel> &lt;2022학년도 1학기 데이터사이언스대학원 석사 ‧ 박사학위 논문제출자격시험&gt;* \n\n2022학년도 1학기 석사 ‧ 박사학위 논문제출자격시험 시행계획을 다음과 같이 알려드리니\n아래 사항을 숙지하여 기간 내 접수하시기 바랍니다.\n\n*1. 시험과목*\n가. 외국어시험\n- TEPS(298점 이상) 또는 TOEFL(IBT 79점 이상) 성적표를 제출하여야 함\n※ 영어성적은 응시원서 접수마감일 기준 2년 이내 성적만 인정\n※ 입학 시 영어성적으로 대체 가능\n※ 합격여부 확인 방법: mysnu - 학사정보 - 졸업 - 졸업시험 신청 - 종합시험판정결과\n나. 종합시험\n종합시험은 ‘필기’, ‘프로그래밍’, ‘데이터사이언스 프로젝트’ 의 세 영역으로 구성되며\n‘데이터사이언스 프로젝트’의 경우에는 프로젝트 결과에 대한 구술시험이 진행됨\n- 1차(Written Test/Programming Test): 제시되는 ’정형/비정형‘ 데이터를 가지고 프로그램\n또는 툴 등을 사용하여 문제를 푸는 open notebook 테스트와 프로그래밍 테스트\n※ 1차(Written, Programming Test)는 불합격한 과목에 대해서만 다음 기회가 있는 경우 재응시 가능\n(예) Written 합격 / Programming 불합격 시 ☞ Programming만 재응시 가능\n- 2차(Data Science Project): 1차 시험 후 제시되는 자료를 가지고 프로젝트를 수행한 후 발표\n\n*2. 배점 및 합격기준*\n가. 석사과정(100점 만점): 1, 2차 과목별 70점 이상\n나. 박사과정(100점 만점): 1, 2차 과목별 70점 이상\n\n*3. 응시자격*\n가. 석사과정: 2개 학기 이상 등록하고, 12학점 이상 취득한 자\n나. 박사과정: 3개 학기 이상 등록하고, 18학점 이상 취득한 자\n\n*4. 시험일정*\n가. 신청기간: 2022. 3. 3.(목) ~ 3. 10.(목) 18:00 &lt;기간 종료 후 신청 불가&gt;\n나. 신청방법\n- 마이스누 로그인 &gt; 학사정보 &gt; 졸업 &gt; 졸업시험신청 &gt; 종합시험신청 &gt; 신규 &gt; 신청\n&gt; 신청과목정보에서 “추가” 버튼 &gt; 신청시험과목 구분 &gt; 전공시험 또는 한국어 시험 선택\n&gt; 저장 &gt; 지원서 출력 &gt; 본인 및 지도교수 서명 &gt; 행정실로 제출\n※ 시스템 신청 후 3. 14.(월) 18:00까지 지도교수님 서명(또는 확인 메일)을 받은 지원서를 행정실로 제출해야 신청이 완료됨\n다. 시험일시 및 장소\n- 1차(Written Test/Programming Test): 3. 29.(화) 17:00 ~ 21:00, 942동 301, 302호\n(※ Written: 120분 / Programming: 100분)\n- 2차(Data Science Project): 4. 1.(금) 14:00 ~ 17:00, 942동 308, 309호\n※ 시험시간 및 장소 등은 응시자 수 등에 따라 변동 가능\n\n*5. 합격자 발표일: 2022. 4. 8.(금)*\n\n*6. 문의: 학과행정실 담당자 김민서 (<mailto:pocahontas@snu.ac.kr|pocahontas@snu.ac.kr>/*:phone:*02-880-1331)*",
+			"ts": "1643347407.083939",
+			"thread_ts": "1643347407.083939",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01R678KWP2",
+					"ts": "1643348211.368379"
+				},
+				{
+					"user": "U01QNJ7PWRX",
+					"ts": "1643360338.933569"
+				}
+			],
+			"latest_reply": "1643360338.933569",
+			"files": [
+				{
+					"id": "F030HSM6PDK",
+					"created": 1643347389,
+					"timestamp": 1643347389,
+					"name": "2022학년도 1학기 데이터사이언스대학원 논문자격시험 시행계획(안).pdf",
+					"title": "2022학년도 1학기 데이터사이언스대학원 논문자격시험 시행계획(안).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 91495,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F030HSM6PDK-2022학년도 1학기 데이터사이언스대학원 논문자격시험 시행계획(안).pdf",
+					"url_private_download": "attachments/F030HSM6PDK-2022학년도 1학기 데이터사이언스대학원 논문자격시험 시행계획(안).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F030HSM6PDK/2022__________1__________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F030HSM6PDK-7da3a1b6d7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F030P3M2PK6",
+					"created": 1643347391,
+					"timestamp": 1643347391,
+					"name": "데이터사이언스대학원 22학년도 1학기 논자시 안내 (세부사항).pdf",
+					"title": "데이터사이언스대학원 22학년도 1학기 논자시 안내 (세부사항).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 80392,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F030P3M2PK6-데이터사이언스대학원 22학년도 1학기 논자시 안내 (세부사항).pdf",
+					"url_private_download": "attachments/F030P3M2PK6-데이터사이언스대학원 22학년도 1학기 논자시 안내 (세부사항).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F030P3M2PK6/_______________________________22__________1______________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F030P3M2PK6-7f3e226adc",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "=aTGQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " <2022학년도 1학기 데이터사이언스대학원 석사 ‧ 박사학위 논문제출자격시험> ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2022학년도 1학기 석사 ‧ 박사학위 논문제출자격시험 시행계획을 다음과 같이 알려드리니\n아래 사항을 숙지하여 기간 내 접수하시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "1. 시험과목",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n가. 외국어시험\n- TEPS(298점 이상) 또는 TOEFL(IBT 79점 이상) 성적표를 제출하여야 함\n※ 영어성적은 응시원서 접수마감일 기준 2년 이내 성적만 인정\n※ 입학 시 영어성적으로 대체 가능\n※ 합격여부 확인 방법: mysnu - 학사정보 - 졸업 - 졸업시험 신청 - 종합시험판정결과\n나. 종합시험\n종합시험은 ‘필기’, ‘프로그래밍’, ‘데이터사이언스 프로젝트’ 의 세 영역으로 구성되며\n‘데이터사이언스 프로젝트’의 경우에는 프로젝트 결과에 대한 구술시험이 진행됨\n- 1차(Written Test/Programming Test): 제시되는 ’정형/비정형‘ 데이터를 가지고 프로그램\n또는 툴 등을 사용하여 문제를 푸는 open notebook 테스트와 프로그래밍 테스트\n※ 1차(Written, Programming Test)는 불합격한 과목에 대해서만 다음 기회가 있는 경우 재응시 가능\n(예) Written 합격 / Programming 불합격 시 ☞ Programming만 재응시 가능\n- 2차(Data Science Project): 1차 시험 후 제시되는 자료를 가지고 프로젝트를 수행한 후 발표\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2. 배점 및 합격기준",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n가. 석사과정(100점 만점): 1, 2차 과목별 70점 이상\n나. 박사과정(100점 만점): 1, 2차 과목별 70점 이상\n\n"
+								},
+								{
+									"type": "text",
+									"text": "3. 응시자격",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n가. 석사과정: 2개 학기 이상 등록하고, 12학점 이상 취득한 자\n나. 박사과정: 3개 학기 이상 등록하고, 18학점 이상 취득한 자\n\n"
+								},
+								{
+									"type": "text",
+									"text": "4. 시험일정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n가. 신청기간: 2022. 3. 3.(목) ~ 3. 10.(목) 18:00 <기간 종료 후 신청 불가>\n나. 신청방법\n- 마이스누 로그인 > 학사정보 > 졸업 > 졸업시험신청 > 종합시험신청 > 신규 > 신청\n> 신청과목정보에서 “추가” 버튼 > 신청시험과목 구분 > 전공시험 또는 한국어 시험 선택\n> 저장 > 지원서 출력 > 본인 및 지도교수 서명 > 행정실로 제출\n※ 시스템 신청 후 3. 14.(월) 18:00까지 지도교수님 서명(또는 확인 메일)을 받은 지원서를 행정실로 제출해야 신청이 완료됨\n다. 시험일시 및 장소\n- 1차(Written Test/Programming Test): 3. 29.(화) 17:00 ~ 21:00, 942동 301, 302호\n(※ Written: 120분 / Programming: 100분)\n- 2차(Data Science Project): 4. 1.(금) 14:00 ~ 17:00, 942동 308, 309호\n※ 시험시간 및 장소 등은 응시자 수 등에 따라 변동 가능\n\n"
+								},
+								{
+									"type": "text",
+									"text": "5. 합격자 발표일: 2022. 4. 8.(금)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "6. 문의: 학과행정실 담당자 김민서 (",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:pocahontas@snu.ac.kr",
+									"text": "pocahontas@snu.ac.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "/",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "phone",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "02-880-1331)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01QNJ7PWRX",
+				"U01R678KWP2"
+			]
+		},
+		{
+			"client_msg_id": "25d5f2e4-6a42-4935-9e6a-0413ed2be4ab",
+			"type": "message",
+			"user": "U01R678KWP2",
+			"text": "영어성적은 어떤 방식으로 제출하나요?",
+			"ts": "1643348211.368379",
+			"thread_ts": "1643347407.083939",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "296Rj",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "영어성적은 어떤 방식으로 제출하나요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
+				"first_name": "조동규",
+				"real_name": "조동규",
+				"display_name": "2기_조동규",
+				"team": "T01QA5S537V",
+				"name": "kulupapa1127",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "fff3c26e-2084-4330-8fc4-decfcd8b5da3",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "일단 입학시 제출하신 성적도 인정이 되기때문에 입학시 성적을 확인하시면 됩니다. 면제되셨던 분들은 면제 유지 됩니다.",
+			"ts": "1643360338.933569",
+			"thread_ts": "1643347407.083939",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xpq",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "일단 입학시 제출하신 성적도 인정이 되기때문에 입학시 성적을 확인하시면 됩니다. 면제되셨던 분들은 면제 유지 됩니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "9b2b2aa5-806d-417e-9798-f159f68eca5e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": ":sandwich: 4층 라운지에 샌드위치가있어요. 출출하신분드세요~!",
+			"ts": "1643362091.208099",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 2,
+					"users": [
+						"U01QGG6A5LJ",
+						"U02UT2U1PFV"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "B1m",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "emoji",
+									"name": "sandwich",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 4층 라운지에 샌드위치가있어요. 출출하신분드세요~!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

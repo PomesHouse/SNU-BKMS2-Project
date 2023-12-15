@@ -1,547 +1,549 @@
-[
-  {
-    "client_msg_id": "3aa61235-ab12-4556-9c71-749cc91f16fd",
-    "type": "message",
-    "user": "U01QDA36FJR",
-    "text": "안녕하세요, 김형신 교수님랩 석사 2기 손성욱 입니다.\n\n현재 누구든지 참여 가능한 온라인 *쇼핑 가상피팅 데이터셋 모델을 모집*하고 있습니다.\n참여하신 분들 중 추첨을 통해 *스타벅스 기프티콘*을 드립니다! 많은 참여 부탁드립니다!\n\n\u0026lt;연구 내용\u0026gt;\n저희 연구실에서 Virtual Try On이라는 주제로 온라인 쇼핑몰 가상피팅 연구를 진행하고 있습니다.\n저희가 옷을 사기 전 실제 피팅룸 가서 옷을 입어보는 것처럼,\n온라인 쇼핑을 하는 소비자의 동영상에 소비자가 사고자 하는 옷을 입혀주는 연구입니다.\n\n현재 많은 연구들에서 사용되는 데이터로는 부족하다는 판단이 되어 데이터셋을 추가를 위하여 모델을 모집을 하려합니다.\n\n\u0026lt;촬영 내용\u0026gt;\n아래 설명처럼 30초~1분 정도 자유로운 자세를 동영상으로 촬영하여 학습에 이용하려고합니다.\n촬영 세부사항은 다음과 같습니다.\n1. 30초~40초 정도 되는 천천히 다양한 포즈를 취하는 비디오입니다.  (피팅룸 거울 앞에서 보통 취하는 포즈들입니다.)\n2. “정면 위주의 자세 (좌우 45도 정도의 회전 이내)를 취합니다.”\n3. 얼굴, 상체가 전부가 동영상에 포함되어야 합니다.\n4. 팔이 어깨 위로 올라가지 않아야 합니다.\n외투를 입지 않아야 하며 입은 옷이 최대한 얇을수록 좋습니다\n데이터셋 모집을 위하여 참여하여주신 모델분들에게 추첨하여 스타벅스 기프티콘을 드리려고 합니다! 많은 참여 부탁드립니다!\n참여를 위해서 저에게 DM주시면 감사하겠습니다!",
-    "ts": "1651558763.555609",
-    "thread_ts": "1651558763.555609",
-    "edited": {
-      "user": "U01QDA36FJR",
-      "ts": "1651566944.000000"
-    },
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QNJ9BB60",
-        "ts": "1651562929.246219"
-      },
-      {
-        "user": "U01QGD03WUC",
-        "ts": "1651563137.942739"
-      }
-    ],
-    "latest_reply": "1651563137.942739",
-    "files": [
-      {
-        "id": "F03E799A77B",
-        "created": 1651557846,
-        "timestamp": 1651557846,
-        "name": "13.gif",
-        "title": "13.gif",
-        "mimetype": "image/gif",
-        "image_exif_rotation": 0,
-        "filetype": "gif",
-        "pretty_type": "GIF",
-        "user": "U01QDA36FJR",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 9677269,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03E799A77B-13.gif",
-        "url_private_download": "attachments/F03E799A77B-13.gif",
-        "original_h": 960,
-        "original_w": 540,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_360.png",
-        "thumb_360_gif": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_360.gif",
-        "thumb_360_w": 203,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_480.png",
-        "thumb_480_w": 270,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_720.png",
-        "thumb_720_w": 405,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_960.png",
-        "thumb_960_w": 540,
-        "thumb_960_h": 960,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QDA36FJR/F03E799A77B/13.gif",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03E799A77B-738e4bbe93",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F03DULW1CUB",
-        "created": 1651558702,
-        "timestamp": 1651558702,
-        "name": "13_vto.gif",
-        "title": "13_vto.gif",
-        "mimetype": "image/gif",
-        "image_exif_rotation": 0,
-        "filetype": "gif",
-        "pretty_type": "GIF",
-        "user": "U01QDA36FJR",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 7917079,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03DULW1CUB-13_vto.gif",
-        "url_private_download": "attachments/F03DULW1CUB-13_vto.gif",
-        "original_h": 960,
-        "original_w": 540,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_360.png",
-        "thumb_360_gif": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_360.gif",
-        "thumb_360_w": 203,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_480.png",
-        "thumb_480_w": 270,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_720.png",
-        "thumb_720_w": 405,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_960.png",
-        "thumb_960_w": 540,
-        "thumb_960_h": 960,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QDA36FJR/F03DULW1CUB/13_vto.gif",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03DULW1CUB-6ba0016c74",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 12,
-        "users": [
-          "U01QNSKMEDP",
-          "U01Q1KFN4JK",
-          "U01QV1PBKUZ",
-          "U01QNJ9BB60",
-          "U01QGD03WUC",
-          "U01QDA36FJR",
-          "U01QGKC4BM1",
-          "U01QV1WAPL1",
-          "U01QGKCJY3V",
-          "U02UT1YNY6N",
-          "U01QDANUYVB",
-          "U01R688KH6U"
-        ]
-      },
-      {
-        "name": "kissing_closed_eyes",
-        "count": 3,
-        "users": [
-          "U01QGJL6SP5",
-          "U01QNJ9BB60",
-          "U01QDA36FJR"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "PHNv",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요, 김형신 교수님랩 석사 2기 손성욱 입니다.\n\n현재 누구든지 참여 가능한 온라인 "
-              },
-              {
-                "type": "text",
-                "text": "쇼핑 가상피팅 데이터셋 모델을 모집",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하고 있습니다.\n참여하신 분들 중 추첨을 통해 "
-              },
-              {
-                "type": "text",
-                "text": "스타벅스 기프티콘",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 드립니다! 많은 참여 부탁드립니다!\n\n\u003c연구 내용\u003e\n저희 연구실에서 Virtual Try On이라는 주제로 온라인 쇼핑몰 가상피팅 연구를 진행하고 있습니다.\n저희가 옷을 사기 전 실제 피팅룸 가서 옷을 입어보는 것처럼,\n온라인 쇼핑을 하는 소비자의 동영상에 소비자가 사고자 하는 옷을 입혀주는 연구입니다.\n\n현재 많은 연구들에서 사용되는 데이터로는 부족하다는 판단이 되어 데이터셋을 추가를 위하여 모델을 모집을 하려합니다.\n\n\u003c촬영 내용\u003e\n아래 설명처럼 30초~1분 정도 자유로운 자세를 동영상으로 촬영하여 학습에 이용하려고합니다.\n촬영 세부사항은 다음과 같습니다.\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"30\\ucd08~40\\ucd08 \\uc815\\ub3c4 \\ub418\\ub294 \\ucc9c\\ucc9c\\ud788 \\ub2e4\\uc591\\ud55c \\ud3ec\\uc988\\ub97c \\ucde8\\ud558\\ub294 \\ube44\\ub514\\uc624\\uc785\\ub2c8\\ub2e4.  (\\ud53c\\ud305\\ub8f8 \\uac70\\uc6b8 \\uc55e\\uc5d0\\uc11c \\ubcf4\\ud1b5 \\ucde8\\ud558\\ub294 \\ud3ec\\uc988\\ub4e4\\uc785\\ub2c8\\ub2e4.)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\u201c\\uc815\\uba74 \\uc704\\uc8fc\\uc758 \\uc790\\uc138 (\\uc88c\\uc6b0 45\\ub3c4 \\uc815\\ub3c4\\uc758 \\ud68c\\uc804 \\uc774\\ub0b4)\\ub97c \\ucde8\\ud569\\ub2c8\\ub2e4.\\u201d\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5bc\\uad74, \\uc0c1\\uccb4\\uac00 \\uc804\\ubd80\\uac00 \\ub3d9\\uc601\\uc0c1\\uc5d0 \\ud3ec\\ud568\\ub418\\uc5b4\\uc57c \\ud569\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud314\\uc774 \\uc5b4\\uae68 \\uc704\\ub85c \\uc62c\\ub77c\\uac00\\uc9c0 \\uc54a\\uc544\\uc57c \\ud569\\ub2c8\\ub2e4.\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "외투를 입지 않아야 하며 입은 옷이 최대한 얇을수록 좋습니다\n데이터셋 모집을 위하여 참여하여주신 모델분들에게 추첨하여 스타벅스 기프티콘을 드리려고 합니다! 많은 참여 부탁드립니다!\n참여를 위해서 저에게 DM주시면 감사하겠습니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/3447a3bb6101a995f163b5fc40f66865.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "손성욱",
-      "real_name": "손성욱",
-      "display_name": "2기_손성욱",
-      "team": "T01QA5S537V",
-      "name": "sungwookson",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01QGD03WUC",
-      "U01QNJ9BB60"
-    ]
-  },
-  {
-    "client_msg_id": "514BE655-8DD0-4AD1-8F81-E942269C646D",
-    "type": "message",
-    "user": "U01QNJ9BB60",
-    "text": "우와 너무 재밌어보여요! 꼭 참여해서 스벅 쿠폰 받고싶네요!",
-    "ts": "1651562929.246219",
-    "thread_ts": "1651558763.555609",
-    "parent_user_id": "U01QDA36FJR",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 3,
-        "users": [
-          "U01Q9KXMSF8",
-          "U01QV1WAPL1",
-          "U01QA85T90A"
-        ]
-      },
-      {
-        "name": "100",
-        "count": 1,
-        "users": [
-          "U01QGKD09K5"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9jm+",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "우와 너무 재밌어보여요! 꼭 참여해서 스벅 쿠폰 받고싶네요!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/c8c3ce1033ad6c47b2976c54fc57a136.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
-      "first_name": "2기_서아름",
-      "real_name": "2기_서아름",
-      "display_name": "2기_서아름",
-      "team": "T01QA5S537V",
-      "name": "yyyt463",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "EC104AE8-40AD-4E4C-8C50-11771AE5902E",
-    "type": "message",
-    "user": "U01QGD03WUC",
-    "text": "멋지네요! 화이팅입니다:+1:",
-    "ts": "1651563137.942739",
-    "thread_ts": "1651558763.555609",
-    "parent_user_id": "U01QDA36FJR",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "1ir5",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "멋지네요! 화이팅입니다"
-              },
-              {
-                "type": "emoji",
-                "name": "+1",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1850465314224_d80690ecb59c4004c2a6_72.png",
-      "first_name": "woochulee",
-      "real_name": "woochulee",
-      "display_name": "1기_이우철",
-      "team": "T01QA5S537V",
-      "name": "woochulee",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "b7327da5-b9c4-4d70-b3d8-76aa6a76f115",
-    "type": "message",
-    "user": "U01QV1PBKUZ",
-    "text": "*[대학원 환경 정비 자원봉사자 모집]*\n안녕하세요!\n어느덧 중간고사 기간도 끝나고 학기 중반에 접어들고 있네요~!\n\n보다 쾌적한 대학원 환경 조성을 위해서 *다음 주 월요일(5/9)*에 *물품 점검 및 탕비실 청소*가 있을 예정입니다 :slightly_smiling_face:  여러분의 연구 공간을 깨끗이 하는 데 힘을 보태 주실 분들이 있으시다면 해당일에 함께 해주시기 바랍니다!! 일손이 많을수록 빠르게 끝낼 수 있을 것 같습니다~! 함께 해주시는 분들께는 식사도 지원된다고 하니 많은 신청 부탁 드립니다 :smile:\n\n:mega:*대학원 환경 정비일*:sponge:\n*언제?) 5월 9일 월요일 오전 9시~ 12시*\n*해야 할 일)*\n• 스탠드/모니터/의자/멀티탭 등 대학원 자산 라벨링 및 개수 조사\n• 3,4층 탕비실 청소\n• 기부 도서 정리\n*어떻게?)*\n• 댓글 혹은 DM으로 신청(\u003c@U01Q1KFN4JK\u003e\u003c@U01QGKD09K5\u003e \u003c@U01QV1PBKUZ\u003e)",
-    "ts": "1651576818.152619",
-    "edited": {
-      "user": "U01QV1PBKUZ",
-      "ts": "1651577210.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "iOWe",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[대학원 환경 정비 자원봉사자 모집]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n안녕하세요!\n어느덧 중간고사 기간도 끝나고 학기 중반에 접어들고 있네요~!\n\n보다 쾌적한 대학원 환경 조성을 위해서 "
-              },
-              {
-                "type": "text",
-                "text": "다음 주 월요일(5/9)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "에 "
-              },
-              {
-                "type": "text",
-                "text": "물품 점검 및 탕비실 청소",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "가 있을 예정입니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "  여러분의 연구 공간을 깨끗이 하는 데 힘을 보태 주실 분들이 있으시다면 해당일에 함께 해주시기 바랍니다!! 일손이 많을수록 빠르게 끝낼 수 있을 것 같습니다~! 함께 해주시는 분들께는 식사도 지원된다고 하니 많은 신청 부탁 드립니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "smile",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "emoji",
-                "name": "mega",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "대학원 환경 정비일",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "sponge",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "언제?) 5월 9일 월요일 오전 9시~ 12시",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "해야 할 일)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2a4\\ud0e0\\ub4dc\\/\\ubaa8\\ub2c8\\ud130\\/\\uc758\\uc790\\/\\uba40\\ud2f0\\ud0ed \\ub4f1 \\ub300\\ud559\\uc6d0 \\uc790\\uc0b0 \\ub77c\\ubca8\\ub9c1 \\ubc0f \\uac1c\\uc218 \\uc870\\uc0ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"3,4\\uce35 \\ud0d5\\ube44\\uc2e4 \\uccad\\uc18c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\ubd80 \\ub3c4\\uc11c \\uc815\\ub9ac\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "어떻게?)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub313\\uae00 \\ud639\\uc740 DM\\uc73c\\ub85c \\uc2e0\\uccad(\"},{\"type\":\"user\",\"user_id\":\"U01Q1KFN4JK\"},{\"type\":\"user\",\"user_id\":\"U01QGKD09K5\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"user\",\"user_id\":\"U01QV1PBKUZ\"},{\"type\":\"text\",\"text\":\")\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-15/1865580143060_c8cd9db7c1c2f4d45cd7_72.jpg",
-      "first_name": "황예진",
-      "real_name": "황예진",
-      "display_name": "2기_황예진",
-      "team": "T01QA5S537V",
-      "name": "evergreen97",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "3aa61235-ab12-4556-9c71-749cc91f16fd",
+			"type": "message",
+			"user": "U01QDA36FJR",
+			"text": "안녕하세요, 김형신 교수님랩 석사 2기 손성욱 입니다.\n\n현재 누구든지 참여 가능한 온라인 *쇼핑 가상피팅 데이터셋 모델을 모집*하고 있습니다.\n참여하신 분들 중 추첨을 통해 *스타벅스 기프티콘*을 드립니다! 많은 참여 부탁드립니다!\n\n&lt;연구 내용&gt;\n저희 연구실에서 Virtual Try On이라는 주제로 온라인 쇼핑몰 가상피팅 연구를 진행하고 있습니다.\n저희가 옷을 사기 전 실제 피팅룸 가서 옷을 입어보는 것처럼,\n온라인 쇼핑을 하는 소비자의 동영상에 소비자가 사고자 하는 옷을 입혀주는 연구입니다.\n\n현재 많은 연구들에서 사용되는 데이터로는 부족하다는 판단이 되어 데이터셋을 추가를 위하여 모델을 모집을 하려합니다.\n\n&lt;촬영 내용&gt;\n아래 설명처럼 30초~1분 정도 자유로운 자세를 동영상으로 촬영하여 학습에 이용하려고합니다.\n촬영 세부사항은 다음과 같습니다.\n1. 30초~40초 정도 되는 천천히 다양한 포즈를 취하는 비디오입니다.  (피팅룸 거울 앞에서 보통 취하는 포즈들입니다.)\n2. “정면 위주의 자세 (좌우 45도 정도의 회전 이내)를 취합니다.”\n3. 얼굴, 상체가 전부가 동영상에 포함되어야 합니다.\n4. 팔이 어깨 위로 올라가지 않아야 합니다.\n외투를 입지 않아야 하며 입은 옷이 최대한 얇을수록 좋습니다\n데이터셋 모집을 위하여 참여하여주신 모델분들에게 추첨하여 스타벅스 기프티콘을 드리려고 합니다! 많은 참여 부탁드립니다!\n참여를 위해서 저에게 DM주시면 감사하겠습니다!",
+			"ts": "1651558763.555609",
+			"thread_ts": "1651558763.555609",
+			"edited": {
+				"user": "U01QDA36FJR",
+				"ts": "1651566944.000000"
+			},
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QNJ9BB60",
+					"ts": "1651562929.246219"
+				},
+				{
+					"user": "U01QGD03WUC",
+					"ts": "1651563137.942739"
+				}
+			],
+			"latest_reply": "1651563137.942739",
+			"files": [
+				{
+					"id": "F03E799A77B",
+					"created": 1651557846,
+					"timestamp": 1651557846,
+					"name": "13.gif",
+					"title": "13.gif",
+					"mimetype": "image/gif",
+					"image_exif_rotation": 0,
+					"filetype": "gif",
+					"pretty_type": "GIF",
+					"user": "U01QDA36FJR",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 9677269,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03E799A77B-13.gif",
+					"url_private_download": "attachments/F03E799A77B-13.gif",
+					"original_h": 960,
+					"original_w": 540,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_360.png",
+					"thumb_360_gif": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_360.gif",
+					"thumb_360_w": 203,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_480.png",
+					"thumb_480_w": 270,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_720.png",
+					"thumb_720_w": 405,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03E799A77B-978338dfbd/13_960.png",
+					"thumb_960_w": 540,
+					"thumb_960_h": 960,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QDA36FJR/F03E799A77B/13.gif",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03E799A77B-738e4bbe93",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F03DULW1CUB",
+					"created": 1651558702,
+					"timestamp": 1651558702,
+					"name": "13_vto.gif",
+					"title": "13_vto.gif",
+					"mimetype": "image/gif",
+					"image_exif_rotation": 0,
+					"filetype": "gif",
+					"pretty_type": "GIF",
+					"user": "U01QDA36FJR",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 7917079,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03DULW1CUB-13_vto.gif",
+					"url_private_download": "attachments/F03DULW1CUB-13_vto.gif",
+					"original_h": 960,
+					"original_w": 540,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_360.png",
+					"thumb_360_gif": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_360.gif",
+					"thumb_360_w": 203,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_480.png",
+					"thumb_480_w": 270,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_720.png",
+					"thumb_720_w": 405,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03DULW1CUB-2becd9ecaa/13_vto_960.png",
+					"thumb_960_w": 540,
+					"thumb_960_h": 960,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QDA36FJR/F03DULW1CUB/13_vto.gif",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03DULW1CUB-6ba0016c74",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 12,
+					"users": [
+						"U01QNSKMEDP",
+						"U01Q1KFN4JK",
+						"U01QV1PBKUZ",
+						"U01QNJ9BB60",
+						"U01QGD03WUC",
+						"U01QDA36FJR",
+						"U01QGKC4BM1",
+						"U01QV1WAPL1",
+						"U01QGKCJY3V",
+						"U02UT1YNY6N",
+						"U01QDANUYVB",
+						"U01R688KH6U"
+					]
+				},
+				{
+					"name": "kissing_closed_eyes",
+					"count": 3,
+					"users": [
+						"U01QGJL6SP5",
+						"U01QNJ9BB60",
+						"U01QDA36FJR"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "PHNv",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요, 김형신 교수님랩 석사 2기 손성욱 입니다.\n\n현재 누구든지 참여 가능한 온라인 "
+								},
+								{
+									"type": "text",
+									"text": "쇼핑 가상피팅 데이터셋 모델을 모집",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하고 있습니다.\n참여하신 분들 중 추첨을 통해 "
+								},
+								{
+									"type": "text",
+									"text": "스타벅스 기프티콘",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 드립니다! 많은 참여 부탁드립니다!\n\n<연구 내용>\n저희 연구실에서 Virtual Try On이라는 주제로 온라인 쇼핑몰 가상피팅 연구를 진행하고 있습니다.\n저희가 옷을 사기 전 실제 피팅룸 가서 옷을 입어보는 것처럼,\n온라인 쇼핑을 하는 소비자의 동영상에 소비자가 사고자 하는 옷을 입혀주는 연구입니다.\n\n현재 많은 연구들에서 사용되는 데이터로는 부족하다는 판단이 되어 데이터셋을 추가를 위하여 모델을 모집을 하려합니다.\n\n<촬영 내용>\n아래 설명처럼 30초~1분 정도 자유로운 자세를 동영상으로 촬영하여 학습에 이용하려고합니다.\n촬영 세부사항은 다음과 같습니다.\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"30\\ucd08~40\\ucd08 \\uc815\\ub3c4 \\ub418\\ub294 \\ucc9c\\ucc9c\\ud788 \\ub2e4\\uc591\\ud55c \\ud3ec\\uc988\\ub97c \\ucde8\\ud558\\ub294 \\ube44\\ub514\\uc624\\uc785\\ub2c8\\ub2e4.  (\\ud53c\\ud305\\ub8f8 \\uac70\\uc6b8 \\uc55e\\uc5d0\\uc11c \\ubcf4\\ud1b5 \\ucde8\\ud558\\ub294 \\ud3ec\\uc988\\ub4e4\\uc785\\ub2c8\\ub2e4.)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\u201c\\uc815\\uba74 \\uc704\\uc8fc\\uc758 \\uc790\\uc138 (\\uc88c\\uc6b0 45\\ub3c4 \\uc815\\ub3c4\\uc758 \\ud68c\\uc804 \\uc774\\ub0b4)\\ub97c \\ucde8\\ud569\\ub2c8\\ub2e4.\\u201d\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5bc\\uad74, \\uc0c1\\uccb4\\uac00 \\uc804\\ubd80\\uac00 \\ub3d9\\uc601\\uc0c1\\uc5d0 \\ud3ec\\ud568\\ub418\\uc5b4\\uc57c \\ud569\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud314\\uc774 \\uc5b4\\uae68 \\uc704\\ub85c \\uc62c\\ub77c\\uac00\\uc9c0 \\uc54a\\uc544\\uc57c \\ud569\\ub2c8\\ub2e4.\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "외투를 입지 않아야 하며 입은 옷이 최대한 얇을수록 좋습니다\n데이터셋 모집을 위하여 참여하여주신 모델분들에게 추첨하여 스타벅스 기프티콘을 드리려고 합니다! 많은 참여 부탁드립니다!\n참여를 위해서 저에게 DM주시면 감사하겠습니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/3447a3bb6101a995f163b5fc40f66865.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "손성욱",
+				"real_name": "손성욱",
+				"display_name": "2기_손성욱",
+				"team": "T01QA5S537V",
+				"name": "sungwookson",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01QGD03WUC",
+				"U01QNJ9BB60"
+			]
+		},
+		{
+			"client_msg_id": "514BE655-8DD0-4AD1-8F81-E942269C646D",
+			"type": "message",
+			"user": "U01QNJ9BB60",
+			"text": "우와 너무 재밌어보여요! 꼭 참여해서 스벅 쿠폰 받고싶네요!",
+			"ts": "1651562929.246219",
+			"thread_ts": "1651558763.555609",
+			"parent_user_id": "U01QDA36FJR",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 3,
+					"users": [
+						"U01Q9KXMSF8",
+						"U01QV1WAPL1",
+						"U01QA85T90A"
+					]
+				},
+				{
+					"name": "100",
+					"count": 1,
+					"users": [
+						"U01QGKD09K5"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9jm+",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "우와 너무 재밌어보여요! 꼭 참여해서 스벅 쿠폰 받고싶네요!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/c8c3ce1033ad6c47b2976c54fc57a136.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+				"first_name": "2기_서아름",
+				"real_name": "2기_서아름",
+				"display_name": "2기_서아름",
+				"team": "T01QA5S537V",
+				"name": "yyyt463",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "EC104AE8-40AD-4E4C-8C50-11771AE5902E",
+			"type": "message",
+			"user": "U01QGD03WUC",
+			"text": "멋지네요! 화이팅입니다:+1:",
+			"ts": "1651563137.942739",
+			"thread_ts": "1651558763.555609",
+			"parent_user_id": "U01QDA36FJR",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "1ir5",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "멋지네요! 화이팅입니다"
+								},
+								{
+									"type": "emoji",
+									"name": "+1",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1850465314224_d80690ecb59c4004c2a6_72.png",
+				"first_name": "woochulee",
+				"real_name": "woochulee",
+				"display_name": "1기_이우철",
+				"team": "T01QA5S537V",
+				"name": "woochulee",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "b7327da5-b9c4-4d70-b3d8-76aa6a76f115",
+			"type": "message",
+			"user": "U01QV1PBKUZ",
+			"text": "*[대학원 환경 정비 자원봉사자 모집]*\n안녕하세요!\n어느덧 중간고사 기간도 끝나고 학기 중반에 접어들고 있네요~!\n\n보다 쾌적한 대학원 환경 조성을 위해서 *다음 주 월요일(5/9)*에 *물품 점검 및 탕비실 청소*가 있을 예정입니다 :slightly_smiling_face:  여러분의 연구 공간을 깨끗이 하는 데 힘을 보태 주실 분들이 있으시다면 해당일에 함께 해주시기 바랍니다!! 일손이 많을수록 빠르게 끝낼 수 있을 것 같습니다~! 함께 해주시는 분들께는 식사도 지원된다고 하니 많은 신청 부탁 드립니다 :smile:\n\n:mega:*대학원 환경 정비일*:sponge:\n*언제?) 5월 9일 월요일 오전 9시~ 12시*\n*해야 할 일)*\n• 스탠드/모니터/의자/멀티탭 등 대학원 자산 라벨링 및 개수 조사\n• 3,4층 탕비실 청소\n• 기부 도서 정리\n*어떻게?)*\n• 댓글 혹은 DM으로 신청(<@U01Q1KFN4JK><@U01QGKD09K5> <@U01QV1PBKUZ>)",
+			"ts": "1651576818.152619",
+			"edited": {
+				"user": "U01QV1PBKUZ",
+				"ts": "1651577210.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "iOWe",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[대학원 환경 정비 자원봉사자 모집]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n안녕하세요!\n어느덧 중간고사 기간도 끝나고 학기 중반에 접어들고 있네요~!\n\n보다 쾌적한 대학원 환경 조성을 위해서 "
+								},
+								{
+									"type": "text",
+									"text": "다음 주 월요일(5/9)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "에 "
+								},
+								{
+									"type": "text",
+									"text": "물품 점검 및 탕비실 청소",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "가 있을 예정입니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "  여러분의 연구 공간을 깨끗이 하는 데 힘을 보태 주실 분들이 있으시다면 해당일에 함께 해주시기 바랍니다!! 일손이 많을수록 빠르게 끝낼 수 있을 것 같습니다~! 함께 해주시는 분들께는 식사도 지원된다고 하니 많은 신청 부탁 드립니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "smile",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "emoji",
+									"name": "mega",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "대학원 환경 정비일",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "sponge",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "언제?) 5월 9일 월요일 오전 9시~ 12시",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "해야 할 일)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2a4\\ud0e0\\ub4dc\\/\\ubaa8\\ub2c8\\ud130\\/\\uc758\\uc790\\/\\uba40\\ud2f0\\ud0ed \\ub4f1 \\ub300\\ud559\\uc6d0 \\uc790\\uc0b0 \\ub77c\\ubca8\\ub9c1 \\ubc0f \\uac1c\\uc218 \\uc870\\uc0ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"3,4\\uce35 \\ud0d5\\ube44\\uc2e4 \\uccad\\uc18c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\ubd80 \\ub3c4\\uc11c \\uc815\\ub9ac\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "어떻게?)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub313\\uae00 \\ud639\\uc740 DM\\uc73c\\ub85c \\uc2e0\\uccad(\"},{\"type\":\"user\",\"user_id\":\"U01Q1KFN4JK\"},{\"type\":\"user\",\"user_id\":\"U01QGKD09K5\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"user\",\"user_id\":\"U01QV1PBKUZ\"},{\"type\":\"text\",\"text\":\")\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-15/1865580143060_c8cd9db7c1c2f4d45cd7_72.jpg",
+				"first_name": "황예진",
+				"real_name": "황예진",
+				"display_name": "2기_황예진",
+				"team": "T01QA5S537V",
+				"name": "evergreen97",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

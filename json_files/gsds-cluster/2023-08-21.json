@@ -1,206 +1,208 @@
-[
-  {
-    "client_msg_id": "deb69f3b-9507-4584-b6bf-e44fdf0b2b46",
-    "type": "message",
-    "user": "U01R67PKD7S",
-    "text": "현 시간부터 다시 서버 사용이 가능합니다.\n\n개인과 그룹(랩별) 스토리지 제한이 따로 적용되지 않던 점을 수정하였습니다.\n\n작업과 함께 공유 폴더의 위치또한 변경되었으니 \u003chttps://gsds.gitbook.io/gsds/notice/storage|메뉴얼\u003e을 참고하시기 바랍니다.",
-    "ts": "1692583748.165329",
-    "thread_ts": "1692333958.657309",
-    "attachments": [
-      {
-        "fallback": "Storage",
-        "id": 1,
-        "title": "Storage",
-        "title_link": "https://gsds.gitbook.io/gsds/notice/storage",
-        "image_url": "https://app.gitbook.com/share/space/thumbnail/pQFbhWipIl1ErYR88f4g/page/1HiZ5o9P0b4XpG9YddCK.png?color=%23346DDB\u0026logo=\u0026theme=default",
-        "service_name": "gsds.gitbook.io",
-        "service_icon": "https://app.gitbook.com/public/images/icon-512.png",
-        "from_url": "https://gsds.gitbook.io/gsds/notice/storage",
-        "original_url": "https://gsds.gitbook.io/gsds/notice/storage",
-        "blocks": null
-      }
-    ],
-    "subtype": "thread_broadcast",
-    "reactions": [
-      {
-        "name": "blob-clap",
-        "count": 7,
-        "users": [
-          "U0302PK342C",
-          "U0302PLQ34Y",
-          "U01Q75KNV1T",
-          "U02BD3EV4DQ",
-          "U02V5LT4DLZ",
-          "U02UVAT3BPW",
-          "U04QKG4K12Q"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 11,
-        "users": [
-          "U0302PK342C",
-          "U02UT1YNY6N",
-          "U0302PLQ34Y",
-          "U01PVEU7QKH",
-          "U01Q75KNV1T",
-          "U02BD3EV4DQ",
-          "U02V5LT4DLZ",
-          "U02UVAT3BPW",
-          "U02ULBHV58W",
-          "U04QAE6FHV4",
-          "U04QVM3TUD7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "T2YN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "현 시간부터 다시 서버 사용이 가능합니다.\n\n개인과 그룹(랩별) 스토리지 제한이 따로 적용되지 않던 점을 수정하였습니다.\n\n작업과 함께 공유 폴더의 위치또한 변경되었으니 "
-              },
-              {
-                "type": "link",
-                "url": "https://gsds.gitbook.io/gsds/notice/storage",
-                "text": "메뉴얼"
-              },
-              {
-                "type": "text",
-                "text": "을 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
-      "first_name": "조경제",
-      "real_name": "조경제",
-      "display_name": "4기_조경제",
-      "team": "T01QA5S537V",
-      "name": "avq159",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "deb69f3b-9507-4584-b6bf-e44fdf0b2b46",
-    "type": "message",
-    "user": "U01R67PKD7S",
-    "text": "현 시간부터 다시 서버 사용이 가능합니다.\n\n개인과 그룹(랩별) 스토리지 제한이 따로 적용되지 않던 점을 수정하였습니다.\n\n작업과 함께 공유 폴더의 위치또한 변경되었으니 \u003chttps://gsds.gitbook.io/gsds/notice/storage|메뉴얼\u003e을 참고하시기 바랍니다.",
-    "ts": "1692583748.165329",
-    "thread_ts": "1692333958.657309",
-    "attachments": [
-      {
-        "fallback": "Storage",
-        "id": 1,
-        "title": "Storage",
-        "title_link": "https://gsds.gitbook.io/gsds/notice/storage",
-        "image_url": "https://app.gitbook.com/share/space/thumbnail/pQFbhWipIl1ErYR88f4g/page/1HiZ5o9P0b4XpG9YddCK.png?color=%23346DDB\u0026logo=\u0026theme=default",
-        "service_name": "gsds.gitbook.io",
-        "service_icon": "https://app.gitbook.com/public/images/icon-512.png",
-        "from_url": "https://gsds.gitbook.io/gsds/notice/storage",
-        "original_url": "https://gsds.gitbook.io/gsds/notice/storage",
-        "blocks": null
-      }
-    ],
-    "subtype": "thread_broadcast",
-    "reactions": [
-      {
-        "name": "blob-clap",
-        "count": 7,
-        "users": [
-          "U0302PK342C",
-          "U0302PLQ34Y",
-          "U01Q75KNV1T",
-          "U02BD3EV4DQ",
-          "U02V5LT4DLZ",
-          "U02UVAT3BPW",
-          "U04QKG4K12Q"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 11,
-        "users": [
-          "U0302PK342C",
-          "U02UT1YNY6N",
-          "U0302PLQ34Y",
-          "U01PVEU7QKH",
-          "U01Q75KNV1T",
-          "U02BD3EV4DQ",
-          "U02V5LT4DLZ",
-          "U02UVAT3BPW",
-          "U02ULBHV58W",
-          "U04QAE6FHV4",
-          "U04QVM3TUD7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "T2YN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "현 시간부터 다시 서버 사용이 가능합니다.\n\n개인과 그룹(랩별) 스토리지 제한이 따로 적용되지 않던 점을 수정하였습니다.\n\n작업과 함께 공유 폴더의 위치또한 변경되었으니 "
-              },
-              {
-                "type": "link",
-                "url": "https://gsds.gitbook.io/gsds/notice/storage",
-                "text": "메뉴얼"
-              },
-              {
-                "type": "text",
-                "text": "을 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
-      "first_name": "조경제",
-      "real_name": "조경제",
-      "display_name": "4기_조경제",
-      "team": "T01QA5S537V",
-      "name": "avq159",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "deb69f3b-9507-4584-b6bf-e44fdf0b2b46",
+			"type": "message",
+			"user": "U01R67PKD7S",
+			"text": "현 시간부터 다시 서버 사용이 가능합니다.\n\n개인과 그룹(랩별) 스토리지 제한이 따로 적용되지 않던 점을 수정하였습니다.\n\n작업과 함께 공유 폴더의 위치또한 변경되었으니 <https://gsds.gitbook.io/gsds/notice/storage|메뉴얼>을 참고하시기 바랍니다.",
+			"ts": "1692583748.165329",
+			"thread_ts": "1692333958.657309",
+			"attachments": [
+				{
+					"fallback": "Storage",
+					"id": 1,
+					"title": "Storage",
+					"title_link": "https://gsds.gitbook.io/gsds/notice/storage",
+					"image_url": "https://app.gitbook.com/share/space/thumbnail/pQFbhWipIl1ErYR88f4g/page/1HiZ5o9P0b4XpG9YddCK.png?color=%23346DDB&logo=&theme=default",
+					"service_name": "gsds.gitbook.io",
+					"service_icon": "https://app.gitbook.com/public/images/icon-512.png",
+					"from_url": "https://gsds.gitbook.io/gsds/notice/storage",
+					"original_url": "https://gsds.gitbook.io/gsds/notice/storage",
+					"blocks": null
+				}
+			],
+			"subtype": "thread_broadcast",
+			"reactions": [
+				{
+					"name": "blob-clap",
+					"count": 7,
+					"users": [
+						"U0302PK342C",
+						"U0302PLQ34Y",
+						"U01Q75KNV1T",
+						"U02BD3EV4DQ",
+						"U02V5LT4DLZ",
+						"U02UVAT3BPW",
+						"U04QKG4K12Q"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 11,
+					"users": [
+						"U0302PK342C",
+						"U02UT1YNY6N",
+						"U0302PLQ34Y",
+						"U01PVEU7QKH",
+						"U01Q75KNV1T",
+						"U02BD3EV4DQ",
+						"U02V5LT4DLZ",
+						"U02UVAT3BPW",
+						"U02ULBHV58W",
+						"U04QAE6FHV4",
+						"U04QVM3TUD7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "T2YN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "현 시간부터 다시 서버 사용이 가능합니다.\n\n개인과 그룹(랩별) 스토리지 제한이 따로 적용되지 않던 점을 수정하였습니다.\n\n작업과 함께 공유 폴더의 위치또한 변경되었으니 "
+								},
+								{
+									"type": "link",
+									"url": "https://gsds.gitbook.io/gsds/notice/storage",
+									"text": "메뉴얼"
+								},
+								{
+									"type": "text",
+									"text": "을 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+				"first_name": "조경제",
+				"real_name": "조경제",
+				"display_name": "4기_조경제",
+				"team": "T01QA5S537V",
+				"name": "avq159",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "deb69f3b-9507-4584-b6bf-e44fdf0b2b46",
+			"type": "message",
+			"user": "U01R67PKD7S",
+			"text": "현 시간부터 다시 서버 사용이 가능합니다.\n\n개인과 그룹(랩별) 스토리지 제한이 따로 적용되지 않던 점을 수정하였습니다.\n\n작업과 함께 공유 폴더의 위치또한 변경되었으니 <https://gsds.gitbook.io/gsds/notice/storage|메뉴얼>을 참고하시기 바랍니다.",
+			"ts": "1692583748.165329",
+			"thread_ts": "1692333958.657309",
+			"attachments": [
+				{
+					"fallback": "Storage",
+					"id": 1,
+					"title": "Storage",
+					"title_link": "https://gsds.gitbook.io/gsds/notice/storage",
+					"image_url": "https://app.gitbook.com/share/space/thumbnail/pQFbhWipIl1ErYR88f4g/page/1HiZ5o9P0b4XpG9YddCK.png?color=%23346DDB&logo=&theme=default",
+					"service_name": "gsds.gitbook.io",
+					"service_icon": "https://app.gitbook.com/public/images/icon-512.png",
+					"from_url": "https://gsds.gitbook.io/gsds/notice/storage",
+					"original_url": "https://gsds.gitbook.io/gsds/notice/storage",
+					"blocks": null
+				}
+			],
+			"subtype": "thread_broadcast",
+			"reactions": [
+				{
+					"name": "blob-clap",
+					"count": 7,
+					"users": [
+						"U0302PK342C",
+						"U0302PLQ34Y",
+						"U01Q75KNV1T",
+						"U02BD3EV4DQ",
+						"U02V5LT4DLZ",
+						"U02UVAT3BPW",
+						"U04QKG4K12Q"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 11,
+					"users": [
+						"U0302PK342C",
+						"U02UT1YNY6N",
+						"U0302PLQ34Y",
+						"U01PVEU7QKH",
+						"U01Q75KNV1T",
+						"U02BD3EV4DQ",
+						"U02V5LT4DLZ",
+						"U02UVAT3BPW",
+						"U02ULBHV58W",
+						"U04QAE6FHV4",
+						"U04QVM3TUD7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "T2YN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "현 시간부터 다시 서버 사용이 가능합니다.\n\n개인과 그룹(랩별) 스토리지 제한이 따로 적용되지 않던 점을 수정하였습니다.\n\n작업과 함께 공유 폴더의 위치또한 변경되었으니 "
+								},
+								{
+									"type": "link",
+									"url": "https://gsds.gitbook.io/gsds/notice/storage",
+									"text": "메뉴얼"
+								},
+								{
+									"type": "text",
+									"text": "을 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+				"first_name": "조경제",
+				"real_name": "조경제",
+				"display_name": "4기_조경제",
+				"team": "T01QA5S537V",
+				"name": "avq159",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

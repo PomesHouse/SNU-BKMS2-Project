@@ -1,838 +1,840 @@
-[
-  {
-    "client_msg_id": "c036af81-ce12-460d-a697-927f94e891d3",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "아시아대학연맹(AUA)Lecture Series 참가 학생 신청 안내\n\n우리대학이 회원교로 소속되어 있는 아시아대학연맹(AUA)에서 회원교 학생들간의 활발한 지식 교류와 상호 이해를 위하여 다음과 같이 Lecture Series과정을 운영할 예정입니다. 이에 참가자를 아래와 같이 선발하오니 관심 있는 학생은 지원하시기 바랍니다.\n\n1. 아시아대학연맹(AUA)Lecture Series개요\n  가. 일정: 2024년 1월 8일(월)-3월 22일(금), 총11주, 매주 화·목요일 19:00-20:30(한국시간)\n  나. 주제: Sustainable Materials for Tomorrow\n  다. 주관: 아시아대학연맹(AUA)사무국\n  라. 강의방식: 온라인\n2. 선발인원 및 지원자격\n  가. 선발인원: 3명 (전체 강의 수강 학생에게는 AUA 사무국에서 이수증 발급)\n  나. 지원자격\n      1) 학부 및 대학원(석사, 박사) 재학생(전공무관, 휴학생 신청 불가)\n      2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n       ※ 영어 성적 기준(TOEFL CBT 180 / TOEFL IBT 64 / TOEFL PBT 510 / IELTS 5.0 / TOEIC 600 이상) 충족자 또는 이에 상응하는 영어성적 보유자\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n3. 지원방식\n   가. 제출 서류: 자기소개서(자유양식, 참가동기 중심 서술) 및 성적증명서 이메일 제출(\u003cmailto:snuinworld@snu.ac.kr|snuinworld@snu.ac.kr\u003e)\n   나. 제출 기한: 2023년 11월 17일(금) 14:00시\n4. 문의: 국제협력본부 (Tel: 880-2585, E-mail: \u003cmailto:snuinworld@snu.ac.kr|snuinworld@snu.ac.kr\u003e)",
-    "ts": "1699924204.366599",
-    "files": [
-      {
-        "id": "F065Y8LNVDF",
-        "created": 1699924188,
-        "timestamp": 1699924188,
-        "name": "AUA JLS Poster.pdf",
-        "title": "AUA JLS Poster.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1275877,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065Y8LNVDF-AUA JLS Poster.pdf",
-        "url_private_download": "attachments/F065Y8LNVDF-AUA JLS Poster.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065Y8LNVDF/aua_jls_poster.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065Y8LNVDF-a7bb8dca92",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F065KKE4VS6",
-        "created": 1699924191,
-        "timestamp": 1699924191,
-        "name": "AUA Lecture Series Program 2024.pdf",
-        "title": "AUA Lecture Series Program 2024.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 529705,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065KKE4VS6-AUA Lecture Series Program 2024.pdf",
-        "url_private_download": "attachments/F065KKE4VS6-AUA Lecture Series Program 2024.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065KKE4VS6/aua_lecture_series_program_2024.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065KKE4VS6-34b3831f3b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "t2b2X",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "아시아대학연맹(AUA)Lecture Series 참가 학생 신청 안내\n\n우리대학이 회원교로 소속되어 있는 아시아대학연맹(AUA)에서 회원교 학생들간의 활발한 지식 교류와 상호 이해를 위하여 다음과 같이 Lecture Series과정을 운영할 예정입니다. 이에 참가자를 아래와 같이 선발하오니 관심 있는 학생은 지원하시기 바랍니다.\n\n1. 아시아대학연맹(AUA)Lecture Series개요\n  가. 일정: 2024년 1월 8일(월)-3월 22일(금), 총11주, 매주 화·목요일 19:00-20:30(한국시간)\n  나. 주제: Sustainable Materials for Tomorrow\n  다. 주관: 아시아대학연맹(AUA)사무국\n  라. 강의방식: 온라인\n2. 선발인원 및 지원자격\n  가. 선발인원: 3명 (전체 강의 수강 학생에게는 AUA 사무국에서 이수증 발급)\n  나. 지원자격\n      1) 학부 및 대학원(석사, 박사) 재학생(전공무관, 휴학생 신청 불가)\n      2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n       ※ 영어 성적 기준(TOEFL CBT 180 / TOEFL IBT 64 / TOEFL PBT 510 / IELTS 5.0 / TOEIC 600 이상) 충족자 또는 이에 상응하는 영어성적 보유자\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n3. 지원방식\n   가. 제출 서류: 자기소개서(자유양식, 참가동기 중심 서술) 및 성적증명서 이메일 제출("
-              },
-              {
-                "type": "link",
-                "url": "mailto:snuinworld@snu.ac.kr",
-                "text": "snuinworld@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n   나. 제출 기한: 2023년 11월 17일(금) 14:00시\n4. 문의: 국제협력본부 (Tel: 880-2585, E-mail: "
-              },
-              {
-                "type": "link",
-                "url": "mailto:snuinworld@snu.ac.kr",
-                "text": "snuinworld@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ca00a0df-514d-4146-80ff-354cc97b4c31",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 동계 계절학기 연계과목 인정 신청 안내\u0026gt;\n\nㅁ연계과목 인정\n응용 또는 선택 분야(학번별로 상이)로 인정될 수 있는 타학과(부)의 대학원 과정의 교과목을 연계과목으로 심사 후, 인정받는 제도\nㅁ제출:  ~ 11. 16.(목) 10시까지 (기한엄수)\nㅁ심의:  11. 17.(금) 예정\n\n신청서 작성시 현재 수강신청 과목(예정 과목)을 모두 정리하시어 지도교수님 싸인을 받은 후 본인 성적표, 강의계획서와 함께 PDF로 합본하여 하나의 파일로 정리해주시기 바랍니다.\n성적표, 강의계획서 ,신청서 따로 주실 경우 취합시 누락될 수 있어 강조드리니 반드시 하나의 합본으로 제출해주세요.\n\n문의: 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e / 880-9768)\n제출방법: 이메일 제출 또는 행정실(43동 402호) 제출",
-    "ts": "1699936534.360519",
-    "files": [
-      {
-        "id": "F065DHJPD7G",
-        "created": 1699936495,
-        "timestamp": 1699936495,
-        "name": "데이터사이언스대학원 연계과목 인정신청(서식).hwp",
-        "title": "데이터사이언스대학원 연계과목 인정신청(서식).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 244224,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065DHJPD7G-데이터사이언스대학원 연계과목 인정신청(서식).hwp",
-        "url_private_download": "attachments/F065DHJPD7G-데이터사이언스대학원 연계과목 인정신청(서식).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065DHJPD7G/________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065DHJPD7G-d4febe2d9a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "vxzIn",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 동계 계절학기 연계과목 인정 신청 안내\u003e\n\nㅁ연계과목 인정\n응용 또는 선택 분야(학번별로 상이)로 인정될 수 있는 타학과(부)의 대학원 과정의 교과목을 연계과목으로 심사 후, 인정받는 제도\nㅁ제출:  ~ 11. 16.(목) 10시까지 (기한엄수)\nㅁ심의:  11. 17.(금) 예정\n\n신청서 작성시 현재 수강신청 과목(예정 과목)을 모두 정리하시어 지도교수님 싸인을 받은 후 본인 성적표, 강의계획서와 함께 PDF로 합본하여 하나의 파일로 정리해주시기 바랍니다.\n성적표, 강의계획서 ,신청서 따로 주실 경우 취합시 누락될 수 있어 강조드리니 반드시 하나의 합본으로 제출해주세요.\n\n문의: 임채연("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": " / 880-9768)\n제출방법: 이메일 제출 또는 행정실(43동 402호) 제출"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "c0914b53-f2b8-431a-a0d4-c863df1e9dcf",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2024학년도 대학수학능력시험 시행일 행정실 운영시간 조정(10~18시) 알림\u0026gt;*\n\n교육부에서 발표한 「2024학년도 대학수학능력시험 당일 안정적 시험 시행을 위한 지원대책」에 따라 2024학년도 대학수학능력시험 시행일에 수험생 편의 및 원활한 교통 소통을 위하여 아래와 같이 행정실 운영시간을 조정하오니 참고하시기 바랍니다.\n\nㅇ 조정일자: 2023.11.16.(목) (2024학년도 대학수학능력시험 시행일)\nㅇ 행정실 운영시간: 10:00 ~ 18:00",
-    "ts": "1699943066.991949",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "AOXKf",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2024학년도 대학수학능력시험 시행일 행정실 운영시간 조정(10~18시) 알림\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n교육부에서 발표한 「2024학년도 대학수학능력시험 당일 안정적 시험 시행을 위한 지원대책」에 따라 2024학년도 대학수학능력시험 시행일에 수험생 편의 및 원활한 교통 소통을 위하여 아래와 같이 행정실 운영시간을 조정하오니 참고하시기 바랍니다.\n\nㅇ 조정일자: 2023.11.16.(목) (2024학년도 대학수학능력시험 시행일)\nㅇ 행정실 운영시간: 10:00 ~ 18:00"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "39f4b2f9-ed91-4049-a9cf-d2e60952d6eb",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023 스웨덴-대한민국 노벨 메모리얼 프로그램 개최 안내\u0026gt;*\n\n우리 대학에서는 올해의 노벨상 수상업적을 기념하기 위해 주한스웨덴대사관과 공동 주관으로 *\u0026lt;2023 스웨덴-대한민국 노벨 메모리얼 프로그램\u0026gt;*을 개최하오니, 많은 참여바랍니다.\n\n1. 행 사 명: \u0026lt;2023 스웨덴-대한민국 노벨 메모리얼 프로그램\u0026gt;\n2. 일시/장소: 2023. 11. 22.(수) 13:15~18:00 / 문화관 중강당\n3. 참여방법: 사전등록(\u003chttp://www.nobelmemorialprogram.kr|www.nobelmemorialprogram.kr\u003e) 및 당일 현장등록\n ※당일 혼잡이 예상됨에 따라 가급적 사전등록을 요청드립니다.",
-    "ts": "1699947046.057449",
-    "files": [
-      {
-        "id": "F065E3MF022",
-        "created": 1699947023,
-        "timestamp": 1699947023,
-        "name": "포스터(대학 게시용)_2023 스웨덴-대한민국 노벨 메모리얼 프로그램.jpg",
-        "title": "포스터(대학 게시용)_2023 스웨덴-대한민국 노벨 메모리얼 프로그램.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 6500901,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065E3MF022-포스터(대학 게시용)_2023 스웨덴-대한민국 노벨 메모리얼 프로그램.jpg",
-        "url_private_download": "attachments/F065E3MF022-포스터(대학 게시용)_2023 스웨덴-대한민국 노벨 메모리얼 프로그램.jpg",
-        "original_h": 4961,
-        "original_w": 3544,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 257,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________480.jpg",
-        "thumb_480_w": 343,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________720.jpg",
-        "thumb_720_w": 514,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________960.jpg",
-        "thumb_960_w": 686,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________1024.jpg",
-        "thumb_1024_w": 732,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065E3MF022/____________________________2023__________-_____________________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065E3MF022-ff5935b9c6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "TxQ8g",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023 스웨덴-대한민국 노벨 메모리얼 프로그램 개최 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n우리 대학에서는 올해의 노벨상 수상업적을 기념하기 위해 주한스웨덴대사관과 공동 주관으로 "
-              },
-              {
-                "type": "text",
-                "text": "\u003c2023 스웨덴-대한민국 노벨 메모리얼 프로그램\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 개최하오니, 많은 참여바랍니다.\n\n1. 행 사 명: \u003c2023 스웨덴-대한민국 노벨 메모리얼 프로그램\u003e\n2. 일시/장소: 2023. 11. 22.(수) 13:15~18:00 / 문화관 중강당\n3. 참여방법: 사전등록("
-              },
-              {
-                "type": "link",
-                "url": "http://www.nobelmemorialprogram.kr",
-                "text": "www.nobelmemorialprogram.kr"
-              },
-              {
-                "type": "text",
-                "text": ") 및 당일 현장등록\n ※당일 혼잡이 예상됨에 따라 가급적 사전등록을 요청드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "fad8c683-0a71-43ec-8e9d-8c02bde1569e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;창업경진대회 '비더로켓 시즌7 론칭데이(최종발표회·시상식)' 참여 안내\u0026gt;*\n\n우리 대학에서 개최하는 창업경진대회 '비더로켓 시즌7 론칭데이(최종발표회·시상식)' 을 안내하오니 많은 참여바랍니다.\n  1. 목 적: 비더로켓 시즌7 론칭데이 참가자 모집 홍보\n  2. 신청기한: 2023. 11. 22.(수)까지\n  3. 모집대상: (예비)창업자 및 창업에 관심 있는 교원·대학(원)생·교직원 등\n  4. 신청방법: 창업지원단 홈페이지 신청(서울대학교 창업지원단 (\u003chttp://snu.ac.kr|snu.ac.kr\u003e))\n  5. 요청사항: 기관 홈페이지·홍보채널에 포스터 게재 요청\n  6. 문 의 처: 창업지원단(02-880-8984)",
-    "ts": "1699947163.954039",
-    "files": [
-      {
-        "id": "F065671E1FH",
-        "created": 1699947153,
-        "timestamp": 1699947153,
-        "name": "비더로켓 시즌7 론칭데이 포스터.jpg",
-        "title": "비더로켓 시즌7 론칭데이 포스터.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 9351280,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065671E1FH-비더로켓 시즌7 론칭데이 포스터.jpg",
-        "url_private_download": "attachments/F065671E1FH-비더로켓 시즌7 론칭데이 포스터.jpg",
-        "original_h": 4961,
-        "original_w": 3508,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065671E1FH/___________________7_______________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065671E1FH-8cbbde7843",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "LATlX",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c창업경진대회 '비더로켓 시즌7 론칭데이(최종발표회·시상식)' 참여 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n우리 대학에서 개최하는 창업경진대회 '비더로켓 시즌7 론칭데이(최종발표회·시상식)' 을 안내하오니 많은 참여바랍니다.\n  1. 목 적: 비더로켓 시즌7 론칭데이 참가자 모집 홍보\n  2. 신청기한: 2023. 11. 22.(수)까지\n  3. 모집대상: (예비)창업자 및 창업에 관심 있는 교원·대학(원)생·교직원 등\n  4. 신청방법: 창업지원단 홈페이지 신청(서울대학교 창업지원단 ("
-              },
-              {
-                "type": "link",
-                "url": "http://snu.ac.kr",
-                "text": "snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "))\n  5. 요청사항: 기관 홈페이지·홍보채널에 포스터 게재 요청\n  6. 문 의 처: 창업지원단(02-880-8984)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "061b4026-73a8-46cc-ba3f-508f07da4b9a",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;「미래 오픈액세스 전략」포럼 개최 안내\u0026gt;*\n\n*오픈액세스 학술커뮤니케이션 패러다임*의 *선제적 수용*을 위한 *정책 방향성 논의* 및 *연구자·학술단체*의 *인식 제고*를 위한 *「미래 오픈액세스 전략」 포럼*을 아래와 같이 개최하니 참여바랍니다.\n ○ *일시 : 2023. 11. 21.(화) 15:00*\n○ 장소 : 한국과학기술회관(B1) 온라인방송실1(*유튜브 실시간 중계*)\n   ※ *온라인 상(YouTube '한국과총' 검색)으로 당일 접속(별도 사전신청 없음)*\n ○ 대상 : 참여를 원하는 학내 구성원(교직원, 학부생, 대학원생, 연구원 등)",
-    "ts": "1699948083.508959",
-    "files": [
-      {
-        "id": "F065HSCQZM3",
-        "created": 1699948080,
-        "timestamp": 1699948080,
-        "name": "「미래 오픈액세스 전략」 포럼 포스터.jpg",
-        "title": "「미래 오픈액세스 전략」 포럼 포스터.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 412639,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065HSCQZM3-「미래 오픈액세스 전략」 포럼 포스터.jpg",
-        "url_private_download": "attachments/F065HSCQZM3-「미래 오픈액세스 전략」 포럼 포스터.jpg",
-        "original_h": 1780,
-        "original_w": 800,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 162,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________480.jpg",
-        "thumb_480_w": 216,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________720.jpg",
-        "thumb_720_w": 324,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________960.jpg",
-        "thumb_960_w": 431,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________1024.jpg",
-        "thumb_1024_w": 460,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065HSCQZM3/____________________________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065HSCQZM3-9ebdb96482",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "XTQLA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c「미래 오픈액세스 전략」포럼 개최 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "오픈액세스 학술커뮤니케이션 패러다임",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "의"
-              },
-              {
-                "type": "text",
-                "text": " 선제적 수용",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 위한"
-              },
-              {
-                "type": "text",
-                "text": " 정책 방향성 논의",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 및"
-              },
-              {
-                "type": "text",
-                "text": " 연구자·학술단체",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "의"
-              },
-              {
-                "type": "text",
-                "text": " 인식 제고",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "를 위한 "
-              },
-              {
-                "type": "text",
-                "text": "「미래 오픈액세스 전략」 포럼",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 아래와 같이 개최하니 참여바랍니다.\n ○ "
-              },
-              {
-                "type": "text",
-                "text": "일시 : 2023. 11. 21.(화) 15:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n○ 장소 : 한국과학기술회관(B1) 온라인방송실1("
-              },
-              {
-                "type": "text",
-                "text": "유튜브 실시간 중계",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")\n   ※ "
-              },
-              {
-                "type": "text",
-                "text": "온라인 상(YouTube '한국과총' 검색)으로 당일 접속(별도 사전신청 없음)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n ○ 대상 : 참여를 원하는 학내 구성원(교직원, 학부생, 대학원생, 연구원 등)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "c036af81-ce12-460d-a697-927f94e891d3",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "아시아대학연맹(AUA)Lecture Series 참가 학생 신청 안내\n\n우리대학이 회원교로 소속되어 있는 아시아대학연맹(AUA)에서 회원교 학생들간의 활발한 지식 교류와 상호 이해를 위하여 다음과 같이 Lecture Series과정을 운영할 예정입니다. 이에 참가자를 아래와 같이 선발하오니 관심 있는 학생은 지원하시기 바랍니다.\n\n1. 아시아대학연맹(AUA)Lecture Series개요\n  가. 일정: 2024년 1월 8일(월)-3월 22일(금), 총11주, 매주 화·목요일 19:00-20:30(한국시간)\n  나. 주제: Sustainable Materials for Tomorrow\n  다. 주관: 아시아대학연맹(AUA)사무국\n  라. 강의방식: 온라인\n2. 선발인원 및 지원자격\n  가. 선발인원: 3명 (전체 강의 수강 학생에게는 AUA 사무국에서 이수증 발급)\n  나. 지원자격\n      1) 학부 및 대학원(석사, 박사) 재학생(전공무관, 휴학생 신청 불가)\n      2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n       ※ 영어 성적 기준(TOEFL CBT 180 / TOEFL IBT 64 / TOEFL PBT 510 / IELTS 5.0 / TOEIC 600 이상) 충족자 또는 이에 상응하는 영어성적 보유자\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n3. 지원방식\n   가. 제출 서류: 자기소개서(자유양식, 참가동기 중심 서술) 및 성적증명서 이메일 제출(<mailto:snuinworld@snu.ac.kr|snuinworld@snu.ac.kr>)\n   나. 제출 기한: 2023년 11월 17일(금) 14:00시\n4. 문의: 국제협력본부 (Tel: 880-2585, E-mail: <mailto:snuinworld@snu.ac.kr|snuinworld@snu.ac.kr>)",
+			"ts": "1699924204.366599",
+			"files": [
+				{
+					"id": "F065Y8LNVDF",
+					"created": 1699924188,
+					"timestamp": 1699924188,
+					"name": "AUA JLS Poster.pdf",
+					"title": "AUA JLS Poster.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1275877,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065Y8LNVDF-AUA JLS Poster.pdf",
+					"url_private_download": "attachments/F065Y8LNVDF-AUA JLS Poster.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065Y8LNVDF/aua_jls_poster.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065Y8LNVDF-a7bb8dca92",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F065KKE4VS6",
+					"created": 1699924191,
+					"timestamp": 1699924191,
+					"name": "AUA Lecture Series Program 2024.pdf",
+					"title": "AUA Lecture Series Program 2024.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 529705,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065KKE4VS6-AUA Lecture Series Program 2024.pdf",
+					"url_private_download": "attachments/F065KKE4VS6-AUA Lecture Series Program 2024.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065KKE4VS6/aua_lecture_series_program_2024.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065KKE4VS6-34b3831f3b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "t2b2X",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "아시아대학연맹(AUA)Lecture Series 참가 학생 신청 안내\n\n우리대학이 회원교로 소속되어 있는 아시아대학연맹(AUA)에서 회원교 학생들간의 활발한 지식 교류와 상호 이해를 위하여 다음과 같이 Lecture Series과정을 운영할 예정입니다. 이에 참가자를 아래와 같이 선발하오니 관심 있는 학생은 지원하시기 바랍니다.\n\n1. 아시아대학연맹(AUA)Lecture Series개요\n  가. 일정: 2024년 1월 8일(월)-3월 22일(금), 총11주, 매주 화·목요일 19:00-20:30(한국시간)\n  나. 주제: Sustainable Materials for Tomorrow\n  다. 주관: 아시아대학연맹(AUA)사무국\n  라. 강의방식: 온라인\n2. 선발인원 및 지원자격\n  가. 선발인원: 3명 (전체 강의 수강 학생에게는 AUA 사무국에서 이수증 발급)\n  나. 지원자격\n      1) 학부 및 대학원(석사, 박사) 재학생(전공무관, 휴학생 신청 불가)\n      2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n       ※ 영어 성적 기준(TOEFL CBT 180 / TOEFL IBT 64 / TOEFL PBT 510 / IELTS 5.0 / TOEIC 600 이상) 충족자 또는 이에 상응하는 영어성적 보유자\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n3. 지원방식\n   가. 제출 서류: 자기소개서(자유양식, 참가동기 중심 서술) 및 성적증명서 이메일 제출("
+								},
+								{
+									"type": "link",
+									"url": "mailto:snuinworld@snu.ac.kr",
+									"text": "snuinworld@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n   나. 제출 기한: 2023년 11월 17일(금) 14:00시\n4. 문의: 국제협력본부 (Tel: 880-2585, E-mail: "
+								},
+								{
+									"type": "link",
+									"url": "mailto:snuinworld@snu.ac.kr",
+									"text": "snuinworld@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ca00a0df-514d-4146-80ff-354cc97b4c31",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 동계 계절학기 연계과목 인정 신청 안내&gt;\n\nㅁ연계과목 인정\n응용 또는 선택 분야(학번별로 상이)로 인정될 수 있는 타학과(부)의 대학원 과정의 교과목을 연계과목으로 심사 후, 인정받는 제도\nㅁ제출:  ~ 11. 16.(목) 10시까지 (기한엄수)\nㅁ심의:  11. 17.(금) 예정\n\n신청서 작성시 현재 수강신청 과목(예정 과목)을 모두 정리하시어 지도교수님 싸인을 받은 후 본인 성적표, 강의계획서와 함께 PDF로 합본하여 하나의 파일로 정리해주시기 바랍니다.\n성적표, 강의계획서 ,신청서 따로 주실 경우 취합시 누락될 수 있어 강조드리니 반드시 하나의 합본으로 제출해주세요.\n\n문의: 임채연(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr> / 880-9768)\n제출방법: 이메일 제출 또는 행정실(43동 402호) 제출",
+			"ts": "1699936534.360519",
+			"files": [
+				{
+					"id": "F065DHJPD7G",
+					"created": 1699936495,
+					"timestamp": 1699936495,
+					"name": "데이터사이언스대학원 연계과목 인정신청(서식).hwp",
+					"title": "데이터사이언스대학원 연계과목 인정신청(서식).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 244224,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065DHJPD7G-데이터사이언스대학원 연계과목 인정신청(서식).hwp",
+					"url_private_download": "attachments/F065DHJPD7G-데이터사이언스대학원 연계과목 인정신청(서식).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065DHJPD7G/________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065DHJPD7G-d4febe2d9a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "vxzIn",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 동계 계절학기 연계과목 인정 신청 안내>\n\nㅁ연계과목 인정\n응용 또는 선택 분야(학번별로 상이)로 인정될 수 있는 타학과(부)의 대학원 과정의 교과목을 연계과목으로 심사 후, 인정받는 제도\nㅁ제출:  ~ 11. 16.(목) 10시까지 (기한엄수)\nㅁ심의:  11. 17.(금) 예정\n\n신청서 작성시 현재 수강신청 과목(예정 과목)을 모두 정리하시어 지도교수님 싸인을 받은 후 본인 성적표, 강의계획서와 함께 PDF로 합본하여 하나의 파일로 정리해주시기 바랍니다.\n성적표, 강의계획서 ,신청서 따로 주실 경우 취합시 누락될 수 있어 강조드리니 반드시 하나의 합본으로 제출해주세요.\n\n문의: 임채연("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": " / 880-9768)\n제출방법: 이메일 제출 또는 행정실(43동 402호) 제출"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "c0914b53-f2b8-431a-a0d4-c863df1e9dcf",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2024학년도 대학수학능력시험 시행일 행정실 운영시간 조정(10~18시) 알림&gt;*\n\n교육부에서 발표한 「2024학년도 대학수학능력시험 당일 안정적 시험 시행을 위한 지원대책」에 따라 2024학년도 대학수학능력시험 시행일에 수험생 편의 및 원활한 교통 소통을 위하여 아래와 같이 행정실 운영시간을 조정하오니 참고하시기 바랍니다.\n\nㅇ 조정일자: 2023.11.16.(목) (2024학년도 대학수학능력시험 시행일)\nㅇ 행정실 운영시간: 10:00 ~ 18:00",
+			"ts": "1699943066.991949",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "AOXKf",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2024학년도 대학수학능력시험 시행일 행정실 운영시간 조정(10~18시) 알림>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n교육부에서 발표한 「2024학년도 대학수학능력시험 당일 안정적 시험 시행을 위한 지원대책」에 따라 2024학년도 대학수학능력시험 시행일에 수험생 편의 및 원활한 교통 소통을 위하여 아래와 같이 행정실 운영시간을 조정하오니 참고하시기 바랍니다.\n\nㅇ 조정일자: 2023.11.16.(목) (2024학년도 대학수학능력시험 시행일)\nㅇ 행정실 운영시간: 10:00 ~ 18:00"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "39f4b2f9-ed91-4049-a9cf-d2e60952d6eb",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023 스웨덴-대한민국 노벨 메모리얼 프로그램 개최 안내&gt;*\n\n우리 대학에서는 올해의 노벨상 수상업적을 기념하기 위해 주한스웨덴대사관과 공동 주관으로 *&lt;2023 스웨덴-대한민국 노벨 메모리얼 프로그램&gt;*을 개최하오니, 많은 참여바랍니다.\n\n1. 행 사 명: &lt;2023 스웨덴-대한민국 노벨 메모리얼 프로그램&gt;\n2. 일시/장소: 2023. 11. 22.(수) 13:15~18:00 / 문화관 중강당\n3. 참여방법: 사전등록(<http://www.nobelmemorialprogram.kr|www.nobelmemorialprogram.kr>) 및 당일 현장등록\n ※당일 혼잡이 예상됨에 따라 가급적 사전등록을 요청드립니다.",
+			"ts": "1699947046.057449",
+			"files": [
+				{
+					"id": "F065E3MF022",
+					"created": 1699947023,
+					"timestamp": 1699947023,
+					"name": "포스터(대학 게시용)_2023 스웨덴-대한민국 노벨 메모리얼 프로그램.jpg",
+					"title": "포스터(대학 게시용)_2023 스웨덴-대한민국 노벨 메모리얼 프로그램.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 6500901,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065E3MF022-포스터(대학 게시용)_2023 스웨덴-대한민국 노벨 메모리얼 프로그램.jpg",
+					"url_private_download": "attachments/F065E3MF022-포스터(대학 게시용)_2023 스웨덴-대한민국 노벨 메모리얼 프로그램.jpg",
+					"original_h": 4961,
+					"original_w": 3544,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 257,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________480.jpg",
+					"thumb_480_w": 343,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________720.jpg",
+					"thumb_720_w": 514,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________960.jpg",
+					"thumb_960_w": 686,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F065E3MF022-556d29d03c/____________________________2023__________-______________________________________________1024.jpg",
+					"thumb_1024_w": 732,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065E3MF022/____________________________2023__________-_____________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065E3MF022-ff5935b9c6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "TxQ8g",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023 스웨덴-대한민국 노벨 메모리얼 프로그램 개최 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n우리 대학에서는 올해의 노벨상 수상업적을 기념하기 위해 주한스웨덴대사관과 공동 주관으로 "
+								},
+								{
+									"type": "text",
+									"text": "<2023 스웨덴-대한민국 노벨 메모리얼 프로그램>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 개최하오니, 많은 참여바랍니다.\n\n1. 행 사 명: <2023 스웨덴-대한민국 노벨 메모리얼 프로그램>\n2. 일시/장소: 2023. 11. 22.(수) 13:15~18:00 / 문화관 중강당\n3. 참여방법: 사전등록("
+								},
+								{
+									"type": "link",
+									"url": "http://www.nobelmemorialprogram.kr",
+									"text": "www.nobelmemorialprogram.kr"
+								},
+								{
+									"type": "text",
+									"text": ") 및 당일 현장등록\n ※당일 혼잡이 예상됨에 따라 가급적 사전등록을 요청드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "fad8c683-0a71-43ec-8e9d-8c02bde1569e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;창업경진대회 '비더로켓 시즌7 론칭데이(최종발표회·시상식)' 참여 안내&gt;*\n\n우리 대학에서 개최하는 창업경진대회 '비더로켓 시즌7 론칭데이(최종발표회·시상식)' 을 안내하오니 많은 참여바랍니다.\n  1. 목 적: 비더로켓 시즌7 론칭데이 참가자 모집 홍보\n  2. 신청기한: 2023. 11. 22.(수)까지\n  3. 모집대상: (예비)창업자 및 창업에 관심 있는 교원·대학(원)생·교직원 등\n  4. 신청방법: 창업지원단 홈페이지 신청(서울대학교 창업지원단 (<http://snu.ac.kr|snu.ac.kr>))\n  5. 요청사항: 기관 홈페이지·홍보채널에 포스터 게재 요청\n  6. 문 의 처: 창업지원단(02-880-8984)",
+			"ts": "1699947163.954039",
+			"files": [
+				{
+					"id": "F065671E1FH",
+					"created": 1699947153,
+					"timestamp": 1699947153,
+					"name": "비더로켓 시즌7 론칭데이 포스터.jpg",
+					"title": "비더로켓 시즌7 론칭데이 포스터.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 9351280,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065671E1FH-비더로켓 시즌7 론칭데이 포스터.jpg",
+					"url_private_download": "attachments/F065671E1FH-비더로켓 시즌7 론칭데이 포스터.jpg",
+					"original_h": 4961,
+					"original_w": 3508,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F065671E1FH-db34570cc6/___________________7________________________1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065671E1FH/___________________7_______________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065671E1FH-8cbbde7843",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "LATlX",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<창업경진대회 '비더로켓 시즌7 론칭데이(최종발표회·시상식)' 참여 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n우리 대학에서 개최하는 창업경진대회 '비더로켓 시즌7 론칭데이(최종발표회·시상식)' 을 안내하오니 많은 참여바랍니다.\n  1. 목 적: 비더로켓 시즌7 론칭데이 참가자 모집 홍보\n  2. 신청기한: 2023. 11. 22.(수)까지\n  3. 모집대상: (예비)창업자 및 창업에 관심 있는 교원·대학(원)생·교직원 등\n  4. 신청방법: 창업지원단 홈페이지 신청(서울대학교 창업지원단 ("
+								},
+								{
+									"type": "link",
+									"url": "http://snu.ac.kr",
+									"text": "snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "))\n  5. 요청사항: 기관 홈페이지·홍보채널에 포스터 게재 요청\n  6. 문 의 처: 창업지원단(02-880-8984)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "061b4026-73a8-46cc-ba3f-508f07da4b9a",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;「미래 오픈액세스 전략」포럼 개최 안내&gt;*\n\n*오픈액세스 학술커뮤니케이션 패러다임*의 *선제적 수용*을 위한 *정책 방향성 논의* 및 *연구자·학술단체*의 *인식 제고*를 위한 *「미래 오픈액세스 전략」 포럼*을 아래와 같이 개최하니 참여바랍니다.\n ○ *일시 : 2023. 11. 21.(화) 15:00*\n○ 장소 : 한국과학기술회관(B1) 온라인방송실1(*유튜브 실시간 중계*)\n   ※ *온라인 상(YouTube '한국과총' 검색)으로 당일 접속(별도 사전신청 없음)*\n ○ 대상 : 참여를 원하는 학내 구성원(교직원, 학부생, 대학원생, 연구원 등)",
+			"ts": "1699948083.508959",
+			"files": [
+				{
+					"id": "F065HSCQZM3",
+					"created": 1699948080,
+					"timestamp": 1699948080,
+					"name": "「미래 오픈액세스 전략」 포럼 포스터.jpg",
+					"title": "「미래 오픈액세스 전략」 포럼 포스터.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 412639,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065HSCQZM3-「미래 오픈액세스 전략」 포럼 포스터.jpg",
+					"url_private_download": "attachments/F065HSCQZM3-「미래 오픈액세스 전략」 포럼 포스터.jpg",
+					"original_h": 1780,
+					"original_w": 800,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 162,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________480.jpg",
+					"thumb_480_w": 216,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________720.jpg",
+					"thumb_720_w": 324,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________960.jpg",
+					"thumb_960_w": 431,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F065HSCQZM3-81fd9ced80/_____________________________________________________1024.jpg",
+					"thumb_1024_w": 460,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F065HSCQZM3/____________________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065HSCQZM3-9ebdb96482",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "XTQLA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<「미래 오픈액세스 전략」포럼 개최 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "오픈액세스 학술커뮤니케이션 패러다임",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "의"
+								},
+								{
+									"type": "text",
+									"text": " 선제적 수용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 위한"
+								},
+								{
+									"type": "text",
+									"text": " 정책 방향성 논의",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 및"
+								},
+								{
+									"type": "text",
+									"text": " 연구자·학술단체",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "의"
+								},
+								{
+									"type": "text",
+									"text": " 인식 제고",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "를 위한 "
+								},
+								{
+									"type": "text",
+									"text": "「미래 오픈액세스 전략」 포럼",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 아래와 같이 개최하니 참여바랍니다.\n ○ "
+								},
+								{
+									"type": "text",
+									"text": "일시 : 2023. 11. 21.(화) 15:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n○ 장소 : 한국과학기술회관(B1) 온라인방송실1("
+								},
+								{
+									"type": "text",
+									"text": "유튜브 실시간 중계",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")\n   ※ "
+								},
+								{
+									"type": "text",
+									"text": "온라인 상(YouTube '한국과총' 검색)으로 당일 접속(별도 사전신청 없음)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n ○ 대상 : 참여를 원하는 학내 구성원(교직원, 학부생, 대학원생, 연구원 등)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

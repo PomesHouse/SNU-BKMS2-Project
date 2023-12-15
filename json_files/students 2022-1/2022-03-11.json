@@ -1,59 +1,61 @@
-[
-  {
-    "client_msg_id": "26de1d33-b0cc-4ecb-bb4b-d4b130c11f8c",
-    "type": "message",
-    "user": "U01PVEU1A07",
-    "text": "\u003c@U02ULBHV58W\u003e 님이 맡아주시기로 했습니다. 감사드립니다 :pray:",
-    "ts": "1646980236.336449",
-    "thread_ts": "1646885939.547749",
-    "parent_user_id": "U01PVEU1A07",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Sz49J",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "user",
-                "user_id": "U02ULBHV58W"
-              },
-              {
-                "type": "text",
-                "text": " 님이 맡아주시기로 했습니다. 감사드립니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
-      "first_name": "1기_남기성",
-      "real_name": "1기_남기성",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kisung.nam",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "26de1d33-b0cc-4ecb-bb4b-d4b130c11f8c",
+			"type": "message",
+			"user": "U01PVEU1A07",
+			"text": "<@U02ULBHV58W> 님이 맡아주시기로 했습니다. 감사드립니다 :pray:",
+			"ts": "1646980236.336449",
+			"thread_ts": "1646885939.547749",
+			"parent_user_id": "U01PVEU1A07",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Sz49J",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "user",
+									"user_id": "U02ULBHV58W"
+								},
+								{
+									"type": "text",
+									"text": " 님이 맡아주시기로 했습니다. 감사드립니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+				"first_name": "1기_남기성",
+				"real_name": "1기_남기성",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kisung.nam",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

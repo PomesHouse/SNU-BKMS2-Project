@@ -1,313 +1,315 @@
-[
-  {
-    "client_msg_id": "1856581e-11d4-4c92-96c2-8f4b1461ec7d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;국가거점국립대학교 학사교류강화 정책연구를 위한 설문조사 협조 요청\u0026gt;\n\n국가거점국립대학교 학사교류강화 정책연구와 관련하여 국립대 학사교류 요구조사를 실시하오니, 관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n  가. 조사명: 국립대 학사교류 요구조사\n  나. 조사기간: 2021. 8. 9.(월) ~ 8. 17.(화)\n  다. 조사대상: 학부생, 대학원생, 교원\n  라. 조사방법: 인터넷 URL을 활용한 온라인 설문조사\n    - 대학원용: \u003chttps://docs.google.com/forms/d/e/1FAIpQLSdDgILtXlxJM6vbooCZ2Bjw8ca6Qk5IuoZcGc4k4hhyfyxOQg/viewform\u003e\n     ※ 설문에 응답하신 분들 중 추첨을 통해 소정의 모바일 상품권을 지급합니다.\n  마. 관련 문의: 제주대학교(교육혁신본부장 양창용, :phone: \u003ctel:0647543224|064-754-3224\u003e).",
-    "ts": "1628732008.008000",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "sMOo",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c국가거점국립대학교 학사교류강화 정책연구를 위한 설문조사 협조 요청\u003e\n\n국가거점국립대학교 학사교류강화 정책연구와 관련하여 국립대 학사교류 요구조사를 실시하오니, 관심있는 학생분들의 많은 참여 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n  가. 조사명: 국립대 학사교류 요구조사\n  나. 조사기간: 2021. 8. 9.(월) ~ 8. 17.(화)\n  다. 조사대상: 학부생, 대학원생, 교원\n  라. 조사방법: 인터넷 URL을 활용한 온라인 설문조사\n    - 대학원용: "
-              },
-              {
-                "type": "link",
-                "url": "https://docs.google.com/forms/d/e/1FAIpQLSdDgILtXlxJM6vbooCZ2Bjw8ca6Qk5IuoZcGc4k4hhyfyxOQg/viewform",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n     ※ 설문에 응답하신 분들 중 추첨을 통해 소정의 모바일 상품권을 지급합니다.\n  마. 관련 문의: 제주대학교(교육혁신본부장 양창용, "
-              },
-              {
-                "type": "emoji",
-                "name": "phone",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "link",
-                "url": "tel:0647543224",
-                "text": "064-754-3224"
-              },
-              {
-                "type": "text",
-                "text": ")."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;아시아대학연맹(AUA)Lecture Series 참가 학생 신청 안내\u0026gt;*\n\n우리대학이 회원교로 소속되어 있는 아시아대학연맹(AUA)에서 회원교 학생들간의 활발한 지식 교류와 상호 이해를 위하여 다음과 같이 Lecture Series과정을 운영할 예정입니다.\n이에 참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 참여 바랍니다.\n\n1.  아시아대학연맹(AUA)Lecture Series개요\n  가. 일정: 2021년 9월 2일(목)-12월 16일(목), 총15주, 매주 목요일 20:00-21:30(한국시간)\n  나. 주제: The challenges and opportunities of Asian economies in the COVID-19 and post COVID-19 era\n  다. 주관: 아시아대학연맹(AUA)사무국\n  라. 강의방식: 온라인(ZOOM, Classin)\n 2. 선발인원 및 지원자격\n  가. 선발인원: 3명 (전체 강의 수강 학생에게는 AUA 사무국에서 이수증 발급)\n  나. 지원자격\n      1) 학부 및 대학원(석사, 박사) 재학생(전공무관, 휴학생 신청 불가)\n      2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n       ※ 영어 성적 기준(TOEFL ITP 510 / TOEFL CBT 180 / TOEFL IBT 64 / TOEFL PBT 510 / IELTS 5.0 / TOEIC 600 이상) 충족자 또는 이에 상응하는 영어성적 보유자\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n 3.지원방식\n  가. 제출 서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일 제출(\u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e)\n  나. 제출 기한: 2021년 8월 20일(금) 17:00시\n 4. 문의처: 국제협력본부 안시헌(Tel. 880-8636, \u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e)",
-    "ts": "1628732213.009400",
-    "files": [
-      {
-        "id": "F02AHM7CDPZ",
-        "created": 1628732208,
-        "timestamp": 1628732208,
-        "name": "AUA Lecture Series Program.pdf",
-        "title": "AUA Lecture Series Program.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 378211,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02AHM7CDPZ-AUA Lecture Series Program.pdf",
-        "url_private_download": "attachments/F02AHM7CDPZ-AUA Lecture Series Program.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02AHM7CDPZ/aua_lecture_series_program.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02AHM7CDPZ-40cccaf6ae",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "vHAeL",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c아시아대학연맹(AUA)Lecture Series 참가 학생 신청 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n우리대학이 회원교로 소속되어 있는 아시아대학연맹(AUA)에서 회원교 학생들간의 활발한 지식 교류와 상호 이해를 위하여 다음과 같이 Lecture Series과정을 운영할 예정입니다.\n이에 참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 참여 바랍니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\uc544\\uc2dc\\uc544\\ub300\\ud559\\uc5f0\\ub9f9(AUA)Lecture Series\\uac1c\\uc694\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "  가. 일정: 2021년 9월 2일(목)-12월 16일(목), 총15주, 매주 목요일 20:00-21:30(한국시간)\n  나. 주제: The challenges and opportunities of Asian economies in the COVID-19 and post COVID-19 era\n  다. 주관: 아시아대학연맹(AUA)사무국\n  라. 강의방식: 온라인(ZOOM, Classin)\n 2. 선발인원 및 지원자격\n  가. 선발인원: 3명 (전체 강의 수강 학생에게는 AUA 사무국에서 이수증 발급)\n  나. 지원자격\n      1) 학부 및 대학원(석사, 박사) 재학생(전공무관, 휴학생 신청 불가)\n      2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n       ※ 영어 성적 기준(TOEFL ITP 510 / TOEFL CBT 180 / TOEFL IBT 64 / TOEFL PBT 510 / IELTS 5.0 / TOEIC 600 이상) 충족자 또는 이에 상응하는 영어성적 보유자\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n 3.지원방식\n  가. 제출 서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일 제출("
-              },
-              {
-                "type": "link",
-                "url": "mailto:ahnsihun@snu.ac.kr",
-                "text": "ahnsihun@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n  나. 제출 기한: 2021년 8월 20일(금) 17:00시\n 4. 문의처: 국제협력본부 안시헌(Tel. 880-8636, "
-              },
-              {
-                "type": "link",
-                "url": "mailto:ahnsihun@snu.ac.kr",
-                "text": "ahnsihun@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "547b7e98-20a8-4b97-8c35-3e65f17a33b3",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 2021년도 제5차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」\u0026gt;\n\n2021년도 제 5차 「찾아가는 연구자 교육」을 개최하여 인간대상 연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획·작성의 이해를 돕고자 하며, 관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n• 일시: 2021.8.25.(수) 10:00 ~ 12:00\n• 장소: 비대면 강의\n• 참석대상: 인간대상연구 연구자 (교원, 대학원생, 연구원 등)\n• 주제: 인간대상 연구 윤리와 IRB 심의의뢰서 작성법\n• 등록방법: \u003chttps://forms.gle/rye9uvWiNKkxTJHd7\u003e (이름, 소속, 이메일 기재, 2021.8.18일 부터 사전 등록)\n※ 선착순 70명 마감이며, 연 6회 이내로 진행예정 (문의: 연구윤리팀 김시형(02-880-5153)",
-    "ts": "1628749186.014700",
-    "attachments": [
-      {
-        "fallback": "Google Docs: 2021.8 찾아가는 연구자 교육",
-        "id": 1,
-        "title": "2021.8 찾아가는 연구자 교육",
-        "title_link": "https://forms.gle/rye9uvWiNKkxTJHd7",
-        "text": "2021. 8. 25.(수) 10:00~12:00, ZOOM 강의",
-        "image_url": "https://lh5.googleusercontent.com/xO53H74o13VKPhYvceUr78sha0AMtJ7Ycf5ImQ2R4omAJSqDRNsXEGeXPvvrs99mDXeqe2BuQro",
-        "service_name": "Google Docs",
-        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
-        "from_url": "https://forms.gle/rye9uvWiNKkxTJHd7",
-        "original_url": "https://forms.gle/rye9uvWiNKkxTJHd7",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "g0Z",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 2021년도 제5차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」\u003e\n\n2021년도 제 5차 「찾아가는 연구자 교육」을 개최하여 인간대상 연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획·작성의 이해를 돕고자 하며, 관심있는 학생분들의 많은 참여 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 2021.8.25.(\\uc218) 10:00 ~ 12:00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: \\ube44\\ub300\\uba74 \\uac15\\uc758\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d\\ub300\\uc0c1: \\uc778\\uac04\\ub300\\uc0c1\\uc5f0\\uad6c \\uc5f0\\uad6c\\uc790 (\\uad50\\uc6d0, \\ub300\\ud559\\uc6d0\\uc0dd, \\uc5f0\\uad6c\\uc6d0 \\ub4f1)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc81c: \\uc778\\uac04\\ub300\\uc0c1 \\uc5f0\\uad6c \\uc724\\ub9ac\\uc640 IRB \\uc2ec\\uc758\\uc758\\ub8b0\\uc11c \\uc791\\uc131\\ubc95\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub4f1\\ub85d\\ubc29\\ubc95: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/rye9uvWiNKkxTJHd7\"},{\"type\":\"text\",\"text\":\" (\\uc774\\ub984, \\uc18c\\uc18d, \\uc774\\uba54\\uc77c \\uae30\\uc7ac, 2021.8.18\\uc77c \\ubd80\\ud130 \\uc0ac\\uc804 \\ub4f1\\ub85d)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "※ 선착순 70명 마감이며, 연 6회 이내로 진행예정 (문의: 연구윤리팀 김시형(02-880-5153)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "1856581e-11d4-4c92-96c2-8f4b1461ec7d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;국가거점국립대학교 학사교류강화 정책연구를 위한 설문조사 협조 요청&gt;\n\n국가거점국립대학교 학사교류강화 정책연구와 관련하여 국립대 학사교류 요구조사를 실시하오니, 관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n  가. 조사명: 국립대 학사교류 요구조사\n  나. 조사기간: 2021. 8. 9.(월) ~ 8. 17.(화)\n  다. 조사대상: 학부생, 대학원생, 교원\n  라. 조사방법: 인터넷 URL을 활용한 온라인 설문조사\n    - 대학원용: <https://docs.google.com/forms/d/e/1FAIpQLSdDgILtXlxJM6vbooCZ2Bjw8ca6Qk5IuoZcGc4k4hhyfyxOQg/viewform>\n     ※ 설문에 응답하신 분들 중 추첨을 통해 소정의 모바일 상품권을 지급합니다.\n  마. 관련 문의: 제주대학교(교육혁신본부장 양창용, :phone: <tel:0647543224|064-754-3224>).",
+			"ts": "1628732008.008000",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "sMOo",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<국가거점국립대학교 학사교류강화 정책연구를 위한 설문조사 협조 요청>\n\n국가거점국립대학교 학사교류강화 정책연구와 관련하여 국립대 학사교류 요구조사를 실시하오니, 관심있는 학생분들의 많은 참여 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n  가. 조사명: 국립대 학사교류 요구조사\n  나. 조사기간: 2021. 8. 9.(월) ~ 8. 17.(화)\n  다. 조사대상: 학부생, 대학원생, 교원\n  라. 조사방법: 인터넷 URL을 활용한 온라인 설문조사\n    - 대학원용: "
+								},
+								{
+									"type": "link",
+									"url": "https://docs.google.com/forms/d/e/1FAIpQLSdDgILtXlxJM6vbooCZ2Bjw8ca6Qk5IuoZcGc4k4hhyfyxOQg/viewform",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n     ※ 설문에 응답하신 분들 중 추첨을 통해 소정의 모바일 상품권을 지급합니다.\n  마. 관련 문의: 제주대학교(교육혁신본부장 양창용, "
+								},
+								{
+									"type": "emoji",
+									"name": "phone",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "link",
+									"url": "tel:0647543224",
+									"text": "064-754-3224"
+								},
+								{
+									"type": "text",
+									"text": ")."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;아시아대학연맹(AUA)Lecture Series 참가 학생 신청 안내&gt;*\n\n우리대학이 회원교로 소속되어 있는 아시아대학연맹(AUA)에서 회원교 학생들간의 활발한 지식 교류와 상호 이해를 위하여 다음과 같이 Lecture Series과정을 운영할 예정입니다.\n이에 참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 참여 바랍니다.\n\n1.  아시아대학연맹(AUA)Lecture Series개요\n  가. 일정: 2021년 9월 2일(목)-12월 16일(목), 총15주, 매주 목요일 20:00-21:30(한국시간)\n  나. 주제: The challenges and opportunities of Asian economies in the COVID-19 and post COVID-19 era\n  다. 주관: 아시아대학연맹(AUA)사무국\n  라. 강의방식: 온라인(ZOOM, Classin)\n 2. 선발인원 및 지원자격\n  가. 선발인원: 3명 (전체 강의 수강 학생에게는 AUA 사무국에서 이수증 발급)\n  나. 지원자격\n      1) 학부 및 대학원(석사, 박사) 재학생(전공무관, 휴학생 신청 불가)\n      2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n       ※ 영어 성적 기준(TOEFL ITP 510 / TOEFL CBT 180 / TOEFL IBT 64 / TOEFL PBT 510 / IELTS 5.0 / TOEIC 600 이상) 충족자 또는 이에 상응하는 영어성적 보유자\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n 3.지원방식\n  가. 제출 서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일 제출(<mailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr>)\n  나. 제출 기한: 2021년 8월 20일(금) 17:00시\n 4. 문의처: 국제협력본부 안시헌(Tel. 880-8636, <mailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr>)",
+			"ts": "1628732213.009400",
+			"files": [
+				{
+					"id": "F02AHM7CDPZ",
+					"created": 1628732208,
+					"timestamp": 1628732208,
+					"name": "AUA Lecture Series Program.pdf",
+					"title": "AUA Lecture Series Program.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 378211,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02AHM7CDPZ-AUA Lecture Series Program.pdf",
+					"url_private_download": "attachments/F02AHM7CDPZ-AUA Lecture Series Program.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02AHM7CDPZ/aua_lecture_series_program.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02AHM7CDPZ-40cccaf6ae",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "vHAeL",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<아시아대학연맹(AUA)Lecture Series 참가 학생 신청 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n우리대학이 회원교로 소속되어 있는 아시아대학연맹(AUA)에서 회원교 학생들간의 활발한 지식 교류와 상호 이해를 위하여 다음과 같이 Lecture Series과정을 운영할 예정입니다.\n이에 참가자를 아래와 같이 선발하오니 관심있는 학생분들의 많은 참여 바랍니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\uc544\\uc2dc\\uc544\\ub300\\ud559\\uc5f0\\ub9f9(AUA)Lecture Series\\uac1c\\uc694\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "  가. 일정: 2021년 9월 2일(목)-12월 16일(목), 총15주, 매주 목요일 20:00-21:30(한국시간)\n  나. 주제: The challenges and opportunities of Asian economies in the COVID-19 and post COVID-19 era\n  다. 주관: 아시아대학연맹(AUA)사무국\n  라. 강의방식: 온라인(ZOOM, Classin)\n 2. 선발인원 및 지원자격\n  가. 선발인원: 3명 (전체 강의 수강 학생에게는 AUA 사무국에서 이수증 발급)\n  나. 지원자격\n      1) 학부 및 대학원(석사, 박사) 재학생(전공무관, 휴학생 신청 불가)\n      2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n       ※ 영어 성적 기준(TOEFL ITP 510 / TOEFL CBT 180 / TOEFL IBT 64 / TOEFL PBT 510 / IELTS 5.0 / TOEIC 600 이상) 충족자 또는 이에 상응하는 영어성적 보유자\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n 3.지원방식\n  가. 제출 서류: 자기소개서(자유양식) 및 전학년 성적증명서 이메일 제출("
+								},
+								{
+									"type": "link",
+									"url": "mailto:ahnsihun@snu.ac.kr",
+									"text": "ahnsihun@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n  나. 제출 기한: 2021년 8월 20일(금) 17:00시\n 4. 문의처: 국제협력본부 안시헌(Tel. 880-8636, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:ahnsihun@snu.ac.kr",
+									"text": "ahnsihun@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "547b7e98-20a8-4b97-8c35-3e65f17a33b3",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 2021년도 제5차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」&gt;\n\n2021년도 제 5차 「찾아가는 연구자 교육」을 개최하여 인간대상 연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획·작성의 이해를 돕고자 하며, 관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n• 일시: 2021.8.25.(수) 10:00 ~ 12:00\n• 장소: 비대면 강의\n• 참석대상: 인간대상연구 연구자 (교원, 대학원생, 연구원 등)\n• 주제: 인간대상 연구 윤리와 IRB 심의의뢰서 작성법\n• 등록방법: <https://forms.gle/rye9uvWiNKkxTJHd7> (이름, 소속, 이메일 기재, 2021.8.18일 부터 사전 등록)\n※ 선착순 70명 마감이며, 연 6회 이내로 진행예정 (문의: 연구윤리팀 김시형(02-880-5153)",
+			"ts": "1628749186.014700",
+			"attachments": [
+				{
+					"fallback": "Google Docs: 2021.8 찾아가는 연구자 교육",
+					"id": 1,
+					"title": "2021.8 찾아가는 연구자 교육",
+					"title_link": "https://forms.gle/rye9uvWiNKkxTJHd7",
+					"text": "2021. 8. 25.(수) 10:00~12:00, ZOOM 강의",
+					"image_url": "https://lh5.googleusercontent.com/xO53H74o13VKPhYvceUr78sha0AMtJ7Ycf5ImQ2R4omAJSqDRNsXEGeXPvvrs99mDXeqe2BuQro",
+					"service_name": "Google Docs",
+					"service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+					"from_url": "https://forms.gle/rye9uvWiNKkxTJHd7",
+					"original_url": "https://forms.gle/rye9uvWiNKkxTJHd7",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "g0Z",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 2021년도 제5차 「찾아가는 연구자 교육: IRB 심의의뢰서 작성법」>\n\n2021년도 제 5차 「찾아가는 연구자 교육」을 개최하여 인간대상 연구를 계획하는 연구자들의 IRB 심의 의뢰 시 연구계획·작성의 이해를 돕고자 하며, 관심있는 학생분들의 많은 참여 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 2021.8.25.(\\uc218) 10:00 ~ 12:00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: \\ube44\\ub300\\uba74 \\uac15\\uc758\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d\\ub300\\uc0c1: \\uc778\\uac04\\ub300\\uc0c1\\uc5f0\\uad6c \\uc5f0\\uad6c\\uc790 (\\uad50\\uc6d0, \\ub300\\ud559\\uc6d0\\uc0dd, \\uc5f0\\uad6c\\uc6d0 \\ub4f1)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc81c: \\uc778\\uac04\\ub300\\uc0c1 \\uc5f0\\uad6c \\uc724\\ub9ac\\uc640 IRB \\uc2ec\\uc758\\uc758\\ub8b0\\uc11c \\uc791\\uc131\\ubc95\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub4f1\\ub85d\\ubc29\\ubc95: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/rye9uvWiNKkxTJHd7\"},{\"type\":\"text\",\"text\":\" (\\uc774\\ub984, \\uc18c\\uc18d, \\uc774\\uba54\\uc77c \\uae30\\uc7ac, 2021.8.18\\uc77c \\ubd80\\ud130 \\uc0ac\\uc804 \\ub4f1\\ub85d)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "※ 선착순 70명 마감이며, 연 6회 이내로 진행예정 (문의: 연구윤리팀 김시형(02-880-5153)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

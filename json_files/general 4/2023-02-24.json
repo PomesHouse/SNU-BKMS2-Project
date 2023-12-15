@@ -1,678 +1,680 @@
-[
-  {
-    "client_msg_id": "9c49202c-7a6d-4f6f-aedc-1cc008ff08e9",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 1학기 데이터사이언스대학원 석사‧박사학위 논문제출자격시험 시행계획\u0026gt;*\n\n2023학년도 1학기 석사‧박사학위 논문제출자격시험 시행계획을 다음과 같이 알려드리니 아래 사항을 숙지하여 기간 내 접수하시기 바랍니다.\n    \n*1. 시험과목* \n *가. 외국어시험* \n - TEPS(298점 이상) 또는 TOEFL(IBT 79점 이상) 성적표를 제출하여야 함\n ※ 영어성적은 응시원서 접수마감일 기준 2년 이내 성적만 인정\n ※ 입학 시 성적으로 대체 가능\n ※ 합격여부 확인 방법: mysnu - 학사정보 - 졸업 - 졸업시험 신청 – 종합시험판정결과\n\n *나. 종합시험*\n *종합시험은 ‘필기’, ‘프로그래밍’, ‘데이터사이언스 프로젝트’ 의 세 영역으로 구성되며, ‘데이터사이언스 프로젝트’의 경우에는 결과에 대한 구술시험이 진행됨*\n - 1차(Written Test/Programming Test): 제시되는 ’정형/비정형‘ 데이터를 가지고 프로그램 또는 툴 등을 사용하여 문제를 푸는 open notebook 테스트와 프로그래밍 테스트로 구성\n ※ 1차 Written, Programming Test는 불합격한 과목에 대해서만 다음 기회가 있는 경우 재응시 가능\n (예) Written 합격 / Programming 불합격 시 ☞ Programming만 재응시 가능\n - 2차(Data Science Project): 1차 시험 후 제시되는 자료를 가지고 프로젝트를 수행한 후 발표\n\n*2. 배점 및 합격기준* \n 가. 석사과정(100점 만점): 1, 2차 과목별 70점 이상\n 나. 박사과정(100점 만점): 1, 2차 과목별 70점 이상\n\n*3. 응시자격* (※ 전공교과목: 기초교과목 이외에 본 대학원에서 개설된 과목 또는 상응과목)\n 가. 석사과정: 2개 학기 이상 등록하고 전공교과목 15학점 이상 취득한 자\n 나. 박사과정: 2개 학기 이상 등록하고 전공교과목 15학점 이상 취득한 자\n - 단, 본 대학원의 석사학위 취득자는 전공교과목 학점 제한 없이 2개 학기를 마친 이후 종합시험을 응시할 수 있음\n\n*4. 신청 및 응시*\n *가. 신청기간: 2023. 3. 2.(목) ~ 3. 10.(금) 18:00 \u0026lt;기간 종료 후 신청 불가\u0026gt;*\n *나. 신청방법*\n - 마이스누 로그인 \u0026gt; 학사정보 \u0026gt; 졸업 \u0026gt; 졸업시험신청 \u0026gt; 종합시험신청 \u0026gt; 신규 \u0026gt; 신청 \u0026gt; 신청과목정보에서 “추가” 버튼 \u0026gt; 신청시험과목 구분 \u0026gt; 전공시험 또는 한국어시험 선택 \u0026gt; 저장 \u0026gt; 지원서 출력 \u0026gt; 본인 및 지도교수 서명 \u0026gt; 행정실 제출\n ※ 시스템 신청 완료 후 3. 13.(월) 18:00까지 지도교수님 서명(또는 확인 메일)을 받은 지원서를 행정실로 제출해야 신청이 완료됨\n *다. 시험일시 및 장소*\n - 1차(Written Test/Programming Test): 3. 28.(화) 17:00 ~ 21:00, 942동 302호\n (※ Written: 120분 / Programming: 100분)\n - 2차(Data Science Project): 3. 31.(금) 14:00 ~ 18:00, 942동 308, 309호\n ※ 시험일시 및 장소, 시험시간 등은 응시자 수 등에 따라 변동 가능\n*5. ​합격자 발표일: 2023. 4. 7.(금)*\n    \n*6. 기타사항*\n 가. 아래 세 과목 모두에 대해서 수강성적이 최종 수강인원 기준 상위 25% 이내인 경우, 필기 영역의 시험에 합격한 것으로 인정함\n - 데이터사이언스를 위한 머신러닝 및 딥러닝 1\n - 빅데이터 및 지식 관리 시스템 1\n - 데이터사이언스를 위한 컴퓨팅 1\n 나. 종합시험은 최대 2회까지 응시 가능한 것을 원칙으로 하며, 2022학년도 2학기 종합시험 응시자부터 기산함(예: 2022학년도 1학기 응시, 2022학년도 2학기 응시, 2023학년도 1학기 응시자의 경우 ☞ 종합시험 응시횟수는 총 2회에 해당함)\n 다. 2023학번부터는 외국어시험 성적기준이 상향됨에 유의\n - 「서울대학교 데이터사이언스대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제7조 제1항\n - TEPS 327점 이상 또는 TOEFL IBT 96점 이상\n 라. 2023학번부터는 전공교과목을 18학점 이상 취득해야 논문제출자격시험 응시자격이 있음에 유의\n - 「서울대학교 데이터사이언스대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제2조 제1항 및 제2항\n 마. 외국인 학생은 교무처에서 주관하는 한국어시험을 통과해야 논문제출자격시험 응시 자격을 갖춤\n - 「대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제10조 및 제11조\n    \n*7. 문의:* 학과행정실 담당자 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e/:phone:02-880-1331)",
-    "ts": "1677222376.382749",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "+342Z",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 1학기 데이터사이언스대학원 석사‧박사학위 논문제출자격시험 시행계획\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2023학년도 1학기 석사‧박사학위 논문제출자격시험 시행계획을 다음과 같이 알려드리니 아래 사항을 숙지하여 기간 내 접수하시기 바랍니다.\n"
-              },
-              {
-                "type": "text",
-                "text": "    ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "1. 시험과목 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n "
-              },
-              {
-                "type": "text",
-                "text": "가. 외국어시험 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - TEPS(298점 이상) 또는 TOEFL(IBT 79점 이상) 성적표를 제출하여야 함\n ※ 영어성적은 응시원서 접수마감일 기준 2년 이내 성적만 인정\n ※ 입학 시 성적으로 대체 가능\n ※ 합격여부 확인 방법: mysnu - 학사정보 - 졸업 - 졸업시험 신청 – 종합시험판정결과\n\n"
-              },
-              {
-                "type": "text",
-                "text": " 나. 종합시험",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " 종합시험은 ‘필기’, ‘프로그래밍’, ‘데이터사이언스 프로젝트’ 의 세 영역으로 구성되며, ‘데이터사이언스 프로젝트’의 경우에는 결과에 대한 구술시험이 진행됨",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - 1차(Written Test/Programming Test): 제시되는 ’정형/비정형‘ 데이터를 가지고 프로그램 또는 툴 등을 사용하여 문제를 푸는 open notebook 테스트와 프로그래밍 테스트로 구성\n ※ 1차 Written, Programming Test는 불합격한 과목에 대해서만 다음 기회가 있는 경우 재응시 가능\n (예) Written 합격 / Programming 불합격 시 ☞ Programming만 재응시 가능\n - 2차(Data Science Project): 1차 시험 후 제시되는 자료를 가지고 프로젝트를 수행한 후 발표\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2. 배점 및 합격기준 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n 가. 석사과정(100점 만점): 1, 2차 과목별 70점 이상\n 나. 박사과정(100점 만점): 1, 2차 과목별 70점 이상\n\n"
-              },
-              {
-                "type": "text",
-                "text": "3. 응시자격 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(※ 전공교과목: 기초교과목 이외에 본 대학원에서 개설된 과목 또는 상응과목)\n 가. 석사과정: 2개 학기 이상 등록하고 전공교과목 15학점 이상 취득한 자\n 나. 박사과정: 2개 학기 이상 등록하고 전공교과목 15학점 이상 취득한 자\n - 단, 본 대학원의 석사학위 취득자는 전공교과목 학점 제한 없이 2개 학기를 마친 이후 종합시험을 응시할 수 있음\n\n"
-              },
-              {
-                "type": "text",
-                "text": "4. 신청 및 응시",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " 가. 신청기간: 2023. 3. 2.(목) ~ 3. 10.(금) 18:00 \u003c기간 종료 후 신청 불가\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " 나. 신청방법",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - 마이스누 로그인 \u003e 학사정보 \u003e 졸업 \u003e 졸업시험신청 \u003e 종합시험신청 \u003e 신규 \u003e 신청 \u003e 신청과목정보에서 “추가” 버튼 \u003e 신청시험과목 구분 \u003e 전공시험 또는 한국어시험 선택 \u003e 저장 \u003e 지원서 출력 \u003e 본인 및 지도교수 서명 \u003e 행정실 제출\n ※ 시스템 신청 완료 후 3. 13.(월) 18:00까지 지도교수님 서명(또는 확인 메일)을 받은 지원서를 행정실로 제출해야 신청이 완료됨\n"
-              },
-              {
-                "type": "text",
-                "text": " 다. 시험일시 및 장소",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - 1차(Written Test/Programming Test): 3. 28.(화) 17:00 ~ 21:00, 942동 302호\n (※ Written: 120분 / Programming: 100분)\n - 2차(Data Science Project): 3. 31.(금) 14:00 ~ 18:00, 942동 308, 309호\n ※ 시험일시 및 장소, 시험시간 등은 응시자 수 등에 따라 변동 가능\n"
-              },
-              {
-                "type": "text",
-                "text": "5. ​합격자 발표일: 2023. 4. 7.(금)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "    ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "6. 기타사항",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "가. 아래 세 과목 모두에 대해서 수강성적이 최종 수강인원 기준 상위 25% 이내인 경우, 필기 영역의 시험에 합격한 것으로 인정함\n - 데이터사이언스를 위한 머신러닝 및 딥러닝 1\n - 빅데이터 및 지식 관리 시스템 1\n - 데이터사이언스를 위한 컴퓨팅 1\n 나. 종합시험은 최대 2회까지 응시 가능한 것을 원칙으로 하며, 2022학년도 2학기 종합시험 응시자부터 기산함(예: 2022학년도 1학기 응시, 2022학년도 2학기 응시, 2023학년도 1학기 응시자의 경우 ☞ 종합시험 응시횟수는 총 2회에 해당함)\n 다. 2023학번부터는 외국어시험 성적기준이 상향됨에 유의\n - 「서울대학교 데이터사이언스대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제7조 제1항\n - TEPS 327점 이상 또는 TOEFL IBT 96점 이상\n 라. 2023학번부터는 전공교과목을 18학점 이상 취득해야 논문제출자격시험 응시자격이 있음에 유의\n - 「서울대학교 데이터사이언스대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제2조 제1항 및 제2항\n 마. 외국인 학생은 교무처에서 주관하는 한국어시험을 통과해야 논문제출자격시험 응시 자격을 갖춤\n - 「대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제10조 및 제11조\n"
-              },
-              {
-                "type": "text",
-                "text": "    ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "7. 문의: ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "학과행정실 담당자 임채연("
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "/"
-              },
-              {
-                "type": "emoji",
-                "name": "phone",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "02-880-1331)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "9f6a70dc-a913-401a-a468-5f418007c002",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023년 3월 각 군 현역병 모집 계획\u0026gt;\n\n병무청에서는 병역의무자의 잔공, 자격·면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 현역병 모집제도를 운영하고 있습니다. 2023년 3월 지원하여 2023년 6월 입영예정인 각 군 현역병 모집일정을 알려드립니다.",
-    "ts": "1677228388.481259",
-    "files": [
-      {
-        "id": "F04R3TJM9J6",
-        "created": 1677228386,
-        "timestamp": 1677228386,
-        "name": "2023년 3월 각 군 현역병 모집계획.hwpx",
-        "title": "2023년 3월 각 군 현역병 모집계획.hwpx",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 52152,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04R3TJM9J6-2023년 3월 각 군 현역병 모집계획.hwpx",
-        "url_private_download": "attachments/F04R3TJM9J6-2023년 3월 각 군 현역병 모집계획.hwpx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04R3TJM9J6/2023____3__________________________________.hwpx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04R3TJM9J6-21eabd88f8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "63zbd",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 3월 각 군 현역병 모집 계획\u003e\n\n병무청에서는 병역의무자의 잔공, 자격·면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 현역병 모집제도를 운영하고 있습니다. 2023년 3월 지원하여 2023년 6월 입영예정인 각 군 현역병 모집일정을 알려드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "2fe3ae4c-b76c-4dc8-a457-fd749d12fb2b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 신입생을 위한 중앙도서관 오리엔테이션 개최 안내\u0026gt;\n\n중앙도서관은 신입생을 대상으로 도서관의 다양한 학술정보를 통한 연구와 학습활동을 지원하고자 정기적으로 도서관 오리엔테이션을 실시하고 있습니다.\n\n상세 일정은 붙임파일을 확인하여주세요.",
-    "ts": "1677228497.016149",
-    "files": [
-      {
-        "id": "F04R3Q47FMZ",
-        "created": 1677228472,
-        "timestamp": 1677228472,
-        "name": "2. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(영문) (1).png",
-        "title": "2. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(영문) (1).png",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3095594,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04R3Q47FMZ-2. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(영문) (1).png",
-        "url_private_download": "attachments/F04R3Q47FMZ-2. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(영문) (1).png",
-        "original_h": 6615,
-        "original_w": 4678,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04R3Q47FMZ/2._2023________________________________________________________________________1_.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04R3Q47FMZ-374c2b2cf4",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04RTJL0WD6",
-        "created": 1677228485,
-        "timestamp": 1677228485,
-        "name": "1. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(국문) (1).png",
-        "title": "1. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(국문) (1).png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 265047,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04RTJL0WD6-1. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(국문) (1).png",
-        "url_private_download": "attachments/F04RTJL0WD6-1. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(국문) (1).png",
-        "original_h": 1260,
-        "original_w": 891,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__480.png",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__720.png",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__960.png",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__1024.png",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04RTJL0WD6/1._2023________________________________________________________________________1_.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04RTJL0WD6-5fc0b2a268",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "7Np",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 신입생을 위한 중앙도서관 오리엔테이션 개최 안내\u003e\n\n중앙도서관은 신입생을 대상으로 도서관의 다양한 학술정보를 통한 연구와 학습활동을 지원하고자 정기적으로 도서관 오리엔테이션을 실시하고 있습니다.\n\n상세 일정은 붙임파일을 확인하여주세요."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "0c71c0a2-5e05-47ac-9eb2-df021803e88c",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023년 예비창업패키지 서울대학교(시흥) 예비창업자 모집 홍보\u0026gt;\n\n서울대학교 시흥캠퍼스에서 2023년 예비창업패키지 서울대학교(시흥) 예비창업자 신청 홍보를 위해 붙임과 같이 안내합니다.\n\n1. 접수기간: *2023. 2. 23.(목) ~ 3.15.(수)*\n 2. 대상: 예비창업자(자격요건은 K-스타트업에서 모집공고 확인)\n 3. 신청방법: K-스타트업을 통한 온라인 신청(\u003chttps://url.kr/tu35eh\u003e)\n 4. 사업설명회 신청(\u003chttps://forms.gle/juzaA3eM8PFDX1519\u003e)\n  가. 1차: 2023년 3월 7일(화) 오후 2시 서울대학교 관악캠퍼스 해동학술문화관 32-1동 4층 해동홀 나. 2차: 2023년 3월 9일(목) 오후 2시 서울대학교 시흥캠퍼스 교육협력동 1층 103호\n 5. 문 의 처: 서울대학교 시흥캠퍼스본부 전략기획실(031-5176-2217)",
-    "ts": "1677228639.260899",
-    "files": [
-      {
-        "id": "F04QPC83HNK",
-        "created": 1677228562,
-        "timestamp": 1677228562,
-        "name": "2023년 예비창업패키지 창업자 모집_서울대 시흥캠퍼스.jpg",
-        "title": "2023년 예비창업패키지 창업자 모집_서울대 시흥캠퍼스.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1164750,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04QPC83HNK-2023년 예비창업패키지 창업자 모집_서울대 시흥캠퍼스.jpg",
-        "url_private_download": "attachments/F04QPC83HNK-2023년 예비창업패키지 창업자 모집_서울대 시흥캠퍼스.jpg",
-        "original_h": 3933,
-        "original_w": 2781,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________480.jpg",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________1024.jpg",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04QPC83HNK/2023____________________________________________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04QPC83HNK-c11a580700",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Bnv",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 예비창업패키지 서울대학교(시흥) 예비창업자 모집 홍보\u003e\n\n서울대학교 시흥캠퍼스에서 2023년 예비창업패키지 서울대학교(시흥) 예비창업자 신청 홍보를 위해 붙임과 같이 안내합니다.\n\n1. 접수기간: "
-              },
-              {
-                "type": "text",
-                "text": "2023. 2. 23.(목) ~ 3.15.(수)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n 2. 대상: 예비창업자(자격요건은 K-스타트업에서 모집공고 확인)\n 3. 신청방법: K-스타트업을 통한 온라인 신청("
-              },
-              {
-                "type": "link",
-                "url": "https://url.kr/tu35eh",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n 4. 사업설명회 신청("
-              },
-              {
-                "type": "link",
-                "url": "https://forms.gle/juzaA3eM8PFDX1519",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n  가. 1차: 2023년 3월 7일(화) 오후 2시 서울대학교 관악캠퍼스 해동학술문화관 32-1동 4층 해동홀 나. 2차: 2023년 3월 9일(목) 오후 2시 서울대학교 시흥캠퍼스 교육협력동 1층 103호\n 5. 문 의 처: 서울대학교 시흥캠퍼스본부 전략기획실(031-5176-2217)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "9c49202c-7a6d-4f6f-aedc-1cc008ff08e9",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 1학기 데이터사이언스대학원 석사‧박사학위 논문제출자격시험 시행계획&gt;*\n\n2023학년도 1학기 석사‧박사학위 논문제출자격시험 시행계획을 다음과 같이 알려드리니 아래 사항을 숙지하여 기간 내 접수하시기 바랍니다.\n    \n*1. 시험과목* \n *가. 외국어시험* \n - TEPS(298점 이상) 또는 TOEFL(IBT 79점 이상) 성적표를 제출하여야 함\n ※ 영어성적은 응시원서 접수마감일 기준 2년 이내 성적만 인정\n ※ 입학 시 성적으로 대체 가능\n ※ 합격여부 확인 방법: mysnu - 학사정보 - 졸업 - 졸업시험 신청 – 종합시험판정결과\n\n *나. 종합시험*\n *종합시험은 ‘필기’, ‘프로그래밍’, ‘데이터사이언스 프로젝트’ 의 세 영역으로 구성되며, ‘데이터사이언스 프로젝트’의 경우에는 결과에 대한 구술시험이 진행됨*\n - 1차(Written Test/Programming Test): 제시되는 ’정형/비정형‘ 데이터를 가지고 프로그램 또는 툴 등을 사용하여 문제를 푸는 open notebook 테스트와 프로그래밍 테스트로 구성\n ※ 1차 Written, Programming Test는 불합격한 과목에 대해서만 다음 기회가 있는 경우 재응시 가능\n (예) Written 합격 / Programming 불합격 시 ☞ Programming만 재응시 가능\n - 2차(Data Science Project): 1차 시험 후 제시되는 자료를 가지고 프로젝트를 수행한 후 발표\n\n*2. 배점 및 합격기준* \n 가. 석사과정(100점 만점): 1, 2차 과목별 70점 이상\n 나. 박사과정(100점 만점): 1, 2차 과목별 70점 이상\n\n*3. 응시자격* (※ 전공교과목: 기초교과목 이외에 본 대학원에서 개설된 과목 또는 상응과목)\n 가. 석사과정: 2개 학기 이상 등록하고 전공교과목 15학점 이상 취득한 자\n 나. 박사과정: 2개 학기 이상 등록하고 전공교과목 15학점 이상 취득한 자\n - 단, 본 대학원의 석사학위 취득자는 전공교과목 학점 제한 없이 2개 학기를 마친 이후 종합시험을 응시할 수 있음\n\n*4. 신청 및 응시*\n *가. 신청기간: 2023. 3. 2.(목) ~ 3. 10.(금) 18:00 &lt;기간 종료 후 신청 불가&gt;*\n *나. 신청방법*\n - 마이스누 로그인 &gt; 학사정보 &gt; 졸업 &gt; 졸업시험신청 &gt; 종합시험신청 &gt; 신규 &gt; 신청 &gt; 신청과목정보에서 “추가” 버튼 &gt; 신청시험과목 구분 &gt; 전공시험 또는 한국어시험 선택 &gt; 저장 &gt; 지원서 출력 &gt; 본인 및 지도교수 서명 &gt; 행정실 제출\n ※ 시스템 신청 완료 후 3. 13.(월) 18:00까지 지도교수님 서명(또는 확인 메일)을 받은 지원서를 행정실로 제출해야 신청이 완료됨\n *다. 시험일시 및 장소*\n - 1차(Written Test/Programming Test): 3. 28.(화) 17:00 ~ 21:00, 942동 302호\n (※ Written: 120분 / Programming: 100분)\n - 2차(Data Science Project): 3. 31.(금) 14:00 ~ 18:00, 942동 308, 309호\n ※ 시험일시 및 장소, 시험시간 등은 응시자 수 등에 따라 변동 가능\n*5. ​합격자 발표일: 2023. 4. 7.(금)*\n    \n*6. 기타사항*\n 가. 아래 세 과목 모두에 대해서 수강성적이 최종 수강인원 기준 상위 25% 이내인 경우, 필기 영역의 시험에 합격한 것으로 인정함\n - 데이터사이언스를 위한 머신러닝 및 딥러닝 1\n - 빅데이터 및 지식 관리 시스템 1\n - 데이터사이언스를 위한 컴퓨팅 1\n 나. 종합시험은 최대 2회까지 응시 가능한 것을 원칙으로 하며, 2022학년도 2학기 종합시험 응시자부터 기산함(예: 2022학년도 1학기 응시, 2022학년도 2학기 응시, 2023학년도 1학기 응시자의 경우 ☞ 종합시험 응시횟수는 총 2회에 해당함)\n 다. 2023학번부터는 외국어시험 성적기준이 상향됨에 유의\n - 「서울대학교 데이터사이언스대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제7조 제1항\n - TEPS 327점 이상 또는 TOEFL IBT 96점 이상\n 라. 2023학번부터는 전공교과목을 18학점 이상 취득해야 논문제출자격시험 응시자격이 있음에 유의\n - 「서울대학교 데이터사이언스대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제2조 제1항 및 제2항\n 마. 외국인 학생은 교무처에서 주관하는 한국어시험을 통과해야 논문제출자격시험 응시 자격을 갖춤\n - 「대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제10조 및 제11조\n    \n*7. 문의:* 학과행정실 담당자 임채연(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>/:phone:02-880-1331)",
+			"ts": "1677222376.382749",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "+342Z",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 1학기 데이터사이언스대학원 석사‧박사학위 논문제출자격시험 시행계획>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2023학년도 1학기 석사‧박사학위 논문제출자격시험 시행계획을 다음과 같이 알려드리니 아래 사항을 숙지하여 기간 내 접수하시기 바랍니다.\n"
+								},
+								{
+									"type": "text",
+									"text": "    ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "1. 시험과목 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n "
+								},
+								{
+									"type": "text",
+									"text": "가. 외국어시험 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - TEPS(298점 이상) 또는 TOEFL(IBT 79점 이상) 성적표를 제출하여야 함\n ※ 영어성적은 응시원서 접수마감일 기준 2년 이내 성적만 인정\n ※ 입학 시 성적으로 대체 가능\n ※ 합격여부 확인 방법: mysnu - 학사정보 - 졸업 - 졸업시험 신청 – 종합시험판정결과\n\n"
+								},
+								{
+									"type": "text",
+									"text": " 나. 종합시험",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " 종합시험은 ‘필기’, ‘프로그래밍’, ‘데이터사이언스 프로젝트’ 의 세 영역으로 구성되며, ‘데이터사이언스 프로젝트’의 경우에는 결과에 대한 구술시험이 진행됨",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - 1차(Written Test/Programming Test): 제시되는 ’정형/비정형‘ 데이터를 가지고 프로그램 또는 툴 등을 사용하여 문제를 푸는 open notebook 테스트와 프로그래밍 테스트로 구성\n ※ 1차 Written, Programming Test는 불합격한 과목에 대해서만 다음 기회가 있는 경우 재응시 가능\n (예) Written 합격 / Programming 불합격 시 ☞ Programming만 재응시 가능\n - 2차(Data Science Project): 1차 시험 후 제시되는 자료를 가지고 프로젝트를 수행한 후 발표\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2. 배점 및 합격기준 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n 가. 석사과정(100점 만점): 1, 2차 과목별 70점 이상\n 나. 박사과정(100점 만점): 1, 2차 과목별 70점 이상\n\n"
+								},
+								{
+									"type": "text",
+									"text": "3. 응시자격 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(※ 전공교과목: 기초교과목 이외에 본 대학원에서 개설된 과목 또는 상응과목)\n 가. 석사과정: 2개 학기 이상 등록하고 전공교과목 15학점 이상 취득한 자\n 나. 박사과정: 2개 학기 이상 등록하고 전공교과목 15학점 이상 취득한 자\n - 단, 본 대학원의 석사학위 취득자는 전공교과목 학점 제한 없이 2개 학기를 마친 이후 종합시험을 응시할 수 있음\n\n"
+								},
+								{
+									"type": "text",
+									"text": "4. 신청 및 응시",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " 가. 신청기간: 2023. 3. 2.(목) ~ 3. 10.(금) 18:00 <기간 종료 후 신청 불가>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " 나. 신청방법",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - 마이스누 로그인 > 학사정보 > 졸업 > 졸업시험신청 > 종합시험신청 > 신규 > 신청 > 신청과목정보에서 “추가” 버튼 > 신청시험과목 구분 > 전공시험 또는 한국어시험 선택 > 저장 > 지원서 출력 > 본인 및 지도교수 서명 > 행정실 제출\n ※ 시스템 신청 완료 후 3. 13.(월) 18:00까지 지도교수님 서명(또는 확인 메일)을 받은 지원서를 행정실로 제출해야 신청이 완료됨\n"
+								},
+								{
+									"type": "text",
+									"text": " 다. 시험일시 및 장소",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - 1차(Written Test/Programming Test): 3. 28.(화) 17:00 ~ 21:00, 942동 302호\n (※ Written: 120분 / Programming: 100분)\n - 2차(Data Science Project): 3. 31.(금) 14:00 ~ 18:00, 942동 308, 309호\n ※ 시험일시 및 장소, 시험시간 등은 응시자 수 등에 따라 변동 가능\n"
+								},
+								{
+									"type": "text",
+									"text": "5. ​합격자 발표일: 2023. 4. 7.(금)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "    ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "6. 기타사항",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "가. 아래 세 과목 모두에 대해서 수강성적이 최종 수강인원 기준 상위 25% 이내인 경우, 필기 영역의 시험에 합격한 것으로 인정함\n - 데이터사이언스를 위한 머신러닝 및 딥러닝 1\n - 빅데이터 및 지식 관리 시스템 1\n - 데이터사이언스를 위한 컴퓨팅 1\n 나. 종합시험은 최대 2회까지 응시 가능한 것을 원칙으로 하며, 2022학년도 2학기 종합시험 응시자부터 기산함(예: 2022학년도 1학기 응시, 2022학년도 2학기 응시, 2023학년도 1학기 응시자의 경우 ☞ 종합시험 응시횟수는 총 2회에 해당함)\n 다. 2023학번부터는 외국어시험 성적기준이 상향됨에 유의\n - 「서울대학교 데이터사이언스대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제7조 제1항\n - TEPS 327점 이상 또는 TOEFL IBT 96점 이상\n 라. 2023학번부터는 전공교과목을 18학점 이상 취득해야 논문제출자격시험 응시자격이 있음에 유의\n - 「서울대학교 데이터사이언스대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제2조 제1항 및 제2항\n 마. 외국인 학생은 교무처에서 주관하는 한국어시험을 통과해야 논문제출자격시험 응시 자격을 갖춤\n - 「대학원 논문제출자격 외국어시험 및 종합시험에 관한 시행 지침」 제10조 및 제11조\n"
+								},
+								{
+									"type": "text",
+									"text": "    ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "7. 문의: ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "학과행정실 담당자 임채연("
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "/"
+								},
+								{
+									"type": "emoji",
+									"name": "phone",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "02-880-1331)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "9f6a70dc-a913-401a-a468-5f418007c002",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023년 3월 각 군 현역병 모집 계획&gt;\n\n병무청에서는 병역의무자의 잔공, 자격·면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 현역병 모집제도를 운영하고 있습니다. 2023년 3월 지원하여 2023년 6월 입영예정인 각 군 현역병 모집일정을 알려드립니다.",
+			"ts": "1677228388.481259",
+			"files": [
+				{
+					"id": "F04R3TJM9J6",
+					"created": 1677228386,
+					"timestamp": 1677228386,
+					"name": "2023년 3월 각 군 현역병 모집계획.hwpx",
+					"title": "2023년 3월 각 군 현역병 모집계획.hwpx",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 52152,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04R3TJM9J6-2023년 3월 각 군 현역병 모집계획.hwpx",
+					"url_private_download": "attachments/F04R3TJM9J6-2023년 3월 각 군 현역병 모집계획.hwpx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04R3TJM9J6/2023____3__________________________________.hwpx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04R3TJM9J6-21eabd88f8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "63zbd",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 3월 각 군 현역병 모집 계획>\n\n병무청에서는 병역의무자의 잔공, 자격·면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 현역병 모집제도를 운영하고 있습니다. 2023년 3월 지원하여 2023년 6월 입영예정인 각 군 현역병 모집일정을 알려드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "2fe3ae4c-b76c-4dc8-a457-fd749d12fb2b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 신입생을 위한 중앙도서관 오리엔테이션 개최 안내&gt;\n\n중앙도서관은 신입생을 대상으로 도서관의 다양한 학술정보를 통한 연구와 학습활동을 지원하고자 정기적으로 도서관 오리엔테이션을 실시하고 있습니다.\n\n상세 일정은 붙임파일을 확인하여주세요.",
+			"ts": "1677228497.016149",
+			"files": [
+				{
+					"id": "F04R3Q47FMZ",
+					"created": 1677228472,
+					"timestamp": 1677228472,
+					"name": "2. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(영문) (1).png",
+					"title": "2. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(영문) (1).png",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3095594,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04R3Q47FMZ-2. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(영문) (1).png",
+					"url_private_download": "attachments/F04R3Q47FMZ-2. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(영문) (1).png",
+					"original_h": 6615,
+					"original_w": 4678,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04R3Q47FMZ-e8935a8500/2._2023________________________________________________________________________1__1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04R3Q47FMZ/2._2023________________________________________________________________________1_.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04R3Q47FMZ-374c2b2cf4",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04RTJL0WD6",
+					"created": 1677228485,
+					"timestamp": 1677228485,
+					"name": "1. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(국문) (1).png",
+					"title": "1. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(국문) (1).png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 265047,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04RTJL0WD6-1. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(국문) (1).png",
+					"url_private_download": "attachments/F04RTJL0WD6-1. 2023 신입생 중앙도서관 오리엔테이션 홍보 이미지(국문) (1).png",
+					"original_h": 1260,
+					"original_w": 891,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__480.png",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__720.png",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__960.png",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04RTJL0WD6-7cee572991/1._2023________________________________________________________________________1__1024.png",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04RTJL0WD6/1._2023________________________________________________________________________1_.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04RTJL0WD6-5fc0b2a268",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "7Np",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 신입생을 위한 중앙도서관 오리엔테이션 개최 안내>\n\n중앙도서관은 신입생을 대상으로 도서관의 다양한 학술정보를 통한 연구와 학습활동을 지원하고자 정기적으로 도서관 오리엔테이션을 실시하고 있습니다.\n\n상세 일정은 붙임파일을 확인하여주세요."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "0c71c0a2-5e05-47ac-9eb2-df021803e88c",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023년 예비창업패키지 서울대학교(시흥) 예비창업자 모집 홍보&gt;\n\n서울대학교 시흥캠퍼스에서 2023년 예비창업패키지 서울대학교(시흥) 예비창업자 신청 홍보를 위해 붙임과 같이 안내합니다.\n\n1. 접수기간: *2023. 2. 23.(목) ~ 3.15.(수)*\n 2. 대상: 예비창업자(자격요건은 K-스타트업에서 모집공고 확인)\n 3. 신청방법: K-스타트업을 통한 온라인 신청(<https://url.kr/tu35eh>)\n 4. 사업설명회 신청(<https://forms.gle/juzaA3eM8PFDX1519>)\n  가. 1차: 2023년 3월 7일(화) 오후 2시 서울대학교 관악캠퍼스 해동학술문화관 32-1동 4층 해동홀 나. 2차: 2023년 3월 9일(목) 오후 2시 서울대학교 시흥캠퍼스 교육협력동 1층 103호\n 5. 문 의 처: 서울대학교 시흥캠퍼스본부 전략기획실(031-5176-2217)",
+			"ts": "1677228639.260899",
+			"files": [
+				{
+					"id": "F04QPC83HNK",
+					"created": 1677228562,
+					"timestamp": 1677228562,
+					"name": "2023년 예비창업패키지 창업자 모집_서울대 시흥캠퍼스.jpg",
+					"title": "2023년 예비창업패키지 창업자 모집_서울대 시흥캠퍼스.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1164750,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04QPC83HNK-2023년 예비창업패키지 창업자 모집_서울대 시흥캠퍼스.jpg",
+					"url_private_download": "attachments/F04QPC83HNK-2023년 예비창업패키지 창업자 모집_서울대 시흥캠퍼스.jpg",
+					"original_h": 3933,
+					"original_w": 2781,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________480.jpg",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04QPC83HNK-1503552ae9/2023_____________________________________________________________________1024.jpg",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04QPC83HNK/2023____________________________________________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04QPC83HNK-c11a580700",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Bnv",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 예비창업패키지 서울대학교(시흥) 예비창업자 모집 홍보>\n\n서울대학교 시흥캠퍼스에서 2023년 예비창업패키지 서울대학교(시흥) 예비창업자 신청 홍보를 위해 붙임과 같이 안내합니다.\n\n1. 접수기간: "
+								},
+								{
+									"type": "text",
+									"text": "2023. 2. 23.(목) ~ 3.15.(수)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n 2. 대상: 예비창업자(자격요건은 K-스타트업에서 모집공고 확인)\n 3. 신청방법: K-스타트업을 통한 온라인 신청("
+								},
+								{
+									"type": "link",
+									"url": "https://url.kr/tu35eh",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n 4. 사업설명회 신청("
+								},
+								{
+									"type": "link",
+									"url": "https://forms.gle/juzaA3eM8PFDX1519",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n  가. 1차: 2023년 3월 7일(화) 오후 2시 서울대학교 관악캠퍼스 해동학술문화관 32-1동 4층 해동홀 나. 2차: 2023년 3월 9일(목) 오후 2시 서울대학교 시흥캠퍼스 교육협력동 1층 103호\n 5. 문 의 처: 서울대학교 시흥캠퍼스본부 전략기획실(031-5176-2217)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

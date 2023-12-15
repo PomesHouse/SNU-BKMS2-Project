@@ -1,284 +1,286 @@
-[
-  {
-    "client_msg_id": "ec8fbe93-279a-42bc-92ef-0126e0073197",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "아직 안되시나요?",
-    "ts": "1661213611.477319",
-    "thread_ts": "1661155905.592619",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "2pYp",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "아직 안되시나요?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "7560a6fe-f583-4d49-8c5d-ee191b4574fa",
-    "type": "message",
-    "user": "U01R678KWP2",
-    "text": "네, DM으로 화면 캡쳐해서 보냈습니다",
-    "ts": "1661213716.745909",
-    "thread_ts": "1661155905.592619",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fvN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "네, DM으로 화면 캡쳐해서 보냈습니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
-      "first_name": "조동규",
-      "real_name": "조동규",
-      "display_name": "2기_조동규",
-      "team": "T01QA5S537V",
-      "name": "kulupapa1127",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "9018ddfa-d586-4fdb-94b3-8f667b85e797",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;3층 학생연구공간 에어컨 가동 이상에 따른 조치 사항 안내\u0026gt;\n3층 학생연구공간 에어컨 가동 이상 관련하여 수리 완료되었습니다.\n에어컨 작동에 참고하시기 바랍니다.",
-    "ts": "1661232347.472589",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1661240450.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Gwr",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c3층 학생연구공간 에어컨 가동 이상에 따른 조치 사항 안내\u003e\n3층 학생연구공간 에어컨 가동 이상 관련하여 수리 완료되었습니다.\n에어컨 작동에 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d2ae6283-f0cb-4c22-b2d9-74e129829cf2",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;제76회 후기 학위수여식 셔틀버스 운행 안내\u0026gt;\n\n제76회 후기 학위수여식 당일 서울대입구역 방면 셔틀버스를 아래와 같이 운행하오니 이용에 참고하시기 바랍니다.\n\n가. 운 행 일: 2022.8.29.(월)\n나. 운행시간 및 노선 ※ 배차간격은 하계방학 시간표 공지와 동일\n    1) 08:00 ~ 09:00 : 서울대입구역 :left_right_arrow: 포스코스포츠센터 대로변 (행정관 경유)\n    2) 09:00 ~ 14:00 : 서울대입구역 :left_right_arrow: 포스코스포츠센터 대로변\n    3) 14:00 이후 : 서울대입구역 :left_right_arrow: 행정관 (정상운행)",
-    "ts": "1661239850.029009",
-    "files": [
-      {
-        "id": "F0400J41Z9N",
-        "created": 1661239846,
-        "timestamp": 1661239846,
-        "name": "[붙임] 학위수여식 행사장 인근 승하차지점 안내도.pdf",
-        "title": "[붙임] 학위수여식 행사장 인근 승하차지점 안내도.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3948730,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0400J41Z9N-[붙임] 학위수여식 행사장 인근 승하차지점 안내도.pdf",
-        "url_private_download": "attachments/F0400J41Z9N-[붙임] 학위수여식 행사장 인근 승하차지점 안내도.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0400J41Z9N/___________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0400J41Z9N-8ee801594b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qscv7",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c제76회 후기 학위수여식 셔틀버스 운행 안내\u003e\n\n제76회 후기 학위수여식 당일 서울대입구역 방면 셔틀버스를 아래와 같이 운행하오니 이용에 참고하시기 바랍니다.\n\n가. 운 행 일: 2022.8.29.(월)\n나. 운행시간 및 노선 ※ 배차간격은 하계방학 시간표 공지와 동일\n    1) 08:00 ~ 09:00 : 서울대입구역 "
-              },
-              {
-                "type": "emoji",
-                "name": "left_right_arrow",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 포스코스포츠센터 대로변 (행정관 경유)\n    2) 09:00 ~ 14:00 : 서울대입구역 "
-              },
-              {
-                "type": "emoji",
-                "name": "left_right_arrow",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 포스코스포츠센터 대로변\n    3) 14:00 이후 : 서울대입구역 "
-              },
-              {
-                "type": "emoji",
-                "name": "left_right_arrow",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 행정관 (정상운행)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ec8fbe93-279a-42bc-92ef-0126e0073197",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "아직 안되시나요?",
+			"ts": "1661213611.477319",
+			"thread_ts": "1661155905.592619",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "2pYp",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "아직 안되시나요?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "7560a6fe-f583-4d49-8c5d-ee191b4574fa",
+			"type": "message",
+			"user": "U01R678KWP2",
+			"text": "네, DM으로 화면 캡쳐해서 보냈습니다",
+			"ts": "1661213716.745909",
+			"thread_ts": "1661155905.592619",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fvN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "네, DM으로 화면 캡쳐해서 보냈습니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
+				"first_name": "조동규",
+				"real_name": "조동규",
+				"display_name": "2기_조동규",
+				"team": "T01QA5S537V",
+				"name": "kulupapa1127",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "9018ddfa-d586-4fdb-94b3-8f667b85e797",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;3층 학생연구공간 에어컨 가동 이상에 따른 조치 사항 안내&gt;\n3층 학생연구공간 에어컨 가동 이상 관련하여 수리 완료되었습니다.\n에어컨 작동에 참고하시기 바랍니다.",
+			"ts": "1661232347.472589",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1661240450.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Gwr",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<3층 학생연구공간 에어컨 가동 이상에 따른 조치 사항 안내>\n3층 학생연구공간 에어컨 가동 이상 관련하여 수리 완료되었습니다.\n에어컨 작동에 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d2ae6283-f0cb-4c22-b2d9-74e129829cf2",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;제76회 후기 학위수여식 셔틀버스 운행 안내&gt;\n\n제76회 후기 학위수여식 당일 서울대입구역 방면 셔틀버스를 아래와 같이 운행하오니 이용에 참고하시기 바랍니다.\n\n가. 운 행 일: 2022.8.29.(월)\n나. 운행시간 및 노선 ※ 배차간격은 하계방학 시간표 공지와 동일\n    1) 08:00 ~ 09:00 : 서울대입구역 :left_right_arrow: 포스코스포츠센터 대로변 (행정관 경유)\n    2) 09:00 ~ 14:00 : 서울대입구역 :left_right_arrow: 포스코스포츠센터 대로변\n    3) 14:00 이후 : 서울대입구역 :left_right_arrow: 행정관 (정상운행)",
+			"ts": "1661239850.029009",
+			"files": [
+				{
+					"id": "F0400J41Z9N",
+					"created": 1661239846,
+					"timestamp": 1661239846,
+					"name": "[붙임] 학위수여식 행사장 인근 승하차지점 안내도.pdf",
+					"title": "[붙임] 학위수여식 행사장 인근 승하차지점 안내도.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3948730,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0400J41Z9N-[붙임] 학위수여식 행사장 인근 승하차지점 안내도.pdf",
+					"url_private_download": "attachments/F0400J41Z9N-[붙임] 학위수여식 행사장 인근 승하차지점 안내도.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0400J41Z9N/___________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0400J41Z9N-8ee801594b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qscv7",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<제76회 후기 학위수여식 셔틀버스 운행 안내>\n\n제76회 후기 학위수여식 당일 서울대입구역 방면 셔틀버스를 아래와 같이 운행하오니 이용에 참고하시기 바랍니다.\n\n가. 운 행 일: 2022.8.29.(월)\n나. 운행시간 및 노선 ※ 배차간격은 하계방학 시간표 공지와 동일\n    1) 08:00 ~ 09:00 : 서울대입구역 "
+								},
+								{
+									"type": "emoji",
+									"name": "left_right_arrow",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 포스코스포츠센터 대로변 (행정관 경유)\n    2) 09:00 ~ 14:00 : 서울대입구역 "
+								},
+								{
+									"type": "emoji",
+									"name": "left_right_arrow",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 포스코스포츠센터 대로변\n    3) 14:00 이후 : 서울대입구역 "
+								},
+								{
+									"type": "emoji",
+									"name": "left_right_arrow",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 행정관 (정상운행)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

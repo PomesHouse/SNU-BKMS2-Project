@@ -1,320 +1,322 @@
-[
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;'대학 코로나19 감염예방 관리 지침'(제2판) 및 '서울대 코로나19 대응 매뉴얼' 수정\u0026gt;\n\n'대학 코로나19 감염예방 관리 지침'(제2판) 및 '서울대 코로나19 대응 매뉴얼' 수정과 관련하여 공문이 와 안내드리니 학생분들께서는 이점 확인하여 주시기 바랍니다.\n\n주요 변경 사항은 아래와 같습니다. 자세한 사항은 붙임파일을 확인하여 주시기 바랍니다.\n\n□ 대학 코로나19 감염예방 관리 지침 제2판 안내[붙임1 참조]\n\n  - 유증상자 등에게 반드시 선별진료소 검사 실시 안내\n   · (기존) 귀가, 대학보건실 격리, 관할 보건소에 문의 혹은 선별진료소 방문 등\n   · (개정) 유증상자 등에게 반드시 선별진료소 방문·검사를 안내\n\n  - 동거인 중 자가격리자, 진단검사자가 있는 학생(교직원) 등교 중지 추가\n\n  - 대학생 개인 방역 행동수칙 포함",
-    "ts": "1621582901.009600",
-    "files": [
-      {
-        "id": "F0226QR41JT",
-        "created": 1621582897,
-        "timestamp": 1621582897,
-        "name": "20210421 교내 확진자 발생 시(구성원) 대응 방안.pdf",
-        "title": "20210421 교내 확진자 발생 시(구성원) 대응 방안.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 186216,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0226QR41JT-20210421 교내 확진자 발생 시(구성원) 대응 방안.pdf",
-        "url_private_download": "attachments/F0226QR41JT-20210421 교내 확진자 발생 시(구성원) 대응 방안.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0226QR41JT/20210421_____________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0226QR41JT-f9f90ad181",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F022MJ0DMBL",
-        "created": 1621582899,
-        "timestamp": 1621582899,
-        "name": "20210521 서울대학교 코로나19 대응 매뉴얼.hwp",
-        "title": "20210521 서울대학교 코로나19 대응 매뉴얼.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 40448,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F022MJ0DMBL-20210521 서울대학교 코로나19 대응 매뉴얼.hwp",
-        "url_private_download": "attachments/F022MJ0DMBL-20210521 서울대학교 코로나19 대응 매뉴얼.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F022MJ0DMBL/20210521__________________________19_________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F022MJ0DMBL-db7d964486",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "jhP4G",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c'대학 코로나19 감염예방 관리 지침'(제2판) 및 '서울대 코로나19 대응 매뉴얼' 수정\u003e\n\n'대학 코로나19 감염예방 관리 지침'(제2판) 및 '서울대 코로나19 대응 매뉴얼' 수정과 관련하여 공문이 와 안내드리니 학생분들께서는 이점 확인하여 주시기 바랍니다.\n\n주요 변경 사항은 아래와 같습니다. 자세한 사항은 붙임파일을 확인하여 주시기 바랍니다.\n\n□ 대학 코로나19 감염예방 관리 지침 제2판 안내[붙임1 참조]\n\n  - 유증상자 등에게 반드시 선별진료소 검사 실시 안내\n   · (기존) 귀가, 대학보건실 격리, 관할 보건소에 문의 혹은 선별진료소 방문 등\n   · (개정) 유증상자 등에게 반드시 선별진료소 방문·검사를 안내\n\n  - 동거인 중 자가격리자, 진단검사자가 있는 학생(교직원) 등교 중지 추가\n\n  - 대학생 개인 방역 행동수칙 포함"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "67a62c64-e6df-49b8-9349-d5775137e229",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2021학년도 1학기 논문제출자격시험 관련 안내사항\u0026gt;*\n\n데이터사이언스대학원 2021학년도 1학기 논문제출자격시험 관련하여 아래와 같이 안내드리니 응시자분들께서는 확인하시기 바랍니다.\n\n*공통사항*\n• 논문 자격 시험은 1차 시험 (필기 + 프로그래밍)과 2차 시험 (프로젝트)으로 나누어지며, 1차와 2차는 합격 여부가 별개로 통보됩니다.\n• 1차와 2차를 모두 합격해야 논문 자격 시험에 합격한 것으로 간주합니다.\n• 불합격자는 1차와 2차 중 불합격한 차수만 재응시할 수 있습니다.\n\n*1차 시험 (6/22 화요일, 09:00~12:00)*\n• 1차 시험은 필기 시험 2시간 (09:00~11:00)과 프로그래밍 시험 1시간 (11:00~12:00)으로 구성됩니다.\n• 필기 시험 문제는 기초 2개 과목과 ABC 3개 과목에서 배운 내용을 기반으로 하되, 다양한 과목을 수강한 것이 도움이 되도록 출제됩니다.\n    ◦ M3239.002800\t데이터사이언스를 위한 확률과 통계\n    ◦ M3239.003000\t데이터사이언스를 위한 컴퓨팅\n    ◦ M3239.000200\t데이터사이언스를 위한 머신러닝 및 딥러닝\n    ◦ M3239.000100\t빅데이터 및 지식 관리 시스템\n    ◦ M3239.000300\t데이터사이언스를 위한 소프트웨어 플랫폼\n• 필기 시험은 다음의 3개 영역으로 나누어지며, 각 영역의 가중치는 같습니다.\n    ◦ Area 1: Probability \u0026amp; Statistics (2문제 출제)\n    ◦ Area 2: Computing (2문제 출제)\n    ◦ Area 3: Machine Learning (3문제 출제되고 2문제 선택하여 제출)\n• 필기 시험에는 A4 용지 3장 앞뒤를 자유롭게 채운 cheat sheet을 허용합니다.\n    ◦ 반드시 자필로 작성해야 하며, 시험이 끝날 때 제출해야 합니다.\n• 프로그래밍 시험은 3문제가 출제되고, Python으로 코드를 작성하여 제출하게 됩니다.\n    ◦ 시험 당일 프로그래밍 할 수 있는 노트북 컴퓨터를 지참하시기 바랍니다.\n    ◦ 데이터사이언스 대학원 서버를 통해 제출하게 되므로, 본인의 계정이 사용 가능한 환경인지 미리 확인 바랍니다.\n\n*2차 시험 (문제 풀이: 6/22(화) 17:00 ~ 6/24(목) 16:59:59, 구술 발표: 6/26(금) 9:00~ )*\n• 2차 시험은 48시간 동안 프로젝트를 수행하는 형태로 진행됩니다.\n• 1차 시험 당일 오후 (6/22 화요일) 17:00에 응시자 전용 slack 채널을 통해 문제가 공개되며, 제출 마감은 48시간 뒤인 6/24 목요일 16:59:59까지입니다.\n• 프로젝트 문제는 2개가 출제되며, 응시자가 1개를 선택하여 진행하게 됩니다.\n• 프로젝트 진행 결과를 6/26 금요일 09:00에 시작하는 구술 시험에서 발표하게 됩니다.",
-    "ts": "1621583078.010900",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1621583119.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ovOU8",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 1학기 논문제출자격시험 관련 안내사항\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n데이터사이언스대학원 2021학년도 1학기 논문제출자격시험 관련하여 아래와 같이 안내드리니 응시자분들께서는 확인하시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "공통사항",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub17c\\ubb38 \\uc790\\uaca9 \\uc2dc\\ud5d8\\uc740 1\\ucc28 \\uc2dc\\ud5d8 (\\ud544\\uae30 + \\ud504\\ub85c\\uadf8\\ub798\\ubc0d)\\uacfc 2\\ucc28 \\uc2dc\\ud5d8 (\\ud504\\ub85c\\uc81d\\ud2b8)\\uc73c\\ub85c \\ub098\\ub204\\uc5b4\\uc9c0\\uba70, 1\\ucc28\\uc640 2\\ucc28\\ub294 \\ud569\\uaca9 \\uc5ec\\ubd80\\uac00 \\ubcc4\\uac1c\\ub85c \\ud1b5\\ubcf4\\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\ucc28\\uc640 2\\ucc28\\ub97c \\ubaa8\\ub450 \\ud569\\uaca9\\ud574\\uc57c \\ub17c\\ubb38 \\uc790\\uaca9 \\uc2dc\\ud5d8\\uc5d0 \\ud569\\uaca9\\ud55c \\uac83\\uc73c\\ub85c \\uac04\\uc8fc\\ud569\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubd88\\ud569\\uaca9\\uc790\\ub294 1\\ucc28\\uc640 2\\ucc28 \\uc911 \\ubd88\\ud569\\uaca9\\ud55c \\ucc28\\uc218\\ub9cc \\uc7ac\\uc751\\uc2dc\\ud560 \\uc218 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "1차 시험 (6/22 화요일, 09:00~12:00)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\ucc28 \\uc2dc\\ud5d8\\uc740 \\ud544\\uae30 \\uc2dc\\ud5d8 2\\uc2dc\\uac04 (09:00~11:00)\\uacfc \\ud504\\ub85c\\uadf8\\ub798\\ubc0d \\uc2dc\\ud5d8 1\\uc2dc\\uac04 (11:00~12:00)\\uc73c\\ub85c \\uad6c\\uc131\\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud544\\uae30 \\uc2dc\\ud5d8 \\ubb38\\uc81c\\ub294 \\uae30\\ucd08 2\\uac1c \\uacfc\\ubaa9\\uacfc ABC 3\\uac1c \\uacfc\\ubaa9\\uc5d0\\uc11c \\ubc30\\uc6b4 \\ub0b4\\uc6a9\\uc744 \\uae30\\ubc18\\uc73c\\ub85c \\ud558\\ub418, \\ub2e4\\uc591\\ud55c \\uacfc\\ubaa9\\uc744 \\uc218\\uac15\\ud55c \\uac83\\uc774 \\ub3c4\\uc6c0\\uc774 \\ub418\\ub3c4\\ub85d \\ucd9c\\uc81c\\ub429\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.002800\\t\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub97c \\uc704\\ud55c \\ud655\\ub960\\uacfc \\ud1b5\\uacc4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.003000\\t\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub97c \\uc704\\ud55c \\ucef4\\ud4e8\\ud305\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.000200\\t\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub97c \\uc704\\ud55c \\uba38\\uc2e0\\ub7ec\\ub2dd \\ubc0f \\ub525\\ub7ec\\ub2dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.000100\\t\\ube45\\ub370\\uc774\\ud130 \\ubc0f \\uc9c0\\uc2dd \\uad00\\ub9ac \\uc2dc\\uc2a4\\ud15c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.000300\\t\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub97c \\uc704\\ud55c \\uc18c\\ud504\\ud2b8\\uc6e8\\uc5b4 \\ud50c\\ub7ab\\ud3fc\"}]}],\"style\":\"bullet\",\"indent\":1}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud544\\uae30 \\uc2dc\\ud5d8\\uc740 \\ub2e4\\uc74c\\uc758 3\\uac1c \\uc601\\uc5ed\\uc73c\\ub85c \\ub098\\ub204\\uc5b4\\uc9c0\\uba70, \\uac01 \\uc601\\uc5ed\\uc758 \\uac00\\uc911\\uce58\\ub294 \\uac19\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Area 1: Probability \u0026 Statistics (2\\ubb38\\uc81c \\ucd9c\\uc81c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Area 2: Computing (2\\ubb38\\uc81c \\ucd9c\\uc81c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Area 3: Machine Learning (3\\ubb38\\uc81c \\ucd9c\\uc81c\\ub418\\uace0 2\\ubb38\\uc81c \\uc120\\ud0dd\\ud558\\uc5ec \\uc81c\\ucd9c)\"}]}],\"style\":\"bullet\",\"indent\":1}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud544\\uae30 \\uc2dc\\ud5d8\\uc5d0\\ub294 A4 \\uc6a9\\uc9c0 3\\uc7a5 \\uc55e\\ub4a4\\ub97c \\uc790\\uc720\\ub86d\\uac8c \\ucc44\\uc6b4 cheat sheet\\uc744 \\ud5c8\\uc6a9\\ud569\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc18\\ub4dc\\uc2dc \\uc790\\ud544\\ub85c \\uc791\\uc131\\ud574\\uc57c \\ud558\\uba70, \\uc2dc\\ud5d8\\uc774 \\ub05d\\ub0a0 \\ub54c \\uc81c\\ucd9c\\ud574\\uc57c \\ud569\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud504\\ub85c\\uadf8\\ub798\\ubc0d \\uc2dc\\ud5d8\\uc740 3\\ubb38\\uc81c\\uac00 \\ucd9c\\uc81c\\ub418\\uace0, Python\\uc73c\\ub85c \\ucf54\\ub4dc\\ub97c \\uc791\\uc131\\ud558\\uc5ec \\uc81c\\ucd9c\\ud558\\uac8c \\ub429\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2dc\\ud5d8 \\ub2f9\\uc77c \\ud504\\ub85c\\uadf8\\ub798\\ubc0d \\ud560 \\uc218 \\uc788\\ub294 \\ub178\\ud2b8\\ubd81 \\ucef4\\ud4e8\\ud130\\ub97c \\uc9c0\\ucc38\\ud558\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4 \\ub300\\ud559\\uc6d0 \\uc11c\\ubc84\\ub97c \\ud1b5\\ud574 \\uc81c\\ucd9c\\ud558\\uac8c \\ub418\\ubbc0\\ub85c, \\ubcf8\\uc778\\uc758 \\uacc4\\uc815\\uc774 \\uc0ac\\uc6a9 \\uac00\\ub2a5\\ud55c \\ud658\\uacbd\\uc778\\uc9c0 \\ubbf8\\ub9ac \\ud655\\uc778 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2차 시험 (문제 풀이: 6/22(화) 17:00 ~ 6/24(목) 16:59:59, 구술 발표: 6/26(금) 9:00~ )",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2\\ucc28 \\uc2dc\\ud5d8\\uc740 48\\uc2dc\\uac04 \\ub3d9\\uc548 \\ud504\\ub85c\\uc81d\\ud2b8\\ub97c \\uc218\\ud589\\ud558\\ub294 \\ud615\\ud0dc\\ub85c \\uc9c4\\ud589\\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\ucc28 \\uc2dc\\ud5d8 \\ub2f9\\uc77c \\uc624\\ud6c4 (6\\/22 \\ud654\\uc694\\uc77c) 17:00\\uc5d0 \\uc751\\uc2dc\\uc790 \\uc804\\uc6a9 slack \\ucc44\\ub110\\uc744 \\ud1b5\\ud574 \\ubb38\\uc81c\\uac00 \\uacf5\\uac1c\\ub418\\uba70, \\uc81c\\ucd9c \\ub9c8\\uac10\\uc740 48\\uc2dc\\uac04 \\ub4a4\\uc778 6\\/24 \\ubaa9\\uc694\\uc77c 16:59:59\\uae4c\\uc9c0\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud504\\ub85c\\uc81d\\ud2b8 \\ubb38\\uc81c\\ub294 2\\uac1c\\uac00 \\ucd9c\\uc81c\\ub418\\uba70, \\uc751\\uc2dc\\uc790\\uac00 1\\uac1c\\ub97c \\uc120\\ud0dd\\ud558\\uc5ec \\uc9c4\\ud589\\ud558\\uac8c \\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud504\\ub85c\\uc81d\\ud2b8 \\uc9c4\\ud589 \\uacb0\\uacfc\\ub97c 6\\/26 \\uae08\\uc694\\uc77c 09:00\\uc5d0 \\uc2dc\\uc791\\ud558\\ub294 \\uad6c\\uc220 \\uc2dc\\ud5d8\\uc5d0\\uc11c \\ubc1c\\ud45c\\ud558\\uac8c \\ub429\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;'대학 코로나19 감염예방 관리 지침'(제2판) 및 '서울대 코로나19 대응 매뉴얼' 수정&gt;\n\n'대학 코로나19 감염예방 관리 지침'(제2판) 및 '서울대 코로나19 대응 매뉴얼' 수정과 관련하여 공문이 와 안내드리니 학생분들께서는 이점 확인하여 주시기 바랍니다.\n\n주요 변경 사항은 아래와 같습니다. 자세한 사항은 붙임파일을 확인하여 주시기 바랍니다.\n\n□ 대학 코로나19 감염예방 관리 지침 제2판 안내[붙임1 참조]\n\n  - 유증상자 등에게 반드시 선별진료소 검사 실시 안내\n   · (기존) 귀가, 대학보건실 격리, 관할 보건소에 문의 혹은 선별진료소 방문 등\n   · (개정) 유증상자 등에게 반드시 선별진료소 방문·검사를 안내\n\n  - 동거인 중 자가격리자, 진단검사자가 있는 학생(교직원) 등교 중지 추가\n\n  - 대학생 개인 방역 행동수칙 포함",
+			"ts": "1621582901.009600",
+			"files": [
+				{
+					"id": "F0226QR41JT",
+					"created": 1621582897,
+					"timestamp": 1621582897,
+					"name": "20210421 교내 확진자 발생 시(구성원) 대응 방안.pdf",
+					"title": "20210421 교내 확진자 발생 시(구성원) 대응 방안.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 186216,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0226QR41JT-20210421 교내 확진자 발생 시(구성원) 대응 방안.pdf",
+					"url_private_download": "attachments/F0226QR41JT-20210421 교내 확진자 발생 시(구성원) 대응 방안.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0226QR41JT/20210421_____________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0226QR41JT-f9f90ad181",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F022MJ0DMBL",
+					"created": 1621582899,
+					"timestamp": 1621582899,
+					"name": "20210521 서울대학교 코로나19 대응 매뉴얼.hwp",
+					"title": "20210521 서울대학교 코로나19 대응 매뉴얼.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 40448,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F022MJ0DMBL-20210521 서울대학교 코로나19 대응 매뉴얼.hwp",
+					"url_private_download": "attachments/F022MJ0DMBL-20210521 서울대학교 코로나19 대응 매뉴얼.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F022MJ0DMBL/20210521__________________________19_________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F022MJ0DMBL-db7d964486",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "jhP4G",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<'대학 코로나19 감염예방 관리 지침'(제2판) 및 '서울대 코로나19 대응 매뉴얼' 수정>\n\n'대학 코로나19 감염예방 관리 지침'(제2판) 및 '서울대 코로나19 대응 매뉴얼' 수정과 관련하여 공문이 와 안내드리니 학생분들께서는 이점 확인하여 주시기 바랍니다.\n\n주요 변경 사항은 아래와 같습니다. 자세한 사항은 붙임파일을 확인하여 주시기 바랍니다.\n\n□ 대학 코로나19 감염예방 관리 지침 제2판 안내[붙임1 참조]\n\n  - 유증상자 등에게 반드시 선별진료소 검사 실시 안내\n   · (기존) 귀가, 대학보건실 격리, 관할 보건소에 문의 혹은 선별진료소 방문 등\n   · (개정) 유증상자 등에게 반드시 선별진료소 방문·검사를 안내\n\n  - 동거인 중 자가격리자, 진단검사자가 있는 학생(교직원) 등교 중지 추가\n\n  - 대학생 개인 방역 행동수칙 포함"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "67a62c64-e6df-49b8-9349-d5775137e229",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2021학년도 1학기 논문제출자격시험 관련 안내사항&gt;*\n\n데이터사이언스대학원 2021학년도 1학기 논문제출자격시험 관련하여 아래와 같이 안내드리니 응시자분들께서는 확인하시기 바랍니다.\n\n*공통사항*\n• 논문 자격 시험은 1차 시험 (필기 + 프로그래밍)과 2차 시험 (프로젝트)으로 나누어지며, 1차와 2차는 합격 여부가 별개로 통보됩니다.\n• 1차와 2차를 모두 합격해야 논문 자격 시험에 합격한 것으로 간주합니다.\n• 불합격자는 1차와 2차 중 불합격한 차수만 재응시할 수 있습니다.\n\n*1차 시험 (6/22 화요일, 09:00~12:00)*\n• 1차 시험은 필기 시험 2시간 (09:00~11:00)과 프로그래밍 시험 1시간 (11:00~12:00)으로 구성됩니다.\n• 필기 시험 문제는 기초 2개 과목과 ABC 3개 과목에서 배운 내용을 기반으로 하되, 다양한 과목을 수강한 것이 도움이 되도록 출제됩니다.\n    ◦ M3239.002800\t데이터사이언스를 위한 확률과 통계\n    ◦ M3239.003000\t데이터사이언스를 위한 컴퓨팅\n    ◦ M3239.000200\t데이터사이언스를 위한 머신러닝 및 딥러닝\n    ◦ M3239.000100\t빅데이터 및 지식 관리 시스템\n    ◦ M3239.000300\t데이터사이언스를 위한 소프트웨어 플랫폼\n• 필기 시험은 다음의 3개 영역으로 나누어지며, 각 영역의 가중치는 같습니다.\n    ◦ Area 1: Probability &amp; Statistics (2문제 출제)\n    ◦ Area 2: Computing (2문제 출제)\n    ◦ Area 3: Machine Learning (3문제 출제되고 2문제 선택하여 제출)\n• 필기 시험에는 A4 용지 3장 앞뒤를 자유롭게 채운 cheat sheet을 허용합니다.\n    ◦ 반드시 자필로 작성해야 하며, 시험이 끝날 때 제출해야 합니다.\n• 프로그래밍 시험은 3문제가 출제되고, Python으로 코드를 작성하여 제출하게 됩니다.\n    ◦ 시험 당일 프로그래밍 할 수 있는 노트북 컴퓨터를 지참하시기 바랍니다.\n    ◦ 데이터사이언스 대학원 서버를 통해 제출하게 되므로, 본인의 계정이 사용 가능한 환경인지 미리 확인 바랍니다.\n\n*2차 시험 (문제 풀이: 6/22(화) 17:00 ~ 6/24(목) 16:59:59, 구술 발표: 6/26(금) 9:00~ )*\n• 2차 시험은 48시간 동안 프로젝트를 수행하는 형태로 진행됩니다.\n• 1차 시험 당일 오후 (6/22 화요일) 17:00에 응시자 전용 slack 채널을 통해 문제가 공개되며, 제출 마감은 48시간 뒤인 6/24 목요일 16:59:59까지입니다.\n• 프로젝트 문제는 2개가 출제되며, 응시자가 1개를 선택하여 진행하게 됩니다.\n• 프로젝트 진행 결과를 6/26 금요일 09:00에 시작하는 구술 시험에서 발표하게 됩니다.",
+			"ts": "1621583078.010900",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1621583119.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ovOU8",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 1학기 논문제출자격시험 관련 안내사항>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n데이터사이언스대학원 2021학년도 1학기 논문제출자격시험 관련하여 아래와 같이 안내드리니 응시자분들께서는 확인하시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "공통사항",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub17c\\ubb38 \\uc790\\uaca9 \\uc2dc\\ud5d8\\uc740 1\\ucc28 \\uc2dc\\ud5d8 (\\ud544\\uae30 + \\ud504\\ub85c\\uadf8\\ub798\\ubc0d)\\uacfc 2\\ucc28 \\uc2dc\\ud5d8 (\\ud504\\ub85c\\uc81d\\ud2b8)\\uc73c\\ub85c \\ub098\\ub204\\uc5b4\\uc9c0\\uba70, 1\\ucc28\\uc640 2\\ucc28\\ub294 \\ud569\\uaca9 \\uc5ec\\ubd80\\uac00 \\ubcc4\\uac1c\\ub85c \\ud1b5\\ubcf4\\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\ucc28\\uc640 2\\ucc28\\ub97c \\ubaa8\\ub450 \\ud569\\uaca9\\ud574\\uc57c \\ub17c\\ubb38 \\uc790\\uaca9 \\uc2dc\\ud5d8\\uc5d0 \\ud569\\uaca9\\ud55c \\uac83\\uc73c\\ub85c \\uac04\\uc8fc\\ud569\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubd88\\ud569\\uaca9\\uc790\\ub294 1\\ucc28\\uc640 2\\ucc28 \\uc911 \\ubd88\\ud569\\uaca9\\ud55c \\ucc28\\uc218\\ub9cc \\uc7ac\\uc751\\uc2dc\\ud560 \\uc218 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "1차 시험 (6/22 화요일, 09:00~12:00)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\ucc28 \\uc2dc\\ud5d8\\uc740 \\ud544\\uae30 \\uc2dc\\ud5d8 2\\uc2dc\\uac04 (09:00~11:00)\\uacfc \\ud504\\ub85c\\uadf8\\ub798\\ubc0d \\uc2dc\\ud5d8 1\\uc2dc\\uac04 (11:00~12:00)\\uc73c\\ub85c \\uad6c\\uc131\\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud544\\uae30 \\uc2dc\\ud5d8 \\ubb38\\uc81c\\ub294 \\uae30\\ucd08 2\\uac1c \\uacfc\\ubaa9\\uacfc ABC 3\\uac1c \\uacfc\\ubaa9\\uc5d0\\uc11c \\ubc30\\uc6b4 \\ub0b4\\uc6a9\\uc744 \\uae30\\ubc18\\uc73c\\ub85c \\ud558\\ub418, \\ub2e4\\uc591\\ud55c \\uacfc\\ubaa9\\uc744 \\uc218\\uac15\\ud55c \\uac83\\uc774 \\ub3c4\\uc6c0\\uc774 \\ub418\\ub3c4\\ub85d \\ucd9c\\uc81c\\ub429\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.002800\\t\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub97c \\uc704\\ud55c \\ud655\\ub960\\uacfc \\ud1b5\\uacc4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.003000\\t\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub97c \\uc704\\ud55c \\ucef4\\ud4e8\\ud305\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.000200\\t\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub97c \\uc704\\ud55c \\uba38\\uc2e0\\ub7ec\\ub2dd \\ubc0f \\ub525\\ub7ec\\ub2dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.000100\\t\\ube45\\ub370\\uc774\\ud130 \\ubc0f \\uc9c0\\uc2dd \\uad00\\ub9ac \\uc2dc\\uc2a4\\ud15c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"M3239.000300\\t\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub97c \\uc704\\ud55c \\uc18c\\ud504\\ud2b8\\uc6e8\\uc5b4 \\ud50c\\ub7ab\\ud3fc\"}]}],\"style\":\"bullet\",\"indent\":1}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud544\\uae30 \\uc2dc\\ud5d8\\uc740 \\ub2e4\\uc74c\\uc758 3\\uac1c \\uc601\\uc5ed\\uc73c\\ub85c \\ub098\\ub204\\uc5b4\\uc9c0\\uba70, \\uac01 \\uc601\\uc5ed\\uc758 \\uac00\\uc911\\uce58\\ub294 \\uac19\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Area 1: Probability & Statistics (2\\ubb38\\uc81c \\ucd9c\\uc81c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Area 2: Computing (2\\ubb38\\uc81c \\ucd9c\\uc81c)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Area 3: Machine Learning (3\\ubb38\\uc81c \\ucd9c\\uc81c\\ub418\\uace0 2\\ubb38\\uc81c \\uc120\\ud0dd\\ud558\\uc5ec \\uc81c\\ucd9c)\"}]}],\"style\":\"bullet\",\"indent\":1}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud544\\uae30 \\uc2dc\\ud5d8\\uc5d0\\ub294 A4 \\uc6a9\\uc9c0 3\\uc7a5 \\uc55e\\ub4a4\\ub97c \\uc790\\uc720\\ub86d\\uac8c \\ucc44\\uc6b4 cheat sheet\\uc744 \\ud5c8\\uc6a9\\ud569\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc18\\ub4dc\\uc2dc \\uc790\\ud544\\ub85c \\uc791\\uc131\\ud574\\uc57c \\ud558\\uba70, \\uc2dc\\ud5d8\\uc774 \\ub05d\\ub0a0 \\ub54c \\uc81c\\ucd9c\\ud574\\uc57c \\ud569\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud504\\ub85c\\uadf8\\ub798\\ubc0d \\uc2dc\\ud5d8\\uc740 3\\ubb38\\uc81c\\uac00 \\ucd9c\\uc81c\\ub418\\uace0, Python\\uc73c\\ub85c \\ucf54\\ub4dc\\ub97c \\uc791\\uc131\\ud558\\uc5ec \\uc81c\\ucd9c\\ud558\\uac8c \\ub429\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2dc\\ud5d8 \\ub2f9\\uc77c \\ud504\\ub85c\\uadf8\\ub798\\ubc0d \\ud560 \\uc218 \\uc788\\ub294 \\ub178\\ud2b8\\ubd81 \\ucef4\\ud4e8\\ud130\\ub97c \\uc9c0\\ucc38\\ud558\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4 \\ub300\\ud559\\uc6d0 \\uc11c\\ubc84\\ub97c \\ud1b5\\ud574 \\uc81c\\ucd9c\\ud558\\uac8c \\ub418\\ubbc0\\ub85c, \\ubcf8\\uc778\\uc758 \\uacc4\\uc815\\uc774 \\uc0ac\\uc6a9 \\uac00\\ub2a5\\ud55c \\ud658\\uacbd\\uc778\\uc9c0 \\ubbf8\\ub9ac \\ud655\\uc778 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":1}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2차 시험 (문제 풀이: 6/22(화) 17:00 ~ 6/24(목) 16:59:59, 구술 발표: 6/26(금) 9:00~ )",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2\\ucc28 \\uc2dc\\ud5d8\\uc740 48\\uc2dc\\uac04 \\ub3d9\\uc548 \\ud504\\ub85c\\uc81d\\ud2b8\\ub97c \\uc218\\ud589\\ud558\\ub294 \\ud615\\ud0dc\\ub85c \\uc9c4\\ud589\\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"1\\ucc28 \\uc2dc\\ud5d8 \\ub2f9\\uc77c \\uc624\\ud6c4 (6\\/22 \\ud654\\uc694\\uc77c) 17:00\\uc5d0 \\uc751\\uc2dc\\uc790 \\uc804\\uc6a9 slack \\ucc44\\ub110\\uc744 \\ud1b5\\ud574 \\ubb38\\uc81c\\uac00 \\uacf5\\uac1c\\ub418\\uba70, \\uc81c\\ucd9c \\ub9c8\\uac10\\uc740 48\\uc2dc\\uac04 \\ub4a4\\uc778 6\\/24 \\ubaa9\\uc694\\uc77c 16:59:59\\uae4c\\uc9c0\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud504\\ub85c\\uc81d\\ud2b8 \\ubb38\\uc81c\\ub294 2\\uac1c\\uac00 \\ucd9c\\uc81c\\ub418\\uba70, \\uc751\\uc2dc\\uc790\\uac00 1\\uac1c\\ub97c \\uc120\\ud0dd\\ud558\\uc5ec \\uc9c4\\ud589\\ud558\\uac8c \\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud504\\ub85c\\uc81d\\ud2b8 \\uc9c4\\ud589 \\uacb0\\uacfc\\ub97c 6\\/26 \\uae08\\uc694\\uc77c 09:00\\uc5d0 \\uc2dc\\uc791\\ud558\\ub294 \\uad6c\\uc220 \\uc2dc\\ud5d8\\uc5d0\\uc11c \\ubc1c\\ud45c\\ud558\\uac8c \\ub429\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

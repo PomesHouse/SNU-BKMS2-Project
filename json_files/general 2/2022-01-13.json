@@ -1,310 +1,312 @@
-[
-  {
-    "client_msg_id": "a9c536f2-4d1e-4583-961d-fc3735860a34",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2022학년도 특성별 학문후속세대 선정 계획 안내\u0026gt;*\n\n2022학년도 특성별 학문후속세대 선정 계획을 아래와 같이 알려드립니다.\n 가. 추천대상\n   - (우선) 2021학년도 동일 장학금 수혜 학생 재추천 우선 선발\n       ※ 본 지원금은 최대 2년 수혜 가능\n   - (신규) 2022학년도 1학기 기준 수학 중인 석사 재학생, 박사 재학생(수료생 포함) 중\n      타 장학금의 지원을 받지 않는 자로서 희소학문분야 및 국책연구분야의 연구를 하고\n      있는 학생\n       ※ 타 장학금 중복 수혜 금지(기초학문분야 학문후속세대, GSI 등 학내, 학외 모두 해당)\n       ※ 단, 2022학년도 2학기에 학적 상태에 변동이 없어야 함(수료생의 경우, 연구생 등록 필수)\n나. 지원내용\n   - 지원분야 : (A형) 희소학문분야 / (B형) 국책연구분야\n   - 지  원  액 : 학기당 박사과정 1,000만원, 석사과정 500만원\n   - 지원인원 : 박사과정 기준 35명*\n   - 지원기간 : 2022학년도 1, 2학기(2022. 3. ~ 2023. 2.)\n       ※ 박사과정 1명은 석사과정 2명으로 환산\n       ※ 석박통합과정 학생의 경우, 신청 당시 과정의 지원액으로 1, 2학기 동액 지급\n다. 추천 기준 및 지원자 제출 서류 등: [붙임1] 참고\n라. 추천 기한: 2022. 2. 4.(금) 18:00까지(기한 엄수)\n마. 추천 방법: 다음 서류를 공문으로 기한 내에 제출\n    - 지원자 제출 서류[붙임1], 추천자 총괄표 및 명단[붙임2], 재추천 대상자 현황표[붙임3]\n       ※ 단과대학(원)에서는 지원자들의 제출서류는 순위별로 정리·스캔하여 총 1개의 PDF파일을\n           공문에 첨부하고, 원본은 단과대학(원) 별도 보관(교무과 제출 불필요)\n       ※ 개별 서류는 [붙임1]'지원서-지도교수 및 학과(부)장 추천서-연구계획서-제한사항 확인서-성적증명서'\n           순서로 스캔 요망",
-    "ts": "1642034440.024900",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1642034482.000000"
-    },
-    "files": [
-      {
-        "id": "F02UHCTC5G8",
-        "created": 1642034423,
-        "timestamp": 1642034423,
-        "name": "2022학년도 특성별 학문후속세대 지원 계획 안내.hwp",
-        "title": "2022학년도 특성별 학문후속세대 지원 계획 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 111616,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02UHCTC5G8-2022학년도 특성별 학문후속세대 지원 계획 안내.hwp",
-        "url_private_download": "attachments/F02UHCTC5G8-2022학년도 특성별 학문후속세대 지원 계획 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02UHCTC5G8/2022___________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02UHCTC5G8-2f442ace1c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "02G/",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022학년도 특성별 학문후속세대 선정 계획 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2022학년도 특성별 학문후속세대 선정 계획을 아래와 같이 알려드립니다.\n 가. 추천대상\n   - (우선) 2021학년도 동일 장학금 수혜 학생 재추천 우선 선발\n       ※ 본 지원금은 최대 2년 수혜 가능\n   - (신규) 2022학년도 1학기 기준 수학 중인 석사 재학생, 박사 재학생(수료생 포함) 중\n      타 장학금의 지원을 받지 않는 자로서 희소학문분야 및 국책연구분야의 연구를 하고\n      있는 학생\n       ※ 타 장학금 중복 수혜 금지(기초학문분야 학문후속세대, GSI 등 학내, 학외 모두 해당)\n       ※ 단, 2022학년도 2학기에 학적 상태에 변동이 없어야 함(수료생의 경우, 연구생 등록 필수)\n나. 지원내용\n   - 지원분야 : (A형) 희소학문분야 / (B형) 국책연구분야\n   - 지  원  액 : 학기당 박사과정 1,000만원, 석사과정 500만원\n   - 지원인원 : 박사과정 기준 35명*\n   - 지원기간 : 2022학년도 1, 2학기(2022. 3. ~ 2023. 2.)\n       ※ 박사과정 1명은 석사과정 2명으로 환산\n       ※ 석박통합과정 학생의 경우, 신청 당시 과정의 지원액으로 1, 2학기 동액 지급\n다. 추천 기준 및 지원자 제출 서류 등: [붙임1] 참고\n라. 추천 기한: 2022. 2. 4.(금) 18:00까지(기한 엄수)\n마. 추천 방법: 다음 서류를 공문으로 기한 내에 제출\n    - 지원자 제출 서류[붙임1], 추천자 총괄표 및 명단[붙임2], 재추천 대상자 현황표[붙임3]\n       ※ 단과대학(원)에서는 지원자들의 제출서류는 순위별로 정리·스캔하여 총 1개의 PDF파일을\n           공문에 첨부하고, 원본은 단과대학(원) 별도 보관(교무과 제출 불필요)\n       ※ 개별 서류는 [붙임1]'지원서-지도교수 및 학과(부)장 추천서-연구계획서-제한사항 확인서-성적증명서'\n           순서로 스캔 요망"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d0e0571c-033c-472b-9859-3c19bd142c17",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e \u0026lt;2022학년도 1학기 수강신청 안내\u0026gt;\n\n2022학년도 1학기 수강신청 관련 사항을 안내드리니 수강신청에 참고하여 주시기 바랍니다.\n\n1. *수강신청 일정*\n○ 예비수강신청 (재,휴학생): 2021.1.25.(화)~ 1.28.(금)\n○ 수강신청 (재,휴학생): 2022.2.7.(월) ~ 2.14. (월)\n○ 예비수강신청 (신,편입생): 2022. 2. 15.(화) ~ 2. 18.(금)\n○ 수강신청 (신, 편입생): 2022. 2. 21.(월) ~ 2. 25.(금)\n○ 수강신청변경 (전체동일): 2022. 3. 2.(수) ~ 3. 8.(화) (주말제외)\n○ 수강신청취소 (전체동일): 2022. 3. 9.(수) ~ 4. 21.(목) 수업일수 2/4선 마감 (온라인 신청 및 승인 필)\n*※수강신청취소기간이후로의 수강신청취소는 어떠한 경우에도 허가되지 않으니 이점 꼭 숙지하여 주시기 바랍니다.*\n\n*2. 유의사항*\n○ 수강신청 일반\n  - 반드시 기간 내 교과목 수강신청, 변경 및 취소 완료\n  - 수강신청 시간(장바구니 09:00 ~ 익일 16:00 (※ 선착순 신청 아님), 선착순 수강신청 08:30 ~ 16:00) 적극 안내 요망\n  - '취소여석' 표기 교과목 수강신청 1일 3회 가능 적극 안내 요망\n  - 신·편입생 수강신청 지도 철저 요망\n*○ 대학원 수료 예정자*\n  *- 수강신청하지 않아야 하며, 임의 수강신청 시 일괄 취소 처리*\n○ 휴학생\n  - 복학 미신청 시 수강신청 내역이 일괄 삭제되므로 기간 내 반드시 복학 신청 (반드시 복학신청 후 행정실 연락)\n○ 수업연한초과자\n  - 반드시 최소 1학점 이상 수강신청(수강신청 학점이 0학점일 경우 제적 처리)\n  - 재학생 수강신청 기간에 수강 신청해야 장학금 지급 대상 해당\n○ 재수강 *(교과목명 변경 등을 확인하여 같은 과목이 재수강 되지 않게 반드시 확인)* \n  - 2021학년도 동계 계절수업 수강 중인 교과목 재수강 희망 시 수강신청 변경기간에 신청\n  - 학사과정 학생 재수강 취득성적 상한 \"A0\" 제한 (2015학년도 1학기 이수 교과목부터 적용, 유급규정 적용 대학 제외)\n○ 정원 외 신청\n  *- 정원 외 신청 절차(학생 신청 → 교원 승인 → 학생 수강확정) 안내 요망(수강 미확정 시 수강신청 미반영)*",
-    "ts": "1642036197.032100",
-    "files": [
-      {
-        "id": "F02UHFB4URW",
-        "created": 1642036130,
-        "timestamp": 1642036130,
-        "name": "(붙임1-1)2022학년도 1학기 수강신청 안내(Notice for Spring 2022 SNU Course Reigstration).pdf외3건.zip",
-        "title": "(붙임1-1)2022학년도 1학기 수강신청 안내(Notice for Spring 2022 SNU Course Reigstration).pdf외3건.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 23076118,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02UHFB4URW-(붙임1-1)2022학년도 1학기 수강신청 안내(Notice for Spring 2022 SNU Course Reigstration).pdf외3건.zip",
-        "url_private_download": "attachments/F02UHFB4URW-(붙임1-1)2022학년도 1학기 수강신청 안내(Notice for Spring 2022 SNU Course Reigstration).pdf외3건.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02UHFB4URW/_______1-1_2022__________1___________________________notice_for_spring_2022_snu_course_reigstration_.pdf___3___.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02UHFB4URW-92ea231a03",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "kI+",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c2022학년도 1학기 수강신청 안내\u003e\n\n2022학년도 1학기 수강신청 관련 사항을 안내드리니 수강신청에 참고하여 주시기 바랍니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\uac15\\uc2e0\\uccad \\uc77c\\uc815\",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "○ 예비수강신청 (재,휴학생): 2021.1.25.(화)~ 1.28.(금)\n○ 수강신청 (재,휴학생): 2022.2.7.(월) ~ 2.14. (월)\n○ 예비수강신청 (신,편입생): 2022. 2. 15.(화) ~ 2. 18.(금)\n○ 수강신청 (신, 편입생): 2022. 2. 21.(월) ~ 2. 25.(금)\n○ 수강신청변경 (전체동일): 2022. 3. 2.(수) ~ 3. 8.(화) (주말제외)\n○ 수강신청취소 (전체동일): 2022. 3. 9.(수) ~ 4. 21.(목) 수업일수 2/4선 마감 (온라인 신청 및 승인 필)\n"
-              },
-              {
-                "type": "text",
-                "text": "※수강신청취소기간이후로의 수강신청취소는 어떠한 경우에도 허가되지 않으니 이점 꼭 숙지하여 주시기 바랍니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2. 유의사항",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n○ 수강신청 일반\n  - 반드시 기간 내 교과목 수강신청, 변경 및 취소 완료\n  - 수강신청 시간(장바구니 09:00 ~ 익일 16:00 (※ 선착순 신청 아님), 선착순 수강신청 08:30 ~ 16:00) 적극 안내 요망\n  - '취소여석' 표기 교과목 수강신청 1일 3회 가능 적극 안내 요망\n  - 신·편입생 수강신청 지도 철저 요망\n"
-              },
-              {
-                "type": "text",
-                "text": "○ 대학원 수료 예정자",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "  - 수강신청하지 않아야 하며, 임의 수강신청 시 일괄 취소 처리",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n○ 휴학생\n  - 복학 미신청 시 수강신청 내역이 일괄 삭제되므로 기간 내 반드시 복학 신청 (반드시 복학신청 후 행정실 연락)\n○ 수업연한초과자\n  - 반드시 최소 1학점 이상 수강신청(수강신청 학점이 0학점일 경우 제적 처리)\n  - 재학생 수강신청 기간에 수강 신청해야 장학금 지급 대상 해당\n○ 재수강"
-              },
-              {
-                "type": "text",
-                "text": " (교과목명 변경 등을 확인하여 같은 과목이 재수강 되지 않게 반드시 확인) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  - 2021학년도 동계 계절수업 수강 중인 교과목 재수강 희망 시 수강신청 변경기간에 신청\n  - 학사과정 학생 재수강 취득성적 상한 \"A0\" 제한 (2015학년도 1학기 이수 교과목부터 적용, 유급규정 적용 대학 제외)\n○ 정원 외 신청\n "
-              },
-              {
-                "type": "text",
-                "text": " - 정원 외 신청 절차(학생 신청 → 교원 승인 → 학생 수강확정) 안내 요망(수강 미확정 시 수강신청 미반영)",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "a9c536f2-4d1e-4583-961d-fc3735860a34",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2022학년도 특성별 학문후속세대 선정 계획 안내&gt;*\n\n2022학년도 특성별 학문후속세대 선정 계획을 아래와 같이 알려드립니다.\n 가. 추천대상\n   - (우선) 2021학년도 동일 장학금 수혜 학생 재추천 우선 선발\n       ※ 본 지원금은 최대 2년 수혜 가능\n   - (신규) 2022학년도 1학기 기준 수학 중인 석사 재학생, 박사 재학생(수료생 포함) 중\n      타 장학금의 지원을 받지 않는 자로서 희소학문분야 및 국책연구분야의 연구를 하고\n      있는 학생\n       ※ 타 장학금 중복 수혜 금지(기초학문분야 학문후속세대, GSI 등 학내, 학외 모두 해당)\n       ※ 단, 2022학년도 2학기에 학적 상태에 변동이 없어야 함(수료생의 경우, 연구생 등록 필수)\n나. 지원내용\n   - 지원분야 : (A형) 희소학문분야 / (B형) 국책연구분야\n   - 지  원  액 : 학기당 박사과정 1,000만원, 석사과정 500만원\n   - 지원인원 : 박사과정 기준 35명*\n   - 지원기간 : 2022학년도 1, 2학기(2022. 3. ~ 2023. 2.)\n       ※ 박사과정 1명은 석사과정 2명으로 환산\n       ※ 석박통합과정 학생의 경우, 신청 당시 과정의 지원액으로 1, 2학기 동액 지급\n다. 추천 기준 및 지원자 제출 서류 등: [붙임1] 참고\n라. 추천 기한: 2022. 2. 4.(금) 18:00까지(기한 엄수)\n마. 추천 방법: 다음 서류를 공문으로 기한 내에 제출\n    - 지원자 제출 서류[붙임1], 추천자 총괄표 및 명단[붙임2], 재추천 대상자 현황표[붙임3]\n       ※ 단과대학(원)에서는 지원자들의 제출서류는 순위별로 정리·스캔하여 총 1개의 PDF파일을\n           공문에 첨부하고, 원본은 단과대학(원) 별도 보관(교무과 제출 불필요)\n       ※ 개별 서류는 [붙임1]'지원서-지도교수 및 학과(부)장 추천서-연구계획서-제한사항 확인서-성적증명서'\n           순서로 스캔 요망",
+			"ts": "1642034440.024900",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1642034482.000000"
+			},
+			"files": [
+				{
+					"id": "F02UHCTC5G8",
+					"created": 1642034423,
+					"timestamp": 1642034423,
+					"name": "2022학년도 특성별 학문후속세대 지원 계획 안내.hwp",
+					"title": "2022학년도 특성별 학문후속세대 지원 계획 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 111616,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02UHCTC5G8-2022학년도 특성별 학문후속세대 지원 계획 안내.hwp",
+					"url_private_download": "attachments/F02UHCTC5G8-2022학년도 특성별 학문후속세대 지원 계획 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02UHCTC5G8/2022___________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02UHCTC5G8-2f442ace1c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "02G/",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022학년도 특성별 학문후속세대 선정 계획 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2022학년도 특성별 학문후속세대 선정 계획을 아래와 같이 알려드립니다.\n 가. 추천대상\n   - (우선) 2021학년도 동일 장학금 수혜 학생 재추천 우선 선발\n       ※ 본 지원금은 최대 2년 수혜 가능\n   - (신규) 2022학년도 1학기 기준 수학 중인 석사 재학생, 박사 재학생(수료생 포함) 중\n      타 장학금의 지원을 받지 않는 자로서 희소학문분야 및 국책연구분야의 연구를 하고\n      있는 학생\n       ※ 타 장학금 중복 수혜 금지(기초학문분야 학문후속세대, GSI 등 학내, 학외 모두 해당)\n       ※ 단, 2022학년도 2학기에 학적 상태에 변동이 없어야 함(수료생의 경우, 연구생 등록 필수)\n나. 지원내용\n   - 지원분야 : (A형) 희소학문분야 / (B형) 국책연구분야\n   - 지  원  액 : 학기당 박사과정 1,000만원, 석사과정 500만원\n   - 지원인원 : 박사과정 기준 35명*\n   - 지원기간 : 2022학년도 1, 2학기(2022. 3. ~ 2023. 2.)\n       ※ 박사과정 1명은 석사과정 2명으로 환산\n       ※ 석박통합과정 학생의 경우, 신청 당시 과정의 지원액으로 1, 2학기 동액 지급\n다. 추천 기준 및 지원자 제출 서류 등: [붙임1] 참고\n라. 추천 기한: 2022. 2. 4.(금) 18:00까지(기한 엄수)\n마. 추천 방법: 다음 서류를 공문으로 기한 내에 제출\n    - 지원자 제출 서류[붙임1], 추천자 총괄표 및 명단[붙임2], 재추천 대상자 현황표[붙임3]\n       ※ 단과대학(원)에서는 지원자들의 제출서류는 순위별로 정리·스캔하여 총 1개의 PDF파일을\n           공문에 첨부하고, 원본은 단과대학(원) 별도 보관(교무과 제출 불필요)\n       ※ 개별 서류는 [붙임1]'지원서-지도교수 및 학과(부)장 추천서-연구계획서-제한사항 확인서-성적증명서'\n           순서로 스캔 요망"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d0e0571c-033c-472b-9859-3c19bd142c17",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> &lt;2022학년도 1학기 수강신청 안내&gt;\n\n2022학년도 1학기 수강신청 관련 사항을 안내드리니 수강신청에 참고하여 주시기 바랍니다.\n\n1. *수강신청 일정*\n○ 예비수강신청 (재,휴학생): 2021.1.25.(화)~ 1.28.(금)\n○ 수강신청 (재,휴학생): 2022.2.7.(월) ~ 2.14. (월)\n○ 예비수강신청 (신,편입생): 2022. 2. 15.(화) ~ 2. 18.(금)\n○ 수강신청 (신, 편입생): 2022. 2. 21.(월) ~ 2. 25.(금)\n○ 수강신청변경 (전체동일): 2022. 3. 2.(수) ~ 3. 8.(화) (주말제외)\n○ 수강신청취소 (전체동일): 2022. 3. 9.(수) ~ 4. 21.(목) 수업일수 2/4선 마감 (온라인 신청 및 승인 필)\n*※수강신청취소기간이후로의 수강신청취소는 어떠한 경우에도 허가되지 않으니 이점 꼭 숙지하여 주시기 바랍니다.*\n\n*2. 유의사항*\n○ 수강신청 일반\n  - 반드시 기간 내 교과목 수강신청, 변경 및 취소 완료\n  - 수강신청 시간(장바구니 09:00 ~ 익일 16:00 (※ 선착순 신청 아님), 선착순 수강신청 08:30 ~ 16:00) 적극 안내 요망\n  - '취소여석' 표기 교과목 수강신청 1일 3회 가능 적극 안내 요망\n  - 신·편입생 수강신청 지도 철저 요망\n*○ 대학원 수료 예정자*\n  *- 수강신청하지 않아야 하며, 임의 수강신청 시 일괄 취소 처리*\n○ 휴학생\n  - 복학 미신청 시 수강신청 내역이 일괄 삭제되므로 기간 내 반드시 복학 신청 (반드시 복학신청 후 행정실 연락)\n○ 수업연한초과자\n  - 반드시 최소 1학점 이상 수강신청(수강신청 학점이 0학점일 경우 제적 처리)\n  - 재학생 수강신청 기간에 수강 신청해야 장학금 지급 대상 해당\n○ 재수강 *(교과목명 변경 등을 확인하여 같은 과목이 재수강 되지 않게 반드시 확인)* \n  - 2021학년도 동계 계절수업 수강 중인 교과목 재수강 희망 시 수강신청 변경기간에 신청\n  - 학사과정 학생 재수강 취득성적 상한 \"A0\" 제한 (2015학년도 1학기 이수 교과목부터 적용, 유급규정 적용 대학 제외)\n○ 정원 외 신청\n  *- 정원 외 신청 절차(학생 신청 → 교원 승인 → 학생 수강확정) 안내 요망(수강 미확정 시 수강신청 미반영)*",
+			"ts": "1642036197.032100",
+			"files": [
+				{
+					"id": "F02UHFB4URW",
+					"created": 1642036130,
+					"timestamp": 1642036130,
+					"name": "(붙임1-1)2022학년도 1학기 수강신청 안내(Notice for Spring 2022 SNU Course Reigstration).pdf외3건.zip",
+					"title": "(붙임1-1)2022학년도 1학기 수강신청 안내(Notice for Spring 2022 SNU Course Reigstration).pdf외3건.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 23076118,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02UHFB4URW-(붙임1-1)2022학년도 1학기 수강신청 안내(Notice for Spring 2022 SNU Course Reigstration).pdf외3건.zip",
+					"url_private_download": "attachments/F02UHFB4URW-(붙임1-1)2022학년도 1학기 수강신청 안내(Notice for Spring 2022 SNU Course Reigstration).pdf외3건.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02UHFB4URW/_______1-1_2022__________1___________________________notice_for_spring_2022_snu_course_reigstration_.pdf___3___.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02UHFB4URW-92ea231a03",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "kI+",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " <2022학년도 1학기 수강신청 안내>\n\n2022학년도 1학기 수강신청 관련 사항을 안내드리니 수강신청에 참고하여 주시기 바랍니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\uac15\\uc2e0\\uccad \\uc77c\\uc815\",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "○ 예비수강신청 (재,휴학생): 2021.1.25.(화)~ 1.28.(금)\n○ 수강신청 (재,휴학생): 2022.2.7.(월) ~ 2.14. (월)\n○ 예비수강신청 (신,편입생): 2022. 2. 15.(화) ~ 2. 18.(금)\n○ 수강신청 (신, 편입생): 2022. 2. 21.(월) ~ 2. 25.(금)\n○ 수강신청변경 (전체동일): 2022. 3. 2.(수) ~ 3. 8.(화) (주말제외)\n○ 수강신청취소 (전체동일): 2022. 3. 9.(수) ~ 4. 21.(목) 수업일수 2/4선 마감 (온라인 신청 및 승인 필)\n"
+								},
+								{
+									"type": "text",
+									"text": "※수강신청취소기간이후로의 수강신청취소는 어떠한 경우에도 허가되지 않으니 이점 꼭 숙지하여 주시기 바랍니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2. 유의사항",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n○ 수강신청 일반\n  - 반드시 기간 내 교과목 수강신청, 변경 및 취소 완료\n  - 수강신청 시간(장바구니 09:00 ~ 익일 16:00 (※ 선착순 신청 아님), 선착순 수강신청 08:30 ~ 16:00) 적극 안내 요망\n  - '취소여석' 표기 교과목 수강신청 1일 3회 가능 적극 안내 요망\n  - 신·편입생 수강신청 지도 철저 요망\n"
+								},
+								{
+									"type": "text",
+									"text": "○ 대학원 수료 예정자",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "  - 수강신청하지 않아야 하며, 임의 수강신청 시 일괄 취소 처리",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n○ 휴학생\n  - 복학 미신청 시 수강신청 내역이 일괄 삭제되므로 기간 내 반드시 복학 신청 (반드시 복학신청 후 행정실 연락)\n○ 수업연한초과자\n  - 반드시 최소 1학점 이상 수강신청(수강신청 학점이 0학점일 경우 제적 처리)\n  - 재학생 수강신청 기간에 수강 신청해야 장학금 지급 대상 해당\n○ 재수강"
+								},
+								{
+									"type": "text",
+									"text": " (교과목명 변경 등을 확인하여 같은 과목이 재수강 되지 않게 반드시 확인) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  - 2021학년도 동계 계절수업 수강 중인 교과목 재수강 희망 시 수강신청 변경기간에 신청\n  - 학사과정 학생 재수강 취득성적 상한 \"A0\" 제한 (2015학년도 1학기 이수 교과목부터 적용, 유급규정 적용 대학 제외)\n○ 정원 외 신청\n "
+								},
+								{
+									"type": "text",
+									"text": " - 정원 외 신청 절차(학생 신청 → 교원 승인 → 학생 수강확정) 안내 요망(수강 미확정 시 수강신청 미반영)",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

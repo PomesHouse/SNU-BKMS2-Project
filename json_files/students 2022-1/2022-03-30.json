@@ -1,125 +1,127 @@
-[
-  {
-    "client_msg_id": "8C8EE0BD-CBB1-4F94-8CB1-4C59C2B2C5C2",
-    "type": "message",
-    "user": "U01QZRUNBA4",
-    "text": "안녕하세요... 혹시 예전 맥북 충전기 (저는 맥 2015년형입니다) 가지고 계신 분 잠깐만 빌려주실 수 있나요ㅠㅠ 제 맥북 충전기가 갑자기 고장난 것 같아서..ㅠㅠㅠ",
-    "ts": "1648612987.330739",
-    "thread_ts": "1648612987.330739",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01QZRUNBA4",
-        "ts": "1648616943.556489"
-      }
-    ],
-    "latest_reply": "1648616943.556489",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "cry",
-        "count": 1,
-        "users": [
-          "U01QV1SQJ57"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "oDk+",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요... 혹시 예전 맥북 충전기 (저는 맥 2015년형입니다) 가지고 계신 분 잠깐만 빌려주실 수 있나요ㅠㅠ 제 맥북 충전기가 갑자기 고장난 것 같아서..ㅠㅠㅠ"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
-      "first_name": "3기_최현준",
-      "real_name": "3기_최현준",
-      "display_name": "3기_최현준",
-      "team": "T01QA5S537V",
-      "name": "nschj1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QZRUNBA4"
-    ]
-  },
-  {
-    "client_msg_id": "3cfee97a-dc19-455b-ace7-703beb7d9419",
-    "type": "message",
-    "user": "U01QZRUNBA4",
-    "text": "구했습니다!",
-    "ts": "1648616943.556489",
-    "thread_ts": "1648612987.330739",
-    "parent_user_id": "U01QZRUNBA4",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 1,
-        "users": [
-          "U01QGKD09K5"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "5T=9",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "구했습니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
-      "first_name": "3기_최현준",
-      "real_name": "3기_최현준",
-      "display_name": "3기_최현준",
-      "team": "T01QA5S537V",
-      "name": "nschj1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8C8EE0BD-CBB1-4F94-8CB1-4C59C2B2C5C2",
+			"type": "message",
+			"user": "U01QZRUNBA4",
+			"text": "안녕하세요... 혹시 예전 맥북 충전기 (저는 맥 2015년형입니다) 가지고 계신 분 잠깐만 빌려주실 수 있나요ㅠㅠ 제 맥북 충전기가 갑자기 고장난 것 같아서..ㅠㅠㅠ",
+			"ts": "1648612987.330739",
+			"thread_ts": "1648612987.330739",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01QZRUNBA4",
+					"ts": "1648616943.556489"
+				}
+			],
+			"latest_reply": "1648616943.556489",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "cry",
+					"count": 1,
+					"users": [
+						"U01QV1SQJ57"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "oDk+",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요... 혹시 예전 맥북 충전기 (저는 맥 2015년형입니다) 가지고 계신 분 잠깐만 빌려주실 수 있나요ㅠㅠ 제 맥북 충전기가 갑자기 고장난 것 같아서..ㅠㅠㅠ"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+				"first_name": "3기_최현준",
+				"real_name": "3기_최현준",
+				"display_name": "3기_최현준",
+				"team": "T01QA5S537V",
+				"name": "nschj1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QZRUNBA4"
+			]
+		},
+		{
+			"client_msg_id": "3cfee97a-dc19-455b-ace7-703beb7d9419",
+			"type": "message",
+			"user": "U01QZRUNBA4",
+			"text": "구했습니다!",
+			"ts": "1648616943.556489",
+			"thread_ts": "1648612987.330739",
+			"parent_user_id": "U01QZRUNBA4",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 1,
+					"users": [
+						"U01QGKD09K5"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "5T=9",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "구했습니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+				"first_name": "3기_최현준",
+				"real_name": "3기_최현준",
+				"display_name": "3기_최현준",
+				"team": "T01QA5S537V",
+				"name": "nschj1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

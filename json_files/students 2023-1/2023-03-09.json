@@ -1,189 +1,191 @@
-[
-  {
-    "type": "message",
-    "user": "USLACKBOT",
-    "text": "This message was deleted.",
-    "ts": "1678352360.207519",
-    "thread_ts": "1678352360.207519",
-    "subtype": "tombstone",
-    "hidden": true,
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QV1SQJ57",
-        "ts": "1678352466.319959"
-      },
-      {
-        "user": "U02ULBHV58W",
-        "ts": "1678352545.098229"
-      }
-    ],
-    "parent_user_id": "USLACKBOT",
-    "latest_reply": "1678352545.098229",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
-      "first_name": "slackbot",
-      "real_name": "Slackbot",
-      "display_name": "Slackbot",
-      "team": "T01QA5S537V",
-      "name": "slackbot",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01QV1SQJ57",
-      "U02ULBHV58W"
-    ]
-  },
-  {
-    "client_msg_id": "DE59EFC1-CBE9-4C2B-AD0C-7C2295C251E0",
-    "type": "message",
-    "user": "U01QV1SQJ57",
-    "text": "혹시 중간 기말 중 어떤거인지 알수있을까요?",
-    "ts": "1678352466.319959",
-    "thread_ts": "1678352360.207519",
-    "parent_user_id": "USLACKBOT",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "PAM",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "중간"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "기말"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "중"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "어떤거인지"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "알수있을까요"
-              },
-              {
-                "type": "text",
-                "text": "?"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
-      "first_name": "김병찬",
-      "real_name": "김병찬",
-      "display_name": "4기_김병찬",
-      "team": "T01QA5S537V",
-      "name": "bckim97",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "df632f14-3c6b-4e53-a549-88b8e80b120f",
-    "type": "message",
-    "user": "U02ULBHV58W",
-    "text": "중간입니다",
-    "ts": "1678352545.098229",
-    "thread_ts": "1678352360.207519",
-    "parent_user_id": "USLACKBOT",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "jqMc",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "중간입니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
-      "first_name": "3기_이승주",
-      "real_name": "3기_이승주",
-      "display_name": "3기_이승주",
-      "team": "T01QA5S537V",
-      "name": "lotusist",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "USLACKBOT",
+			"text": "This message was deleted.",
+			"ts": "1678352360.207519",
+			"thread_ts": "1678352360.207519",
+			"subtype": "tombstone",
+			"hidden": true,
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QV1SQJ57",
+					"ts": "1678352466.319959"
+				},
+				{
+					"user": "U02ULBHV58W",
+					"ts": "1678352545.098229"
+				}
+			],
+			"parent_user_id": "USLACKBOT",
+			"latest_reply": "1678352545.098229",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+				"first_name": "slackbot",
+				"real_name": "Slackbot",
+				"display_name": "Slackbot",
+				"team": "T01QA5S537V",
+				"name": "slackbot",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01QV1SQJ57",
+				"U02ULBHV58W"
+			]
+		},
+		{
+			"client_msg_id": "DE59EFC1-CBE9-4C2B-AD0C-7C2295C251E0",
+			"type": "message",
+			"user": "U01QV1SQJ57",
+			"text": "혹시 중간 기말 중 어떤거인지 알수있을까요?",
+			"ts": "1678352466.319959",
+			"thread_ts": "1678352360.207519",
+			"parent_user_id": "USLACKBOT",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "PAM",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "중간"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "기말"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "중"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "어떤거인지"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "알수있을까요"
+								},
+								{
+									"type": "text",
+									"text": "?"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+				"first_name": "김병찬",
+				"real_name": "김병찬",
+				"display_name": "4기_김병찬",
+				"team": "T01QA5S537V",
+				"name": "bckim97",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "df632f14-3c6b-4e53-a549-88b8e80b120f",
+			"type": "message",
+			"user": "U02ULBHV58W",
+			"text": "중간입니다",
+			"ts": "1678352545.098229",
+			"thread_ts": "1678352360.207519",
+			"parent_user_id": "USLACKBOT",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "jqMc",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "중간입니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+				"first_name": "3기_이승주",
+				"real_name": "3기_이승주",
+				"display_name": "3기_이승주",
+				"team": "T01QA5S537V",
+				"name": "lotusist",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

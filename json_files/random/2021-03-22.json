@@ -1,64 +1,66 @@
-[
-  {
-    "client_msg_id": "6a64e2b0-6214-45f4-9152-f197902483eb",
-    "type": "message",
-    "user": "U01QA85T90A",
-    "text": "ETL 서버가 터져서 Ambient AI수업 참석을 못하시는 분은 이 링크로 들어오세요: \u003chttps://snu-ac-kr.zoom.us/j/88916008657\u003e",
-    "ts": "1616394792.007900",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 3,
-        "users": [
-          "U01Q75KNV1T",
-          "U01QV1TE2UR",
-          "U01Q3A8TXU6"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "S9BtJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "ETL 서버가 터져서 Ambient AI수업 참석을 못하시는 분은 이 링크로 들어오세요: "
-              },
-              {
-                "type": "link",
-                "url": "https://snu-ac-kr.zoom.us/j/88916008657",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
-      "first_name": "gundo0102",
-      "real_name": "gundo0102",
-      "display_name": "3기_박건도",
-      "team": "T01QA5S537V",
-      "name": "gundo0102",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "6a64e2b0-6214-45f4-9152-f197902483eb",
+			"type": "message",
+			"user": "U01QA85T90A",
+			"text": "ETL 서버가 터져서 Ambient AI수업 참석을 못하시는 분은 이 링크로 들어오세요: <https://snu-ac-kr.zoom.us/j/88916008657>",
+			"ts": "1616394792.007900",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 3,
+					"users": [
+						"U01Q75KNV1T",
+						"U01QV1TE2UR",
+						"U01Q3A8TXU6"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "S9BtJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "ETL 서버가 터져서 Ambient AI수업 참석을 못하시는 분은 이 링크로 들어오세요: "
+								},
+								{
+									"type": "link",
+									"url": "https://snu-ac-kr.zoom.us/j/88916008657",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+				"first_name": "gundo0102",
+				"real_name": "gundo0102",
+				"display_name": "3기_박건도",
+				"team": "T01QA5S537V",
+				"name": "gundo0102",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

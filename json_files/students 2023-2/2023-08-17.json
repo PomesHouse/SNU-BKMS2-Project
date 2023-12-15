@@ -1,199 +1,201 @@
-[
-  {
-    "client_msg_id": "daf0683e-c779-423a-ac1c-930cce4c230c",
-    "type": "message",
-    "user": "U02ULBHV58W",
-    "text": ":coffee: [커피위원회]\n안녕하세요.\n3층 탕비실 커피머신 관리해주실 분을 새로 모집하고자 합니다.\n\n•  운영비 관리\n•   3층 탕비실 커피머신 관리, 원두 주문 등\n커피 즐기시는 분, 학교 자주 오시는 분은 제게 DM으로 지원해 주시면 감사하겠습니다.",
-    "ts": "1692233881.464119",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "GTSj",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "emoji",
-                "name": "coffee",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " [커피위원회]\n안녕하세요.\n3층 탕비실 커피머신 관리해주실 분을 새로 모집하고자 합니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\uc6b4\\uc601\\ube44 \\uad00\\ub9ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"  3\\uce35 \\ud0d5\\ube44\\uc2e4 \\ucee4\\ud53c\\uba38\\uc2e0 \\uad00\\ub9ac, \\uc6d0\\ub450 \\uc8fc\\ubb38 \\ub4f1\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n커피 즐기시는 분, 학교 자주 오시는 분은 제게 DM으로 지원해 주시면 감사하겠습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
-      "first_name": "3기_이승주",
-      "real_name": "3기_이승주",
-      "display_name": "3기_이승주",
-      "team": "T01QA5S537V",
-      "name": "lotusist",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "58cea9c4-9fd5-4a69-85f3-f343005dee39",
-    "type": "message",
-    "user": "U02UJC5BU8P",
-    "text": "[중급선형대수]\n\n안녕하세요. 이번 2학기 *‘머신러닝을 위한 중급선형대수’* 수강신청 관련해서 공지 드립니다.\n최병선 교수님께서 정원 외 신청은 박사과정 학생에 한해서 받아주신다고 합니다.\n관심있는 분들은 참고 바랍니다.",
-    "ts": "1692248540.867749",
-    "thread_ts": "1692248540.867749",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U02UJC5BU8P",
-        "ts": "1692424692.435489"
-      }
-    ],
-    "latest_reply": "1692424692.435489",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 4,
-        "users": [
-          "U02BD3EV4DQ",
-          "U0302PLQ34Y",
-          "U0302PJE83A",
-          "U01QV1SQJ57"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "VoejK",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[중급선형대수]\n\n안녕하세요. 이번 2학기 "
-              },
-              {
-                "type": "text",
-                "text": "‘머신러닝을 위한 중급선형대수’",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 수강신청 관련해서 공지 드립니다.\n최병선 교수님께서 정원 외 신청은 박사과정 학생에 한해서 받아주신다고 합니다.\n관심있는 분들은 참고 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/48fbbce89424234465c9fd99b65401c6.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
-      "first_name": "조우성",
-      "real_name": "조우성",
-      "display_name": "3기_조우성",
-      "team": "T01QA5S537V",
-      "name": "wooseongcho95",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U02UJC5BU8P"
-    ]
-  },
-  {
-    "client_msg_id": "8f11cab6-3d15-4012-a131-baaab85d3da4",
-    "type": "message",
-    "user": "U040M7VULN7",
-    "text": "*[GSDS 학생회] 자리배치 관련 신규 랩 운영위원 선정 요청*\n\n안녕하세요 GSDS 학생회 입니다.\n\n새 학기를 앞두고 다음주 중 연구실별 자리 구역 추첨을 진행하려고 합니다.\n랩별 운영위원들이 랩 대표로 참석해 추첨을 할텐데, 이번에 새로 생긴 연구실의 경우\n현재 운영위원 단톡방에 대표할 분이 없는 상황입니다.\n\n연구실 운영위원이 아직 없는 연구실(아마 이상원, 조요한 교수님 연구실)에서는\n내일까지 운영위원 한분 정하셔서 저나 김채윤 학생에게 DM 주시면 감사하겠습니다!",
-    "ts": "1692250189.373829",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "8XQsd",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 학생회] 자리배치 관련 신규 랩 운영위원 선정 요청",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요 GSDS 학생회 입니다.\n\n새 학기를 앞두고 다음주 중 연구실별 자리 구역 추첨을 진행하려고 합니다.\n랩별 운영위원들이 랩 대표로 참석해 추첨을 할텐데, 이번에 새로 생긴 연구실의 경우\n현재 운영위원 단톡방에 대표할 분이 없는 상황입니다.\n\n연구실 운영위원이 아직 없는 연구실(아마 이상원, 조요한 교수님 연구실)에서는\n내일까지 운영위원 한분 정하셔서 저나 김채윤 학생에게 DM 주시면 감사하겠습니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "허상우",
-      "real_name": "허상우",
-      "display_name": "3.5기_허상우",
-      "team": "T01QA5S537V",
-      "name": "sh10hsw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "daf0683e-c779-423a-ac1c-930cce4c230c",
+			"type": "message",
+			"user": "U02ULBHV58W",
+			"text": ":coffee: [커피위원회]\n안녕하세요.\n3층 탕비실 커피머신 관리해주실 분을 새로 모집하고자 합니다.\n\n•  운영비 관리\n•   3층 탕비실 커피머신 관리, 원두 주문 등\n커피 즐기시는 분, 학교 자주 오시는 분은 제게 DM으로 지원해 주시면 감사하겠습니다.",
+			"ts": "1692233881.464119",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "GTSj",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "emoji",
+									"name": "coffee",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " [커피위원회]\n안녕하세요.\n3층 탕비실 커피머신 관리해주실 분을 새로 모집하고자 합니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\uc6b4\\uc601\\ube44 \\uad00\\ub9ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"  3\\uce35 \\ud0d5\\ube44\\uc2e4 \\ucee4\\ud53c\\uba38\\uc2e0 \\uad00\\ub9ac, \\uc6d0\\ub450 \\uc8fc\\ubb38 \\ub4f1\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n커피 즐기시는 분, 학교 자주 오시는 분은 제게 DM으로 지원해 주시면 감사하겠습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4f94d40156711e7755c12ac36fc25272.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+				"first_name": "3기_이승주",
+				"real_name": "3기_이승주",
+				"display_name": "3기_이승주",
+				"team": "T01QA5S537V",
+				"name": "lotusist",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "58cea9c4-9fd5-4a69-85f3-f343005dee39",
+			"type": "message",
+			"user": "U02UJC5BU8P",
+			"text": "[중급선형대수]\n\n안녕하세요. 이번 2학기 *‘머신러닝을 위한 중급선형대수’* 수강신청 관련해서 공지 드립니다.\n최병선 교수님께서 정원 외 신청은 박사과정 학생에 한해서 받아주신다고 합니다.\n관심있는 분들은 참고 바랍니다.",
+			"ts": "1692248540.867749",
+			"thread_ts": "1692248540.867749",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U02UJC5BU8P",
+					"ts": "1692424692.435489"
+				}
+			],
+			"latest_reply": "1692424692.435489",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 4,
+					"users": [
+						"U02BD3EV4DQ",
+						"U0302PLQ34Y",
+						"U0302PJE83A",
+						"U01QV1SQJ57"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "VoejK",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[중급선형대수]\n\n안녕하세요. 이번 2학기 "
+								},
+								{
+									"type": "text",
+									"text": "‘머신러닝을 위한 중급선형대수’",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 수강신청 관련해서 공지 드립니다.\n최병선 교수님께서 정원 외 신청은 박사과정 학생에 한해서 받아주신다고 합니다.\n관심있는 분들은 참고 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/48fbbce89424234465c9fd99b65401c6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+				"first_name": "조우성",
+				"real_name": "조우성",
+				"display_name": "3기_조우성",
+				"team": "T01QA5S537V",
+				"name": "wooseongcho95",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U02UJC5BU8P"
+			]
+		},
+		{
+			"client_msg_id": "8f11cab6-3d15-4012-a131-baaab85d3da4",
+			"type": "message",
+			"user": "U040M7VULN7",
+			"text": "*[GSDS 학생회] 자리배치 관련 신규 랩 운영위원 선정 요청*\n\n안녕하세요 GSDS 학생회 입니다.\n\n새 학기를 앞두고 다음주 중 연구실별 자리 구역 추첨을 진행하려고 합니다.\n랩별 운영위원들이 랩 대표로 참석해 추첨을 할텐데, 이번에 새로 생긴 연구실의 경우\n현재 운영위원 단톡방에 대표할 분이 없는 상황입니다.\n\n연구실 운영위원이 아직 없는 연구실(아마 이상원, 조요한 교수님 연구실)에서는\n내일까지 운영위원 한분 정하셔서 저나 김채윤 학생에게 DM 주시면 감사하겠습니다!",
+			"ts": "1692250189.373829",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "8XQsd",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 학생회] 자리배치 관련 신규 랩 운영위원 선정 요청",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요 GSDS 학생회 입니다.\n\n새 학기를 앞두고 다음주 중 연구실별 자리 구역 추첨을 진행하려고 합니다.\n랩별 운영위원들이 랩 대표로 참석해 추첨을 할텐데, 이번에 새로 생긴 연구실의 경우\n현재 운영위원 단톡방에 대표할 분이 없는 상황입니다.\n\n연구실 운영위원이 아직 없는 연구실(아마 이상원, 조요한 교수님 연구실)에서는\n내일까지 운영위원 한분 정하셔서 저나 김채윤 학생에게 DM 주시면 감사하겠습니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "허상우",
+				"real_name": "허상우",
+				"display_name": "3.5기_허상우",
+				"team": "T01QA5S537V",
+				"name": "sh10hsw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

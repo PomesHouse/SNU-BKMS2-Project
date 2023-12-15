@@ -1,218 +1,220 @@
-[
-  {
-    "client_msg_id": "1e560fd9-7ef1-4677-8a0e-c9c1eb91c0c7",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "ts": "1637562860.071700",
-    "files": [
-      {
-        "id": "F02N7PPFM9S",
-        "created": 1637562856,
-        "timestamp": 1637562856,
-        "name": "[카카오브레인] mm_Unthinkable Question_홍보_가로형.jpg",
-        "title": "[카카오브레인] mm_Unthinkable Question_홍보_가로형.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 992933,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02N7PPFM9S-[카카오브레인] mm_Unthinkable Question_홍보_가로형.jpg",
-        "url_private_download": "attachments/F02N7PPFM9S-[카카오브레인] mm_Unthinkable Question_홍보_가로형.jpg",
-        "original_h": 1320,
-        "original_w": 1980,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 240,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 320,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 480,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 640,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 683,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02N7PPFM9S/_____________________mm_unthinkable_question_________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02N7PPFM9S-6c27728e3c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": null,
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d615c007-2df0-43e7-b0b5-e096332ed456",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u003c!channel\u003e \u0026lt;2022학년도 1학기 교내장학금 신청 안내\u0026gt;\n\n2022학년도 1학기 교내장학금 신청 관련 사항을 다음과 같이 알려드리니, 장학 신청 예정인 학생분들께서는 기간을 확인하시어 마이스누에서 장학신청을 해 주시기 바랍니다.\n\n  1. 신청대상: 2022학년도 1학기 교내장학금을 받고자 하는 대학원 등록대상자\n  2. 신청기간: *2021.11.29.(월) ~ 2021.12.17.(금)*\n  3. 신청방법: 마이스누에서 신청서 작성(필요시 서류는 대학(원) 또는 학과 사무실 제출)",
-    "ts": "1637567346.073100",
-    "files": [
-      {
-        "id": "F02N5MQ53EE",
-        "created": 1637567331,
-        "timestamp": 1637567331,
-        "name": "3.장학선정신청서.hwp",
-        "title": "3.장학선정신청서.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 27136,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02N5MQ53EE-3.장학선정신청서.hwp",
-        "url_private_download": "attachments/F02N5MQ53EE-3.장학선정신청서.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02N5MQ53EE/3._____________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02N5MQ53EE-7e82e27a8b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "iTumf",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "broadcast",
-                "range": "channel"
-              },
-              {
-                "type": "text",
-                "text": " \u003c2022학년도 1학기 교내장학금 신청 안내\u003e\n\n2022학년도 1학기 교내장학금 신청 관련 사항을 다음과 같이 알려드리니, 장학 신청 예정인 학생분들께서는 기간을 확인하시어 마이스누에서 장학신청을 해 주시기 바랍니다.\n\n  1. 신청대상: 2022학년도 1학기 교내장학금을 받고자 하는 대학원 등록대상자\n  2. 신청기간: "
-              },
-              {
-                "type": "text",
-                "text": "2021.11.29.(월) ~ 2021.12.17.(금)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  3. 신청방법: 마이스누에서 신청서 작성(필요시 서류는 대학(원) 또는 학과 사무실 제출)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "1e560fd9-7ef1-4677-8a0e-c9c1eb91c0c7",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"ts": "1637562860.071700",
+			"files": [
+				{
+					"id": "F02N7PPFM9S",
+					"created": 1637562856,
+					"timestamp": 1637562856,
+					"name": "[카카오브레인] mm_Unthinkable Question_홍보_가로형.jpg",
+					"title": "[카카오브레인] mm_Unthinkable Question_홍보_가로형.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 992933,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02N7PPFM9S-[카카오브레인] mm_Unthinkable Question_홍보_가로형.jpg",
+					"url_private_download": "attachments/F02N7PPFM9S-[카카오브레인] mm_Unthinkable Question_홍보_가로형.jpg",
+					"original_h": 1320,
+					"original_w": 1980,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 240,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 320,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 480,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 640,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02N7PPFM9S-d91d364f37/_____________________mm_unthinkable_question__________________1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 683,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02N7PPFM9S/_____________________mm_unthinkable_question_________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02N7PPFM9S-6c27728e3c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": null,
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d615c007-2df0-43e7-b0b5-e096332ed456",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "<!channel> &lt;2022학년도 1학기 교내장학금 신청 안내&gt;\n\n2022학년도 1학기 교내장학금 신청 관련 사항을 다음과 같이 알려드리니, 장학 신청 예정인 학생분들께서는 기간을 확인하시어 마이스누에서 장학신청을 해 주시기 바랍니다.\n\n  1. 신청대상: 2022학년도 1학기 교내장학금을 받고자 하는 대학원 등록대상자\n  2. 신청기간: *2021.11.29.(월) ~ 2021.12.17.(금)*\n  3. 신청방법: 마이스누에서 신청서 작성(필요시 서류는 대학(원) 또는 학과 사무실 제출)",
+			"ts": "1637567346.073100",
+			"files": [
+				{
+					"id": "F02N5MQ53EE",
+					"created": 1637567331,
+					"timestamp": 1637567331,
+					"name": "3.장학선정신청서.hwp",
+					"title": "3.장학선정신청서.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 27136,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02N5MQ53EE-3.장학선정신청서.hwp",
+					"url_private_download": "attachments/F02N5MQ53EE-3.장학선정신청서.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02N5MQ53EE/3._____________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02N5MQ53EE-7e82e27a8b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "iTumf",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "broadcast",
+									"range": "channel"
+								},
+								{
+									"type": "text",
+									"text": " <2022학년도 1학기 교내장학금 신청 안내>\n\n2022학년도 1학기 교내장학금 신청 관련 사항을 다음과 같이 알려드리니, 장학 신청 예정인 학생분들께서는 기간을 확인하시어 마이스누에서 장학신청을 해 주시기 바랍니다.\n\n  1. 신청대상: 2022학년도 1학기 교내장학금을 받고자 하는 대학원 등록대상자\n  2. 신청기간: "
+								},
+								{
+									"type": "text",
+									"text": "2021.11.29.(월) ~ 2021.12.17.(금)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  3. 신청방법: 마이스누에서 신청서 작성(필요시 서류는 대학(원) 또는 학과 사무실 제출)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

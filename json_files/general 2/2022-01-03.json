@@ -1,530 +1,532 @@
-[
-  {
-    "client_msg_id": "faa91e6f-4cf7-49c8-9137-9903246101d7",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021학년도 전기 학위수여(2022. 2.졸업) 석사·박사학위 최종인준 논문 제출 관련 안내\u0026gt;\n\n2021학년도 전기 학위수여(2022. 2.졸업) 대상자들의 최종인준 논문 제출 관련한 사항을  붙임과 같이 안내드리니 대상자 분들께서는 반드시 아래의 안내사항과 붙임파일을 확인하시기 바랍니다.\n\n개별 메일로도 안내 드리겠습니다.\n\n*❍ 데이터사이언스대학원 논문심사 종결: 2022. 1. 12.(수)*\n❍ 최종인준 논문 제출기간: 2022. 1. 21.(금) ~ 2. 7.(월) *자정까지*\n ※ 책자제출 없이 원문파일만 제출\n ※ 심사위원의 의사를 확인할 증빙이 있는 경우 해당 심사위원의 자필서명/날인을 서명파일로 대체 가능\n *※ 마감 이후 절대 제출/수정 불가* \n❍ *원문파일*은 한국교육학술정보원(KERIS)의 *디지털 학술정보 유통시스템(dCollection)에 개별 업로드*(붙임4 및 도서관 안내 페이지 참조)\n - 제출처: 중앙도서관 홈페이지 \u0026gt; 도서관서비스 \u0026gt; 학위논문 제출 \u0026gt; 학위논문 온라인 제출(\u003chttps://dcollection.snu.ac.kr/\u003e)\n - 학위논문 원문 이용에 대한 동의 필수\n ❍ 논문제출 시 *본문 파일에는 심사위원의 서명(또는 날인)이 불포함된 인준지가 들어가야 하며, 심사위원의 서명(또는 날인)이 포함된 인준지는 스캔하여 별도의 파일로 업로드*하여야 함",
-    "ts": "1641174008.157500",
-    "thread_ts": "1641174008.157500",
-    "attachments": [
-      {
-        "fallback": "dCollection 디지털 학술정보 유통시스템",
-        "id": 1,
-        "title": "dCollection 디지털 학술정보 유통시스템",
-        "title_link": "https://dcollection.snu.ac.kr/",
-        "text": "디지털 학술정보 유통시스템",
-        "service_name": "dcollection.snu.ac.kr",
-        "service_icon": "https://dcollection.snu.ac.kr/favicon.ico",
-        "from_url": "https://dcollection.snu.ac.kr/",
-        "original_url": "https://dcollection.snu.ac.kr/",
-        "blocks": null
-      }
-    ],
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01Q3EP0E14",
-        "ts": "1641186448.157900"
-      }
-    ],
-    "latest_reply": "1641186448.157900",
-    "files": [
-      {
-        "id": "F02SFKANFMZ",
-        "created": 1641173992,
-        "timestamp": 1641173992,
-        "name": "논문제목변경요청서(양식).hwp",
-        "title": "논문제목변경요청서(양식).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 24064,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02SFKANFMZ-논문제목변경요청서(양식).hwp",
-        "url_private_download": "attachments/F02SFKANFMZ-논문제목변경요청서(양식).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02SFKANFMZ/___________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02SFKANFMZ-bee25a1202",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02SHSYEG9J",
-        "created": 1641173995,
-        "timestamp": 1641173995,
-        "name": "붙임 2. 학위논문 제출안내(학생안내용 자료)(2021.01).hwp",
-        "title": "붙임 2. 학위논문 제출안내(학생안내용 자료)(2021.01).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 60928,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02SHSYEG9J-붙임 2. 학위논문 제출안내(학생안내용 자료)(2021.01).hwp",
-        "url_private_download": "attachments/F02SHSYEG9J-붙임 2. 학위논문 제출안내(학생안내용 자료)(2021.01).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02SHSYEG9J/_______2.___________________________________________________2021.01_.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02SHSYEG9J-7dc8c08ac9",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02SU7Z5A49",
-        "created": 1641173998,
-        "timestamp": 1641173998,
-        "name": "붙임 3. 온라인학위논문 원문파일 제출메뉴얼.zip",
-        "title": "붙임 3. 온라인학위논문 원문파일 제출메뉴얼.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3333622,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02SU7Z5A49-붙임 3. 온라인학위논문 원문파일 제출메뉴얼.zip",
-        "url_private_download": "attachments/F02SU7Z5A49-붙임 3. 온라인학위논문 원문파일 제출메뉴얼.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02SU7Z5A49/_______3.___________________________________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02SU7Z5A49-f76b4d78d8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02T5AERF5W",
-        "created": 1641174000,
-        "timestamp": 1641174000,
-        "name": "붙임 4. 학위논문 작성 요령 및 양식.zip",
-        "title": "붙임 4. 학위논문 작성 요령 및 양식.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 174640,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02T5AERF5W-붙임 4. 학위논문 작성 요령 및 양식.zip",
-        "url_private_download": "attachments/F02T5AERF5W-붙임 4. 학위논문 작성 요령 및 양식.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02T5AERF5W/_______4.______________________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02T5AERF5W-7714901a21",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F02SCLJDGQM",
-        "created": 1641174001,
-        "timestamp": 1641174001,
-        "name": "붙임 6. 석사·박사학위 최종 인준논문(보존용 논문) 정정제출 안내.hwp",
-        "title": "붙임 6. 석사·박사학위 최종 인준논문(보존용 논문) 정정제출 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 63488,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02SCLJDGQM-붙임 6. 석사·박사학위 최종 인준논문(보존용 논문) 정정제출 안내.hwp",
-        "url_private_download": "attachments/F02SCLJDGQM-붙임 6. 석사·박사학위 최종 인준논문(보존용 논문) 정정제출 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02SCLJDGQM/_______6._______________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02SCLJDGQM-aec7357f3f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/Kd",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 전기 학위수여(2022. 2.졸업) 석사·박사학위 최종인준 논문 제출 관련 안내\u003e\n\n2021학년도 전기 학위수여(2022. 2.졸업) 대상자들의 최종인준 논문 제출 관련한 사항을  붙임과 같이 안내드리니 대상자 분들께서는 반드시 아래의 안내사항과 붙임파일을 확인하시기 바랍니다.\n\n개별 메일로도 안내 드리겠습니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "❍ 데이터사이언스대학원 논문심사 종결: 2022. 1. 12.(수)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n❍ 최종인준 논문 제출기간: 2022. 1. 21.(금) ~ 2. 7.(월) "
-              },
-              {
-                "type": "text",
-                "text": "자정까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n ※ 책자제출 없이 원문파일만 제출\n ※ 심사위원의 의사를 확인할 증빙이 있는 경우 해당 심사위원의 자필서명/날인을 서명파일로 대체 가능\n "
-              },
-              {
-                "type": "text",
-                "text": "※ 마감 이후 절대 제출/수정 불가 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n❍ "
-              },
-              {
-                "type": "text",
-                "text": "원문파일",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "은 한국교육학술정보원(KERIS)의 "
-              },
-              {
-                "type": "text",
-                "text": "디지털 학술정보 유통시스템(dCollection)에 개별 업로드",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "(붙임4 및 도서관 안내 페이지 참조)\n - 제출처: 중앙도서관 홈페이지 \u003e 도서관서비스 \u003e 학위논문 제출 \u003e 학위논문 온라인 제출("
-              },
-              {
-                "type": "link",
-                "url": "https://dcollection.snu.ac.kr/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n - 학위논문 원문 이용에 대한 동의 필수\n ❍ 논문제출 시"
-              },
-              {
-                "type": "text",
-                "text": " 본문 파일에는 심사위원의 서명(또는 날인)이 불포함된 인준지가 들어가야 하며, 심사위원의 서명(또는 날인)이 포함된 인준지는 스캔하여 별도의 파일로 업로드",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하여야 함"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01Q3EP0E14"
-    ]
-  },
-  {
-    "client_msg_id": "fe0b168c-d931-4ce6-8a44-7de5a7351dc6",
-    "type": "message",
-    "user": "U01Q3EP0E14",
-    "text": "안녕하세요.\n*심사위원의 서명(또는 날인)이 포함된 인준지* 는 어떻게 받을 수 있나요??",
-    "ts": "1641186448.157900",
-    "thread_ts": "1641174008.157500",
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "eyes",
-        "count": 4,
-        "users": [
-          "U01PVEU69BR",
-          "U01QNSMEY0Z",
-          "U01QZRUNBA4",
-          "U01QAE5BVEX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "qJOT",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요.\n"
-              },
-              {
-                "type": "text",
-                "text": "심사위원의 서명(또는 날인)이 포함된 인준지 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "는 어떻게 받을 수 있나요??"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826751142355_2e2bc6d04d608acbe86e_72.png",
-      "first_name": "김우중",
-      "real_name": "김우중",
-      "display_name": "1기_김우중",
-      "team": "T01QA5S537V",
-      "name": "kimwj94",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "faa91e6f-4cf7-49c8-9137-9903246101d7",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021학년도 전기 학위수여(2022. 2.졸업) 석사·박사학위 최종인준 논문 제출 관련 안내&gt;\n\n2021학년도 전기 학위수여(2022. 2.졸업) 대상자들의 최종인준 논문 제출 관련한 사항을  붙임과 같이 안내드리니 대상자 분들께서는 반드시 아래의 안내사항과 붙임파일을 확인하시기 바랍니다.\n\n개별 메일로도 안내 드리겠습니다.\n\n*❍ 데이터사이언스대학원 논문심사 종결: 2022. 1. 12.(수)*\n❍ 최종인준 논문 제출기간: 2022. 1. 21.(금) ~ 2. 7.(월) *자정까지*\n ※ 책자제출 없이 원문파일만 제출\n ※ 심사위원의 의사를 확인할 증빙이 있는 경우 해당 심사위원의 자필서명/날인을 서명파일로 대체 가능\n *※ 마감 이후 절대 제출/수정 불가* \n❍ *원문파일*은 한국교육학술정보원(KERIS)의 *디지털 학술정보 유통시스템(dCollection)에 개별 업로드*(붙임4 및 도서관 안내 페이지 참조)\n - 제출처: 중앙도서관 홈페이지 &gt; 도서관서비스 &gt; 학위논문 제출 &gt; 학위논문 온라인 제출(<https://dcollection.snu.ac.kr/>)\n - 학위논문 원문 이용에 대한 동의 필수\n ❍ 논문제출 시 *본문 파일에는 심사위원의 서명(또는 날인)이 불포함된 인준지가 들어가야 하며, 심사위원의 서명(또는 날인)이 포함된 인준지는 스캔하여 별도의 파일로 업로드*하여야 함",
+			"ts": "1641174008.157500",
+			"thread_ts": "1641174008.157500",
+			"attachments": [
+				{
+					"fallback": "dCollection 디지털 학술정보 유통시스템",
+					"id": 1,
+					"title": "dCollection 디지털 학술정보 유통시스템",
+					"title_link": "https://dcollection.snu.ac.kr/",
+					"text": "디지털 학술정보 유통시스템",
+					"service_name": "dcollection.snu.ac.kr",
+					"service_icon": "https://dcollection.snu.ac.kr/favicon.ico",
+					"from_url": "https://dcollection.snu.ac.kr/",
+					"original_url": "https://dcollection.snu.ac.kr/",
+					"blocks": null
+				}
+			],
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01Q3EP0E14",
+					"ts": "1641186448.157900"
+				}
+			],
+			"latest_reply": "1641186448.157900",
+			"files": [
+				{
+					"id": "F02SFKANFMZ",
+					"created": 1641173992,
+					"timestamp": 1641173992,
+					"name": "논문제목변경요청서(양식).hwp",
+					"title": "논문제목변경요청서(양식).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 24064,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02SFKANFMZ-논문제목변경요청서(양식).hwp",
+					"url_private_download": "attachments/F02SFKANFMZ-논문제목변경요청서(양식).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02SFKANFMZ/___________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02SFKANFMZ-bee25a1202",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02SHSYEG9J",
+					"created": 1641173995,
+					"timestamp": 1641173995,
+					"name": "붙임 2. 학위논문 제출안내(학생안내용 자료)(2021.01).hwp",
+					"title": "붙임 2. 학위논문 제출안내(학생안내용 자료)(2021.01).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 60928,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02SHSYEG9J-붙임 2. 학위논문 제출안내(학생안내용 자료)(2021.01).hwp",
+					"url_private_download": "attachments/F02SHSYEG9J-붙임 2. 학위논문 제출안내(학생안내용 자료)(2021.01).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02SHSYEG9J/_______2.___________________________________________________2021.01_.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02SHSYEG9J-7dc8c08ac9",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02SU7Z5A49",
+					"created": 1641173998,
+					"timestamp": 1641173998,
+					"name": "붙임 3. 온라인학위논문 원문파일 제출메뉴얼.zip",
+					"title": "붙임 3. 온라인학위논문 원문파일 제출메뉴얼.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3333622,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02SU7Z5A49-붙임 3. 온라인학위논문 원문파일 제출메뉴얼.zip",
+					"url_private_download": "attachments/F02SU7Z5A49-붙임 3. 온라인학위논문 원문파일 제출메뉴얼.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02SU7Z5A49/_______3.___________________________________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02SU7Z5A49-f76b4d78d8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02T5AERF5W",
+					"created": 1641174000,
+					"timestamp": 1641174000,
+					"name": "붙임 4. 학위논문 작성 요령 및 양식.zip",
+					"title": "붙임 4. 학위논문 작성 요령 및 양식.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 174640,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02T5AERF5W-붙임 4. 학위논문 작성 요령 및 양식.zip",
+					"url_private_download": "attachments/F02T5AERF5W-붙임 4. 학위논문 작성 요령 및 양식.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02T5AERF5W/_______4.______________________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02T5AERF5W-7714901a21",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F02SCLJDGQM",
+					"created": 1641174001,
+					"timestamp": 1641174001,
+					"name": "붙임 6. 석사·박사학위 최종 인준논문(보존용 논문) 정정제출 안내.hwp",
+					"title": "붙임 6. 석사·박사학위 최종 인준논문(보존용 논문) 정정제출 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 63488,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02SCLJDGQM-붙임 6. 석사·박사학위 최종 인준논문(보존용 논문) 정정제출 안내.hwp",
+					"url_private_download": "attachments/F02SCLJDGQM-붙임 6. 석사·박사학위 최종 인준논문(보존용 논문) 정정제출 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02SCLJDGQM/_______6._______________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02SCLJDGQM-aec7357f3f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/Kd",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 전기 학위수여(2022. 2.졸업) 석사·박사학위 최종인준 논문 제출 관련 안내>\n\n2021학년도 전기 학위수여(2022. 2.졸업) 대상자들의 최종인준 논문 제출 관련한 사항을  붙임과 같이 안내드리니 대상자 분들께서는 반드시 아래의 안내사항과 붙임파일을 확인하시기 바랍니다.\n\n개별 메일로도 안내 드리겠습니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "❍ 데이터사이언스대학원 논문심사 종결: 2022. 1. 12.(수)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n❍ 최종인준 논문 제출기간: 2022. 1. 21.(금) ~ 2. 7.(월) "
+								},
+								{
+									"type": "text",
+									"text": "자정까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n ※ 책자제출 없이 원문파일만 제출\n ※ 심사위원의 의사를 확인할 증빙이 있는 경우 해당 심사위원의 자필서명/날인을 서명파일로 대체 가능\n "
+								},
+								{
+									"type": "text",
+									"text": "※ 마감 이후 절대 제출/수정 불가 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n❍ "
+								},
+								{
+									"type": "text",
+									"text": "원문파일",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "은 한국교육학술정보원(KERIS)의 "
+								},
+								{
+									"type": "text",
+									"text": "디지털 학술정보 유통시스템(dCollection)에 개별 업로드",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "(붙임4 및 도서관 안내 페이지 참조)\n - 제출처: 중앙도서관 홈페이지 > 도서관서비스 > 학위논문 제출 > 학위논문 온라인 제출("
+								},
+								{
+									"type": "link",
+									"url": "https://dcollection.snu.ac.kr/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n - 학위논문 원문 이용에 대한 동의 필수\n ❍ 논문제출 시"
+								},
+								{
+									"type": "text",
+									"text": " 본문 파일에는 심사위원의 서명(또는 날인)이 불포함된 인준지가 들어가야 하며, 심사위원의 서명(또는 날인)이 포함된 인준지는 스캔하여 별도의 파일로 업로드",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하여야 함"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01Q3EP0E14"
+			]
+		},
+		{
+			"client_msg_id": "fe0b168c-d931-4ce6-8a44-7de5a7351dc6",
+			"type": "message",
+			"user": "U01Q3EP0E14",
+			"text": "안녕하세요.\n*심사위원의 서명(또는 날인)이 포함된 인준지* 는 어떻게 받을 수 있나요??",
+			"ts": "1641186448.157900",
+			"thread_ts": "1641174008.157500",
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "eyes",
+					"count": 4,
+					"users": [
+						"U01PVEU69BR",
+						"U01QNSMEY0Z",
+						"U01QZRUNBA4",
+						"U01QAE5BVEX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "qJOT",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요.\n"
+								},
+								{
+									"type": "text",
+									"text": "심사위원의 서명(또는 날인)이 포함된 인준지 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "는 어떻게 받을 수 있나요??"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826751142355_2e2bc6d04d608acbe86e_72.png",
+				"first_name": "김우중",
+				"real_name": "김우중",
+				"display_name": "1기_김우중",
+				"team": "T01QA5S537V",
+				"name": "kimwj94",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,574 +1,576 @@
-[
-  {
-    "client_msg_id": "68b4c941-7581-4957-bfc1-3d887994d50d",
-    "type": "message",
-    "user": "U01QV1SQJ57",
-    "text": "[GSDS 풋살 동아리:soccer: - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n오늘은 매우 특별한 날이었습니다!!!\nFC Layers를 이끌어주시고 있으신! 구단주이신 *김태섭* 교수님:laughing:도 함께와서 풋살을 했습니다. 뿐만 아니라 여러 대학원 소속인 분들도 함께해서 좋은 시간이었습니다!\n\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n특히 이번학기에 입학하신 4.5기 학우님들 환영합니다:heart_eyes:\n\n*FC Layers*와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다",
-    "ts": "1697165278.670649",
-    "files": [
-      {
-        "id": "F060SMZJYDC",
-        "created": 1697165261,
-        "timestamp": 1697165261,
-        "name": "IMG_7056.JPG",
-        "title": "IMG_7056.JPG",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QV1SQJ57",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 4536980,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F060SMZJYDC-IMG_7056.JPG",
-        "url_private_download": "attachments/F060SMZJYDC-IMG_7056.JPG",
-        "original_h": 3000,
-        "original_w": 4000,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 270,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 360,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 540,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 720,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 768,
-        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F060SMZJYDC/img_7056.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F060SMZJYDC-95d34d121c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F060Z8M4ZMH",
-        "created": 1697165269,
-        "timestamp": 1697165269,
-        "name": "IMG_7055.JPG",
-        "title": "IMG_7055.JPG",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QV1SQJ57",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 5391844,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F060Z8M4ZMH-IMG_7055.JPG",
-        "url_private_download": "attachments/F060Z8M4ZMH-IMG_7055.JPG",
-        "original_h": 3000,
-        "original_w": 4000,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 270,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 360,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 540,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 720,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 768,
-        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F060Z8M4ZMH/img_7055.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F060Z8M4ZMH-0cf3de9eb0",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 26,
-        "users": [
-          "U01QV1SQJ57",
-          "U02C3D2T0BS",
-          "U041B24HMFS",
-          "U04QE4ASJP7",
-          "U05Q2AZ2DRB",
-          "U0406PM050F",
-          "U02V5LT4DLZ",
-          "U02UT1YNY6N",
-          "U02V5LU4ED7",
-          "U040MB3TGSE",
-          "U04QH2E4V5Y",
-          "U0302PHUHME",
-          "U02UCD2C9V5",
-          "U01QNSM488Z",
-          "U02UQ4CMR7X",
-          "U02UT1XUGFL",
-          "U040ZVCKKND",
-          "U04QKG4QTS8",
-          "U040MB432JW",
-          "U05Q2AYAVEH",
-          "U0302PK342C",
-          "U01Q1KFN4JK",
-          "U02ULBJR9GE",
-          "U040U009L1L",
-          "U02ULBH9YS2",
-          "U0302PLQ34Y"
-        ]
-      },
-      {
-        "name": "soccer",
-        "count": 18,
-        "users": [
-          "U01QV1SQJ57",
-          "U0406PLJWCX",
-          "U02C3D2T0BS",
-          "U02V5LTRU2V",
-          "U04QE4ASJP7",
-          "U04QE496FTP",
-          "U0406PM050F",
-          "U02UT1YNY6N",
-          "U02V5LU4ED7",
-          "U04QVM3TUD7",
-          "U0302PHUHME",
-          "U02UT1XUGFL",
-          "U040ZVCKKND",
-          "U04QKG4QTS8",
-          "U05Q2AYAVEH",
-          "U01Q1KFN4JK",
-          "U040U009L1L",
-          "U0302PLQ34Y"
-        ]
-      },
-      {
-        "name": "party_blob-2",
-        "count": 9,
-        "users": [
-          "U01QV1SQJ57",
-          "U02V5LTRU2V",
-          "U04QE4ASJP7",
-          "U02V5LU4ED7",
-          "U02UT1XUGFL",
-          "U040ZVCKKND",
-          "U04R6NS3924",
-          "U01Q1KFN4JK",
-          "U0302PLQ34Y"
-        ]
-      },
-      {
-        "name": "heart",
-        "count": 8,
-        "users": [
-          "U01QV1SQJ57",
-          "U02V5LTRU2V",
-          "U04QE4ASJP7",
-          "U02V5LU4ED7",
-          "U04QVM3TUD7",
-          "U040ZVCKKND",
-          "U01Q1KFN4JK",
-          "U0302PLQ34Y"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U02V5LTRU2V"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "AcRjm",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[GSDS 풋살 동아리"
-              },
-              {
-                "type": "emoji",
-                "name": "soccer",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n오늘은 매우 특별한 날이었습니다!!!\nFC Layers를 이끌어주시고 있으신! 구단주이신 "
-              },
-              {
-                "type": "text",
-                "text": "김태섭",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 교수님"
-              },
-              {
-                "type": "emoji",
-                "name": "laughing",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "도 함께와서 풋살을 했습니다. 뿐만 아니라 여러 대학원 소속인 분들도 함께해서 좋은 시간이었습니다!\n\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n특히 이번학기에 입학하신 4.5기 학우님들 환영합니다"
-              },
-              {
-                "type": "emoji",
-                "name": "heart_eyes",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "FC Layers",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
-      "first_name": "김병찬",
-      "real_name": "김병찬",
-      "display_name": "4기_김병찬",
-      "team": "T01QA5S537V",
-      "name": "bckim97",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "048b34e2-eca1-4266-8e2b-e13f0980a4e1",
-    "type": "message",
-    "user": "U02UT2VQ9NF",
-    "text": "슬라이드 링크 입니다: \u003chttps://docs.google.com/presentation/d/1HvNV9WGp4A-OZJbFnHVimXoLaOV3Ngi1caUcWme2QAk/edit#slide=id.p|링크\u003e",
-    "ts": "1697167415.316659",
-    "thread_ts": "1697088547.473149",
-    "parent_user_id": "U040C40QE6T",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "lKQa5",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "슬라이드 링크 입니다: "
-              },
-              {
-                "type": "link",
-                "url": "https://docs.google.com/presentation/d/1HvNV9WGp4A-OZJbFnHVimXoLaOV3Ngi1caUcWme2QAk/edit#slide=id.p",
-                "text": "링크"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
-      "first_name": "3기_송종현",
-      "real_name": "3기_송종현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "hyeongoon",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "2C5E4831-49C3-471E-A398-6E20BF254372",
-    "type": "message",
-    "user": "U040M7VULN7",
-    "text": "오늘 피자 세미나 후 남은 피자입니다. 편하게 드시면 됩니다!! 오늘 다들 고생 많으셨습니다",
-    "ts": "1697171748.068049",
-    "files": [
-      {
-        "id": "F061NJNC2QY",
-        "created": 1697171694,
-        "timestamp": 1697171694,
-        "name": "IMG_4639.jpg",
-        "title": "IMG_4639",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U040M7VULN7",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1050499,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F061NJNC2QY-IMG_4639.jpg",
-        "url_private_download": "attachments/F061NJNC2QY-IMG_4639.jpg",
-        "original_h": 4032,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U040M7VULN7/F061NJNC2QY/img_4639.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F061NJNC2QY-542dd292da",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "R0w6o",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "오늘"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "피자"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "세미나"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "후"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "남은"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "피자입니다"
-              },
-              {
-                "type": "text",
-                "text": ". "
-              },
-              {
-                "type": "text",
-                "text": "편하게"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "드시면"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "됩니다"
-              },
-              {
-                "type": "text",
-                "text": "!! "
-              },
-              {
-                "type": "text",
-                "text": "오늘"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "다들"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "고생"
-              },
-              {
-                "type": "text",
-                "text": " "
-              },
-              {
-                "type": "text",
-                "text": "많으셨습니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "허상우",
-      "real_name": "허상우",
-      "display_name": "3.5기_허상우",
-      "team": "T01QA5S537V",
-      "name": "sh10hsw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "68b4c941-7581-4957-bfc1-3d887994d50d",
+			"type": "message",
+			"user": "U01QV1SQJ57",
+			"text": "[GSDS 풋살 동아리:soccer: - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n오늘은 매우 특별한 날이었습니다!!!\nFC Layers를 이끌어주시고 있으신! 구단주이신 *김태섭* 교수님:laughing:도 함께와서 풋살을 했습니다. 뿐만 아니라 여러 대학원 소속인 분들도 함께해서 좋은 시간이었습니다!\n\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n특히 이번학기에 입학하신 4.5기 학우님들 환영합니다:heart_eyes:\n\n*FC Layers*와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다",
+			"ts": "1697165278.670649",
+			"files": [
+				{
+					"id": "F060SMZJYDC",
+					"created": 1697165261,
+					"timestamp": 1697165261,
+					"name": "IMG_7056.JPG",
+					"title": "IMG_7056.JPG",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QV1SQJ57",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 4536980,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F060SMZJYDC-IMG_7056.JPG",
+					"url_private_download": "attachments/F060SMZJYDC-IMG_7056.JPG",
+					"original_h": 3000,
+					"original_w": 4000,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 270,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 360,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 540,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 720,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F060SMZJYDC-e31558cc57/img_7056_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 768,
+					"permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F060SMZJYDC/img_7056.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F060SMZJYDC-95d34d121c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F060Z8M4ZMH",
+					"created": 1697165269,
+					"timestamp": 1697165269,
+					"name": "IMG_7055.JPG",
+					"title": "IMG_7055.JPG",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QV1SQJ57",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 5391844,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F060Z8M4ZMH-IMG_7055.JPG",
+					"url_private_download": "attachments/F060Z8M4ZMH-IMG_7055.JPG",
+					"original_h": 3000,
+					"original_w": 4000,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 270,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 360,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 540,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 720,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F060Z8M4ZMH-088cb0464e/img_7055_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 768,
+					"permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F060Z8M4ZMH/img_7055.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F060Z8M4ZMH-0cf3de9eb0",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 26,
+					"users": [
+						"U01QV1SQJ57",
+						"U02C3D2T0BS",
+						"U041B24HMFS",
+						"U04QE4ASJP7",
+						"U05Q2AZ2DRB",
+						"U0406PM050F",
+						"U02V5LT4DLZ",
+						"U02UT1YNY6N",
+						"U02V5LU4ED7",
+						"U040MB3TGSE",
+						"U04QH2E4V5Y",
+						"U0302PHUHME",
+						"U02UCD2C9V5",
+						"U01QNSM488Z",
+						"U02UQ4CMR7X",
+						"U02UT1XUGFL",
+						"U040ZVCKKND",
+						"U04QKG4QTS8",
+						"U040MB432JW",
+						"U05Q2AYAVEH",
+						"U0302PK342C",
+						"U01Q1KFN4JK",
+						"U02ULBJR9GE",
+						"U040U009L1L",
+						"U02ULBH9YS2",
+						"U0302PLQ34Y"
+					]
+				},
+				{
+					"name": "soccer",
+					"count": 18,
+					"users": [
+						"U01QV1SQJ57",
+						"U0406PLJWCX",
+						"U02C3D2T0BS",
+						"U02V5LTRU2V",
+						"U04QE4ASJP7",
+						"U04QE496FTP",
+						"U0406PM050F",
+						"U02UT1YNY6N",
+						"U02V5LU4ED7",
+						"U04QVM3TUD7",
+						"U0302PHUHME",
+						"U02UT1XUGFL",
+						"U040ZVCKKND",
+						"U04QKG4QTS8",
+						"U05Q2AYAVEH",
+						"U01Q1KFN4JK",
+						"U040U009L1L",
+						"U0302PLQ34Y"
+					]
+				},
+				{
+					"name": "party_blob-2",
+					"count": 9,
+					"users": [
+						"U01QV1SQJ57",
+						"U02V5LTRU2V",
+						"U04QE4ASJP7",
+						"U02V5LU4ED7",
+						"U02UT1XUGFL",
+						"U040ZVCKKND",
+						"U04R6NS3924",
+						"U01Q1KFN4JK",
+						"U0302PLQ34Y"
+					]
+				},
+				{
+					"name": "heart",
+					"count": 8,
+					"users": [
+						"U01QV1SQJ57",
+						"U02V5LTRU2V",
+						"U04QE4ASJP7",
+						"U02V5LU4ED7",
+						"U04QVM3TUD7",
+						"U040ZVCKKND",
+						"U01Q1KFN4JK",
+						"U0302PLQ34Y"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U02V5LTRU2V"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "AcRjm",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[GSDS 풋살 동아리"
+								},
+								{
+									"type": "emoji",
+									"name": "soccer",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n오늘은 매우 특별한 날이었습니다!!!\nFC Layers를 이끌어주시고 있으신! 구단주이신 "
+								},
+								{
+									"type": "text",
+									"text": "김태섭",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 교수님"
+								},
+								{
+									"type": "emoji",
+									"name": "laughing",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "도 함께와서 풋살을 했습니다. 뿐만 아니라 여러 대학원 소속인 분들도 함께해서 좋은 시간이었습니다!\n\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n특히 이번학기에 입학하신 4.5기 학우님들 환영합니다"
+								},
+								{
+									"type": "emoji",
+									"name": "heart_eyes",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "FC Layers",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+				"first_name": "김병찬",
+				"real_name": "김병찬",
+				"display_name": "4기_김병찬",
+				"team": "T01QA5S537V",
+				"name": "bckim97",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "048b34e2-eca1-4266-8e2b-e13f0980a4e1",
+			"type": "message",
+			"user": "U02UT2VQ9NF",
+			"text": "슬라이드 링크 입니다: <https://docs.google.com/presentation/d/1HvNV9WGp4A-OZJbFnHVimXoLaOV3Ngi1caUcWme2QAk/edit#slide=id.p|링크>",
+			"ts": "1697167415.316659",
+			"thread_ts": "1697088547.473149",
+			"parent_user_id": "U040C40QE6T",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "lKQa5",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "슬라이드 링크 입니다: "
+								},
+								{
+									"type": "link",
+									"url": "https://docs.google.com/presentation/d/1HvNV9WGp4A-OZJbFnHVimXoLaOV3Ngi1caUcWme2QAk/edit#slide=id.p",
+									"text": "링크"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+				"first_name": "3기_송종현",
+				"real_name": "3기_송종현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "hyeongoon",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "2C5E4831-49C3-471E-A398-6E20BF254372",
+			"type": "message",
+			"user": "U040M7VULN7",
+			"text": "오늘 피자 세미나 후 남은 피자입니다. 편하게 드시면 됩니다!! 오늘 다들 고생 많으셨습니다",
+			"ts": "1697171748.068049",
+			"files": [
+				{
+					"id": "F061NJNC2QY",
+					"created": 1697171694,
+					"timestamp": 1697171694,
+					"name": "IMG_4639.jpg",
+					"title": "IMG_4639",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U040M7VULN7",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1050499,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F061NJNC2QY-IMG_4639.jpg",
+					"url_private_download": "attachments/F061NJNC2QY-IMG_4639.jpg",
+					"original_h": 4032,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F061NJNC2QY-9fe6fb4513/img_4639_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U040M7VULN7/F061NJNC2QY/img_4639.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F061NJNC2QY-542dd292da",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "R0w6o",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "오늘"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "피자"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "세미나"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "후"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "남은"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "피자입니다"
+								},
+								{
+									"type": "text",
+									"text": ". "
+								},
+								{
+									"type": "text",
+									"text": "편하게"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "드시면"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "됩니다"
+								},
+								{
+									"type": "text",
+									"text": "!! "
+								},
+								{
+									"type": "text",
+									"text": "오늘"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "다들"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "고생"
+								},
+								{
+									"type": "text",
+									"text": " "
+								},
+								{
+									"type": "text",
+									"text": "많으셨습니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "허상우",
+				"real_name": "허상우",
+				"display_name": "3.5기_허상우",
+				"team": "T01QA5S537V",
+				"name": "sh10hsw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

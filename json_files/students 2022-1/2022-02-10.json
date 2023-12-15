@@ -1,122 +1,124 @@
-[
-  {
-    "client_msg_id": "9a4ea5d6-f401-46df-81ff-a240c5304843",
-    "type": "message",
-    "user": "U01QUKKQ8GH",
-    "text": "에너지솔루션 포지션 요건입니다. 회사가 필요로 하는 skill set 을 나타냅니다.",
-    "ts": "1644454577.543239",
-    "files": [
-      {
-        "id": "F032F68B91Q",
-        "created": 1644454491,
-        "timestamp": 1644454491,
-        "name": "LG에너지솔루션포지션요건_DT총괄-AI총괄-빅데이터총괄_수정.pdf",
-        "title": "LG에너지솔루션포지션요건_DT총괄-AI총괄-빅데이터총괄_수정.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QUKKQ8GH",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 181256,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F032F68B91Q-LG에너지솔루션포지션요건_DT총괄-AI총괄-빅데이터총괄_수정.pdf",
-        "url_private_download": "attachments/F032F68B91Q-LG에너지솔루션포지션요건_DT총괄-AI총괄-빅데이터총괄_수정.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QUKKQ8GH/F032F68B91Q/lg__________________________________dt______-ai______-_________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F032F68B91Q-ea7b5643a9",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 3,
-        "users": [
-          "U01QV1SQJ57",
-          "U01R678KWP2",
-          "U01QDANUYVB"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "8IZ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "에너지솔루션 포지션 요건입니다. 회사가 필요로 하는 skill set 을 나타냅니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
-      "first_name": "김호현",
-      "real_name": "김호현",
-      "display_name": "2기_김호현",
-      "team": "T01QA5S537V",
-      "name": "waterdream",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "9a4ea5d6-f401-46df-81ff-a240c5304843",
+			"type": "message",
+			"user": "U01QUKKQ8GH",
+			"text": "에너지솔루션 포지션 요건입니다. 회사가 필요로 하는 skill set 을 나타냅니다.",
+			"ts": "1644454577.543239",
+			"files": [
+				{
+					"id": "F032F68B91Q",
+					"created": 1644454491,
+					"timestamp": 1644454491,
+					"name": "LG에너지솔루션포지션요건_DT총괄-AI총괄-빅데이터총괄_수정.pdf",
+					"title": "LG에너지솔루션포지션요건_DT총괄-AI총괄-빅데이터총괄_수정.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QUKKQ8GH",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 181256,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F032F68B91Q-LG에너지솔루션포지션요건_DT총괄-AI총괄-빅데이터총괄_수정.pdf",
+					"url_private_download": "attachments/F032F68B91Q-LG에너지솔루션포지션요건_DT총괄-AI총괄-빅데이터총괄_수정.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QUKKQ8GH/F032F68B91Q/lg__________________________________dt______-ai______-_________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F032F68B91Q-ea7b5643a9",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 3,
+					"users": [
+						"U01QV1SQJ57",
+						"U01R678KWP2",
+						"U01QDANUYVB"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "8IZ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "에너지솔루션 포지션 요건입니다. 회사가 필요로 하는 skill set 을 나타냅니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+				"first_name": "김호현",
+				"real_name": "김호현",
+				"display_name": "2기_김호현",
+				"team": "T01QA5S537V",
+				"name": "waterdream",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

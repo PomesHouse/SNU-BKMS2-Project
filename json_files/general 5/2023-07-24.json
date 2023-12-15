@@ -1,318 +1,320 @@
-[
-  {
-    "client_msg_id": "b4645422-2598-4cd9-8518-c024f84d4c65",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 2학기 교내 근로장학금 신청 안내\u0026gt;*\n\n*2023학년도 2학기 교내 근로장학생* 선발을 위하여 *근로장학금 신청*을 받고자 하니, 희망하는 학생들이 신청하시길 바랍니다.\n\n  가. 신청대상: 2023학년도 2학기 등록예정 *학부·대학원 재학생(연구생은 등록자 포함)*\n  나. 신청유형: 유형 1(월 40시간), 유형 2(월 60시간), 유형 3(월 80시간)\n  다. 선발제한\n    - *동일 부서 선발 횟수를 최대 4회까지로 제한(타 부서 근로 가능)*\n   - 근로장학 운영의 투명성 확보를 위하여 *근로장학금 미신청자 선발 제한*\n  라. 신청방법: 학생 온라인 신청 \u0026gt; 지도교수 승인\n    - [학생신청] mySNU포털 \u0026gt; 학사정보 \u0026gt; 장학 \u0026gt; 신청/현황 \u0026gt; 근로장학금 신청\n    - [지도교수 승인] 붙임의 안내문 참고\n  마. 신청 및 승인 기간\n    - [학생신청] *2023. 7. 19.(수) 9:00 ~ 8. 3.(목) 18:00*\n    - [지도교수 승인] *2023. 8. 10.(목)까지*\n  바. 기타사항\n    *- 연말정산 시 근로장학금도 교육비 세액공제대상에서 제외됨*",
-    "ts": "1690158809.132869",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1690158819.000000"
-    },
-    "files": [
-      {
-        "id": "F05K1S5CVG8",
-        "created": 1690158740,
-        "timestamp": 1690158740,
-        "name": "온라인승인 안내문(교원) (1).hwp",
-        "title": "온라인승인 안내문(교원) (1).hwp",
-        "mimetype": "",
-        "image_exif_rotation": 0,
-        "filetype": "",
-        "pretty_type": "",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 179712,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05K1S5CVG8-온라인승인 안내문(교원) (1).hwp",
-        "url_private_download": "attachments/F05K1S5CVG8-온라인승인 안내문(교원) (1).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05K1S5CVG8/___________________________________1_.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05K1S5CVG8-ee1cbd9d57",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "OU9nx",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 2학기 교내 근로장학금 신청 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2023학년도 2학기 교내 근로장학생",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 선발을 위하여 "
-              },
-              {
-                "type": "text",
-                "text": "근로장학금 신청",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 받고자 하니, 희망하는 학생들이 신청하시길 바랍니다.\n\n  가. 신청대상: 2023학년도 2학기 등록예정 "
-              },
-              {
-                "type": "text",
-                "text": "학부·대학원 재학생(연구생은 등록자 포함)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  나. 신청유형: 유형 1(월 40시간), 유형 2(월 60시간), 유형 3(월 80시간)\n  다. 선발제한\n    - "
-              },
-              {
-                "type": "text",
-                "text": "동일 부서 선발 횟수를 최대 4회까지로 제한(타 부서 근로 가능)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   - 근로장학 운영의 투명성 확보를 위하여 "
-              },
-              {
-                "type": "text",
-                "text": "근로장학금 미신청자 선발 제한",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  라. 신청방법: 학생 온라인 신청 \u003e 지도교수 승인\n    - [학생신청] mySNU포털 \u003e 학사정보 \u003e 장학 \u003e 신청/현황 \u003e 근로장학금 신청\n    - [지도교수 승인] 붙임의 안내문 참고\n  마. 신청 및 승인 기간\n    - [학생신청] "
-              },
-              {
-                "type": "text",
-                "text": "2023. 7. 19.(수) 9:00 ~ 8. 3.(목) 18:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    - [지도교수 승인] "
-              },
-              {
-                "type": "text",
-                "text": "2023. 8. 10.(목)까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  바. 기타사항\n"
-              },
-              {
-                "type": "text",
-                "text": "    - 연말정산 시 근로장학금도 교육비 세액공제대상에서 제외됨",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "38cdd6d6-87ad-48c1-939f-ac0dd1307a06",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;경찰청 캠퍼스안심 소식지\u0026gt;*",
-    "ts": "1690159616.428019",
-    "files": [
-      {
-        "id": "F05JQR1FFJM",
-        "created": 1690159612,
-        "timestamp": 1690159612,
-        "name": "2023 경찰청 캠퍼스안심소식지.pdf",
-        "title": "2023 경찰청 캠퍼스안심소식지.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1115254,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05JQR1FFJM-2023 경찰청 캠퍼스안심소식지.pdf",
-        "url_private_download": "attachments/F05JQR1FFJM-2023 경찰청 캠퍼스안심소식지.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05JQR1FFJM/2023___________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05JQR1FFJM-46000f7ade",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "xNsL",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c경찰청 캠퍼스안심 소식지\u003e",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "b4645422-2598-4cd9-8518-c024f84d4c65",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 2학기 교내 근로장학금 신청 안내&gt;*\n\n*2023학년도 2학기 교내 근로장학생* 선발을 위하여 *근로장학금 신청*을 받고자 하니, 희망하는 학생들이 신청하시길 바랍니다.\n\n  가. 신청대상: 2023학년도 2학기 등록예정 *학부·대학원 재학생(연구생은 등록자 포함)*\n  나. 신청유형: 유형 1(월 40시간), 유형 2(월 60시간), 유형 3(월 80시간)\n  다. 선발제한\n    - *동일 부서 선발 횟수를 최대 4회까지로 제한(타 부서 근로 가능)*\n   - 근로장학 운영의 투명성 확보를 위하여 *근로장학금 미신청자 선발 제한*\n  라. 신청방법: 학생 온라인 신청 &gt; 지도교수 승인\n    - [학생신청] mySNU포털 &gt; 학사정보 &gt; 장학 &gt; 신청/현황 &gt; 근로장학금 신청\n    - [지도교수 승인] 붙임의 안내문 참고\n  마. 신청 및 승인 기간\n    - [학생신청] *2023. 7. 19.(수) 9:00 ~ 8. 3.(목) 18:00*\n    - [지도교수 승인] *2023. 8. 10.(목)까지*\n  바. 기타사항\n    *- 연말정산 시 근로장학금도 교육비 세액공제대상에서 제외됨*",
+			"ts": "1690158809.132869",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1690158819.000000"
+			},
+			"files": [
+				{
+					"id": "F05K1S5CVG8",
+					"created": 1690158740,
+					"timestamp": 1690158740,
+					"name": "온라인승인 안내문(교원) (1).hwp",
+					"title": "온라인승인 안내문(교원) (1).hwp",
+					"mimetype": "",
+					"image_exif_rotation": 0,
+					"filetype": "",
+					"pretty_type": "",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 179712,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05K1S5CVG8-온라인승인 안내문(교원) (1).hwp",
+					"url_private_download": "attachments/F05K1S5CVG8-온라인승인 안내문(교원) (1).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05K1S5CVG8/___________________________________1_.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05K1S5CVG8-ee1cbd9d57",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "OU9nx",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 2학기 교내 근로장학금 신청 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2023학년도 2학기 교내 근로장학생",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 선발을 위하여 "
+								},
+								{
+									"type": "text",
+									"text": "근로장학금 신청",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 받고자 하니, 희망하는 학생들이 신청하시길 바랍니다.\n\n  가. 신청대상: 2023학년도 2학기 등록예정 "
+								},
+								{
+									"type": "text",
+									"text": "학부·대학원 재학생(연구생은 등록자 포함)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  나. 신청유형: 유형 1(월 40시간), 유형 2(월 60시간), 유형 3(월 80시간)\n  다. 선발제한\n    - "
+								},
+								{
+									"type": "text",
+									"text": "동일 부서 선발 횟수를 최대 4회까지로 제한(타 부서 근로 가능)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   - 근로장학 운영의 투명성 확보를 위하여 "
+								},
+								{
+									"type": "text",
+									"text": "근로장학금 미신청자 선발 제한",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  라. 신청방법: 학생 온라인 신청 > 지도교수 승인\n    - [학생신청] mySNU포털 > 학사정보 > 장학 > 신청/현황 > 근로장학금 신청\n    - [지도교수 승인] 붙임의 안내문 참고\n  마. 신청 및 승인 기간\n    - [학생신청] "
+								},
+								{
+									"type": "text",
+									"text": "2023. 7. 19.(수) 9:00 ~ 8. 3.(목) 18:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    - [지도교수 승인] "
+								},
+								{
+									"type": "text",
+									"text": "2023. 8. 10.(목)까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  바. 기타사항\n"
+								},
+								{
+									"type": "text",
+									"text": "    - 연말정산 시 근로장학금도 교육비 세액공제대상에서 제외됨",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "38cdd6d6-87ad-48c1-939f-ac0dd1307a06",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;경찰청 캠퍼스안심 소식지&gt;*",
+			"ts": "1690159616.428019",
+			"files": [
+				{
+					"id": "F05JQR1FFJM",
+					"created": 1690159612,
+					"timestamp": 1690159612,
+					"name": "2023 경찰청 캠퍼스안심소식지.pdf",
+					"title": "2023 경찰청 캠퍼스안심소식지.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1115254,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05JQR1FFJM-2023 경찰청 캠퍼스안심소식지.pdf",
+					"url_private_download": "attachments/F05JQR1FFJM-2023 경찰청 캠퍼스안심소식지.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05JQR1FFJM/2023___________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05JQR1FFJM-46000f7ade",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "xNsL",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<경찰청 캠퍼스안심 소식지>",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

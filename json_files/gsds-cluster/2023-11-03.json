@@ -1,79 +1,81 @@
-[
-  {
-    "client_msg_id": "86c1e299-c61e-4928-95bb-a8560440e3ff",
-    "type": "message",
-    "user": "U01R67PKD7S",
-    "text": "*[서버 이용 공지]*\n최근 졸업 논문 및 연구 목적으로 서버 사용량이 늘어남에 따라 자원이 부족해지는 상황이 많이 발생합니다. 따라서 서버 사용 시 아래  언급된 사항을 꼭 준수해주시기 바랍니다. (아래 사항을 준수하지 않는 작업의 경우 모두 강제 종료할 계획입니다.)\n\n• *기본적으로는 최대 8개 GPU* 만을 사용해주시고, 자원이 여유로운 경우에도 다른 사용자를 고려하여 *16개 이하를 유지*해주시기 바랍니다. \n• *slurm 사용시 memory 사용량을 명시적으로 언급*해주시기 바랍니다. memory 사용량이 언급하지 않으면 기본적으로 노드 전체 메모리를 사용하게 되고, 이로 인해 남은 자원을 사용하지 못하게 됩니다.\n• 특정 목적으로 자원을 할당 받은 경우에는 해당 자원을 우선적으로 사용해주시기 바랍니다.",
-    "ts": "1699000024.407509",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 12,
-        "users": [
-          "U0302PK342C",
-          "U02V5LTPGRX",
-          "U0302PLQ34Y",
-          "U02UCD1RBNK",
-          "U02UT1XUGFL",
-          "U02UT1YNY6N",
-          "U02ULBHV58W",
-          "U02ULBJR9GE",
-          "U02C3D2T0BS",
-          "U02ULBH3TEJ",
-          "U04QKG4K12Q",
-          "U02V5LU4ED7"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "v9V58",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[서버 이용 공지]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n최근 졸업 논문 및 연구 목적으로 서버 사용량이 늘어남에 따라 자원이 부족해지는 상황이 많이 발생합니다. 따라서 서버 사용 시 아래  언급된 사항을 꼭 준수해주시기 바랍니다. (아래 사항을 준수하지 않는 작업의 경우 모두 강제 종료할 계획입니다.)\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\ubcf8\\uc801\\uc73c\\ub85c\\ub294 \\ucd5c\\ub300 8\\uac1c GPU \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ub9cc\\uc744 \\uc0ac\\uc6a9\\ud574\\uc8fc\\uc2dc\\uace0, \\uc790\\uc6d0\\uc774 \\uc5ec\\uc720\\ub85c\\uc6b4 \\uacbd\\uc6b0\\uc5d0\\ub3c4 \\ub2e4\\ub978 \\uc0ac\\uc6a9\\uc790\\ub97c \\uace0\\ub824\\ud558\\uc5ec \"},{\"type\":\"text\",\"text\":\"16\\uac1c \\uc774\\ud558\\ub97c \\uc720\\uc9c0\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"slurm \\uc0ac\\uc6a9\\uc2dc memory \\uc0ac\\uc6a9\\ub7c9\\uc744 \\uba85\\uc2dc\\uc801\\uc73c\\ub85c \\uc5b8\\uae09\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. memory \\uc0ac\\uc6a9\\ub7c9\\uc774 \\uc5b8\\uae09\\ud558\\uc9c0 \\uc54a\\uc73c\\uba74 \\uae30\\ubcf8\\uc801\\uc73c\\ub85c \\ub178\\ub4dc \\uc804\\uccb4 \\uba54\\ubaa8\\ub9ac\\ub97c \\uc0ac\\uc6a9\\ud558\\uac8c \\ub418\\uace0, \\uc774\\ub85c \\uc778\\ud574 \\ub0a8\\uc740 \\uc790\\uc6d0\\uc744 \\uc0ac\\uc6a9\\ud558\\uc9c0 \\ubabb\\ud558\\uac8c \\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud2b9\\uc815 \\ubaa9\\uc801\\uc73c\\ub85c \\uc790\\uc6d0\\uc744 \\ud560\\ub2f9 \\ubc1b\\uc740 \\uacbd\\uc6b0\\uc5d0\\ub294 \\ud574\\ub2f9 \\uc790\\uc6d0\\uc744 \\uc6b0\\uc120\\uc801\\uc73c\\ub85c \\uc0ac\\uc6a9\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
-      "first_name": "조경제",
-      "real_name": "조경제",
-      "display_name": "4기_조경제",
-      "team": "T01QA5S537V",
-      "name": "avq159",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "86c1e299-c61e-4928-95bb-a8560440e3ff",
+			"type": "message",
+			"user": "U01R67PKD7S",
+			"text": "*[서버 이용 공지]*\n최근 졸업 논문 및 연구 목적으로 서버 사용량이 늘어남에 따라 자원이 부족해지는 상황이 많이 발생합니다. 따라서 서버 사용 시 아래  언급된 사항을 꼭 준수해주시기 바랍니다. (아래 사항을 준수하지 않는 작업의 경우 모두 강제 종료할 계획입니다.)\n\n• *기본적으로는 최대 8개 GPU* 만을 사용해주시고, 자원이 여유로운 경우에도 다른 사용자를 고려하여 *16개 이하를 유지*해주시기 바랍니다. \n• *slurm 사용시 memory 사용량을 명시적으로 언급*해주시기 바랍니다. memory 사용량이 언급하지 않으면 기본적으로 노드 전체 메모리를 사용하게 되고, 이로 인해 남은 자원을 사용하지 못하게 됩니다.\n• 특정 목적으로 자원을 할당 받은 경우에는 해당 자원을 우선적으로 사용해주시기 바랍니다.",
+			"ts": "1699000024.407509",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 12,
+					"users": [
+						"U0302PK342C",
+						"U02V5LTPGRX",
+						"U0302PLQ34Y",
+						"U02UCD1RBNK",
+						"U02UT1XUGFL",
+						"U02UT1YNY6N",
+						"U02ULBHV58W",
+						"U02ULBJR9GE",
+						"U02C3D2T0BS",
+						"U02ULBH3TEJ",
+						"U04QKG4K12Q",
+						"U02V5LU4ED7"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "v9V58",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[서버 이용 공지]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n최근 졸업 논문 및 연구 목적으로 서버 사용량이 늘어남에 따라 자원이 부족해지는 상황이 많이 발생합니다. 따라서 서버 사용 시 아래  언급된 사항을 꼭 준수해주시기 바랍니다. (아래 사항을 준수하지 않는 작업의 경우 모두 강제 종료할 계획입니다.)\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\ubcf8\\uc801\\uc73c\\ub85c\\ub294 \\ucd5c\\ub300 8\\uac1c GPU \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ub9cc\\uc744 \\uc0ac\\uc6a9\\ud574\\uc8fc\\uc2dc\\uace0, \\uc790\\uc6d0\\uc774 \\uc5ec\\uc720\\ub85c\\uc6b4 \\uacbd\\uc6b0\\uc5d0\\ub3c4 \\ub2e4\\ub978 \\uc0ac\\uc6a9\\uc790\\ub97c \\uace0\\ub824\\ud558\\uc5ec \"},{\"type\":\"text\",\"text\":\"16\\uac1c \\uc774\\ud558\\ub97c \\uc720\\uc9c0\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"slurm \\uc0ac\\uc6a9\\uc2dc memory \\uc0ac\\uc6a9\\ub7c9\\uc744 \\uba85\\uc2dc\\uc801\\uc73c\\ub85c \\uc5b8\\uae09\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. memory \\uc0ac\\uc6a9\\ub7c9\\uc774 \\uc5b8\\uae09\\ud558\\uc9c0 \\uc54a\\uc73c\\uba74 \\uae30\\ubcf8\\uc801\\uc73c\\ub85c \\ub178\\ub4dc \\uc804\\uccb4 \\uba54\\ubaa8\\ub9ac\\ub97c \\uc0ac\\uc6a9\\ud558\\uac8c \\ub418\\uace0, \\uc774\\ub85c \\uc778\\ud574 \\ub0a8\\uc740 \\uc790\\uc6d0\\uc744 \\uc0ac\\uc6a9\\ud558\\uc9c0 \\ubabb\\ud558\\uac8c \\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud2b9\\uc815 \\ubaa9\\uc801\\uc73c\\ub85c \\uc790\\uc6d0\\uc744 \\ud560\\ub2f9 \\ubc1b\\uc740 \\uacbd\\uc6b0\\uc5d0\\ub294 \\ud574\\ub2f9 \\uc790\\uc6d0\\uc744 \\uc6b0\\uc120\\uc801\\uc73c\\ub85c \\uc0ac\\uc6a9\\ud574\\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+				"first_name": "조경제",
+				"real_name": "조경제",
+				"display_name": "4기_조경제",
+				"team": "T01QA5S537V",
+				"name": "avq159",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,139 +1,141 @@
-[
-  {
-    "client_msg_id": "0b81095d-0b04-4d7d-83b0-b84a6a813629",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "안녕하세요. 1기 박사과정 안규수입니다.\n\n내일 17시부터 신공학관 301동 118호에서 삼성디스플레이 대표이사 특강이 있다고 합니다.\n또한 13시~17시에 삼성디스플레이 제품 전시 및 채용 상담부스도 운영된다고 합니다.\n전기정보공학부 세미나 수업에서 열리는 특강이지만, 수강생 외에도 참석이 가능하고,\n특강에 참석하는 모든 참석자에게는 꽤 괜찮은 선물과,\n경품 추첨을 통해 아주 괜찮은 선물을 제공하는 모양입니다.\n관심 있는 분들의 많은 참석 바랍니다 :slightly_smiling_face:\n\n\u003chttps://ece.snu.ac.kr/community/job-openings?md=v\u0026amp;bbsidx=54031\u003e",
-    "ts": "1698209374.205399",
-    "attachments": [
-      {
-        "fallback": "서울대학교 전기·정보공학부: 10/26 (301동 118호) 삼성디스플레이 CEO 특강 \u0026amp; Display Day - 진로 - 커뮤니티 - 서울대학교 전기·정보공학부",
-        "id": 1,
-        "title": "10/26 (301동 118호) 삼성디스플레이 CEO 특강 \u0026amp; Display Day - 진로 - 커뮤니티 - 서울대학교 전기·정보공학부",
-        "title_link": "https://ece.snu.ac.kr/community/job-openings?md=v\u0026bbsidx=54031",
-        "text": "\u0026lt; 삼성디스플레이 CEO 특강 \u0026amp; Display Day\u0026gt;삼성디스플레이는 우수인재 확보를 위해, 아래와 같은 일정으로 CEO 특강 \u0026amp; Display Day 캠퍼스 리쿠르팅을 실시하고자 합니다.관심있으신 여러분들의 많은 참여를 부탁드립니다. 가. 행사 안내- 행 사 : 삼성디스플레이 CEO 특강 \u0026amp; Display Day- 일시...",
-        "service_name": "서울대학교 전기·정보공학부",
-        "service_icon": "https://ece.snu.ac.kr/mobileicon.png?ver=2021-03-30",
-        "from_url": "https://ece.snu.ac.kr/community/job-openings?md=v\u0026bbsidx=54031",
-        "original_url": "https://ece.snu.ac.kr/community/job-openings?md=v\u0026amp;bbsidx=54031",
-        "blocks": null
-      }
-    ],
-    "files": [
-      {
-        "id": "F062KUC5QF7",
-        "created": 1698209311,
-        "timestamp": 1698209311,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QAE573J7",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 416303,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F062KUC5QF7-image.png",
-        "url_private_download": "attachments/F062KUC5QF7-image.png",
-        "original_h": 766,
-        "original_w": 553,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 260,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_480.png",
-        "thumb_480_w": 347,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_720.png",
-        "thumb_720_w": 520,
-        "thumb_720_h": 720,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QAE573J7/F062KUC5QF7/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F062KUC5QF7-2029e6a725",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "jVPRs",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요. 1기 박사과정 안규수입니다.\n\n내일 17시부터 신공학관 301동 118호에서 삼성디스플레이 대표이사 특강이 있다고 합니다.\n또한 13시~17시에 삼성디스플레이 제품 전시 및 채용 상담부스도 운영된다고 합니다.\n전기정보공학부 세미나 수업에서 열리는 특강이지만, 수강생 외에도 참석이 가능하고,\n특강에 참석하는 모든 참석자에게는 꽤 괜찮은 선물과,\n경품 추첨을 통해 아주 괜찮은 선물을 제공하는 모양입니다.\n관심 있는 분들의 많은 참석 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "link",
-                "url": "https://ece.snu.ac.kr/community/job-openings?md=v\u0026bbsidx=54031",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "0b81095d-0b04-4d7d-83b0-b84a6a813629",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "안녕하세요. 1기 박사과정 안규수입니다.\n\n내일 17시부터 신공학관 301동 118호에서 삼성디스플레이 대표이사 특강이 있다고 합니다.\n또한 13시~17시에 삼성디스플레이 제품 전시 및 채용 상담부스도 운영된다고 합니다.\n전기정보공학부 세미나 수업에서 열리는 특강이지만, 수강생 외에도 참석이 가능하고,\n특강에 참석하는 모든 참석자에게는 꽤 괜찮은 선물과,\n경품 추첨을 통해 아주 괜찮은 선물을 제공하는 모양입니다.\n관심 있는 분들의 많은 참석 바랍니다 :slightly_smiling_face:\n\n<https://ece.snu.ac.kr/community/job-openings?md=v&amp;bbsidx=54031>",
+			"ts": "1698209374.205399",
+			"attachments": [
+				{
+					"fallback": "서울대학교 전기·정보공학부: 10/26 (301동 118호) 삼성디스플레이 CEO 특강 &amp; Display Day - 진로 - 커뮤니티 - 서울대학교 전기·정보공학부",
+					"id": 1,
+					"title": "10/26 (301동 118호) 삼성디스플레이 CEO 특강 &amp; Display Day - 진로 - 커뮤니티 - 서울대학교 전기·정보공학부",
+					"title_link": "https://ece.snu.ac.kr/community/job-openings?md=v&bbsidx=54031",
+					"text": "&lt; 삼성디스플레이 CEO 특강 &amp; Display Day&gt;삼성디스플레이는 우수인재 확보를 위해, 아래와 같은 일정으로 CEO 특강 &amp; Display Day 캠퍼스 리쿠르팅을 실시하고자 합니다.관심있으신 여러분들의 많은 참여를 부탁드립니다. 가. 행사 안내- 행 사 : 삼성디스플레이 CEO 특강 &amp; Display Day- 일시...",
+					"service_name": "서울대학교 전기·정보공학부",
+					"service_icon": "https://ece.snu.ac.kr/mobileicon.png?ver=2021-03-30",
+					"from_url": "https://ece.snu.ac.kr/community/job-openings?md=v&bbsidx=54031",
+					"original_url": "https://ece.snu.ac.kr/community/job-openings?md=v&amp;bbsidx=54031",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F062KUC5QF7",
+					"created": 1698209311,
+					"timestamp": 1698209311,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QAE573J7",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 416303,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F062KUC5QF7-image.png",
+					"url_private_download": "attachments/F062KUC5QF7-image.png",
+					"original_h": 766,
+					"original_w": 553,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 260,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_480.png",
+					"thumb_480_w": 347,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F062KUC5QF7-fdb15c29a7/image_720.png",
+					"thumb_720_w": 520,
+					"thumb_720_h": 720,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QAE573J7/F062KUC5QF7/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F062KUC5QF7-2029e6a725",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "jVPRs",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요. 1기 박사과정 안규수입니다.\n\n내일 17시부터 신공학관 301동 118호에서 삼성디스플레이 대표이사 특강이 있다고 합니다.\n또한 13시~17시에 삼성디스플레이 제품 전시 및 채용 상담부스도 운영된다고 합니다.\n전기정보공학부 세미나 수업에서 열리는 특강이지만, 수강생 외에도 참석이 가능하고,\n특강에 참석하는 모든 참석자에게는 꽤 괜찮은 선물과,\n경품 추첨을 통해 아주 괜찮은 선물을 제공하는 모양입니다.\n관심 있는 분들의 많은 참석 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "link",
+									"url": "https://ece.snu.ac.kr/community/job-openings?md=v&bbsidx=54031",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,363 +1,365 @@
-[
-  {
-    "client_msg_id": "fbeb0a91-ce81-4f11-a9cc-202e3f10395c",
-    "type": "message",
-    "user": "U040C40QE6T",
-    "text": "안녕하십니까? 데이터사이언스 석사과정 3.5기 김채윤, 김영훈, 손혜령, 박민우, 박지후 입니다.\n\n저희는 BKMS 1 과목의 Group Project의 일환으로, *GSDS 학생들을 위한 졸업요건 이수여부 검사 및 사용자/해시태그 기반 과목 추천 시스템*을 구현하고자 합니다. 다만, 보다 정밀한 추천 프로그램을 구현하기 위하여 선배님들과 동기분들의 *실제 데이터를 수집할 필요성이 있어*, 부득이하게 해당 공지를 드리게 되었습니다. \n\n*[참여 방법]*\n\u0026gt; *[수강이력_공유_가이드라인.pdf]* 에 따라 [*수강 과목 이력 (20XX-XXXXX).xlsx]* 파일에 데이터를 입력해 주시고, 하단의 구글폼 주소로 업로드해 주시면 감사하겠습니다! \n\u0026gt; (기한: 2022-12-04 23:59)\n\u0026gt; \n\u0026gt; ★1★ 설문에 참여하신 분들 중에서 추첨을 통해 소정의 상품을 증정할 예정입니다.\n\u0026gt; \n\u0026gt; ★2★ 구글폼 업로드 링크 : \n\u0026gt; \u003chttps://docs.google.com/forms/d/e/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw/viewform\u003e\n\u0026gt; \n\u0026gt; ★3★ 설문 및 데이터 입력 관련 문의는 \u003cmailto:golddohyun@snu.ac.kr|golddohyun@snu.ac.kr\u003e 혹은 slack dm (3.5기_김채윤) 을 통해 주시면 감사하겠습니다.\n-------------------------------------------------------------------\nHello, this is Chaeyun Kim, Younghoon Kim, Hyeryeong Son, Minwoo Park, Jihoo Park in the Data Science master's course.\n\nOur team is currently envisioning 'SNU GSDS Graduation Requirement Test and Subject Recommendation System' for the BKMS 1 Group Project. In order to implement a more precise recommendation program, we would like to collect actual data from seniors and classmates.\n\n\u0026gt; *[How to Participate]*\n\u0026gt; We would appreciate it if you could enter the course history data in the given excel format (*수강 과목 이력 (20XX-XXXXX).xlsx)* according to the course history sharing guidelines (*수강이력_공유_가이드라인.pdf*) and upload it to the Google Form link below.\n\u0026gt; \n\u0026gt; ★1★  Among those who participated in the survey, some of you will be randomly selected to receive a small reward :) \n\u0026gt; \n\u0026gt; ★2★ Excel File Upload link (Google Form Survey)  : \n\u0026gt; \u003chttps://docs.google.com/forms/d/e/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw/viewform\u003e\n\u0026gt; \n\u0026gt; ★3★  If you have any questions about the survey, please contact us at \u003cmailto:golddohyun@snu.ac.kr|golddohyun@snu.ac.kr\u003e (Chaeyun Kim) or my Slack dm (3.5기_김채윤).",
-    "ts": "1669766879.881279",
-    "files": [
-      {
-        "id": "F04D0BW1QLB",
-        "created": 1669765688,
-        "timestamp": 1669765688,
-        "name": "수강이력_공유_가이드라인.pdf",
-        "title": "수강이력_공유_가이드라인.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U040C40QE6T",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 3725455,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04D0BW1QLB-수강이력_공유_가이드라인.pdf",
-        "url_private_download": "attachments/F04D0BW1QLB-수강이력_공유_가이드라인.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U040C40QE6T/F04D0BW1QLB/___________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04D0BW1QLB-8b11101355",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F04CTSS66KG",
-        "created": 1669765691,
-        "timestamp": 1669765691,
-        "name": "수강 과목 이력 (20XX-XXXXX).xlsx",
-        "title": "수강 과목 이력 (20XX-XXXXX).xlsx",
-        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
-        "image_exif_rotation": 0,
-        "filetype": "xlsx",
-        "pretty_type": "Excel 스프레드시트",
-        "user": "U040C40QE6T",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 12911,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F04CTSS66KG-수강 과목 이력 (20XX-XXXXX).xlsx",
-        "url_private_download": "attachments/F04CTSS66KG-수강 과목 이력 (20XX-XXXXX).xlsx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U040C40QE6T/F04CTSS66KG/______________________20xx-xxxxx_.xlsx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F04CTSS66KG-3103f2c556",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 14,
-        "users": [
-          "U02ULBJGHF0",
-          "U02UT2VQ9NF",
-          "U041B24C16U",
-          "U0406PM050F",
-          "U01QGKD09K5",
-          "U040ENMTCEA",
-          "U041B24HMFS",
-          "U040C40QE6T",
-          "U01Q1KFN4JK",
-          "U01QGJUT403",
-          "U0302PK342C",
-          "U01QGKC4BM1",
-          "U01Q75KNV1T",
-          "U02V5LT4DLZ"
-        ]
-      },
-      {
-        "name": "짱구s",
-        "count": 1,
-        "users": [
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "31+yT",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하십니까? 데이터사이언스 석사과정 3.5기 김채윤, 김영훈, 손혜령, 박민우, 박지후 입니다.\n\n저희는 BKMS 1 과목의 Group Project의 일환으로, "
-              },
-              {
-                "type": "text",
-                "text": "GSDS 학생들을 위한 졸업요건 이수여부 검사 및 사용자/해시태그 기반 과목 추천 시스템",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 구현하고자 합니다. 다만, 보다 정밀한 추천 프로그램을 구현하기 위하여 선배님들과 동기분들의 "
-              },
-              {
-                "type": "text",
-                "text": "실제 데이터를 수집할 필요성이 있어",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ", 부득이하게 해당 공지를 드리게 되었습니다."
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "[참여 방법]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_quote",
-            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"[\\uc218\\uac15\\uc774\\ub825_\\uacf5\\uc720_\\uac00\\uc774\\ub4dc\\ub77c\\uc778.pdf]\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\uc5d0 \\ub530\\ub77c [\"},{\"type\":\"text\",\"text\":\"\\uc218\\uac15 \\uacfc\\ubaa9 \\uc774\\ub825 (20XX-XXXXX).xlsx]\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\ud30c\\uc77c\\uc5d0 \\ub370\\uc774\\ud130\\ub97c \\uc785\\ub825\\ud574 \\uc8fc\\uc2dc\\uace0, \\ud558\\ub2e8\\uc758 \\uad6c\\uae00\\ud3fc \\uc8fc\\uc18c\\ub85c \\uc5c5\\ub85c\\ub4dc\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4! \\n(\\uae30\\ud55c: 2022-12-04 23:59)\\n\\n\\u26051\\u2605 \\uc124\\ubb38\\uc5d0 \\ucc38\\uc5ec\\ud558\\uc2e0 \\ubd84\\ub4e4 \\uc911\\uc5d0\\uc11c \\ucd94\\ucca8\\uc744 \\ud1b5\\ud574 \\uc18c\\uc815\\uc758 \\uc0c1\\ud488\\uc744 \\uc99d\\uc815\\ud560 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.\\n\\n\\u26052\\u2605 \\uad6c\\uae00\\ud3fc \\uc5c5\\ub85c\\ub4dc \\ub9c1\\ud06c : \\n\"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/forms\\/d\\/e\\/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw\\/viewform\"},{\"type\":\"text\",\"text\":\"\\n\\n\\u26053\\u2605 \\uc124\\ubb38 \\ubc0f \\ub370\\uc774\\ud130 \\uc785\\ub825 \\uad00\\ub828 \\ubb38\\uc758\\ub294 \"},{\"type\":\"link\",\"url\":\"mailto:golddohyun@snu.ac.kr\",\"text\":\"golddohyun@snu.ac.kr\",\"unsafe\":true},{\"type\":\"text\",\"text\":\" \\ud639\\uc740 slack dm (3.5\\uae30_\\uae40\\ucc44\\uc724) \\uc744 \\ud1b5\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\"}]}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "-------------------------------------------------------------------\nHello, this is Chaeyun Kim, Younghoon Kim, Hyeryeong Son, Minwoo Park, Jihoo Park in the Data Science master's course.\n\nOur team is currently envisioning 'SNU GSDS Graduation Requirement Test and Subject Recommendation System' for the BKMS 1 Group Project. In order to implement a more precise recommendation program, we would like to collect actual data from seniors and classmates.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_quote",
-            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"[How to Participate]\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\nWe would appreciate it if you could enter the course history data in the given excel format (\"},{\"type\":\"text\",\"text\":\"\\uc218\\uac15 \\uacfc\\ubaa9 \\uc774\\ub825 (20XX-XXXXX).xlsx)\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" according to the course history sharing guidelines (\"},{\"type\":\"text\",\"text\":\"\\uc218\\uac15\\uc774\\ub825_\\uacf5\\uc720_\\uac00\\uc774\\ub4dc\\ub77c\\uc778.pdf\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\") and upload it to the Google Form link below.\\n\\n\\u26051\\u2605  Among those who participated in the survey, some of you will be randomly selected to receive a small reward :) \\n\\n\\u26052\\u2605 Excel File Upload link (Google Form Survey)  : \\n\"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/forms\\/d\\/e\\/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw\\/viewform\"},{\"type\":\"text\",\"text\":\"\\n\\n\\u26053\\u2605  If you have any questions about the survey, please contact us at \"},{\"type\":\"link\",\"url\":\"mailto:golddohyun@snu.ac.kr\",\"text\":\"golddohyun@snu.ac.kr\",\"unsafe\":true},{\"type\":\"text\",\"text\":\" (Chaeyun Kim) or my Slack dm (3.5\\uae30_\\uae40\\ucc44\\uc724).\"}]}"
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
-      "first_name": "김채윤",
-      "real_name": "김채윤",
-      "display_name": "3.5기_김채윤",
-      "team": "T01QA5S537V",
-      "name": "golddohyun",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "8f24b9b2-74c2-4f73-8964-9eda5ec73006",
-    "type": "message",
-    "user": "U02UT2VQ9NF",
-    "text": "GPT-3의 새로운 모델인 *\u003chttps://beta.openai.com/docs/models/overview|text-davinci-003\u003e*가 공개되었습니다.\nOpenAI가 공개한 Text generation 사례는 다음과 같은데, 가끔 숙제에서 ~~ 의 특징이나 장단점을 쓰라고 하면 유용하게 쓰일... 수 있지 않을까요?\n\u0026gt; 1. Node.js: Node.js is a JavaScript-based runtime environment that is popular for writing backend applications. Pros: Node.js is fast, lightweight, and easy to learn, and it has a large community of developers. Cons: Node.js can be difficult to debug and there is a lack of robust tools for building large-scale applications.\n\u0026gt; 2. Django: Django is a popular Python-based web framework. Pros: Django is powerful and well-documented, making it easy to get started. It also supports a wide range of databases and APIs, allowing you to easily integrate with other services. Cons: Django can be difficult to scale for large applications and can be slow for certain types of requests.\n\u0026gt; 3. Ruby on Rails: Ruby on Rails is a popular web framework based on the Ruby programming language. Pros: Ruby on Rails is easy to learn and can be used to quickly build powerful web applications. It also has a wide range of built-in features, such as authentication and authorization. Cons: Ruby on Rails can be slow and resource-intensive, and it can be difficult to scale.\n",
-    "ts": "1669787972.162419",
-    "attachments": [
-      {
-        "fallback": "OpenAI API",
-        "id": 1,
-        "title": "OpenAI API",
-        "title_link": "https://beta.openai.com/docs/models/overview",
-        "text": "An API for accessing new AI models developed by OpenAI",
-        "service_name": "beta.openai.com",
-        "from_url": "https://beta.openai.com/docs/models/overview",
-        "original_url": "https://beta.openai.com/docs/models/overview",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 13,
-        "users": [
-          "U0302PHUHME",
-          "U040C40QE6T",
-          "U01QGKD09K5",
-          "U01Q75KNV1T",
-          "U0406PM050F",
-          "U02ULBHV58W",
-          "U02UQ4BAMB7",
-          "U0302PLQ34Y",
-          "U02UT1XUGFL",
-          "U02ULBJGHF0",
-          "U0302PK342C",
-          "U02V5LTKMPT",
-          "U02V5LT4DLZ"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "TI5",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "GPT-3의 새로운 모델인 "
-              },
-              {
-                "type": "link",
-                "url": "https://beta.openai.com/docs/models/overview",
-                "text": "text-davinci-003",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "가 공개되었습니다.\nOpenAI가 공개한 Text generation 사례는 다음과 같은데, 가끔 숙제에서 ~~ 의 특징이나 장단점을 쓰라고 하면 유용하게 쓰일... 수 있지 않을까요?\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Node.js: Node.js is a JavaScript-based runtime environment that is popular for writing backend applications. Pros: Node.js is fast, lightweight, and easy to learn, and it has a large community of developers. Cons: Node.js can be difficult to debug and there is a lack of robust tools for building large-scale applications.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Django: Django is a popular Python-based web framework. Pros: Django is powerful and well-documented, making it easy to get started. It also supports a wide range of databases and APIs, allowing you to easily integrate with other services. Cons: Django can be difficult to scale for large applications and can be slow for certain types of requests.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Ruby on Rails: Ruby on Rails is a popular web framework based on the Ruby programming language. Pros: Ruby on Rails is easy to learn and can be used to quickly build powerful web applications. It also has a wide range of built-in features, such as authentication and authorization. Cons: Ruby on Rails can be slow and resource-intensive, and it can be difficult to scale.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":1}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": []
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
-      "first_name": "3기_송종현",
-      "real_name": "3기_송종현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "hyeongoon",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "fbeb0a91-ce81-4f11-a9cc-202e3f10395c",
+			"type": "message",
+			"user": "U040C40QE6T",
+			"text": "안녕하십니까? 데이터사이언스 석사과정 3.5기 김채윤, 김영훈, 손혜령, 박민우, 박지후 입니다.\n\n저희는 BKMS 1 과목의 Group Project의 일환으로, *GSDS 학생들을 위한 졸업요건 이수여부 검사 및 사용자/해시태그 기반 과목 추천 시스템*을 구현하고자 합니다. 다만, 보다 정밀한 추천 프로그램을 구현하기 위하여 선배님들과 동기분들의 *실제 데이터를 수집할 필요성이 있어*, 부득이하게 해당 공지를 드리게 되었습니다. \n\n*[참여 방법]*\n&gt; *[수강이력_공유_가이드라인.pdf]* 에 따라 [*수강 과목 이력 (20XX-XXXXX).xlsx]* 파일에 데이터를 입력해 주시고, 하단의 구글폼 주소로 업로드해 주시면 감사하겠습니다! \n&gt; (기한: 2022-12-04 23:59)\n&gt; \n&gt; ★1★ 설문에 참여하신 분들 중에서 추첨을 통해 소정의 상품을 증정할 예정입니다.\n&gt; \n&gt; ★2★ 구글폼 업로드 링크 : \n&gt; <https://docs.google.com/forms/d/e/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw/viewform>\n&gt; \n&gt; ★3★ 설문 및 데이터 입력 관련 문의는 <mailto:golddohyun@snu.ac.kr|golddohyun@snu.ac.kr> 혹은 slack dm (3.5기_김채윤) 을 통해 주시면 감사하겠습니다.\n-------------------------------------------------------------------\nHello, this is Chaeyun Kim, Younghoon Kim, Hyeryeong Son, Minwoo Park, Jihoo Park in the Data Science master's course.\n\nOur team is currently envisioning 'SNU GSDS Graduation Requirement Test and Subject Recommendation System' for the BKMS 1 Group Project. In order to implement a more precise recommendation program, we would like to collect actual data from seniors and classmates.\n\n&gt; *[How to Participate]*\n&gt; We would appreciate it if you could enter the course history data in the given excel format (*수강 과목 이력 (20XX-XXXXX).xlsx)* according to the course history sharing guidelines (*수강이력_공유_가이드라인.pdf*) and upload it to the Google Form link below.\n&gt; \n&gt; ★1★  Among those who participated in the survey, some of you will be randomly selected to receive a small reward :) \n&gt; \n&gt; ★2★ Excel File Upload link (Google Form Survey)  : \n&gt; <https://docs.google.com/forms/d/e/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw/viewform>\n&gt; \n&gt; ★3★  If you have any questions about the survey, please contact us at <mailto:golddohyun@snu.ac.kr|golddohyun@snu.ac.kr> (Chaeyun Kim) or my Slack dm (3.5기_김채윤).",
+			"ts": "1669766879.881279",
+			"files": [
+				{
+					"id": "F04D0BW1QLB",
+					"created": 1669765688,
+					"timestamp": 1669765688,
+					"name": "수강이력_공유_가이드라인.pdf",
+					"title": "수강이력_공유_가이드라인.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U040C40QE6T",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 3725455,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04D0BW1QLB-수강이력_공유_가이드라인.pdf",
+					"url_private_download": "attachments/F04D0BW1QLB-수강이력_공유_가이드라인.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U040C40QE6T/F04D0BW1QLB/___________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04D0BW1QLB-8b11101355",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F04CTSS66KG",
+					"created": 1669765691,
+					"timestamp": 1669765691,
+					"name": "수강 과목 이력 (20XX-XXXXX).xlsx",
+					"title": "수강 과목 이력 (20XX-XXXXX).xlsx",
+					"mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+					"image_exif_rotation": 0,
+					"filetype": "xlsx",
+					"pretty_type": "Excel 스프레드시트",
+					"user": "U040C40QE6T",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 12911,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F04CTSS66KG-수강 과목 이력 (20XX-XXXXX).xlsx",
+					"url_private_download": "attachments/F04CTSS66KG-수강 과목 이력 (20XX-XXXXX).xlsx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U040C40QE6T/F04CTSS66KG/______________________20xx-xxxxx_.xlsx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F04CTSS66KG-3103f2c556",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 14,
+					"users": [
+						"U02ULBJGHF0",
+						"U02UT2VQ9NF",
+						"U041B24C16U",
+						"U0406PM050F",
+						"U01QGKD09K5",
+						"U040ENMTCEA",
+						"U041B24HMFS",
+						"U040C40QE6T",
+						"U01Q1KFN4JK",
+						"U01QGJUT403",
+						"U0302PK342C",
+						"U01QGKC4BM1",
+						"U01Q75KNV1T",
+						"U02V5LT4DLZ"
+					]
+				},
+				{
+					"name": "짱구s",
+					"count": 1,
+					"users": [
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "31+yT",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하십니까? 데이터사이언스 석사과정 3.5기 김채윤, 김영훈, 손혜령, 박민우, 박지후 입니다.\n\n저희는 BKMS 1 과목의 Group Project의 일환으로, "
+								},
+								{
+									"type": "text",
+									"text": "GSDS 학생들을 위한 졸업요건 이수여부 검사 및 사용자/해시태그 기반 과목 추천 시스템",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 구현하고자 합니다. 다만, 보다 정밀한 추천 프로그램을 구현하기 위하여 선배님들과 동기분들의 "
+								},
+								{
+									"type": "text",
+									"text": "실제 데이터를 수집할 필요성이 있어",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ", 부득이하게 해당 공지를 드리게 되었습니다."
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "[참여 방법]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_quote",
+							"Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"[\\uc218\\uac15\\uc774\\ub825_\\uacf5\\uc720_\\uac00\\uc774\\ub4dc\\ub77c\\uc778.pdf]\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\uc5d0 \\ub530\\ub77c [\"},{\"type\":\"text\",\"text\":\"\\uc218\\uac15 \\uacfc\\ubaa9 \\uc774\\ub825 (20XX-XXXXX).xlsx]\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\ud30c\\uc77c\\uc5d0 \\ub370\\uc774\\ud130\\ub97c \\uc785\\ub825\\ud574 \\uc8fc\\uc2dc\\uace0, \\ud558\\ub2e8\\uc758 \\uad6c\\uae00\\ud3fc \\uc8fc\\uc18c\\ub85c \\uc5c5\\ub85c\\ub4dc\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4! \\n(\\uae30\\ud55c: 2022-12-04 23:59)\\n\\n\\u26051\\u2605 \\uc124\\ubb38\\uc5d0 \\ucc38\\uc5ec\\ud558\\uc2e0 \\ubd84\\ub4e4 \\uc911\\uc5d0\\uc11c \\ucd94\\ucca8\\uc744 \\ud1b5\\ud574 \\uc18c\\uc815\\uc758 \\uc0c1\\ud488\\uc744 \\uc99d\\uc815\\ud560 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.\\n\\n\\u26052\\u2605 \\uad6c\\uae00\\ud3fc \\uc5c5\\ub85c\\ub4dc \\ub9c1\\ud06c : \\n\"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/forms\\/d\\/e\\/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw\\/viewform\"},{\"type\":\"text\",\"text\":\"\\n\\n\\u26053\\u2605 \\uc124\\ubb38 \\ubc0f \\ub370\\uc774\\ud130 \\uc785\\ub825 \\uad00\\ub828 \\ubb38\\uc758\\ub294 \"},{\"type\":\"link\",\"url\":\"mailto:golddohyun@snu.ac.kr\",\"text\":\"golddohyun@snu.ac.kr\",\"unsafe\":true},{\"type\":\"text\",\"text\":\" \\ud639\\uc740 slack dm (3.5\\uae30_\\uae40\\ucc44\\uc724) \\uc744 \\ud1b5\\ud574 \\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\"}]}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "-------------------------------------------------------------------\nHello, this is Chaeyun Kim, Younghoon Kim, Hyeryeong Son, Minwoo Park, Jihoo Park in the Data Science master's course.\n\nOur team is currently envisioning 'SNU GSDS Graduation Requirement Test and Subject Recommendation System' for the BKMS 1 Group Project. In order to implement a more precise recommendation program, we would like to collect actual data from seniors and classmates.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_quote",
+							"Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"[How to Participate]\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\nWe would appreciate it if you could enter the course history data in the given excel format (\"},{\"type\":\"text\",\"text\":\"\\uc218\\uac15 \\uacfc\\ubaa9 \\uc774\\ub825 (20XX-XXXXX).xlsx)\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" according to the course history sharing guidelines (\"},{\"type\":\"text\",\"text\":\"\\uc218\\uac15\\uc774\\ub825_\\uacf5\\uc720_\\uac00\\uc774\\ub4dc\\ub77c\\uc778.pdf\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\") and upload it to the Google Form link below.\\n\\n\\u26051\\u2605  Among those who participated in the survey, some of you will be randomly selected to receive a small reward :) \\n\\n\\u26052\\u2605 Excel File Upload link (Google Form Survey)  : \\n\"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/forms\\/d\\/e\\/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw\\/viewform\"},{\"type\":\"text\",\"text\":\"\\n\\n\\u26053\\u2605  If you have any questions about the survey, please contact us at \"},{\"type\":\"link\",\"url\":\"mailto:golddohyun@snu.ac.kr\",\"text\":\"golddohyun@snu.ac.kr\",\"unsafe\":true},{\"type\":\"text\",\"text\":\" (Chaeyun Kim) or my Slack dm (3.5\\uae30_\\uae40\\ucc44\\uc724).\"}]}"
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+				"first_name": "김채윤",
+				"real_name": "김채윤",
+				"display_name": "3.5기_김채윤",
+				"team": "T01QA5S537V",
+				"name": "golddohyun",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "8f24b9b2-74c2-4f73-8964-9eda5ec73006",
+			"type": "message",
+			"user": "U02UT2VQ9NF",
+			"text": "GPT-3의 새로운 모델인 *<https://beta.openai.com/docs/models/overview|text-davinci-003>*가 공개되었습니다.\nOpenAI가 공개한 Text generation 사례는 다음과 같은데, 가끔 숙제에서 ~~ 의 특징이나 장단점을 쓰라고 하면 유용하게 쓰일... 수 있지 않을까요?\n&gt; 1. Node.js: Node.js is a JavaScript-based runtime environment that is popular for writing backend applications. Pros: Node.js is fast, lightweight, and easy to learn, and it has a large community of developers. Cons: Node.js can be difficult to debug and there is a lack of robust tools for building large-scale applications.\n&gt; 2. Django: Django is a popular Python-based web framework. Pros: Django is powerful and well-documented, making it easy to get started. It also supports a wide range of databases and APIs, allowing you to easily integrate with other services. Cons: Django can be difficult to scale for large applications and can be slow for certain types of requests.\n&gt; 3. Ruby on Rails: Ruby on Rails is a popular web framework based on the Ruby programming language. Pros: Ruby on Rails is easy to learn and can be used to quickly build powerful web applications. It also has a wide range of built-in features, such as authentication and authorization. Cons: Ruby on Rails can be slow and resource-intensive, and it can be difficult to scale.\n",
+			"ts": "1669787972.162419",
+			"attachments": [
+				{
+					"fallback": "OpenAI API",
+					"id": 1,
+					"title": "OpenAI API",
+					"title_link": "https://beta.openai.com/docs/models/overview",
+					"text": "An API for accessing new AI models developed by OpenAI",
+					"service_name": "beta.openai.com",
+					"from_url": "https://beta.openai.com/docs/models/overview",
+					"original_url": "https://beta.openai.com/docs/models/overview",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 13,
+					"users": [
+						"U0302PHUHME",
+						"U040C40QE6T",
+						"U01QGKD09K5",
+						"U01Q75KNV1T",
+						"U0406PM050F",
+						"U02ULBHV58W",
+						"U02UQ4BAMB7",
+						"U0302PLQ34Y",
+						"U02UT1XUGFL",
+						"U02ULBJGHF0",
+						"U0302PK342C",
+						"U02V5LTKMPT",
+						"U02V5LT4DLZ"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "TI5",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "GPT-3의 새로운 모델인 "
+								},
+								{
+									"type": "link",
+									"url": "https://beta.openai.com/docs/models/overview",
+									"text": "text-davinci-003",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "가 공개되었습니다.\nOpenAI가 공개한 Text generation 사례는 다음과 같은데, 가끔 숙제에서 ~~ 의 특징이나 장단점을 쓰라고 하면 유용하게 쓰일... 수 있지 않을까요?\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Node.js: Node.js is a JavaScript-based runtime environment that is popular for writing backend applications. Pros: Node.js is fast, lightweight, and easy to learn, and it has a large community of developers. Cons: Node.js can be difficult to debug and there is a lack of robust tools for building large-scale applications.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Django: Django is a popular Python-based web framework. Pros: Django is powerful and well-documented, making it easy to get started. It also supports a wide range of databases and APIs, allowing you to easily integrate with other services. Cons: Django can be difficult to scale for large applications and can be slow for certain types of requests.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Ruby on Rails: Ruby on Rails is a popular web framework based on the Ruby programming language. Pros: Ruby on Rails is easy to learn and can be used to quickly build powerful web applications. It also has a wide range of built-in features, such as authentication and authorization. Cons: Ruby on Rails can be slow and resource-intensive, and it can be difficult to scale.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":1}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": []
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+				"first_name": "3기_송종현",
+				"real_name": "3기_송종현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "hyeongoon",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

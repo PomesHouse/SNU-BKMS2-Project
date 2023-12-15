@@ -1,111 +1,113 @@
-[
-  {
-    "client_msg_id": "f02cd36a-6159-476e-9946-3c80ed0e2c24",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2023 서울대학교 AI연구원 상반기 콜로퀴움 시리즈\n\nㅇ일시: 2023.5.11.(목) 오후 5시\nㅇ장소: 942동 2층 메이커스페이스\nㅇ강연자: 이영기 교수(공대 컴퓨터공학부)\nㅇ주제: 초실감 확장현실",
-    "ts": "1683766504.220959",
-    "files": [
-      {
-        "id": "F0574KTMJ13",
-        "created": 1683766405,
-        "timestamp": 1683766405,
-        "name": "[포스터] 4회차 콜로퀴움 포스터_05.11.pdf",
-        "title": "[포스터] 4회차 콜로퀴움 포스터_05.11.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 282740447,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0574KTMJ13-[포스터] 4회차 콜로퀴움 포스터_05.11.pdf",
-        "url_private_download": "attachments/F0574KTMJ13-[포스터] 4회차 콜로퀴움 포스터_05.11.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0574KTMJ13/____________4______________________________05.11.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0574KTMJ13-62e9ad44e7",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9phw",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2023 서울대학교 AI연구원 상반기 콜로퀴움 시리즈\n\nㅇ일시: 2023.5.11.(목) 오후 5시\nㅇ장소: 942동 2층 메이커스페이스\nㅇ강연자: 이영기 교수(공대 컴퓨터공학부)\nㅇ주제: 초실감 확장현실"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "f02cd36a-6159-476e-9946-3c80ed0e2c24",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2023 서울대학교 AI연구원 상반기 콜로퀴움 시리즈\n\nㅇ일시: 2023.5.11.(목) 오후 5시\nㅇ장소: 942동 2층 메이커스페이스\nㅇ강연자: 이영기 교수(공대 컴퓨터공학부)\nㅇ주제: 초실감 확장현실",
+			"ts": "1683766504.220959",
+			"files": [
+				{
+					"id": "F0574KTMJ13",
+					"created": 1683766405,
+					"timestamp": 1683766405,
+					"name": "[포스터] 4회차 콜로퀴움 포스터_05.11.pdf",
+					"title": "[포스터] 4회차 콜로퀴움 포스터_05.11.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 282740447,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0574KTMJ13-[포스터] 4회차 콜로퀴움 포스터_05.11.pdf",
+					"url_private_download": "attachments/F0574KTMJ13-[포스터] 4회차 콜로퀴움 포스터_05.11.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0574KTMJ13/____________4______________________________05.11.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0574KTMJ13-62e9ad44e7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9phw",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2023 서울대학교 AI연구원 상반기 콜로퀴움 시리즈\n\nㅇ일시: 2023.5.11.(목) 오후 5시\nㅇ장소: 942동 2층 메이커스페이스\nㅇ강연자: 이영기 교수(공대 컴퓨터공학부)\nㅇ주제: 초실감 확장현실"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

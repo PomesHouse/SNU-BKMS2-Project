@@ -1,66 +1,68 @@
-[
-  {
-    "client_msg_id": "faaa7640-2e90-4163-a88b-91fb796dcf50",
-    "type": "message",
-    "user": "U02UT2VQ9NF",
-    "text": "혹시 311호 근처에서 엘지 노트북 충전기 습득하신 분 있으시면 연락바랍니다 :sob:",
-    "ts": "1690515925.243099",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "cry",
-        "count": 5,
-        "users": [
-          "U0406PM050F",
-          "U041B24HMFS",
-          "U0302PLQ34Y",
-          "U02UQ4D8L2Z",
-          "U040C40QE6T"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "M8s",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시 311호 근처에서 엘지 노트북 충전기 습득하신 분 있으시면 연락바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "sob",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
-      "first_name": "3기_송종현",
-      "real_name": "3기_송종현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "hyeongoon",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "faaa7640-2e90-4163-a88b-91fb796dcf50",
+			"type": "message",
+			"user": "U02UT2VQ9NF",
+			"text": "혹시 311호 근처에서 엘지 노트북 충전기 습득하신 분 있으시면 연락바랍니다 :sob:",
+			"ts": "1690515925.243099",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "cry",
+					"count": 5,
+					"users": [
+						"U0406PM050F",
+						"U041B24HMFS",
+						"U0302PLQ34Y",
+						"U02UQ4D8L2Z",
+						"U040C40QE6T"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "M8s",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시 311호 근처에서 엘지 노트북 충전기 습득하신 분 있으시면 연락바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "sob",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+				"first_name": "3기_송종현",
+				"real_name": "3기_송종현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "hyeongoon",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

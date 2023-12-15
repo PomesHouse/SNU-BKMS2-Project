@@ -1,0 +1,122 @@
+{
+	"array": [
+		{
+			"client_msg_id": "bf825641-34f2-460d-8312-206f13e06661",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;(사)서울대학교출판문화원 출판사 편집인턴 채용 공고 안내&gt;\n\n(사)서울대학교출판문화원 출판사 편집인턴 채용 공고를 아래와 같이 안내 하오니 참고하시기 바랍니다.\n\n          가. 채용인원 : ○명\n          나. 지원방법 : <mailto:snubook@snu.ac.kr|snubook@snu.ac.kr> 이메일 접수\n              해당 이메일로 이력서 및 자기소개서 제출\n          다. 접수기간 : 2023. 07. 17 (월) ~ 07. 26 (수)까지\n          라. 내용상세 : 붙임 포스터 참조",
+			"ts": "1689641357.298759",
+			"files": [
+				{
+					"id": "F05H98Q6EDU",
+					"created": 1689641320,
+					"timestamp": 1689641320,
+					"name": "인턴공고포스터(2023)-3.jpg",
+					"title": "인턴공고포스터(2023)-3.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 400890,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05H98Q6EDU-인턴공고포스터(2023)-3.jpg",
+					"url_private_download": "attachments/F05H98Q6EDU-인턴공고포스터(2023)-3.jpg",
+					"original_h": 1276,
+					"original_w": 1191,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05H98Q6EDU-6c41259a7d/______________________2023_-3_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05H98Q6EDU-6c41259a7d/______________________2023_-3_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05H98Q6EDU-6c41259a7d/______________________2023_-3_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05H98Q6EDU-6c41259a7d/______________________2023_-3_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 336,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05H98Q6EDU-6c41259a7d/______________________2023_-3_480.jpg",
+					"thumb_480_w": 448,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05H98Q6EDU-6c41259a7d/______________________2023_-3_720.jpg",
+					"thumb_720_w": 672,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05H98Q6EDU-6c41259a7d/______________________2023_-3_960.jpg",
+					"thumb_960_w": 896,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05H98Q6EDU-6c41259a7d/______________________2023_-3_1024.jpg",
+					"thumb_1024_w": 956,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05H98Q6EDU/______________________2023_-3.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05H98Q6EDU-b782c965b7",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "J0z",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<(사)서울대학교출판문화원 출판사 편집인턴 채용 공고 안내>\n\n(사)서울대학교출판문화원 출판사 편집인턴 채용 공고를 아래와 같이 안내 하오니 참고하시기 바랍니다.\n\n          가. 채용인원 : ○명\n          나. 지원방법 : "
+								},
+								{
+									"type": "link",
+									"url": "mailto:snubook@snu.ac.kr",
+									"text": "snubook@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": " 이메일 접수\n              해당 이메일로 이력서 및 자기소개서 제출\n          다. 접수기간 : 2023. 07. 17 (월) ~ 07. 26 (수)까지\n          라. 내용상세 : 붙임 포스터 참조"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,181 +1,183 @@
-[
-  {
-    "client_msg_id": "dcdf7e0a-0354-43b2-aeab-9131d67a147e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "[에너지신산업 혁신공유대학] 2022학년도 여름 계절수업 부산대학교 학점교류 안내\n\n「에너지신산업 혁신공유대학」2022학년도 여름 계절수업 부산대학교 교류 수학 안내문\n   을 붙임과 같이 안내드리니 신청하실 분들께서는 학과 행정실 담당자에게 메일 주시기 바랍니다.\n\n• 수업기간: 2022. 6. 22.(수) ~ 2022. 7. 19.(화) (4주)\n• 신청방법: 학생이 온라인 신청([붙임3] 매뉴얼 참조) 후 소속 학과(부)에 제출\n",
-    "ts": "1651108194.692729",
-    "files": [
-      {
-        "id": "F03D661PJBX",
-        "created": 1651108181,
-        "timestamp": 1651108181,
-        "name": "붙임1. [에너지신산업 혁신공유대학]2022학년도 여름계절수업 부산대학교 수학 안내문.hwp",
-        "title": "붙임1. [에너지신산업 혁신공유대학]2022학년도 여름계절수업 부산대학교 수학 안내문.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 82944,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03D661PJBX-붙임1. [에너지신산업 혁신공유대학]2022학년도 여름계절수업 부산대학교 수학 안내문.hwp",
-        "url_private_download": "attachments/F03D661PJBX-붙임1. [에너지신산업 혁신공유대학]2022학년도 여름계절수업 부산대학교 수학 안내문.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03D661PJBX/______1.________________________________________2022_____________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03D661PJBX-b940c6060f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F03D937CHR9",
-        "created": 1651108191,
-        "timestamp": 1651108191,
-        "name": "붙임3. 국내교류(OUT)신청매뉴얼_학생용.pdf",
-        "title": "붙임3. 국내교류(OUT)신청매뉴얼_학생용.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 412228,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03D937CHR9-붙임3. 국내교류(OUT)신청매뉴얼_학생용.pdf",
-        "url_private_download": "attachments/F03D937CHR9-붙임3. 국내교류(OUT)신청매뉴얼_학생용.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03D937CHR9/______3.______________out__________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03D937CHR9-c474af07e9",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "nnk",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[에너지신산업 혁신공유대학] 2022학년도 여름 계절수업 부산대학교 학점교류 안내\n\n「에너지신산업 혁신공유대학」2022학년도 여름 계절수업 부산대학교 교류 수학 안내문\n   을 붙임과 같이 안내드리니 신청하실 분들께서는 학과 행정실 담당자에게 메일 주시기 바랍니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\uc5c5\\uae30\\uac04: 2022. 6. 22.(\\uc218) ~ 2022. 7. 19.(\\ud654) (4\\uc8fc)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ubc29\\ubc95: \\ud559\\uc0dd\\uc774 \\uc628\\ub77c\\uc778 \\uc2e0\\uccad([\\ubd99\\uc7843] \\ub9e4\\ub274\\uc5bc \\ucc38\\uc870) \\ud6c4 \\uc18c\\uc18d \\ud559\\uacfc(\\ubd80)\\uc5d0 \\uc81c\\ucd9c\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": []
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "dcdf7e0a-0354-43b2-aeab-9131d67a147e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "[에너지신산업 혁신공유대학] 2022학년도 여름 계절수업 부산대학교 학점교류 안내\n\n「에너지신산업 혁신공유대학」2022학년도 여름 계절수업 부산대학교 교류 수학 안내문\n   을 붙임과 같이 안내드리니 신청하실 분들께서는 학과 행정실 담당자에게 메일 주시기 바랍니다.\n\n• 수업기간: 2022. 6. 22.(수) ~ 2022. 7. 19.(화) (4주)\n• 신청방법: 학생이 온라인 신청([붙임3] 매뉴얼 참조) 후 소속 학과(부)에 제출\n",
+			"ts": "1651108194.692729",
+			"files": [
+				{
+					"id": "F03D661PJBX",
+					"created": 1651108181,
+					"timestamp": 1651108181,
+					"name": "붙임1. [에너지신산업 혁신공유대학]2022학년도 여름계절수업 부산대학교 수학 안내문.hwp",
+					"title": "붙임1. [에너지신산업 혁신공유대학]2022학년도 여름계절수업 부산대학교 수학 안내문.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 82944,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03D661PJBX-붙임1. [에너지신산업 혁신공유대학]2022학년도 여름계절수업 부산대학교 수학 안내문.hwp",
+					"url_private_download": "attachments/F03D661PJBX-붙임1. [에너지신산업 혁신공유대학]2022학년도 여름계절수업 부산대학교 수학 안내문.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03D661PJBX/______1.________________________________________2022_____________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03D661PJBX-b940c6060f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F03D937CHR9",
+					"created": 1651108191,
+					"timestamp": 1651108191,
+					"name": "붙임3. 국내교류(OUT)신청매뉴얼_학생용.pdf",
+					"title": "붙임3. 국내교류(OUT)신청매뉴얼_학생용.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 412228,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03D937CHR9-붙임3. 국내교류(OUT)신청매뉴얼_학생용.pdf",
+					"url_private_download": "attachments/F03D937CHR9-붙임3. 국내교류(OUT)신청매뉴얼_학생용.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03D937CHR9/______3.______________out__________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03D937CHR9-c474af07e9",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "nnk",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[에너지신산업 혁신공유대학] 2022학년도 여름 계절수업 부산대학교 학점교류 안내\n\n「에너지신산업 혁신공유대학」2022학년도 여름 계절수업 부산대학교 교류 수학 안내문\n   을 붙임과 같이 안내드리니 신청하실 분들께서는 학과 행정실 담당자에게 메일 주시기 바랍니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\uc5c5\\uae30\\uac04: 2022. 6. 22.(\\uc218) ~ 2022. 7. 19.(\\ud654) (4\\uc8fc)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ubc29\\ubc95: \\ud559\\uc0dd\\uc774 \\uc628\\ub77c\\uc778 \\uc2e0\\uccad([\\ubd99\\uc7843] \\ub9e4\\ub274\\uc5bc \\ucc38\\uc870) \\ud6c4 \\uc18c\\uc18d \\ud559\\uacfc(\\ubd80)\\uc5d0 \\uc81c\\ucd9c\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": []
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

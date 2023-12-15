@@ -1,160 +1,162 @@
-[
-  {
-    "client_msg_id": "00d011ba-71d0-418a-89ea-f6bda691e424",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 2학기 생활지원장학금 선발 안내\u0026gt;*\n\n2023학년도 2학기 생활지원장학생을 다음과 같이 선발하오니 신청 바랍니다.\n※ 학자금지원구간 조회: 학사행정\u0026gt;장학\u0026gt;기초정보관리\u0026gt;학자금지원구간등록및조회\n\n가. 신청대상: 직장에 고용되지 않은 대학원 재학생\n• 학업과 육아 병행, 치료비 발생, 갑작스러운 경제적 어려움 등으로 학업을 이어가기 어려운 학생\n• 외국인 학생 중 부모님의 경제적 지원을 받기 어려운 학생 (원화 연 환산소득 부+모+본인 합산 5천만원 미만)\n• \n나. 신청자격: 직전학기 평균평점 2.4 이상(기준 미달 시 추천 제외)\n다. 선발인원: 100명\n라. 지원금액: 1인당 월 50만원 * 6개월\n마. 신청기간: 2023. 8. 28.(월) ~ *9. 11.(월)* ※ 신입생은 2023. 9. 1.(금) 이후 신청\n바. 신청방법: 마이스누에서 신청서 작성*(증빙서류는 신청서 작성시 파일첨부)*\n\n*첨부 파일 안내문 필히 정독하고 신청할 것!! 서류 누락 시 선발 대상 제외*",
-    "ts": "1690965584.881799",
-    "files": [
-      {
-        "id": "F05KG8F2X71",
-        "created": 1690965580,
-        "timestamp": 1690965580,
-        "name": "★2023학년도 2학기 생활지원장학금 신청안내(학생안내용).pdf",
-        "title": "★2023학년도 2학기 생활지원장학금 신청안내(학생안내용).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 110660,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05KG8F2X71-★2023학년도 2학기 생활지원장학금 신청안내(학생안내용).pdf",
-        "url_private_download": "attachments/F05KG8F2X71-★2023학년도 2학기 생활지원장학금 신청안내(학생안내용).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05KG8F2X71/___2023__________2__________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05KG8F2X71-02b7238a27",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "7CA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 2학기 생활지원장학금 선발 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2023학년도 2학기 생활지원장학생을 다음과 같이 선발하오니 신청 바랍니다.\n※ 학자금지원구간 조회: 학사행정\u003e장학\u003e기초정보관리\u003e학자금지원구간등록및조회\n\n가. 신청대상: 직장에 고용되지 않은 대학원 재학생\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc5c5\\uacfc \\uc721\\uc544 \\ubcd1\\ud589, \\uce58\\ub8cc\\ube44 \\ubc1c\\uc0dd, \\uac11\\uc791\\uc2a4\\ub7ec\\uc6b4 \\uacbd\\uc81c\\uc801 \\uc5b4\\ub824\\uc6c0 \\ub4f1\\uc73c\\ub85c \\ud559\\uc5c5\\uc744 \\uc774\\uc5b4\\uac00\\uae30 \\uc5b4\\ub824\\uc6b4 \\ud559\\uc0dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc678\\uad6d\\uc778 \\ud559\\uc0dd \\uc911 \\ubd80\\ubaa8\\ub2d8\\uc758 \\uacbd\\uc81c\\uc801 \\uc9c0\\uc6d0\\uc744 \\ubc1b\\uae30 \\uc5b4\\ub824\\uc6b4 \\ud559\\uc0dd (\\uc6d0\\ud654 \\uc5f0 \\ud658\\uc0b0\\uc18c\\ub4dd \\ubd80+\\ubaa8+\\ubcf8\\uc778 \\ud569\\uc0b0 5\\ucc9c\\ub9cc\\uc6d0 \\ubbf8\\ub9cc)\"}]},{\"type\":\"rich_text_section\",\"elements\":[]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "나. 신청자격: 직전학기 평균평점 2.4 이상(기준 미달 시 추천 제외)\n다. 선발인원: 100명\n라. 지원금액: 1인당 월 50만원 * 6개월\n마. 신청기간: 2023. 8. 28.(월) ~ "
-              },
-              {
-                "type": "text",
-                "text": "9. 11.(월) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "※ 신입생은 2023. 9. 1.(금) 이후 신청\n바. 신청방법: 마이스누에서 신청서 작성"
-              },
-              {
-                "type": "text",
-                "text": "(증빙서류는 신청서 작성시 파일첨부)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "첨부 파일 안내문 필히 정독하고 신청할 것!! 서류 누락 시 선발 대상 제외",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "00d011ba-71d0-418a-89ea-f6bda691e424",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 2학기 생활지원장학금 선발 안내&gt;*\n\n2023학년도 2학기 생활지원장학생을 다음과 같이 선발하오니 신청 바랍니다.\n※ 학자금지원구간 조회: 학사행정&gt;장학&gt;기초정보관리&gt;학자금지원구간등록및조회\n\n가. 신청대상: 직장에 고용되지 않은 대학원 재학생\n• 학업과 육아 병행, 치료비 발생, 갑작스러운 경제적 어려움 등으로 학업을 이어가기 어려운 학생\n• 외국인 학생 중 부모님의 경제적 지원을 받기 어려운 학생 (원화 연 환산소득 부+모+본인 합산 5천만원 미만)\n• \n나. 신청자격: 직전학기 평균평점 2.4 이상(기준 미달 시 추천 제외)\n다. 선발인원: 100명\n라. 지원금액: 1인당 월 50만원 * 6개월\n마. 신청기간: 2023. 8. 28.(월) ~ *9. 11.(월)* ※ 신입생은 2023. 9. 1.(금) 이후 신청\n바. 신청방법: 마이스누에서 신청서 작성*(증빙서류는 신청서 작성시 파일첨부)*\n\n*첨부 파일 안내문 필히 정독하고 신청할 것!! 서류 누락 시 선발 대상 제외*",
+			"ts": "1690965584.881799",
+			"files": [
+				{
+					"id": "F05KG8F2X71",
+					"created": 1690965580,
+					"timestamp": 1690965580,
+					"name": "★2023학년도 2학기 생활지원장학금 신청안내(학생안내용).pdf",
+					"title": "★2023학년도 2학기 생활지원장학금 신청안내(학생안내용).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 110660,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05KG8F2X71-★2023학년도 2학기 생활지원장학금 신청안내(학생안내용).pdf",
+					"url_private_download": "attachments/F05KG8F2X71-★2023학년도 2학기 생활지원장학금 신청안내(학생안내용).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05KG8F2X71/___2023__________2__________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05KG8F2X71-02b7238a27",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "7CA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 2학기 생활지원장학금 선발 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2023학년도 2학기 생활지원장학생을 다음과 같이 선발하오니 신청 바랍니다.\n※ 학자금지원구간 조회: 학사행정>장학>기초정보관리>학자금지원구간등록및조회\n\n가. 신청대상: 직장에 고용되지 않은 대학원 재학생\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc5c5\\uacfc \\uc721\\uc544 \\ubcd1\\ud589, \\uce58\\ub8cc\\ube44 \\ubc1c\\uc0dd, \\uac11\\uc791\\uc2a4\\ub7ec\\uc6b4 \\uacbd\\uc81c\\uc801 \\uc5b4\\ub824\\uc6c0 \\ub4f1\\uc73c\\ub85c \\ud559\\uc5c5\\uc744 \\uc774\\uc5b4\\uac00\\uae30 \\uc5b4\\ub824\\uc6b4 \\ud559\\uc0dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc678\\uad6d\\uc778 \\ud559\\uc0dd \\uc911 \\ubd80\\ubaa8\\ub2d8\\uc758 \\uacbd\\uc81c\\uc801 \\uc9c0\\uc6d0\\uc744 \\ubc1b\\uae30 \\uc5b4\\ub824\\uc6b4 \\ud559\\uc0dd (\\uc6d0\\ud654 \\uc5f0 \\ud658\\uc0b0\\uc18c\\ub4dd \\ubd80+\\ubaa8+\\ubcf8\\uc778 \\ud569\\uc0b0 5\\ucc9c\\ub9cc\\uc6d0 \\ubbf8\\ub9cc)\"}]},{\"type\":\"rich_text_section\",\"elements\":[]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "나. 신청자격: 직전학기 평균평점 2.4 이상(기준 미달 시 추천 제외)\n다. 선발인원: 100명\n라. 지원금액: 1인당 월 50만원 * 6개월\n마. 신청기간: 2023. 8. 28.(월) ~ "
+								},
+								{
+									"type": "text",
+									"text": "9. 11.(월) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "※ 신입생은 2023. 9. 1.(금) 이후 신청\n바. 신청방법: 마이스누에서 신청서 작성"
+								},
+								{
+									"type": "text",
+									"text": "(증빙서류는 신청서 작성시 파일첨부)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "첨부 파일 안내문 필히 정독하고 신청할 것!! 서류 누락 시 선발 대상 제외",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

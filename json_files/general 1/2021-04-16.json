@@ -1,661 +1,663 @@
-[
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021학년도 하계 계절수업 수강신청 안내\u0026gt;\n\n21학년도 하계 계절수업과 관련하여 수강신청 일정을 안내드리니 필요하신 경우 확인하시기 바랍니다.\n\n예비수강신청 (토, 일요일 제외)\n2021. 4.27.(화) ~  4.30.(금)\n\n수강신청 (공휴일, 토요일 일요일 제외)\n2021. 5.4.(화) ~ 5.12.(수)\n\n수강신청변경\n2021.5.17.(월) ~ 5.20.(목)\n\n수업료 고지서 출력 및 수업료 납부 (미납시 수강신청 자동취소)\n1차: 2021. 5.26.(수) ~ 5.31.(월)\n최종: 2021.6.3.(목) ~ 6.4. (금)\n\n수강취소\n2021.6.14.(월) ~6.21.(월)",
-    "ts": "1618539773.059800",
-    "files": [
-      {
-        "id": "F01UPF7GDE0",
-        "created": 1618538942,
-        "timestamp": 1618538942,
-        "name": "(붙임1)2021학년도 하계 계절수업 수강신청 안내-복사.pdf",
-        "title": "(붙임1)2021학년도 하계 계절수업 수강신청 안내-복사.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 62181,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01UPF7GDE0-(붙임1)2021학년도 하계 계절수업 수강신청 안내-복사.pdf",
-        "url_private_download": "attachments/F01UPF7GDE0-(붙임1)2021학년도 하계 계절수업 수강신청 안내-복사.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01UPF7GDE0/_______1_2021_________________________________________________-______.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01UPF7GDE0-161eb891fd",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F01V74JSNTS",
-        "created": 1618538945,
-        "timestamp": 1618538945,
-        "name": "(붙임2-2)정원외신청 매뉴얼(국문).pdf",
-        "title": "(붙임2-2)정원외신청 매뉴얼(국문).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1211055,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01V74JSNTS-(붙임2-2)정원외신청 매뉴얼(국문).pdf",
-        "url_private_download": "attachments/F01V74JSNTS-(붙임2-2)정원외신청 매뉴얼(국문).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01V74JSNTS/_______2-2__________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01V74JSNTS-64e6a4a981",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F01UHACBRJN",
-        "created": 1618538947,
-        "timestamp": 1618538947,
-        "name": "(붙임2-1)수강신청시스템 이용자 매뉴얼(국문).pdf",
-        "title": "(붙임2-1)수강신청시스템 이용자 매뉴얼(국문).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 4005145,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01UHACBRJN-(붙임2-1)수강신청시스템 이용자 매뉴얼(국문).pdf",
-        "url_private_download": "attachments/F01UHACBRJN-(붙임2-1)수강신청시스템 이용자 매뉴얼(국문).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01UHACBRJN/_______2-1__________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01UHACBRJN-3a22488270",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F01V74K1G72",
-        "created": 1618538950,
-        "timestamp": 1618538950,
-        "name": "(붙임3)수강신청 부정행위 관련 알림.pdf",
-        "title": "(붙임3)수강신청 부정행위 관련 알림.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 40719,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01V74K1G72-(붙임3)수강신청 부정행위 관련 알림.pdf",
-        "url_private_download": "attachments/F01V74K1G72-(붙임3)수강신청 부정행위 관련 알림.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01V74K1G72/_______3________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F01V74K1G72-90a534a05a",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F01UVUJNFSM",
-        "created": 0,
-        "timestamp": 0,
-        "name": "",
-        "title": "",
-        "mimetype": "",
-        "image_exif_rotation": 0,
-        "filetype": "",
-        "pretty_type": "",
-        "user": "",
-        "mode": "tombstone",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 0,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01UVUJNFSM-",
-        "url_private_download": "attachments/F01UVUJNFSM-",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "",
-        "permalink_public": "",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F01UHGPACRH",
-        "created": 0,
-        "timestamp": 0,
-        "name": "",
-        "title": "",
-        "mimetype": "",
-        "image_exif_rotation": 0,
-        "filetype": "",
-        "pretty_type": "",
-        "user": "",
-        "mode": "tombstone",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 0,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F01UHGPACRH-",
-        "url_private_download": "attachments/F01UHGPACRH-",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "",
-        "permalink_public": "",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "w5S",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 하계 계절수업 수강신청 안내\u003e\n\n21학년도 하계 계절수업과 관련하여 수강신청 일정을 안내드리니 필요하신 경우 확인하시기 바랍니다.\n\n예비수강신청 (토, 일요일 제외)\n2021. 4.27.(화) ~  4.30.(금)\n\n수강신청 (공휴일, 토요일 일요일 제외)\n2021. 5.4.(화) ~ 5.12.(수)\n\n수강신청변경\n2021.5.17.(월) ~ 5.20.(목)\n\n수업료 고지서 출력 및 수업료 납부 (미납시 수강신청 자동취소)\n1차: 2021. 5.26.(수) ~ 5.31.(월)\n최종: 2021.6.3.(목) ~ 6.4. (금)\n\n수강취소\n2021.6.14.(월) ~6.21.(월)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "3e7838b0-6f81-4aa1-841a-67cebf91c928",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt; 중국 칭화대학 Schwarzman Scholars 석사과정 장학 프로그램 지원 안내 및 온라인 설명회 홍보 \u0026gt;*\n\n중국 칭화대학의 Schwarzman Scholars 석사과정 장학 프로그램을 아래와 같이 안내하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n1. 2022년 Schwarzman Scholars 장학 프로그램 지원 요강\n  가. 지원기간: 2021. 4. 14.(수) ~ 2021. 9. 21.(화)\n  나. 모집조건\n   - 자격요건: 학사학위 취득자\n    ※ 졸업예정자는 2022년 8월 1일까지 학사학위 취득이 가능한 자에 한함\n   - 연령요건: 2022년 8월 1일을 기준으로 만 18세~만 29세 사이\n   - 언어요건: TOEFL iBT 100, TOEFL PBT 600, IELTS 7 이상\n    ※ 단 영어가 모국어인 지원자, 또는 영어가 모국어는 아니나 영어를 주 언어로 사용하는 대학(예: 미국 하버드대학, 영국 옥스퍼드대학 등)에서 만 2년이상 교육을 받은 자는 영어성적표 제출 불요\n    ※ 보다 자세한 내용은 홈페이지 참고: \u003chttps://www.schwarzmanscholars.org/admissions/\u003e\n  다. 장학혜택: 칭화대학 Schwarzman Scholars 석사과정 프로그램 전액 지원\n  라. 지원방법: \u003chttps://www.schwarzmanscholars.org/admissions\u003e 에서 개별지원\n\n2. Schwarzman Scholars 장학 프로그램 온라인 설명회 안내\n  가. 내용: 장학 프로그램 전반 및 지원절차 소개\n  나. 신청방법: \u003chttps://connect.schwarzmanscholars.org/portal/info-sessions\u003e 에서 세션별 일정 확인 후 개별신청\n  ※ 보다 자세한 사항은 홈페이지 참고 바랍니다.(\u003chttps://www.schwarzmanscholars.org/\u003e)",
-    "ts": "1618558493.061300",
-    "attachments": [
-      {
-        "fallback": "Schwarzman Scholars: Admissions - Schwarzman Scholars",
-        "id": 1,
-        "title": "Admissions - Schwarzman Scholars",
-        "title_link": "https://www.schwarzmanscholars.org/admissions/",
-        "text": "The Schwarzman Scholars program annually selects up to 200 exceptional individuals for a year-long study in a diverse and interdisciplinary setting.",
-        "service_name": "Schwarzman Scholars",
-        "service_icon": "https://www.schwarzmanscholars.org/wp-content/uploads/2020/03/favicon-196.png",
-        "from_url": "https://www.schwarzmanscholars.org/admissions/",
-        "original_url": "https://www.schwarzmanscholars.org/admissions/",
-        "blocks": null
-      },
-      {
-        "fallback": "Schwarzman Scholars: Admissions - Schwarzman Scholars",
-        "id": 2,
-        "title": "Admissions - Schwarzman Scholars",
-        "title_link": "https://www.schwarzmanscholars.org/admissions",
-        "text": "The Schwarzman Scholars program annually selects up to 200 exceptional individuals for a year-long study in a diverse and interdisciplinary setting.",
-        "service_name": "Schwarzman Scholars",
-        "service_icon": "https://www.schwarzmanscholars.org/wp-content/uploads/2020/03/favicon-196.png",
-        "from_url": "https://www.schwarzmanscholars.org/admissions",
-        "original_url": "https://www.schwarzmanscholars.org/admissions",
-        "blocks": null
-      },
-      {
-        "fallback": "Schwarzman Scholars: Home - Schwarzman Scholars",
-        "id": 3,
-        "title": "Home - Schwarzman Scholars",
-        "title_link": "https://www.schwarzmanscholars.org/",
-        "text": "Apply for a fully-funded, one-year Master’s program in China and gain the global leadership skills and cultural understanding needed to serve as a bridge between China and tomorrow.",
-        "service_name": "Schwarzman Scholars",
-        "service_icon": "https://www.schwarzmanscholars.org/wp-content/uploads/2020/03/favicon-196.png",
-        "from_url": "https://www.schwarzmanscholars.org/",
-        "original_url": "https://www.schwarzmanscholars.org/",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "cedL",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 중국 칭화대학 Schwarzman Scholars 석사과정 장학 프로그램 지원 안내 및 온라인 설명회 홍보 \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n중국 칭화대학의 Schwarzman Scholars 석사과정 장학 프로그램을 아래와 같이 안내하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n1. 2022년 Schwarzman Scholars 장학 프로그램 지원 요강\n  가. 지원기간: 2021. 4. 14.(수) ~ 2021. 9. 21.(화)\n  나. 모집조건\n   - 자격요건: 학사학위 취득자\n    ※ 졸업예정자는 2022년 8월 1일까지 학사학위 취득이 가능한 자에 한함\n   - 연령요건: 2022년 8월 1일을 기준으로 만 18세~만 29세 사이\n   - 언어요건: TOEFL iBT 100, TOEFL PBT 600, IELTS 7 이상\n    ※ 단 영어가 모국어인 지원자, 또는 영어가 모국어는 아니나 영어를 주 언어로 사용하는 대학(예: 미국 하버드대학, 영국 옥스퍼드대학 등)에서 만 2년이상 교육을 받은 자는 영어성적표 제출 불요\n    ※ 보다 자세한 내용은 홈페이지 참고: "
-              },
-              {
-                "type": "link",
-                "url": "https://www.schwarzmanscholars.org/admissions/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n  다. 장학혜택: 칭화대학 Schwarzman Scholars 석사과정 프로그램 전액 지원\n  라. 지원방법: "
-              },
-              {
-                "type": "link",
-                "url": "https://www.schwarzmanscholars.org/admissions",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": " 에서 개별지원\n\n2. Schwarzman Scholars 장학 프로그램 온라인 설명회 안내\n  가. 내용: 장학 프로그램 전반 및 지원절차 소개\n  나. 신청방법: "
-              },
-              {
-                "type": "link",
-                "url": "https://connect.schwarzmanscholars.org/portal/info-sessions",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": " 에서 세션별 일정 확인 후 개별신청\n  ※ 보다 자세한 사항은 홈페이지 참고 바랍니다.("
-              },
-              {
-                "type": "link",
-                "url": "https://www.schwarzmanscholars.org/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "97b7bdda-cb42-4fac-b209-c03dc7de641d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt; 스탠퍼드대학 Knight-Hennessy Scholars 장학 프로그램 온라인 설명회 홍보(세부일정 업데이트) \u0026gt;*\n\n미국 스탠퍼드대학(Stanford University)의 2022 나이트 헤네시(Knight-Hennessy Scholars) 장학 프로그램 온라인 설명회 세부일정을 다음과 같이 안내하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n1. 2022 나이트 헤네시 장학정보\n  가. 지원대상: 스탠퍼드 대학원 석/박사 학위 진학예정자\n  나. 지원자격: 2015. 1월 ~ 2022. 9월 학사학위 취득(예정)자\n  다. 장학혜택: 스탠퍼드 대학원 학비(전액) 및 생활비 지원(3년까지) 등\n  ※지원 공고는 추후 발표 예정\n\n2. 온라인 설명회 세부일정\n  가. 일시/장소: 2021. 4. 28.(수) 12:00 ~ 13:00 / 비대면 진행\n  나. 신청방법: \u003chttps://stanford.io/32c3xSm\u003e 온라인 신청\n  ※자세한 사항은 홈페이지 참고 바랍니다.(\u003chttps://knight-hennessy.stanford.edu/\u003e)",
-    "ts": "1618558621.062200",
-    "attachments": [
-      {
-        "fallback": "Online Information Session (Regional: East Asia)",
-        "id": 1,
-        "title": "Online Information Session (Regional: East Asia)",
-        "title_link": "https://stanford.io/32c3xSm",
-        "text": " ",
-        "service_name": "apply.knight-hennessy.stanford.edu",
-        "service_icon": "http://apply-knight--hennessy-stanford-edu.cdn.technolutions.net/favicon.ico",
-        "from_url": "https://stanford.io/32c3xSm",
-        "original_url": "https://stanford.io/32c3xSm",
-        "blocks": null
-      },
-      {
-        "fallback": "Knight-Hennessy Scholars: Knight-Hennessy Scholars at Stanford University",
-        "id": 2,
-        "title": "Knight-Hennessy Scholars at Stanford University",
-        "title_link": "https://knight-hennessy.stanford.edu/",
-        "text": "Stanford is launching an unparalleled graduate scholarship program, Knight-Hennessy Scholars, to prepare a new generation of distinguished leaders to address global challenges in the 21st century and beyond.",
-        "service_name": "Knight-Hennessy Scholars",
-        "service_icon": "https://knight-hennessy.stanford.edu/sites/all/themes/stanford_framework/favicon.ico",
-        "from_url": "https://knight-hennessy.stanford.edu/",
-        "original_url": "https://knight-hennessy.stanford.edu/",
-        "blocks": null
-      }
-    ],
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1618558673.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ab/n",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 스탠퍼드대학 Knight-Hennessy Scholars 장학 프로그램 온라인 설명회 홍보(세부일정 업데이트) \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n미국 스탠퍼드대학(Stanford University)의 2022 나이트 헤네시(Knight-Hennessy Scholars) 장학 프로그램 온라인 설명회 세부일정을 다음과 같이 안내하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2022 \\ub098\\uc774\\ud2b8 \\ud5e4\\ub124\\uc2dc \\uc7a5\\ud559\\uc815\\ubcf4\"}]}],\"style\":\"ordered\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "  가. 지원대상: 스탠퍼드 대학원 석/박사 학위 진학예정자\n  나. 지원자격: 2015. 1월 ~ 2022. 9월 학사학위 취득(예정)자\n  다. 장학혜택: 스탠퍼드 대학원 학비(전액) 및 생활비 지원(3년까지) 등\n  ※지원 공고는 추후 발표 예정\n\n2. 온라인 설명회 세부일정\n  가. 일시/장소: 2021. 4. 28.(수) 12:00 ~ 13:00 / 비대면 진행\n  나. 신청방법: "
-              },
-              {
-                "type": "link",
-                "url": "https://stanford.io/32c3xSm",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": " 온라인 신청\n  ※자세한 사항은 홈페이지 참고 바랍니다.("
-              },
-              {
-                "type": "link",
-                "url": "https://knight-hennessy.stanford.edu/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021학년도 하계 계절수업 수강신청 안내&gt;\n\n21학년도 하계 계절수업과 관련하여 수강신청 일정을 안내드리니 필요하신 경우 확인하시기 바랍니다.\n\n예비수강신청 (토, 일요일 제외)\n2021. 4.27.(화) ~  4.30.(금)\n\n수강신청 (공휴일, 토요일 일요일 제외)\n2021. 5.4.(화) ~ 5.12.(수)\n\n수강신청변경\n2021.5.17.(월) ~ 5.20.(목)\n\n수업료 고지서 출력 및 수업료 납부 (미납시 수강신청 자동취소)\n1차: 2021. 5.26.(수) ~ 5.31.(월)\n최종: 2021.6.3.(목) ~ 6.4. (금)\n\n수강취소\n2021.6.14.(월) ~6.21.(월)",
+			"ts": "1618539773.059800",
+			"files": [
+				{
+					"id": "F01UPF7GDE0",
+					"created": 1618538942,
+					"timestamp": 1618538942,
+					"name": "(붙임1)2021학년도 하계 계절수업 수강신청 안내-복사.pdf",
+					"title": "(붙임1)2021학년도 하계 계절수업 수강신청 안내-복사.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 62181,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01UPF7GDE0-(붙임1)2021학년도 하계 계절수업 수강신청 안내-복사.pdf",
+					"url_private_download": "attachments/F01UPF7GDE0-(붙임1)2021학년도 하계 계절수업 수강신청 안내-복사.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01UPF7GDE0/_______1_2021_________________________________________________-______.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01UPF7GDE0-161eb891fd",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F01V74JSNTS",
+					"created": 1618538945,
+					"timestamp": 1618538945,
+					"name": "(붙임2-2)정원외신청 매뉴얼(국문).pdf",
+					"title": "(붙임2-2)정원외신청 매뉴얼(국문).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1211055,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01V74JSNTS-(붙임2-2)정원외신청 매뉴얼(국문).pdf",
+					"url_private_download": "attachments/F01V74JSNTS-(붙임2-2)정원외신청 매뉴얼(국문).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01V74JSNTS/_______2-2__________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01V74JSNTS-64e6a4a981",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F01UHACBRJN",
+					"created": 1618538947,
+					"timestamp": 1618538947,
+					"name": "(붙임2-1)수강신청시스템 이용자 매뉴얼(국문).pdf",
+					"title": "(붙임2-1)수강신청시스템 이용자 매뉴얼(국문).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 4005145,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01UHACBRJN-(붙임2-1)수강신청시스템 이용자 매뉴얼(국문).pdf",
+					"url_private_download": "attachments/F01UHACBRJN-(붙임2-1)수강신청시스템 이용자 매뉴얼(국문).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01UHACBRJN/_______2-1__________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01UHACBRJN-3a22488270",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F01V74K1G72",
+					"created": 1618538950,
+					"timestamp": 1618538950,
+					"name": "(붙임3)수강신청 부정행위 관련 알림.pdf",
+					"title": "(붙임3)수강신청 부정행위 관련 알림.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 40719,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01V74K1G72-(붙임3)수강신청 부정행위 관련 알림.pdf",
+					"url_private_download": "attachments/F01V74K1G72-(붙임3)수강신청 부정행위 관련 알림.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F01V74K1G72/_______3________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F01V74K1G72-90a534a05a",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F01UVUJNFSM",
+					"created": 0,
+					"timestamp": 0,
+					"name": "",
+					"title": "",
+					"mimetype": "",
+					"image_exif_rotation": 0,
+					"filetype": "",
+					"pretty_type": "",
+					"user": "",
+					"mode": "tombstone",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 0,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01UVUJNFSM-",
+					"url_private_download": "attachments/F01UVUJNFSM-",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "",
+					"permalink_public": "",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F01UHGPACRH",
+					"created": 0,
+					"timestamp": 0,
+					"name": "",
+					"title": "",
+					"mimetype": "",
+					"image_exif_rotation": 0,
+					"filetype": "",
+					"pretty_type": "",
+					"user": "",
+					"mode": "tombstone",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 0,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F01UHGPACRH-",
+					"url_private_download": "attachments/F01UHGPACRH-",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "",
+					"permalink_public": "",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "w5S",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 하계 계절수업 수강신청 안내>\n\n21학년도 하계 계절수업과 관련하여 수강신청 일정을 안내드리니 필요하신 경우 확인하시기 바랍니다.\n\n예비수강신청 (토, 일요일 제외)\n2021. 4.27.(화) ~  4.30.(금)\n\n수강신청 (공휴일, 토요일 일요일 제외)\n2021. 5.4.(화) ~ 5.12.(수)\n\n수강신청변경\n2021.5.17.(월) ~ 5.20.(목)\n\n수업료 고지서 출력 및 수업료 납부 (미납시 수강신청 자동취소)\n1차: 2021. 5.26.(수) ~ 5.31.(월)\n최종: 2021.6.3.(목) ~ 6.4. (금)\n\n수강취소\n2021.6.14.(월) ~6.21.(월)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "3e7838b0-6f81-4aa1-841a-67cebf91c928",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt; 중국 칭화대학 Schwarzman Scholars 석사과정 장학 프로그램 지원 안내 및 온라인 설명회 홍보 &gt;*\n\n중국 칭화대학의 Schwarzman Scholars 석사과정 장학 프로그램을 아래와 같이 안내하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n1. 2022년 Schwarzman Scholars 장학 프로그램 지원 요강\n  가. 지원기간: 2021. 4. 14.(수) ~ 2021. 9. 21.(화)\n  나. 모집조건\n   - 자격요건: 학사학위 취득자\n    ※ 졸업예정자는 2022년 8월 1일까지 학사학위 취득이 가능한 자에 한함\n   - 연령요건: 2022년 8월 1일을 기준으로 만 18세~만 29세 사이\n   - 언어요건: TOEFL iBT 100, TOEFL PBT 600, IELTS 7 이상\n    ※ 단 영어가 모국어인 지원자, 또는 영어가 모국어는 아니나 영어를 주 언어로 사용하는 대학(예: 미국 하버드대학, 영국 옥스퍼드대학 등)에서 만 2년이상 교육을 받은 자는 영어성적표 제출 불요\n    ※ 보다 자세한 내용은 홈페이지 참고: <https://www.schwarzmanscholars.org/admissions/>\n  다. 장학혜택: 칭화대학 Schwarzman Scholars 석사과정 프로그램 전액 지원\n  라. 지원방법: <https://www.schwarzmanscholars.org/admissions> 에서 개별지원\n\n2. Schwarzman Scholars 장학 프로그램 온라인 설명회 안내\n  가. 내용: 장학 프로그램 전반 및 지원절차 소개\n  나. 신청방법: <https://connect.schwarzmanscholars.org/portal/info-sessions> 에서 세션별 일정 확인 후 개별신청\n  ※ 보다 자세한 사항은 홈페이지 참고 바랍니다.(<https://www.schwarzmanscholars.org/>)",
+			"ts": "1618558493.061300",
+			"attachments": [
+				{
+					"fallback": "Schwarzman Scholars: Admissions - Schwarzman Scholars",
+					"id": 1,
+					"title": "Admissions - Schwarzman Scholars",
+					"title_link": "https://www.schwarzmanscholars.org/admissions/",
+					"text": "The Schwarzman Scholars program annually selects up to 200 exceptional individuals for a year-long study in a diverse and interdisciplinary setting.",
+					"service_name": "Schwarzman Scholars",
+					"service_icon": "https://www.schwarzmanscholars.org/wp-content/uploads/2020/03/favicon-196.png",
+					"from_url": "https://www.schwarzmanscholars.org/admissions/",
+					"original_url": "https://www.schwarzmanscholars.org/admissions/",
+					"blocks": null
+				},
+				{
+					"fallback": "Schwarzman Scholars: Admissions - Schwarzman Scholars",
+					"id": 2,
+					"title": "Admissions - Schwarzman Scholars",
+					"title_link": "https://www.schwarzmanscholars.org/admissions",
+					"text": "The Schwarzman Scholars program annually selects up to 200 exceptional individuals for a year-long study in a diverse and interdisciplinary setting.",
+					"service_name": "Schwarzman Scholars",
+					"service_icon": "https://www.schwarzmanscholars.org/wp-content/uploads/2020/03/favicon-196.png",
+					"from_url": "https://www.schwarzmanscholars.org/admissions",
+					"original_url": "https://www.schwarzmanscholars.org/admissions",
+					"blocks": null
+				},
+				{
+					"fallback": "Schwarzman Scholars: Home - Schwarzman Scholars",
+					"id": 3,
+					"title": "Home - Schwarzman Scholars",
+					"title_link": "https://www.schwarzmanscholars.org/",
+					"text": "Apply for a fully-funded, one-year Master’s program in China and gain the global leadership skills and cultural understanding needed to serve as a bridge between China and tomorrow.",
+					"service_name": "Schwarzman Scholars",
+					"service_icon": "https://www.schwarzmanscholars.org/wp-content/uploads/2020/03/favicon-196.png",
+					"from_url": "https://www.schwarzmanscholars.org/",
+					"original_url": "https://www.schwarzmanscholars.org/",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "cedL",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 중국 칭화대학 Schwarzman Scholars 석사과정 장학 프로그램 지원 안내 및 온라인 설명회 홍보 >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n중국 칭화대학의 Schwarzman Scholars 석사과정 장학 프로그램을 아래와 같이 안내하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n1. 2022년 Schwarzman Scholars 장학 프로그램 지원 요강\n  가. 지원기간: 2021. 4. 14.(수) ~ 2021. 9. 21.(화)\n  나. 모집조건\n   - 자격요건: 학사학위 취득자\n    ※ 졸업예정자는 2022년 8월 1일까지 학사학위 취득이 가능한 자에 한함\n   - 연령요건: 2022년 8월 1일을 기준으로 만 18세~만 29세 사이\n   - 언어요건: TOEFL iBT 100, TOEFL PBT 600, IELTS 7 이상\n    ※ 단 영어가 모국어인 지원자, 또는 영어가 모국어는 아니나 영어를 주 언어로 사용하는 대학(예: 미국 하버드대학, 영국 옥스퍼드대학 등)에서 만 2년이상 교육을 받은 자는 영어성적표 제출 불요\n    ※ 보다 자세한 내용은 홈페이지 참고: "
+								},
+								{
+									"type": "link",
+									"url": "https://www.schwarzmanscholars.org/admissions/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n  다. 장학혜택: 칭화대학 Schwarzman Scholars 석사과정 프로그램 전액 지원\n  라. 지원방법: "
+								},
+								{
+									"type": "link",
+									"url": "https://www.schwarzmanscholars.org/admissions",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": " 에서 개별지원\n\n2. Schwarzman Scholars 장학 프로그램 온라인 설명회 안내\n  가. 내용: 장학 프로그램 전반 및 지원절차 소개\n  나. 신청방법: "
+								},
+								{
+									"type": "link",
+									"url": "https://connect.schwarzmanscholars.org/portal/info-sessions",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": " 에서 세션별 일정 확인 후 개별신청\n  ※ 보다 자세한 사항은 홈페이지 참고 바랍니다.("
+								},
+								{
+									"type": "link",
+									"url": "https://www.schwarzmanscholars.org/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "97b7bdda-cb42-4fac-b209-c03dc7de641d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt; 스탠퍼드대학 Knight-Hennessy Scholars 장학 프로그램 온라인 설명회 홍보(세부일정 업데이트) &gt;*\n\n미국 스탠퍼드대학(Stanford University)의 2022 나이트 헤네시(Knight-Hennessy Scholars) 장학 프로그램 온라인 설명회 세부일정을 다음과 같이 안내하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n1. 2022 나이트 헤네시 장학정보\n  가. 지원대상: 스탠퍼드 대학원 석/박사 학위 진학예정자\n  나. 지원자격: 2015. 1월 ~ 2022. 9월 학사학위 취득(예정)자\n  다. 장학혜택: 스탠퍼드 대학원 학비(전액) 및 생활비 지원(3년까지) 등\n  ※지원 공고는 추후 발표 예정\n\n2. 온라인 설명회 세부일정\n  가. 일시/장소: 2021. 4. 28.(수) 12:00 ~ 13:00 / 비대면 진행\n  나. 신청방법: <https://stanford.io/32c3xSm> 온라인 신청\n  ※자세한 사항은 홈페이지 참고 바랍니다.(<https://knight-hennessy.stanford.edu/>)",
+			"ts": "1618558621.062200",
+			"attachments": [
+				{
+					"fallback": "Online Information Session (Regional: East Asia)",
+					"id": 1,
+					"title": "Online Information Session (Regional: East Asia)",
+					"title_link": "https://stanford.io/32c3xSm",
+					"text": " ",
+					"service_name": "apply.knight-hennessy.stanford.edu",
+					"service_icon": "http://apply-knight--hennessy-stanford-edu.cdn.technolutions.net/favicon.ico",
+					"from_url": "https://stanford.io/32c3xSm",
+					"original_url": "https://stanford.io/32c3xSm",
+					"blocks": null
+				},
+				{
+					"fallback": "Knight-Hennessy Scholars: Knight-Hennessy Scholars at Stanford University",
+					"id": 2,
+					"title": "Knight-Hennessy Scholars at Stanford University",
+					"title_link": "https://knight-hennessy.stanford.edu/",
+					"text": "Stanford is launching an unparalleled graduate scholarship program, Knight-Hennessy Scholars, to prepare a new generation of distinguished leaders to address global challenges in the 21st century and beyond.",
+					"service_name": "Knight-Hennessy Scholars",
+					"service_icon": "https://knight-hennessy.stanford.edu/sites/all/themes/stanford_framework/favicon.ico",
+					"from_url": "https://knight-hennessy.stanford.edu/",
+					"original_url": "https://knight-hennessy.stanford.edu/",
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1618558673.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ab/n",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 스탠퍼드대학 Knight-Hennessy Scholars 장학 프로그램 온라인 설명회 홍보(세부일정 업데이트) >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n미국 스탠퍼드대학(Stanford University)의 2022 나이트 헤네시(Knight-Hennessy Scholars) 장학 프로그램 온라인 설명회 세부일정을 다음과 같이 안내하오니, 관심 있는 학생들의 많은 참여 바랍니다.\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2022 \\ub098\\uc774\\ud2b8 \\ud5e4\\ub124\\uc2dc \\uc7a5\\ud559\\uc815\\ubcf4\"}]}],\"style\":\"ordered\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "  가. 지원대상: 스탠퍼드 대학원 석/박사 학위 진학예정자\n  나. 지원자격: 2015. 1월 ~ 2022. 9월 학사학위 취득(예정)자\n  다. 장학혜택: 스탠퍼드 대학원 학비(전액) 및 생활비 지원(3년까지) 등\n  ※지원 공고는 추후 발표 예정\n\n2. 온라인 설명회 세부일정\n  가. 일시/장소: 2021. 4. 28.(수) 12:00 ~ 13:00 / 비대면 진행\n  나. 신청방법: "
+								},
+								{
+									"type": "link",
+									"url": "https://stanford.io/32c3xSm",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": " 온라인 신청\n  ※자세한 사항은 홈페이지 참고 바랍니다.("
+								},
+								{
+									"type": "link",
+									"url": "https://knight-hennessy.stanford.edu/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,134 +1,136 @@
-[
-  {
-    "client_msg_id": "822d6c33-16ff-4f4e-9eb7-786e14856f94",
-    "type": "message",
-    "user": "U02V5LS84JV",
-    "text": ":mega:[3.5기 학생회 모집]:mega:\n\n3.5기 여러분 안녕하세요! :raised_hands:\n무더운 여름방학 잘 보내고 계신가요?\n9월부터 새로운 학기가 시작되어, 이에 앞서 전체 학생대표로 활동할 3.5기 분들을 모십니다.\n전체 학생대표, 부대표에게는 *학교측에서 소정의 장학금을 지급할 예정*이니, 참고 바랍니다.\n입후보하고 싶으신 분들은 \u003c@U02V5LS84JV\u003e 에게 DM으로 연락 주세요:pray:\nex) 대표 후보: 이효진, 부대표 후보: 권유진 출마합니다\n\n또한 한 학기 동안 우리 대학원을 대표할 학생회를 꾸리는 것인 만큼 많은 투표도 미리 부탁 드립니다.\n읽어주셔서 감사합니다!\n\n*모집 일정 및 절차*\n• 후보자 등록 기간 : 7/26(공지시점)~7/31(월) 오후 6시\n• 지원 방법: \u003c@U02V5LS84JV\u003e 에게 학번과 이름을 적어서 DM으로 지원\n• 모집 인원: 2명 (대표 1명, 부대표 1명)\n• 학생대표 임기: 당선일 ~ 2월 말까지\n• 예정 선거 기간: 8/1(화)  ~ 8/3(목) 23:59\n• 석.박.석박 통합 과정 무관\n• 입후보자가 없을시 회칙에 따라서 대표 위촉\n",
-    "ts": "1690347633.312159",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 8,
-        "users": [
-          "U02V5LU4ED7",
-          "U01Q1KFN4JK",
-          "U041B24C16U",
-          "U02ULBH3TEJ",
-          "U02V5LT2XFB",
-          "U02UVAT3BPW",
-          "U02ULBHV58W",
-          "U02UT2UKVEX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "egE",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "emoji",
-                "name": "mega",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "[3.5기 학생회 모집]"
-              },
-              {
-                "type": "emoji",
-                "name": "mega",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n3.5기 여러분 안녕하세요! "
-              },
-              {
-                "type": "emoji",
-                "name": "raised_hands",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n무더운 여름방학 잘 보내고 계신가요?\n9월부터 새로운 학기가 시작되어, 이에 앞서 전체 학생대표로 활동할 3.5기 분들을 모십니다.\n전체 학생대표, 부대표에게는 "
-              },
-              {
-                "type": "text",
-                "text": "학교측에서 소정의 장학금을 지급할 예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "이니, 참고 바랍니다.\n입후보하고 싶으신 분들은 "
-              },
-              {
-                "type": "user",
-                "user_id": "U02V5LS84JV"
-              },
-              {
-                "type": "text",
-                "text": " 에게 DM으로 연락 주세요"
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\nex) 대표 후보: 이효진, 부대표 후보: 권유진 출마합니다\n\n또한 한 학기 동안 우리 대학원을 대표할 학생회를 꾸리는 것인 만큼 많은 투표도 미리 부탁 드립니다.\n읽어주셔서 감사합니다!\n\n"
-              },
-              {
-                "type": "text",
-                "text": "모집 일정 및 절차",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud6c4\\ubcf4\\uc790 \\ub4f1\\ub85d \\uae30\\uac04 : 7\\/26(\\uacf5\\uc9c0\\uc2dc\\uc810)~7\\/31(\\uc6d4) \\uc624\\ud6c4 6\\uc2dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c0\\uc6d0 \\ubc29\\ubc95: \"},{\"type\":\"user\",\"user_id\":\"U02V5LS84JV\"},{\"type\":\"text\",\"text\":\" \\uc5d0\\uac8c \\ud559\\ubc88\\uacfc \\uc774\\ub984\\uc744 \\uc801\\uc5b4\\uc11c DM\\uc73c\\ub85c \\uc9c0\\uc6d0\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1 \\uc778\\uc6d0: 2\\uba85 (\\ub300\\ud45c 1\\uba85, \\ubd80\\ub300\\ud45c 1\\uba85)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc0dd\\ub300\\ud45c \\uc784\\uae30: \\ub2f9\\uc120\\uc77c ~ 2\\uc6d4 \\ub9d0\\uae4c\\uc9c0\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc608\\uc815 \\uc120\\uac70 \\uae30\\uac04: 8\\/1(\\ud654)  ~ 8\\/3(\\ubaa9) 23:59\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc11d.\\ubc15.\\uc11d\\ubc15 \\ud1b5\\ud569 \\uacfc\\uc815 \\ubb34\\uad00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc785\\ud6c4\\ubcf4\\uc790\\uac00 \\uc5c6\\uc744\\uc2dc \\ud68c\\uce59\\uc5d0 \\ub530\\ub77c\\uc11c \\ub300\\ud45c \\uc704\\ucd09\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": []
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
-      "first_name": "이효진",
-      "real_name": "이효진",
-      "display_name": "3기_이효진",
-      "team": "T01QA5S537V",
-      "name": "sarahhyojin",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "822d6c33-16ff-4f4e-9eb7-786e14856f94",
+			"type": "message",
+			"user": "U02V5LS84JV",
+			"text": ":mega:[3.5기 학생회 모집]:mega:\n\n3.5기 여러분 안녕하세요! :raised_hands:\n무더운 여름방학 잘 보내고 계신가요?\n9월부터 새로운 학기가 시작되어, 이에 앞서 전체 학생대표로 활동할 3.5기 분들을 모십니다.\n전체 학생대표, 부대표에게는 *학교측에서 소정의 장학금을 지급할 예정*이니, 참고 바랍니다.\n입후보하고 싶으신 분들은 <@U02V5LS84JV> 에게 DM으로 연락 주세요:pray:\nex) 대표 후보: 이효진, 부대표 후보: 권유진 출마합니다\n\n또한 한 학기 동안 우리 대학원을 대표할 학생회를 꾸리는 것인 만큼 많은 투표도 미리 부탁 드립니다.\n읽어주셔서 감사합니다!\n\n*모집 일정 및 절차*\n• 후보자 등록 기간 : 7/26(공지시점)~7/31(월) 오후 6시\n• 지원 방법: <@U02V5LS84JV> 에게 학번과 이름을 적어서 DM으로 지원\n• 모집 인원: 2명 (대표 1명, 부대표 1명)\n• 학생대표 임기: 당선일 ~ 2월 말까지\n• 예정 선거 기간: 8/1(화)  ~ 8/3(목) 23:59\n• 석.박.석박 통합 과정 무관\n• 입후보자가 없을시 회칙에 따라서 대표 위촉\n",
+			"ts": "1690347633.312159",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 8,
+					"users": [
+						"U02V5LU4ED7",
+						"U01Q1KFN4JK",
+						"U041B24C16U",
+						"U02ULBH3TEJ",
+						"U02V5LT2XFB",
+						"U02UVAT3BPW",
+						"U02ULBHV58W",
+						"U02UT2UKVEX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "egE",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "emoji",
+									"name": "mega",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "[3.5기 학생회 모집]"
+								},
+								{
+									"type": "emoji",
+									"name": "mega",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n3.5기 여러분 안녕하세요! "
+								},
+								{
+									"type": "emoji",
+									"name": "raised_hands",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n무더운 여름방학 잘 보내고 계신가요?\n9월부터 새로운 학기가 시작되어, 이에 앞서 전체 학생대표로 활동할 3.5기 분들을 모십니다.\n전체 학생대표, 부대표에게는 "
+								},
+								{
+									"type": "text",
+									"text": "학교측에서 소정의 장학금을 지급할 예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "이니, 참고 바랍니다.\n입후보하고 싶으신 분들은 "
+								},
+								{
+									"type": "user",
+									"user_id": "U02V5LS84JV"
+								},
+								{
+									"type": "text",
+									"text": " 에게 DM으로 연락 주세요"
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\nex) 대표 후보: 이효진, 부대표 후보: 권유진 출마합니다\n\n또한 한 학기 동안 우리 대학원을 대표할 학생회를 꾸리는 것인 만큼 많은 투표도 미리 부탁 드립니다.\n읽어주셔서 감사합니다!\n\n"
+								},
+								{
+									"type": "text",
+									"text": "모집 일정 및 절차",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud6c4\\ubcf4\\uc790 \\ub4f1\\ub85d \\uae30\\uac04 : 7\\/26(\\uacf5\\uc9c0\\uc2dc\\uc810)~7\\/31(\\uc6d4) \\uc624\\ud6c4 6\\uc2dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c0\\uc6d0 \\ubc29\\ubc95: \"},{\"type\":\"user\",\"user_id\":\"U02V5LS84JV\"},{\"type\":\"text\",\"text\":\" \\uc5d0\\uac8c \\ud559\\ubc88\\uacfc \\uc774\\ub984\\uc744 \\uc801\\uc5b4\\uc11c DM\\uc73c\\ub85c \\uc9c0\\uc6d0\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1 \\uc778\\uc6d0: 2\\uba85 (\\ub300\\ud45c 1\\uba85, \\ubd80\\ub300\\ud45c 1\\uba85)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc0dd\\ub300\\ud45c \\uc784\\uae30: \\ub2f9\\uc120\\uc77c ~ 2\\uc6d4 \\ub9d0\\uae4c\\uc9c0\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc608\\uc815 \\uc120\\uac70 \\uae30\\uac04: 8\\/1(\\ud654)  ~ 8\\/3(\\ubaa9) 23:59\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc11d.\\ubc15.\\uc11d\\ubc15 \\ud1b5\\ud569 \\uacfc\\uc815 \\ubb34\\uad00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc785\\ud6c4\\ubcf4\\uc790\\uac00 \\uc5c6\\uc744\\uc2dc \\ud68c\\uce59\\uc5d0 \\ub530\\ub77c\\uc11c \\ub300\\ud45c \\uc704\\ucd09\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": []
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+				"first_name": "이효진",
+				"real_name": "이효진",
+				"display_name": "3기_이효진",
+				"team": "T01QA5S537V",
+				"name": "sarahhyojin",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

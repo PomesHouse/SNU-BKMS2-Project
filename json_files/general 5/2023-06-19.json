@@ -1,386 +1,388 @@
-[
-  {
-    "client_msg_id": "08c7ab61-4a01-43f2-a5df-13f24bc94bff",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023년 실험실 특화형 창업선도대학 사업 *대학원생 창업동아리 모집 안내\u0026gt;*\n\n○ 신청자격\n - 동아리 구성: 대표 1인을 포함하여 최소 2인 이상으로 구성된 *대학원생 팀*\n · 대표: 본교 석·박사 과정 학생(휴학생 지원 가능)\n · 팀원: 대학(원) 학생(휴학생 지원 가능)\n · 동아리 지도교수: 본교 소속 전임 또는 비전임 교원\n ※ 지도교수 기재 필수\n\n○ 지원내용\n - 창업동아리 활동운영비 지원*(팀당 최대 500만 원)*\n - 사업화 전문가 멘토링 지원\n - 예비창업자를 위한 교육 프로그램\n - 서울대학교 창업전용공간(32-1동)회의실 및 디바이스 랩 지원\n\n○ 제출서류\n *① 대학원생 창업동아리 지원 신청서 및 사업계획서(지정양식)*\n *② 발표자료(자유양식, 5분 발표 분량)*\n ③ 개인정보이용 수집·제공 동의서\n ④ 재적증명서\n ⑤ 사실증명서(총 사업자등록내역 적시)\n ※ 사업자등록 사실이 있을시, 기술 아이템이 다르면 지원가능\n\n○ 제출방법\n*\u003chttps://startup.snu.ac.kr/front/application/read?caseId=495|서울대학교 창업지원단 홈페이지-\u003e프로그램신청\u0026gt;*-\u0026gt;제출서류 다운로드 및 작성 - 신청하기-\u0026gt;제출서류 업로드 및 제출\n\n○ *신청기한: ~ 2023. 6. 22.(목) 18시까지*\n\n○ *문의처: 산학협력단 기술창업부 남승희(*:phone:*02-880-2224, e-mail: \u003cmailto:happyamazon@snu.ac.kr|happyamazon@snu.ac.kr\u003e)*\n\n○ *기타 자세한 사항은 붙임의 모집 공고를 참고해주시기 바랍니다.*",
-    "ts": "1687166943.283739",
-    "attachments": [
-      {
-        "fallback": "서울대학교 창업지원단",
-        "id": 1,
-        "title": "서울대학교 창업지원단",
-        "title_link": "https://startup.snu.ac.kr/front/application/read?caseId=495",
-        "text": "서울대학교 창업지원단 소개, 공간예약, 디바이스 대여, 프로그램 신청",
-        "thumb_url": "https://startup.snu.ac.kr/thumb.file?category=preview\u0026fileId=201\u0026width=800\u0026height=400",
-        "service_name": "startup.snu.ac.kr",
-        "from_url": "https://startup.snu.ac.kr/front/application/read?caseId=495",
-        "original_url": "https://startup.snu.ac.kr/front/application/read?caseId=495",
-        "blocks": null
-      }
-    ],
-    "files": [
-      {
-        "id": "F05DHH5KM6V",
-        "created": 1687166896,
-        "timestamp": 1687166896,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 220186,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05DHH5KM6V-image.png",
-        "url_private_download": "attachments/F05DHH5KM6V-image.png",
-        "original_h": 701,
-        "original_w": 501,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 257,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_480.png",
-        "thumb_480_w": 343,
-        "thumb_480_h": 480,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05DHH5KM6V/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05DHH5KM6V-6e35513606",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05D4U6892N",
-        "created": 1687166937,
-        "timestamp": 1687166937,
-        "name": "2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 모집 공고.hwp",
-        "title": "2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 모집 공고.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 69120,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05D4U6892N-2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 모집 공고.hwp",
-        "url_private_download": "attachments/F05D4U6892N-2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 모집 공고.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05D4U6892N/2023_________________________________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05D4U6892N-a9cfe83f6f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05D4QHH2SX",
-        "created": 1687166939,
-        "timestamp": 1687166939,
-        "name": "2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 제출 서류.hwp",
-        "title": "2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 제출 서류.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 82944,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05D4QHH2SX-2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 제출 서류.hwp",
-        "url_private_download": "attachments/F05D4QHH2SX-2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 제출 서류.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05D4QHH2SX/2023_________________________________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05D4QHH2SX-62267e6200",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "/vR",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 실험실 특화형 창업선도대학 사업 "
-              },
-              {
-                "type": "text",
-                "text": "대학원생 창업동아리 모집 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n○ 신청자격\n - 동아리 구성: 대표 1인을 포함하여 최소 2인 이상으로 구성된 "
-              },
-              {
-                "type": "text",
-                "text": "대학원생 팀",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n · 대표: 본교 석·박사 과정 학생(휴학생 지원 가능)\n · 팀원: 대학(원) 학생(휴학생 지원 가능)\n · 동아리 지도교수: 본교 소속 전임 또는 비전임 교원\n ※ 지도교수 기재 필수\n\n○ 지원내용\n - 창업동아리 활동운영비 지원"
-              },
-              {
-                "type": "text",
-                "text": "(팀당 최대 500만 원)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - 사업화 전문가 멘토링 지원\n - 예비창업자를 위한 교육 프로그램\n - 서울대학교 창업전용공간(32-1동)회의실 및 디바이스 랩 지원\n\n○ 제출서류\n"
-              },
-              {
-                "type": "text",
-                "text": " ① 대학원생 창업동아리 지원 신청서 및 사업계획서(지정양식)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " ② 발표자료(자유양식, 5분 발표 분량)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "③ 개인정보이용 수집·제공 동의서\n ④ 재적증명서\n ⑤ 사실증명서(총 사업자등록내역 적시)\n ※ 사업자등록 사실이 있을시, 기술 아이템이 다르면 지원가능\n\n○ 제출방법\n"
-              },
-              {
-                "type": "link",
-                "url": "https://startup.snu.ac.kr/front/application/read?caseId=495",
-                "text": "서울대학교 창업지원단 홈페이지-\u003e프로그램신청",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "-\u003e제출서류 다운로드 및 작성 - 신청하기-\u003e제출서류 업로드 및 제출\n\n○ "
-              },
-              {
-                "type": "text",
-                "text": "신청기한: ~ 2023. 6. 22.(목) 18시까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n○ "
-              },
-              {
-                "type": "text",
-                "text": "문의처: 산학협력단 기술창업부 남승희(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "phone",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "02-880-2224, e-mail: ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:happyamazon@snu.ac.kr",
-                "text": "happyamazon@snu.ac.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n○"
-              },
-              {
-                "type": "text",
-                "text": " 기타 자세한 사항은 붙임의 모집 공고를 참고해주시기 바랍니다.",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "08c7ab61-4a01-43f2-a5df-13f24bc94bff",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023년 실험실 특화형 창업선도대학 사업 *대학원생 창업동아리 모집 안내&gt;*\n\n○ 신청자격\n - 동아리 구성: 대표 1인을 포함하여 최소 2인 이상으로 구성된 *대학원생 팀*\n · 대표: 본교 석·박사 과정 학생(휴학생 지원 가능)\n · 팀원: 대학(원) 학생(휴학생 지원 가능)\n · 동아리 지도교수: 본교 소속 전임 또는 비전임 교원\n ※ 지도교수 기재 필수\n\n○ 지원내용\n - 창업동아리 활동운영비 지원*(팀당 최대 500만 원)*\n - 사업화 전문가 멘토링 지원\n - 예비창업자를 위한 교육 프로그램\n - 서울대학교 창업전용공간(32-1동)회의실 및 디바이스 랩 지원\n\n○ 제출서류\n *① 대학원생 창업동아리 지원 신청서 및 사업계획서(지정양식)*\n *② 발표자료(자유양식, 5분 발표 분량)*\n ③ 개인정보이용 수집·제공 동의서\n ④ 재적증명서\n ⑤ 사실증명서(총 사업자등록내역 적시)\n ※ 사업자등록 사실이 있을시, 기술 아이템이 다르면 지원가능\n\n○ 제출방법\n*<https://startup.snu.ac.kr/front/application/read?caseId=495|서울대학교 창업지원단 홈페이지->프로그램신청&gt;*-&gt;제출서류 다운로드 및 작성 - 신청하기-&gt;제출서류 업로드 및 제출\n\n○ *신청기한: ~ 2023. 6. 22.(목) 18시까지*\n\n○ *문의처: 산학협력단 기술창업부 남승희(*:phone:*02-880-2224, e-mail: <mailto:happyamazon@snu.ac.kr|happyamazon@snu.ac.kr>)*\n\n○ *기타 자세한 사항은 붙임의 모집 공고를 참고해주시기 바랍니다.*",
+			"ts": "1687166943.283739",
+			"attachments": [
+				{
+					"fallback": "서울대학교 창업지원단",
+					"id": 1,
+					"title": "서울대학교 창업지원단",
+					"title_link": "https://startup.snu.ac.kr/front/application/read?caseId=495",
+					"text": "서울대학교 창업지원단 소개, 공간예약, 디바이스 대여, 프로그램 신청",
+					"thumb_url": "https://startup.snu.ac.kr/thumb.file?category=preview&fileId=201&width=800&height=400",
+					"service_name": "startup.snu.ac.kr",
+					"from_url": "https://startup.snu.ac.kr/front/application/read?caseId=495",
+					"original_url": "https://startup.snu.ac.kr/front/application/read?caseId=495",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F05DHH5KM6V",
+					"created": 1687166896,
+					"timestamp": 1687166896,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 220186,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05DHH5KM6V-image.png",
+					"url_private_download": "attachments/F05DHH5KM6V-image.png",
+					"original_h": 701,
+					"original_w": 501,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 257,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05DHH5KM6V-4a0858b1e0/image_480.png",
+					"thumb_480_w": 343,
+					"thumb_480_h": 480,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05DHH5KM6V/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05DHH5KM6V-6e35513606",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05D4U6892N",
+					"created": 1687166937,
+					"timestamp": 1687166937,
+					"name": "2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 모집 공고.hwp",
+					"title": "2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 모집 공고.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 69120,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05D4U6892N-2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 모집 공고.hwp",
+					"url_private_download": "attachments/F05D4U6892N-2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 모집 공고.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05D4U6892N/2023_________________________________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05D4U6892N-a9cfe83f6f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05D4QHH2SX",
+					"created": 1687166939,
+					"timestamp": 1687166939,
+					"name": "2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 제출 서류.hwp",
+					"title": "2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 제출 서류.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 82944,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05D4QHH2SX-2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 제출 서류.hwp",
+					"url_private_download": "attachments/F05D4QHH2SX-2023년 「실험실 특화형 창업선도대학」사업 대학원생 창업동아리 제출 서류.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05D4QHH2SX/2023_________________________________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05D4QHH2SX-62267e6200",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "/vR",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 실험실 특화형 창업선도대학 사업 "
+								},
+								{
+									"type": "text",
+									"text": "대학원생 창업동아리 모집 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n○ 신청자격\n - 동아리 구성: 대표 1인을 포함하여 최소 2인 이상으로 구성된 "
+								},
+								{
+									"type": "text",
+									"text": "대학원생 팀",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n · 대표: 본교 석·박사 과정 학생(휴학생 지원 가능)\n · 팀원: 대학(원) 학생(휴학생 지원 가능)\n · 동아리 지도교수: 본교 소속 전임 또는 비전임 교원\n ※ 지도교수 기재 필수\n\n○ 지원내용\n - 창업동아리 활동운영비 지원"
+								},
+								{
+									"type": "text",
+									"text": "(팀당 최대 500만 원)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - 사업화 전문가 멘토링 지원\n - 예비창업자를 위한 교육 프로그램\n - 서울대학교 창업전용공간(32-1동)회의실 및 디바이스 랩 지원\n\n○ 제출서류\n"
+								},
+								{
+									"type": "text",
+									"text": " ① 대학원생 창업동아리 지원 신청서 및 사업계획서(지정양식)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " ② 발표자료(자유양식, 5분 발표 분량)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "③ 개인정보이용 수집·제공 동의서\n ④ 재적증명서\n ⑤ 사실증명서(총 사업자등록내역 적시)\n ※ 사업자등록 사실이 있을시, 기술 아이템이 다르면 지원가능\n\n○ 제출방법\n"
+								},
+								{
+									"type": "link",
+									"url": "https://startup.snu.ac.kr/front/application/read?caseId=495",
+									"text": "서울대학교 창업지원단 홈페이지->프로그램신청",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "->제출서류 다운로드 및 작성 - 신청하기->제출서류 업로드 및 제출\n\n○ "
+								},
+								{
+									"type": "text",
+									"text": "신청기한: ~ 2023. 6. 22.(목) 18시까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n○ "
+								},
+								{
+									"type": "text",
+									"text": "문의처: 산학협력단 기술창업부 남승희(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "phone",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "02-880-2224, e-mail: ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:happyamazon@snu.ac.kr",
+									"text": "happyamazon@snu.ac.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n○"
+								},
+								{
+									"type": "text",
+									"text": " 기타 자세한 사항은 붙임의 모집 공고를 참고해주시기 바랍니다.",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

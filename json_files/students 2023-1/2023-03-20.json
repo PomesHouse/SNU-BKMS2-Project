@@ -1,309 +1,311 @@
-[
-  {
-    "client_msg_id": "4dc4951f-a6b3-42eb-87cd-49c86dca1135",
-    "type": "message",
-    "user": "U02ULBH3TEJ",
-    "text": "[총엠티 참여조사]\n\n안녕하세요! 대학원에서 아래와 같이 총엠티를 계획중에 있어 참여 수요조사를 실시하려 합니다.\n(본 조사는 지도교수 미배정자 및 4기를 대상으로 하는 조사입니다. 랩 소속이 있으신 분들은 랩별로 별도의 조사가 진행되오니 본 조사에는 참여하지 않으셔도 됩니다.)\n\n********\n총엠티 계획 (아래 사항은 모두 미정으로 변동가능)\n- 일정: 5월 19(금)~20(토)\n- 장소: 오크밸리 리조트\n- 학생 참가비: 만 원\n********\n\n예정된 프로그램 중에 '지도교수 배정 설명회'가 있으니 아직 랩에 배정되지 않으신 분들은 참고하시면 좋을 것 같습니다.\n참여를 원하시면 아래 투표에서 참석에 투표해주시면 됩니다 :slightly_smiling_face:",
-    "ts": "1679282304.266629",
-    "thread_ts": "1679282304.266629",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U04R6NSR66L",
-        "ts": "1679283219.563969"
-      },
-      {
-        "user": "U02ULBH3TEJ",
-        "ts": "1679284109.986989"
-      }
-    ],
-    "latest_reply": "1679284109.986989",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "star-struck",
-        "count": 1,
-        "users": [
-          "U040MB432JW"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "o7sLQ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[총엠티 참여조사]\n\n안녕하세요! 대학원에서 아래와 같이 총엠티를 계획중에 있어 참여 수요조사를 실시하려 합니다.\n(본 조사는 지도교수 미배정자 및 4기를 대상으로 하는 조사입니다. 랩 소속이 있으신 분들은 랩별로 별도의 조사가 진행되오니 본 조사에는 참여하지 않으셔도 됩니다.)\n\n********\n총엠티 계획 (아래 사항은 모두 미정으로 변동가능)\n- 일정: 5월 19(금)~20(토)\n- 장소: 오크밸리 리조트\n- 학생 참가비: 만 원\n********\n\n예정된 프로그램 중에 '지도교수 배정 설명회'가 있으니 아직 랩에 배정되지 않으신 분들은 참고하시면 좋을 것 같습니다.\n참여를 원하시면 아래 투표에서 참석에 투표해주시면 됩니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "slightly_smiling_face",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
-      "first_name": "3기_권유진",
-      "real_name": "3기_권유진",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "ideastraw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U02ULBH3TEJ",
-      "U04R6NSR66L"
-    ]
-  },
-  {
-    "type": "message",
-    "user": "U033LSELLQM",
-    "text": "*This polly is closed.* \u003c@U02ULBH3TEJ\u003e has a polly for you!",
-    "ts": "1679282358.423509",
-    "edited": {
-      "user": "B033PPVGHTM",
-      "ts": "1680054971.000000"
-    },
-    "bot_id": "B033PPVGHTM",
-    "bot_profile": {
-      "app_id": "A04E6JX41",
-      "icons": {
-        "image_36": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_36.png",
-        "image_48": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_48.png",
-        "image_72": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_72.png"
-      },
-      "id": "B033PPVGHTM",
-      "name": "Polly",
-      "team_id": "T01QA5S537V",
-      "updated": 1645173446
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "section",
-        "text": {
-          "type": "mrkdwn",
-          "text": "*총엠티 참여 수요조사*",
-          "verbatim": true
-        },
-        "block_id": "jR+",
-        "accessory": {
-          "type": "overflow",
-          "action_id": "PollMessage(vBxrZteLP48cLfumE).PollMessageOverflowMenu()",
-          "options": [
-            {
-              "text": {
-                "type": "plain_text",
-                "text": "Settings",
-                "emoji": true
-              },
-              "value": "settings"
-            }
-          ]
-        }
-      },
-      {
-        "type": "section",
-        "text": {
-          "type": "mrkdwn",
-          "text": "This polly is closed.",
-          "verbatim": true
-        },
-        "block_id": "KyTo"
-      },
-      {
-        "type": "section",
-        "block_id": "hMsK",
-        "fields": [
-          {
-            "type": "mrkdwn",
-            "text": "참석  \n\n`██████████████████████ ⁢ ⁢ ⁢`  |  91% (48)\n\n\u003c@U04R6NSR66L\u003e, \u003c@U04QVLEGY3B\u003e, \u003c@U04QVM3TUD7\u003e + 45 more",
-            "verbatim": true
-          },
-          {
-            "type": "mrkdwn",
-            "text": "불참  \n\n`██ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  9% (5)\n\n\u003c@U04QAE6FHV4\u003e, \u003c@U04Q2G465SB\u003e, \u003c@U040ENMBB1C\u003e + 2 more",
-            "verbatim": true
-          }
-        ]
-      },
-      {
-        "type": "context",
-        "block_id": "E2H",
-        "elements": [
-          {
-            "type": "mrkdwn",
-            "text": "*Total Votes*: 53",
-            "verbatim": true
-          }
-        ]
-      },
-      {
-        "type": "actions",
-        "block_id": "SjfwQ",
-        "elements": [
-          {
-            "type": "button",
-            "text": {
-              "type": "plain_text",
-              "text": "View All Responses ",
-              "emoji": true
-            },
-            "action_id": "PollMessage(vBxrZteLP48cLfumE).ViewAllResponsesButton"
-          }
-        ]
-      },
-      {
-        "type": "divider",
-        "block_id": "8HNe9"
-      },
-      {
-        "type": "context",
-        "block_id": "tUR",
-        "elements": [
-          {
-            "type": "mrkdwn",
-            "text": "Sender: @3기_권유진 | :unlock: *Responses:* Non-Anonymous | *:clock930: Closed: *\u003c!date^1679887157^{date_short} at {time}|Mar 27, 2023 at 03:19 AM\u003e",
-            "verbatim": true
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": null,
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "5662fcfe-9f94-4315-8dcc-840e69210a7d",
-    "type": "message",
-    "user": "U04R6NSR66L",
-    "text": "혹시 날짜 확정은 언제쯤이면 될 수 있을까요??",
-    "ts": "1679283219.563969",
-    "thread_ts": "1679282304.266629",
-    "parent_user_id": "U02ULBH3TEJ",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "M1OSV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시 날짜 확정은 언제쯤이면 될 수 있을까요??"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/ee8128d67c8c0861fd3af002ecb9aed3.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
-      "first_name": "4기_이서원",
-      "real_name": "4기_이서원",
-      "display_name": "4기_이서원",
-      "team": "T01QA5S537V",
-      "name": "uniqueseouh",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "c861d54f-5e38-4a50-a8dc-257c462ef1e3",
-    "type": "message",
-    "user": "U02ULBH3TEJ",
-    "text": "일정은 저희도 전달받은 내용이라 언제 확정될지는 확답드리기 어려울것같습니다ㅠ",
-    "ts": "1679284109.986989",
-    "thread_ts": "1679282304.266629",
-    "parent_user_id": "U02ULBH3TEJ",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "slightly_smiling_face",
-        "count": 1,
-        "users": [
-          "U04R6NSR66L"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "lQ2I",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "일정은 저희도 전달받은 내용이라 언제 확정될지는 확답드리기 어려울것같습니다ㅠ"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
-      "first_name": "3기_권유진",
-      "real_name": "3기_권유진",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "ideastraw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "4dc4951f-a6b3-42eb-87cd-49c86dca1135",
+			"type": "message",
+			"user": "U02ULBH3TEJ",
+			"text": "[총엠티 참여조사]\n\n안녕하세요! 대학원에서 아래와 같이 총엠티를 계획중에 있어 참여 수요조사를 실시하려 합니다.\n(본 조사는 지도교수 미배정자 및 4기를 대상으로 하는 조사입니다. 랩 소속이 있으신 분들은 랩별로 별도의 조사가 진행되오니 본 조사에는 참여하지 않으셔도 됩니다.)\n\n********\n총엠티 계획 (아래 사항은 모두 미정으로 변동가능)\n- 일정: 5월 19(금)~20(토)\n- 장소: 오크밸리 리조트\n- 학생 참가비: 만 원\n********\n\n예정된 프로그램 중에 '지도교수 배정 설명회'가 있으니 아직 랩에 배정되지 않으신 분들은 참고하시면 좋을 것 같습니다.\n참여를 원하시면 아래 투표에서 참석에 투표해주시면 됩니다 :slightly_smiling_face:",
+			"ts": "1679282304.266629",
+			"thread_ts": "1679282304.266629",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U04R6NSR66L",
+					"ts": "1679283219.563969"
+				},
+				{
+					"user": "U02ULBH3TEJ",
+					"ts": "1679284109.986989"
+				}
+			],
+			"latest_reply": "1679284109.986989",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "star-struck",
+					"count": 1,
+					"users": [
+						"U040MB432JW"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "o7sLQ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[총엠티 참여조사]\n\n안녕하세요! 대학원에서 아래와 같이 총엠티를 계획중에 있어 참여 수요조사를 실시하려 합니다.\n(본 조사는 지도교수 미배정자 및 4기를 대상으로 하는 조사입니다. 랩 소속이 있으신 분들은 랩별로 별도의 조사가 진행되오니 본 조사에는 참여하지 않으셔도 됩니다.)\n\n********\n총엠티 계획 (아래 사항은 모두 미정으로 변동가능)\n- 일정: 5월 19(금)~20(토)\n- 장소: 오크밸리 리조트\n- 학생 참가비: 만 원\n********\n\n예정된 프로그램 중에 '지도교수 배정 설명회'가 있으니 아직 랩에 배정되지 않으신 분들은 참고하시면 좋을 것 같습니다.\n참여를 원하시면 아래 투표에서 참석에 투표해주시면 됩니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "slightly_smiling_face",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+				"first_name": "3기_권유진",
+				"real_name": "3기_권유진",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "ideastraw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U02ULBH3TEJ",
+				"U04R6NSR66L"
+			]
+		},
+		{
+			"type": "message",
+			"user": "U033LSELLQM",
+			"text": "*This polly is closed.* <@U02ULBH3TEJ> has a polly for you!",
+			"ts": "1679282358.423509",
+			"edited": {
+				"user": "B033PPVGHTM",
+				"ts": "1680054971.000000"
+			},
+			"bot_id": "B033PPVGHTM",
+			"bot_profile": {
+				"app_id": "A04E6JX41",
+				"icons": {
+					"image_36": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_36.png",
+					"image_48": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_48.png",
+					"image_72": "https://avatars.slack-edge.com/2020-10-26/1466083688641_05afc842ead4d799a4fc_72.png"
+				},
+				"id": "B033PPVGHTM",
+				"name": "Polly",
+				"team_id": "T01QA5S537V",
+				"updated": 1645173446
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "section",
+					"text": {
+						"type": "mrkdwn",
+						"text": "*총엠티 참여 수요조사*",
+						"verbatim": true
+					},
+					"block_id": "jR+",
+					"accessory": {
+						"type": "overflow",
+						"action_id": "PollMessage(vBxrZteLP48cLfumE).PollMessageOverflowMenu()",
+						"options": [
+							{
+								"text": {
+									"type": "plain_text",
+									"text": "Settings",
+									"emoji": true
+								},
+								"value": "settings"
+							}
+						]
+					}
+				},
+				{
+					"type": "section",
+					"text": {
+						"type": "mrkdwn",
+						"text": "This polly is closed.",
+						"verbatim": true
+					},
+					"block_id": "KyTo"
+				},
+				{
+					"type": "section",
+					"block_id": "hMsK",
+					"fields": [
+						{
+							"type": "mrkdwn",
+							"text": "참석  \n\n`██████████████████████ ⁢ ⁢ ⁢`  |  91% (48)\n\n<@U04R6NSR66L>, <@U04QVLEGY3B>, <@U04QVM3TUD7> + 45 more",
+							"verbatim": true
+						},
+						{
+							"type": "mrkdwn",
+							"text": "불참  \n\n`██ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢ ⁢`  |  9% (5)\n\n<@U04QAE6FHV4>, <@U04Q2G465SB>, <@U040ENMBB1C> + 2 more",
+							"verbatim": true
+						}
+					]
+				},
+				{
+					"type": "context",
+					"block_id": "E2H",
+					"elements": [
+						{
+							"type": "mrkdwn",
+							"text": "*Total Votes*: 53",
+							"verbatim": true
+						}
+					]
+				},
+				{
+					"type": "actions",
+					"block_id": "SjfwQ",
+					"elements": [
+						{
+							"type": "button",
+							"text": {
+								"type": "plain_text",
+								"text": "View All Responses ",
+								"emoji": true
+							},
+							"action_id": "PollMessage(vBxrZteLP48cLfumE).ViewAllResponsesButton"
+						}
+					]
+				},
+				{
+					"type": "divider",
+					"block_id": "8HNe9"
+				},
+				{
+					"type": "context",
+					"block_id": "tUR",
+					"elements": [
+						{
+							"type": "mrkdwn",
+							"text": "Sender: @3기_권유진 | :unlock: *Responses:* Non-Anonymous | *:clock930: Closed: *<!date^1679887157^{date_short} at {time}|Mar 27, 2023 at 03:19 AM>",
+							"verbatim": true
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": null,
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "5662fcfe-9f94-4315-8dcc-840e69210a7d",
+			"type": "message",
+			"user": "U04R6NSR66L",
+			"text": "혹시 날짜 확정은 언제쯤이면 될 수 있을까요??",
+			"ts": "1679283219.563969",
+			"thread_ts": "1679282304.266629",
+			"parent_user_id": "U02ULBH3TEJ",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "M1OSV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시 날짜 확정은 언제쯤이면 될 수 있을까요??"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/ee8128d67c8c0861fd3af002ecb9aed3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+				"first_name": "4기_이서원",
+				"real_name": "4기_이서원",
+				"display_name": "4기_이서원",
+				"team": "T01QA5S537V",
+				"name": "uniqueseouh",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "c861d54f-5e38-4a50-a8dc-257c462ef1e3",
+			"type": "message",
+			"user": "U02ULBH3TEJ",
+			"text": "일정은 저희도 전달받은 내용이라 언제 확정될지는 확답드리기 어려울것같습니다ㅠ",
+			"ts": "1679284109.986989",
+			"thread_ts": "1679282304.266629",
+			"parent_user_id": "U02ULBH3TEJ",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "slightly_smiling_face",
+					"count": 1,
+					"users": [
+						"U04R6NSR66L"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "lQ2I",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "일정은 저희도 전달받은 내용이라 언제 확정될지는 확답드리기 어려울것같습니다ㅠ"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+				"first_name": "3기_권유진",
+				"real_name": "3기_권유진",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "ideastraw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

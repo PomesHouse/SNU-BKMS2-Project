@@ -1,280 +1,282 @@
-[
-  {
-    "client_msg_id": "1d1ca08d-8308-43d4-b360-4f0841b7ffc5",
-    "type": "message",
-    "user": "U01QNSM488Z",
-    "text": "안녕하세요. 이런 글을 올리기가 썩 기분이 좋진 않지만, 더 나은 환경을 위해 글을 남깁니다.:sob:\n오늘 점심에 정수기 위에 이렇게 잔반을 모아놓은 채로 올려놓은걸 확인했는데요, 아마 잠깐 자리를 비우셨나보다 하고 5시쯤 가보니 여전히 제자리에 있어서 제가 우선 치워두었습니다.\n일부러 그러신건 아니겠지만, 음식물 같은 경우에는 위생상 좋지 않으니 가급적 식사 후 바로 처리를 부탁드리겠습니다. :pray:\n감사합니다~",
-    "ts": "1636015657.008500",
-    "thread_ts": "1636015657.008500",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01QZRUNBA4",
-        "ts": "1636015707.009100"
-      },
-      {
-        "user": "U01QAE5DERZ",
-        "ts": "1636015733.010100"
-      }
-    ],
-    "latest_reply": "1636015733.010100",
-    "files": [
-      {
-        "id": "F02KQRGRLBH",
-        "created": 1636015513,
-        "timestamp": 1636015513,
-        "name": "KakaoTalk_Photo_2021-11-04-17-44-45.png",
-        "title": "KakaoTalk_Photo_2021-11-04-17-44-45.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNSM488Z",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1579507,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02KQRGRLBH-KakaoTalk_Photo_2021-11-04-17-44-45.png",
-        "url_private_download": "attachments/F02KQRGRLBH-KakaoTalk_Photo_2021-11-04-17-44-45.png",
-        "original_h": 1280,
-        "original_w": 960,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_480.png",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_720.png",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_960.png",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_1024.png",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNSM488Z/F02KQRGRLBH/kakaotalk_photo_2021-11-04-17-44-45.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02KQRGRLBH-458e1f0c39",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 5,
-        "users": [
-          "U01QAE573J7",
-          "U01Q75KNV1T",
-          "U01QGG6A5LJ",
-          "U01QA85T90A",
-          "U01QDANUYVB"
-        ]
-      },
-      {
-        "name": "smiling_face_with_tear",
-        "count": 11,
-        "users": [
-          "U01QAE5DERZ",
-          "U01QZRUNBA4",
-          "U01Q75KNV1T",
-          "U01PVEU1A07",
-          "U01Q386CMKQ",
-          "U01PVETV83H",
-          "U01Q3A8TXU6",
-          "U01QV1WAPL1",
-          "U01QAE5BVEX",
-          "U01QNSMEY0Z",
-          "U01QDANUYVB"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "KQWp",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요. 이런 글을 올리기가 썩 기분이 좋진 않지만, 더 나은 환경을 위해 글을 남깁니다."
-              },
-              {
-                "type": "emoji",
-                "name": "sob",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n오늘 점심에 정수기 위에 이렇게 잔반을 모아놓은 채로 올려놓은걸 확인했는데요, 아마 잠깐 자리를 비우셨나보다 하고 5시쯤 가보니 여전히 제자리에 있어서 제가 우선 치워두었습니다.\n일부러 그러신건 아니겠지만, 음식물 같은 경우에는 위생상 좋지 않으니 가급적 식사 후 바로 처리를 부탁드리겠습니다. "
-              },
-              {
-                "type": "emoji",
-                "name": "pray",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n감사합니다~"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
-      "first_name": "1기_황태현",
-      "real_name": "1기_황태현",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "th.hwang",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01QAE5DERZ",
-      "U01QZRUNBA4"
-    ]
-  },
-  {
-    "client_msg_id": "F6BC3795-9A19-4722-B742-76A89EBCA1CA",
-    "type": "message",
-    "user": "U01QZRUNBA4",
-    "text": "....?! :thinking_face: ",
-    "ts": "1636015707.009100",
-    "thread_ts": "1636015657.008500",
-    "parent_user_id": "U01QNSM488Z",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "REDc",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "....?! "
-              },
-              {
-                "type": "emoji",
-                "name": "thinking_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " "
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
-      "first_name": "3기_최현준",
-      "real_name": "3기_최현준",
-      "display_name": "3기_최현준",
-      "team": "T01QA5S537V",
-      "name": "nschj1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "BAACA747-20EF-47A2-97C0-D71ABC48349A",
-    "type": "message",
-    "user": "U01QAE5DERZ",
-    "text": "ㅠㅠ고생하셧어요형",
-    "ts": "1636015733.010100",
-    "thread_ts": "1636015657.008500",
-    "parent_user_id": "U01QNSM488Z",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "SIH",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "ㅠㅠ고생하셧어요형"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-09/1847548809364_34c58a403222aee8100b_72.png",
-      "first_name": "1기_장우석",
-      "real_name": "1기_장우석",
-      "display_name": "1기_장우석",
-      "team": "T01QA5S537V",
-      "name": "wscwsc92",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "1d1ca08d-8308-43d4-b360-4f0841b7ffc5",
+			"type": "message",
+			"user": "U01QNSM488Z",
+			"text": "안녕하세요. 이런 글을 올리기가 썩 기분이 좋진 않지만, 더 나은 환경을 위해 글을 남깁니다.:sob:\n오늘 점심에 정수기 위에 이렇게 잔반을 모아놓은 채로 올려놓은걸 확인했는데요, 아마 잠깐 자리를 비우셨나보다 하고 5시쯤 가보니 여전히 제자리에 있어서 제가 우선 치워두었습니다.\n일부러 그러신건 아니겠지만, 음식물 같은 경우에는 위생상 좋지 않으니 가급적 식사 후 바로 처리를 부탁드리겠습니다. :pray:\n감사합니다~",
+			"ts": "1636015657.008500",
+			"thread_ts": "1636015657.008500",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01QZRUNBA4",
+					"ts": "1636015707.009100"
+				},
+				{
+					"user": "U01QAE5DERZ",
+					"ts": "1636015733.010100"
+				}
+			],
+			"latest_reply": "1636015733.010100",
+			"files": [
+				{
+					"id": "F02KQRGRLBH",
+					"created": 1636015513,
+					"timestamp": 1636015513,
+					"name": "KakaoTalk_Photo_2021-11-04-17-44-45.png",
+					"title": "KakaoTalk_Photo_2021-11-04-17-44-45.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNSM488Z",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1579507,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02KQRGRLBH-KakaoTalk_Photo_2021-11-04-17-44-45.png",
+					"url_private_download": "attachments/F02KQRGRLBH-KakaoTalk_Photo_2021-11-04-17-44-45.png",
+					"original_h": 1280,
+					"original_w": 960,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_480.png",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_720.png",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_960.png",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02KQRGRLBH-2d624452cf/kakaotalk_photo_2021-11-04-17-44-45_1024.png",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNSM488Z/F02KQRGRLBH/kakaotalk_photo_2021-11-04-17-44-45.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02KQRGRLBH-458e1f0c39",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 5,
+					"users": [
+						"U01QAE573J7",
+						"U01Q75KNV1T",
+						"U01QGG6A5LJ",
+						"U01QA85T90A",
+						"U01QDANUYVB"
+					]
+				},
+				{
+					"name": "smiling_face_with_tear",
+					"count": 11,
+					"users": [
+						"U01QAE5DERZ",
+						"U01QZRUNBA4",
+						"U01Q75KNV1T",
+						"U01PVEU1A07",
+						"U01Q386CMKQ",
+						"U01PVETV83H",
+						"U01Q3A8TXU6",
+						"U01QV1WAPL1",
+						"U01QAE5BVEX",
+						"U01QNSMEY0Z",
+						"U01QDANUYVB"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "KQWp",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요. 이런 글을 올리기가 썩 기분이 좋진 않지만, 더 나은 환경을 위해 글을 남깁니다."
+								},
+								{
+									"type": "emoji",
+									"name": "sob",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n오늘 점심에 정수기 위에 이렇게 잔반을 모아놓은 채로 올려놓은걸 확인했는데요, 아마 잠깐 자리를 비우셨나보다 하고 5시쯤 가보니 여전히 제자리에 있어서 제가 우선 치워두었습니다.\n일부러 그러신건 아니겠지만, 음식물 같은 경우에는 위생상 좋지 않으니 가급적 식사 후 바로 처리를 부탁드리겠습니다. "
+								},
+								{
+									"type": "emoji",
+									"name": "pray",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n감사합니다~"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+				"first_name": "1기_황태현",
+				"real_name": "1기_황태현",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "th.hwang",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01QAE5DERZ",
+				"U01QZRUNBA4"
+			]
+		},
+		{
+			"client_msg_id": "F6BC3795-9A19-4722-B742-76A89EBCA1CA",
+			"type": "message",
+			"user": "U01QZRUNBA4",
+			"text": "....?! :thinking_face: ",
+			"ts": "1636015707.009100",
+			"thread_ts": "1636015657.008500",
+			"parent_user_id": "U01QNSM488Z",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "REDc",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "....?! "
+								},
+								{
+									"type": "emoji",
+									"name": "thinking_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " "
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+				"first_name": "3기_최현준",
+				"real_name": "3기_최현준",
+				"display_name": "3기_최현준",
+				"team": "T01QA5S537V",
+				"name": "nschj1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "BAACA747-20EF-47A2-97C0-D71ABC48349A",
+			"type": "message",
+			"user": "U01QAE5DERZ",
+			"text": "ㅠㅠ고생하셧어요형",
+			"ts": "1636015733.010100",
+			"thread_ts": "1636015657.008500",
+			"parent_user_id": "U01QNSM488Z",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "SIH",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "ㅠㅠ고생하셧어요형"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-09/1847548809364_34c58a403222aee8100b_72.png",
+				"first_name": "1기_장우석",
+				"real_name": "1기_장우석",
+				"display_name": "1기_장우석",
+				"team": "T01QA5S537V",
+				"name": "wscwsc92",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

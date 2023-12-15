@@ -1,677 +1,679 @@
-[
-  {
-    "client_msg_id": "81838830-99e2-4083-af9f-d5e6243135cb",
-    "type": "message",
-    "user": "U01R678KWP2",
-    "text": "\u003c@U01QNJ7PWRX\u003e 안녕하세요, 논문 제출 예정자 등록은 mysnu\u0026gt;논문관련\u0026gt;\u003chttps://shine.snu.ac.kr/mysnu/subIndex_haksa.html?_portal=S%7C08%7CS080101%7Cko#|논문/실적심사 신청/취소\u003e 항목에서 하는 것이 맞을까요? 감사합니다.",
-    "ts": "1665974577.196819",
-    "thread_ts": "1665707086.163489",
-    "edited": {
-      "user": "U01R678KWP2",
-      "ts": "1666069051.000000"
-    },
-    "parent_user_id": "U01QNJ7PWRX",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "kOcbu",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "user",
-                "user_id": "U01QNJ7PWRX"
-              },
-              {
-                "type": "text",
-                "text": " 안녕하세요, 논문 제출 예정자 등록은 mysnu\u003e논문관련\u003e"
-              },
-              {
-                "type": "link",
-                "url": "https://shine.snu.ac.kr/mysnu/subIndex_haksa.html?_portal=S%7C08%7CS080101%7Cko#",
-                "text": "논문/실적심사 신청/취소"
-              },
-              {
-                "type": "text",
-                "text": " 항목에서 하는 것이 맞을까요? 감사합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
-      "first_name": "조동규",
-      "real_name": "조동규",
-      "display_name": "2기_조동규",
-      "team": "T01QA5S537V",
-      "name": "kulupapa1127",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "7928b2d8-9fcb-440a-a4b9-ad9eb87f0f97",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;웹메일시스템 종료에 따른 서비스 변경 안내\u0026gt;\n\n학내 메일시스템은 자체 운영하는 웹메일서비스와 클라우드서비스(두레이, 구글Gmail)가 있으나,\n*웹메일시스템이 노후화되어 시스템 운영을 종료하고 클라우드 메일 서비스로 전면 전환*하고자 합니다.\n*시스템 전환시 메일주소(@snu.ac.kr)는 유지되고, 전환일 기준으로 수신 및 발신 메일은 신규 서비스에서 처리*됩니다.\n이에 웹메일 이용자들은 다음을 참고하여 데이타 백업 및 향후 이용에 참고하시기 바랍니다.\n\n상세내용은 붙임을 참고하시기 바랍니다.",
-    "ts": "1665983380.189969",
-    "files": [
-      {
-        "id": "F046U824YKE",
-        "created": 1665983375,
-        "timestamp": 1665983375,
-        "name": "웹메일시스템 종료에 따른 서비스 변경 안내.pdf",
-        "title": "웹메일시스템 종료에 따른 서비스 변경 안내.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 232810,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F046U824YKE-웹메일시스템 종료에 따른 서비스 변경 안내.pdf",
-        "url_private_download": "attachments/F046U824YKE-웹메일시스템 종료에 따른 서비스 변경 안내.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046U824YKE/___________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F046U824YKE-ed9391b1b1",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "EkMGZ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c웹메일시스템 종료에 따른 서비스 변경 안내\u003e\n\n학내 메일시스템은 자체 운영하는 웹메일서비스와 클라우드서비스(두레이, 구글Gmail)가 있으나,\n"
-              },
-              {
-                "type": "text",
-                "text": "웹메일시스템이 노후화되어 시스템 운영을 종료하고 클라우드 메일 서비스로 전면 전환",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하고자 합니다.\n"
-              },
-              {
-                "type": "text",
-                "text": "시스템 전환시 메일주소(@snu.ac.kr)는 유지되고, 전환일 기준으로 수신 및 발신 메일은 신규 서비스에서 처리",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "됩니다.\n이에 웹메일 이용자들은 다음을 참고하여 데이타 백업 및 향후 이용에 참고하시기 바랍니다.\n\n상세내용은 붙임을 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "a3d7ec74-867e-41d8-81be-a41bfc2f7066",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;한국전자통신연구원 디지털 라이프 로그 및 감성 데이터 활용을 위한 전문가 조사 안내\u0026gt; *[지원자 충원완료되어 마감되었습니다]*\n\n~ㅁ한국전자통신연구원과 함께 에스티리서치에서 우리 대학원 학생들의 좌담회 참석 요청이 있습니다.~\n~ㅁ일시: 10. 24.(월) 오후 14시 ~ 2시간 내외 진행~\n~ㅁ장소: 서울특별시 서초구 강남대로37길 26, 5층 에스티리서치(서초동) 양재역 1번출구~\n~ㅁ내용~\n~- 감성 인공지능 소개~\n~\u003chttps://nanum.etri.re.kr/share/kjnoh/KEMDy20?lang=ko_KR\u003e~\n~\u003chttps://nanum.etri.re.kr/share/kjnoh/KEMDy19?lang=ko_KR\u003e~\n~- 사업을 위한 데이터 확보 방법, 데이터 확보 및 AI 관련된 애로사항~\n~- 미래 서비스에 대한 계획 및 전망~\n~- AI 기반 웰케어 서비스에 대한 사회 확산, 역기능, 대응방안 의견~\n\n~ㅁ 사례비: 20만원 (참여해준 학생들에게 증정)~\n\n~* 자세한 내용은 첨부드린 공문 확인부탁드리며, 추가 문의사항 있으시면 언제든지 연락부탁드립니다(김현정 \u003ctel:07044437416|070-4443-7416\u003e)~\n\n~ㅁ신청방법: 신청하고자하는 학생은 2022. 10. 19.(수) 13시까지 \u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e 로 신청메일 보내주세요.(메일 본문에 성명, 연락처 기재 바랍니다.)~",
-    "ts": "1665989909.575839",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1666071634.000000"
-    },
-    "files": [
-      {
-        "id": "F046KFPJCDC",
-        "created": 1665989884,
-        "timestamp": 1665989884,
-        "name": "(한국전자통신연구원)디지털 라이프 로그감성 데이터 활용을 위한 전문가 조사(공문).pdf",
-        "title": "(한국전자통신연구원)디지털 라이프 로그감성 데이터 활용을 위한 전문가 조사(공문).pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 55785,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F046KFPJCDC-(한국전자통신연구원)디지털 라이프 로그감성 데이터 활용을 위한 전문가 조사(공문).pdf",
-        "url_private_download": "attachments/F046KFPJCDC-(한국전자통신연구원)디지털 라이프 로그감성 데이터 활용을 위한 전문가 조사(공문).pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046KFPJCDC/_________________________________________________________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F046KFPJCDC-7d7ef0d53d",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F046UHN1JP6",
-        "created": 1665989886,
-        "timestamp": 1665989886,
-        "name": "(STR)디지털 라이프로그 전문가 조사(공문)+대학원생.pdf",
-        "title": "(STR)디지털 라이프로그 전문가 조사(공문)+대학원생.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 88813,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F046UHN1JP6-(STR)디지털 라이프로그 전문가 조사(공문)+대학원생.pdf",
-        "url_private_download": "attachments/F046UHN1JP6-(STR)디지털 라이프로그 전문가 조사(공문)+대학원생.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046UHN1JP6/_str________________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F046UHN1JP6-86deeab7f1",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F046UHN6S4C",
-        "created": 1665989888,
-        "timestamp": 1665989888,
-        "name": "한국전자통신연구원+연구계획서+전문가.docx",
-        "title": "한국전자통신연구원+연구계획서+전문가.docx",
-        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
-        "image_exif_rotation": 0,
-        "filetype": "docx",
-        "pretty_type": "Word 문서",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 15606,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F046UHN6S4C-한국전자통신연구원+연구계획서+전문가.docx",
-        "url_private_download": "attachments/F046UHN6S4C-한국전자통신연구원+연구계획서+전문가.docx",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046UHN6S4C/_____________________________________________________.docx",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F046UHN6S4C-faad36da58",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "GoRJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c한국전자통신연구원 디지털 라이프 로그 및 감성 데이터 활용을 위한 전문가 조사 안내\u003e "
-              },
-              {
-                "type": "text",
-                "text": "[지원자 충원완료되어 마감되었습니다]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ한국전자통신연구원과 함께 에스티리서치에서 우리 대학원 학생들의 좌담회 참석 요청이 있습니다.",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ일시: 10. 24.(월) 오후 14시 ~ 2시간 내외 진행",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ장소: 서울특별시 서초구 강남대로37길 26, 5층 에스티리서치(서초동) 양재역 1번출구",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ내용",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "- 감성 인공지능 소개",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "link",
-                "url": "https://nanum.etri.re.kr/share/kjnoh/KEMDy20?lang=ko_KR",
-                "text": "",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "link",
-                "url": "https://nanum.etri.re.kr/share/kjnoh/KEMDy19?lang=ko_KR",
-                "text": "",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "- 사업을 위한 데이터 확보 방법, 데이터 확보 및 AI 관련된 애로사항",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "- 미래 서비스에 대한 계획 및 전망",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "- AI 기반 웰케어 서비스에 대한 사회 확산, 역기능, 대응방안 의견",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ 사례비: 20만원 (참여해준 학생들에게 증정)",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "* 자세한 내용은 첨부드린 공문 확인부탁드리며, 추가 문의사항 있으시면 언제든지 연락부탁드립니다(김현정 ",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "tel:07044437416",
-                "text": "070-4443-7416",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ신청방법: 신청하고자하는 학생은 2022. 10. 19.(수) 13시까지 ",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 로 신청메일 보내주세요.(메일 본문에 성명, 연락처 기재 바랍니다.)",
-                "style": {
-                  "strike": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "ec534cd4-2542-412d-a4fa-72f3e53e4372",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;942동 외부 쓰레기 적재장 금연구역 설정 안내\u0026gt;\n\n지난주 수요일(2022.10.12.) 942동 외부 쓰레기 적재장소에서 담뱃불로 인한 화재가 발생했습니다.\n\n화재로 인한 쓰레기 적재장 벤치 및 가림막 훼손 등의 물적 피해만 있었습니다. (인적 피해가 없어서 매우 다행입니다.)\n\n이와 같은 사고를 미연의 방지하고자 해당 쓰레기 적재장소를 금연구역으로 설정하오니 우리 대학 구성원들의 협조 부탁드립니다.\n\n추후 쓰레기 적재장에 옥외 CCTV를 설치할 예정이오니 참고하시기 바랍니다.",
-    "ts": "1665990708.007099",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1665990760.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U02UT2VQ9NF",
-          "U040ENMBB1C"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "BWAWy",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c942동 외부 쓰레기 적재장 금연구역 설정 안내\u003e\n\n지난주 수요일(2022.10.12.) 942동 외부 쓰레기 적재장소에서 담뱃불로 인한 화재가 발생했습니다.\n\n화재로 인한 쓰레기 적재장 벤치 및 가림막 훼손 등의 물적 피해만 있었습니다. (인적 피해가 없어서 매우 다행입니다.)\n\n이와 같은 사고를 미연의 방지하고자 해당 쓰레기 적재장소를 금연구역으로 설정하오니 우리 대학 구성원들의 협조 부탁드립니다.\n\n추후 쓰레기 적재장에 옥외 CCTV를 설치할 예정이오니 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "81838830-99e2-4083-af9f-d5e6243135cb",
+			"type": "message",
+			"user": "U01R678KWP2",
+			"text": "<@U01QNJ7PWRX> 안녕하세요, 논문 제출 예정자 등록은 mysnu&gt;논문관련&gt;<https://shine.snu.ac.kr/mysnu/subIndex_haksa.html?_portal=S%7C08%7CS080101%7Cko#|논문/실적심사 신청/취소> 항목에서 하는 것이 맞을까요? 감사합니다.",
+			"ts": "1665974577.196819",
+			"thread_ts": "1665707086.163489",
+			"edited": {
+				"user": "U01R678KWP2",
+				"ts": "1666069051.000000"
+			},
+			"parent_user_id": "U01QNJ7PWRX",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "kOcbu",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "user",
+									"user_id": "U01QNJ7PWRX"
+								},
+								{
+									"type": "text",
+									"text": " 안녕하세요, 논문 제출 예정자 등록은 mysnu>논문관련>"
+								},
+								{
+									"type": "link",
+									"url": "https://shine.snu.ac.kr/mysnu/subIndex_haksa.html?_portal=S%7C08%7CS080101%7Cko#",
+									"text": "논문/실적심사 신청/취소"
+								},
+								{
+									"type": "text",
+									"text": " 항목에서 하는 것이 맞을까요? 감사합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-14/1849888349046_e28ec5998ed6ccc07a7b_72.png",
+				"first_name": "조동규",
+				"real_name": "조동규",
+				"display_name": "2기_조동규",
+				"team": "T01QA5S537V",
+				"name": "kulupapa1127",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "7928b2d8-9fcb-440a-a4b9-ad9eb87f0f97",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;웹메일시스템 종료에 따른 서비스 변경 안내&gt;\n\n학내 메일시스템은 자체 운영하는 웹메일서비스와 클라우드서비스(두레이, 구글Gmail)가 있으나,\n*웹메일시스템이 노후화되어 시스템 운영을 종료하고 클라우드 메일 서비스로 전면 전환*하고자 합니다.\n*시스템 전환시 메일주소(@snu.ac.kr)는 유지되고, 전환일 기준으로 수신 및 발신 메일은 신규 서비스에서 처리*됩니다.\n이에 웹메일 이용자들은 다음을 참고하여 데이타 백업 및 향후 이용에 참고하시기 바랍니다.\n\n상세내용은 붙임을 참고하시기 바랍니다.",
+			"ts": "1665983380.189969",
+			"files": [
+				{
+					"id": "F046U824YKE",
+					"created": 1665983375,
+					"timestamp": 1665983375,
+					"name": "웹메일시스템 종료에 따른 서비스 변경 안내.pdf",
+					"title": "웹메일시스템 종료에 따른 서비스 변경 안내.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 232810,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F046U824YKE-웹메일시스템 종료에 따른 서비스 변경 안내.pdf",
+					"url_private_download": "attachments/F046U824YKE-웹메일시스템 종료에 따른 서비스 변경 안내.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046U824YKE/___________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F046U824YKE-ed9391b1b1",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "EkMGZ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<웹메일시스템 종료에 따른 서비스 변경 안내>\n\n학내 메일시스템은 자체 운영하는 웹메일서비스와 클라우드서비스(두레이, 구글Gmail)가 있으나,\n"
+								},
+								{
+									"type": "text",
+									"text": "웹메일시스템이 노후화되어 시스템 운영을 종료하고 클라우드 메일 서비스로 전면 전환",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하고자 합니다.\n"
+								},
+								{
+									"type": "text",
+									"text": "시스템 전환시 메일주소(@snu.ac.kr)는 유지되고, 전환일 기준으로 수신 및 발신 메일은 신규 서비스에서 처리",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "됩니다.\n이에 웹메일 이용자들은 다음을 참고하여 데이타 백업 및 향후 이용에 참고하시기 바랍니다.\n\n상세내용은 붙임을 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "a3d7ec74-867e-41d8-81be-a41bfc2f7066",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;한국전자통신연구원 디지털 라이프 로그 및 감성 데이터 활용을 위한 전문가 조사 안내&gt; *[지원자 충원완료되어 마감되었습니다]*\n\n~ㅁ한국전자통신연구원과 함께 에스티리서치에서 우리 대학원 학생들의 좌담회 참석 요청이 있습니다.~\n~ㅁ일시: 10. 24.(월) 오후 14시 ~ 2시간 내외 진행~\n~ㅁ장소: 서울특별시 서초구 강남대로37길 26, 5층 에스티리서치(서초동) 양재역 1번출구~\n~ㅁ내용~\n~- 감성 인공지능 소개~\n~<https://nanum.etri.re.kr/share/kjnoh/KEMDy20?lang=ko_KR>~\n~<https://nanum.etri.re.kr/share/kjnoh/KEMDy19?lang=ko_KR>~\n~- 사업을 위한 데이터 확보 방법, 데이터 확보 및 AI 관련된 애로사항~\n~- 미래 서비스에 대한 계획 및 전망~\n~- AI 기반 웰케어 서비스에 대한 사회 확산, 역기능, 대응방안 의견~\n\n~ㅁ 사례비: 20만원 (참여해준 학생들에게 증정)~\n\n~* 자세한 내용은 첨부드린 공문 확인부탁드리며, 추가 문의사항 있으시면 언제든지 연락부탁드립니다(김현정 <tel:07044437416|070-4443-7416>)~\n\n~ㅁ신청방법: 신청하고자하는 학생은 2022. 10. 19.(수) 13시까지 <mailto:cylim@snu.ac.kr|cylim@snu.ac.kr> 로 신청메일 보내주세요.(메일 본문에 성명, 연락처 기재 바랍니다.)~",
+			"ts": "1665989909.575839",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1666071634.000000"
+			},
+			"files": [
+				{
+					"id": "F046KFPJCDC",
+					"created": 1665989884,
+					"timestamp": 1665989884,
+					"name": "(한국전자통신연구원)디지털 라이프 로그감성 데이터 활용을 위한 전문가 조사(공문).pdf",
+					"title": "(한국전자통신연구원)디지털 라이프 로그감성 데이터 활용을 위한 전문가 조사(공문).pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 55785,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F046KFPJCDC-(한국전자통신연구원)디지털 라이프 로그감성 데이터 활용을 위한 전문가 조사(공문).pdf",
+					"url_private_download": "attachments/F046KFPJCDC-(한국전자통신연구원)디지털 라이프 로그감성 데이터 활용을 위한 전문가 조사(공문).pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046KFPJCDC/_________________________________________________________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F046KFPJCDC-7d7ef0d53d",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F046UHN1JP6",
+					"created": 1665989886,
+					"timestamp": 1665989886,
+					"name": "(STR)디지털 라이프로그 전문가 조사(공문)+대학원생.pdf",
+					"title": "(STR)디지털 라이프로그 전문가 조사(공문)+대학원생.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 88813,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F046UHN1JP6-(STR)디지털 라이프로그 전문가 조사(공문)+대학원생.pdf",
+					"url_private_download": "attachments/F046UHN1JP6-(STR)디지털 라이프로그 전문가 조사(공문)+대학원생.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046UHN1JP6/_str________________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F046UHN1JP6-86deeab7f1",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F046UHN6S4C",
+					"created": 1665989888,
+					"timestamp": 1665989888,
+					"name": "한국전자통신연구원+연구계획서+전문가.docx",
+					"title": "한국전자통신연구원+연구계획서+전문가.docx",
+					"mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+					"image_exif_rotation": 0,
+					"filetype": "docx",
+					"pretty_type": "Word 문서",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 15606,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F046UHN6S4C-한국전자통신연구원+연구계획서+전문가.docx",
+					"url_private_download": "attachments/F046UHN6S4C-한국전자통신연구원+연구계획서+전문가.docx",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F046UHN6S4C/_____________________________________________________.docx",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F046UHN6S4C-faad36da58",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "GoRJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<한국전자통신연구원 디지털 라이프 로그 및 감성 데이터 활용을 위한 전문가 조사 안내> "
+								},
+								{
+									"type": "text",
+									"text": "[지원자 충원완료되어 마감되었습니다]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ한국전자통신연구원과 함께 에스티리서치에서 우리 대학원 학생들의 좌담회 참석 요청이 있습니다.",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ일시: 10. 24.(월) 오후 14시 ~ 2시간 내외 진행",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ장소: 서울특별시 서초구 강남대로37길 26, 5층 에스티리서치(서초동) 양재역 1번출구",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ내용",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "- 감성 인공지능 소개",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "link",
+									"url": "https://nanum.etri.re.kr/share/kjnoh/KEMDy20?lang=ko_KR",
+									"text": "",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "link",
+									"url": "https://nanum.etri.re.kr/share/kjnoh/KEMDy19?lang=ko_KR",
+									"text": "",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "- 사업을 위한 데이터 확보 방법, 데이터 확보 및 AI 관련된 애로사항",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "- 미래 서비스에 대한 계획 및 전망",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "- AI 기반 웰케어 서비스에 대한 사회 확산, 역기능, 대응방안 의견",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ 사례비: 20만원 (참여해준 학생들에게 증정)",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "* 자세한 내용은 첨부드린 공문 확인부탁드리며, 추가 문의사항 있으시면 언제든지 연락부탁드립니다(김현정 ",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "tel:07044437416",
+									"text": "070-4443-7416",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ신청방법: 신청하고자하는 학생은 2022. 10. 19.(수) 13시까지 ",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 로 신청메일 보내주세요.(메일 본문에 성명, 연락처 기재 바랍니다.)",
+									"style": {
+										"strike": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "ec534cd4-2542-412d-a4fa-72f3e53e4372",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;942동 외부 쓰레기 적재장 금연구역 설정 안내&gt;\n\n지난주 수요일(2022.10.12.) 942동 외부 쓰레기 적재장소에서 담뱃불로 인한 화재가 발생했습니다.\n\n화재로 인한 쓰레기 적재장 벤치 및 가림막 훼손 등의 물적 피해만 있었습니다. (인적 피해가 없어서 매우 다행입니다.)\n\n이와 같은 사고를 미연의 방지하고자 해당 쓰레기 적재장소를 금연구역으로 설정하오니 우리 대학 구성원들의 협조 부탁드립니다.\n\n추후 쓰레기 적재장에 옥외 CCTV를 설치할 예정이오니 참고하시기 바랍니다.",
+			"ts": "1665990708.007099",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1665990760.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U02UT2VQ9NF",
+						"U040ENMBB1C"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "BWAWy",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<942동 외부 쓰레기 적재장 금연구역 설정 안내>\n\n지난주 수요일(2022.10.12.) 942동 외부 쓰레기 적재장소에서 담뱃불로 인한 화재가 발생했습니다.\n\n화재로 인한 쓰레기 적재장 벤치 및 가림막 훼손 등의 물적 피해만 있었습니다. (인적 피해가 없어서 매우 다행입니다.)\n\n이와 같은 사고를 미연의 방지하고자 해당 쓰레기 적재장소를 금연구역으로 설정하오니 우리 대학 구성원들의 협조 부탁드립니다.\n\n추후 쓰레기 적재장에 옥외 CCTV를 설치할 예정이오니 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

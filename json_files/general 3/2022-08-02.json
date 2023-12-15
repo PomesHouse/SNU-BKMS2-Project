@@ -1,66 +1,68 @@
-[
-  {
-    "client_msg_id": "8e4513bb-f67d-4190-80ab-8373161b5b79",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;942동 1층 및 지하1층 공용공간(로비, 계단, 복도 등) 청소 일정 안내\u0026gt;\n1층 및 지하1층 공용공간에 대한 청소가 아래와 같이 진행될 예정입니다.\n○ 일시 : *8. 3. (수)  08:30 ~ 18:00*\n○ 장소 : *1층 및 지하1층 공용공간(로비, 계단, 복도 등)*  ",
-    "ts": "1659399695.340289",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "8=eTG",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c942동 1층 및 지하1층 공용공간(로비, 계단, 복도 등) 청소 일정 안내\u003e\n1층 및 지하1층 공용공간에 대한 청소가 아래와 같이 진행될 예정입니다.\n○ 일시 : "
-              },
-              {
-                "type": "text",
-                "text": "8. 3. (수)  08:30 ~ 18:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n○ 장소 : "
-              },
-              {
-                "type": "text",
-                "text": "1층 및 지하1층 공용공간(로비, 계단, 복도 등)  ",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8e4513bb-f67d-4190-80ab-8373161b5b79",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;942동 1층 및 지하1층 공용공간(로비, 계단, 복도 등) 청소 일정 안내&gt;\n1층 및 지하1층 공용공간에 대한 청소가 아래와 같이 진행될 예정입니다.\n○ 일시 : *8. 3. (수)  08:30 ~ 18:00*\n○ 장소 : *1층 및 지하1층 공용공간(로비, 계단, 복도 등)*  ",
+			"ts": "1659399695.340289",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "8=eTG",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<942동 1층 및 지하1층 공용공간(로비, 계단, 복도 등) 청소 일정 안내>\n1층 및 지하1층 공용공간에 대한 청소가 아래와 같이 진행될 예정입니다.\n○ 일시 : "
+								},
+								{
+									"type": "text",
+									"text": "8. 3. (수)  08:30 ~ 18:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n○ 장소 : "
+								},
+								{
+									"type": "text",
+									"text": "1층 및 지하1층 공용공간(로비, 계단, 복도 등)  ",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

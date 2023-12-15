@@ -1,687 +1,689 @@
-[
-  {
-    "client_msg_id": "8220ed00-8c91-427c-9479-bc5e17d86a4d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;논문유사도 검색프로그램 \"Copykiller\" 및 \"Turnitin\" 활용법 교육 안내\u0026gt;\n\n학내 연구자의 연구부정행위 예방을 위해 논문유사도 검색프로그램 \"Copykiller\" 와 \"Turnitin\"를     구매하여 제공하고 있습니다.\n관련하여 아래와 같이「논문유사도 검색프로그램 활용법」교육을 실시하오니 관심있는 구성원이 참석하여 주시기 바랍니다.\n\n\u0026lt;교육 수강 안내\u0026gt;\n 1) Copykiller 활용법 교육\n   가. 일시 및 장소: 2023.9.21.(목) 15:00~16:00, 비대면 강의\n   나. 대상: 학부생, 대학원생, 연구원 등 교육수강 희망자\n   다. 신청방법: 별도 사전신청 불필요\n    - 교육 당일 \u003chttps://snu-ac-kr.zoom.us/j/94784205923\u003e 접속하여 수강\n\n 2) Turnitin 활용법 교육\n   가. 일시 및 장소: 2023.9.22.(금) 14:00~15:00 (국문강의), 15:00~16:00 (영문강의), 비대면 강의\n   나. 대상: 학부생, 대학원생, 연구원 등 교육수강 희망자\n   다. 신청방법: 교육 시작 전까지 아래 링크로 접속하여 사전 등록\n    - 국문강의: \u003chttps://turnitin.zoom.us/webinar/register/WN_chVsKgb8Tiio8ofaPmoBYQ\u003e\n    - 영문강의: \u003chttps://turnitin.zoom.us/webinar/register/WN_EbBDnBF-Qv-QbbRnVGhJDQ\u003e\n    ※ 사전 등록 시 입력한 이메일로 교육수강 링크 등 안내 메일 발송.",
-    "ts": "1694996997.988919",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "EjiJJ",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c논문유사도 검색프로그램 \"Copykiller\" 및 \"Turnitin\" 활용법 교육 안내\u003e\n\n학내 연구자의 연구부정행위 예방을 위해 논문유사도 검색프로그램 \"Copykiller\" 와 \"Turnitin\"를     구매하여 제공하고 있습니다.\n관련하여 아래와 같이「논문유사도 검색프로그램 활용법」교육을 실시하오니 관심있는 구성원이 참석하여 주시기 바랍니다.\n\n\u003c교육 수강 안내\u003e\n 1) Copykiller 활용법 교육\n   가. 일시 및 장소: 2023.9.21.(목) 15:00~16:00, 비대면 강의\n   나. 대상: 학부생, 대학원생, 연구원 등 교육수강 희망자\n   다. 신청방법: 별도 사전신청 불필요\n    - 교육 당일 "
-              },
-              {
-                "type": "link",
-                "url": "https://snu-ac-kr.zoom.us/j/94784205923",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": " 접속하여 수강\n\n 2) Turnitin 활용법 교육\n   가. 일시 및 장소: 2023.9.22.(금) 14:00~15:00 (국문강의), 15:00~16:00 (영문강의), 비대면 강의\n   나. 대상: 학부생, 대학원생, 연구원 등 교육수강 희망자\n   다. 신청방법: 교육 시작 전까지 아래 링크로 접속하여 사전 등록\n    - 국문강의: "
-              },
-              {
-                "type": "link",
-                "url": "https://turnitin.zoom.us/webinar/register/WN_chVsKgb8Tiio8ofaPmoBYQ",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n    - 영문강의: "
-              },
-              {
-                "type": "link",
-                "url": "https://turnitin.zoom.us/webinar/register/WN_EbBDnBF-Qv-QbbRnVGhJDQ",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n    ※ 사전 등록 시 입력한 이메일로 교육수강 링크 등 안내 메일 발송."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "9190028e-2990-4672-aaca-048e6437e2fd",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023년 인플루엔자(독감) 예방접종 안내\u0026gt;\n\n보건진료소에서는 2023년 인플루엔자(독감) 예방접종을 아래와 같이 실시하오니 참고하시기 바랍니다.\n\n*□* 일정표(관악캠퍼스)\nㅇ기간: *2023.10.10.(화) ~ 10.23.(월), 10일간*\nㅇ시간: 09:00 ~ 17:00 (점심시간 12:00 ~ 13:30)\nㅇ장소: 63동 학생회관 3층 보건진료소\nㅇ문의: 02-880-5338\n\n*□* 백신 정보\n  종류:SK바이오사이언스 /스카이셀플루(4가 백신)\n  비용: *24,000원*\n\n*□* 특이사항: *온라인 사전예약 권고*\n  예약기간: *09.19.(화) 오전 10:00 ~ 예약 수량 마감 시까지*\n  예약방법: 보건진료소 홈페이지(\u003chttp://health4u.snu.ac.kr\u003e) :arrow_forward: 진료과/의료진 :arrow_forward: 진료예약\n   - 진료과목: 관악/연건 독감예방접종 중 선택\n   - 의료진: 일반 선택 (원하는 날짜/시간 선택 후 예약)\n\n붙임 2023 인플루엔자 예방접종 안내(국문, 영문) 각 1부.",
-    "ts": "1694998037.401769",
-    "files": [
-      {
-        "id": "F05S9UXHBN3",
-        "created": 1694998019,
-        "timestamp": 1694998019,
-        "name": "[웹포스터] 2023 인플루엔자 예방접종_국.jpg",
-        "title": "[웹포스터] 2023 인플루엔자 예방접종_국.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 337781,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05S9UXHBN3-[웹포스터] 2023 인플루엔자 예방접종_국.jpg",
-        "url_private_download": "attachments/F05S9UXHBN3-[웹포스터] 2023 인플루엔자 예방접종_국.jpg",
-        "original_h": 1587,
-        "original_w": 1123,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________480.jpg",
-        "thumb_480_w": 340,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________1024.jpg",
-        "thumb_1024_w": 725,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05S9UXHBN3/_______________2023_________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05S9UXHBN3-ebf9b5e41b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05TDF2TSP2",
-        "created": 1694998023,
-        "timestamp": 1694998023,
-        "name": "[웹포스터] 2023 인플루엔자 예방접종_영.jpg",
-        "title": "[웹포스터] 2023 인플루엔자 예방접종_영.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 363796,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05TDF2TSP2-[웹포스터] 2023 인플루엔자 예방접종_영.jpg",
-        "url_private_download": "attachments/F05TDF2TSP2-[웹포스터] 2023 인플루엔자 예방접종_영.jpg",
-        "original_h": 1587,
-        "original_w": 1123,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________480.jpg",
-        "thumb_480_w": 340,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________720.jpg",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________960.jpg",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________1024.jpg",
-        "thumb_1024_w": 725,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05TDF2TSP2/_______________2023_________________________________.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05TDF2TSP2-84eed8c4a5",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Fw5",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 인플루엔자(독감) 예방접종 안내\u003e\n\n보건진료소에서는 2023년 인플루엔자(독감) 예방접종을 아래와 같이 실시하오니 참고하시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "□ ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "일정표(관악캠퍼스)\nㅇ기간: "
-              },
-              {
-                "type": "text",
-                "text": "2023.10.10.(화) ~ 10.23.(월), 10일간",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\nㅇ시간: 09:00 ~ 17:00 (점심시간 12:00 ~ 13:30)\nㅇ장소: 63동 학생회관 3층 보건진료소\nㅇ문의: 02-880-5338\n\n"
-              },
-              {
-                "type": "text",
-                "text": "□",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 백신 정보\n  종류:SK바이오사이언스 /스카이셀플루(4가 백신)\n  비용: "
-              },
-              {
-                "type": "text",
-                "text": "24,000원",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "□",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 특이사항: "
-              },
-              {
-                "type": "text",
-                "text": "온라인 사전예약 권고",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  예약기간: "
-              },
-              {
-                "type": "text",
-                "text": "09.19.(화) 오전 10:00 ~ 예약 수량 마감 시까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  예약방법: 보건진료소 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "http://health4u.snu.ac.kr",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") "
-              },
-              {
-                "type": "emoji",
-                "name": "arrow_forward",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 진료과/의료진 "
-              },
-              {
-                "type": "emoji",
-                "name": "arrow_forward",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 진료예약\n   - 진료과목: 관악/연건 독감예방접종 중 선택\n   - 의료진: 일반 선택 (원하는 날짜/시간 선택 후 예약)\n\n붙임 2023 인플루엔자 예방접종 안내(국문, 영문) 각 1부."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "293912b0-0a3a-4ab1-934e-fa6c43cc047a",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2023학년도 2학기 논문제출자격시험 구술고사로 인한 3층 및 4층 출입 통제 안내\u0026gt;\n\n23학년도 2학기 논문제출자격시험 구술고사로 인해 3층 및 4층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 9. 22.(금) 13:00 ~ 18:00",
-    "ts": "1695021194.194299",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "QPP",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 2학기 논문제출자격시험 구술고사로 인한 3층 및 4층 출입 통제 안내\u003e\n\n23학년도 2학기 논문제출자격시험 구술고사로 인해 3층 및 4층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 9. 22.(금) 13:00 ~ 18:00"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "87b094e4-7615-42db-870a-7b5be323280b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 원장재단 장학생 선발 안내\u0026gt;*\n\n원장재단에서 2023학년도 장학생을 아래와 같이 선발하오니, 관심 있는 학생들은 지원바랍니다.\n  가. 선발인원: *8명*\n  나. 장학금액: 학업장려금 500만원\n  다. 지원자격\n    1) 재학 중인 학부생 및 대학원생\n    2) 모범 장학생: 학자금 지원구간 8구간 이하이며, 직전학기 12학점(대학원생 6학점) 이상 이수한 자\n                   *※ 대학원생의 경우 학자금 지원구간 통지서 발급이 불가하므로 이를 제외한 모범 장학생 추가 제출서류(소득 관련 증빙서류)를 완비하여 제출*\n  라. 접수기간: 2023. 9. 13.(수) ~ 10. 31.(화)\n  마. 접수방법: 스캔본 이메일 접수 후 원본은 우편 송부\n    1) 이메일: \u003cmailto:wjf@wonjangfoundation.org|wjf@wonjangfoundation.org\u003e\n    2) 우편: (우18472) 경기도 화성시 동탄순환대로29길 25, 2층 재단법인 원장재단\n  바. 제출서류: 장학생 신청서, 추천서, 개인정보 수집·이용 및 제공동의서, 재학증명서, 가족관계증명서 및 주민등록등본, 본인 명의 통장 사본, 성적증명서, 학자금지원구간통지서, 소득금액증명원, 지방세세목별(미)과세증명서 각 1부*※ 밑줄 서류는 모범 장학생 유형 지원 시 제출*\n  사. 기타사항: 자세한 사항은 공고문을 반드시 확인하고 기타 문의사항이 있을 경우 재단 홈페이지(\u003chttp://www.wonjangfoundation.org|www.wonjangfoundation.org\u003e) 및 FAQ 활용",
-    "ts": "1695027283.333249",
-    "files": [
-      {
-        "id": "F05SRJLA05R",
-        "created": 1695027278,
-        "timestamp": 1695027278,
-        "name": "원장재단 장학생 지원 붙임 서류 2022.hwp",
-        "title": "원장재단 장학생 지원 붙임 서류 2022.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 52736,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05SRJLA05R-원장재단 장학생 지원 붙임 서류 2022.hwp",
-        "url_private_download": "attachments/F05SRJLA05R-원장재단 장학생 지원 붙임 서류 2022.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SRJLA05R/____________________________________________2022.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05SRJLA05R-2eee4842e0",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05SK2MSGR4",
-        "created": 1695027280,
-        "timestamp": 1695027280,
-        "name": "원장재단 장학생 선발 공고 '23.hwp",
-        "title": "원장재단 장학생 선발 공고 '23.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 61952,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05SK2MSGR4-원장재단 장학생 선발 공고 '23.hwp",
-        "url_private_download": "attachments/F05SK2MSGR4-원장재단 장학생 선발 공고 '23.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SK2MSGR4/______________________________________23.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05SK2MSGR4-5a7774aa92",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05SK2N02Q6",
-        "created": 1695027281,
-        "timestamp": 1695027281,
-        "name": "2023학년도 원장재단 장학생 선발 공문.pdf",
-        "title": "2023학년도 원장재단 장학생 선발 공문.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 136792,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05SK2N02Q6-2023학년도 원장재단 장학생 선발 공문.pdf",
-        "url_private_download": "attachments/F05SK2N02Q6-2023학년도 원장재단 장학생 선발 공문.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SK2N02Q6/2023______________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05SK2N02Q6-d4e58b02d9",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "L/er",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 원장재단 장학생 선발 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n원장재단에서 2023학년도 장학생을 아래와 같이 선발하오니, 관심 있는 학생들은 지원바랍니다.\n  가. 선발인원:"
-              },
-              {
-                "type": "text",
-                "text": " 8명",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  나. 장학금액: 학업장려금 500만원\n  다. 지원자격\n    1) 재학 중인 학부생 및 대학원생\n    2) 모범 장학생: 학자금 지원구간 8구간 이하이며, 직전학기 12학점(대학원생 6학점) 이상 이수한 자\n                   "
-              },
-              {
-                "type": "text",
-                "text": "※ 대학원생의 경우 학자금 지원구간 통지서 발급이 불가하므로 이를 제외한 모범 장학생 추가 제출서류(소득 관련 증빙서류)를 완비하여 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  라. 접수기간: 2023. 9. 13.(수) ~ 10. 31.(화)\n  마. 접수방법: 스캔본 이메일 접수 후 원본은 우편 송부\n    1) 이메일: "
-              },
-              {
-                "type": "link",
-                "url": "mailto:wjf@wonjangfoundation.org",
-                "text": "wjf@wonjangfoundation.org"
-              },
-              {
-                "type": "text",
-                "text": "\n    2) 우편: (우18472) 경기도 화성시 동탄순환대로29길 25, 2층 재단법인 원장재단\n  바. 제출서류: 장학생 신청서, 추천서, 개인정보 수집·이용 및 제공동의서, 재학증명서, 가족관계증명서 및 주민등록등본, 본인 명의 통장 사본, 성적증명서, 학자금지원구간통지서, 소득금액증명원, 지방세세목별(미)과세증명서 각 1부"
-              },
-              {
-                "type": "text",
-                "text": "※ 밑줄 서류는 모범 장학생 유형 지원 시 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  사. 기타사항: 자세한 사항은 공고문을 반드시 확인하고 기타 문의사항이 있을 경우 재단 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "http://www.wonjangfoundation.org",
-                "text": "www.wonjangfoundation.org"
-              },
-              {
-                "type": "text",
-                "text": ") 및 FAQ 활용"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8220ed00-8c91-427c-9479-bc5e17d86a4d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;논문유사도 검색프로그램 \"Copykiller\" 및 \"Turnitin\" 활용법 교육 안내&gt;\n\n학내 연구자의 연구부정행위 예방을 위해 논문유사도 검색프로그램 \"Copykiller\" 와 \"Turnitin\"를     구매하여 제공하고 있습니다.\n관련하여 아래와 같이「논문유사도 검색프로그램 활용법」교육을 실시하오니 관심있는 구성원이 참석하여 주시기 바랍니다.\n\n&lt;교육 수강 안내&gt;\n 1) Copykiller 활용법 교육\n   가. 일시 및 장소: 2023.9.21.(목) 15:00~16:00, 비대면 강의\n   나. 대상: 학부생, 대학원생, 연구원 등 교육수강 희망자\n   다. 신청방법: 별도 사전신청 불필요\n    - 교육 당일 <https://snu-ac-kr.zoom.us/j/94784205923> 접속하여 수강\n\n 2) Turnitin 활용법 교육\n   가. 일시 및 장소: 2023.9.22.(금) 14:00~15:00 (국문강의), 15:00~16:00 (영문강의), 비대면 강의\n   나. 대상: 학부생, 대학원생, 연구원 등 교육수강 희망자\n   다. 신청방법: 교육 시작 전까지 아래 링크로 접속하여 사전 등록\n    - 국문강의: <https://turnitin.zoom.us/webinar/register/WN_chVsKgb8Tiio8ofaPmoBYQ>\n    - 영문강의: <https://turnitin.zoom.us/webinar/register/WN_EbBDnBF-Qv-QbbRnVGhJDQ>\n    ※ 사전 등록 시 입력한 이메일로 교육수강 링크 등 안내 메일 발송.",
+			"ts": "1694996997.988919",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "EjiJJ",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<논문유사도 검색프로그램 \"Copykiller\" 및 \"Turnitin\" 활용법 교육 안내>\n\n학내 연구자의 연구부정행위 예방을 위해 논문유사도 검색프로그램 \"Copykiller\" 와 \"Turnitin\"를     구매하여 제공하고 있습니다.\n관련하여 아래와 같이「논문유사도 검색프로그램 활용법」교육을 실시하오니 관심있는 구성원이 참석하여 주시기 바랍니다.\n\n<교육 수강 안내>\n 1) Copykiller 활용법 교육\n   가. 일시 및 장소: 2023.9.21.(목) 15:00~16:00, 비대면 강의\n   나. 대상: 학부생, 대학원생, 연구원 등 교육수강 희망자\n   다. 신청방법: 별도 사전신청 불필요\n    - 교육 당일 "
+								},
+								{
+									"type": "link",
+									"url": "https://snu-ac-kr.zoom.us/j/94784205923",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": " 접속하여 수강\n\n 2) Turnitin 활용법 교육\n   가. 일시 및 장소: 2023.9.22.(금) 14:00~15:00 (국문강의), 15:00~16:00 (영문강의), 비대면 강의\n   나. 대상: 학부생, 대학원생, 연구원 등 교육수강 희망자\n   다. 신청방법: 교육 시작 전까지 아래 링크로 접속하여 사전 등록\n    - 국문강의: "
+								},
+								{
+									"type": "link",
+									"url": "https://turnitin.zoom.us/webinar/register/WN_chVsKgb8Tiio8ofaPmoBYQ",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n    - 영문강의: "
+								},
+								{
+									"type": "link",
+									"url": "https://turnitin.zoom.us/webinar/register/WN_EbBDnBF-Qv-QbbRnVGhJDQ",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n    ※ 사전 등록 시 입력한 이메일로 교육수강 링크 등 안내 메일 발송."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "9190028e-2990-4672-aaca-048e6437e2fd",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023년 인플루엔자(독감) 예방접종 안내&gt;\n\n보건진료소에서는 2023년 인플루엔자(독감) 예방접종을 아래와 같이 실시하오니 참고하시기 바랍니다.\n\n*□* 일정표(관악캠퍼스)\nㅇ기간: *2023.10.10.(화) ~ 10.23.(월), 10일간*\nㅇ시간: 09:00 ~ 17:00 (점심시간 12:00 ~ 13:30)\nㅇ장소: 63동 학생회관 3층 보건진료소\nㅇ문의: 02-880-5338\n\n*□* 백신 정보\n  종류:SK바이오사이언스 /스카이셀플루(4가 백신)\n  비용: *24,000원*\n\n*□* 특이사항: *온라인 사전예약 권고*\n  예약기간: *09.19.(화) 오전 10:00 ~ 예약 수량 마감 시까지*\n  예약방법: 보건진료소 홈페이지(<http://health4u.snu.ac.kr>) :arrow_forward: 진료과/의료진 :arrow_forward: 진료예약\n   - 진료과목: 관악/연건 독감예방접종 중 선택\n   - 의료진: 일반 선택 (원하는 날짜/시간 선택 후 예약)\n\n붙임 2023 인플루엔자 예방접종 안내(국문, 영문) 각 1부.",
+			"ts": "1694998037.401769",
+			"files": [
+				{
+					"id": "F05S9UXHBN3",
+					"created": 1694998019,
+					"timestamp": 1694998019,
+					"name": "[웹포스터] 2023 인플루엔자 예방접종_국.jpg",
+					"title": "[웹포스터] 2023 인플루엔자 예방접종_국.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 337781,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05S9UXHBN3-[웹포스터] 2023 인플루엔자 예방접종_국.jpg",
+					"url_private_download": "attachments/F05S9UXHBN3-[웹포스터] 2023 인플루엔자 예방접종_국.jpg",
+					"original_h": 1587,
+					"original_w": 1123,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________480.jpg",
+					"thumb_480_w": 340,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05S9UXHBN3-8853176b3e/_______________2023__________________________________1024.jpg",
+					"thumb_1024_w": 725,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05S9UXHBN3/_______________2023_________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05S9UXHBN3-ebf9b5e41b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05TDF2TSP2",
+					"created": 1694998023,
+					"timestamp": 1694998023,
+					"name": "[웹포스터] 2023 인플루엔자 예방접종_영.jpg",
+					"title": "[웹포스터] 2023 인플루엔자 예방접종_영.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 363796,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05TDF2TSP2-[웹포스터] 2023 인플루엔자 예방접종_영.jpg",
+					"url_private_download": "attachments/F05TDF2TSP2-[웹포스터] 2023 인플루엔자 예방접종_영.jpg",
+					"original_h": 1587,
+					"original_w": 1123,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________480.jpg",
+					"thumb_480_w": 340,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________720.jpg",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________960.jpg",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05TDF2TSP2-f8700d4ffd/_______________2023__________________________________1024.jpg",
+					"thumb_1024_w": 725,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05TDF2TSP2/_______________2023_________________________________.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05TDF2TSP2-84eed8c4a5",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Fw5",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 인플루엔자(독감) 예방접종 안내>\n\n보건진료소에서는 2023년 인플루엔자(독감) 예방접종을 아래와 같이 실시하오니 참고하시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "□ ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "일정표(관악캠퍼스)\nㅇ기간: "
+								},
+								{
+									"type": "text",
+									"text": "2023.10.10.(화) ~ 10.23.(월), 10일간",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\nㅇ시간: 09:00 ~ 17:00 (점심시간 12:00 ~ 13:30)\nㅇ장소: 63동 학생회관 3층 보건진료소\nㅇ문의: 02-880-5338\n\n"
+								},
+								{
+									"type": "text",
+									"text": "□",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 백신 정보\n  종류:SK바이오사이언스 /스카이셀플루(4가 백신)\n  비용: "
+								},
+								{
+									"type": "text",
+									"text": "24,000원",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "□",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 특이사항: "
+								},
+								{
+									"type": "text",
+									"text": "온라인 사전예약 권고",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  예약기간: "
+								},
+								{
+									"type": "text",
+									"text": "09.19.(화) 오전 10:00 ~ 예약 수량 마감 시까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  예약방법: 보건진료소 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "http://health4u.snu.ac.kr",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") "
+								},
+								{
+									"type": "emoji",
+									"name": "arrow_forward",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 진료과/의료진 "
+								},
+								{
+									"type": "emoji",
+									"name": "arrow_forward",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 진료예약\n   - 진료과목: 관악/연건 독감예방접종 중 선택\n   - 의료진: 일반 선택 (원하는 날짜/시간 선택 후 예약)\n\n붙임 2023 인플루엔자 예방접종 안내(국문, 영문) 각 1부."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "293912b0-0a3a-4ab1-934e-fa6c43cc047a",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2023학년도 2학기 논문제출자격시험 구술고사로 인한 3층 및 4층 출입 통제 안내&gt;\n\n23학년도 2학기 논문제출자격시험 구술고사로 인해 3층 및 4층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 9. 22.(금) 13:00 ~ 18:00",
+			"ts": "1695021194.194299",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "QPP",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 2학기 논문제출자격시험 구술고사로 인한 3층 및 4층 출입 통제 안내>\n\n23학년도 2학기 논문제출자격시험 구술고사로 인해 3층 및 4층 출입이 통제되오니, 양해하여 주시기 바랍니다.\nㅇ통제기간: 2023. 9. 22.(금) 13:00 ~ 18:00"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "87b094e4-7615-42db-870a-7b5be323280b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 원장재단 장학생 선발 안내&gt;*\n\n원장재단에서 2023학년도 장학생을 아래와 같이 선발하오니, 관심 있는 학생들은 지원바랍니다.\n  가. 선발인원: *8명*\n  나. 장학금액: 학업장려금 500만원\n  다. 지원자격\n    1) 재학 중인 학부생 및 대학원생\n    2) 모범 장학생: 학자금 지원구간 8구간 이하이며, 직전학기 12학점(대학원생 6학점) 이상 이수한 자\n                   *※ 대학원생의 경우 학자금 지원구간 통지서 발급이 불가하므로 이를 제외한 모범 장학생 추가 제출서류(소득 관련 증빙서류)를 완비하여 제출*\n  라. 접수기간: 2023. 9. 13.(수) ~ 10. 31.(화)\n  마. 접수방법: 스캔본 이메일 접수 후 원본은 우편 송부\n    1) 이메일: <mailto:wjf@wonjangfoundation.org|wjf@wonjangfoundation.org>\n    2) 우편: (우18472) 경기도 화성시 동탄순환대로29길 25, 2층 재단법인 원장재단\n  바. 제출서류: 장학생 신청서, 추천서, 개인정보 수집·이용 및 제공동의서, 재학증명서, 가족관계증명서 및 주민등록등본, 본인 명의 통장 사본, 성적증명서, 학자금지원구간통지서, 소득금액증명원, 지방세세목별(미)과세증명서 각 1부*※ 밑줄 서류는 모범 장학생 유형 지원 시 제출*\n  사. 기타사항: 자세한 사항은 공고문을 반드시 확인하고 기타 문의사항이 있을 경우 재단 홈페이지(<http://www.wonjangfoundation.org|www.wonjangfoundation.org>) 및 FAQ 활용",
+			"ts": "1695027283.333249",
+			"files": [
+				{
+					"id": "F05SRJLA05R",
+					"created": 1695027278,
+					"timestamp": 1695027278,
+					"name": "원장재단 장학생 지원 붙임 서류 2022.hwp",
+					"title": "원장재단 장학생 지원 붙임 서류 2022.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 52736,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05SRJLA05R-원장재단 장학생 지원 붙임 서류 2022.hwp",
+					"url_private_download": "attachments/F05SRJLA05R-원장재단 장학생 지원 붙임 서류 2022.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SRJLA05R/____________________________________________2022.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05SRJLA05R-2eee4842e0",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05SK2MSGR4",
+					"created": 1695027280,
+					"timestamp": 1695027280,
+					"name": "원장재단 장학생 선발 공고 '23.hwp",
+					"title": "원장재단 장학생 선발 공고 '23.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 61952,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05SK2MSGR4-원장재단 장학생 선발 공고 '23.hwp",
+					"url_private_download": "attachments/F05SK2MSGR4-원장재단 장학생 선발 공고 '23.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SK2MSGR4/______________________________________23.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05SK2MSGR4-5a7774aa92",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05SK2N02Q6",
+					"created": 1695027281,
+					"timestamp": 1695027281,
+					"name": "2023학년도 원장재단 장학생 선발 공문.pdf",
+					"title": "2023학년도 원장재단 장학생 선발 공문.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 136792,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05SK2N02Q6-2023학년도 원장재단 장학생 선발 공문.pdf",
+					"url_private_download": "attachments/F05SK2N02Q6-2023학년도 원장재단 장학생 선발 공문.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SK2N02Q6/2023______________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05SK2N02Q6-d4e58b02d9",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "L/er",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 원장재단 장학생 선발 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n원장재단에서 2023학년도 장학생을 아래와 같이 선발하오니, 관심 있는 학생들은 지원바랍니다.\n  가. 선발인원:"
+								},
+								{
+									"type": "text",
+									"text": " 8명",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  나. 장학금액: 학업장려금 500만원\n  다. 지원자격\n    1) 재학 중인 학부생 및 대학원생\n    2) 모범 장학생: 학자금 지원구간 8구간 이하이며, 직전학기 12학점(대학원생 6학점) 이상 이수한 자\n                   "
+								},
+								{
+									"type": "text",
+									"text": "※ 대학원생의 경우 학자금 지원구간 통지서 발급이 불가하므로 이를 제외한 모범 장학생 추가 제출서류(소득 관련 증빙서류)를 완비하여 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  라. 접수기간: 2023. 9. 13.(수) ~ 10. 31.(화)\n  마. 접수방법: 스캔본 이메일 접수 후 원본은 우편 송부\n    1) 이메일: "
+								},
+								{
+									"type": "link",
+									"url": "mailto:wjf@wonjangfoundation.org",
+									"text": "wjf@wonjangfoundation.org"
+								},
+								{
+									"type": "text",
+									"text": "\n    2) 우편: (우18472) 경기도 화성시 동탄순환대로29길 25, 2층 재단법인 원장재단\n  바. 제출서류: 장학생 신청서, 추천서, 개인정보 수집·이용 및 제공동의서, 재학증명서, 가족관계증명서 및 주민등록등본, 본인 명의 통장 사본, 성적증명서, 학자금지원구간통지서, 소득금액증명원, 지방세세목별(미)과세증명서 각 1부"
+								},
+								{
+									"type": "text",
+									"text": "※ 밑줄 서류는 모범 장학생 유형 지원 시 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  사. 기타사항: 자세한 사항은 공고문을 반드시 확인하고 기타 문의사항이 있을 경우 재단 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "http://www.wonjangfoundation.org",
+									"text": "www.wonjangfoundation.org"
+								},
+								{
+									"type": "text",
+									"text": ") 및 FAQ 활용"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

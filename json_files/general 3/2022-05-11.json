@@ -1,251 +1,253 @@
-[
-  {
-    "client_msg_id": "4cd236de-c535-4375-a25d-c6cd918d46da",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;산학협력단 연구용 자산 관리 가이드(연구자용) 배포 안내\u0026gt;\n\n관련:「서울대학교 산학협력단 연구물품 중앙관리 지침」\n산학협력단 연구비로 구매하는 연구 시설·장비 등 자산 관리의 방법을 알기쉽게 설명하고, 사용자의 편의성을 도모하고자 붙임과 같이\n연구용 자산 관리 가이드를 고리형 3단 리플렛 형태로 제작하여 배포한다고 하오니, 연구용 자산을 사용하는 학생분들은 참고 하시기 바랍니다.",
-    "ts": "1652234700.454569",
-    "files": [
-      {
-        "id": "F03EXEZU9BM",
-        "created": 1652234697,
-        "timestamp": 1652234697,
-        "name": "[리플렛]산학협력단 연구용 자산관리 가이드.pdf",
-        "title": "[리플렛]산학협력단 연구용 자산관리 가이드.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1110973,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03EXEZU9BM-[리플렛]산학협력단 연구용 자산관리 가이드.pdf",
-        "url_private_download": "attachments/F03EXEZU9BM-[리플렛]산학협력단 연구용 자산관리 가이드.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03EXEZU9BM/___________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03EXEZU9BM-2b19dbcb1b",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Q5K",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c산학협력단 연구용 자산 관리 가이드(연구자용) 배포 안내\u003e\n\n관련:「서울대학교 산학협력단 연구물품 중앙관리 지침」\n산학협력단 연구비로 구매하는 연구 시설·장비 등 자산 관리의 방법을 알기쉽게 설명하고, 사용자의 편의성을 도모하고자 붙임과 같이\n연구용 자산 관리 가이드를 고리형 3단 리플렛 형태로 제작하여 배포한다고 하오니, 연구용 자산을 사용하는 학생분들은 참고 하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "f190d980-cdda-4c85-a8e8-ea93792e0cd9",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2022년 제 2회 중앙도서관 연구력 강화 워크숍 개최 안내\u0026gt;\n\n중앙도서관에서 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위하여 연구력 강화 워크숍을 다음과 같이 온라인으로 개최한다고 하오니,\n관심 있는 학생 및 연구자분들께서는 참고 바랍니다.\n  가. 제 목: *[온라인]* 2022년 제2회 중앙도서관 연구력 강화 워크숍\n                   - 논문 작성 및 연구 윤리: 저자들을 위한 모범 사례\n  나. 일 시: 2022. 5. 26.(화) 15:00 ~ 16:30\n  다. 참여방법: *온라인 사전 신청(필수) 후, 해당 교육 시간에 접속*\n     ※ 사전신청 URL: \u003chttps://www.enago.co.kr/academy/manuscript_writing_and_research_ethics/\u003e\n  라. 강 사: 황은성 교수(서울시립대 생명과학과, 현 Aging Cell Editor)\n  마. 세부내용: 논문 작성법, 출처 표기법, 연구 부정행위의 유형, 원고 투고 가이드라인",
-    "ts": "1652253486.459699",
-    "files": [
-      {
-        "id": "F03FAUGJH9P",
-        "created": 1652253472,
-        "timestamp": 1652253472,
-        "name": "2022년 제2회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
-        "title": "2022년 제2회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 260996,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03FAUGJH9P-2022년 제2회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
-        "url_private_download": "attachments/F03FAUGJH9P-2022년 제2회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
-        "original_h": 1260,
-        "original_w": 891,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 255,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________480.png",
-        "thumb_480_w": 339,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________720.png",
-        "thumb_720_w": 509,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________960.png",
-        "thumb_960_w": 679,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________1024.png",
-        "thumb_1024_w": 724,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03FAUGJH9P/2022_______2_______________________________________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03FAUGJH9P-0b66722384",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "m+35",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2022년 제 2회 중앙도서관 연구력 강화 워크숍 개최 안내\u003e\n\n중앙도서관에서 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위하여 연구력 강화 워크숍을 다음과 같이 온라인으로 개최한다고 하오니,\n관심 있는 학생 및 연구자분들께서는 참고 바랍니다.\n  가. 제 목: "
-              },
-              {
-                "type": "text",
-                "text": "[온라인]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 2022년 제2회 중앙도서관 연구력 강화 워크숍\n                   - 논문 작성 및 연구 윤리: 저자들을 위한 모범 사례\n  나. 일 시: 2022. 5. 26.(화) 15:00 ~ 16:30\n  다. 참여방법: "
-              },
-              {
-                "type": "text",
-                "text": "온라인 사전 신청(필수) 후, 해당 교육 시간에 접속",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n     ※ 사전신청 URL: "
-              },
-              {
-                "type": "link",
-                "url": "https://www.enago.co.kr/academy/manuscript_writing_and_research_ethics/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n  라. 강 사: 황은성 교수(서울시립대 생명과학과, 현 Aging Cell Editor)\n  마. 세부내용: 논문 작성법, 출처 표기법, 연구 부정행위의 유형, 원고 투고 가이드라인"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "4cd236de-c535-4375-a25d-c6cd918d46da",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;산학협력단 연구용 자산 관리 가이드(연구자용) 배포 안내&gt;\n\n관련:「서울대학교 산학협력단 연구물품 중앙관리 지침」\n산학협력단 연구비로 구매하는 연구 시설·장비 등 자산 관리의 방법을 알기쉽게 설명하고, 사용자의 편의성을 도모하고자 붙임과 같이\n연구용 자산 관리 가이드를 고리형 3단 리플렛 형태로 제작하여 배포한다고 하오니, 연구용 자산을 사용하는 학생분들은 참고 하시기 바랍니다.",
+			"ts": "1652234700.454569",
+			"files": [
+				{
+					"id": "F03EXEZU9BM",
+					"created": 1652234697,
+					"timestamp": 1652234697,
+					"name": "[리플렛]산학협력단 연구용 자산관리 가이드.pdf",
+					"title": "[리플렛]산학협력단 연구용 자산관리 가이드.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1110973,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03EXEZU9BM-[리플렛]산학협력단 연구용 자산관리 가이드.pdf",
+					"url_private_download": "attachments/F03EXEZU9BM-[리플렛]산학협력단 연구용 자산관리 가이드.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03EXEZU9BM/___________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03EXEZU9BM-2b19dbcb1b",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Q5K",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<산학협력단 연구용 자산 관리 가이드(연구자용) 배포 안내>\n\n관련:「서울대학교 산학협력단 연구물품 중앙관리 지침」\n산학협력단 연구비로 구매하는 연구 시설·장비 등 자산 관리의 방법을 알기쉽게 설명하고, 사용자의 편의성을 도모하고자 붙임과 같이\n연구용 자산 관리 가이드를 고리형 3단 리플렛 형태로 제작하여 배포한다고 하오니, 연구용 자산을 사용하는 학생분들은 참고 하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "f190d980-cdda-4c85-a8e8-ea93792e0cd9",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2022년 제 2회 중앙도서관 연구력 강화 워크숍 개최 안내&gt;\n\n중앙도서관에서 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위하여 연구력 강화 워크숍을 다음과 같이 온라인으로 개최한다고 하오니,\n관심 있는 학생 및 연구자분들께서는 참고 바랍니다.\n  가. 제 목: *[온라인]* 2022년 제2회 중앙도서관 연구력 강화 워크숍\n                   - 논문 작성 및 연구 윤리: 저자들을 위한 모범 사례\n  나. 일 시: 2022. 5. 26.(화) 15:00 ~ 16:30\n  다. 참여방법: *온라인 사전 신청(필수) 후, 해당 교육 시간에 접속*\n     ※ 사전신청 URL: <https://www.enago.co.kr/academy/manuscript_writing_and_research_ethics/>\n  라. 강 사: 황은성 교수(서울시립대 생명과학과, 현 Aging Cell Editor)\n  마. 세부내용: 논문 작성법, 출처 표기법, 연구 부정행위의 유형, 원고 투고 가이드라인",
+			"ts": "1652253486.459699",
+			"files": [
+				{
+					"id": "F03FAUGJH9P",
+					"created": 1652253472,
+					"timestamp": 1652253472,
+					"name": "2022년 제2회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
+					"title": "2022년 제2회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 260996,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03FAUGJH9P-2022년 제2회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
+					"url_private_download": "attachments/F03FAUGJH9P-2022년 제2회 중앙도서관 연구력 강화 워크숍 홍보 이미지.png",
+					"original_h": 1260,
+					"original_w": 891,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 255,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________480.png",
+					"thumb_480_w": 339,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________720.png",
+					"thumb_720_w": 509,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________960.png",
+					"thumb_960_w": 679,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03FAUGJH9P-9bc1adb166/2022_______2________________________________________________________________1024.png",
+					"thumb_1024_w": 724,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03FAUGJH9P/2022_______2_______________________________________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03FAUGJH9P-0b66722384",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "m+35",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2022년 제 2회 중앙도서관 연구력 강화 워크숍 개최 안내>\n\n중앙도서관에서 학내 연구자들의 연구 경쟁력 향상 및 해외 학술지 논문 투고를 지원하기 위하여 연구력 강화 워크숍을 다음과 같이 온라인으로 개최한다고 하오니,\n관심 있는 학생 및 연구자분들께서는 참고 바랍니다.\n  가. 제 목: "
+								},
+								{
+									"type": "text",
+									"text": "[온라인]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 2022년 제2회 중앙도서관 연구력 강화 워크숍\n                   - 논문 작성 및 연구 윤리: 저자들을 위한 모범 사례\n  나. 일 시: 2022. 5. 26.(화) 15:00 ~ 16:30\n  다. 참여방법: "
+								},
+								{
+									"type": "text",
+									"text": "온라인 사전 신청(필수) 후, 해당 교육 시간에 접속",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n     ※ 사전신청 URL: "
+								},
+								{
+									"type": "link",
+									"url": "https://www.enago.co.kr/academy/manuscript_writing_and_research_ethics/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n  라. 강 사: 황은성 교수(서울시립대 생명과학과, 현 Aging Cell Editor)\n  마. 세부내용: 논문 작성법, 출처 표기법, 연구 부정행위의 유형, 원고 투고 가이드라인"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

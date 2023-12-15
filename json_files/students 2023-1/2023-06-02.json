@@ -1,111 +1,113 @@
-[
-  {
-    "client_msg_id": "f32f3c00-d491-4bb1-a173-b4d57deea95e",
-    "type": "message",
-    "user": "U02ULBH3TEJ",
-    "text": "308호에 에어팟 두고가신분 찾아가세요~!",
-    "ts": "1685683193.786479",
-    "files": [
-      {
-        "id": "F05BBQB0SV6",
-        "created": 1685683175,
-        "timestamp": 1685683175,
-        "name": "IMG_20230602_141926.jpg",
-        "title": "IMG_20230602_141926.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U02ULBH3TEJ",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 122051,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05BBQB0SV6-IMG_20230602_141926.jpg",
-        "url_private_download": "attachments/F05BBQB0SV6-IMG_20230602_141926.jpg",
-        "original_h": 3024,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_480.jpg",
-        "thumb_480_w": 480,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_720.jpg",
-        "thumb_720_w": 720,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_960.jpg",
-        "thumb_960_w": 960,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_1024.jpg",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U02ULBH3TEJ/F05BBQB0SV6/img_20230602_141926.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05BBQB0SV6-11855e8c60",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "VPkOn",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "308호에 에어팟 두고가신분 찾아가세요~!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
-      "first_name": "3기_권유진",
-      "real_name": "3기_권유진",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "ideastraw",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "f32f3c00-d491-4bb1-a173-b4d57deea95e",
+			"type": "message",
+			"user": "U02ULBH3TEJ",
+			"text": "308호에 에어팟 두고가신분 찾아가세요~!",
+			"ts": "1685683193.786479",
+			"files": [
+				{
+					"id": "F05BBQB0SV6",
+					"created": 1685683175,
+					"timestamp": 1685683175,
+					"name": "IMG_20230602_141926.jpg",
+					"title": "IMG_20230602_141926.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U02ULBH3TEJ",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 122051,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05BBQB0SV6-IMG_20230602_141926.jpg",
+					"url_private_download": "attachments/F05BBQB0SV6-IMG_20230602_141926.jpg",
+					"original_h": 3024,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_480.jpg",
+					"thumb_480_w": 480,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_720.jpg",
+					"thumb_720_w": 720,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_960.jpg",
+					"thumb_960_w": 960,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05BBQB0SV6-d2578c34c0/img_20230602_141926_1024.jpg",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U02ULBH3TEJ/F05BBQB0SV6/img_20230602_141926.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05BBQB0SV6-11855e8c60",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "VPkOn",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "308호에 에어팟 두고가신분 찾아가세요~!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+				"first_name": "3기_권유진",
+				"real_name": "3기_권유진",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "ideastraw",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

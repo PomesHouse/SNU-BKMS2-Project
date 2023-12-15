@@ -1,189 +1,191 @@
-[
-  {
-    "client_msg_id": "9013cd19-009a-47f3-9f07-99615666cdf5",
-    "type": "message",
-    "user": "U01Q3EPDBAA",
-    "text": "아직 점검 마쳐지지 않은건가요?\n\u003chttp://soju.snu.ac.kr:22555/\u003e\n저만 접속 안되는지 궁금합니다",
-    "ts": "1630285705.000500",
-    "thread_ts": "1629874346.042500",
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Vae",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "아직 점검 마쳐지지 않은건가요?\n"
-              },
-              {
-                "type": "link",
-                "url": "http://soju.snu.ac.kr:22555/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n저만 접속 안되는지 궁금합니다"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
-      "first_name": "Junbum",
-      "real_name": "Junbum Lee",
-      "display_name": "1기_이준범",
-      "team": "T01QA5S537V",
-      "name": "beomi",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "A1A189B2-1E24-4A31-9EA8-AE83FF445B5A",
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "네. 보안 관련 이슈가 많아서 금요일에 추가 조치를 해서 넘겼습니다. 오늘 다시 연락해보고 공지드리겠습니다.",
-    "ts": "1630287223.003000",
-    "thread_ts": "1629874346.042500",
-    "parent_user_id": "U01QAE5A9K5",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bYV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "네. 보안 관련 이슈가 많아서 금요일에 추가 조치를 해서 넘겼습니다. 오늘 다시 연락해보고 공지드리겠습니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "278d2b08-7de7-42b2-97e1-6ad6e723d618",
-    "type": "message",
-    "user": "U01PVEU98KH",
-    "text": "원장님께서 이번 학기에 \"데이터 기반 혁신과 창업\" 수업을 강의하십니다.\n비즈니스 및 창업에 관심이 있는 학생들의 참여를 독려하셨습니다 :-)\n(링크: \u003chttps://sites.google.com/snu.ac.kr/m3239-000600\u003e)\n\n특히, 이번 학기에는 실리콘 벨리 Storm Ventures VC의 남태희 대표님께서 수업을 공동 강연하십니다.\nStorm Ventures는 180개의 스타트업에 투자한 Venture Capital입니다.\n남태희 대표님은 \"Survival to Thrival: Building  the Enterprise Startup\"의 저자이기도 합니다.\n실리콘 벨리의 실무 경험과 조언을 받을 수 있는 기회가 될 것입니다.\n(Storm Ventures 링크: \u003chttps://www.stormventures.com/\u003e)",
-    "ts": "1630331066.005900",
-    "attachments": [
-      {
-        "fallback": "M3239.000600",
-        "id": 1,
-        "title": "M3239.000600",
-        "title_link": "https://sites.google.com/snu.ac.kr/m3239-000600",
-        "text": "Introduction Data Science is the foundation of ongoing disruptive innovation across all scientific and industrial sectors. More and more university startups emerged successfully from academic research. This course is intended for the students interested in understanding the nature of data-driven",
-        "service_name": "sites.google.com",
-        "service_icon": "https://ssl.gstatic.com/atari/images/public/favicon.ico",
-        "from_url": "https://sites.google.com/snu.ac.kr/m3239-000600",
-        "original_url": "https://sites.google.com/snu.ac.kr/m3239-000600",
-        "blocks": null
-      }
-    ],
-    "edited": {
-      "user": "U01PVEU98KH",
-      "ts": "1630331168.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "AWXm",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "원장님께서 이번 학기에 \"데이터 기반 혁신과 창업\" 수업을 강의하십니다.\n비즈니스 및 창업에 관심이 있는 학생들의 참여를 독려하셨습니다 :-)\n(링크: "
-              },
-              {
-                "type": "link",
-                "url": "https://sites.google.com/snu.ac.kr/m3239-000600",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")\n\n특히, 이번 학기에는 실리콘 벨리 Storm Ventures VC의 남태희 대표님께서 수업을 공동 강연하십니다.\nStorm Ventures는 180개의 스타트업에 투자한 Venture Capital입니다.\n남태희 대표님은 \"Survival to Thrival: Building  the Enterprise Startup\"의 저자이기도 합니다.\n실리콘 벨리의 실무 경험과 조언을 받을 수 있는 기회가 될 것입니다.\n(Storm Ventures 링크: "
-              },
-              {
-                "type": "link",
-                "url": "https://www.stormventures.com/",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ")"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/a7e39a3649eb0372be7b0330d3c40062.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
-      "first_name": "1기_채규욱",
-      "real_name": "1기_채규욱",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kwchai",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "9013cd19-009a-47f3-9f07-99615666cdf5",
+			"type": "message",
+			"user": "U01Q3EPDBAA",
+			"text": "아직 점검 마쳐지지 않은건가요?\n<http://soju.snu.ac.kr:22555/>\n저만 접속 안되는지 궁금합니다",
+			"ts": "1630285705.000500",
+			"thread_ts": "1629874346.042500",
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Vae",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "아직 점검 마쳐지지 않은건가요?\n"
+								},
+								{
+									"type": "link",
+									"url": "http://soju.snu.ac.kr:22555/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n저만 접속 안되는지 궁금합니다"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-10/1838308462629_01b4bece964a20ce6acd_72.png",
+				"first_name": "Junbum",
+				"real_name": "Junbum Lee",
+				"display_name": "1기_이준범",
+				"team": "T01QA5S537V",
+				"name": "beomi",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "A1A189B2-1E24-4A31-9EA8-AE83FF445B5A",
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "네. 보안 관련 이슈가 많아서 금요일에 추가 조치를 해서 넘겼습니다. 오늘 다시 연락해보고 공지드리겠습니다.",
+			"ts": "1630287223.003000",
+			"thread_ts": "1629874346.042500",
+			"parent_user_id": "U01QAE5A9K5",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bYV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "네. 보안 관련 이슈가 많아서 금요일에 추가 조치를 해서 넘겼습니다. 오늘 다시 연락해보고 공지드리겠습니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "278d2b08-7de7-42b2-97e1-6ad6e723d618",
+			"type": "message",
+			"user": "U01PVEU98KH",
+			"text": "원장님께서 이번 학기에 \"데이터 기반 혁신과 창업\" 수업을 강의하십니다.\n비즈니스 및 창업에 관심이 있는 학생들의 참여를 독려하셨습니다 :-)\n(링크: <https://sites.google.com/snu.ac.kr/m3239-000600>)\n\n특히, 이번 학기에는 실리콘 벨리 Storm Ventures VC의 남태희 대표님께서 수업을 공동 강연하십니다.\nStorm Ventures는 180개의 스타트업에 투자한 Venture Capital입니다.\n남태희 대표님은 \"Survival to Thrival: Building  the Enterprise Startup\"의 저자이기도 합니다.\n실리콘 벨리의 실무 경험과 조언을 받을 수 있는 기회가 될 것입니다.\n(Storm Ventures 링크: <https://www.stormventures.com/>)",
+			"ts": "1630331066.005900",
+			"attachments": [
+				{
+					"fallback": "M3239.000600",
+					"id": 1,
+					"title": "M3239.000600",
+					"title_link": "https://sites.google.com/snu.ac.kr/m3239-000600",
+					"text": "Introduction Data Science is the foundation of ongoing disruptive innovation across all scientific and industrial sectors. More and more university startups emerged successfully from academic research. This course is intended for the students interested in understanding the nature of data-driven",
+					"service_name": "sites.google.com",
+					"service_icon": "https://ssl.gstatic.com/atari/images/public/favicon.ico",
+					"from_url": "https://sites.google.com/snu.ac.kr/m3239-000600",
+					"original_url": "https://sites.google.com/snu.ac.kr/m3239-000600",
+					"blocks": null
+				}
+			],
+			"edited": {
+				"user": "U01PVEU98KH",
+				"ts": "1630331168.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "AWXm",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "원장님께서 이번 학기에 \"데이터 기반 혁신과 창업\" 수업을 강의하십니다.\n비즈니스 및 창업에 관심이 있는 학생들의 참여를 독려하셨습니다 :-)\n(링크: "
+								},
+								{
+									"type": "link",
+									"url": "https://sites.google.com/snu.ac.kr/m3239-000600",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")\n\n특히, 이번 학기에는 실리콘 벨리 Storm Ventures VC의 남태희 대표님께서 수업을 공동 강연하십니다.\nStorm Ventures는 180개의 스타트업에 투자한 Venture Capital입니다.\n남태희 대표님은 \"Survival to Thrival: Building  the Enterprise Startup\"의 저자이기도 합니다.\n실리콘 벨리의 실무 경험과 조언을 받을 수 있는 기회가 될 것입니다.\n(Storm Ventures 링크: "
+								},
+								{
+									"type": "link",
+									"url": "https://www.stormventures.com/",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ")"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/a7e39a3649eb0372be7b0330d3c40062.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+				"first_name": "1기_채규욱",
+				"real_name": "1기_채규욱",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kwchai",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

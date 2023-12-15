@@ -1,73 +1,75 @@
-[
-  {
-    "client_msg_id": "193dea36-e68f-49ac-b284-e25fcdc317b4",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "*\u0026lt;공통 질문사항\u0026gt;* \n• launch-jupyter, launch-shell 실행 시 gpu가 안 된다는 문의가 종종 있는데, GPU 사용을 위한 환경 셋팅은 본인이 하셔야 합니다. (cuda, cudnn)",
-    "ts": "1633676515.075900",
-    "edited": {
-      "user": "U01QAE573J7",
-      "ts": "1633676542.000000"
-    },
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U01PVETMX2T",
-          "U01QAE5DERZ"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "+dOrK",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c공통 질문사항\u003e ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"launch-jupyter, launch-shell \\uc2e4\\ud589 \\uc2dc gpu\\uac00 \\uc548 \\ub41c\\ub2e4\\ub294 \\ubb38\\uc758\\uac00 \\uc885\\uc885 \\uc788\\ub294\\ub370, GPU \\uc0ac\\uc6a9\\uc744 \\uc704\\ud55c \\ud658\\uacbd \\uc14b\\ud305\\uc740 \\ubcf8\\uc778\\uc774 \\ud558\\uc154\\uc57c \\ud569\\ub2c8\\ub2e4. (cuda, cudnn)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "193dea36-e68f-49ac-b284-e25fcdc317b4",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "*&lt;공통 질문사항&gt;* \n• launch-jupyter, launch-shell 실행 시 gpu가 안 된다는 문의가 종종 있는데, GPU 사용을 위한 환경 셋팅은 본인이 하셔야 합니다. (cuda, cudnn)",
+			"ts": "1633676515.075900",
+			"edited": {
+				"user": "U01QAE573J7",
+				"ts": "1633676542.000000"
+			},
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U01PVETMX2T",
+						"U01QAE5DERZ"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "+dOrK",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<공통 질문사항> ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"launch-jupyter, launch-shell \\uc2e4\\ud589 \\uc2dc gpu\\uac00 \\uc548 \\ub41c\\ub2e4\\ub294 \\ubb38\\uc758\\uac00 \\uc885\\uc885 \\uc788\\ub294\\ub370, GPU \\uc0ac\\uc6a9\\uc744 \\uc704\\ud55c \\ud658\\uacbd \\uc14b\\ud305\\uc740 \\ubcf8\\uc778\\uc774 \\ud558\\uc154\\uc57c \\ud569\\ub2c8\\ub2e4. (cuda, cudnn)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

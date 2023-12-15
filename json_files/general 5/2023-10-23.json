@@ -1,425 +1,427 @@
-[
-  {
-    "client_msg_id": "81958d54-af54-4d31-8e8f-669a0032bfd5",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;10/25(수) 오후5시 BK21 x ERC 세미나, 이문태 교수, University of Illinois Chicago\u0026gt;*\n\n*일시*: 2023년 10월 25일(수), 오후 5시\n*장소*: 서울대학교 43-2동 B102호\n\n*Speaker*: 이문태 교수, University of Illinois Chicago / LG AI Research\n*Title*: The Art of Generative AI: Text, Code, and Beyond\n\n*Abstract*:\nLarge Language Models (LLMs) have transformed Natural Language Processing and the wider spectrum of Artificial Intelligence. Relying on their capability to understand extensive contexts, the groundbreaking innovation lies in tackling multiple tasks by a single formalism: generating contextually coherent and creatively diverse subsequent outputs. This talk overviews recent progress in large language modeling and my journey into the realm of generative AI. Highlighting my focuses on both text and code modalities, the talk delves into my recent research on retrieval-augmented text generation and multilingual code completions. Furthermore, the presentation outlines my ongoing research trajectory on planning, reasoning, aligning, and prospective steps toward self-learning.\n\n*Bio*:\nMoontae Lee leads the Advanced Machine Learning Laboratory in Seoul at LG AI Research. Concurrently he is an assistant professor of Information and Decision Sciences at the University of Illinois Chicago. Prior to leading LG AI Research, he was invited to be a visiting scholar at Microsoft Research (MSR) and later extended as a consulting professor for the Deep Learning Group at MSR Redmond. Moontae’s research aims to develop innovative AI models and algorithms. While designing Large Language Models and Deep Generative Models are his primary focuses, his curiosity also spans to Human-AI interactions, aiming to build interactive platforms that foster intellectual, insightful, and inspirational communications.",
-    "ts": "1698041637.767699",
-    "files": [
-      {
-        "id": "F062A3ZPDHR",
-        "created": 1698041635,
-        "timestamp": 1698041635,
-        "name": "MoontaeLee_Poster.jpg",
-        "title": "MoontaeLee_Poster.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 305787,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F062A3ZPDHR-MoontaeLee_Poster.jpg",
-        "url_private_download": "attachments/F062A3ZPDHR-MoontaeLee_Poster.jpg",
-        "original_h": 1920,
-        "original_w": 1440,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F062A3ZPDHR/moontaelee_poster.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F062A3ZPDHR-b3dded0484",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "sw+6D",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c10/25(수) 오후5시 BK21 x ERC 세미나, 이문태 교수, University of Illinois Chicago\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "일시",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 2023년 10월 25일(수), 오후 5시\n"
-              },
-              {
-                "type": "text",
-                "text": "장소",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 서울대학교 43-2동 B102호\n\n"
-              },
-              {
-                "type": "text",
-                "text": "Speaker",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 이문태 교수, University of Illinois Chicago / LG AI Research\n"
-              },
-              {
-                "type": "text",
-                "text": "Title",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": The Art of Generative AI: Text, Code, and Beyond\n\n"
-              },
-              {
-                "type": "text",
-                "text": "Abstract",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ":\nLarge Language Models (LLMs) have transformed Natural Language Processing and the wider spectrum of Artificial Intelligence. Relying on their capability to understand extensive contexts, the groundbreaking innovation lies in tackling multiple tasks by a single formalism: generating contextually coherent and creatively diverse subsequent outputs. This talk overviews recent progress in large language modeling and my journey into the realm of generative AI. Highlighting my focuses on both text and code modalities, the talk delves into my recent research on retrieval-augmented text generation and multilingual code completions. Furthermore, the presentation outlines my ongoing research trajectory on planning, reasoning, aligning, and prospective steps toward self-learning.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "Bio",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ":\nMoontae Lee leads the Advanced Machine Learning Laboratory in Seoul at LG AI Research. Concurrently he is an assistant professor of Information and Decision Sciences at the University of Illinois Chicago. Prior to leading LG AI Research, he was invited to be a visiting scholar at Microsoft Research (MSR) and later extended as a consulting professor for the Deep Learning Group at MSR Redmond. Moontae’s research aims to develop innovative AI models and algorithms. While designing Large Language Models and Deep Generative Models are his primary focuses, his curiosity also spans to Human-AI interactions, aiming to build interactive platforms that foster intellectual, insightful, and inspirational communications."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "30e80780-ff69-4ef9-8c27-59addb2bfc51",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; (서울AI허브) 2023년도 AIㆍSW 교육과정 안내 \u0026gt;\n\n서울 AI 허브에서 2023년도 AIㆍSW 교육과정 지원자를 모집하고 있음을 알려와 안내드리오니 관심 있으신 학생께서는 참고하시기 바랍니다.\n\n  ○ 교육과정 개요\n    가. 교육과정명: 2023년도 AIㆍSW 교육과정\n    나. 모집기간: 2023.10.20.(금) ~ 2023.11.09.(목)\n    다. 교육장소: 서울 AI 허브 교육동 (서울시 서초구 태봉로 114)\n      ※ 세부 내용 공고문 참조",
-    "ts": "1698042463.422829",
-    "files": [
-      {
-        "id": "F062Z7RTTNC",
-        "created": 1698042396,
-        "timestamp": 1698042396,
-        "name": "붙임. AIㆍSW 교육과정_포스터.png",
-        "title": "붙임. AIㆍSW 교육과정_포스터.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 304958,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F062Z7RTTNC-붙임. AIㆍSW 교육과정_포스터.png",
-        "url_private_download": "attachments/F062Z7RTTNC-붙임. AIㆍSW 교육과정_포스터.png",
-        "original_h": 1714,
-        "original_w": 1273,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 267,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________480.png",
-        "thumb_480_w": 356,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________720.png",
-        "thumb_720_w": 535,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________960.png",
-        "thumb_960_w": 713,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________1024.png",
-        "thumb_1024_w": 761,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F062Z7RTTNC/______._ai___sw_______________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F062Z7RTTNC-241f0d9b05",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "gADMC",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c (서울AI허브) 2023년도 AIㆍSW 교육과정 안내 \u003e\n\n서울 AI 허브에서 2023년도 AIㆍSW 교육과정 지원자를 모집하고 있음을 알려와 안내드리오니 관심 있으신 학생께서는 참고하시기 바랍니다.\n\n  ○ 교육과정 개요\n    가. 교육과정명: 2023년도 AIㆍSW 교육과정\n    나. 모집기간: 2023.10.20.(금) ~ 2023.11.09.(목)\n    다. 교육장소: 서울 AI 허브 교육동 (서울시 서초구 태봉로 114)\n      ※ 세부 내용 공고문 참조"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "81e1664a-81d6-467c-a583-6db991534e3e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2024학년도 논문제출자격시험 일정 변경 안내\u0026gt;\n2024학년도부터는 논문제출자격시험 일정이 다음과 같이 변경됩니다.\n(※ 지난 10. 6. 공지하였던 매년 1월, 7월 시행 아님)\n\nㅁ2024학년도 부터: 매년 3월, 9월 첫째주 시행으로 변경\nㅁ2024학년도 1학기 시험 진행일정(안)\n ㅇ2024. 3. 4.(월) 14:00 ~ 17:00 필기\n ㅇ2024. 3. 5.(화) 14:00 ~ 17:00 프로그래밍\n ㅇ2024. 3. 8.(금) 프로젝트 구술고사\n\n\u0026lt;2024학년도 2학기 논문제출자격시험 시험 범위 관련 안내\u0026gt;\nㅁ2024학년도 2학기부터는 논자시 시험 범위에 \"컴퓨팅1\"이 포함될 예정입니다.",
-    "ts": "1698043253.540479",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "4Sk00",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2024학년도 논문제출자격시험 일정 변경 안내\u003e\n2024학년도부터는 논문제출자격시험 일정이 다음과 같이 변경됩니다.\n(※ 지난 10. 6. 공지하였던 매년 1월, 7월 시행 아님)\n\nㅁ2024학년도 부터: 매년 3월, 9월 첫째주 시행으로 변경\nㅁ2024학년도 1학기 시험 진행일정(안)\n ㅇ2024. 3. 4.(월) 14:00 ~ 17:00 필기\n ㅇ2024. 3. 5.(화) 14:00 ~ 17:00 프로그래밍\n ㅇ2024. 3. 8.(금) 프로젝트 구술고사\n\n\u003c2024학년도 2학기 논문제출자격시험 시험 범위 관련 안내\u003e\nㅁ2024학년도 2학기부터는 논자시 시험 범위에 \"컴퓨팅1\"이 포함될 예정입니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "669dd12a-604b-4e86-9e2d-69f9c7b0adfa",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 2학기 대학원생 생활지원장학금 선발 결과 알림\u0026gt;*\n\n○ 선발자에게 SNU 이메일로 개별 알림(탈락자는 별도 알림 없음)\n○ 장학금 지급(예정)일: 매월 25일 / ※ 9월분 및 10월분 지급: 2023. 10. 25.(수)\n    1) 생활지원장학생에게“*수혜 후기 보고서\"* 제출 의무*(신설)*\n      -수혜후기보고서를 행정실로 *2023.12.4.(월)*까지  제출\n    2) 장학금 지급 중단 사유(휴학 등 학적변동), 생활비성 중복 수혜를 금지하는 타 장학금 수혜시 행정실로 즉시 통보",
-    "ts": "1698045350.375669",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "AdMpE",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 2학기 대학원생 생활지원장학금 선발 결과 알림\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n○ 선발자에게 SNU 이메일로 개별 알림(탈락자는 별도 알림 없음)\n○ 장학금 지급(예정)일: 매월 25일 / ※ 9월분 및 10월분 지급: 2023. 10. 25.(수)\n    1) 생활지원장학생에게“"
-              },
-              {
-                "type": "text",
-                "text": "수혜 후기 보고서\"",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 제출 의무"
-              },
-              {
-                "type": "text",
-                "text": "(신설)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n      -수혜후기보고서를 행정실로 "
-              },
-              {
-                "type": "text",
-                "text": "2023.12.4.(월)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "까지  제출\n    2) 장학금 지급 중단 사유(휴학 등 학적변동), 생활비성 중복 수혜를 금지하는 타 장학금 수혜시 행정실로 즉시 통보"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "81958d54-af54-4d31-8e8f-669a0032bfd5",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;10/25(수) 오후5시 BK21 x ERC 세미나, 이문태 교수, University of Illinois Chicago&gt;*\n\n*일시*: 2023년 10월 25일(수), 오후 5시\n*장소*: 서울대학교 43-2동 B102호\n\n*Speaker*: 이문태 교수, University of Illinois Chicago / LG AI Research\n*Title*: The Art of Generative AI: Text, Code, and Beyond\n\n*Abstract*:\nLarge Language Models (LLMs) have transformed Natural Language Processing and the wider spectrum of Artificial Intelligence. Relying on their capability to understand extensive contexts, the groundbreaking innovation lies in tackling multiple tasks by a single formalism: generating contextually coherent and creatively diverse subsequent outputs. This talk overviews recent progress in large language modeling and my journey into the realm of generative AI. Highlighting my focuses on both text and code modalities, the talk delves into my recent research on retrieval-augmented text generation and multilingual code completions. Furthermore, the presentation outlines my ongoing research trajectory on planning, reasoning, aligning, and prospective steps toward self-learning.\n\n*Bio*:\nMoontae Lee leads the Advanced Machine Learning Laboratory in Seoul at LG AI Research. Concurrently he is an assistant professor of Information and Decision Sciences at the University of Illinois Chicago. Prior to leading LG AI Research, he was invited to be a visiting scholar at Microsoft Research (MSR) and later extended as a consulting professor for the Deep Learning Group at MSR Redmond. Moontae’s research aims to develop innovative AI models and algorithms. While designing Large Language Models and Deep Generative Models are his primary focuses, his curiosity also spans to Human-AI interactions, aiming to build interactive platforms that foster intellectual, insightful, and inspirational communications.",
+			"ts": "1698041637.767699",
+			"files": [
+				{
+					"id": "F062A3ZPDHR",
+					"created": 1698041635,
+					"timestamp": 1698041635,
+					"name": "MoontaeLee_Poster.jpg",
+					"title": "MoontaeLee_Poster.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 305787,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F062A3ZPDHR-MoontaeLee_Poster.jpg",
+					"url_private_download": "attachments/F062A3ZPDHR-MoontaeLee_Poster.jpg",
+					"original_h": 1920,
+					"original_w": 1440,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F062A3ZPDHR-4368e4ecbb/moontaelee_poster_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F062A3ZPDHR/moontaelee_poster.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F062A3ZPDHR-b3dded0484",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "sw+6D",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<10/25(수) 오후5시 BK21 x ERC 세미나, 이문태 교수, University of Illinois Chicago>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "일시",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 2023년 10월 25일(수), 오후 5시\n"
+								},
+								{
+									"type": "text",
+									"text": "장소",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 서울대학교 43-2동 B102호\n\n"
+								},
+								{
+									"type": "text",
+									"text": "Speaker",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 이문태 교수, University of Illinois Chicago / LG AI Research\n"
+								},
+								{
+									"type": "text",
+									"text": "Title",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": The Art of Generative AI: Text, Code, and Beyond\n\n"
+								},
+								{
+									"type": "text",
+									"text": "Abstract",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ":\nLarge Language Models (LLMs) have transformed Natural Language Processing and the wider spectrum of Artificial Intelligence. Relying on their capability to understand extensive contexts, the groundbreaking innovation lies in tackling multiple tasks by a single formalism: generating contextually coherent and creatively diverse subsequent outputs. This talk overviews recent progress in large language modeling and my journey into the realm of generative AI. Highlighting my focuses on both text and code modalities, the talk delves into my recent research on retrieval-augmented text generation and multilingual code completions. Furthermore, the presentation outlines my ongoing research trajectory on planning, reasoning, aligning, and prospective steps toward self-learning.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "Bio",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ":\nMoontae Lee leads the Advanced Machine Learning Laboratory in Seoul at LG AI Research. Concurrently he is an assistant professor of Information and Decision Sciences at the University of Illinois Chicago. Prior to leading LG AI Research, he was invited to be a visiting scholar at Microsoft Research (MSR) and later extended as a consulting professor for the Deep Learning Group at MSR Redmond. Moontae’s research aims to develop innovative AI models and algorithms. While designing Large Language Models and Deep Generative Models are his primary focuses, his curiosity also spans to Human-AI interactions, aiming to build interactive platforms that foster intellectual, insightful, and inspirational communications."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "30e80780-ff69-4ef9-8c27-59addb2bfc51",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; (서울AI허브) 2023년도 AIㆍSW 교육과정 안내 &gt;\n\n서울 AI 허브에서 2023년도 AIㆍSW 교육과정 지원자를 모집하고 있음을 알려와 안내드리오니 관심 있으신 학생께서는 참고하시기 바랍니다.\n\n  ○ 교육과정 개요\n    가. 교육과정명: 2023년도 AIㆍSW 교육과정\n    나. 모집기간: 2023.10.20.(금) ~ 2023.11.09.(목)\n    다. 교육장소: 서울 AI 허브 교육동 (서울시 서초구 태봉로 114)\n      ※ 세부 내용 공고문 참조",
+			"ts": "1698042463.422829",
+			"files": [
+				{
+					"id": "F062Z7RTTNC",
+					"created": 1698042396,
+					"timestamp": 1698042396,
+					"name": "붙임. AIㆍSW 교육과정_포스터.png",
+					"title": "붙임. AIㆍSW 교육과정_포스터.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 304958,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F062Z7RTTNC-붙임. AIㆍSW 교육과정_포스터.png",
+					"url_private_download": "attachments/F062Z7RTTNC-붙임. AIㆍSW 교육과정_포스터.png",
+					"original_h": 1714,
+					"original_w": 1273,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 267,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________480.png",
+					"thumb_480_w": 356,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________720.png",
+					"thumb_720_w": 535,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________960.png",
+					"thumb_960_w": 713,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F062Z7RTTNC-e4d756d5ab/______._ai___sw________________________1024.png",
+					"thumb_1024_w": 761,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F062Z7RTTNC/______._ai___sw_______________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F062Z7RTTNC-241f0d9b05",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "gADMC",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< (서울AI허브) 2023년도 AIㆍSW 교육과정 안내 >\n\n서울 AI 허브에서 2023년도 AIㆍSW 교육과정 지원자를 모집하고 있음을 알려와 안내드리오니 관심 있으신 학생께서는 참고하시기 바랍니다.\n\n  ○ 교육과정 개요\n    가. 교육과정명: 2023년도 AIㆍSW 교육과정\n    나. 모집기간: 2023.10.20.(금) ~ 2023.11.09.(목)\n    다. 교육장소: 서울 AI 허브 교육동 (서울시 서초구 태봉로 114)\n      ※ 세부 내용 공고문 참조"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "81e1664a-81d6-467c-a583-6db991534e3e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2024학년도 논문제출자격시험 일정 변경 안내&gt;\n2024학년도부터는 논문제출자격시험 일정이 다음과 같이 변경됩니다.\n(※ 지난 10. 6. 공지하였던 매년 1월, 7월 시행 아님)\n\nㅁ2024학년도 부터: 매년 3월, 9월 첫째주 시행으로 변경\nㅁ2024학년도 1학기 시험 진행일정(안)\n ㅇ2024. 3. 4.(월) 14:00 ~ 17:00 필기\n ㅇ2024. 3. 5.(화) 14:00 ~ 17:00 프로그래밍\n ㅇ2024. 3. 8.(금) 프로젝트 구술고사\n\n&lt;2024학년도 2학기 논문제출자격시험 시험 범위 관련 안내&gt;\nㅁ2024학년도 2학기부터는 논자시 시험 범위에 \"컴퓨팅1\"이 포함될 예정입니다.",
+			"ts": "1698043253.540479",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "4Sk00",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2024학년도 논문제출자격시험 일정 변경 안내>\n2024학년도부터는 논문제출자격시험 일정이 다음과 같이 변경됩니다.\n(※ 지난 10. 6. 공지하였던 매년 1월, 7월 시행 아님)\n\nㅁ2024학년도 부터: 매년 3월, 9월 첫째주 시행으로 변경\nㅁ2024학년도 1학기 시험 진행일정(안)\n ㅇ2024. 3. 4.(월) 14:00 ~ 17:00 필기\n ㅇ2024. 3. 5.(화) 14:00 ~ 17:00 프로그래밍\n ㅇ2024. 3. 8.(금) 프로젝트 구술고사\n\n<2024학년도 2학기 논문제출자격시험 시험 범위 관련 안내>\nㅁ2024학년도 2학기부터는 논자시 시험 범위에 \"컴퓨팅1\"이 포함될 예정입니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "669dd12a-604b-4e86-9e2d-69f9c7b0adfa",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 2학기 대학원생 생활지원장학금 선발 결과 알림&gt;*\n\n○ 선발자에게 SNU 이메일로 개별 알림(탈락자는 별도 알림 없음)\n○ 장학금 지급(예정)일: 매월 25일 / ※ 9월분 및 10월분 지급: 2023. 10. 25.(수)\n    1) 생활지원장학생에게“*수혜 후기 보고서\"* 제출 의무*(신설)*\n      -수혜후기보고서를 행정실로 *2023.12.4.(월)*까지  제출\n    2) 장학금 지급 중단 사유(휴학 등 학적변동), 생활비성 중복 수혜를 금지하는 타 장학금 수혜시 행정실로 즉시 통보",
+			"ts": "1698045350.375669",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "AdMpE",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 2학기 대학원생 생활지원장학금 선발 결과 알림>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n○ 선발자에게 SNU 이메일로 개별 알림(탈락자는 별도 알림 없음)\n○ 장학금 지급(예정)일: 매월 25일 / ※ 9월분 및 10월분 지급: 2023. 10. 25.(수)\n    1) 생활지원장학생에게“"
+								},
+								{
+									"type": "text",
+									"text": "수혜 후기 보고서\"",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 제출 의무"
+								},
+								{
+									"type": "text",
+									"text": "(신설)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n      -수혜후기보고서를 행정실로 "
+								},
+								{
+									"type": "text",
+									"text": "2023.12.4.(월)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "까지  제출\n    2) 장학금 지급 중단 사유(휴학 등 학적변동), 생활비성 중복 수혜를 금지하는 타 장학금 수혜시 행정실로 즉시 통보"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

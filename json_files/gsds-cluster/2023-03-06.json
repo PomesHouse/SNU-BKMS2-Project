@@ -1,99 +1,101 @@
-[
-  {
-    "client_msg_id": "46c64bf8-a01e-4733-a609-a5a6a44f1fce",
-    "type": "message",
-    "user": "U01R67PKD7S",
-    "text": "*[서버 이용 공지]*\n현재 일요일(3/5) 점심 쯤 a,b 노드의 파일 시스템에 문제가 생겨 확인 중에 있습니다.\n해당 문제가 해결될 때까지는 a,b 노드에서 별도의 작업이 불가능합니다.",
-    "ts": "1678078813.018599",
-    "thread_ts": "1678078813.018599",
-    "reply_count": 2,
-    "replies": [
-      {
-        "user": "U01R67PKD7S",
-        "ts": "1678690908.152809"
-      },
-      {
-        "user": "U01QAE5A9K5",
-        "ts": "1678716487.160389"
-      }
-    ],
-    "latest_reply": "1678716487.160389",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 6,
-        "users": [
-          "U0302PLQ34Y",
-          "U02V5LT4DLZ",
-          "U01Q75KNV1T",
-          "U02UT2VQ9NF",
-          "U02V5LRSE2V",
-          "U02BD3EV4DQ"
-        ]
-      },
-      {
-        "name": "sob",
-        "count": 1,
-        "users": [
-          "U01QGJL6SP5"
-        ]
-      },
-      {
-        "name": "pray",
-        "count": 1,
-        "users": [
-          "U01R688QZ16"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "ouN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[서버 이용 공지]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n현재 일요일(3/5) 점심 쯤 a,b 노드의 파일 시스템에 문제가 생겨 확인 중에 있습니다.\n해당 문제가 해결될 때까지는 a,b 노드에서 별도의 작업이 불가능합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
-      "first_name": "조경제",
-      "real_name": "조경제",
-      "display_name": "4기_조경제",
-      "team": "T01QA5S537V",
-      "name": "avq159",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 2,
-    "reply_users": [
-      "U01QAE5A9K5",
-      "U01R67PKD7S"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "46c64bf8-a01e-4733-a609-a5a6a44f1fce",
+			"type": "message",
+			"user": "U01R67PKD7S",
+			"text": "*[서버 이용 공지]*\n현재 일요일(3/5) 점심 쯤 a,b 노드의 파일 시스템에 문제가 생겨 확인 중에 있습니다.\n해당 문제가 해결될 때까지는 a,b 노드에서 별도의 작업이 불가능합니다.",
+			"ts": "1678078813.018599",
+			"thread_ts": "1678078813.018599",
+			"reply_count": 2,
+			"replies": [
+				{
+					"user": "U01R67PKD7S",
+					"ts": "1678690908.152809"
+				},
+				{
+					"user": "U01QAE5A9K5",
+					"ts": "1678716487.160389"
+				}
+			],
+			"latest_reply": "1678716487.160389",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 6,
+					"users": [
+						"U0302PLQ34Y",
+						"U02V5LT4DLZ",
+						"U01Q75KNV1T",
+						"U02UT2VQ9NF",
+						"U02V5LRSE2V",
+						"U02BD3EV4DQ"
+					]
+				},
+				{
+					"name": "sob",
+					"count": 1,
+					"users": [
+						"U01QGJL6SP5"
+					]
+				},
+				{
+					"name": "pray",
+					"count": 1,
+					"users": [
+						"U01R688QZ16"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "ouN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[서버 이용 공지]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n현재 일요일(3/5) 점심 쯤 a,b 노드의 파일 시스템에 문제가 생겨 확인 중에 있습니다.\n해당 문제가 해결될 때까지는 a,b 노드에서 별도의 작업이 불가능합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+				"first_name": "조경제",
+				"real_name": "조경제",
+				"display_name": "4기_조경제",
+				"team": "T01QA5S537V",
+				"name": "avq159",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 2,
+			"reply_users": [
+				"U01QAE5A9K5",
+				"U01R67PKD7S"
+			]
+		}
+	]
+}

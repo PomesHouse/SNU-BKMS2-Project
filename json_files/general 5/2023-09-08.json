@@ -1,978 +1,980 @@
-[
-  {
-    "client_msg_id": "ecf5b3e0-3a0f-48f9-8b6d-299d036e9643",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;43-2동 스터디룸 및 학생휴게실 사용 안내 \u0026gt;*\n\n*ㅇ학생휴게실 조성:* 현재 운영 중인 *43-2동 103호 스터디룸이 다음주부터 학생 휴게공간으로 전환될 예정*입니다. 학생 휴게공간에는 무인결제 프린터(942동 3층 프린터룸과 동일), 냉장고 및 전자레인지를 다음주 이후 순차적으로 구비할 예정입니다. 이에, *다음주(9.11.(월)~)부터 기 예약 신청된 건들은 모두 일괄 반려할 예정*이오니 *반드시 확인*하시기 바랍니다.\n\n*ㅇ스터디룸 사용(104~106호)*: *공과대학 스터디룸인 43-2동 104호, 105호, 106호 3개 호실을 추가로 사용*할 수 있게 예약하샤에 반영되었습니다. 학생 여러분께서는 *예약 승인(공과대학) 후에 사용*할 수 있으니 *다음주부터 세미나, 스터디, 간략한 미팅 등이 필요하신 경우에는 3개 스터디룸을 이용*하여 주시기 바랍니다.\n\n아울러, 학생휴게실 및 스터디룸 사용 시 *반드시 뒷정리를 깨끗하게* 해주시기 바랍니다.(쓰레기는 반드시 가져가 주시고, 음식물도 남김 없이 치워주시며, 환기를 통해 냄새를 제거해주시기 바랍니다.)",
-    "ts": "1694145998.148159",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1694146341.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "prRnz",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c43-2동 스터디룸 및 학생휴게실 사용 안내 \u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅇ학생휴게실 조성:",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 현재 운영 중인 "
-              },
-              {
-                "type": "text",
-                "text": "43-2동 103호 스터디룸이 다음주부터 학생 휴게공간으로 전환될 예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "입니다. 학생 휴게공간에는 무인결제 프린터(942동 3층 프린터룸과 동일), 냉장고 및 전자레인지를 다음주 이후 순차적으로 구비할 예정입니다. 이에, "
-              },
-              {
-                "type": "text",
-                "text": "다음주(9.11.(월)~)부터 기 예약 신청된 건들은 모두 일괄 반려할 예정",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "이오니 "
-              },
-              {
-                "type": "text",
-                "text": "반드시 확인",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅇ스터디룸 사용(104~106호)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": "
-              },
-              {
-                "type": "text",
-                "text": "공과대학 스터디룸인 43-2동 104호, 105호, 106호 3개 호실을 추가로 사용",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "할 수 있게 예약하샤에 반영되었습니다. 학생 여러분께서는 "
-              },
-              {
-                "type": "text",
-                "text": "예약 승인(공과대학) 후에 사용",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "할 수 있으니 "
-              },
-              {
-                "type": "text",
-                "text": "다음주부터 세미나, 스터디, 간략한 미팅 등이 필요하신 경우에는 3개 스터디룸을 이용",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하여 주시기 바랍니다.\n\n아울러, 학생휴게실 및 스터디룸 사용 시 "
-              },
-              {
-                "type": "text",
-                "text": "반드시 뒷정리를 깨끗하게",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 해주시기 바랍니다.(쓰레기는 반드시 가져가 주시고, 음식물도 남김 없이 치워주시며, 환기를 통해 냄새를 제거해주시기 바랍니다.)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "007684cd-5c51-44b8-bd08-13c85cf620fa",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023년 상반기 통영시 대학(원)생 학자금 대출이자 지원사업 안내\u0026gt;*\n\n통영시에서 2023년 상반기 대학(원)생 학자금 대출이자 지원 사업을 아래와 같이 시행하고 있으니, 해당 학생들은 지원바랍니다.\n  가. 지원내용: 한국장학재단에서 2013. 8. 1.이후 대출받은 학자금(등록금, 생활비)의 2023년 상반기(1월 ~ 6월) 발생이자 지원\n  나. 지원대상: *대학(원)생 또는 미취업 졸업생* 중 공고일(2023. 8. 28.) 기준 본인이 1년 이상 또는 직계존속이 3년 이상 *통영시*에 *주민등록*이 되어 있고, *통영시 소재 고등학교를 졸업*한 사람\n                 ※ 졸업생은 공고일(2023. 8. 28.) 기준 졸업한 날로부터 2년 이내 미취업자에 한함\n  다. 신청기간: *2023. 9. 18.(월) 18:00 까지*\n  라. 신청방법: 방문, 우편, 전자 우편 접수(*상세 방법 붙임의 공고문 참고*)\n  마. 문 의 처: *통영시 평생학습관 교육지원팀(\u003ctel:0556502613|055-650-2613\u003e)*",
-    "ts": "1694147215.850739",
-    "files": [
-      {
-        "id": "F05RDCPCW05",
-        "created": 1694147202,
-        "timestamp": 1694147202,
-        "name": "2023년 상반기분 통영시 대학생 학자금 이자 지원 공고.hwp",
-        "title": "2023년 상반기분 통영시 대학생 학자금 이자 지원 공고.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 109056,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05RDCPCW05-2023년 상반기분 통영시 대학생 학자금 이자 지원 공고.hwp",
-        "url_private_download": "attachments/F05RDCPCW05-2023년 상반기분 통영시 대학생 학자금 이자 지원 공고.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RDCPCW05/2023___________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05RDCPCW05-d49b67b9fc",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "2oI",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023년 상반기 통영시 대학(원)생 학자금 대출이자 지원사업 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n통영시에서 2023년 상반기 대학(원)생 학자금 대출이자 지원 사업을 아래와 같이 시행하고 있으니, 해당 학생들은 지원바랍니다.\n  가. 지원내용: 한국장학재단에서 2013. 8. 1.이후 대출받은 학자금(등록금, 생활비)의 2023년 상반기(1월 ~ 6월) 발생이자 지원\n  나. 지원대상: "
-              },
-              {
-                "type": "text",
-                "text": "대학(원)생 또는 미취업 졸업생",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 중 공고일(2023. 8. 28.) 기준 본인이 1년 이상 또는 직계존속이 3년 이상"
-              },
-              {
-                "type": "text",
-                "text": " 통영시",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "에 "
-              },
-              {
-                "type": "text",
-                "text": "주민등록",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "이 되어 있고, "
-              },
-              {
-                "type": "text",
-                "text": "통영시 소재 고등학교를 졸업",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "한 사람\n                 ※ 졸업생은 공고일(2023. 8. 28.) 기준 졸업한 날로부터 2년 이내 미취업자에 한함\n  다. 신청기간: "
-              },
-              {
-                "type": "text",
-                "text": "2023. 9. 18.(월) 18:00 까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  라. 신청방법: 방문, 우편, 전자 우편 접수("
-              },
-              {
-                "type": "text",
-                "text": "상세 방법 붙임의 공고문 참고",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")\n  마. 문 의 처:"
-              },
-              {
-                "type": "text",
-                "text": " 통영시 평생학습관 교육지원팀(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "tel:0556502613",
-                "text": "055-650-2613",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "7dcb4f50-bd0f-49c6-b8e1-4a00a037c65b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 안내\u0026gt;*\n\n2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생을 아래와 같이 선발하오니, 관심있는 학생은 지원바랍니다.\n  가. 장학명: 관사장학회 재외 한국학교 출신자 서울대 멘토장학생\n  나. 취지: 재외 한국학교를 졸업하고 본교에 입학한 학부생을 지원하여 한국인의 정체성과 글로별 역량을 균형 있게 갖춘 미래 인재로 육성하고자 함\n  다. 선발인원: 5명 내외\n  라. 선발대상: 재외 한국학교 출신 서울대학교 소속 학부생(국적 무관)\n    *※ 교육부 인가를 받은 34개 재외 한국학교에 한함(한글학교 해당 없음)*\n    *※ 단, 사범대 재학생의 경우 국외 국제학교 출신자도 지원 가능(타 대학 소속 국제학교 출신자는 지원 불가)*\n  마. 장학금액: 1인당 3,000,000원 (1회 지급)\n  바. 장학생 의무: 선발된 장학생은 ‘교육부 재외교육지원센터’의 멘토단에 소속하여 활동, 장학금 수여식 참석 및 감사편지 제출\n    □ 멘토단 활동 내용\n      - 재외 한국학교 학생들을 위한 교육자료 제작 지원 (학과 소개 등)\n      - 재외 한국학교 관계자 연수 등에 멘토단으로 참여\n    □ 멘토단 활동 시기: 2023. 10월 중 ~ 2024. 2. 29.(5개월)\n  사. 제출서류: 신청서(양식 참조), 재학증명서, 성적증명서, 본인명의 통장사본, 고교졸업증명서 각 1부\n  아. 제출기한 및 방법: *2023. 9. 25.(월)까지 제출서류를 담당자 메일(\u003cmailto:minah0629@snu.ac.kr|minah0629@snu.ac.kr\u003e)로 제출*\n *자. 멘토활동문의: 서울대 재외교육지원센터 백민아 연구원(\u003cmailto:minah0629@snu.ac.kr|minah0629@snu.ac.kr\u003e, 02-880-4473)*\n  차. 선발결과 발표: 2023. 10. 5.(목), 합격자 개별 통보 예정",
-    "ts": "1694147253.695879",
-    "files": [
-      {
-        "id": "F05RJPH2W5A",
-        "created": 1694147251,
-        "timestamp": 1694147251,
-        "name": "[붙임 1] 2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 공고 및 신청서 양식.hwp",
-        "title": "[붙임 1] 2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 공고 및 신청서 양식.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 48128,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05RJPH2W5A-[붙임 1] 2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 공고 및 신청서 양식.hwp",
-        "url_private_download": "attachments/F05RJPH2W5A-[붙임 1] 2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 공고 및 신청서 양식.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RJPH2W5A/________1__2023____________________________________________________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05RJPH2W5A-b3018889a8",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "RGIpA",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생을 아래와 같이 선발하오니, 관심있는 학생은 지원바랍니다.\n  가. 장학명: 관사장학회 재외 한국학교 출신자 서울대 멘토장학생\n  나. 취지: 재외 한국학교를 졸업하고 본교에 입학한 학부생을 지원하여 한국인의 정체성과 글로별 역량을 균형 있게 갖춘 미래 인재로 육성하고자 함\n  다. 선발인원: 5명 내외\n  라. 선발대상: 재외 한국학교 출신 서울대학교 소속 학부생(국적 무관)\n    "
-              },
-              {
-                "type": "text",
-                "text": "※ 교육부 인가를 받은 34개 재외 한국학교에 한함(한글학교 해당 없음)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    "
-              },
-              {
-                "type": "text",
-                "text": "※ 단, 사범대 재학생의 경우 국외 국제학교 출신자도 지원 가능(타 대학 소속 국제학교 출신자는 지원 불가)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  마. 장학금액: 1인당 3,000,000원 (1회 지급)\n  바. 장학생 의무: 선발된 장학생은 ‘교육부 재외교육지원센터’의 멘토단에 소속하여 활동, 장학금 수여식 참석 및 감사편지 제출\n    □ 멘토단 활동 내용\n      - 재외 한국학교 학생들을 위한 교육자료 제작 지원 (학과 소개 등)\n      - 재외 한국학교 관계자 연수 등에 멘토단으로 참여\n    □ 멘토단 활동 시기: 2023. 10월 중 ~ 2024. 2. 29.(5개월)\n  사. 제출서류: 신청서(양식 참조), 재학증명서, 성적증명서, 본인명의 통장사본, 고교졸업증명서 각 1부\n  아. 제출기한 및 방법: "
-              },
-              {
-                "type": "text",
-                "text": "2023. 9. 25.(월)까지 제출서류를 담당자 메일(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:minah0629@snu.ac.kr",
-                "text": "minah0629@snu.ac.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")로 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n "
-              },
-              {
-                "type": "text",
-                "text": "자. 멘토활동문의: 서울대 재외교육지원센터 백민아 연구원(",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:minah0629@snu.ac.kr",
-                "text": "minah0629@snu.ac.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ", 02-880-4473)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  차. 선발결과 발표: 2023. 10. 5.(목), 합격자 개별 통보 예정"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "106326aa-f4cb-4fad-8eab-57e50deac0b3",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt;2023학년도 2학기 긴급구호장학생 특별 선발 안내\u0026gt;*\n\n만 18세 이후 아동복지시설 및 가정위탁 보호조치가 종료되거나 연장된 청년이 \"보호\" 상태에서 원활하게 자립할 수 있도록 긴급구호장학생을 특별 선발하고자 하오니 대상자는 신청바랍니다.\n  가. 추천대상: 신청마감일(2023. 9. 20.)기준 *만 24세 이하* 자립준비 또는 보호조치가 연장된 *학부·대학원생*\n   - *자립준비청년*: 만 18세 이후 아동복지시설 및 가정위탁 보호조치가 종료된 학생\n   - *보호연장청년*: 만 18세 이후 아동복지시설 및 가정위탁 보호조치를 연장한 학생\n  나. 학생신청: 2023. 9. 11.(월) ~ *9. 20.(수)까지* 행정실(43동 402호) 오승철 선생님께 제출(02-880-9770)\n  다. *제출서류*: 장학신청서 및 증빙서류(각 자격마다 증빙서류가 상이하니 붙임1 참조)\n  라. 장학금액\n   - 보호연장아동: 생활비 300만원(월 50만원) 지원\n   - 자립준비청년: 생활비 600만원(월 100만원) 지원\n  마. 지급일자: 2023년 3분기, 4분기 긴급구호장학금 지급일 2회에 걸쳐 지급",
-    "ts": "1694148872.921279",
-    "files": [
-      {
-        "id": "F05R1RYVDGX",
-        "created": 1694148862,
-        "timestamp": 1694148862,
-        "name": "[붙임1] 2023학년도 2학기 긴급구호장학금 특별선발 안내.hwp",
-        "title": "[붙임1] 2023학년도 2학기 긴급구호장학금 특별선발 안내.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 64000,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05R1RYVDGX-[붙임1] 2023학년도 2학기 긴급구호장학금 특별선발 안내.hwp",
-        "url_private_download": "attachments/F05R1RYVDGX-[붙임1] 2023학년도 2학기 긴급구호장학금 특별선발 안내.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05R1RYVDGX/_______1__2023__________2________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05R1RYVDGX-3c29b633f6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05RG9DD0AX",
-        "created": 1694148864,
-        "timestamp": 1694148864,
-        "name": "[붙임2] 2023학년도 2학기 긴급구호장학금 특별선발 신청서.hwp",
-        "title": "[붙임2] 2023학년도 2학기 긴급구호장학금 특별선발 신청서.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 38912,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05RG9DD0AX-[붙임2] 2023학년도 2학기 긴급구호장학금 특별선발 신청서.hwp",
-        "url_private_download": "attachments/F05RG9DD0AX-[붙임2] 2023학년도 2학기 긴급구호장학금 특별선발 신청서.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RG9DD0AX/_______2__2023__________2___________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05RG9DD0AX-df39743591",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "uaV",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2023학년도 2학기 긴급구호장학생 특별 선발 안내\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n만 18세 이후 아동복지시설 및 가정위탁 보호조치가 종료되거나 연장된 청년이 \"보호\" 상태에서 원활하게 자립할 수 있도록 긴급구호장학생을 특별 선발하고자 하오니 대상자는 신청바랍니다.\n  가. 추천대상: 신청마감일(2023. 9. 20.)기준 "
-              },
-              {
-                "type": "text",
-                "text": "만 24세 이하",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 자립준비 또는 보호조치가 연장된 "
-              },
-              {
-                "type": "text",
-                "text": "학부·대학원생",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   -"
-              },
-              {
-                "type": "text",
-                "text": " 자립준비청년",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 만 18세 이후 아동복지시설 및 가정위탁 보호조치가 종료된 학생\n   - "
-              },
-              {
-                "type": "text",
-                "text": "보호연장청년",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 만 18세 이후 아동복지시설 및 가정위탁 보호조치를 연장한 학생\n  나. 학생신청: 2023. 9. 11.(월) ~"
-              },
-              {
-                "type": "text",
-                "text": " 9. 20.(수)까지",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 행정실(43동 402호) 오승철 선생님께 제출(02-880-9770)\n  다. "
-              },
-              {
-                "type": "text",
-                "text": "제출서류",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 장학신청서 및 증빙서류(각 자격마다 증빙서류가 상이하니 붙임1 참조)\n  라. 장학금액\n   - 보호연장아동: 생활비 300만원(월 50만원) 지원\n   - 자립준비청년: 생활비 600만원(월 100만원) 지원\n  마. 지급일자: 2023년 3분기, 4분기 긴급구호장학금 지급일 2회에 걸쳐 지급"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "90bf6171-6a9f-406b-9887-f460fef8580b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;*942동 전기설비 정기검사에 따른 정전 안내(9.18.(월) 19:00 ~ 9.19.(화) 03:00)*\u0026gt;\n\n*연구공원 일대 전기설비 정기검사로 인하여 942동 건물이 다음과 같이 정전*될 예정이므로 협조 요청드립니다.\n\nㅇ *정전 시간: 2023. 9. 18.(월) 19시 ~ 9. 19.(화) 03시(8시간)*\n  ※ 정전 시간은 작업 일정에 따라 다소 변경될 수 있음\n\nㅇ *정전 범위: 942동, 940동, 943동, 945동*\n\nㅇ 협조 요청사항\n - 정전시간 중 *장비에 피해가 없도록 사전 대비(전기 기기류 전원 분리, 서버 전원 분리 및 데이터 사전 백업 등 필요 조치)*\n - *조명, 냉난방(항온항습기), 보안장비(CCTV 및 방범 설비), 통신장치(인터넷) 및 전산장비 등 일체 가동 중단*에 따른 관리 주의(연구실 도어락 잠금 설정, 냉장고 확인 등)\n - 정전시간 동안 엘레베이터 이용 금지 등 *가급적 해당 시간대 건물 출입 자제*",
-    "ts": "1694163952.150229",
-    "files": [
-      {
-        "id": "F05RW0W4CRX",
-        "created": 1694163946,
-        "timestamp": 1694163946,
-        "name": "관악캠퍼스 연구공원(940동 외 3개동) 전기설비 정기검사에 따른 정전 안내.pdf",
-        "title": "관악캠퍼스 연구공원(940동 외 3개동) 전기설비 정기검사에 따른 정전 안내.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 170043,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05RW0W4CRX-관악캠퍼스 연구공원(940동 외 3개동) 전기설비 정기검사에 따른 정전 안내.pdf",
-        "url_private_download": "attachments/F05RW0W4CRX-관악캠퍼스 연구공원(940동 외 3개동) 전기설비 정기검사에 따른 정전 안내.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RW0W4CRX/_____________________________940________3_________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05RW0W4CRX-cf65dc331d",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "1uU",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c"
-              },
-              {
-                "type": "text",
-                "text": "942동 전기설비 정기검사에 따른 정전 안내(9.18.(월) 19:00 ~ 9.19.(화) 03:00)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\u003e\n\n"
-              },
-              {
-                "type": "text",
-                "text": "연구공원 일대 전기설비 정기검사로 인하여 942동 건물이 다음과 같이 정전",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "될 예정이므로 협조 요청드립니다.\n\nㅇ "
-              },
-              {
-                "type": "text",
-                "text": "정전 시간: 2023. 9. 18.(월) 19시 ~ 9. 19.(화) 03시(8시간)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  ※ 정전 시간은 작업 일정에 따라 다소 변경될 수 있음\n\nㅇ "
-              },
-              {
-                "type": "text",
-                "text": "정전 범위: 942동, 940동, 943동, 945동",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nㅇ 협조 요청사항\n - 정전시간 중 "
-              },
-              {
-                "type": "text",
-                "text": "장비에 피해가 없도록 사전 대비(전기 기기류 전원 분리, 서버 전원 분리 및 데이터 사전 백업 등 필요 조치)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n - "
-              },
-              {
-                "type": "text",
-                "text": "조명, 냉난방(항온항습기), 보안장비(CCTV 및 방범 설비), 통신장치(인터넷) 및 전산장비 등 일체 가동 중단",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "에 따른 관리 주의(연구실 도어락 잠금 설정, 냉장고 확인 등)\n - 정전시간 동안 엘레베이터 이용 금지 등 "
-              },
-              {
-                "type": "text",
-                "text": "가급적 해당 시간대 건물 출입 자제",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "ecf5b3e0-3a0f-48f9-8b6d-299d036e9643",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;43-2동 스터디룸 및 학생휴게실 사용 안내 &gt;*\n\n*ㅇ학생휴게실 조성:* 현재 운영 중인 *43-2동 103호 스터디룸이 다음주부터 학생 휴게공간으로 전환될 예정*입니다. 학생 휴게공간에는 무인결제 프린터(942동 3층 프린터룸과 동일), 냉장고 및 전자레인지를 다음주 이후 순차적으로 구비할 예정입니다. 이에, *다음주(9.11.(월)~)부터 기 예약 신청된 건들은 모두 일괄 반려할 예정*이오니 *반드시 확인*하시기 바랍니다.\n\n*ㅇ스터디룸 사용(104~106호)*: *공과대학 스터디룸인 43-2동 104호, 105호, 106호 3개 호실을 추가로 사용*할 수 있게 예약하샤에 반영되었습니다. 학생 여러분께서는 *예약 승인(공과대학) 후에 사용*할 수 있으니 *다음주부터 세미나, 스터디, 간략한 미팅 등이 필요하신 경우에는 3개 스터디룸을 이용*하여 주시기 바랍니다.\n\n아울러, 학생휴게실 및 스터디룸 사용 시 *반드시 뒷정리를 깨끗하게* 해주시기 바랍니다.(쓰레기는 반드시 가져가 주시고, 음식물도 남김 없이 치워주시며, 환기를 통해 냄새를 제거해주시기 바랍니다.)",
+			"ts": "1694145998.148159",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1694146341.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "prRnz",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<43-2동 스터디룸 및 학생휴게실 사용 안내 >",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅇ학생휴게실 조성:",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 현재 운영 중인 "
+								},
+								{
+									"type": "text",
+									"text": "43-2동 103호 스터디룸이 다음주부터 학생 휴게공간으로 전환될 예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "입니다. 학생 휴게공간에는 무인결제 프린터(942동 3층 프린터룸과 동일), 냉장고 및 전자레인지를 다음주 이후 순차적으로 구비할 예정입니다. 이에, "
+								},
+								{
+									"type": "text",
+									"text": "다음주(9.11.(월)~)부터 기 예약 신청된 건들은 모두 일괄 반려할 예정",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "이오니 "
+								},
+								{
+									"type": "text",
+									"text": "반드시 확인",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅇ스터디룸 사용(104~106호)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": "
+								},
+								{
+									"type": "text",
+									"text": "공과대학 스터디룸인 43-2동 104호, 105호, 106호 3개 호실을 추가로 사용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "할 수 있게 예약하샤에 반영되었습니다. 학생 여러분께서는 "
+								},
+								{
+									"type": "text",
+									"text": "예약 승인(공과대학) 후에 사용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "할 수 있으니 "
+								},
+								{
+									"type": "text",
+									"text": "다음주부터 세미나, 스터디, 간략한 미팅 등이 필요하신 경우에는 3개 스터디룸을 이용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하여 주시기 바랍니다.\n\n아울러, 학생휴게실 및 스터디룸 사용 시 "
+								},
+								{
+									"type": "text",
+									"text": "반드시 뒷정리를 깨끗하게",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 해주시기 바랍니다.(쓰레기는 반드시 가져가 주시고, 음식물도 남김 없이 치워주시며, 환기를 통해 냄새를 제거해주시기 바랍니다.)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "007684cd-5c51-44b8-bd08-13c85cf620fa",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023년 상반기 통영시 대학(원)생 학자금 대출이자 지원사업 안내&gt;*\n\n통영시에서 2023년 상반기 대학(원)생 학자금 대출이자 지원 사업을 아래와 같이 시행하고 있으니, 해당 학생들은 지원바랍니다.\n  가. 지원내용: 한국장학재단에서 2013. 8. 1.이후 대출받은 학자금(등록금, 생활비)의 2023년 상반기(1월 ~ 6월) 발생이자 지원\n  나. 지원대상: *대학(원)생 또는 미취업 졸업생* 중 공고일(2023. 8. 28.) 기준 본인이 1년 이상 또는 직계존속이 3년 이상 *통영시*에 *주민등록*이 되어 있고, *통영시 소재 고등학교를 졸업*한 사람\n                 ※ 졸업생은 공고일(2023. 8. 28.) 기준 졸업한 날로부터 2년 이내 미취업자에 한함\n  다. 신청기간: *2023. 9. 18.(월) 18:00 까지*\n  라. 신청방법: 방문, 우편, 전자 우편 접수(*상세 방법 붙임의 공고문 참고*)\n  마. 문 의 처: *통영시 평생학습관 교육지원팀(<tel:0556502613|055-650-2613>)*",
+			"ts": "1694147215.850739",
+			"files": [
+				{
+					"id": "F05RDCPCW05",
+					"created": 1694147202,
+					"timestamp": 1694147202,
+					"name": "2023년 상반기분 통영시 대학생 학자금 이자 지원 공고.hwp",
+					"title": "2023년 상반기분 통영시 대학생 학자금 이자 지원 공고.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 109056,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05RDCPCW05-2023년 상반기분 통영시 대학생 학자금 이자 지원 공고.hwp",
+					"url_private_download": "attachments/F05RDCPCW05-2023년 상반기분 통영시 대학생 학자금 이자 지원 공고.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RDCPCW05/2023___________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05RDCPCW05-d49b67b9fc",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "2oI",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023년 상반기 통영시 대학(원)생 학자금 대출이자 지원사업 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n통영시에서 2023년 상반기 대학(원)생 학자금 대출이자 지원 사업을 아래와 같이 시행하고 있으니, 해당 학생들은 지원바랍니다.\n  가. 지원내용: 한국장학재단에서 2013. 8. 1.이후 대출받은 학자금(등록금, 생활비)의 2023년 상반기(1월 ~ 6월) 발생이자 지원\n  나. 지원대상: "
+								},
+								{
+									"type": "text",
+									"text": "대학(원)생 또는 미취업 졸업생",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 중 공고일(2023. 8. 28.) 기준 본인이 1년 이상 또는 직계존속이 3년 이상"
+								},
+								{
+									"type": "text",
+									"text": " 통영시",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "에 "
+								},
+								{
+									"type": "text",
+									"text": "주민등록",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "이 되어 있고, "
+								},
+								{
+									"type": "text",
+									"text": "통영시 소재 고등학교를 졸업",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "한 사람\n                 ※ 졸업생은 공고일(2023. 8. 28.) 기준 졸업한 날로부터 2년 이내 미취업자에 한함\n  다. 신청기간: "
+								},
+								{
+									"type": "text",
+									"text": "2023. 9. 18.(월) 18:00 까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  라. 신청방법: 방문, 우편, 전자 우편 접수("
+								},
+								{
+									"type": "text",
+									"text": "상세 방법 붙임의 공고문 참고",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")\n  마. 문 의 처:"
+								},
+								{
+									"type": "text",
+									"text": " 통영시 평생학습관 교육지원팀(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "tel:0556502613",
+									"text": "055-650-2613",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "7dcb4f50-bd0f-49c6-b8e1-4a00a037c65b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 안내&gt;*\n\n2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생을 아래와 같이 선발하오니, 관심있는 학생은 지원바랍니다.\n  가. 장학명: 관사장학회 재외 한국학교 출신자 서울대 멘토장학생\n  나. 취지: 재외 한국학교를 졸업하고 본교에 입학한 학부생을 지원하여 한국인의 정체성과 글로별 역량을 균형 있게 갖춘 미래 인재로 육성하고자 함\n  다. 선발인원: 5명 내외\n  라. 선발대상: 재외 한국학교 출신 서울대학교 소속 학부생(국적 무관)\n    *※ 교육부 인가를 받은 34개 재외 한국학교에 한함(한글학교 해당 없음)*\n    *※ 단, 사범대 재학생의 경우 국외 국제학교 출신자도 지원 가능(타 대학 소속 국제학교 출신자는 지원 불가)*\n  마. 장학금액: 1인당 3,000,000원 (1회 지급)\n  바. 장학생 의무: 선발된 장학생은 ‘교육부 재외교육지원센터’의 멘토단에 소속하여 활동, 장학금 수여식 참석 및 감사편지 제출\n    □ 멘토단 활동 내용\n      - 재외 한국학교 학생들을 위한 교육자료 제작 지원 (학과 소개 등)\n      - 재외 한국학교 관계자 연수 등에 멘토단으로 참여\n    □ 멘토단 활동 시기: 2023. 10월 중 ~ 2024. 2. 29.(5개월)\n  사. 제출서류: 신청서(양식 참조), 재학증명서, 성적증명서, 본인명의 통장사본, 고교졸업증명서 각 1부\n  아. 제출기한 및 방법: *2023. 9. 25.(월)까지 제출서류를 담당자 메일(<mailto:minah0629@snu.ac.kr|minah0629@snu.ac.kr>)로 제출*\n *자. 멘토활동문의: 서울대 재외교육지원센터 백민아 연구원(<mailto:minah0629@snu.ac.kr|minah0629@snu.ac.kr>, 02-880-4473)*\n  차. 선발결과 발표: 2023. 10. 5.(목), 합격자 개별 통보 예정",
+			"ts": "1694147253.695879",
+			"files": [
+				{
+					"id": "F05RJPH2W5A",
+					"created": 1694147251,
+					"timestamp": 1694147251,
+					"name": "[붙임 1] 2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 공고 및 신청서 양식.hwp",
+					"title": "[붙임 1] 2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 공고 및 신청서 양식.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 48128,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05RJPH2W5A-[붙임 1] 2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 공고 및 신청서 양식.hwp",
+					"url_private_download": "attachments/F05RJPH2W5A-[붙임 1] 2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 공고 및 신청서 양식.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RJPH2W5A/________1__2023____________________________________________________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05RJPH2W5A-b3018889a8",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "RGIpA",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생 모집 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n2023학년도 관사장학회 재외 한국학교 출신자 서울대 멘토장학생을 아래와 같이 선발하오니, 관심있는 학생은 지원바랍니다.\n  가. 장학명: 관사장학회 재외 한국학교 출신자 서울대 멘토장학생\n  나. 취지: 재외 한국학교를 졸업하고 본교에 입학한 학부생을 지원하여 한국인의 정체성과 글로별 역량을 균형 있게 갖춘 미래 인재로 육성하고자 함\n  다. 선발인원: 5명 내외\n  라. 선발대상: 재외 한국학교 출신 서울대학교 소속 학부생(국적 무관)\n    "
+								},
+								{
+									"type": "text",
+									"text": "※ 교육부 인가를 받은 34개 재외 한국학교에 한함(한글학교 해당 없음)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    "
+								},
+								{
+									"type": "text",
+									"text": "※ 단, 사범대 재학생의 경우 국외 국제학교 출신자도 지원 가능(타 대학 소속 국제학교 출신자는 지원 불가)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  마. 장학금액: 1인당 3,000,000원 (1회 지급)\n  바. 장학생 의무: 선발된 장학생은 ‘교육부 재외교육지원센터’의 멘토단에 소속하여 활동, 장학금 수여식 참석 및 감사편지 제출\n    □ 멘토단 활동 내용\n      - 재외 한국학교 학생들을 위한 교육자료 제작 지원 (학과 소개 등)\n      - 재외 한국학교 관계자 연수 등에 멘토단으로 참여\n    □ 멘토단 활동 시기: 2023. 10월 중 ~ 2024. 2. 29.(5개월)\n  사. 제출서류: 신청서(양식 참조), 재학증명서, 성적증명서, 본인명의 통장사본, 고교졸업증명서 각 1부\n  아. 제출기한 및 방법: "
+								},
+								{
+									"type": "text",
+									"text": "2023. 9. 25.(월)까지 제출서류를 담당자 메일(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:minah0629@snu.ac.kr",
+									"text": "minah0629@snu.ac.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")로 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n "
+								},
+								{
+									"type": "text",
+									"text": "자. 멘토활동문의: 서울대 재외교육지원센터 백민아 연구원(",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:minah0629@snu.ac.kr",
+									"text": "minah0629@snu.ac.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ", 02-880-4473)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  차. 선발결과 발표: 2023. 10. 5.(목), 합격자 개별 통보 예정"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "106326aa-f4cb-4fad-8eab-57e50deac0b3",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt;2023학년도 2학기 긴급구호장학생 특별 선발 안내&gt;*\n\n만 18세 이후 아동복지시설 및 가정위탁 보호조치가 종료되거나 연장된 청년이 \"보호\" 상태에서 원활하게 자립할 수 있도록 긴급구호장학생을 특별 선발하고자 하오니 대상자는 신청바랍니다.\n  가. 추천대상: 신청마감일(2023. 9. 20.)기준 *만 24세 이하* 자립준비 또는 보호조치가 연장된 *학부·대학원생*\n   - *자립준비청년*: 만 18세 이후 아동복지시설 및 가정위탁 보호조치가 종료된 학생\n   - *보호연장청년*: 만 18세 이후 아동복지시설 및 가정위탁 보호조치를 연장한 학생\n  나. 학생신청: 2023. 9. 11.(월) ~ *9. 20.(수)까지* 행정실(43동 402호) 오승철 선생님께 제출(02-880-9770)\n  다. *제출서류*: 장학신청서 및 증빙서류(각 자격마다 증빙서류가 상이하니 붙임1 참조)\n  라. 장학금액\n   - 보호연장아동: 생활비 300만원(월 50만원) 지원\n   - 자립준비청년: 생활비 600만원(월 100만원) 지원\n  마. 지급일자: 2023년 3분기, 4분기 긴급구호장학금 지급일 2회에 걸쳐 지급",
+			"ts": "1694148872.921279",
+			"files": [
+				{
+					"id": "F05R1RYVDGX",
+					"created": 1694148862,
+					"timestamp": 1694148862,
+					"name": "[붙임1] 2023학년도 2학기 긴급구호장학금 특별선발 안내.hwp",
+					"title": "[붙임1] 2023학년도 2학기 긴급구호장학금 특별선발 안내.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 64000,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05R1RYVDGX-[붙임1] 2023학년도 2학기 긴급구호장학금 특별선발 안내.hwp",
+					"url_private_download": "attachments/F05R1RYVDGX-[붙임1] 2023학년도 2학기 긴급구호장학금 특별선발 안내.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05R1RYVDGX/_______1__2023__________2________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05R1RYVDGX-3c29b633f6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05RG9DD0AX",
+					"created": 1694148864,
+					"timestamp": 1694148864,
+					"name": "[붙임2] 2023학년도 2학기 긴급구호장학금 특별선발 신청서.hwp",
+					"title": "[붙임2] 2023학년도 2학기 긴급구호장학금 특별선발 신청서.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 38912,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05RG9DD0AX-[붙임2] 2023학년도 2학기 긴급구호장학금 특별선발 신청서.hwp",
+					"url_private_download": "attachments/F05RG9DD0AX-[붙임2] 2023학년도 2학기 긴급구호장학금 특별선발 신청서.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RG9DD0AX/_______2__2023__________2___________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05RG9DD0AX-df39743591",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "uaV",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2023학년도 2학기 긴급구호장학생 특별 선발 안내>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n만 18세 이후 아동복지시설 및 가정위탁 보호조치가 종료되거나 연장된 청년이 \"보호\" 상태에서 원활하게 자립할 수 있도록 긴급구호장학생을 특별 선발하고자 하오니 대상자는 신청바랍니다.\n  가. 추천대상: 신청마감일(2023. 9. 20.)기준 "
+								},
+								{
+									"type": "text",
+									"text": "만 24세 이하",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 자립준비 또는 보호조치가 연장된 "
+								},
+								{
+									"type": "text",
+									"text": "학부·대학원생",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   -"
+								},
+								{
+									"type": "text",
+									"text": " 자립준비청년",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 만 18세 이후 아동복지시설 및 가정위탁 보호조치가 종료된 학생\n   - "
+								},
+								{
+									"type": "text",
+									"text": "보호연장청년",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 만 18세 이후 아동복지시설 및 가정위탁 보호조치를 연장한 학생\n  나. 학생신청: 2023. 9. 11.(월) ~"
+								},
+								{
+									"type": "text",
+									"text": " 9. 20.(수)까지",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 행정실(43동 402호) 오승철 선생님께 제출(02-880-9770)\n  다. "
+								},
+								{
+									"type": "text",
+									"text": "제출서류",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 장학신청서 및 증빙서류(각 자격마다 증빙서류가 상이하니 붙임1 참조)\n  라. 장학금액\n   - 보호연장아동: 생활비 300만원(월 50만원) 지원\n   - 자립준비청년: 생활비 600만원(월 100만원) 지원\n  마. 지급일자: 2023년 3분기, 4분기 긴급구호장학금 지급일 2회에 걸쳐 지급"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "90bf6171-6a9f-406b-9887-f460fef8580b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;*942동 전기설비 정기검사에 따른 정전 안내(9.18.(월) 19:00 ~ 9.19.(화) 03:00)*&gt;\n\n*연구공원 일대 전기설비 정기검사로 인하여 942동 건물이 다음과 같이 정전*될 예정이므로 협조 요청드립니다.\n\nㅇ *정전 시간: 2023. 9. 18.(월) 19시 ~ 9. 19.(화) 03시(8시간)*\n  ※ 정전 시간은 작업 일정에 따라 다소 변경될 수 있음\n\nㅇ *정전 범위: 942동, 940동, 943동, 945동*\n\nㅇ 협조 요청사항\n - 정전시간 중 *장비에 피해가 없도록 사전 대비(전기 기기류 전원 분리, 서버 전원 분리 및 데이터 사전 백업 등 필요 조치)*\n - *조명, 냉난방(항온항습기), 보안장비(CCTV 및 방범 설비), 통신장치(인터넷) 및 전산장비 등 일체 가동 중단*에 따른 관리 주의(연구실 도어락 잠금 설정, 냉장고 확인 등)\n - 정전시간 동안 엘레베이터 이용 금지 등 *가급적 해당 시간대 건물 출입 자제*",
+			"ts": "1694163952.150229",
+			"files": [
+				{
+					"id": "F05RW0W4CRX",
+					"created": 1694163946,
+					"timestamp": 1694163946,
+					"name": "관악캠퍼스 연구공원(940동 외 3개동) 전기설비 정기검사에 따른 정전 안내.pdf",
+					"title": "관악캠퍼스 연구공원(940동 외 3개동) 전기설비 정기검사에 따른 정전 안내.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 170043,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05RW0W4CRX-관악캠퍼스 연구공원(940동 외 3개동) 전기설비 정기검사에 따른 정전 안내.pdf",
+					"url_private_download": "attachments/F05RW0W4CRX-관악캠퍼스 연구공원(940동 외 3개동) 전기설비 정기검사에 따른 정전 안내.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RW0W4CRX/_____________________________940________3_________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05RW0W4CRX-cf65dc331d",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "1uU",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<"
+								},
+								{
+									"type": "text",
+									"text": "942동 전기설비 정기검사에 따른 정전 안내(9.18.(월) 19:00 ~ 9.19.(화) 03:00)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ">\n\n"
+								},
+								{
+									"type": "text",
+									"text": "연구공원 일대 전기설비 정기검사로 인하여 942동 건물이 다음과 같이 정전",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "될 예정이므로 협조 요청드립니다.\n\nㅇ "
+								},
+								{
+									"type": "text",
+									"text": "정전 시간: 2023. 9. 18.(월) 19시 ~ 9. 19.(화) 03시(8시간)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  ※ 정전 시간은 작업 일정에 따라 다소 변경될 수 있음\n\nㅇ "
+								},
+								{
+									"type": "text",
+									"text": "정전 범위: 942동, 940동, 943동, 945동",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nㅇ 협조 요청사항\n - 정전시간 중 "
+								},
+								{
+									"type": "text",
+									"text": "장비에 피해가 없도록 사전 대비(전기 기기류 전원 분리, 서버 전원 분리 및 데이터 사전 백업 등 필요 조치)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n - "
+								},
+								{
+									"type": "text",
+									"text": "조명, 냉난방(항온항습기), 보안장비(CCTV 및 방범 설비), 통신장치(인터넷) 및 전산장비 등 일체 가동 중단",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "에 따른 관리 주의(연구실 도어락 잠금 설정, 냉장고 확인 등)\n - 정전시간 동안 엘레베이터 이용 금지 등 "
+								},
+								{
+									"type": "text",
+									"text": "가급적 해당 시간대 건물 출입 자제",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

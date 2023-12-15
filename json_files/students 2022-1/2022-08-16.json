@@ -1,66 +1,68 @@
-[
-  {
-    "client_msg_id": "51654295-50FD-49FD-B79A-50C33F2FD7A3",
-    "type": "message",
-    "user": "U01QZRUNBA4",
-    "text": "혹시 speech to text 나 text to speech 하는 학우분 계실까요 :pleading_face: 간단하게 궁금한게 있어서요... 혹시나 계신다면 연락 부탁드립니다 감사합니다!",
-    "ts": "1660618593.923719",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "ok_hand",
-        "count": 1,
-        "users": [
-          "U02V5LTPGRX"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "R6jUN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "혹시 speech to text 나 text to speech 하는 학우분 계실까요 "
-              },
-              {
-                "type": "emoji",
-                "name": "pleading_face",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 간단하게 궁금한게 있어서요... 혹시나 계신다면 연락 부탁드립니다 감사합니다!"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
-      "first_name": "3기_최현준",
-      "real_name": "3기_최현준",
-      "display_name": "3기_최현준",
-      "team": "T01QA5S537V",
-      "name": "nschj1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "51654295-50FD-49FD-B79A-50C33F2FD7A3",
+			"type": "message",
+			"user": "U01QZRUNBA4",
+			"text": "혹시 speech to text 나 text to speech 하는 학우분 계실까요 :pleading_face: 간단하게 궁금한게 있어서요... 혹시나 계신다면 연락 부탁드립니다 감사합니다!",
+			"ts": "1660618593.923719",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "ok_hand",
+					"count": 1,
+					"users": [
+						"U02V5LTPGRX"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "R6jUN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "혹시 speech to text 나 text to speech 하는 학우분 계실까요 "
+								},
+								{
+									"type": "emoji",
+									"name": "pleading_face",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 간단하게 궁금한게 있어서요... 혹시나 계신다면 연락 부탁드립니다 감사합니다!"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+				"first_name": "3기_최현준",
+				"real_name": "3기_최현준",
+				"display_name": "3기_최현준",
+				"team": "T01QA5S537V",
+				"name": "nschj1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

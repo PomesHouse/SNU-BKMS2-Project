@@ -1,597 +1,599 @@
-[
-  {
-    "client_msg_id": "34ea463a-c2e4-4598-8f73-27a3a571ae69",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;중앙도서관 임시휴관 안내\u0026gt;\n8.8.(월) 폭우로 인한 정전으로 중앙도서관을 아래와 같이 임시휴관하오니 이용에 참고하시기 바랍니다.\n\n○ 휴관일 : 2022. 8. 9.(화), 연장 시 별도 공지\n - 중앙도서관 본관(62동) 및 관정관(62-1동) 모든 자료실, 열람실 이용 불가\n - 무인반납기 및 사물함 이용 불가",
-    "ts": "1660007203.656789",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "eI2k4",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c중앙도서관 임시휴관 안내\u003e\n8.8.(월) 폭우로 인한 정전으로 중앙도서관을 아래와 같이 임시휴관하오니 이용에 참고하시기 바랍니다.\n\n○ 휴관일 : 2022. 8. 9.(화), 연장 시 별도 공지\n - 중앙도서관 본관(62동) 및 관정관(62-1동) 모든 자료실, 열람실 이용 불가\n - 무인반납기 및 사물함 이용 불가"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "510a45df-87ca-4f63-b223-23b37859e9ac",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;식당 및 매장 임시 휴점 알림\u0026gt;\n8.8.(월) 폭우로 인한 정전으로 일부 식당 및 카페, 편의점이 임시 휴점됨을 알려드립니다.",
-    "ts": "1660008667.337279",
-    "files": [
-      {
-        "id": "F03SVC1RP3L",
-        "created": 1660008622,
-        "timestamp": 1660008622,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 63441,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03SVC1RP3L-image.png",
-        "url_private_download": "attachments/F03SVC1RP3L-image.png",
-        "original_h": 418,
-        "original_w": 528,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 285,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 380,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03SVC1RP3L/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03SVC1RP3L-e65b29bf60",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "6F6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c식당 및 매장 임시 휴점 알림\u003e\n8.8.(월) 폭우로 인한 정전으로 일부 식당 및 카페, 편의점이 임시 휴점됨을 알려드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "cd96d9d8-f6ce-4938-b419-1354b4924f78",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;학내 무선랜 서비스 이용 안내_서비스명칭 변경 포함\u0026gt;\n\n무선랜 서비스 이용편의 개선을 위해 학내(관악/연건캠퍼스)에 제공중인 무선랜 서비스명칭 개편사항을 안내드리오니 첨부파일을 참고하시기 바랍니다.",
-    "ts": "1660010014.406659",
-    "files": [
-      {
-        "id": "F03T82WFNG1",
-        "created": 1660010001,
-        "timestamp": 1660010001,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 91641,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03T82WFNG1-image.png",
-        "url_private_download": "attachments/F03T82WFNG1-image.png",
-        "original_h": 772,
-        "original_w": 716,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 334,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_480.png",
-        "thumb_480_w": 445,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_720.png",
-        "thumb_720_w": 668,
-        "thumb_720_h": 720,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03T82WFNG1/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03T82WFNG1-c987dd49c6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F03SVAW51D1",
-        "created": 1660010009,
-        "timestamp": 1660010009,
-        "name": "[붙임] 학내 무선랜 접속방법.pdf",
-        "title": "[붙임] 학내 무선랜 접속방법.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 304022,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03SVAW51D1-[붙임] 학내 무선랜 접속방법.pdf",
-        "url_private_download": "attachments/F03SVAW51D1-[붙임] 학내 무선랜 접속방법.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03SVAW51D1/______________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03SVAW51D1-f3bab9c7c0",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "SIFPh",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c학내 무선랜 서비스 이용 안내_서비스명칭 변경 포함\u003e\n\n무선랜 서비스 이용편의 개선을 위해 학내(관악/연건캠퍼스)에 제공중인 무선랜 서비스명칭 개편사항을 안내드리오니 첨부파일을 참고하시기 바랍니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "666e05b3-7257-409e-9d62-6f1b720b8b59",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022학년도 2학기 수강신청 가능 학점 안내\n\n2022학년도 2학기 수강신청 가능 학점이 12학점에서 16학점으로 변경될 예정입니다.\n원래 교과과정 편성 기간인 6월에 처리되었어야하나, 신설대학원인 우리 대학원에 처음있던 일이라 절차가 누락되었던 것으로 보입니다.\n\n어제 본부와 협의하여 수강신청 가능학점 변경사항이 오늘 오전에 적용되기로 되었으나,\n폭우로 인해 *대학본부가 침수, 정전됨에 따라 아직 변경사항이 처리되지 않은 상태입니다.*\n\n수강신청 가능학점의 변경이 완료되면 다시 공지하겠습니다.\n\n*불편을 드려 죄송합니다.*",
-    "ts": "1660010333.728789",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "=H=h",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 수강신청 가능 학점 안내\n\n2022학년도 2학기 수강신청 가능 학점이 12학점에서 16학점으로 변경될 예정입니다.\n원래 교과과정 편성 기간인 6월에 처리되었어야하나, 신설대학원인 우리 대학원에 처음있던 일이라 절차가 누락되었던 것으로 보입니다.\n\n어제 본부와 협의하여 수강신청 가능학점 변경사항이 오늘 오전에 적용되기로 되었으나,\n폭우로 인해 "
-              },
-              {
-                "type": "text",
-                "text": "대학본부가 침수, 정전됨에 따라 아직 변경사항이 처리되지 않은 상태입니다.",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n수강신청 가능학점의 변경이 완료되면 다시 공지하겠습니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "불편을 드려 죄송합니다.",
-                "style": {
-                  "bold": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "065b3c4d-e539-4de7-9fae-892f9f466588",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022학년도 2학기 대학원연구생 등록 일정 알림\n\n2022학년도 2학기 대학원연구생 등록 일정을 다음과 같이 알려드리니 정해진 기간 내에 부담금을 납부할 수 있도록 해주시기 바랍니다.\n\n가. 등록기간\n  1) *1차: 2022. 8. 24.(수) ~ 9. 6.(화)【10일간】*\n      ※ 2022. 8월 수료자는 9. 1.(목)부터 수납 가능\n  2) *2차: 2022. 9. 16.(금) ~ 9. 28.(수)【9일간】(최종)*\n   나. 부담금 납부액\n  1) 인문‧사회‧예술‧체육계열: 150,000원\n  2) 이학‧공학 계열: 200,000원\n   다. 수납 장소: 농협은행 및 신한은행 전 지점\n   라. 수납 방법\n  방법1) 전산 출력된 납부고지서로 지정은행에 납부\n  방법2) 납부고지서에 명기되어 있는 개인별 가상계좌로 계좌 이체하여 납부",
-    "ts": "1660023073.168829",
-    "files": [
-      {
-        "id": "F03ST0EDGCV",
-        "created": 1660023068,
-        "timestamp": 1660023068,
-        "name": "2022학년도 2학기 대학원연구생 등록 안내문.hwp",
-        "title": "2022학년도 2학기 대학원연구생 등록 안내문.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 79872,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03ST0EDGCV-2022학년도 2학기 대학원연구생 등록 안내문.hwp",
-        "url_private_download": "attachments/F03ST0EDGCV-2022학년도 2학기 대학원연구생 등록 안내문.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03ST0EDGCV/2022__________2__________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03ST0EDGCV-1dd3f296d3",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "3K7W",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 대학원연구생 등록 일정 알림\n\n2022학년도 2학기 대학원연구생 등록 일정을 다음과 같이 알려드리니 정해진 기간 내에 부담금을 납부할 수 있도록 해주시기 바랍니다.\n\n가. 등록기간\n  1) "
-              },
-              {
-                "type": "text",
-                "text": "1차: 2022. 8. 24.(수) ~ 9. 6.(화)【10일간】",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n      ※ 2022. 8월 수료자는 9. 1.(목)부터 수납 가능\n  2) "
-              },
-              {
-                "type": "text",
-                "text": "2차: 2022. 9. 16.(금) ~ 9. 28.(수)【9일간】(최종)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n   나. 부담금 납부액\n  1) 인문‧사회‧예술‧체육계열: 150,000원\n  2) 이학‧공학 계열: 200,000원\n   다. 수납 장소: 농협은행 및 신한은행 전 지점\n   라. 수납 방법\n  방법1) 전산 출력된 납부고지서로 지정은행에 납부\n  방법2) 납부고지서에 명기되어 있는 개인별 가상계좌로 계좌 이체하여 납부"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "d6b49ce6-c91c-4361-b29d-82029f44a0cd",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*2022학년도 2학기 수강신청 가능 학점 변경 조치 완료*\n\n현재 2022학년도 2학기 수강신청 가능 학점이 *16학점으로 변경 조치 완료*되었습니다.\n\n기다려주셔서 감사합니다.",
-    "ts": "1660024729.091279",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 2,
-        "users": [
-          "U02V5LSARR7",
-          "U01Q1KFN4JK"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "A8oqw",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 수강신청 가능 학점 변경 조치 완료",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n현재 2022학년도 2학기 수강신청 가능 학점이 "
-              },
-              {
-                "type": "text",
-                "text": "16학점으로 변경 조치 완료",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "되었습니다.\n\n기다려주셔서 감사합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "34ea463a-c2e4-4598-8f73-27a3a571ae69",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;중앙도서관 임시휴관 안내&gt;\n8.8.(월) 폭우로 인한 정전으로 중앙도서관을 아래와 같이 임시휴관하오니 이용에 참고하시기 바랍니다.\n\n○ 휴관일 : 2022. 8. 9.(화), 연장 시 별도 공지\n - 중앙도서관 본관(62동) 및 관정관(62-1동) 모든 자료실, 열람실 이용 불가\n - 무인반납기 및 사물함 이용 불가",
+			"ts": "1660007203.656789",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "eI2k4",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<중앙도서관 임시휴관 안내>\n8.8.(월) 폭우로 인한 정전으로 중앙도서관을 아래와 같이 임시휴관하오니 이용에 참고하시기 바랍니다.\n\n○ 휴관일 : 2022. 8. 9.(화), 연장 시 별도 공지\n - 중앙도서관 본관(62동) 및 관정관(62-1동) 모든 자료실, 열람실 이용 불가\n - 무인반납기 및 사물함 이용 불가"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "510a45df-87ca-4f63-b223-23b37859e9ac",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;식당 및 매장 임시 휴점 알림&gt;\n8.8.(월) 폭우로 인한 정전으로 일부 식당 및 카페, 편의점이 임시 휴점됨을 알려드립니다.",
+			"ts": "1660008667.337279",
+			"files": [
+				{
+					"id": "F03SVC1RP3L",
+					"created": 1660008622,
+					"timestamp": 1660008622,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 63441,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03SVC1RP3L-image.png",
+					"url_private_download": "attachments/F03SVC1RP3L-image.png",
+					"original_h": 418,
+					"original_w": 528,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 285,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03SVC1RP3L-ea959299b7/image_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 380,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03SVC1RP3L/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03SVC1RP3L-e65b29bf60",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "6F6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<식당 및 매장 임시 휴점 알림>\n8.8.(월) 폭우로 인한 정전으로 일부 식당 및 카페, 편의점이 임시 휴점됨을 알려드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "cd96d9d8-f6ce-4938-b419-1354b4924f78",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;학내 무선랜 서비스 이용 안내_서비스명칭 변경 포함&gt;\n\n무선랜 서비스 이용편의 개선을 위해 학내(관악/연건캠퍼스)에 제공중인 무선랜 서비스명칭 개편사항을 안내드리오니 첨부파일을 참고하시기 바랍니다.",
+			"ts": "1660010014.406659",
+			"files": [
+				{
+					"id": "F03T82WFNG1",
+					"created": 1660010001,
+					"timestamp": 1660010001,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 91641,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03T82WFNG1-image.png",
+					"url_private_download": "attachments/F03T82WFNG1-image.png",
+					"original_h": 772,
+					"original_w": 716,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 334,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_480.png",
+					"thumb_480_w": 445,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03T82WFNG1-ef9f4acf00/image_720.png",
+					"thumb_720_w": 668,
+					"thumb_720_h": 720,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03T82WFNG1/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03T82WFNG1-c987dd49c6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F03SVAW51D1",
+					"created": 1660010009,
+					"timestamp": 1660010009,
+					"name": "[붙임] 학내 무선랜 접속방법.pdf",
+					"title": "[붙임] 학내 무선랜 접속방법.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 304022,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03SVAW51D1-[붙임] 학내 무선랜 접속방법.pdf",
+					"url_private_download": "attachments/F03SVAW51D1-[붙임] 학내 무선랜 접속방법.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03SVAW51D1/______________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03SVAW51D1-f3bab9c7c0",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "SIFPh",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<학내 무선랜 서비스 이용 안내_서비스명칭 변경 포함>\n\n무선랜 서비스 이용편의 개선을 위해 학내(관악/연건캠퍼스)에 제공중인 무선랜 서비스명칭 개편사항을 안내드리오니 첨부파일을 참고하시기 바랍니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "666e05b3-7257-409e-9d62-6f1b720b8b59",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022학년도 2학기 수강신청 가능 학점 안내\n\n2022학년도 2학기 수강신청 가능 학점이 12학점에서 16학점으로 변경될 예정입니다.\n원래 교과과정 편성 기간인 6월에 처리되었어야하나, 신설대학원인 우리 대학원에 처음있던 일이라 절차가 누락되었던 것으로 보입니다.\n\n어제 본부와 협의하여 수강신청 가능학점 변경사항이 오늘 오전에 적용되기로 되었으나,\n폭우로 인해 *대학본부가 침수, 정전됨에 따라 아직 변경사항이 처리되지 않은 상태입니다.*\n\n수강신청 가능학점의 변경이 완료되면 다시 공지하겠습니다.\n\n*불편을 드려 죄송합니다.*",
+			"ts": "1660010333.728789",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "=H=h",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 수강신청 가능 학점 안내\n\n2022학년도 2학기 수강신청 가능 학점이 12학점에서 16학점으로 변경될 예정입니다.\n원래 교과과정 편성 기간인 6월에 처리되었어야하나, 신설대학원인 우리 대학원에 처음있던 일이라 절차가 누락되었던 것으로 보입니다.\n\n어제 본부와 협의하여 수강신청 가능학점 변경사항이 오늘 오전에 적용되기로 되었으나,\n폭우로 인해 "
+								},
+								{
+									"type": "text",
+									"text": "대학본부가 침수, 정전됨에 따라 아직 변경사항이 처리되지 않은 상태입니다.",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n수강신청 가능학점의 변경이 완료되면 다시 공지하겠습니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "불편을 드려 죄송합니다.",
+									"style": {
+										"bold": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "065b3c4d-e539-4de7-9fae-892f9f466588",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022학년도 2학기 대학원연구생 등록 일정 알림\n\n2022학년도 2학기 대학원연구생 등록 일정을 다음과 같이 알려드리니 정해진 기간 내에 부담금을 납부할 수 있도록 해주시기 바랍니다.\n\n가. 등록기간\n  1) *1차: 2022. 8. 24.(수) ~ 9. 6.(화)【10일간】*\n      ※ 2022. 8월 수료자는 9. 1.(목)부터 수납 가능\n  2) *2차: 2022. 9. 16.(금) ~ 9. 28.(수)【9일간】(최종)*\n   나. 부담금 납부액\n  1) 인문‧사회‧예술‧체육계열: 150,000원\n  2) 이학‧공학 계열: 200,000원\n   다. 수납 장소: 농협은행 및 신한은행 전 지점\n   라. 수납 방법\n  방법1) 전산 출력된 납부고지서로 지정은행에 납부\n  방법2) 납부고지서에 명기되어 있는 개인별 가상계좌로 계좌 이체하여 납부",
+			"ts": "1660023073.168829",
+			"files": [
+				{
+					"id": "F03ST0EDGCV",
+					"created": 1660023068,
+					"timestamp": 1660023068,
+					"name": "2022학년도 2학기 대학원연구생 등록 안내문.hwp",
+					"title": "2022학년도 2학기 대학원연구생 등록 안내문.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 79872,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03ST0EDGCV-2022학년도 2학기 대학원연구생 등록 안내문.hwp",
+					"url_private_download": "attachments/F03ST0EDGCV-2022학년도 2학기 대학원연구생 등록 안내문.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03ST0EDGCV/2022__________2__________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03ST0EDGCV-1dd3f296d3",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "3K7W",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 대학원연구생 등록 일정 알림\n\n2022학년도 2학기 대학원연구생 등록 일정을 다음과 같이 알려드리니 정해진 기간 내에 부담금을 납부할 수 있도록 해주시기 바랍니다.\n\n가. 등록기간\n  1) "
+								},
+								{
+									"type": "text",
+									"text": "1차: 2022. 8. 24.(수) ~ 9. 6.(화)【10일간】",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n      ※ 2022. 8월 수료자는 9. 1.(목)부터 수납 가능\n  2) "
+								},
+								{
+									"type": "text",
+									"text": "2차: 2022. 9. 16.(금) ~ 9. 28.(수)【9일간】(최종)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n   나. 부담금 납부액\n  1) 인문‧사회‧예술‧체육계열: 150,000원\n  2) 이학‧공학 계열: 200,000원\n   다. 수납 장소: 농협은행 및 신한은행 전 지점\n   라. 수납 방법\n  방법1) 전산 출력된 납부고지서로 지정은행에 납부\n  방법2) 납부고지서에 명기되어 있는 개인별 가상계좌로 계좌 이체하여 납부"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "d6b49ce6-c91c-4361-b29d-82029f44a0cd",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*2022학년도 2학기 수강신청 가능 학점 변경 조치 완료*\n\n현재 2022학년도 2학기 수강신청 가능 학점이 *16학점으로 변경 조치 완료*되었습니다.\n\n기다려주셔서 감사합니다.",
+			"ts": "1660024729.091279",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 2,
+					"users": [
+						"U02V5LSARR7",
+						"U01Q1KFN4JK"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "A8oqw",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 수강신청 가능 학점 변경 조치 완료",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n현재 2022학년도 2학기 수강신청 가능 학점이 "
+								},
+								{
+									"type": "text",
+									"text": "16학점으로 변경 조치 완료",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "되었습니다.\n\n기다려주셔서 감사합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

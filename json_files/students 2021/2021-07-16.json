@@ -1,225 +1,227 @@
-[
-  {
-    "type": "message",
-    "user": "U01QAE5A9K5",
-    "text": "*[공지]*\n안녕하세요 1기 손영준입니다.\nGSDS GPU 클러스터 사용 관련 공지사항 및 manual 전달드립니다.\n원활한 서버 사용을 위해 다들 manual을 참고하시길 바랍니다.\n\n\n또한 2기 분들을 포함하여 아직 서버 계정이 없으신 분들은 계정 신청하시면 됩니다.\n계정 생성은 신청을 모두 받은 뒤 일괄적으로 진행 예정이라 며칠 정도 걸릴 수 있습니다.\n\n사용 및 계정 관련 내용이 manual에 상세히 적혀 있으니 천천히 읽어보시고 , 추가적인 질문은 DM이나 스레드 댓글을 통해 부탁드립니다.",
-    "ts": "1626419623.184300",
-    "thread_ts": "1626419623.184300",
-    "reply_count": 1,
-    "replies": [
-      {
-        "user": "U01QA85T90A",
-        "ts": "1627535704.196700"
-      }
-    ],
-    "latest_reply": "1627535704.196700",
-    "files": [
-      {
-        "id": "F028N6MTERF",
-        "created": 1626419136,
-        "timestamp": 1626419136,
-        "name": "데이터사이언스대학원 GPU 클러스터 사용 매뉴얼 v2.0.1.pdf",
-        "title": "데이터사이언스대학원 GPU 클러스터 사용 매뉴얼 v2.0.1.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QAE5A9K5",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 1967843,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F028N6MTERF-데이터사이언스대학원 GPU 클러스터 사용 매뉴얼 v2.0.1.pdf",
-        "url_private_download": "attachments/F028N6MTERF-데이터사이언스대학원 GPU 클러스터 사용 매뉴얼 v2.0.1.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QAE5A9K5/F028N6MTERF/_______________________________gpu_______________________________v2.0.1.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F028N6MTERF-683d803f28",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 10,
-        "users": [
-          "U01QNSMEY0Z",
-          "U01R719DKK2",
-          "U01Q386CMKQ",
-          "U01QAE5DERZ",
-          "U01PVETMX2T",
-          "U01QGKC4BM1",
-          "U01QDA01NN9",
-          "U01QV28FG4R",
-          "U01Q3EPDBAA",
-          "U01QV1PBKUZ"
-        ]
-      },
-      {
-        "name": "clap",
-        "count": 7,
-        "users": [
-          "U01QNSMEY0Z",
-          "U01PVEU1A07",
-          "U01Q1KFN4JK",
-          "U01QGD03WUC",
-          "U01Q386CMKQ",
-          "U01QZ0NQW5P",
-          "U01PVEU69BR"
-        ]
-      },
-      {
-        "name": "yay-13",
-        "count": 2,
-        "users": [
-          "U01R719DKK2",
-          "U01QV1SQJ57"
-        ]
-      },
-      {
-        "name": "짱구s",
-        "count": 6,
-        "users": [
-          "U01Q75KNV1T",
-          "U01PVETSAGP",
-          "U01Q3A8TXU6",
-          "U01PVET2C31",
-          "U01QNSM488Z",
-          "U01QAE5BVEX"
-        ]
-      },
-      {
-        "name": "cryingjordan",
-        "count": 1,
-        "users": [
-          "U01Q3A8TXU6"
-        ]
-      },
-      {
-        "name": "짱구0",
-        "count": 2,
-        "users": [
-          "U01Q3A8TXU6",
-          "U01R678KWP2"
-        ]
-      },
-      {
-        "name": "brown_heart",
-        "count": 1,
-        "users": [
-          "U01PVEU98KH"
-        ]
-      },
-      {
-        "name": "pika_blob",
-        "count": 1,
-        "users": [
-          "U01Q3A8TXU6"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 3,
-        "users": [
-          "U01Q3EP0E14",
-          "U01QV1WAPL1",
-          "U01QNSMC29X"
-        ]
-      },
-      {
-        "name": "짱구",
-        "count": 2,
-        "users": [
-          "U01PVET2C31",
-          "U01Q3A8TXU6"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "kf4x",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[공지]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n안녕하세요 1기 손영준입니다.\nGSDS GPU 클러스터 사용 관련 공지사항 및 manual 전달드립니다.\n원활한 서버 사용을 위해 다들 manual을 참고하시길 바랍니다.\n\n\n또한 2기 분들을 포함하여 아직 서버 계정이 없으신 분들은 계정 신청하시면 됩니다.\n계정 생성은 신청을 모두 받은 뒤 일괄적으로 진행 예정이라 며칠 정도 걸릴 수 있습니다.\n\n사용 및 계정 관련 내용이 manual에 상세히 적혀 있으니 천천히 읽어보시고 , 추가적인 질문은 DM이나 스레드 댓글을 통해 부탁드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
-      "first_name": "3기_손영준",
-      "real_name": "3기_손영준",
-      "display_name": "3기_손영준",
-      "team": "T01QA5S537V",
-      "name": "jun041577",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 1,
-    "reply_users": [
-      "U01QA85T90A"
-    ]
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QAE5A9K5",
+			"text": "*[공지]*\n안녕하세요 1기 손영준입니다.\nGSDS GPU 클러스터 사용 관련 공지사항 및 manual 전달드립니다.\n원활한 서버 사용을 위해 다들 manual을 참고하시길 바랍니다.\n\n\n또한 2기 분들을 포함하여 아직 서버 계정이 없으신 분들은 계정 신청하시면 됩니다.\n계정 생성은 신청을 모두 받은 뒤 일괄적으로 진행 예정이라 며칠 정도 걸릴 수 있습니다.\n\n사용 및 계정 관련 내용이 manual에 상세히 적혀 있으니 천천히 읽어보시고 , 추가적인 질문은 DM이나 스레드 댓글을 통해 부탁드립니다.",
+			"ts": "1626419623.184300",
+			"thread_ts": "1626419623.184300",
+			"reply_count": 1,
+			"replies": [
+				{
+					"user": "U01QA85T90A",
+					"ts": "1627535704.196700"
+				}
+			],
+			"latest_reply": "1627535704.196700",
+			"files": [
+				{
+					"id": "F028N6MTERF",
+					"created": 1626419136,
+					"timestamp": 1626419136,
+					"name": "데이터사이언스대학원 GPU 클러스터 사용 매뉴얼 v2.0.1.pdf",
+					"title": "데이터사이언스대학원 GPU 클러스터 사용 매뉴얼 v2.0.1.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QAE5A9K5",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 1967843,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F028N6MTERF-데이터사이언스대학원 GPU 클러스터 사용 매뉴얼 v2.0.1.pdf",
+					"url_private_download": "attachments/F028N6MTERF-데이터사이언스대학원 GPU 클러스터 사용 매뉴얼 v2.0.1.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QAE5A9K5/F028N6MTERF/_______________________________gpu_______________________________v2.0.1.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F028N6MTERF-683d803f28",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 10,
+					"users": [
+						"U01QNSMEY0Z",
+						"U01R719DKK2",
+						"U01Q386CMKQ",
+						"U01QAE5DERZ",
+						"U01PVETMX2T",
+						"U01QGKC4BM1",
+						"U01QDA01NN9",
+						"U01QV28FG4R",
+						"U01Q3EPDBAA",
+						"U01QV1PBKUZ"
+					]
+				},
+				{
+					"name": "clap",
+					"count": 7,
+					"users": [
+						"U01QNSMEY0Z",
+						"U01PVEU1A07",
+						"U01Q1KFN4JK",
+						"U01QGD03WUC",
+						"U01Q386CMKQ",
+						"U01QZ0NQW5P",
+						"U01PVEU69BR"
+					]
+				},
+				{
+					"name": "yay-13",
+					"count": 2,
+					"users": [
+						"U01R719DKK2",
+						"U01QV1SQJ57"
+					]
+				},
+				{
+					"name": "짱구s",
+					"count": 6,
+					"users": [
+						"U01Q75KNV1T",
+						"U01PVETSAGP",
+						"U01Q3A8TXU6",
+						"U01PVET2C31",
+						"U01QNSM488Z",
+						"U01QAE5BVEX"
+					]
+				},
+				{
+					"name": "cryingjordan",
+					"count": 1,
+					"users": [
+						"U01Q3A8TXU6"
+					]
+				},
+				{
+					"name": "짱구0",
+					"count": 2,
+					"users": [
+						"U01Q3A8TXU6",
+						"U01R678KWP2"
+					]
+				},
+				{
+					"name": "brown_heart",
+					"count": 1,
+					"users": [
+						"U01PVEU98KH"
+					]
+				},
+				{
+					"name": "pika_blob",
+					"count": 1,
+					"users": [
+						"U01Q3A8TXU6"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 3,
+					"users": [
+						"U01Q3EP0E14",
+						"U01QV1WAPL1",
+						"U01QNSMC29X"
+					]
+				},
+				{
+					"name": "짱구",
+					"count": 2,
+					"users": [
+						"U01PVET2C31",
+						"U01Q3A8TXU6"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "kf4x",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[공지]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n안녕하세요 1기 손영준입니다.\nGSDS GPU 클러스터 사용 관련 공지사항 및 manual 전달드립니다.\n원활한 서버 사용을 위해 다들 manual을 참고하시길 바랍니다.\n\n\n또한 2기 분들을 포함하여 아직 서버 계정이 없으신 분들은 계정 신청하시면 됩니다.\n계정 생성은 신청을 모두 받은 뒤 일괄적으로 진행 예정이라 며칠 정도 걸릴 수 있습니다.\n\n사용 및 계정 관련 내용이 manual에 상세히 적혀 있으니 천천히 읽어보시고 , 추가적인 질문은 DM이나 스레드 댓글을 통해 부탁드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+				"first_name": "3기_손영준",
+				"real_name": "3기_손영준",
+				"display_name": "3기_손영준",
+				"team": "T01QA5S537V",
+				"name": "jun041577",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 1,
+			"reply_users": [
+				"U01QA85T90A"
+			]
+		}
+	]
+}

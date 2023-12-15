@@ -1,62 +1,64 @@
-[
-  {
-    "client_msg_id": "72213aff-5509-4160-9236-3f459680b68f",
-    "type": "message",
-    "user": "U01QGJL6SP5",
-    "text": "잠시후 10시에 오민환 교수님의 advisor였던 Iyengar 교수님의 강연이 있사오니 많은 참석 바랍니다!\n메인 주제는 causal inference입니다.",
-    "ts": "1670805504.378639",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 6,
-        "users": [
-          "U01QNSM488Z",
-          "U040ENMTCEA",
-          "U01R678KWP2",
-          "U01QV1SQJ57",
-          "U040ENMBB1C",
-          "U01QZRUNBA4"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Mv/k",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "잠시후 10시에 오민환 교수님의 advisor였던 Iyengar 교수님의 강연이 있사오니 많은 참석 바랍니다!\n메인 주제는 causal inference입니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/6a94f58f0bc82e36189ce7d8731cd6ce.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
-      "first_name": "이중규",
-      "real_name": "이중규",
-      "display_name": "4기_이중규",
-      "team": "T01QA5S537V",
-      "name": "jklee0717",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "72213aff-5509-4160-9236-3f459680b68f",
+			"type": "message",
+			"user": "U01QGJL6SP5",
+			"text": "잠시후 10시에 오민환 교수님의 advisor였던 Iyengar 교수님의 강연이 있사오니 많은 참석 바랍니다!\n메인 주제는 causal inference입니다.",
+			"ts": "1670805504.378639",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 6,
+					"users": [
+						"U01QNSM488Z",
+						"U040ENMTCEA",
+						"U01R678KWP2",
+						"U01QV1SQJ57",
+						"U040ENMBB1C",
+						"U01QZRUNBA4"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Mv/k",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "잠시후 10시에 오민환 교수님의 advisor였던 Iyengar 교수님의 강연이 있사오니 많은 참석 바랍니다!\n메인 주제는 causal inference입니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/6a94f58f0bc82e36189ce7d8731cd6ce.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+				"first_name": "이중규",
+				"real_name": "이중규",
+				"display_name": "4기_이중규",
+				"team": "T01QA5S537V",
+				"name": "jklee0717",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

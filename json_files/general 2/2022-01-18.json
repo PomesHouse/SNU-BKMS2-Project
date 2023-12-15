@@ -1,240 +1,242 @@
-[
-  {
-    "client_msg_id": "8bd99d7a-5595-4861-840a-54d510f621d3",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "교수님들 회의하시고 남은 샌드위치가 있는데 4층 라운지에 올려놓았어요 ^^ 출출하신 분들 드세요~",
-    "ts": "1642498505.001700",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "oFDO",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "교수님들 회의하시고 남은 샌드위치가 있는데 4층 라운지에 올려놓았어요 ^^ 출출하신 분들 드세요~"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "4416d340-19bc-44f7-ac75-2554830396ec",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022학년도 2학기 본부 국외파견교환학생 후보자 모집 안내\n\n2022학년도 2학기 국제협력본부 국외파견교환학생 후보자를 아래와 같이 선발할 계획이오니, 관심있는 분들께서는 행정실로 연락 주시기 바랍니다.\n\n  가. 모집인원: 548*명(학기) 내외(35개국 227개교)*\n  나. 지원방법: *온라인 지원(학내 포털)* 후 아래 서류를 지원 기간 내 *담당자에게 이메일 제출*\n    ※ 코로나19로 인한 파견 취소 후 재지원하는 경우, 온라인 지원 없이 재지원서를 포함한 서류 구비 후 기간 내 이메일 제출\n1) 제출서류\n      가) (온라인) 지원서 1부\n        ※ 일반 지원자의 경우, 온라인 신청 완료 후 출력해서 스캔 후 제출\n        ※ 재지원자의 경우, 지원서(양식 첨부) 작성 후 제출\n      나) 서울대 영문성적표 1부(2021. 12. 30. 이후 발급받은 성적표 제출)\n      다) 공인외국어성적표 사본 1부(2020. 8. 1. 이후 응시한 어학성적만 유효함)\n      라) 국문 수학계획서 1부(양식 첨부)\n      마) 지도교수 및 학과장추천서 1부(양식 첨부)\n       ※ 기한 내 제출이 불가할 경우, 합격자 발표일 기준 1주일 내에 소급 제출 가능\n      바) 개인정보 수집 이용 특별 동의서 1부(양식 첨부)\n    2) 온라인 신청 및 서류제출 기간: *2022. 1. 13.(목) 17:00 ~ 2022. 1. 19.(수) 10:00*\n    3) 제출처: 국제협력본부 배현주 담당자(*\u003cmailto:hjbaeb@snu.ac.kr|hjbaeb@snu.ac.kr\u003e)*\n*     *※ 자세한 정보는 OIA 홈페이지(\u003chttp://oia.snu.ac.kr|oia.snu.ac.kr\u003e) 및 첨부 안내자료 통해 확인 요망",
-    "ts": "1642505106.002300",
-    "files": [
-      {
-        "id": "F02U8QQ0LP8",
-        "created": 1642505096,
-        "timestamp": 1642505096,
-        "name": "1. 2022학년도 2학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
-        "title": "1. 2022학년도 2학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 142690,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02U8QQ0LP8-1. 2022학년도 2학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
-        "url_private_download": "attachments/F02U8QQ0LP8-1. 2022학년도 2학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02U8QQ0LP8/1._2022__________2______________________________________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02U8QQ0LP8-b479e91481",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "fOS",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 본부 국외파견교환학생 후보자 모집 안내\n\n2022학년도 2학기 국제협력본부 국외파견교환학생 후보자를 아래와 같이 선발할 계획이오니, 관심있는 분들께서는 행정실로 연락 주시기 바랍니다.\n\n  가. 모집인원: 548"
-              },
-              {
-                "type": "text",
-                "text": "명(학기) 내외(35개국 227개교)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n  나. 지원방법: "
-              },
-              {
-                "type": "text",
-                "text": "온라인 지원(학내 포털)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 후 아래 서류를 지원 기간 내 "
-              },
-              {
-                "type": "text",
-                "text": "담당자에게 이메일 제출",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    ※ 코로나19로 인한 파견 취소 후 재지원하는 경우, 온라인 지원 없이 재지원서를 포함한 서류 구비 후 기간 내 이메일 제출\n1) 제출서류\n      가) (온라인) 지원서 1부\n        ※ 일반 지원자의 경우, 온라인 신청 완료 후 출력해서 스캔 후 제출\n        ※ 재지원자의 경우, 지원서(양식 첨부) 작성 후 제출\n      나) 서울대 영문성적표 1부(2021. 12. 30. 이후 발급받은 성적표 제출)\n      다) 공인외국어성적표 사본 1부(2020. 8. 1. 이후 응시한 어학성적만 유효함)\n      라) 국문 수학계획서 1부(양식 첨부)\n      마) 지도교수 및 학과장추천서 1부(양식 첨부)\n       ※ 기한 내 제출이 불가할 경우, 합격자 발표일 기준 1주일 내에 소급 제출 가능\n      바) 개인정보 수집 이용 특별 동의서 1부(양식 첨부)\n    2) 온라인 신청 및 서류제출 기간: "
-              },
-              {
-                "type": "text",
-                "text": "2022. 1. 13.(목) 17:00 ~ 2022. 1. 19.(수) 10:00",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n    3) 제출처: 국제협력본부 배현주 담당자("
-              },
-              {
-                "type": "link",
-                "url": "mailto:hjbaeb@snu.ac.kr",
-                "text": "hjbaeb@snu.ac.kr",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ")",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "     ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "※ 자세한 정보는 OIA 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "http://oia.snu.ac.kr",
-                "text": "oia.snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": ") 및 첨부 안내자료 통해 확인 요망"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "8bd99d7a-5595-4861-840a-54d510f621d3",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "교수님들 회의하시고 남은 샌드위치가 있는데 4층 라운지에 올려놓았어요 ^^ 출출하신 분들 드세요~",
+			"ts": "1642498505.001700",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "oFDO",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "교수님들 회의하시고 남은 샌드위치가 있는데 4층 라운지에 올려놓았어요 ^^ 출출하신 분들 드세요~"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "4416d340-19bc-44f7-ac75-2554830396ec",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022학년도 2학기 본부 국외파견교환학생 후보자 모집 안내\n\n2022학년도 2학기 국제협력본부 국외파견교환학생 후보자를 아래와 같이 선발할 계획이오니, 관심있는 분들께서는 행정실로 연락 주시기 바랍니다.\n\n  가. 모집인원: 548*명(학기) 내외(35개국 227개교)*\n  나. 지원방법: *온라인 지원(학내 포털)* 후 아래 서류를 지원 기간 내 *담당자에게 이메일 제출*\n    ※ 코로나19로 인한 파견 취소 후 재지원하는 경우, 온라인 지원 없이 재지원서를 포함한 서류 구비 후 기간 내 이메일 제출\n1) 제출서류\n      가) (온라인) 지원서 1부\n        ※ 일반 지원자의 경우, 온라인 신청 완료 후 출력해서 스캔 후 제출\n        ※ 재지원자의 경우, 지원서(양식 첨부) 작성 후 제출\n      나) 서울대 영문성적표 1부(2021. 12. 30. 이후 발급받은 성적표 제출)\n      다) 공인외국어성적표 사본 1부(2020. 8. 1. 이후 응시한 어학성적만 유효함)\n      라) 국문 수학계획서 1부(양식 첨부)\n      마) 지도교수 및 학과장추천서 1부(양식 첨부)\n       ※ 기한 내 제출이 불가할 경우, 합격자 발표일 기준 1주일 내에 소급 제출 가능\n      바) 개인정보 수집 이용 특별 동의서 1부(양식 첨부)\n    2) 온라인 신청 및 서류제출 기간: *2022. 1. 13.(목) 17:00 ~ 2022. 1. 19.(수) 10:00*\n    3) 제출처: 국제협력본부 배현주 담당자(*<mailto:hjbaeb@snu.ac.kr|hjbaeb@snu.ac.kr>)*\n*     *※ 자세한 정보는 OIA 홈페이지(<http://oia.snu.ac.kr|oia.snu.ac.kr>) 및 첨부 안내자료 통해 확인 요망",
+			"ts": "1642505106.002300",
+			"files": [
+				{
+					"id": "F02U8QQ0LP8",
+					"created": 1642505096,
+					"timestamp": 1642505096,
+					"name": "1. 2022학년도 2학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
+					"title": "1. 2022학년도 2학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 142690,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02U8QQ0LP8-1. 2022학년도 2학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
+					"url_private_download": "attachments/F02U8QQ0LP8-1. 2022학년도 2학기 본부 국외파견교환학생 후보자 선발 안내.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02U8QQ0LP8/1._2022__________2______________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02U8QQ0LP8-b479e91481",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "fOS",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 본부 국외파견교환학생 후보자 모집 안내\n\n2022학년도 2학기 국제협력본부 국외파견교환학생 후보자를 아래와 같이 선발할 계획이오니, 관심있는 분들께서는 행정실로 연락 주시기 바랍니다.\n\n  가. 모집인원: 548"
+								},
+								{
+									"type": "text",
+									"text": "명(학기) 내외(35개국 227개교)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  나. 지원방법: "
+								},
+								{
+									"type": "text",
+									"text": "온라인 지원(학내 포털)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 후 아래 서류를 지원 기간 내 "
+								},
+								{
+									"type": "text",
+									"text": "담당자에게 이메일 제출",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    ※ 코로나19로 인한 파견 취소 후 재지원하는 경우, 온라인 지원 없이 재지원서를 포함한 서류 구비 후 기간 내 이메일 제출\n1) 제출서류\n      가) (온라인) 지원서 1부\n        ※ 일반 지원자의 경우, 온라인 신청 완료 후 출력해서 스캔 후 제출\n        ※ 재지원자의 경우, 지원서(양식 첨부) 작성 후 제출\n      나) 서울대 영문성적표 1부(2021. 12. 30. 이후 발급받은 성적표 제출)\n      다) 공인외국어성적표 사본 1부(2020. 8. 1. 이후 응시한 어학성적만 유효함)\n      라) 국문 수학계획서 1부(양식 첨부)\n      마) 지도교수 및 학과장추천서 1부(양식 첨부)\n       ※ 기한 내 제출이 불가할 경우, 합격자 발표일 기준 1주일 내에 소급 제출 가능\n      바) 개인정보 수집 이용 특별 동의서 1부(양식 첨부)\n    2) 온라인 신청 및 서류제출 기간: "
+								},
+								{
+									"type": "text",
+									"text": "2022. 1. 13.(목) 17:00 ~ 2022. 1. 19.(수) 10:00",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n    3) 제출처: 국제협력본부 배현주 담당자("
+								},
+								{
+									"type": "link",
+									"url": "mailto:hjbaeb@snu.ac.kr",
+									"text": "hjbaeb@snu.ac.kr",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ")",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "     ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "※ 자세한 정보는 OIA 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "http://oia.snu.ac.kr",
+									"text": "oia.snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": ") 및 첨부 안내자료 통해 확인 요망"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

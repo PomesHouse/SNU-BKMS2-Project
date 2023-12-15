@@ -1,130 +1,132 @@
-[
-  {
-    "client_msg_id": "698a97ae-1b37-4089-a379-6668d71322a9",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;신영증권 채용 공고\u0026gt;\n\u003chttps://shinrecruit.shinyoung.com/APN/DtlNoticeForm\u003e",
-    "ts": "1663919856.290179",
-    "attachments": [
-      {
-        "fallback": "신영증권 채용",
-        "id": 1,
-        "title": "신영증권 채용",
-        "title_link": "https://shinrecruit.shinyoung.com/APN/DtlNoticeForm",
-        "text": "신영증권 채용 사이트",
-        "thumb_url": "https://shinrecruit.shinyoung.com/resources/images/logo.png",
-        "service_name": "shinrecruit.shinyoung.com",
-        "from_url": "https://shinrecruit.shinyoung.com/APN/DtlNoticeForm",
-        "original_url": "https://shinrecruit.shinyoung.com/APN/DtlNoticeForm",
-        "blocks": null
-      }
-    ],
-    "files": [
-      {
-        "id": "F0436F74KU7",
-        "created": 1663919847,
-        "timestamp": 1663919847,
-        "name": "[신영증권] DS 모집.jpg",
-        "title": "[신영증권] DS 모집.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2794985,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0436F74KU7-[신영증권] DS 모집.jpg",
-        "url_private_download": "attachments/F0436F74KU7-[신영증권] DS 모집.jpg",
-        "original_h": 7368,
-        "original_w": 2481,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 121,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________480.jpg",
-        "thumb_480_w": 162,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________720.jpg",
-        "thumb_720_w": 242,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________960.jpg",
-        "thumb_960_w": 323,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________1024.jpg",
-        "thumb_1024_w": 345,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0436F74KU7/_______________ds_______.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0436F74KU7-2cc65f53ed",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "hDEx",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c신영증권 채용 공고\u003e\n"
-              },
-              {
-                "type": "link",
-                "url": "https://shinrecruit.shinyoung.com/APN/DtlNoticeForm",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "698a97ae-1b37-4089-a379-6668d71322a9",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;신영증권 채용 공고&gt;\n<https://shinrecruit.shinyoung.com/APN/DtlNoticeForm>",
+			"ts": "1663919856.290179",
+			"attachments": [
+				{
+					"fallback": "신영증권 채용",
+					"id": 1,
+					"title": "신영증권 채용",
+					"title_link": "https://shinrecruit.shinyoung.com/APN/DtlNoticeForm",
+					"text": "신영증권 채용 사이트",
+					"thumb_url": "https://shinrecruit.shinyoung.com/resources/images/logo.png",
+					"service_name": "shinrecruit.shinyoung.com",
+					"from_url": "https://shinrecruit.shinyoung.com/APN/DtlNoticeForm",
+					"original_url": "https://shinrecruit.shinyoung.com/APN/DtlNoticeForm",
+					"blocks": null
+				}
+			],
+			"files": [
+				{
+					"id": "F0436F74KU7",
+					"created": 1663919847,
+					"timestamp": 1663919847,
+					"name": "[신영증권] DS 모집.jpg",
+					"title": "[신영증권] DS 모집.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2794985,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0436F74KU7-[신영증권] DS 모집.jpg",
+					"url_private_download": "attachments/F0436F74KU7-[신영증권] DS 모집.jpg",
+					"original_h": 7368,
+					"original_w": 2481,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 121,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________480.jpg",
+					"thumb_480_w": 162,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________720.jpg",
+					"thumb_720_w": 242,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________960.jpg",
+					"thumb_960_w": 323,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0436F74KU7-b7c356eb53/_______________ds________1024.jpg",
+					"thumb_1024_w": 345,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0436F74KU7/_______________ds_______.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0436F74KU7-2cc65f53ed",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "hDEx",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<신영증권 채용 공고>\n"
+								},
+								{
+									"type": "link",
+									"url": "https://shinrecruit.shinyoung.com/APN/DtlNoticeForm",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

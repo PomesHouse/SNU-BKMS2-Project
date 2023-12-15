@@ -1,70 +1,72 @@
-[
-  {
-    "client_msg_id": "894babb9-5b1a-4a71-adf3-cf44e5684f45",
-    "type": "message",
-    "user": "U01QAE573J7",
-    "text": "*[서버실 출입 시]*\n• 현재 서버실에 GSDS 공용 서버 외에 Lab별 노드도 일부 구축되어 있는데, 작업 후에는 박스나 기타 쓰레기 같은 것을 청소해주시면 감사하겠습니다.",
-    "ts": "1644296566.099079",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "white_check_mark",
-        "count": 3,
-        "users": [
-          "U01Q386CMKQ",
-          "U01QNJ7PWRX",
-          "U02C3D2T0BS"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "CGXar",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[서버실 출입 시]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud604\\uc7ac \\uc11c\\ubc84\\uc2e4\\uc5d0 GSDS \\uacf5\\uc6a9 \\uc11c\\ubc84 \\uc678\\uc5d0 Lab\\ubcc4 \\ub178\\ub4dc\\ub3c4 \\uc77c\\ubd80 \\uad6c\\ucd95\\ub418\\uc5b4 \\uc788\\ub294\\ub370, \\uc791\\uc5c5 \\ud6c4\\uc5d0\\ub294 \\ubc15\\uc2a4\\ub098 \\uae30\\ud0c0 \\uc4f0\\ub808\\uae30 \\uac19\\uc740 \\uac83\\uc744 \\uccad\\uc18c\\ud574\\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
-      "first_name": "1기_안규수",
-      "real_name": "1기_안규수",
-      "display_name": "",
-      "team": "T01QA5S537V",
-      "name": "kyusu.ahn",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "894babb9-5b1a-4a71-adf3-cf44e5684f45",
+			"type": "message",
+			"user": "U01QAE573J7",
+			"text": "*[서버실 출입 시]*\n• 현재 서버실에 GSDS 공용 서버 외에 Lab별 노드도 일부 구축되어 있는데, 작업 후에는 박스나 기타 쓰레기 같은 것을 청소해주시면 감사하겠습니다.",
+			"ts": "1644296566.099079",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "white_check_mark",
+					"count": 3,
+					"users": [
+						"U01Q386CMKQ",
+						"U01QNJ7PWRX",
+						"U02C3D2T0BS"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "CGXar",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[서버실 출입 시]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud604\\uc7ac \\uc11c\\ubc84\\uc2e4\\uc5d0 GSDS \\uacf5\\uc6a9 \\uc11c\\ubc84 \\uc678\\uc5d0 Lab\\ubcc4 \\ub178\\ub4dc\\ub3c4 \\uc77c\\ubd80 \\uad6c\\ucd95\\ub418\\uc5b4 \\uc788\\ub294\\ub370, \\uc791\\uc5c5 \\ud6c4\\uc5d0\\ub294 \\ubc15\\uc2a4\\ub098 \\uae30\\ud0c0 \\uc4f0\\ub808\\uae30 \\uac19\\uc740 \\uac83\\uc744 \\uccad\\uc18c\\ud574\\uc8fc\\uc2dc\\uba74 \\uac10\\uc0ac\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+				"first_name": "1기_안규수",
+				"real_name": "1기_안규수",
+				"display_name": "",
+				"team": "T01QA5S537V",
+				"name": "kyusu.ahn",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

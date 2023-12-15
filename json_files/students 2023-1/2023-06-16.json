@@ -1,159 +1,161 @@
-[
-  {
-    "client_msg_id": "182f8015-1d26-474c-8f3f-5adbb1c0e8e2",
-    "type": "message",
-    "user": "U01QA85T90A",
-    "text": "역순환 순환버스 호암교수회관 출발시간 공유합니다. 기숙사 거쳐서 301동 쪽으로 올라가는 방향으로 운행하고, 호암 출발 후 5분안에 연구공원정문에서 한번 정차합니다.",
-    "ts": "1686882366.042209",
-    "files": [
-      {
-        "id": "F05CWFJKDNG",
-        "created": 1686882254,
-        "timestamp": 1686882254,
-        "name": "20230322_180958.jpg",
-        "title": "20230322_180958.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QA85T90A",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 568087,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05CWFJKDNG-20230322_180958.jpg",
-        "url_private_download": "attachments/F05CWFJKDNG-20230322_180958.jpg",
-        "original_h": 4000,
-        "original_w": 3000,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QA85T90A/F05CWFJKDNG/20230322_180958.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05CWFJKDNG-977becd43f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 25,
-        "users": [
-          "U0406PM050F",
-          "U01PVEU1A07",
-          "U04QGUFBFR9",
-          "U02V5LS84JV",
-          "U01QNSM488Z",
-          "U01Q1KFN4JK",
-          "U02V5LU4ED7",
-          "U01QGKCT067",
-          "U02ULBHV58W",
-          "U02UT1YNY6N",
-          "U04R6NRPJC8",
-          "U02ULBG7ZGE",
-          "U040ZVDSA0H",
-          "U0302PK342C",
-          "U02UQ4D8L2Z",
-          "U01QV1SQJ57",
-          "U04R20KG9JM",
-          "U0302PKMR6C",
-          "U04QGUF264B",
-          "U02UT1YMCDQ",
-          "U04RD26CJ5N",
-          "U04QKG4K12Q",
-          "U0302PHUHME",
-          "U02ULBH3TEJ",
-          "U02C3D2T0BS"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 2,
-        "users": [
-          "U02V5LTPGRX",
-          "U01QGD17SUU"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-3",
-        "count": 1,
-        "users": [
-          "U04R6NRBD1N"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "2pLrE",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "역순환 순환버스 호암교수회관 출발시간 공유합니다. 기숙사 거쳐서 301동 쪽으로 올라가는 방향으로 운행하고, 호암 출발 후 5분안에 연구공원정문에서 한번 정차합니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
-      "first_name": "gundo0102",
-      "real_name": "gundo0102",
-      "display_name": "3기_박건도",
-      "team": "T01QA5S537V",
-      "name": "gundo0102",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "182f8015-1d26-474c-8f3f-5adbb1c0e8e2",
+			"type": "message",
+			"user": "U01QA85T90A",
+			"text": "역순환 순환버스 호암교수회관 출발시간 공유합니다. 기숙사 거쳐서 301동 쪽으로 올라가는 방향으로 운행하고, 호암 출발 후 5분안에 연구공원정문에서 한번 정차합니다.",
+			"ts": "1686882366.042209",
+			"files": [
+				{
+					"id": "F05CWFJKDNG",
+					"created": 1686882254,
+					"timestamp": 1686882254,
+					"name": "20230322_180958.jpg",
+					"title": "20230322_180958.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QA85T90A",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 568087,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05CWFJKDNG-20230322_180958.jpg",
+					"url_private_download": "attachments/F05CWFJKDNG-20230322_180958.jpg",
+					"original_h": 4000,
+					"original_w": 3000,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05CWFJKDNG-446e7b9ea7/20230322_180958_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QA85T90A/F05CWFJKDNG/20230322_180958.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05CWFJKDNG-977becd43f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 25,
+					"users": [
+						"U0406PM050F",
+						"U01PVEU1A07",
+						"U04QGUFBFR9",
+						"U02V5LS84JV",
+						"U01QNSM488Z",
+						"U01Q1KFN4JK",
+						"U02V5LU4ED7",
+						"U01QGKCT067",
+						"U02ULBHV58W",
+						"U02UT1YNY6N",
+						"U04R6NRPJC8",
+						"U02ULBG7ZGE",
+						"U040ZVDSA0H",
+						"U0302PK342C",
+						"U02UQ4D8L2Z",
+						"U01QV1SQJ57",
+						"U04R20KG9JM",
+						"U0302PKMR6C",
+						"U04QGUF264B",
+						"U02UT1YMCDQ",
+						"U04RD26CJ5N",
+						"U04QKG4K12Q",
+						"U0302PHUHME",
+						"U02ULBH3TEJ",
+						"U02C3D2T0BS"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 2,
+					"users": [
+						"U02V5LTPGRX",
+						"U01QGD17SUU"
+					]
+				},
+				{
+					"name": "+1::skin-tone-3",
+					"count": 1,
+					"users": [
+						"U04R6NRBD1N"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "2pLrE",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "역순환 순환버스 호암교수회관 출발시간 공유합니다. 기숙사 거쳐서 301동 쪽으로 올라가는 방향으로 운행하고, 호암 출발 후 5분안에 연구공원정문에서 한번 정차합니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+				"first_name": "gundo0102",
+				"real_name": "gundo0102",
+				"display_name": "3기_박건도",
+				"team": "T01QA5S537V",
+				"name": "gundo0102",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

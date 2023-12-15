@@ -1,228 +1,230 @@
-[
-  {
-    "client_msg_id": "2a2fa919-f75d-45dc-aadd-5ccf9ec1a3f3",
-    "type": "message",
-    "user": "U01QV1SQJ57",
-    "text": "안녕하세요! 4기 박사과정 김병찬 입니다.\n11/15(수) 오후 4:00- 5:00까지 Dr. Krzysztof Choromanski 께서 세미나를 진행해주실 예정입니다.\n구글 딥마인드에서 지금까지 오랫동안 연구하시고, 컬럼비아 대학 겸임 조교수도 역임하시고 있으십니다.\n딥마인드에서 진행중인 연구를 접해볼 수 있는 좋은 기회일거 같습니다!!!\n학우분들의 많은 관심 바랍니다:star-struck:\n\n##############################################################################################################\n*시간*: 11월15일(수) 오후 4:00-5:00\n*장소*: 43-2동 B102호\n\n*Title*: Towards Practical Robotics Transformers\n\n*Abstract*: Transformer architectures have revolutionized modern machine learning, quickly overtaking regular deep neural networks in practically all its fields: from large language through vision and speech to Robotics. One of the main challenges in using them to model long-range interactions (critical for such applications as bioinformatics, e.g. genome modeling) and in settings with strict latency constraints (e.g. Robotics) remains the prohibitively expensive quadratic space \u0026 time complexity (in the lengths of their input sequences) of their core attention modules. Attention linearization techniques applying kernel methods and random features led to one of the most mathematically rigorous ways to address this problem and the birth of various scalable Transformer architectures (such as the class of low-rank implicit-attention Transformers called Performers).\nIn this talk, I will summarize the recent progress made on scaling up Transformers with kernel features and present related open mathematical problems. I will discuss those in the context of the new, rapidly growing field of Robotics Transformers. The talk with provide an introduction to modern attention linearization algorithms based on low-rank factorization (such as FAVOR, FAVOR+ and FAVOR# mechanisms, QMC techniques and methods producing topologically-aware modulation of the regular attention modules in Transformers via RF-based linearizations of various graph kernels). Applications of linear-attention in Robotics Transformers on the example of the Performer-MPC controllers and the class of SARA-RTs (new Robotics Transformers used recently to speed up RT-2 models and controllers leveraging Point Cloud Transformers, with no quality loss) will be given.\n\n*Bio*: Dr. Krzysztof Choromanski is a research scientist at Google DeepMind and an adjunct assistant professor at Columbia University. He obtained his Ph.D. from the IEOR Department at Columbia University, where he worked on various problems in structural graph theory (in particular the celebrated Erdos-Hajnal Conjecture and random graphs). His current interests include Robotics, scalable Transformer architectures (also for topologically-rich inputs), the theory of random features, and structural neural networks. Krzysztof is one of the co-founders of the class of Performers-Transformers, the first Transformer architectures providing efficient unbiased estimation of the regular softmax-kernel matrices used in Transformers.",
-    "ts": "1699881606.950899",
-    "edited": {
-      "user": "U01QV1SQJ57",
-      "ts": "1699881669.000000"
-    },
-    "files": [
-      {
-        "id": "F065CU0D59B",
-        "created": 1699881581,
-        "timestamp": 1699881581,
-        "name": "Choromanski_Poster.jpg",
-        "title": "Choromanski_Poster.jpg",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01QV1SQJ57",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 315904,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F065CU0D59B-Choromanski_Poster.jpg",
-        "url_private_download": "attachments/F065CU0D59B-Choromanski_Poster.jpg",
-        "original_h": 1920,
-        "original_w": 1440,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F065CU0D59B/choromanski_poster.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F065CU0D59B-c689caaa57",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "+1",
-        "count": 18,
-        "users": [
-          "U01QV1SQJ57",
-          "U04QKG4K12Q",
-          "U04R20KG9JM",
-          "U01QGJL6SP5",
-          "U04QGUEEHJ7",
-          "U04QE496FTP",
-          "U02UJC5BU8P",
-          "U01QNSM488Z",
-          "U040ENMTCEA",
-          "U04QE4ASJP7",
-          "U02UT1YNY6N",
-          "U0302PJE83A",
-          "U02V5LU4ED7",
-          "U02C3D2T0BS",
-          "U0302PHUHME",
-          "U041GBXK5A4",
-          "U04Q2G4KNTZ",
-          "U0406PM050F"
-        ]
-      },
-      {
-        "name": "tada",
-        "count": 10,
-        "users": [
-          "U01QV1SQJ57",
-          "U04QKG4K12Q",
-          "U01QGJL6SP5",
-          "U04QE496FTP",
-          "U01QNSM488Z",
-          "U04QE4ASJP7",
-          "U04R6NRBD1N",
-          "U0302PJE83A",
-          "U02V5LU4ED7",
-          "U04Q2G4KNTZ"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-3",
-        "count": 1,
-        "users": [
-          "U04R6NRBD1N"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "Ukoos",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "안녕하세요! 4기 박사과정 김병찬 입니다.\n11/15(수) 오후 4:00- 5:00까지 Dr. Krzysztof Choromanski 께서 세미나를 진행해주실 예정입니다.\n구글 딥마인드에서 지금까지 오랫동안 연구하시고, 컬럼비아 대학 겸임 조교수도 역임하시고 있으십니다.\n딥마인드에서 진행중인 연구를 접해볼 수 있는 좋은 기회일거 같습니다!!!\n학우분들의 많은 관심 바랍니다"
-              },
-              {
-                "type": "emoji",
-                "name": "star-struck",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\n##############################################################################################################\n"
-              },
-              {
-                "type": "text",
-                "text": "시간",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 11월15일(수) 오후 4:00-5:00\n"
-              },
-              {
-                "type": "text",
-                "text": "장소",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": 43-2동 B102호\n\n"
-              },
-              {
-                "type": "text",
-                "text": "Title",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": Towards Practical Robotics Transformers\n\n"
-              },
-              {
-                "type": "text",
-                "text": "Abstract",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": Transformer architectures have revolutionized modern machine learning, quickly overtaking regular deep neural networks in practically all its fields: from large language through vision and speech to Robotics. One of the main challenges in using them to model long-range interactions (critical for such applications as bioinformatics, e.g. genome modeling) and in settings with strict latency constraints (e.g. Robotics) remains the prohibitively expensive quadratic space \u0026 time complexity (in the lengths of their input sequences) of their core attention modules. Attention linearization techniques applying kernel methods and random features led to one of the most mathematically rigorous ways to address this problem and the birth of various scalable Transformer architectures (such as the class of low-rank implicit-attention Transformers called Performers).\nIn this talk, I will summarize the recent progress made on scaling up Transformers with kernel features and present related open mathematical problems. I will discuss those in the context of the new, rapidly growing field of Robotics Transformers. The talk with provide an introduction to modern attention linearization algorithms based on low-rank factorization (such as FAVOR, FAVOR+ and FAVOR# mechanisms, QMC techniques and methods producing topologically-aware modulation of the regular attention modules in Transformers via RF-based linearizations of various graph kernels). Applications of linear-attention in Robotics Transformers on the example of the Performer-MPC controllers and the class of SARA-RTs (new Robotics Transformers used recently to speed up RT-2 models and controllers leveraging Point Cloud Transformers, with no quality loss) will be given.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "Bio",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ": Dr. Krzysztof Choromanski is a research scientist at Google DeepMind and an adjunct assistant professor at Columbia University. He obtained his Ph.D. from the IEOR Department at Columbia University, where he worked on various problems in structural graph theory (in particular the celebrated Erdos-Hajnal Conjecture and random graphs). His current interests include Robotics, scalable Transformer architectures (also for topologically-rich inputs), the theory of random features, and structural neural networks. Krzysztof is one of the co-founders of the class of Performers-Transformers, the first Transformer architectures providing efficient unbiased estimation of the regular softmax-kernel matrices used in Transformers."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
-      "first_name": "김병찬",
-      "real_name": "김병찬",
-      "display_name": "4기_김병찬",
-      "team": "T01QA5S537V",
-      "name": "bckim97",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "2a2fa919-f75d-45dc-aadd-5ccf9ec1a3f3",
+			"type": "message",
+			"user": "U01QV1SQJ57",
+			"text": "안녕하세요! 4기 박사과정 김병찬 입니다.\n11/15(수) 오후 4:00- 5:00까지 Dr. Krzysztof Choromanski 께서 세미나를 진행해주실 예정입니다.\n구글 딥마인드에서 지금까지 오랫동안 연구하시고, 컬럼비아 대학 겸임 조교수도 역임하시고 있으십니다.\n딥마인드에서 진행중인 연구를 접해볼 수 있는 좋은 기회일거 같습니다!!!\n학우분들의 많은 관심 바랍니다:star-struck:\n\n##############################################################################################################\n*시간*: 11월15일(수) 오후 4:00-5:00\n*장소*: 43-2동 B102호\n\n*Title*: Towards Practical Robotics Transformers\n\n*Abstract*: Transformer architectures have revolutionized modern machine learning, quickly overtaking regular deep neural networks in practically all its fields: from large language through vision and speech to Robotics. One of the main challenges in using them to model long-range interactions (critical for such applications as bioinformatics, e.g. genome modeling) and in settings with strict latency constraints (e.g. Robotics) remains the prohibitively expensive quadratic space & time complexity (in the lengths of their input sequences) of their core attention modules. Attention linearization techniques applying kernel methods and random features led to one of the most mathematically rigorous ways to address this problem and the birth of various scalable Transformer architectures (such as the class of low-rank implicit-attention Transformers called Performers).\nIn this talk, I will summarize the recent progress made on scaling up Transformers with kernel features and present related open mathematical problems. I will discuss those in the context of the new, rapidly growing field of Robotics Transformers. The talk with provide an introduction to modern attention linearization algorithms based on low-rank factorization (such as FAVOR, FAVOR+ and FAVOR# mechanisms, QMC techniques and methods producing topologically-aware modulation of the regular attention modules in Transformers via RF-based linearizations of various graph kernels). Applications of linear-attention in Robotics Transformers on the example of the Performer-MPC controllers and the class of SARA-RTs (new Robotics Transformers used recently to speed up RT-2 models and controllers leveraging Point Cloud Transformers, with no quality loss) will be given.\n\n*Bio*: Dr. Krzysztof Choromanski is a research scientist at Google DeepMind and an adjunct assistant professor at Columbia University. He obtained his Ph.D. from the IEOR Department at Columbia University, where he worked on various problems in structural graph theory (in particular the celebrated Erdos-Hajnal Conjecture and random graphs). His current interests include Robotics, scalable Transformer architectures (also for topologically-rich inputs), the theory of random features, and structural neural networks. Krzysztof is one of the co-founders of the class of Performers-Transformers, the first Transformer architectures providing efficient unbiased estimation of the regular softmax-kernel matrices used in Transformers.",
+			"ts": "1699881606.950899",
+			"edited": {
+				"user": "U01QV1SQJ57",
+				"ts": "1699881669.000000"
+			},
+			"files": [
+				{
+					"id": "F065CU0D59B",
+					"created": 1699881581,
+					"timestamp": 1699881581,
+					"name": "Choromanski_Poster.jpg",
+					"title": "Choromanski_Poster.jpg",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01QV1SQJ57",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 315904,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F065CU0D59B-Choromanski_Poster.jpg",
+					"url_private_download": "attachments/F065CU0D59B-Choromanski_Poster.jpg",
+					"original_h": 1920,
+					"original_w": 1440,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F065CU0D59B-bc8b2e2237/choromanski_poster_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F065CU0D59B/choromanski_poster.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F065CU0D59B-c689caaa57",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "+1",
+					"count": 18,
+					"users": [
+						"U01QV1SQJ57",
+						"U04QKG4K12Q",
+						"U04R20KG9JM",
+						"U01QGJL6SP5",
+						"U04QGUEEHJ7",
+						"U04QE496FTP",
+						"U02UJC5BU8P",
+						"U01QNSM488Z",
+						"U040ENMTCEA",
+						"U04QE4ASJP7",
+						"U02UT1YNY6N",
+						"U0302PJE83A",
+						"U02V5LU4ED7",
+						"U02C3D2T0BS",
+						"U0302PHUHME",
+						"U041GBXK5A4",
+						"U04Q2G4KNTZ",
+						"U0406PM050F"
+					]
+				},
+				{
+					"name": "tada",
+					"count": 10,
+					"users": [
+						"U01QV1SQJ57",
+						"U04QKG4K12Q",
+						"U01QGJL6SP5",
+						"U04QE496FTP",
+						"U01QNSM488Z",
+						"U04QE4ASJP7",
+						"U04R6NRBD1N",
+						"U0302PJE83A",
+						"U02V5LU4ED7",
+						"U04Q2G4KNTZ"
+					]
+				},
+				{
+					"name": "+1::skin-tone-3",
+					"count": 1,
+					"users": [
+						"U04R6NRBD1N"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "Ukoos",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "안녕하세요! 4기 박사과정 김병찬 입니다.\n11/15(수) 오후 4:00- 5:00까지 Dr. Krzysztof Choromanski 께서 세미나를 진행해주실 예정입니다.\n구글 딥마인드에서 지금까지 오랫동안 연구하시고, 컬럼비아 대학 겸임 조교수도 역임하시고 있으십니다.\n딥마인드에서 진행중인 연구를 접해볼 수 있는 좋은 기회일거 같습니다!!!\n학우분들의 많은 관심 바랍니다"
+								},
+								{
+									"type": "emoji",
+									"name": "star-struck",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n\n##############################################################################################################\n"
+								},
+								{
+									"type": "text",
+									"text": "시간",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 11월15일(수) 오후 4:00-5:00\n"
+								},
+								{
+									"type": "text",
+									"text": "장소",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": 43-2동 B102호\n\n"
+								},
+								{
+									"type": "text",
+									"text": "Title",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": Towards Practical Robotics Transformers\n\n"
+								},
+								{
+									"type": "text",
+									"text": "Abstract",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": Transformer architectures have revolutionized modern machine learning, quickly overtaking regular deep neural networks in practically all its fields: from large language through vision and speech to Robotics. One of the main challenges in using them to model long-range interactions (critical for such applications as bioinformatics, e.g. genome modeling) and in settings with strict latency constraints (e.g. Robotics) remains the prohibitively expensive quadratic space & time complexity (in the lengths of their input sequences) of their core attention modules. Attention linearization techniques applying kernel methods and random features led to one of the most mathematically rigorous ways to address this problem and the birth of various scalable Transformer architectures (such as the class of low-rank implicit-attention Transformers called Performers).\nIn this talk, I will summarize the recent progress made on scaling up Transformers with kernel features and present related open mathematical problems. I will discuss those in the context of the new, rapidly growing field of Robotics Transformers. The talk with provide an introduction to modern attention linearization algorithms based on low-rank factorization (such as FAVOR, FAVOR+ and FAVOR# mechanisms, QMC techniques and methods producing topologically-aware modulation of the regular attention modules in Transformers via RF-based linearizations of various graph kernels). Applications of linear-attention in Robotics Transformers on the example of the Performer-MPC controllers and the class of SARA-RTs (new Robotics Transformers used recently to speed up RT-2 models and controllers leveraging Point Cloud Transformers, with no quality loss) will be given.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "Bio",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ": Dr. Krzysztof Choromanski is a research scientist at Google DeepMind and an adjunct assistant professor at Columbia University. He obtained his Ph.D. from the IEOR Department at Columbia University, where he worked on various problems in structural graph theory (in particular the celebrated Erdos-Hajnal Conjecture and random graphs). His current interests include Robotics, scalable Transformer architectures (also for topologically-rich inputs), the theory of random features, and structural neural networks. Krzysztof is one of the co-founders of the class of Performers-Transformers, the first Transformer architectures providing efficient unbiased estimation of the regular softmax-kernel matrices used in Transformers."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+				"first_name": "김병찬",
+				"real_name": "김병찬",
+				"display_name": "4기_김병찬",
+				"team": "T01QA5S537V",
+				"name": "bckim97",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,210 +1,212 @@
-[
-  {
-    "client_msg_id": "56cd1de5-c3d1-46a0-a495-e5ba869ccbf5",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;4단계 BK21 참여인력 대상 첨령교육 실시 안내\u0026gt;\n\n한국연구재단에서 4단계 BK21 사업 참여인력 대상 청렴교육을 다음과 같이 실시한다 하오니,\nBK21사업 참여대학원생 및 신진연구인력의 많은 참석 부탁드립니다.\n\n  가. 교육실시 배경\n    ○ 최근 대학원 내 인권침해 문제 지속 발생에 따라 사전 예방 교육 필요\n    ○ 온라인강의 이수를 의무화 하고 있지만 실제현장에서 도움이 되는 사례내용 부족\n  나. 교육개요\n    ○ 일시/장소: 2021.11.3.(수) 14:00~15:00 / 온라인(webex*로 접속)\n       * (주소) \u003chttps://nrf.webex.com/meet/nrfwebex14\u003e 별도 프로그램 설치 불필요(13:50부터 접속가능)\n    ○ 참석대상: BK21사업 참여 대학원생 및 신진연구인력\n      ※ 최대 참석인원(1,000명) 초과 시 참석이 어려울 수 있으므로, 교육시작 전 접속 요망\n    ○ 교육주제: 대학원 내 인권침해 및 대처 방안(사례 중심)\n    ○ 교육강사: 한국과학기술원 인권윤리센터 부센터장\n  다. 기타사항: 교육 참석자 중 추첨을 통해 소정의 기념품 제공 예정",
-    "ts": "1635734237.029800",
-    "attachments": [
-      {
-        "fallback": "Cisco Webex Site: Meet virtually with Cisco Webex. Anytime, anywhere, on any device.",
-        "id": 1,
-        "title": "Meet virtually with Cisco Webex. Anytime, anywhere, on any device.",
-        "title_link": "https://nrf.webex.com/meet/nrfwebex14",
-        "text": "Simple, modern video meetings for everyone on the world's most popular and trusted collaboration platform.",
-        "image_url": "https://nrf.webex.com/mw3300/mywebex/html/img/webexball_opengraph_new.png",
-        "service_name": "Cisco Webex Site",
-        "service_icon": "https://nrf.webex.com/favicont29_new.ico?v=2",
-        "from_url": "https://nrf.webex.com/meet/nrfwebex14",
-        "original_url": "https://nrf.webex.com/meet/nrfwebex14",
-        "blocks": null
-      }
-    ],
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "SE6",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c4단계 BK21 참여인력 대상 첨령교육 실시 안내\u003e\n\n한국연구재단에서 4단계 BK21 사업 참여인력 대상 청렴교육을 다음과 같이 실시한다 하오니,\nBK21사업 참여대학원생 및 신진연구인력의 많은 참석 부탁드립니다.\n\n  가. 교육실시 배경\n    ○ 최근 대학원 내 인권침해 문제 지속 발생에 따라 사전 예방 교육 필요\n    ○ 온라인강의 이수를 의무화 하고 있지만 실제현장에서 도움이 되는 사례내용 부족\n  나. 교육개요\n    ○ 일시/장소: 2021.11.3.(수) 14:00~15:00 / 온라인(webex*로 접속)\n       * (주소) "
-              },
-              {
-                "type": "link",
-                "url": "https://nrf.webex.com/meet/nrfwebex14",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": " 별도 프로그램 설치 불필요(13:50부터 접속가능)\n    ○ 참석대상: BK21사업 참여 대학원생 및 신진연구인력\n      ※ 최대 참석인원(1,000명) 초과 시 참석이 어려울 수 있으므로, 교육시작 전 접속 요망\n    ○ 교육주제: 대학원 내 인권침해 및 대처 방안(사례 중심)\n    ○ 교육강사: 한국과학기술원 인권윤리센터 부센터장\n  다. 기타사항: 교육 참석자 중 추첨을 통해 소정의 기념품 제공 예정"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "cc9377ea-fbc7-4d6f-bcf5-bd927aafa4fc",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 2022독일 정부초청 장학생(DAAD) 섬머코스 장학생 선발 안내 \u0026gt;\n 2022 독일 정부초청 섬머코스 장학생 선발을 다음과 같이 안내하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n\n  가. 지원자격 : *최소 B1 이상의 독일어 실력을 보유한 학사 및 석사과정 학생*  (전공 불문, 장학금 수혜 시점에 학사 2학년 이상을 마쳐야 하며 학생으로 등록되어 있어야 함)\n  나. 지원마감 : 2021. 12. 1.(수)\n  다. 장학금 내역 : 장학금 1,061 유로(1회), 여행경비 587.50 유로\n  라. 수혜기간 : 일반적으로 4주 (2022년 6월 ~ 11월 사이)\n  마. 문의처 : 주한독일고등교육진흥원(:phone: 02-324-0655, \u003cmailto:info@daad.or.kr|info@daad.or.kr\u003e)\n   ※ 기타 세부 사항은 \u0026lt;붙임\u0026gt; 장학생 선발요강 참조",
-    "ts": "1635755048.031100",
-    "files": [
-      {
-        "id": "F02KSQ67PTN",
-        "created": 1635754989,
-        "timestamp": 1635754989,
-        "name": "2022 독일 정부초청(DAAD) 섬머코스 장학생 선발요강.pdf",
-        "title": "2022 독일 정부초청(DAAD) 섬머코스 장학생 선발요강.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 200686,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02KSQ67PTN-2022 독일 정부초청(DAAD) 섬머코스 장학생 선발요강.pdf",
-        "url_private_download": "attachments/F02KSQ67PTN-2022 독일 정부초청(DAAD) 섬머코스 장학생 선발요강.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02KSQ67PTN/2022_____________________daad_____________________________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02KSQ67PTN-e370e0c02c",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "rk0Vx",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 2022독일 정부초청 장학생(DAAD) 섬머코스 장학생 선발 안내 \u003e\n 2022 독일 정부초청 섬머코스 장학생 선발을 다음과 같이 안내하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n\n  가. 지원자격 : "
-              },
-              {
-                "type": "text",
-                "text": "최소 B1 이상의 독일어 실력을 보유한 학사 및 석사과정 학생",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "  (전공 불문, 장학금 수혜 시점에 학사 2학년 이상을 마쳐야 하며 학생으로 등록되어 있어야 함)\n  나. 지원마감 : 2021. 12. 1.(수)\n  다. 장학금 내역 : 장학금 1,061 유로(1회), 여행경비 587.50 유로\n  라. 수혜기간 : 일반적으로 4주 (2022년 6월 ~ 11월 사이)\n  마. 문의처 : 주한독일고등교육진흥원("
-              },
-              {
-                "type": "emoji",
-                "name": "phone",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": " 02-324-0655, "
-              },
-              {
-                "type": "link",
-                "url": "mailto:info@daad.or.kr",
-                "text": "info@daad.or.kr"
-              },
-              {
-                "type": "text",
-                "text": ")\n   ※ 기타 세부 사항은 \u003c붙임\u003e 장학생 선발요강 참조"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "56cd1de5-c3d1-46a0-a495-e5ba869ccbf5",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;4단계 BK21 참여인력 대상 첨령교육 실시 안내&gt;\n\n한국연구재단에서 4단계 BK21 사업 참여인력 대상 청렴교육을 다음과 같이 실시한다 하오니,\nBK21사업 참여대학원생 및 신진연구인력의 많은 참석 부탁드립니다.\n\n  가. 교육실시 배경\n    ○ 최근 대학원 내 인권침해 문제 지속 발생에 따라 사전 예방 교육 필요\n    ○ 온라인강의 이수를 의무화 하고 있지만 실제현장에서 도움이 되는 사례내용 부족\n  나. 교육개요\n    ○ 일시/장소: 2021.11.3.(수) 14:00~15:00 / 온라인(webex*로 접속)\n       * (주소) <https://nrf.webex.com/meet/nrfwebex14> 별도 프로그램 설치 불필요(13:50부터 접속가능)\n    ○ 참석대상: BK21사업 참여 대학원생 및 신진연구인력\n      ※ 최대 참석인원(1,000명) 초과 시 참석이 어려울 수 있으므로, 교육시작 전 접속 요망\n    ○ 교육주제: 대학원 내 인권침해 및 대처 방안(사례 중심)\n    ○ 교육강사: 한국과학기술원 인권윤리센터 부센터장\n  다. 기타사항: 교육 참석자 중 추첨을 통해 소정의 기념품 제공 예정",
+			"ts": "1635734237.029800",
+			"attachments": [
+				{
+					"fallback": "Cisco Webex Site: Meet virtually with Cisco Webex. Anytime, anywhere, on any device.",
+					"id": 1,
+					"title": "Meet virtually with Cisco Webex. Anytime, anywhere, on any device.",
+					"title_link": "https://nrf.webex.com/meet/nrfwebex14",
+					"text": "Simple, modern video meetings for everyone on the world's most popular and trusted collaboration platform.",
+					"image_url": "https://nrf.webex.com/mw3300/mywebex/html/img/webexball_opengraph_new.png",
+					"service_name": "Cisco Webex Site",
+					"service_icon": "https://nrf.webex.com/favicont29_new.ico?v=2",
+					"from_url": "https://nrf.webex.com/meet/nrfwebex14",
+					"original_url": "https://nrf.webex.com/meet/nrfwebex14",
+					"blocks": null
+				}
+			],
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "SE6",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<4단계 BK21 참여인력 대상 첨령교육 실시 안내>\n\n한국연구재단에서 4단계 BK21 사업 참여인력 대상 청렴교육을 다음과 같이 실시한다 하오니,\nBK21사업 참여대학원생 및 신진연구인력의 많은 참석 부탁드립니다.\n\n  가. 교육실시 배경\n    ○ 최근 대학원 내 인권침해 문제 지속 발생에 따라 사전 예방 교육 필요\n    ○ 온라인강의 이수를 의무화 하고 있지만 실제현장에서 도움이 되는 사례내용 부족\n  나. 교육개요\n    ○ 일시/장소: 2021.11.3.(수) 14:00~15:00 / 온라인(webex*로 접속)\n       * (주소) "
+								},
+								{
+									"type": "link",
+									"url": "https://nrf.webex.com/meet/nrfwebex14",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": " 별도 프로그램 설치 불필요(13:50부터 접속가능)\n    ○ 참석대상: BK21사업 참여 대학원생 및 신진연구인력\n      ※ 최대 참석인원(1,000명) 초과 시 참석이 어려울 수 있으므로, 교육시작 전 접속 요망\n    ○ 교육주제: 대학원 내 인권침해 및 대처 방안(사례 중심)\n    ○ 교육강사: 한국과학기술원 인권윤리센터 부센터장\n  다. 기타사항: 교육 참석자 중 추첨을 통해 소정의 기념품 제공 예정"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "cc9377ea-fbc7-4d6f-bcf5-bd927aafa4fc",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 2022독일 정부초청 장학생(DAAD) 섬머코스 장학생 선발 안내 &gt;\n 2022 독일 정부초청 섬머코스 장학생 선발을 다음과 같이 안내하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n\n  가. 지원자격 : *최소 B1 이상의 독일어 실력을 보유한 학사 및 석사과정 학생*  (전공 불문, 장학금 수혜 시점에 학사 2학년 이상을 마쳐야 하며 학생으로 등록되어 있어야 함)\n  나. 지원마감 : 2021. 12. 1.(수)\n  다. 장학금 내역 : 장학금 1,061 유로(1회), 여행경비 587.50 유로\n  라. 수혜기간 : 일반적으로 4주 (2022년 6월 ~ 11월 사이)\n  마. 문의처 : 주한독일고등교육진흥원(:phone: 02-324-0655, <mailto:info@daad.or.kr|info@daad.or.kr>)\n   ※ 기타 세부 사항은 &lt;붙임&gt; 장학생 선발요강 참조",
+			"ts": "1635755048.031100",
+			"files": [
+				{
+					"id": "F02KSQ67PTN",
+					"created": 1635754989,
+					"timestamp": 1635754989,
+					"name": "2022 독일 정부초청(DAAD) 섬머코스 장학생 선발요강.pdf",
+					"title": "2022 독일 정부초청(DAAD) 섬머코스 장학생 선발요강.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 200686,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02KSQ67PTN-2022 독일 정부초청(DAAD) 섬머코스 장학생 선발요강.pdf",
+					"url_private_download": "attachments/F02KSQ67PTN-2022 독일 정부초청(DAAD) 섬머코스 장학생 선발요강.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02KSQ67PTN/2022_____________________daad_____________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02KSQ67PTN-e370e0c02c",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "rk0Vx",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 2022독일 정부초청 장학생(DAAD) 섬머코스 장학생 선발 안내 >\n 2022 독일 정부초청 섬머코스 장학생 선발을 다음과 같이 안내하오니, 관심있는 학생분들의 많은 참여 바랍니다.\n\n  가. 지원자격 : "
+								},
+								{
+									"type": "text",
+									"text": "최소 B1 이상의 독일어 실력을 보유한 학사 및 석사과정 학생",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "  (전공 불문, 장학금 수혜 시점에 학사 2학년 이상을 마쳐야 하며 학생으로 등록되어 있어야 함)\n  나. 지원마감 : 2021. 12. 1.(수)\n  다. 장학금 내역 : 장학금 1,061 유로(1회), 여행경비 587.50 유로\n  라. 수혜기간 : 일반적으로 4주 (2022년 6월 ~ 11월 사이)\n  마. 문의처 : 주한독일고등교육진흥원("
+								},
+								{
+									"type": "emoji",
+									"name": "phone",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": " 02-324-0655, "
+								},
+								{
+									"type": "link",
+									"url": "mailto:info@daad.or.kr",
+									"text": "info@daad.or.kr"
+								},
+								{
+									"type": "text",
+									"text": ")\n   ※ 기타 세부 사항은 <붙임> 장학생 선발요강 참조"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,176 +1,178 @@
-[
-  {
-    "client_msg_id": "b4a95512-1058-49dd-a7b0-7b40a0c2a33e",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;데이터사이언스대학원 2022학년도 2학기 학위논문 제출 및 심사시행\u0026gt;\n\n최신 공지를 확인해주시기 바랍니다.\n\n~2022학년도 2학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 알려드립니다.~\n\n~논문제출 예정자 등록기간 및 심사료 납부 기간 외 세부 시행 계획은 추후 확정시 안내드릴 예정입니다.~\n\n~*ㅁ 논문제출 예정자 등록   (온라인 신청)*~\n~∙ 2022. 10. 11. (화) ~ 10. 21. (금) \u0026lt;11일간\u0026gt;~\n   ~※ 학생 개인별로 mysnu에 로그인하여 신청 함.~\n\n~*ㅁ  논문심사료 납부*~\n~∙ 2022. 10. 24.(월) 09:00 ~ 11. 4.(금) 17:00 \u0026lt;10일간\u0026gt;~\n   ~※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.~\n\n~*ㅁ 논문심사 및 최종 인준논문 제출: 추후 확정시 안내*~\n\n~관련문의: 행정실 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e, 880-1331)~",
-    "ts": "1664949993.283659",
-    "edited": {
-      "user": "U01QNJ7PWRX",
-      "ts": "1665447559.000000"
-    },
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "yAk",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c데이터사이언스대학원 2022학년도 2학기 학위논문 제출 및 심사시행\u003e\n\n최신 공지를 확인해주시기 바랍니다.\n\n"
-              },
-              {
-                "type": "text",
-                "text": "2022학년도 2학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 알려드립니다.",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "논문제출 예정자 등록기간 및 심사료 납부 기간 외 세부 시행 계획은 추후 확정시 안내드릴 예정입니다.",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ 논문제출 예정자 등록   (온라인 신청)",
-                "style": {
-                  "bold": true,
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "∙ 2022. 10. 11. (화) ~ 10. 21. (금) \u003c11일간\u003e",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "   ※ 학생 개인별로 mysnu에 로그인하여 신청 함.",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ  논문심사료 납부",
-                "style": {
-                  "bold": true,
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "∙ 2022. 10. 24.(월) 09:00 ~ 11. 4.(금) 17:00 \u003c10일간\u003e",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "   ※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "ㅁ 논문심사 및 최종 인준논문 제출: 추후 확정시 안내",
-                "style": {
-                  "bold": true,
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n"
-              },
-              {
-                "type": "text",
-                "text": "관련문의: 행정실 임채연(",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "link",
-                "url": "mailto:cylim@snu.ac.kr",
-                "text": "cylim@snu.ac.kr",
-                "style": {
-                  "strike": true
-                }
-              },
-              {
-                "type": "text",
-                "text": ", 880-1331)",
-                "style": {
-                  "strike": true
-                }
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "b4a95512-1058-49dd-a7b0-7b40a0c2a33e",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;데이터사이언스대학원 2022학년도 2학기 학위논문 제출 및 심사시행&gt;\n\n최신 공지를 확인해주시기 바랍니다.\n\n~2022학년도 2학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 알려드립니다.~\n\n~논문제출 예정자 등록기간 및 심사료 납부 기간 외 세부 시행 계획은 추후 확정시 안내드릴 예정입니다.~\n\n~*ㅁ 논문제출 예정자 등록   (온라인 신청)*~\n~∙ 2022. 10. 11. (화) ~ 10. 21. (금) &lt;11일간&gt;~\n   ~※ 학생 개인별로 mysnu에 로그인하여 신청 함.~\n\n~*ㅁ  논문심사료 납부*~\n~∙ 2022. 10. 24.(월) 09:00 ~ 11. 4.(금) 17:00 &lt;10일간&gt;~\n   ~※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.~\n\n~*ㅁ 논문심사 및 최종 인준논문 제출: 추후 확정시 안내*~\n\n~관련문의: 행정실 임채연(<mailto:cylim@snu.ac.kr|cylim@snu.ac.kr>, 880-1331)~",
+			"ts": "1664949993.283659",
+			"edited": {
+				"user": "U01QNJ7PWRX",
+				"ts": "1665447559.000000"
+			},
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "yAk",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<데이터사이언스대학원 2022학년도 2학기 학위논문 제출 및 심사시행>\n\n최신 공지를 확인해주시기 바랍니다.\n\n"
+								},
+								{
+									"type": "text",
+									"text": "2022학년도 2학기 논문제출 및 심사와 관련하여 논문제출 예정자 등록기간 및 심사료 납부 안내를 아래와 같이 알려드립니다.",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "논문제출 예정자 등록기간 및 심사료 납부 기간 외 세부 시행 계획은 추후 확정시 안내드릴 예정입니다.",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ 논문제출 예정자 등록   (온라인 신청)",
+									"style": {
+										"bold": true,
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "∙ 2022. 10. 11. (화) ~ 10. 21. (금) <11일간>",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "   ※ 학생 개인별로 mysnu에 로그인하여 신청 함.",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ  논문심사료 납부",
+									"style": {
+										"bold": true,
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "∙ 2022. 10. 24.(월) 09:00 ~ 11. 4.(금) 17:00 <10일간>",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "   ※ 논문제출예정자가 계좌 이체 또는 지정된 은행에 직접 납부.",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "ㅁ 논문심사 및 최종 인준논문 제출: 추후 확정시 안내",
+									"style": {
+										"bold": true,
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n"
+								},
+								{
+									"type": "text",
+									"text": "관련문의: 행정실 임채연(",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "link",
+									"url": "mailto:cylim@snu.ac.kr",
+									"text": "cylim@snu.ac.kr",
+									"style": {
+										"strike": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ", 880-1331)",
+									"style": {
+										"strike": true
+									}
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

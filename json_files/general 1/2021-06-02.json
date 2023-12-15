@@ -1,360 +1,362 @@
-[
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "*\u0026lt; [카카오브레인] 2021 카카오브레인 AI 영입연계형 인턴십\u0026gt;*\n\n'2021 카카오브레인 AI 영입연계형 인턴십' 관련하여 홍보 요청이 있어 게시합니다.\n\n서류접수 마감이 금요일 저녁이라고 하니 관심있는 분들께서는 첨부된 파일을 확인하시기 바랍니다.\n\n참고 링크: \u003chttps://url.kr/mgqhs8\u003e",
-    "ts": "1622611637.037900",
-    "files": [
-      {
-        "id": "F0243GKG8G1",
-        "created": 1622611516,
-        "timestamp": 1622611516,
-        "name": "[카카오브레인] 인턴십 소개서류(Mobile).png",
-        "title": "[카카오브레인] 인턴십 소개서류(Mobile).png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 888112,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F0243GKG8G1-[카카오브레인] 인턴십 소개서류(Mobile).png",
-        "url_private_download": "attachments/F0243GKG8G1-[카카오브레인] 인턴십 소개서류(Mobile).png",
-        "original_h": 11064,
-        "original_w": 360,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 12,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__480.png",
-        "thumb_480_w": 16,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__720.png",
-        "thumb_720_w": 23,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__960.png",
-        "thumb_960_w": 31,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__1024.png",
-        "thumb_1024_w": 33,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0243GKG8G1/____________________________________________mobile_.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F0243GKG8G1-d7c9b94c50",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F024EN0PVUG",
-        "created": 1622611521,
-        "timestamp": 1622611521,
-        "name": "[카카오브레인] 인턴십 소개서류(PC).png",
-        "title": "[카카오브레인] 인턴십 소개서류(PC).png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 2033545,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F024EN0PVUG-[카카오브레인] 인턴십 소개서류(PC).png",
-        "url_private_download": "attachments/F024EN0PVUG-[카카오브레인] 인턴십 소개서류(PC).png",
-        "original_h": 10832,
-        "original_w": 1200,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 40,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__480.png",
-        "thumb_480_w": 53,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__720.png",
-        "thumb_720_w": 80,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__960.png",
-        "thumb_960_w": 106,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__1024.png",
-        "thumb_1024_w": 113,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F024EN0PVUG/____________________________________________pc_.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F024EN0PVUG-ecc9e3612d",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "l30FS",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c [카카오브레인] 2021 카카오브레인 AI 영입연계형 인턴십\u003e",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n'2021 카카오브레인 AI 영입연계형 인턴십' 관련하여 홍보 요청이 있어 게시합니다.\n\n서류접수 마감이 금요일 저녁이라고 하니 관심있는 분들께서는 첨부된 파일을 확인하시기 바랍니다.\n\n참고 링크: "
-              },
-              {
-                "type": "link",
-                "url": "https://url.kr/mgqhs8",
-                "text": ""
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 2021 공연예술통합전산망(KOPIS) 빅데이터 분석 공모전 사전설명회 \u0026gt;\n1. 주최/주관: 문화체육관광부/예술경영지원센터\n 2. 공모전 주제 : 공연 소비, 유통 등의 측면에서 시장 문제점을 해결 및 발전시킬 수 있는 범주 내 자유주제\n 3. 프로그램\n    1) 사전 설명회(06.04.금)\n    2) 중간점검 및 멘토링(08.11.수)\n    3) 발표 심사 및 시상식(09.17.금)\n 4. 행사 장소\n    1) 사전 설명회 : 온라인 접속 비대면 설명회\n    2) 중간점검 및 멘토링 : 추후 개별 안내\n    3) 발표 심사 및 시상식 : 추후 개별 안내\n 5. 사전 설명회 및 공모전 참가 대상: 전공무관 학적부상 대학(원)생 / 개인 또는 팀(최대 4인) 참여 가능\n 6. 사전설명회 및 공모전 참가 비용: 무료\n 7. 상금\n    1) 최우수 1팀 : 500만원\n　 2) 우수 2팀 : 300만원\n    3) 장려 3팀 : 200만원\n    4) 입상 12팀 : 30만원\n 8. 신청 일자\n    1) 사전 설명회 : 2021.05.24.월 ~ 6.2.수\n    2) 공모전 접수 : 6.7.월 ~ 6.21.월 18시까지 (지원 미달 시 연장 예정)\n\n더욱 자세한 내용은 공연예술통합전산망 홈페이지(\u003chttps://www.kopis.or.kr/por/main/main.do\u003e) 참고 부탁드립니다.",
-    "ts": "1622616931.039600",
-    "files": [
-      {
-        "id": "F024EU2TNN4",
-        "created": 1622616927,
-        "timestamp": 1622616927,
-        "name": "KOPIS 빅데이터 분석 공모전 사전설명회 참가 모집 포스터.png",
-        "title": "KOPIS 빅데이터 분석 공모전 사전설명회 참가 모집 포스터.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 746400,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F024EU2TNN4-KOPIS 빅데이터 분석 공모전 사전설명회 참가 모집 포스터.png",
-        "url_private_download": "attachments/F024EU2TNN4-KOPIS 빅데이터 분석 공모전 사전설명회 참가 모집 포스터.png",
-        "original_h": 1710,
-        "original_w": 1217,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 256,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________480.png",
-        "thumb_480_w": 342,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________720.png",
-        "thumb_720_w": 512,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________960.png",
-        "thumb_960_w": 683,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________1024.png",
-        "thumb_1024_w": 729,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F024EU2TNN4/kopis______________________________________________________________________.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F024EU2TNN4-b13f913bf3",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "bkFv",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 2021 공연예술통합전산망(KOPIS) 빅데이터 분석 공모전 사전설명회 \u003e\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\ucd5c\\/\\uc8fc\\uad00: \\ubb38\\ud654\\uccb4\\uc721\\uad00\\uad11\\ubd80\\/\\uc608\\uc220\\uacbd\\uc601\\uc9c0\\uc6d0\\uc13c\\ud130\"}]}],\"style\":\"ordered\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": " 2. 공모전 주제 : 공연 소비, 유통 등의 측면에서 시장 문제점을 해결 및 발전시킬 수 있는 범주 내 자유주제\n 3. 프로그램\n    1) 사전 설명회(06.04.금)\n    2) 중간점검 및 멘토링(08.11.수)\n    3) 발표 심사 및 시상식(09.17.금)\n 4. 행사 장소\n    1) 사전 설명회 : 온라인 접속 비대면 설명회\n    2) 중간점검 및 멘토링 : 추후 개별 안내\n    3) 발표 심사 및 시상식 : 추후 개별 안내\n 5. 사전 설명회 및 공모전 참가 대상: 전공무관 학적부상 대학(원)생 / 개인 또는 팀(최대 4인) 참여 가능\n 6. 사전설명회 및 공모전 참가 비용: 무료\n 7. 상금\n    1) 최우수 1팀 : 500만원\n　 2) 우수 2팀 : 300만원\n    3) 장려 3팀 : 200만원\n    4) 입상 12팀 : 30만원\n 8. 신청 일자\n    1) 사전 설명회 : 2021.05.24.월 ~ 6.2.수\n    2) 공모전 접수 : 6.7.월 ~ 6.21.월 18시까지 (지원 미달 시 연장 예정)\n\n더욱 자세한 내용은 공연예술통합전산망 홈페이지("
-              },
-              {
-                "type": "link",
-                "url": "https://www.kopis.or.kr/por/main/main.do",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": ") 참고 부탁드립니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "8530af79-a37a-4939-b974-1c7c7e7fd654",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;2021학년도 하계 계절수업 수강료 최종 납부기간 안내\u0026gt;\n\n2021학년도 하계 계절수업 수강료 최종 납부일을 아래와 같이 알려드리니 미납에 따른 수강취소가 생기지 않도록 하계 계절수업 신청하신 분들께서는 확인하시기 바랍니다.\n\n   가. 수강료(1학점당): 이론과목 40,500원, 실험실습과목 45,500원\n   나. 최종납부 및 고지서 출력기간: 2021.6.3.(목) 09:00~16:00(가상계좌는 24:00까지)\n                                                             2021.6.4.(금) 09:00~16:00(가상계좌는 17:00까지)\n     ※ 미납 시 자동 취소되며 위 기간 이후 추가 수납 불가\n     ※ 일부 과목만 취소 시 전액 납부 후 취소기간(개강 전)에 취소\n   다. 납부방법: 전 은행창구 및 가상계좌 납부",
-    "ts": "1622619484.040500",
-    "team": "T01QA5S537V",
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "X11EN",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c2021학년도 하계 계절수업 수강료 최종 납부기간 안내\u003e\n\n2021학년도 하계 계절수업 수강료 최종 납부일을 아래와 같이 알려드리니 미납에 따른 수강취소가 생기지 않도록 하계 계절수업 신청하신 분들께서는 확인하시기 바랍니다.\n\n   가. 수강료(1학점당): 이론과목 40,500원, 실험실습과목 45,500원\n   나. 최종납부 및 고지서 출력기간: 2021.6.3.(목) 09:00~16:00(가상계좌는 24:00까지)\n                                                             2021.6.4.(금) 09:00~16:00(가상계좌는 17:00까지)\n     ※ 미납 시 자동 취소되며 위 기간 이후 추가 수납 불가\n     ※ 일부 과목만 취소 시 전액 납부 후 취소기간(개강 전)에 취소\n   다. 납부방법: 전 은행창구 및 가상계좌 납부"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "*&lt; [카카오브레인] 2021 카카오브레인 AI 영입연계형 인턴십&gt;*\n\n'2021 카카오브레인 AI 영입연계형 인턴십' 관련하여 홍보 요청이 있어 게시합니다.\n\n서류접수 마감이 금요일 저녁이라고 하니 관심있는 분들께서는 첨부된 파일을 확인하시기 바랍니다.\n\n참고 링크: <https://url.kr/mgqhs8>",
+			"ts": "1622611637.037900",
+			"files": [
+				{
+					"id": "F0243GKG8G1",
+					"created": 1622611516,
+					"timestamp": 1622611516,
+					"name": "[카카오브레인] 인턴십 소개서류(Mobile).png",
+					"title": "[카카오브레인] 인턴십 소개서류(Mobile).png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 888112,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0243GKG8G1-[카카오브레인] 인턴십 소개서류(Mobile).png",
+					"url_private_download": "attachments/F0243GKG8G1-[카카오브레인] 인턴십 소개서류(Mobile).png",
+					"original_h": 11064,
+					"original_w": 360,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 12,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__480.png",
+					"thumb_480_w": 16,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__720.png",
+					"thumb_720_w": 23,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__960.png",
+					"thumb_960_w": 31,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0243GKG8G1-4a371d61b1/____________________________________________mobile__1024.png",
+					"thumb_1024_w": 33,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0243GKG8G1/____________________________________________mobile_.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0243GKG8G1-d7c9b94c50",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F024EN0PVUG",
+					"created": 1622611521,
+					"timestamp": 1622611521,
+					"name": "[카카오브레인] 인턴십 소개서류(PC).png",
+					"title": "[카카오브레인] 인턴십 소개서류(PC).png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 2033545,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F024EN0PVUG-[카카오브레인] 인턴십 소개서류(PC).png",
+					"url_private_download": "attachments/F024EN0PVUG-[카카오브레인] 인턴십 소개서류(PC).png",
+					"original_h": 10832,
+					"original_w": 1200,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 40,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__480.png",
+					"thumb_480_w": 53,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__720.png",
+					"thumb_720_w": 80,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__960.png",
+					"thumb_960_w": 106,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F024EN0PVUG-3d534003aa/____________________________________________pc__1024.png",
+					"thumb_1024_w": 113,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F024EN0PVUG/____________________________________________pc_.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F024EN0PVUG-ecc9e3612d",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "l30FS",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< [카카오브레인] 2021 카카오브레인 AI 영입연계형 인턴십>",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n'2021 카카오브레인 AI 영입연계형 인턴십' 관련하여 홍보 요청이 있어 게시합니다.\n\n서류접수 마감이 금요일 저녁이라고 하니 관심있는 분들께서는 첨부된 파일을 확인하시기 바랍니다.\n\n참고 링크: "
+								},
+								{
+									"type": "link",
+									"url": "https://url.kr/mgqhs8",
+									"text": ""
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 2021 공연예술통합전산망(KOPIS) 빅데이터 분석 공모전 사전설명회 &gt;\n1. 주최/주관: 문화체육관광부/예술경영지원센터\n 2. 공모전 주제 : 공연 소비, 유통 등의 측면에서 시장 문제점을 해결 및 발전시킬 수 있는 범주 내 자유주제\n 3. 프로그램\n    1) 사전 설명회(06.04.금)\n    2) 중간점검 및 멘토링(08.11.수)\n    3) 발표 심사 및 시상식(09.17.금)\n 4. 행사 장소\n    1) 사전 설명회 : 온라인 접속 비대면 설명회\n    2) 중간점검 및 멘토링 : 추후 개별 안내\n    3) 발표 심사 및 시상식 : 추후 개별 안내\n 5. 사전 설명회 및 공모전 참가 대상: 전공무관 학적부상 대학(원)생 / 개인 또는 팀(최대 4인) 참여 가능\n 6. 사전설명회 및 공모전 참가 비용: 무료\n 7. 상금\n    1) 최우수 1팀 : 500만원\n　 2) 우수 2팀 : 300만원\n    3) 장려 3팀 : 200만원\n    4) 입상 12팀 : 30만원\n 8. 신청 일자\n    1) 사전 설명회 : 2021.05.24.월 ~ 6.2.수\n    2) 공모전 접수 : 6.7.월 ~ 6.21.월 18시까지 (지원 미달 시 연장 예정)\n\n더욱 자세한 내용은 공연예술통합전산망 홈페이지(<https://www.kopis.or.kr/por/main/main.do>) 참고 부탁드립니다.",
+			"ts": "1622616931.039600",
+			"files": [
+				{
+					"id": "F024EU2TNN4",
+					"created": 1622616927,
+					"timestamp": 1622616927,
+					"name": "KOPIS 빅데이터 분석 공모전 사전설명회 참가 모집 포스터.png",
+					"title": "KOPIS 빅데이터 분석 공모전 사전설명회 참가 모집 포스터.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 746400,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F024EU2TNN4-KOPIS 빅데이터 분석 공모전 사전설명회 참가 모집 포스터.png",
+					"url_private_download": "attachments/F024EU2TNN4-KOPIS 빅데이터 분석 공모전 사전설명회 참가 모집 포스터.png",
+					"original_h": 1710,
+					"original_w": 1217,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 256,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________480.png",
+					"thumb_480_w": 342,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________720.png",
+					"thumb_720_w": 512,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________960.png",
+					"thumb_960_w": 683,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F024EU2TNN4-bd1ad6f0a1/kopis_______________________________________________________________________1024.png",
+					"thumb_1024_w": 729,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F024EU2TNN4/kopis______________________________________________________________________.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F024EU2TNN4-b13f913bf3",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "bkFv",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 2021 공연예술통합전산망(KOPIS) 빅데이터 분석 공모전 사전설명회 >\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\ucd5c\\/\\uc8fc\\uad00: \\ubb38\\ud654\\uccb4\\uc721\\uad00\\uad11\\ubd80\\/\\uc608\\uc220\\uacbd\\uc601\\uc9c0\\uc6d0\\uc13c\\ud130\"}]}],\"style\":\"ordered\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": " 2. 공모전 주제 : 공연 소비, 유통 등의 측면에서 시장 문제점을 해결 및 발전시킬 수 있는 범주 내 자유주제\n 3. 프로그램\n    1) 사전 설명회(06.04.금)\n    2) 중간점검 및 멘토링(08.11.수)\n    3) 발표 심사 및 시상식(09.17.금)\n 4. 행사 장소\n    1) 사전 설명회 : 온라인 접속 비대면 설명회\n    2) 중간점검 및 멘토링 : 추후 개별 안내\n    3) 발표 심사 및 시상식 : 추후 개별 안내\n 5. 사전 설명회 및 공모전 참가 대상: 전공무관 학적부상 대학(원)생 / 개인 또는 팀(최대 4인) 참여 가능\n 6. 사전설명회 및 공모전 참가 비용: 무료\n 7. 상금\n    1) 최우수 1팀 : 500만원\n　 2) 우수 2팀 : 300만원\n    3) 장려 3팀 : 200만원\n    4) 입상 12팀 : 30만원\n 8. 신청 일자\n    1) 사전 설명회 : 2021.05.24.월 ~ 6.2.수\n    2) 공모전 접수 : 6.7.월 ~ 6.21.월 18시까지 (지원 미달 시 연장 예정)\n\n더욱 자세한 내용은 공연예술통합전산망 홈페이지("
+								},
+								{
+									"type": "link",
+									"url": "https://www.kopis.or.kr/por/main/main.do",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": ") 참고 부탁드립니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "8530af79-a37a-4939-b974-1c7c7e7fd654",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;2021학년도 하계 계절수업 수강료 최종 납부기간 안내&gt;\n\n2021학년도 하계 계절수업 수강료 최종 납부일을 아래와 같이 알려드리니 미납에 따른 수강취소가 생기지 않도록 하계 계절수업 신청하신 분들께서는 확인하시기 바랍니다.\n\n   가. 수강료(1학점당): 이론과목 40,500원, 실험실습과목 45,500원\n   나. 최종납부 및 고지서 출력기간: 2021.6.3.(목) 09:00~16:00(가상계좌는 24:00까지)\n                                                             2021.6.4.(금) 09:00~16:00(가상계좌는 17:00까지)\n     ※ 미납 시 자동 취소되며 위 기간 이후 추가 수납 불가\n     ※ 일부 과목만 취소 시 전액 납부 후 취소기간(개강 전)에 취소\n   다. 납부방법: 전 은행창구 및 가상계좌 납부",
+			"ts": "1622619484.040500",
+			"team": "T01QA5S537V",
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "X11EN",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<2021학년도 하계 계절수업 수강료 최종 납부기간 안내>\n\n2021학년도 하계 계절수업 수강료 최종 납부일을 아래와 같이 알려드리니 미납에 따른 수강취소가 생기지 않도록 하계 계절수업 신청하신 분들께서는 확인하시기 바랍니다.\n\n   가. 수강료(1학점당): 이론과목 40,500원, 실험실습과목 45,500원\n   나. 최종납부 및 고지서 출력기간: 2021.6.3.(목) 09:00~16:00(가상계좌는 24:00까지)\n                                                             2021.6.4.(금) 09:00~16:00(가상계좌는 17:00까지)\n     ※ 미납 시 자동 취소되며 위 기간 이후 추가 수납 불가\n     ※ 일부 과목만 취소 시 전액 납부 후 취소기간(개강 전)에 취소\n   다. 납부방법: 전 은행창구 및 가상계좌 납부"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

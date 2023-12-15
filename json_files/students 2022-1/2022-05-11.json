@@ -1,179 +1,181 @@
-[
-  {
-    "client_msg_id": "1D6963BD-FEA6-4C97-BAB5-E79D7BA8FBB1",
-    "type": "message",
-    "user": "U01Q386CMKQ",
-    "text": "음료수 냉장고에 넣어뒀어요~ \n맛있게 드세요 :blush::smiley_cat:",
-    "ts": "1652260584.487619",
-    "files": [
-      {
-        "id": "F03FNK1FBLY",
-        "created": 1652260512,
-        "timestamp": 1652260512,
-        "name": "Image from iOS.jpg",
-        "title": "Image from iOS",
-        "mimetype": "image/jpeg",
-        "image_exif_rotation": 0,
-        "filetype": "jpg",
-        "pretty_type": "JPEG",
-        "user": "U01Q386CMKQ",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 483511,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F03FNK1FBLY-Image from iOS.jpg",
-        "url_private_download": "attachments/F03FNK1FBLY-Image from iOS.jpg",
-        "original_h": 4032,
-        "original_w": 3024,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_64.jpg",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_80.jpg",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_160.jpg",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_360.jpg",
-        "thumb_360_gif": "",
-        "thumb_360_w": 270,
-        "thumb_360_h": 360,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_480.jpg",
-        "thumb_480_w": 360,
-        "thumb_480_h": 480,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_720.jpg",
-        "thumb_720_w": 540,
-        "thumb_720_h": 720,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_960.jpg",
-        "thumb_960_w": 720,
-        "thumb_960_h": 960,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_1024.jpg",
-        "thumb_1024_w": 768,
-        "thumb_1024_h": 1024,
-        "permalink": "https://snugsds.slack.com/files/U01Q386CMKQ/F03FNK1FBLY/image_from_ios.jpg",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F03FNK1FBLY-c58b33f7c6",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": false,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "reactions": [
-      {
-        "name": "pray",
-        "count": 24,
-        "users": [
-          "U01PVEU1A07",
-          "U01Q75KNV1T",
-          "U01QAE573J7",
-          "U02UT1XUGFL",
-          "U01QV1WAPL1",
-          "U01QNSM488Z",
-          "U01QGKD09K5",
-          "U01QNHRHY0L",
-          "U02V5LS84JV",
-          "U01R689L5KJ",
-          "U01Q1KFN4JK",
-          "U01QV1PBKUZ",
-          "U01QV28FG4R",
-          "U01QZRUNBA4",
-          "U02UT2UKVEX",
-          "U02V5LT4DLZ",
-          "U01QV1SQJ57",
-          "U02UT1YNY6N",
-          "U01QAE5A9K5",
-          "U01QA82PZFU",
-          "U01QAE5DERZ",
-          "U01QNMUAUKW",
-          "U02V5LU4ED7",
-          "U0302PLQ34Y"
-        ]
-      },
-      {
-        "name": "pray::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U01QGD17SUU"
-        ]
-      },
-      {
-        "name": "+1::skin-tone-2",
-        "count": 1,
-        "users": [
-          "U01QGD17SUU"
-        ]
-      },
-      {
-        "name": "+1",
-        "count": 6,
-        "users": [
-          "U01Q75K6FB7",
-          "U01Q1KFN4JK",
-          "U01QV28FG4R",
-          "U02UT2UKVEX",
-          "U01QA82PZFU",
-          "U01PVETV83H"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "IuvGi",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "음료수 냉장고에 넣어뒀어요~ \n맛있게 드세요 "
-              },
-              {
-                "type": "emoji",
-                "name": "blush",
-                "skin_tone": 0
-              },
-              {
-                "type": "emoji",
-                "name": "smiley_cat",
-                "skin_tone": 0
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826260082339_3eb2f7686c0824cf17e0_72.jpg",
-      "first_name": "Na",
-      "real_name": "Na Yeon Kim",
-      "display_name": "1기_김나연",
-      "team": "T01QA5S537V",
-      "name": "nayeonkim1",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "1D6963BD-FEA6-4C97-BAB5-E79D7BA8FBB1",
+			"type": "message",
+			"user": "U01Q386CMKQ",
+			"text": "음료수 냉장고에 넣어뒀어요~ \n맛있게 드세요 :blush::smiley_cat:",
+			"ts": "1652260584.487619",
+			"files": [
+				{
+					"id": "F03FNK1FBLY",
+					"created": 1652260512,
+					"timestamp": 1652260512,
+					"name": "Image from iOS.jpg",
+					"title": "Image from iOS",
+					"mimetype": "image/jpeg",
+					"image_exif_rotation": 0,
+					"filetype": "jpg",
+					"pretty_type": "JPEG",
+					"user": "U01Q386CMKQ",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 483511,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F03FNK1FBLY-Image from iOS.jpg",
+					"url_private_download": "attachments/F03FNK1FBLY-Image from iOS.jpg",
+					"original_h": 4032,
+					"original_w": 3024,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_64.jpg",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_80.jpg",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_160.jpg",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_360.jpg",
+					"thumb_360_gif": "",
+					"thumb_360_w": 270,
+					"thumb_360_h": 360,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_480.jpg",
+					"thumb_480_w": 360,
+					"thumb_480_h": 480,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_720.jpg",
+					"thumb_720_w": 540,
+					"thumb_720_h": 720,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_960.jpg",
+					"thumb_960_w": 720,
+					"thumb_960_h": 960,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03FNK1FBLY-1be2603ca0/image_from_ios_1024.jpg",
+					"thumb_1024_w": 768,
+					"thumb_1024_h": 1024,
+					"permalink": "https://snugsds.slack.com/files/U01Q386CMKQ/F03FNK1FBLY/image_from_ios.jpg",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F03FNK1FBLY-c58b33f7c6",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": false,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"reactions": [
+				{
+					"name": "pray",
+					"count": 24,
+					"users": [
+						"U01PVEU1A07",
+						"U01Q75KNV1T",
+						"U01QAE573J7",
+						"U02UT1XUGFL",
+						"U01QV1WAPL1",
+						"U01QNSM488Z",
+						"U01QGKD09K5",
+						"U01QNHRHY0L",
+						"U02V5LS84JV",
+						"U01R689L5KJ",
+						"U01Q1KFN4JK",
+						"U01QV1PBKUZ",
+						"U01QV28FG4R",
+						"U01QZRUNBA4",
+						"U02UT2UKVEX",
+						"U02V5LT4DLZ",
+						"U01QV1SQJ57",
+						"U02UT1YNY6N",
+						"U01QAE5A9K5",
+						"U01QA82PZFU",
+						"U01QAE5DERZ",
+						"U01QNMUAUKW",
+						"U02V5LU4ED7",
+						"U0302PLQ34Y"
+					]
+				},
+				{
+					"name": "pray::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U01QGD17SUU"
+					]
+				},
+				{
+					"name": "+1::skin-tone-2",
+					"count": 1,
+					"users": [
+						"U01QGD17SUU"
+					]
+				},
+				{
+					"name": "+1",
+					"count": 6,
+					"users": [
+						"U01Q75K6FB7",
+						"U01Q1KFN4JK",
+						"U01QV28FG4R",
+						"U02UT2UKVEX",
+						"U01QA82PZFU",
+						"U01PVETV83H"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "IuvGi",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "음료수 냉장고에 넣어뒀어요~ \n맛있게 드세요 "
+								},
+								{
+									"type": "emoji",
+									"name": "blush",
+									"skin_tone": 0
+								},
+								{
+									"type": "emoji",
+									"name": "smiley_cat",
+									"skin_tone": 0
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://avatars.slack-edge.com/2021-03-05/1826260082339_3eb2f7686c0824cf17e0_72.jpg",
+				"first_name": "Na",
+				"real_name": "Na Yeon Kim",
+				"display_name": "1기_김나연",
+				"team": "T01QA5S537V",
+				"name": "nayeonkim1",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

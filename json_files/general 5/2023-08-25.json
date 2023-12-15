@@ -1,472 +1,474 @@
-[
-  {
-    "client_msg_id": "cda8fda4-6549-44c7-962c-9f9ffb56857d",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;지정도서·강의도서 통합 운영 안내\u0026gt;\n\n중앙도서관에서 보다 효과적인 강의 지원 및 이용자 불편 해소를 위해 아래(그림)와 같이 기존 지정도서 및 강의도서를 강의도서 컬렉션으로 통합 운영한다 하오니 참고하시기 바랍니다.(2023.9.1.자 시행)",
-    "ts": "1692923030.775159",
-    "files": [
-      {
-        "id": "F05Q5HTU1K2",
-        "created": 1692922994,
-        "timestamp": 1692922994,
-        "name": "image.png",
-        "title": "image.png",
-        "mimetype": "image/png",
-        "image_exif_rotation": 0,
-        "filetype": "png",
-        "pretty_type": "PNG",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 66301,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05Q5HTU1K2-image.png",
-        "url_private_download": "attachments/F05Q5HTU1K2-image.png",
-        "original_h": 404,
-        "original_w": 1458,
-        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_64.png",
-        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_80.png",
-        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_160.png",
-        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_360.png",
-        "thumb_360_gif": "",
-        "thumb_360_w": 360,
-        "thumb_360_h": 100,
-        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_480.png",
-        "thumb_480_w": 480,
-        "thumb_480_h": 133,
-        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_720.png",
-        "thumb_720_w": 720,
-        "thumb_720_h": 200,
-        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_960.png",
-        "thumb_960_w": 960,
-        "thumb_960_h": 266,
-        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_1024.png",
-        "thumb_1024_w": 1024,
-        "thumb_1024_h": 284,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05Q5HTU1K2/image.png",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05Q5HTU1K2-6aae2baa2f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "zOgW=",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c지정도서·강의도서 통합 운영 안내\u003e\n\n중앙도서관에서 보다 효과적인 강의 지원 및 이용자 불편 해소를 위해 아래(그림)와 같이 기존 지정도서 및 강의도서를 강의도서 컬렉션으로 통합 운영한다 하오니 참고하시기 바랍니다.(2023.9.1.자 시행)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "3fba8a54-984b-483f-8f07-87e11a12601b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt;*서울대학교 차량 5부제(자율참여) 시행 안내(2023.9.1.~)*\u0026gt;\n\n산업통상자원부에서는 코로나19의 위기 경보 수준이 하향조정 됨에 따라, 그동안 일시 중지되었던 공공기관 승용차 요일제를 재시행하였습니다. 이에, *서울대학교에서도 '공공기관 에너지이용 합리화 추진에 관한 규정'에 따라 다음과 같이 차량 5부제를 실시*하오니 확인하여 주시기 바랍니다.\n\nㅇ 기간: *2023. 9. 1.부터 상시 시행*\n\nㅇ 대상 차량: *공용차량 및 구성원 정기권 등록차량 전체*\n _※ 제외 차량: 민원인 등의 민간 차량, 경차, 환경친화적 차량, 임산부 차량, 유아동승차량, 국가유공자, 장애인, 기타(긴급차량, 셔틀버스 등)_\n\nㅇ 방식: *끝번호 요일제로 자율참여* / 차량번호판 끝자리 번호로 주 1회 운휴요일 지정 / 토요일, 일요일 및 공휴일 적용 제외\n - 월: 1, 6\n - 화: 2, 7\n - 수: 3, 8\n - 목: 4, 9\n - 금: 5, 0",
-    "ts": "1692938474.579019",
-    "files": [
-      {
-        "id": "F05P22HE1JT",
-        "created": 1692938462,
-        "timestamp": 1692938462,
-        "name": "『공공기관 에너지이용 합리화 추진에 관한 규정』에 따른 차량 5부제 시행 안내.pdf",
-        "title": "『공공기관 에너지이용 합리화 추진에 관한 규정』에 따른 차량 5부제 시행 안내.pdf",
-        "mimetype": "application/pdf",
-        "image_exif_rotation": 0,
-        "filetype": "pdf",
-        "pretty_type": "PDF",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 190252,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05P22HE1JT-『공공기관 에너지이용 합리화 추진에 관한 규정』에 따른 차량 5부제 시행 안내.pdf",
-        "url_private_download": "attachments/F05P22HE1JT-『공공기관 에너지이용 합리화 추진에 관한 규정』에 따른 차량 5부제 시행 안내.pdf",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05P22HE1JT/______________________________________________________________________________________5____________________.pdf",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05P22HE1JT-d3b7f73f66",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05Q69N43QQ",
-        "created": 1692938465,
-        "timestamp": 1692938465,
-        "name": "붙임1. 「공공기관 승용차 요일제」운영(안).hwp",
-        "title": "붙임1. 「공공기관 승용차 요일제」운영(안).hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 61440,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05Q69N43QQ-붙임1. 「공공기관 승용차 요일제」운영(안).hwp",
-        "url_private_download": "attachments/F05Q69N43QQ-붙임1. 「공공기관 승용차 요일제」운영(안).hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05Q69N43QQ/______1.__________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05Q69N43QQ-f1da358f9e",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05P22HLLLX",
-        "created": 1692938467,
-        "timestamp": 1692938467,
-        "name": "붙임2. 코로나19 방역 안정화에 따른 「공공기관 승용차 요일제」 재시행 알림.hwp",
-        "title": "붙임2. 코로나19 방역 안정화에 따른 「공공기관 승용차 요일제」 재시행 알림.hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 214016,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05P22HLLLX-붙임2. 코로나19 방역 안정화에 따른 「공공기관 승용차 요일제」 재시행 알림.hwp",
-        "url_private_download": "attachments/F05P22HLLLX-붙임2. 코로나19 방역 안정화에 따른 「공공기관 승용차 요일제」 재시행 알림.hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05P22HLLLX/______2.__________19___________________________________________________________________________________.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05P22HLLLX-16bbb8af80",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      },
-      {
-        "id": "F05PGFHL22X",
-        "created": 1692938470,
-        "timestamp": 1692938470,
-        "name": "붙임3. 「공공기관 에너지이용 합리화 추진에 관한 규정」제17조  [별표7].hwp",
-        "title": "붙임3. 「공공기관 에너지이용 합리화 추진에 관한 규정」제17조  [별표7].hwp",
-        "mimetype": "application/octet-stream",
-        "image_exif_rotation": 0,
-        "filetype": "binary",
-        "pretty_type": "이진",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 744963,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F05PGFHL22X-붙임3. 「공공기관 에너지이용 합리화 추진에 관한 규정」제17조  [별표7].hwp",
-        "url_private_download": "attachments/F05PGFHL22X-붙임3. 「공공기관 에너지이용 합리화 추진에 관한 규정」제17조  [별표7].hwp",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05PGFHL22X/______3.________________________________________________________________________17____________7_.hwp",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F05PGFHL22X-a7a3bcc9cb",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "FaJ4",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c"
-              },
-              {
-                "type": "text",
-                "text": "서울대학교 차량 5부제(자율참여) 시행 안내(2023.9.1.~)",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\u003e\n\n산업통상자원부에서는 코로나19의 위기 경보 수준이 하향조정 됨에 따라, 그동안 일시 중지되었던 공공기관 승용차 요일제를 재시행하였습니다. 이에, "
-              },
-              {
-                "type": "text",
-                "text": "서울대학교에서도 '공공기관 에너지이용 합리화 추진에 관한 규정'에 따라 다음과 같이 차량 5부제를 실시",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "하오니 확인하여 주시기 바랍니다.\n\nㅇ 기간:"
-              },
-              {
-                "type": "text",
-                "text": " 2023. 9. 1.부터 상시 시행",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nㅇ 대상 차량: "
-              },
-              {
-                "type": "text",
-                "text": "공용차량 및 구성원 정기권 등록차량 전체",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": " ※ 제외 차량: 민원인 등의 민간 차량, 경차, 환경친화적 차량, 임산부 차량, 유아동승차량, 국가유공자, 장애인, 기타(긴급차량, 셔틀버스 등)",
-                "style": {
-                  "italic": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\nㅇ 방식: "
-              },
-              {
-                "type": "text",
-                "text": "끝번호 요일제로 자율참여",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " / 차량번호판 끝자리 번호로 주 1회 운휴요일 지정 / 토요일, 일요일 및 공휴일 적용 제외\n - 월: 1, 6\n - 화: 2, 7\n - 수: 3, 8\n - 목: 4, 9\n - 금: 5, 0"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "cda8fda4-6549-44c7-962c-9f9ffb56857d",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;지정도서·강의도서 통합 운영 안내&gt;\n\n중앙도서관에서 보다 효과적인 강의 지원 및 이용자 불편 해소를 위해 아래(그림)와 같이 기존 지정도서 및 강의도서를 강의도서 컬렉션으로 통합 운영한다 하오니 참고하시기 바랍니다.(2023.9.1.자 시행)",
+			"ts": "1692923030.775159",
+			"files": [
+				{
+					"id": "F05Q5HTU1K2",
+					"created": 1692922994,
+					"timestamp": 1692922994,
+					"name": "image.png",
+					"title": "image.png",
+					"mimetype": "image/png",
+					"image_exif_rotation": 0,
+					"filetype": "png",
+					"pretty_type": "PNG",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 66301,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05Q5HTU1K2-image.png",
+					"url_private_download": "attachments/F05Q5HTU1K2-image.png",
+					"original_h": 404,
+					"original_w": 1458,
+					"thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_64.png",
+					"thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_80.png",
+					"thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_160.png",
+					"thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_360.png",
+					"thumb_360_gif": "",
+					"thumb_360_w": 360,
+					"thumb_360_h": 100,
+					"thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_480.png",
+					"thumb_480_w": 480,
+					"thumb_480_h": 133,
+					"thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_720.png",
+					"thumb_720_w": 720,
+					"thumb_720_h": 200,
+					"thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_960.png",
+					"thumb_960_w": 960,
+					"thumb_960_h": 266,
+					"thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05Q5HTU1K2-bc1596e3f6/image_1024.png",
+					"thumb_1024_w": 1024,
+					"thumb_1024_h": 284,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05Q5HTU1K2/image.png",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05Q5HTU1K2-6aae2baa2f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "zOgW=",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<지정도서·강의도서 통합 운영 안내>\n\n중앙도서관에서 보다 효과적인 강의 지원 및 이용자 불편 해소를 위해 아래(그림)와 같이 기존 지정도서 및 강의도서를 강의도서 컬렉션으로 통합 운영한다 하오니 참고하시기 바랍니다.(2023.9.1.자 시행)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "3fba8a54-984b-483f-8f07-87e11a12601b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;*서울대학교 차량 5부제(자율참여) 시행 안내(2023.9.1.~)*&gt;\n\n산업통상자원부에서는 코로나19의 위기 경보 수준이 하향조정 됨에 따라, 그동안 일시 중지되었던 공공기관 승용차 요일제를 재시행하였습니다. 이에, *서울대학교에서도 '공공기관 에너지이용 합리화 추진에 관한 규정'에 따라 다음과 같이 차량 5부제를 실시*하오니 확인하여 주시기 바랍니다.\n\nㅇ 기간: *2023. 9. 1.부터 상시 시행*\n\nㅇ 대상 차량: *공용차량 및 구성원 정기권 등록차량 전체*\n _※ 제외 차량: 민원인 등의 민간 차량, 경차, 환경친화적 차량, 임산부 차량, 유아동승차량, 국가유공자, 장애인, 기타(긴급차량, 셔틀버스 등)_\n\nㅇ 방식: *끝번호 요일제로 자율참여* / 차량번호판 끝자리 번호로 주 1회 운휴요일 지정 / 토요일, 일요일 및 공휴일 적용 제외\n - 월: 1, 6\n - 화: 2, 7\n - 수: 3, 8\n - 목: 4, 9\n - 금: 5, 0",
+			"ts": "1692938474.579019",
+			"files": [
+				{
+					"id": "F05P22HE1JT",
+					"created": 1692938462,
+					"timestamp": 1692938462,
+					"name": "『공공기관 에너지이용 합리화 추진에 관한 규정』에 따른 차량 5부제 시행 안내.pdf",
+					"title": "『공공기관 에너지이용 합리화 추진에 관한 규정』에 따른 차량 5부제 시행 안내.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 190252,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05P22HE1JT-『공공기관 에너지이용 합리화 추진에 관한 규정』에 따른 차량 5부제 시행 안내.pdf",
+					"url_private_download": "attachments/F05P22HE1JT-『공공기관 에너지이용 합리화 추진에 관한 규정』에 따른 차량 5부제 시행 안내.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05P22HE1JT/______________________________________________________________________________________5____________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05P22HE1JT-d3b7f73f66",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05Q69N43QQ",
+					"created": 1692938465,
+					"timestamp": 1692938465,
+					"name": "붙임1. 「공공기관 승용차 요일제」운영(안).hwp",
+					"title": "붙임1. 「공공기관 승용차 요일제」운영(안).hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 61440,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05Q69N43QQ-붙임1. 「공공기관 승용차 요일제」운영(안).hwp",
+					"url_private_download": "attachments/F05Q69N43QQ-붙임1. 「공공기관 승용차 요일제」운영(안).hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05Q69N43QQ/______1.__________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05Q69N43QQ-f1da358f9e",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05P22HLLLX",
+					"created": 1692938467,
+					"timestamp": 1692938467,
+					"name": "붙임2. 코로나19 방역 안정화에 따른 「공공기관 승용차 요일제」 재시행 알림.hwp",
+					"title": "붙임2. 코로나19 방역 안정화에 따른 「공공기관 승용차 요일제」 재시행 알림.hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 214016,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05P22HLLLX-붙임2. 코로나19 방역 안정화에 따른 「공공기관 승용차 요일제」 재시행 알림.hwp",
+					"url_private_download": "attachments/F05P22HLLLX-붙임2. 코로나19 방역 안정화에 따른 「공공기관 승용차 요일제」 재시행 알림.hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05P22HLLLX/______2.__________19___________________________________________________________________________________.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05P22HLLLX-16bbb8af80",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				},
+				{
+					"id": "F05PGFHL22X",
+					"created": 1692938470,
+					"timestamp": 1692938470,
+					"name": "붙임3. 「공공기관 에너지이용 합리화 추진에 관한 규정」제17조  [별표7].hwp",
+					"title": "붙임3. 「공공기관 에너지이용 합리화 추진에 관한 규정」제17조  [별표7].hwp",
+					"mimetype": "application/octet-stream",
+					"image_exif_rotation": 0,
+					"filetype": "binary",
+					"pretty_type": "이진",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 744963,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F05PGFHL22X-붙임3. 「공공기관 에너지이용 합리화 추진에 관한 규정」제17조  [별표7].hwp",
+					"url_private_download": "attachments/F05PGFHL22X-붙임3. 「공공기관 에너지이용 합리화 추진에 관한 규정」제17조  [별표7].hwp",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05PGFHL22X/______3.________________________________________________________________________17____________7_.hwp",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F05PGFHL22X-a7a3bcc9cb",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "FaJ4",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<"
+								},
+								{
+									"type": "text",
+									"text": "서울대학교 차량 5부제(자율참여) 시행 안내(2023.9.1.~)",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": ">\n\n산업통상자원부에서는 코로나19의 위기 경보 수준이 하향조정 됨에 따라, 그동안 일시 중지되었던 공공기관 승용차 요일제를 재시행하였습니다. 이에, "
+								},
+								{
+									"type": "text",
+									"text": "서울대학교에서도 '공공기관 에너지이용 합리화 추진에 관한 규정'에 따라 다음과 같이 차량 5부제를 실시",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하오니 확인하여 주시기 바랍니다.\n\nㅇ 기간:"
+								},
+								{
+									"type": "text",
+									"text": " 2023. 9. 1.부터 상시 시행",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nㅇ 대상 차량: "
+								},
+								{
+									"type": "text",
+									"text": "공용차량 및 구성원 정기권 등록차량 전체",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": " ※ 제외 차량: 민원인 등의 민간 차량, 경차, 환경친화적 차량, 임산부 차량, 유아동승차량, 국가유공자, 장애인, 기타(긴급차량, 셔틀버스 등)",
+									"style": {
+										"italic": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\nㅇ 방식: "
+								},
+								{
+									"type": "text",
+									"text": "끝번호 요일제로 자율참여",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " / 차량번호판 끝자리 번호로 주 1회 운휴요일 지정 / 토요일, 일요일 및 공휴일 적용 제외\n - 월: 1, 6\n - 화: 2, 7\n - 수: 3, 8\n - 목: 4, 9\n - 금: 5, 0"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

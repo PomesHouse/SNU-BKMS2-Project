@@ -1,0 +1,190 @@
+{
+	"array": [
+		{
+			"client_msg_id": "91a234be-843d-4eb5-bd7d-14a54562828f",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt;부천시 임기제공무원(데이터분석 및 활용 분야) 채용 안내 &gt;\n\n부천시에서 정책에 활용가능한 데이터 분석 및 지속가능한 데이터 관리 체계구축 등 데이터기반 행정구현을 위해 *데이터분야 전문 인력을 채용*하고자 아래와 같이 공고 중에 있음을 알려와 안내드립니다.\n\n  가. 채용분야 : *데이터분석 및 활용*\n  나. 직급 및 인원 : *시간선택제 임기제 나급(주35시간), 1명*\n  다. 근무기간 : 2년(연장가능)\n  라. 담당업무\n    *ㅇ 빅데이터 처리/분석 플랫폼 구축 운영*\n    *ㅇ 데이터 관리체계 확립*\n    *ㅇ 데이터 분석과제 발굴 및 활용 활성화 등*\n  마. 시험일정\n   ㅇ 시험공고: 2023.4.25.~2023.5.4.\n   ㅇ 응시원서 접수 기간: 2023.5.2.~2023.5.4.\n   ㅇ 서류전형: 2023.5.9. (합격자 발표 2023.5.10.)\n   ㅇ 인성검사(온라인): 2023.5.11. 전후\n   ㅇ 면접검사: 2023.5.15. 전후 (합격자 발표 2023.5.17.전후)\n\n※ 응시자격기준 및 원서접수 방법 등에 대한 자세한 사항은 *붙임 파일 및 부천시 홈페이지(부천소식) 채용공고란의 「2023년 제2회 부천시 임기제공무원 채용시험 계획 재공고」*참조",
+			"ts": "1682570351.255079",
+			"files": [
+				{
+					"id": "F0555PNTU5Q",
+					"created": 1682570195,
+					"timestamp": 1682570195,
+					"name": "(230425) 2023년 제5회 부천시 임기제공무원 임용시험 계획 공고.pdf",
+					"title": "(230425) 2023년 제5회 부천시 임기제공무원 임용시험 계획 공고.pdf",
+					"mimetype": "application/pdf",
+					"image_exif_rotation": 0,
+					"filetype": "pdf",
+					"pretty_type": "PDF",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 376829,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F0555PNTU5Q-(230425) 2023년 제5회 부천시 임기제공무원 임용시험 계획 공고.pdf",
+					"url_private_download": "attachments/F0555PNTU5Q-(230425) 2023년 제5회 부천시 임기제공무원 임용시험 계획 공고.pdf",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0555PNTU5Q/_230425__2023_______5___________________________________________________________.pdf",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F0555PNTU5Q-3bd75b2ab4",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "q6P",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "<부천시 임기제공무원(데이터분석 및 활용 분야) 채용 안내 >\n\n부천시에서 정책에 활용가능한 데이터 분석 및 지속가능한 데이터 관리 체계구축 등 데이터기반 행정구현을 위해 "
+								},
+								{
+									"type": "text",
+									"text": "데이터분야 전문 인력을 채용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "하고자 아래와 같이 공고 중에 있음을 알려와 안내드립니다.\n\n  가. 채용분야 : "
+								},
+								{
+									"type": "text",
+									"text": "데이터분석 및 활용",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  나. 직급 및 인원 : "
+								},
+								{
+									"type": "text",
+									"text": "시간선택제 임기제 나급(주35시간), 1명",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  다. 근무기간 : 2년(연장가능)\n  라. 담당업무\n"
+								},
+								{
+									"type": "text",
+									"text": "    ㅇ 빅데이터 처리/분석 플랫폼 구축 운영",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "    ㅇ 데이터 관리체계 확립",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "    ㅇ 데이터 분석과제 발굴 및 활용 활성화 등",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n  마. 시험일정\n   ㅇ 시험공고: 2023.4.25.~2023.5.4.\n   ㅇ 응시원서 접수 기간: 2023.5.2.~2023.5.4.\n   ㅇ 서류전형: 2023.5.9. (합격자 발표 2023.5.10.)\n   ㅇ 인성검사(온라인): 2023.5.11. 전후\n   ㅇ 면접검사: 2023.5.15. 전후 (합격자 발표 2023.5.17.전후)\n\n※ 응시자격기준 및 원서접수 방법 등에 대한 자세한 사항은 "
+								},
+								{
+									"type": "text",
+									"text": "붙임 파일 및 부천시 홈페이지(부천소식) 채용공고란의 「2023년 제2회 부천시 임기제공무원 채용시험 계획 재공고」",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "참조"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

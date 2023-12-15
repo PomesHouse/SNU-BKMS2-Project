@@ -1,267 +1,269 @@
-[
-  {
-    "client_msg_id": "b136cce7-3ee3-4516-b7b9-01caf9ae7c3b",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "2022-2023 중국 정부초청 장학생 선발 모집을 다음과 같이 안내하오니 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발과정 : 대학원(석사, 박사)\n  나. 선발인원 : 27명   * 예비후보 3명 별도\n  다. 장학금 지원내역 : 학비, 생활비 등   * 항공료는 개인 부담\n  라. 지원방법 : 온라인 지원 완료 후, 국립국제교육원에 제출서류 이메일 송부\n    1) 온라인 지원 : \u003chttp://www.campuschina.org\u003e\n    2) 이메일 : \u003cmailto:niied1382@korea.kr|niied1382@korea.kr\u003e\n    3) 지원마감일시 : 2022.2.4.(금) 18:00 까지\n    ※ 선발요강 등 세부사항은 [붙임] 문서 참조. 22년도 선발공고에 다수의 변경사항이 있으므로, 지원 전 반드시 선발요강을 숙지한 후 지원 할 것.",
-    "ts": "1639788453.134400",
-    "files": [
-      {
-        "id": "F02QU1T03EK",
-        "created": 1639788447,
-        "timestamp": 1639788447,
-        "name": "2022-2023 중국 정부초청 장학생 선발.zip",
-        "title": "2022-2023 중국 정부초청 장학생 선발.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 483568,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02QU1T03EK-2022-2023 중국 정부초청 장학생 선발.zip",
-        "url_private_download": "attachments/F02QU1T03EK-2022-2023 중국 정부초청 장학생 선발.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02QU1T03EK/2022-2023_____________________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02QU1T03EK-64483c5b9f",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "z/maS",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "2022-2023 중국 정부초청 장학생 선발 모집을 다음과 같이 안내하오니 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발과정 : 대학원(석사, 박사)\n  나. 선발인원 : 27명   * 예비후보 3명 별도\n  다. 장학금 지원내역 : 학비, 생활비 등   * 항공료는 개인 부담\n  라. 지원방법 : 온라인 지원 완료 후, 국립국제교육원에 제출서류 이메일 송부\n    1) 온라인 지원 : "
-              },
-              {
-                "type": "link",
-                "url": "http://www.campuschina.org",
-                "text": ""
-              },
-              {
-                "type": "text",
-                "text": "\n    2) 이메일 : "
-              },
-              {
-                "type": "link",
-                "url": "mailto:niied1382@korea.kr",
-                "text": "niied1382@korea.kr"
-              },
-              {
-                "type": "text",
-                "text": "\n    3) 지원마감일시 : 2022.2.4.(금) 18:00 까지\n    ※ 선발요강 등 세부사항은 [붙임] 문서 참조. 22년도 선발공고에 다수의 변경사항이 있으므로, 지원 전 반드시 선발요강을 숙지한 후 지원 할 것."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  },
-  {
-    "client_msg_id": "3d5029fb-6442-4108-8e91-5bf71ace9849",
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "국제협력본부에서는 '2021학년도 동계 *Digital SNU in the World Program'* 을 아래와 같이 안내하오니 관심 있는 학생분들의 많은 참여 바랍니다 :blob-grin:\n\u0026lt;주요내용\u0026gt;\n가. 개설프로그램: 공문 참고\n나. 참가대상: 본교 재적(재학생 및 휴학생 포함) 중인 학부생 및 대학원생\n다. 신청 서류 제출 기한: 2021.12.21.(화) 17:00\n라. 기타: 학점인정이 되지 않는 프로그램으로 별도의 참가비는 없음, 자세한 사항은 첨부파일 참조\n마. 문의: 국제협력본부 유수임 (\u003cmailto:snuinworld@snu.ac.kr|snuinworld@snu.ac.kr\u003e/02-880-2585)",
-    "ts": "1639789859.136300",
-    "files": [
-      {
-        "id": "F02R5NVQL7P",
-        "created": 1639789857,
-        "timestamp": 1639789857,
-        "name": "2021 동계 Digital SWP 모집.zip",
-        "title": "2021 동계 Digital SWP 모집.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 222648,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F02R5NVQL7P-2021 동계 Digital SWP 모집.zip",
-        "url_private_download": "attachments/F02R5NVQL7P-2021 동계 Digital SWP 모집.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02R5NVQL7P/2021________digital_swp_______.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F02R5NVQL7P-2f524298bf",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "9+qU",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "국제협력본부에서는 '2021학년도 동계 "
-              },
-              {
-                "type": "text",
-                "text": "Digital SNU in the World Program' ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 아래와 같이 안내하오니 관심 있는 학생분들의 많은 참여 바랍니다 "
-              },
-              {
-                "type": "emoji",
-                "name": "blob-grin",
-                "skin_tone": 0
-              },
-              {
-                "type": "text",
-                "text": "\n\u003c주요내용\u003e\n가. 개설프로그램: 공문 참고\n나. 참가대상: 본교 재적(재학생 및 휴학생 포함) 중인 학부생 및 대학원생\n다. 신청 서류 제출 기한: 2021.12.21.(화) 17:00\n라. 기타: 학점인정이 되지 않는 프로그램으로 별도의 참가비는 없음, 자세한 사항은 첨부파일 참조\n마. 문의: 국제협력본부 유수임 ("
-              },
-              {
-                "type": "link",
-                "url": "mailto:snuinworld@snu.ac.kr",
-                "text": "snuinworld@snu.ac.kr"
-              },
-              {
-                "type": "text",
-                "text": "/02-880-2585)"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "b136cce7-3ee3-4516-b7b9-01caf9ae7c3b",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "2022-2023 중국 정부초청 장학생 선발 모집을 다음과 같이 안내하오니 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발과정 : 대학원(석사, 박사)\n  나. 선발인원 : 27명   * 예비후보 3명 별도\n  다. 장학금 지원내역 : 학비, 생활비 등   * 항공료는 개인 부담\n  라. 지원방법 : 온라인 지원 완료 후, 국립국제교육원에 제출서류 이메일 송부\n    1) 온라인 지원 : <http://www.campuschina.org>\n    2) 이메일 : <mailto:niied1382@korea.kr|niied1382@korea.kr>\n    3) 지원마감일시 : 2022.2.4.(금) 18:00 까지\n    ※ 선발요강 등 세부사항은 [붙임] 문서 참조. 22년도 선발공고에 다수의 변경사항이 있으므로, 지원 전 반드시 선발요강을 숙지한 후 지원 할 것.",
+			"ts": "1639788453.134400",
+			"files": [
+				{
+					"id": "F02QU1T03EK",
+					"created": 1639788447,
+					"timestamp": 1639788447,
+					"name": "2022-2023 중국 정부초청 장학생 선발.zip",
+					"title": "2022-2023 중국 정부초청 장학생 선발.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 483568,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02QU1T03EK-2022-2023 중국 정부초청 장학생 선발.zip",
+					"url_private_download": "attachments/F02QU1T03EK-2022-2023 중국 정부초청 장학생 선발.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02QU1T03EK/2022-2023_____________________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02QU1T03EK-64483c5b9f",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "z/maS",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "2022-2023 중국 정부초청 장학생 선발 모집을 다음과 같이 안내하오니 관심있는 학생분들의 많은 참여 바랍니다.\n  가. 선발과정 : 대학원(석사, 박사)\n  나. 선발인원 : 27명   * 예비후보 3명 별도\n  다. 장학금 지원내역 : 학비, 생활비 등   * 항공료는 개인 부담\n  라. 지원방법 : 온라인 지원 완료 후, 국립국제교육원에 제출서류 이메일 송부\n    1) 온라인 지원 : "
+								},
+								{
+									"type": "link",
+									"url": "http://www.campuschina.org",
+									"text": ""
+								},
+								{
+									"type": "text",
+									"text": "\n    2) 이메일 : "
+								},
+								{
+									"type": "link",
+									"url": "mailto:niied1382@korea.kr",
+									"text": "niied1382@korea.kr"
+								},
+								{
+									"type": "text",
+									"text": "\n    3) 지원마감일시 : 2022.2.4.(금) 18:00 까지\n    ※ 선발요강 등 세부사항은 [붙임] 문서 참조. 22년도 선발공고에 다수의 변경사항이 있으므로, 지원 전 반드시 선발요강을 숙지한 후 지원 할 것."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		},
+		{
+			"client_msg_id": "3d5029fb-6442-4108-8e91-5bf71ace9849",
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "국제협력본부에서는 '2021학년도 동계 *Digital SNU in the World Program'* 을 아래와 같이 안내하오니 관심 있는 학생분들의 많은 참여 바랍니다 :blob-grin:\n&lt;주요내용&gt;\n가. 개설프로그램: 공문 참고\n나. 참가대상: 본교 재적(재학생 및 휴학생 포함) 중인 학부생 및 대학원생\n다. 신청 서류 제출 기한: 2021.12.21.(화) 17:00\n라. 기타: 학점인정이 되지 않는 프로그램으로 별도의 참가비는 없음, 자세한 사항은 첨부파일 참조\n마. 문의: 국제협력본부 유수임 (<mailto:snuinworld@snu.ac.kr|snuinworld@snu.ac.kr>/02-880-2585)",
+			"ts": "1639789859.136300",
+			"files": [
+				{
+					"id": "F02R5NVQL7P",
+					"created": 1639789857,
+					"timestamp": 1639789857,
+					"name": "2021 동계 Digital SWP 모집.zip",
+					"title": "2021 동계 Digital SWP 모집.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 222648,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F02R5NVQL7P-2021 동계 Digital SWP 모집.zip",
+					"url_private_download": "attachments/F02R5NVQL7P-2021 동계 Digital SWP 모집.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02R5NVQL7P/2021________digital_swp_______.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F02R5NVQL7P-2f524298bf",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "9+qU",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "국제협력본부에서는 '2021학년도 동계 "
+								},
+								{
+									"type": "text",
+									"text": "Digital SNU in the World Program' ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 아래와 같이 안내하오니 관심 있는 학생분들의 많은 참여 바랍니다 "
+								},
+								{
+									"type": "emoji",
+									"name": "blob-grin",
+									"skin_tone": 0
+								},
+								{
+									"type": "text",
+									"text": "\n<주요내용>\n가. 개설프로그램: 공문 참고\n나. 참가대상: 본교 재적(재학생 및 휴학생 포함) 중인 학부생 및 대학원생\n다. 신청 서류 제출 기한: 2021.12.21.(화) 17:00\n라. 기타: 학점인정이 되지 않는 프로그램으로 별도의 참가비는 없음, 자세한 사항은 첨부파일 참조\n마. 문의: 국제협력본부 유수임 ("
+								},
+								{
+									"type": "link",
+									"url": "mailto:snuinworld@snu.ac.kr",
+									"text": "snuinworld@snu.ac.kr"
+								},
+								{
+									"type": "text",
+									"text": "/02-880-2585)"
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

@@ -1,127 +1,129 @@
-[
-  {
-    "type": "message",
-    "user": "U01QNJ7PWRX",
-    "text": "\u0026lt; 서울대 코로나 동선 안심이 사용 안내 \u0026gt;\n\n자연과학대학 수리과학부 천정희 교수 연구팀과 경기도청이 협력하여 개발한 「코로나 동선 안심이」는 4세대 동형암호 기술을 이용해 개인정보의 노출 없이, 수도권 지역(서울, 인천, 경기)의 확진자 동선과 본인의 동선 겹침 여부를 확인할 수 있는 앱으로 아래와 같이 사용설명서를 첨부하오니 코로나19 예방 및 확산 방지에 적극 협조하여 주시기 바랍니다.\n\n  가. 다운로드 방법: Play 스토어(ANDROID)/ App Store(IOS) → '코로나 동선 안심이' 검색 → 설치\n  나. 사용 방법\n• 설정 → 서울대 코로나 동선 안심이 → 마이스누 계정을 사용하여 로그인\n       (한번 로그인하면 추후 이용시 별도 로그인 없이「서울대 코로나 동선 안심이」로 자동 연계됨)\n• 홈 → 접촉위험 확인하기: 확진자 동선 정보와의 동선 겹침 여부 확인가능",
-    "ts": "1621840918.013700",
-    "files": [
-      {
-        "id": "F022CLTT9HD",
-        "created": 1621840885,
-        "timestamp": 1621840885,
-        "name": "「서울대 코로나 동선 안심이」 설명서.zip",
-        "title": "「서울대 코로나 동선 안심이」 설명서.zip",
-        "mimetype": "application/zip",
-        "image_exif_rotation": 0,
-        "filetype": "zip",
-        "pretty_type": "Zip",
-        "user": "U01QNJ7PWRX",
-        "mode": "hosted",
-        "editable": false,
-        "is_external": false,
-        "external_type": "",
-        "size": 482672,
-        "url": "",
-        "url_download": "",
-        "url_private": "attachments/F022CLTT9HD-「서울대 코로나 동선 안심이」 설명서.zip",
-        "url_private_download": "attachments/F022CLTT9HD-「서울대 코로나 동선 안심이」 설명서.zip",
-        "original_h": 0,
-        "original_w": 0,
-        "thumb_64": "",
-        "thumb_80": "",
-        "thumb_160": "",
-        "thumb_360": "",
-        "thumb_360_gif": "",
-        "thumb_360_w": 0,
-        "thumb_360_h": 0,
-        "thumb_480": "",
-        "thumb_480_w": 0,
-        "thumb_480_h": 0,
-        "thumb_720": "",
-        "thumb_720_w": 0,
-        "thumb_720_h": 0,
-        "thumb_960": "",
-        "thumb_960_w": 0,
-        "thumb_960_h": 0,
-        "thumb_1024": "",
-        "thumb_1024_w": 0,
-        "thumb_1024_h": 0,
-        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F022CLTT9HD/____________________________________________________.zip",
-        "permalink_public": "https://slack-files.com/T01QA5S537V-F022CLTT9HD-902a182ba2",
-        "edit_link": "",
-        "preview": "",
-        "preview_highlight": "",
-        "lines": 0,
-        "lines_more": 0,
-        "is_public": true,
-        "public_url_shared": false,
-        "channels": null,
-        "groups": null,
-        "ims": null,
-        "initial_comment": {},
-        "comments_count": 0,
-        "num_stars": 0,
-        "is_starred": false,
-        "shares": {
-          "public": null,
-          "private": null
-        }
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "L4G",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\u003c 서울대 코로나 동선 안심이 사용 안내 \u003e\n\n자연과학대학 수리과학부 천정희 교수 연구팀과 경기도청이 협력하여 개발한 「코로나 동선 안심이」는 4세대 동형암호 기술을 이용해 개인정보의 노출 없이, 수도권 지역(서울, 인천, 경기)의 확진자 동선과 본인의 동선 겹침 여부를 확인할 수 있는 앱으로 아래와 같이 사용설명서를 첨부하오니 코로나19 예방 및 확산 방지에 적극 협조하여 주시기 바랍니다.\n\n  가. 다운로드 방법: Play 스토어(ANDROID)/ App Store(IOS) → '코로나 동선 안심이' 검색 → 설치\n  나. 사용 방법\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc124\\uc815 \\u2192 \\uc11c\\uc6b8\\ub300 \\ucf54\\ub85c\\ub098 \\ub3d9\\uc120 \\uc548\\uc2ec\\uc774 \\u2192 \\ub9c8\\uc774\\uc2a4\\ub204 \\uacc4\\uc815\\uc744 \\uc0ac\\uc6a9\\ud558\\uc5ec \\ub85c\\uadf8\\uc778\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "       (한번 로그인하면 추후 이용시 별도 로그인 없이「서울대 코로나 동선 안심이」로 자동 연계됨)\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_list",
-            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud648 \\u2192 \\uc811\\ucd09\\uc704\\ud5d8 \\ud655\\uc778\\ud558\\uae30: \\ud655\\uc9c4\\uc790 \\ub3d9\\uc120 \\uc815\\ubcf4\\uc640\\uc758 \\ub3d9\\uc120 \\uacb9\\uce68 \\uc5ec\\ubd80 \\ud655\\uc778\\uac00\\ub2a5\"}]}],\"style\":\"bullet\",\"indent\":0}"
-          }
-        ]
-      }
-    ],
-    "user_team": "",
-    "source_team": "",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
-      "first_name": "GSDS행정실",
-      "real_name": "GSDS행정실",
-      "display_name": "GSDS행정실",
-      "team": "T01QA5S537V",
-      "name": "snu.gsds",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"type": "message",
+			"user": "U01QNJ7PWRX",
+			"text": "&lt; 서울대 코로나 동선 안심이 사용 안내 &gt;\n\n자연과학대학 수리과학부 천정희 교수 연구팀과 경기도청이 협력하여 개발한 「코로나 동선 안심이」는 4세대 동형암호 기술을 이용해 개인정보의 노출 없이, 수도권 지역(서울, 인천, 경기)의 확진자 동선과 본인의 동선 겹침 여부를 확인할 수 있는 앱으로 아래와 같이 사용설명서를 첨부하오니 코로나19 예방 및 확산 방지에 적극 협조하여 주시기 바랍니다.\n\n  가. 다운로드 방법: Play 스토어(ANDROID)/ App Store(IOS) → '코로나 동선 안심이' 검색 → 설치\n  나. 사용 방법\n• 설정 → 서울대 코로나 동선 안심이 → 마이스누 계정을 사용하여 로그인\n       (한번 로그인하면 추후 이용시 별도 로그인 없이「서울대 코로나 동선 안심이」로 자동 연계됨)\n• 홈 → 접촉위험 확인하기: 확진자 동선 정보와의 동선 겹침 여부 확인가능",
+			"ts": "1621840918.013700",
+			"files": [
+				{
+					"id": "F022CLTT9HD",
+					"created": 1621840885,
+					"timestamp": 1621840885,
+					"name": "「서울대 코로나 동선 안심이」 설명서.zip",
+					"title": "「서울대 코로나 동선 안심이」 설명서.zip",
+					"mimetype": "application/zip",
+					"image_exif_rotation": 0,
+					"filetype": "zip",
+					"pretty_type": "Zip",
+					"user": "U01QNJ7PWRX",
+					"mode": "hosted",
+					"editable": false,
+					"is_external": false,
+					"external_type": "",
+					"size": 482672,
+					"url": "",
+					"url_download": "",
+					"url_private": "attachments/F022CLTT9HD-「서울대 코로나 동선 안심이」 설명서.zip",
+					"url_private_download": "attachments/F022CLTT9HD-「서울대 코로나 동선 안심이」 설명서.zip",
+					"original_h": 0,
+					"original_w": 0,
+					"thumb_64": "",
+					"thumb_80": "",
+					"thumb_160": "",
+					"thumb_360": "",
+					"thumb_360_gif": "",
+					"thumb_360_w": 0,
+					"thumb_360_h": 0,
+					"thumb_480": "",
+					"thumb_480_w": 0,
+					"thumb_480_h": 0,
+					"thumb_720": "",
+					"thumb_720_w": 0,
+					"thumb_720_h": 0,
+					"thumb_960": "",
+					"thumb_960_w": 0,
+					"thumb_960_h": 0,
+					"thumb_1024": "",
+					"thumb_1024_w": 0,
+					"thumb_1024_h": 0,
+					"permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F022CLTT9HD/____________________________________________________.zip",
+					"permalink_public": "https://slack-files.com/T01QA5S537V-F022CLTT9HD-902a182ba2",
+					"edit_link": "",
+					"preview": "",
+					"preview_highlight": "",
+					"lines": 0,
+					"lines_more": 0,
+					"is_public": true,
+					"public_url_shared": false,
+					"channels": null,
+					"groups": null,
+					"ims": null,
+					"initial_comment": {},
+					"comments_count": 0,
+					"num_stars": 0,
+					"is_starred": false,
+					"shares": {
+						"public": null,
+						"private": null
+					}
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "L4G",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "< 서울대 코로나 동선 안심이 사용 안내 >\n\n자연과학대학 수리과학부 천정희 교수 연구팀과 경기도청이 협력하여 개발한 「코로나 동선 안심이」는 4세대 동형암호 기술을 이용해 개인정보의 노출 없이, 수도권 지역(서울, 인천, 경기)의 확진자 동선과 본인의 동선 겹침 여부를 확인할 수 있는 앱으로 아래와 같이 사용설명서를 첨부하오니 코로나19 예방 및 확산 방지에 적극 협조하여 주시기 바랍니다.\n\n  가. 다운로드 방법: Play 스토어(ANDROID)/ App Store(IOS) → '코로나 동선 안심이' 검색 → 설치\n  나. 사용 방법\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc124\\uc815 \\u2192 \\uc11c\\uc6b8\\ub300 \\ucf54\\ub85c\\ub098 \\ub3d9\\uc120 \\uc548\\uc2ec\\uc774 \\u2192 \\ub9c8\\uc774\\uc2a4\\ub204 \\uacc4\\uc815\\uc744 \\uc0ac\\uc6a9\\ud558\\uc5ec \\ub85c\\uadf8\\uc778\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "       (한번 로그인하면 추후 이용시 별도 로그인 없이「서울대 코로나 동선 안심이」로 자동 연계됨)\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_list",
+							"Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud648 \\u2192 \\uc811\\ucd09\\uc704\\ud5d8 \\ud655\\uc778\\ud558\\uae30: \\ud655\\uc9c4\\uc790 \\ub3d9\\uc120 \\uc815\\ubcf4\\uc640\\uc758 \\ub3d9\\uc120 \\uacb9\\uce68 \\uc5ec\\ubd80 \\ud655\\uc778\\uac00\\ub2a5\"}]}],\"style\":\"bullet\",\"indent\":0}"
+						}
+					]
+				}
+			],
+			"user_team": "",
+			"source_team": "",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+				"first_name": "GSDS행정실",
+				"real_name": "GSDS행정실",
+				"display_name": "GSDS행정실",
+				"team": "T01QA5S537V",
+				"name": "snu.gsds",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

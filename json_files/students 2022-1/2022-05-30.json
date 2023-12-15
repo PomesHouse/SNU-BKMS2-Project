@@ -1,174 +1,176 @@
-[
-  {
-    "client_msg_id": "25f4abaf-ac3a-4e88-93b5-ed730b8fd98d",
-    "type": "message",
-    "user": "U01QGKD09K5",
-    "text": "*[2022-1 GSDS 종강 파티 안내 및 수요 조사]*\n\n안녕하세요, 학생회 부대표 어경선입니다.\n이전에 안내했던 대로, 대학원에서 1학기 종강과 함께 대학원 구성원 전원을 대상으로 하는 친목 행사를 최초로 개최할 예정입니다.\n일정과 장소가 확정된 만큼 참석 규모 파악을 위해 수요 조사를 하려고 합니다.\n참석을 원하시는 분은 *6월 3일까지* :beers: *이모티콘*을 눌러 주시기 바랍니다.\n파티는 좌석이 고정된다기 보다 테이블을 돌아다니며 여러 사람들과 소통하는 방향으로 구성될 가능성이 높습니다.\n\n\u0026gt; *일시 : 2022년 6월 23일 목요일 오후 6시 30분 ~* \n\u0026gt; *장소 : 스누샤 카페 (호암교수회관 야외카페) (*\u003chttps://hoam.ac.kr/restaurant/the_cafe.php\u003e)\n\u0026gt; *참가비용 : 무료*\n\u0026gt; *참석 예정자 : 학생 (1~3기), 교수진*\n*(3기 추가 안내사항)* 공지되었던 대로 해당일 오후 5시에 3기 학생들을 대상으로 하는 *연구실 설명회*가 진행됩니다.\n설명회는 942동 301호, 302호에서 진행될 예정이고, 해당 행사가 끝난 후 스누샤 카페로 이동할 예정입니다.",
-    "ts": "1653878705.767479",
-    "team": "T01QA5S537V",
-    "reactions": [
-      {
-        "name": "beers",
-        "count": 76,
-        "users": [
-          "U01QGKD09K5",
-          "U01QNHRHY0L",
-          "U01Q1KFN4JK",
-          "U02UT1WQWUS",
-          "U0302PJE83A",
-          "U02V5LTRU2V",
-          "U02UVAUFSRJ",
-          "U02UT1XABT4",
-          "U01QV1WAPL1",
-          "U02UQ4CMR7X",
-          "U01QNMUAUKW",
-          "U01QA85T90A",
-          "U02V5LTKMPT",
-          "U01QGJUT403",
-          "U02V5LS6USD",
-          "U02UQ4D8L2Z",
-          "U02V5LT2XFB",
-          "U02UT1YNY6N",
-          "U01QUKKQ8GH",
-          "U02UQ4CE0AH",
-          "U02V5LTUGGH",
-          "U01QDANUYVB",
-          "U01PVEU1A07",
-          "U02UT2VQ9NF",
-          "U01Q1KQ03PZ",
-          "U01QGKCT067",
-          "U01QV28F01X",
-          "U02ULBKA8DU",
-          "U0302PLQ34Y",
-          "U0302PKMR6C",
-          "U02UT2TFZ8B",
-          "U02V5LT4DLZ",
-          "U02UQ4BD0S1",
-          "U02ULBHV58W",
-          "U02ULBG7ZGE",
-          "U01R689L5KJ",
-          "U02UT1Y2UJW",
-          "U01Q75KNV1T",
-          "U02V5LU4ED7",
-          "U0302PK342C",
-          "U02V5LRSE2V",
-          "U02UT1XUGFL",
-          "U02ULBJGHF0",
-          "U02V5LU0EGZ",
-          "U02V5LS84JV",
-          "U02UVAT3BPW",
-          "U0302PHUHME",
-          "U02UT2U1PFV",
-          "U02UVASLMRS",
-          "U02UCD1RBNK"
-        ]
-      }
-    ],
-    "replace_original": false,
-    "delete_original": false,
-    "metadata": {
-      "event_type": "",
-      "event_payload": null
-    },
-    "blocks": [
-      {
-        "type": "rich_text",
-        "block_id": "hhtv",
-        "elements": [
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "[2022-1 GSDS 종강 파티 안내 및 수요 조사]",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "\n\n안녕하세요, 학생회 부대표 어경선입니다.\n이전에 안내했던 대로, 대학원에서 1학기 종강과 함께 대학원 구성원 전원을 대상으로 하는 친목 행사를 최초로 개최할 예정입니다.\n일정과 장소가 확정된 만큼 참석 규모 파악을 위해 수요 조사를 하려고 합니다.\n참석을 원하시는 분은 "
-              },
-              {
-                "type": "text",
-                "text": "6월 3일까지 ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "emoji",
-                "name": "beers",
-                "skin_tone": 0,
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": " 이모티콘",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "을 눌러 주시기 바랍니다.\n파티는 좌석이 고정된다기 보다 테이블을 돌아다니며 여러 사람들과 소통하는 방향으로 구성될 가능성이 높습니다.\n\n"
-              }
-            ]
-          },
-          {
-            "Type": "rich_text_quote",
-            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc : 2022\\ub144 6\\uc6d4 23\\uc77c \\ubaa9\\uc694\\uc77c \\uc624\\ud6c4 6\\uc2dc 30\\ubd84 ~ \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c : \\uc2a4\\ub204\\uc0e4 \\uce74\\ud398 (\\ud638\\uc554\\uad50\\uc218\\ud68c\\uad00 \\uc57c\\uc678\\uce74\\ud398) (\",\"style\":{\"bold\":true}},{\"type\":\"link\",\"url\":\"https:\\/\\/hoam.ac.kr\\/restaurant\\/the_cafe.php\"},{\"type\":\"text\",\"text\":\")\\n\"},{\"type\":\"text\",\"text\":\"\\ucc38\\uac00\\ube44\\uc6a9 : \\ubb34\\ub8cc\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d \\uc608\\uc815\\uc790 : \\ud559\\uc0dd (1~3\\uae30), \\uad50\\uc218\\uc9c4\",\"style\":{\"bold\":true}}]}"
-          },
-          {
-            "type": "rich_text_section",
-            "elements": [
-              {
-                "type": "text",
-                "text": "\n"
-              },
-              {
-                "type": "text",
-                "text": "(3기 추가 안내사항) ",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "공지되었던 대로 해당일 오후 5시에 3기 학생들을 대상으로 하는 "
-              },
-              {
-                "type": "text",
-                "text": "연구실 설명회",
-                "style": {
-                  "bold": true
-                }
-              },
-              {
-                "type": "text",
-                "text": "가 진행됩니다.\n설명회는 942동 301호, 302호에서 진행될 예정이고, 해당 행사가 끝난 후 스누샤 카페로 이동할 예정입니다."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "user_team": "T01QA5S537V",
-    "source_team": "T01QA5S537V",
-    "user_profile": {
-      "avatar_hash": "",
-      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
-      "first_name": "어경선",
-      "real_name": "어경선",
-      "display_name": "2기_어경선",
-      "team": "T01QA5S537V",
-      "name": "eks104",
-      "is_restricted": false,
-      "is_ultra_restricted": false
-    },
-    "reply_users_count": 0,
-    "reply_users": null
-  }
-]
+{
+	"array": [
+		{
+			"client_msg_id": "25f4abaf-ac3a-4e88-93b5-ed730b8fd98d",
+			"type": "message",
+			"user": "U01QGKD09K5",
+			"text": "*[2022-1 GSDS 종강 파티 안내 및 수요 조사]*\n\n안녕하세요, 학생회 부대표 어경선입니다.\n이전에 안내했던 대로, 대학원에서 1학기 종강과 함께 대학원 구성원 전원을 대상으로 하는 친목 행사를 최초로 개최할 예정입니다.\n일정과 장소가 확정된 만큼 참석 규모 파악을 위해 수요 조사를 하려고 합니다.\n참석을 원하시는 분은 *6월 3일까지* :beers: *이모티콘*을 눌러 주시기 바랍니다.\n파티는 좌석이 고정된다기 보다 테이블을 돌아다니며 여러 사람들과 소통하는 방향으로 구성될 가능성이 높습니다.\n\n&gt; *일시 : 2022년 6월 23일 목요일 오후 6시 30분 ~* \n&gt; *장소 : 스누샤 카페 (호암교수회관 야외카페) (*<https://hoam.ac.kr/restaurant/the_cafe.php>)\n&gt; *참가비용 : 무료*\n&gt; *참석 예정자 : 학생 (1~3기), 교수진*\n*(3기 추가 안내사항)* 공지되었던 대로 해당일 오후 5시에 3기 학생들을 대상으로 하는 *연구실 설명회*가 진행됩니다.\n설명회는 942동 301호, 302호에서 진행될 예정이고, 해당 행사가 끝난 후 스누샤 카페로 이동할 예정입니다.",
+			"ts": "1653878705.767479",
+			"team": "T01QA5S537V",
+			"reactions": [
+				{
+					"name": "beers",
+					"count": 76,
+					"users": [
+						"U01QGKD09K5",
+						"U01QNHRHY0L",
+						"U01Q1KFN4JK",
+						"U02UT1WQWUS",
+						"U0302PJE83A",
+						"U02V5LTRU2V",
+						"U02UVAUFSRJ",
+						"U02UT1XABT4",
+						"U01QV1WAPL1",
+						"U02UQ4CMR7X",
+						"U01QNMUAUKW",
+						"U01QA85T90A",
+						"U02V5LTKMPT",
+						"U01QGJUT403",
+						"U02V5LS6USD",
+						"U02UQ4D8L2Z",
+						"U02V5LT2XFB",
+						"U02UT1YNY6N",
+						"U01QUKKQ8GH",
+						"U02UQ4CE0AH",
+						"U02V5LTUGGH",
+						"U01QDANUYVB",
+						"U01PVEU1A07",
+						"U02UT2VQ9NF",
+						"U01Q1KQ03PZ",
+						"U01QGKCT067",
+						"U01QV28F01X",
+						"U02ULBKA8DU",
+						"U0302PLQ34Y",
+						"U0302PKMR6C",
+						"U02UT2TFZ8B",
+						"U02V5LT4DLZ",
+						"U02UQ4BD0S1",
+						"U02ULBHV58W",
+						"U02ULBG7ZGE",
+						"U01R689L5KJ",
+						"U02UT1Y2UJW",
+						"U01Q75KNV1T",
+						"U02V5LU4ED7",
+						"U0302PK342C",
+						"U02V5LRSE2V",
+						"U02UT1XUGFL",
+						"U02ULBJGHF0",
+						"U02V5LU0EGZ",
+						"U02V5LS84JV",
+						"U02UVAT3BPW",
+						"U0302PHUHME",
+						"U02UT2U1PFV",
+						"U02UVASLMRS",
+						"U02UCD1RBNK"
+					]
+				}
+			],
+			"replace_original": false,
+			"delete_original": false,
+			"metadata": {
+				"event_type": "",
+				"event_payload": null
+			},
+			"blocks": [
+				{
+					"type": "rich_text",
+					"block_id": "hhtv",
+					"elements": [
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "[2022-1 GSDS 종강 파티 안내 및 수요 조사]",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "\n\n안녕하세요, 학생회 부대표 어경선입니다.\n이전에 안내했던 대로, 대학원에서 1학기 종강과 함께 대학원 구성원 전원을 대상으로 하는 친목 행사를 최초로 개최할 예정입니다.\n일정과 장소가 확정된 만큼 참석 규모 파악을 위해 수요 조사를 하려고 합니다.\n참석을 원하시는 분은 "
+								},
+								{
+									"type": "text",
+									"text": "6월 3일까지 ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "emoji",
+									"name": "beers",
+									"skin_tone": 0,
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": " 이모티콘",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "을 눌러 주시기 바랍니다.\n파티는 좌석이 고정된다기 보다 테이블을 돌아다니며 여러 사람들과 소통하는 방향으로 구성될 가능성이 높습니다.\n\n"
+								}
+							]
+						},
+						{
+							"Type": "rich_text_quote",
+							"Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc : 2022\\ub144 6\\uc6d4 23\\uc77c \\ubaa9\\uc694\\uc77c \\uc624\\ud6c4 6\\uc2dc 30\\ubd84 ~ \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c : \\uc2a4\\ub204\\uc0e4 \\uce74\\ud398 (\\ud638\\uc554\\uad50\\uc218\\ud68c\\uad00 \\uc57c\\uc678\\uce74\\ud398) (\",\"style\":{\"bold\":true}},{\"type\":\"link\",\"url\":\"https:\\/\\/hoam.ac.kr\\/restaurant\\/the_cafe.php\"},{\"type\":\"text\",\"text\":\")\\n\"},{\"type\":\"text\",\"text\":\"\\ucc38\\uac00\\ube44\\uc6a9 : \\ubb34\\ub8cc\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"text\",\"text\":\"\\ucc38\\uc11d \\uc608\\uc815\\uc790 : \\ud559\\uc0dd (1~3\\uae30), \\uad50\\uc218\\uc9c4\",\"style\":{\"bold\":true}}]}"
+						},
+						{
+							"type": "rich_text_section",
+							"elements": [
+								{
+									"type": "text",
+									"text": "\n"
+								},
+								{
+									"type": "text",
+									"text": "(3기 추가 안내사항) ",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "공지되었던 대로 해당일 오후 5시에 3기 학생들을 대상으로 하는 "
+								},
+								{
+									"type": "text",
+									"text": "연구실 설명회",
+									"style": {
+										"bold": true
+									}
+								},
+								{
+									"type": "text",
+									"text": "가 진행됩니다.\n설명회는 942동 301호, 302호에서 진행될 예정이고, 해당 행사가 끝난 후 스누샤 카페로 이동할 예정입니다."
+								}
+							]
+						}
+					]
+				}
+			],
+			"user_team": "T01QA5S537V",
+			"source_team": "T01QA5S537V",
+			"user_profile": {
+				"avatar_hash": "",
+				"image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+				"first_name": "어경선",
+				"real_name": "어경선",
+				"display_name": "2기_어경선",
+				"team": "T01QA5S537V",
+				"name": "eks104",
+				"is_restricted": false,
+				"is_ultra_restricted": false
+			},
+			"reply_users_count": 0,
+			"reply_users": null
+		}
+	]
+}

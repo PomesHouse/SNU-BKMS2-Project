@@ -1,0 +1,143 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2021-2022 이탈리아 정부초청장학생 선발안내 \u0026gt;\n\n2021-2022 이탈리아 정부초청 장학생 선발을 아래와 같이 안내드리오니, 관심있는 학생분들의 많은 참여 바랍니다.\n\n\u0026lt;주요내용\u0026gt;\n  가. 선발과정, 장학혜택 및 자격기준 등: \u0026lt;붙임\u0026gt; 파일 참조\n  *나. 지원마감: 2021. 7. 13.(화) 21시까지 \u0026lt;한국시간 기준\u0026gt; → 2021.7.20.(화) 21까지로 연장*\n  다. 지원방법: \u003chttps://studyinitaly.esteri.it/\u003e 에서 온라인 지원\n  라. 문의처: 주한이탈리아문화원\n                      \u0026lt;Tel: 02-796-0634/02-797-7792, e-mail: \u003cmailto:iicseoul@esteri.it|iicseoul@esteri.it\u003e\u0026gt;\n\n관련하여 자세한 내용은 첨부의 공고문 및 선발 요강 참고 하시기 바랍니다.",
+    "ts": "1625128904.095900",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1626316247.000000"
+    },
+    "files": [
+      {
+        "id": "F026KPLUHRU",
+        "created": 1625128900,
+        "timestamp": 1625128900,
+        "name": "이탈리아 정부초청 장학생 선발.zip",
+        "title": "이탈리아 정부초청 장학생 선발.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 840712,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F026KPLUHRU-이탈리아 정부초청 장학생 선발.zip",
+        "url_private_download": "attachments/F026KPLUHRU-이탈리아 정부초청 장학생 선발.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F026KPLUHRU/__________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F026KPLUHRU-be4b3f4e6d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FUIKU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2021-2022 이탈리아 정부초청장학생 선발안내 \u003e\n\n2021-2022 이탈리아 정부초청 장학생 선발을 아래와 같이 안내드리오니, 관심있는 학생분들의 많은 참여 바랍니다.\n\n\u003c주요내용\u003e\n  가. 선발과정, 장학혜택 및 자격기준 등: \u003c붙임\u003e 파일 참조\n "
+              },
+              {
+                "type": "text",
+                "text": " 나. 지원마감: 2021. 7. 13.(화) 21시까지 \u003c한국시간 기준\u003e → 2021.7.20.(화) 21까지로 연장",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  다. 지원방법: "
+              },
+              {
+                "type": "link",
+                "url": "https://studyinitaly.esteri.it/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " 에서 온라인 지원\n  라. 문의처: 주한이탈리아문화원\n                      \u003cTel: 02-796-0634/02-797-7792, e-mail: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:iicseoul@esteri.it",
+                "text": "iicseoul@esteri.it"
+              },
+              {
+                "type": "text",
+                "text": "\u003e\n\n관련하여 자세한 내용은 첨부의 공고문 및 선발 요강 참고 하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

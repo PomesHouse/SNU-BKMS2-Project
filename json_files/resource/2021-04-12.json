@@ -1,0 +1,120 @@
+[
+  {
+    "client_msg_id": "9131ccea-4e39-4612-9226-e768cbceeb77",
+    "type": "message",
+    "user": "U01QUKKQ8GH",
+    "text": "컴퓨터 공학계 노벨상으로 불리는 `앨런 튜링`상 수상자가 1일 발표되었습니다.\n\n제프리 울먼, 앨프리드 에이호는 알고리즘, 컴파일러, 데이터 베이스, 머신 러닝 거의 모든 컴퓨터 분야에 공로가 큰 분입니다.\n또한 차상균 원장님도 직접 배우고 실리콘 밸리 창업했을 땐 advisor로 모셨던 분입니다.\n\n기사 한번 읽어보시기 바랍니다 :slightly_smiling_face:\n\n\u003chttps://news.stanford.edu/2021/03/31/jeffrey-ullman-receives-acm-turing-award/\u003e\n\n\u003chttps://www.stanforddaily.com/2021/04/04/qa-2020-turing-award-recipient-jeffrey-ullman-explains-how-he-got-involved-with-computer-science/\u003e",
+    "ts": "1618197858.000600",
+    "attachments": [
+      {
+        "fallback": "Stanford News: Jeffrey Ullman receives ACM Turing Award | Stanford News",
+        "id": 1,
+        "title": "Jeffrey Ullman receives ACM Turing Award | Stanford News",
+        "title_link": "https://news.stanford.edu/2021/03/31/jeffrey-ullman-receives-acm-turing-award/",
+        "text": "Ullman shares the prize with long-time collaborator Alfred Aho of Columbia University. They are recognized for their influential work on compilers and algorithms, including their co-authorship of widely popular textbooks on these topics.",
+        "image_url": "https://news-media.stanford.edu/wp-content/uploads/2021/03/30144904/ullman-feat.jpg",
+        "service_name": "Stanford News",
+        "service_icon": "http://www-media.stanford.edu/assets/favicon/apple-touch-icon-57x57.png",
+        "from_url": "https://news.stanford.edu/2021/03/31/jeffrey-ullman-receives-acm-turing-award/",
+        "original_url": "https://news.stanford.edu/2021/03/31/jeffrey-ullman-receives-acm-turing-award/",
+        "blocks": null,
+        "ts": 1617188358
+      },
+      {
+        "fallback": "The Stanford Daily: Q\u0026amp;A: 2020 Turing Award recipient Jeffrey Ullman explains how he got involved with computer science | The Stanford Daily",
+        "id": 2,
+        "title": "Q\u0026amp;A: 2020 Turing Award recipient Jeffrey Ullman explains how he got involved with computer science | The Stanford Daily",
+        "title_link": "https://www.stanforddaily.com/2021/04/04/qa-2020-turing-award-recipient-jeffrey-ullman-explains-how-he-got-involved-with-computer-science/",
+        "text": "Known as the “Nobel Prize of Computing,” the award given by the Association of Computer Machinery recognizes “major contributions of lasting importance to computing.",
+        "image_url": "https://wp.stanforddaily.com/wp-content/uploads/2021/04/Turing-Award-recipient-Jeffrey-Ullman.jpg",
+        "service_name": "The Stanford Daily",
+        "service_icon": "https://wp.stanforddaily.com/wp-content/uploads/2019/03/cropped-DailyIcon-CardinalRed-180x180.png",
+        "from_url": "https://www.stanforddaily.com/2021/04/04/qa-2020-turing-award-recipient-jeffrey-ullman-explains-how-he-got-involved-with-computer-science/",
+        "original_url": "https://www.stanforddaily.com/2021/04/04/qa-2020-turing-award-recipient-jeffrey-ullman-explains-how-he-got-involved-with-computer-science/",
+        "blocks": null,
+        "ts": 1617604560
+      }
+    ],
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 11,
+        "users": [
+          "U01PVETHKF1",
+          "U01QNHRHY0L",
+          "U01QNSM488Z",
+          "U01Q386CMKQ",
+          "U01QV1SQJ57",
+          "U01Q1KQ03PZ",
+          "U01QGKCUAJX",
+          "U01Q75KNV1T",
+          "U01R719DKK2",
+          "U01PVETMX2T",
+          "U01QNMUAUKW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kMH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "컴퓨터 공학계 노벨상으로 불리는 `앨런 튜링`상 수상자가 1일 발표되었습니다.\n\n제프리 울먼, 앨프리드 에이호는 알고리즘, 컴파일러, 데이터 베이스, 머신 러닝 거의 모든 컴퓨터 분야에 공로가 큰 분입니다.\n또한 차상균 원장님도 직접 배우고 실리콘 밸리 창업했을 땐 advisor로 모셨던 분입니다.\n\n기사 한번 읽어보시기 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://news.stanford.edu/2021/03/31/jeffrey-ullman-receives-acm-turing-award/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.stanforddaily.com/2021/04/04/qa-2020-turing-award-recipient-jeffrey-ullman-explains-how-he-got-involved-with-computer-science/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김호현",
+      "real_name": "김호현",
+      "display_name": "2기_김호현",
+      "team": "T01QA5S537V",
+      "name": "waterdream",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "client_msg_id": "bc6311f4-0a65-4da3-824c-87a13e01dc98",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022년 서울대학교 그린바이오과학기술연구원 하반기 교육지원사업 학생 봉사단 모집 안내\u0026gt;\n\n*가. 모집 대상: 교육봉사에 뜻있는 서울대학교 전 기관 학생 봉사단(혹은 동아리)*\n  나. 모집 기한: ~ 10.31.(월) 18:00시 도착분까지\n  다. 제출 서류: 교육지원사업 참여 신청서, 활동 계획서(자유 서식) 각 1부\n  라. 선정: 서류평가를 통하여 교육대상별(초, 중, 고) 최소 1개 봉사단 선정(예정)\n  마. 지원 사항: 숙박(게스트 하우스) 및 식비, 보험, 재료비 등 일부(협의)\n      ※ 상세 내용은 붙임 파일 참고\n  바. 기타 사항: 전염병 확산 및 천재지변 등 재난상황 발생 시 - 교육봉사 중단 및 귀가 조치\n  사. 제출 방법: 담당자 E-mail 접수(\u003cmailto:tjrrmsghk1@snu.ac.kr|tjrrmsghk1@snu.ac.kr\u003e)\n  아. 문의: 그린바이오과학기술연구원 기획팀 석근화(\u003ctel:0333395652|033-339-5652\u003e)",
+    "ts": "1666138368.204099",
+    "files": [
+      {
+        "id": "F04764S1DT6",
+        "created": 1666138365,
+        "timestamp": 1666138365,
+        "name": "2022년도 서울대학교 그린바이오과학기술연구원 하반기 교육지원사업 봉사단 모집 안내 (3).hwp",
+        "title": "2022년도 서울대학교 그린바이오과학기술연구원 하반기 교육지원사업 봉사단 모집 안내 (3).hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 77312,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04764S1DT6-2022년도 서울대학교 그린바이오과학기술연구원 하반기 교육지원사업 봉사단 모집 안내 (3).hwp",
+        "url_private_download": "attachments/F04764S1DT6-2022년도 서울대학교 그린바이오과학기술연구원 하반기 교육지원사업 봉사단 모집 안내 (3).hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04764S1DT6/2022__________________________________________________________________________________________________________________3_.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04764S1DT6-04cfc650a9",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V=S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022년 서울대학교 그린바이오과학기술연구원 하반기 교육지원사업 학생 봉사단 모집 안내\u003e\n\n"
+              },
+              {
+                "type": "text",
+                "text": "가. 모집 대상: 교육봉사에 뜻있는 서울대학교 전 기관 학생 봉사단(혹은 동아리)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  나. 모집 기한: ~ 10.31.(월) 18:00시 도착분까지\n  다. 제출 서류: 교육지원사업 참여 신청서, 활동 계획서(자유 서식) 각 1부\n  라. 선정: 서류평가를 통하여 교육대상별(초, 중, 고) 최소 1개 봉사단 선정(예정)\n  마. 지원 사항: 숙박(게스트 하우스) 및 식비, 보험, 재료비 등 일부(협의)\n      ※ 상세 내용은 붙임 파일 참고\n  바. 기타 사항: 전염병 확산 및 천재지변 등 재난상황 발생 시 - 교육봉사 중단 및 귀가 조치\n  사. 제출 방법: 담당자 E-mail 접수("
+              },
+              {
+                "type": "link",
+                "url": "mailto:tjrrmsghk1@snu.ac.kr",
+                "text": "tjrrmsghk1@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")\n  아. 문의: 그린바이오과학기술연구원 기획팀 석근화("
+              },
+              {
+                "type": "link",
+                "url": "tel:0333395652",
+                "text": "033-339-5652"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a73e69aa-e14f-4652-9653-293101ebae54",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "2022학년도 2학기「강의 중간 수강소감 조사」실시 계획 알림\n\n2022학년도 2학기 강의 중간 수강소감 조사를 실시하니 많은 학생들께서 참여하여 주시기 바랍니다.\n\n가. 조사 기간: *2022. 10. 25.(화) ~ 2022. 10. 31.(월)*\n   나. 방법: 포털 마이스누-기본정보-수업/성적-성적-강의평가\n   다. 대상교과목: 학부 및 대학원 개설 강좌 전체(대학원‘논문연구’교과목 제외)\n   라. 평가 문항: 자유서술식 4개 문항(비대면 수업 관련 2개 문항은 해당할 경우 작성)\n     ○ 이 강의에서 특별히 좋거나 인상 깊은 점을 적어 주십시오.\n     ○ 이 강의에서 개선할 점이 있다면 적어 주십시오.\n     ○ 비대면 수업 방법(실시간화상수업, 강의동영상, 문서, 과제 등)이 교과목 특성에 적합하였는지 적어 주십시오.\n      ○ 비대면 수업에 대한 전반적인 만족도와 개선할 점을 적어 주십시오.",
+    "ts": "1666141613.800229",
+    "files": [
+      {
+        "id": "F0470S54CR3",
+        "created": 1666141538,
+        "timestamp": 1666141538,
+        "name": "강의 중간 수강소감 조사 프로그램 안내.pdf",
+        "title": "강의 중간 수강소감 조사 프로그램 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 156788,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0470S54CR3-강의 중간 수강소감 조사 프로그램 안내.pdf",
+        "url_private_download": "attachments/F0470S54CR3-강의 중간 수강소감 조사 프로그램 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0470S54CR3/_____________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F0470S54CR3-a0279e10fb",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GrH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2022학년도 2학기「강의 중간 수강소감 조사」실시 계획 알림\n\n2022학년도 2학기 강의 중간 수강소감 조사를 실시하니 많은 학생들께서 참여하여 주시기 바랍니다.\n\n가. 조사 기간: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 10. 25.(화) ~ 2022. 10. 31.(월)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   나. 방법: 포털 마이스누-기본정보-수업/성적-성적-강의평가\n   다. 대상교과목: 학부 및 대학원 개설 강좌 전체(대학원‘논문연구’교과목 제외)\n   라. 평가 문항: 자유서술식 4개 문항(비대면 수업 관련 2개 문항은 해당할 경우 작성)\n     ○ 이 강의에서 특별히 좋거나 인상 깊은 점을 적어 주십시오.\n     ○ 이 강의에서 개선할 점이 있다면 적어 주십시오.\n     ○ 비대면 수업 방법(실시간화상수업, 강의동영상, 문서, 과제 등)이 교과목 특성에 적합하였는지 적어 주십시오.\n      ○ 비대면 수업에 대한 전반적인 만족도와 개선할 점을 적어 주십시오."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "DDFB618A-3D33-4858-A519-2E31FDC1487B",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "논문 계획서 10장이 넘을 수도 있을거같은데, 딱 10페이지를 맞춰야하나요? 10페이지 내외인가요?",
+    "ts": "1666187810.619139",
+    "thread_ts": "1665707086.163489",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01QV1PBKUZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=LDQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "논문"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "계획서"
+              },
+              {
+                "type": "text",
+                "text": " 10"
+              },
+              {
+                "type": "text",
+                "text": "장이"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "넘을"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "수도"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "있을거같은데"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "text",
+                "text": "딱"
+              },
+              {
+                "type": "text",
+                "text": " 10"
+              },
+              {
+                "type": "text",
+                "text": "페이지를"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "맞춰야하나요"
+              },
+              {
+                "type": "text",
+                "text": "? 10"
+              },
+              {
+                "type": "text",
+                "text": "페이지"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "내외인가요"
+              },
+              {
+                "type": "text",
+                "text": "?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

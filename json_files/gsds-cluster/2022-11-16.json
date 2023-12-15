@@ -1,0 +1,337 @@
+[
+  {
+    "client_msg_id": "5fa4fbfa-45b1-40cf-a942-a3f026b2d03c",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "[서버 공지사항]\n오늘 오후 4시~6시 사이에 C[05~07] 노드에 GPU 추가 작업이 있을 계획입니다. 때문에 해당 노드의 경우 작업이 중단될 수 있으니 참고하시기 바랍니다.",
+    "ts": "1668570831.102839",
+    "thread_ts": "1668570831.102839",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01R67PKD7S",
+        "ts": "1668579667.011739"
+      },
+      {
+        "user": "U01R67PKD7S",
+        "ts": "1668584185.799879"
+      }
+    ],
+    "latest_reply": "1668584185.799879",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iQyz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[서버 공지사항]\n오늘 오후 4시~6시 사이에 C[05~07] 노드에 GPU 추가 작업이 있을 계획입니다. 때문에 해당 노드의 경우 작업이 중단될 수 있으니 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01R67PKD7S"
+    ]
+  },
+  {
+    "client_msg_id": "72480a6a-0dab-4a22-afe0-754bdc294392",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "작업이 예상보다 일찍 시작하여 해당 노드들 잠시 중단하겠습니다",
+    "ts": "1668579667.011739",
+    "thread_ts": "1668570831.102839",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0302PLQ34Y",
+          "U01R678KWP2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1M/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "작업이 예상보다 일찍 시작하여 해당 노드들 잠시 중단하겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "72480a6a-0dab-4a22-afe0-754bdc294392",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "작업이 예상보다 일찍 시작하여 해당 노드들 잠시 중단하겠습니다",
+    "ts": "1668579667.011739",
+    "thread_ts": "1668570831.102839",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0302PLQ34Y",
+          "U01R678KWP2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1M/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "작업이 예상보다 일찍 시작하여 해당 노드들 잠시 중단하겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a6c169f1-e491-41b3-86b7-787d311ac4ca",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "GPU 추가 설치 작업이 완료되었습니다.\n\n오늘 총 5개의 3090 gpu 가 추가되어\nc05에는 2-\u0026gt;3개의 gpu가\nc06,07 에는 2-\u0026gt; 4개의 gpu 가 있게 되었습니다.\n\n이 외 설정도 마무리 되었으니 편하게 사용하시면 됩니다.\n\n※ 추가적으로 c00 의 gpu 하나가 문제가 생겨 현재 해당 노드를 중단해둔 상태입니다. 위 노드도 수리가 완료되는 데로 따로 공지드리도록 하겠습니다.",
+    "ts": "1668584185.799879",
+    "thread_ts": "1668570831.102839",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 18,
+        "users": [
+          "U0302PLQ34Y",
+          "U01QV1WAPL1",
+          "U01R678KWP2",
+          "U02UT2VQ9NF",
+          "U01QNSM488Z",
+          "U02UVATUSLU",
+          "U0302PK342C",
+          "U01QNSMC29X",
+          "U01Q1KFN4JK",
+          "U040ENMBB1C",
+          "U01QAE5A9K5",
+          "U02UT2TFZ8B",
+          "U01QNMUAUKW",
+          "U01QNHRHY0L",
+          "U02V5LTPGRX",
+          "U02ULBG7ZGE",
+          "U02ULBH3TEJ",
+          "U01QGKC4BM1"
+        ]
+      },
+      {
+        "name": "stl",
+        "count": 1,
+        "users": [
+          "U02UVAT3BPW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nCMT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "GPU 추가 설치 작업이 완료되었습니다.\n\n오늘 총 5개의 3090 gpu 가 추가되어\nc05에는 2-\u003e3개의 gpu가\nc06,07 에는 2-\u003e 4개의 gpu 가 있게 되었습니다.\n\n이 외 설정도 마무리 되었으니 편하게 사용하시면 됩니다.\n\n※ 추가적으로 c00 의 gpu 하나가 문제가 생겨 현재 해당 노드를 중단해둔 상태입니다. 위 노드도 수리가 완료되는 데로 따로 공지드리도록 하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a6c169f1-e491-41b3-86b7-787d311ac4ca",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "GPU 추가 설치 작업이 완료되었습니다.\n\n오늘 총 5개의 3090 gpu 가 추가되어\nc05에는 2-\u0026gt;3개의 gpu가\nc06,07 에는 2-\u0026gt; 4개의 gpu 가 있게 되었습니다.\n\n이 외 설정도 마무리 되었으니 편하게 사용하시면 됩니다.\n\n※ 추가적으로 c00 의 gpu 하나가 문제가 생겨 현재 해당 노드를 중단해둔 상태입니다. 위 노드도 수리가 완료되는 데로 따로 공지드리도록 하겠습니다.",
+    "ts": "1668584185.799879",
+    "thread_ts": "1668570831.102839",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 18,
+        "users": [
+          "U0302PLQ34Y",
+          "U01QV1WAPL1",
+          "U01R678KWP2",
+          "U02UT2VQ9NF",
+          "U01QNSM488Z",
+          "U02UVATUSLU",
+          "U0302PK342C",
+          "U01QNSMC29X",
+          "U01Q1KFN4JK",
+          "U040ENMBB1C",
+          "U01QAE5A9K5",
+          "U02UT2TFZ8B",
+          "U01QNMUAUKW",
+          "U01QNHRHY0L",
+          "U02V5LTPGRX",
+          "U02ULBG7ZGE",
+          "U02ULBH3TEJ",
+          "U01QGKC4BM1"
+        ]
+      },
+      {
+        "name": "stl",
+        "count": 1,
+        "users": [
+          "U02UVAT3BPW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nCMT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "GPU 추가 설치 작업이 완료되었습니다.\n\n오늘 총 5개의 3090 gpu 가 추가되어\nc05에는 2-\u003e3개의 gpu가\nc06,07 에는 2-\u003e 4개의 gpu 가 있게 되었습니다.\n\n이 외 설정도 마무리 되었으니 편하게 사용하시면 됩니다.\n\n※ 추가적으로 c00 의 gpu 하나가 문제가 생겨 현재 해당 노드를 중단해둔 상태입니다. 위 노드도 수리가 완료되는 데로 따로 공지드리도록 하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

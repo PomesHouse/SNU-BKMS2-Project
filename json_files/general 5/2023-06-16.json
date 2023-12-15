@@ -1,0 +1,185 @@
+[
+  {
+    "client_msg_id": "140ac231-7f70-4f45-8e57-49ffd286b05c",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;2023학년도 1학기 데이터사이언스대학원 지도교수 배정\u0026gt;*\n\n2023학년도 1학기 데이터사이언스대학원 지도교수 배정과 관련하여 아래와 같이 일정을 진행할 예정이오니 기존 지도교수 미배정 학생분들과 신입학 학생분들께서는 일정을 잘 확인하시기 바랍니다.\n1. 교수님 연구분야소개 일정\n○일정: 2023. 6. 19.(월) ~ 25.(일)\n○내용: SLACK을 통해 연구실별 소개영상 공개\n ※ 위 기간 중 영상 업로드 될 예정\n ※ 신청서 양식은 추후 안내예정\n2. 면담 진행\n○일정: 2023. 6. 26.(월) ~ 7. 2.(일)\n○배정자 확인서 제출기간: 2023. 6. 26.(월) ~ 7. 3.(월)\n3. 미배정자 신청서 제출\n○일정: 2023. 7. 3.(월)\n4. 지도교수 확정 협의\n○일정: 2023. 7. 4.(화)\n5. 최종 공고\n○일정: 2023. 7. 10.(월)",
+    "ts": "1686894414.202909",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nJeH5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 1학기 데이터사이언스대학원 지도교수 배정\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n2023학년도 1학기 데이터사이언스대학원 지도교수 배정과 관련하여 아래와 같이 일정을 진행할 예정이오니 기존 지도교수 미배정 학생분들과 신입학 학생분들께서는 일정을 잘 확인하시기 바랍니다.\n1. 교수님 연구분야소개 일정\n○일정: 2023. 6. 19.(월) ~ 25.(일)\n○내용: SLACK을 통해 연구실별 소개영상 공개\n ※ 위 기간 중 영상 업로드 될 예정\n ※ 신청서 양식은 추후 안내예정\n2. 면담 진행\n○일정: 2023. 6. 26.(월) ~ 7. 2.(일)\n○배정자 확인서 제출기간: 2023. 6. 26.(월) ~ 7. 3.(월)\n3. 미배정자 신청서 제출\n○일정: 2023. 7. 3.(월)\n4. 지도교수 확정 협의\n○일정: 2023. 7. 4.(화)\n5. 최종 공고\n○일정: 2023. 7. 10.(월)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a8de8f17-446e-41ae-b6bc-5fceebbfd271",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*(★★중요★★) 942동 건물 전체 정전작업에 따른 협조 요청(7.1.(토) 08~12시)*\n\n데이터사이언스대학원에서는 전기공사(신규 서버실 항온항습기 설치를 위한 전기 용량 증설)에 따라 *942동 건물 정전 작업*을 다음과 같이 실시하고자 합니다. 이에, 정전작업을 위하여 학생 여러분의 협조를 요청드립니다.\n\nㅇ *정전 시간: 2023. 7. 1.(토) 08시 ~ 12시(4시간 이내)*\n  ※ 정전 시간은 작업 일정에 따라 다소 변경될 수 있음\n\nㅇ *정전 범위: 942동 전체*\n\nㅇ 협조 요청사항\n - 정전시간 중 *장비에 피해가 없도록 사전 대비(전기 기기류 전원 분리, 서버 및 개인 PC 전원 분리 및 데이터 사전 백업 등 필요 조치)*\n - *조명, 냉난방(항온항습기), 보안장비(CCTV 및 방범 설비), 통신장치(인터넷) 및 전산장비 등 일체 가동 중단*에 따른 관리 주의(냉장고 음식 확인, 미리 개인물품은 락커에 보관 등)\n - 정전시간 동안 *엘레베이터 이용 금지 등 가급적 해당 시간대 건물 출입 자제*\n\n구성원들의 불편을 줄이기 위하여 방학인 주말에 공사를 시행하고자 하나, *공사 중 발생하는 불편 등에 대하여 널리 양해*하여 주시면 감사하겠습니다.",
+    "ts": "1686905740.871449",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1nlZ/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(★★중요★★) 942동 건물 전체 정전작업에 따른 협조 요청(7.1.(토) 08~12시)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n데이터사이언스대학원에서는 전기공사(신규 서버실 항온항습기 설치를 위한 전기 용량 증설)에 따라"
+              },
+              {
+                "type": "text",
+                "text": " 942동 건물 정전 작업",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "을 다음과 같이 실시하고자 합니다. 이에, 정전작업을 위하여 학생 여러분의 협조를 요청드립니다.\n\nㅇ "
+              },
+              {
+                "type": "text",
+                "text": "정전 시간: 2023. 7. 1.(토) 08시 ~ 12시(4시간 이내)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  ※ 정전 시간은 작업 일정에 따라 다소 변경될 수 있음\n\nㅇ "
+              },
+              {
+                "type": "text",
+                "text": "정전 범위: 942동 전체",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nㅇ 협조 요청사항\n - 정전시간 중 "
+              },
+              {
+                "type": "text",
+                "text": "장비에 피해가 없도록 사전 대비(전기 기기류 전원 분리, 서버 및 개인 PC 전원 분리 및 데이터 사전 백업 등 필요 조치)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n - "
+              },
+              {
+                "type": "text",
+                "text": "조명, 냉난방(항온항습기), 보안장비(CCTV 및 방범 설비), 통신장치(인터넷) 및 전산장비 등 일체 가동 중단",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 따른 관리 주의(냉장고 음식 확인, 미리 개인물품은 락커에 보관 등)\n - 정전시간 동안 "
+              },
+              {
+                "type": "text",
+                "text": "엘레베이터 이용 금지 등 가급적 해당 시간대 건물 출입 자제",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n구성원들의 불편을 줄이기 위하여 방학인 주말에 공사를 시행하고자 하나, "
+              },
+              {
+                "type": "text",
+                "text": "공사 중 발생하는 불편 등에 대하여 널리 양해",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여 주시면 감사하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

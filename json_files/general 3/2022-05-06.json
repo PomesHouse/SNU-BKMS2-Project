@@ -1,0 +1,246 @@
+[
+  {
+    "client_msg_id": "8731ecea-d142-4035-8e14-85e8eca4ba13",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "2022 APAC HPC-AI Competition\n\n등록 마감이 지났지만, 계속 등록을 받고 있다고 하니 APAC-AI-HPC 경진대회 관심이 있으시면 등록하시기 바랍니다.\n\nThe 2022 APAC HPC-AI Competition had started to recruit the teams.\nWe are pleased to invite your students to participate in the competition. Details of the competition can be found on the HPC-AI Advisory Council website. The competition winners will get the reserved spot representing APAC at the 2023 International ISC Student Cluster Competition, RDMA Programming lectures, HPC and AI foundation lectures, prize letters and trophies.\n\u003chttp://www.hpcadvisorycouncil.com/events/2022/APAC-AI-HPC/\u003e\n\n\nThis year, the competition is jointly hosted by the HPC-AI Advisory Council, National Supercomputing Centre (NSCC) Singapore and National Computational Infrastructure (NCI) Australia. The participating teams will have access to \u003chttps://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnci.org.au%2Four-systems%2Fhpc-systems\u0026amp;data=05%7C01%7Chryu%40nvidia.com%7C39556cbb639046d3b31008da2cd4b33e%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C637871589296304490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\u0026amp;sdata=VS8tyhNfF4O18VWyEy1OXlFV8HoGbO7p6LARXFDUtic%3D\u0026amp;reserved=0|NCI Supercomputer Gadi\u003e, which is Australia's peak research supercomputer for 2020 and beyond, as well as access to \u003chttps://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nscc.sg%2Faspire-1%2F\u0026amp;data=05%7C01%7Chryu%40nvidia.com%7C39556cbb639046d3b31008da2cd4b33e%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C637871589296304490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\u0026amp;sdata=zQ5fFijnRKQU13LpheSiecEf%2F6kV8wUzQXsaU7Iqhx0%3D\u0026amp;reserved=0|NSCC Supercomputer ASPIRE-1\u003e, so you don’t need to have your own system.\n\n\nDuring the competition, HPC-AI Advisory Council will provide the relevant HPC and AI training for all competition teams. The students will have the chance to learn the latest HPC and AI technologies. Participants of previous competitions fed back that they gained new knowledge and experience in applying HPC-AI skills to real-world problems by participating in the competition.",
+    "ts": "1651797771.145079",
+    "attachments": [
+      {
+        "fallback": "HPC Advisory Council: 2022 APAC HPC-AI Competition",
+        "id": 1,
+        "title": "2022 APAC HPC-AI Competition",
+        "title_link": "http://www.hpcadvisorycouncil.com/events/2022/APAC-AI-HPC/",
+        "text": "HPC Advisory Council - A community effort support center for HPC end-users",
+        "thumb_url": "http://hpcadvisorycouncil.com/img/social/hpcac_favicon_128.gif",
+        "service_name": "HPC Advisory Council",
+        "service_icon": "https://www.hpcadvisorycouncil.com/favicon.ico",
+        "from_url": "http://www.hpcadvisorycouncil.com/events/2022/APAC-AI-HPC/",
+        "original_url": "http://www.hpcadvisorycouncil.com/events/2022/APAC-AI-HPC/",
+        "blocks": null
+      },
+      {
+        "fallback": "NSCC: ASPIRE 1 - NSCC",
+        "id": 2,
+        "title": "ASPIRE 1 - NSCC",
+        "title_link": "https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nscc.sg%2Faspire-1%2F\u0026data=05%7C01%7Chryu%40nvidia.com%7C39556cbb639046d3b31008da2cd4b33e%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C637871589296304490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\u0026sdata=zQ5fFijnRKQU13LpheSiecEf%2F6kV8wUzQXsaU7Iqhx0%3D\u0026reserved=0",
+        "service_name": "NSCC",
+        "service_icon": "https://www.nscc.sg/wp-content/themes/NSCC/images/favicon.ico",
+        "from_url": "https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nscc.sg%2Faspire-1%2F\u0026data=05%7C01%7Chryu%40nvidia.com%7C39556cbb639046d3b31008da2cd4b33e%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C637871589296304490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\u0026sdata=zQ5fFijnRKQU13LpheSiecEf%2F6kV8wUzQXsaU7Iqhx0%3D\u0026reserved=0",
+        "original_url": "https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nscc.sg%2Faspire-1%2F\u0026amp;data=05%7C01%7Chryu%40nvidia.com%7C39556cbb639046d3b31008da2cd4b33e%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C637871589296304490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\u0026amp;sdata=zQ5fFijnRKQU13LpheSiecEf%2F6kV8wUzQXsaU7Iqhx0%3D\u0026amp;reserved=0",
+        "fields": [
+          {
+            "title": "Written by",
+            "value": "admin",
+            "short": true
+          }
+        ],
+        "blocks": null
+      }
+    ],
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a66",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2022 APAC HPC-AI Competition\n\n등록 마감이 지났지만, 계속 등록을 받고 있다고 하니 APAC-AI-HPC 경진대회 관심이 있으시면 등록하시기 바랍니다.\n\nThe 2022 APAC HPC-AI Competition had started to recruit the teams.\nWe are pleased to invite your students to participate in the competition. Details of the competition can be found on the HPC-AI Advisory Council website. The competition winners will get the reserved spot representing APAC at the 2023 International ISC Student Cluster Competition, RDMA Programming lectures, HPC and AI foundation lectures, prize letters and trophies.\n"
+              },
+              {
+                "type": "link",
+                "url": "http://www.hpcadvisorycouncil.com/events/2022/APAC-AI-HPC/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n\nThis year, the competition is jointly hosted by the HPC-AI Advisory Council, National Supercomputing Centre (NSCC) Singapore and National Computational Infrastructure (NCI) Australia. The participating teams will have access to "
+              },
+              {
+                "type": "link",
+                "url": "https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnci.org.au%2Four-systems%2Fhpc-systems\u0026data=05%7C01%7Chryu%40nvidia.com%7C39556cbb639046d3b31008da2cd4b33e%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C637871589296304490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\u0026sdata=VS8tyhNfF4O18VWyEy1OXlFV8HoGbO7p6LARXFDUtic%3D\u0026reserved=0",
+                "text": "NCI Supercomputer Gadi"
+              },
+              {
+                "type": "text",
+                "text": ", which is Australia's peak research supercomputer for 2020 and beyond, as well as access to "
+              },
+              {
+                "type": "link",
+                "url": "https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nscc.sg%2Faspire-1%2F\u0026data=05%7C01%7Chryu%40nvidia.com%7C39556cbb639046d3b31008da2cd4b33e%7C43083d15727340c1b7db39efd9ccc17a%7C0%7C0%7C637871589296304490%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C\u0026sdata=zQ5fFijnRKQU13LpheSiecEf%2F6kV8wUzQXsaU7Iqhx0%3D\u0026reserved=0",
+                "text": "NSCC Supercomputer ASPIRE-1"
+              },
+              {
+                "type": "text",
+                "text": ", so you don’t need to have your own system.\n\n\nDuring the competition, HPC-AI Advisory Council will provide the relevant HPC and AI training for all competition teams. The students will have the chance to learn the latest HPC and AI technologies. Participants of previous competitions fed back that they gained new knowledge and experience in applying HPC-AI skills to real-world problems by participating in the competition."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6d010f4e-791a-43a5-af8b-c6d217b641ea",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "아시아대학연맹 IITB Overseas Study Programme 2022 – Artificial Intelligence in Education신청\n\n\n아시아대학연맹(AUA) 에서 진행하는「2022 AUA Overseas Study Programme」참가자를 아래와 같이 선발하오니 관심 있는 학생분들께서는 확인하시기 바랍니다.\n\n  1. 프로그램명: 2022 아시아대학연맹(AUA) Overseas Study Programme\n    - 주제: Artificial Intelligence in Education\n  2. 기간: 2022년5월23일(월)~6월3일(금)14:00~18:00(한국시간), *전 과정 온라인 진행*\n  3. 주관: 인도 Indian Institute of Technology Bombay\n  4. 선발인원 및 지원자격\n    가. 선발인원: 2명\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n    가. 제출서류: 신청서(자율양식, 참가 목적 중심 서술) 및 전학년 성적증명서 이메일\n                (\u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e)제출\n    나. 제출기한: 2022년 5월 11일(수)\n  6. 문의처: 국제협력본부 안시헌 (\u003cmailto:ahnsihun@snu.ac.kr|ahnsihun@snu.ac.kr\u003e, 내선 8636)",
+    "ts": "1651810205.761319",
+    "files": [
+      {
+        "id": "F03EQ3PQL81",
+        "created": 1651810203,
+        "timestamp": 1651810203,
+        "name": "2022 ISP Course Registration Procedure (2022학년도 국제하계강좌 운영 및 수강신청 안내).pdf",
+        "title": "2022 ISP Course Registration Procedure (2022학년도 국제하계강좌 운영 및 수강신청 안내).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 389758,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03EQ3PQL81-2022 ISP Course Registration Procedure (2022학년도 국제하계강좌 운영 및 수강신청 안내).pdf",
+        "url_private_download": "attachments/F03EQ3PQL81-2022 ISP Course Registration Procedure (2022학년도 국제하계강좌 운영 및 수강신청 안내).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03EQ3PQL81/2022_isp_course_registration_procedure__2022____________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03EQ3PQL81-82393266c6",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yCXhp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아시아대학연맹 IITB Overseas Study Programme 2022 – Artificial Intelligence in Education신청\n\n\n아시아대학연맹(AUA) 에서 진행하는「2022 AUA Overseas Study Programme」참가자를 아래와 같이 선발하오니 관심 있는 학생분들께서는 확인하시기 바랍니다.\n\n  1. 프로그램명: 2022 아시아대학연맹(AUA) Overseas Study Programme\n    - 주제: Artificial Intelligence in Education\n  2. 기간: 2022년5월23일(월)~6월3일(금)14:00~18:00(한국시간), "
+              },
+              {
+                "type": "text",
+                "text": "전 과정 온라인 진행",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  3. 주관: 인도 Indian Institute of Technology Bombay\n  4. 선발인원 및 지원자격\n    가. 선발인원: 2명\n    나. 지원자격\n     1) 학부생 (전공 무관, 휴학생 신청불가) 및 대학원생(석박사 모두 가능, 전공무관)\n     2) 영어가 능숙하며 프로그램에 적극적으로 참여할 수 있는 학생\n     3) 프로그램의 목표를 이해하고 토론에 적극 참여할 수 있으며 결과를 지역사회에 전파할 수 있는 의지를 가진 학생\n  5. 지원방식\n    가. 제출서류: 신청서(자율양식, 참가 목적 중심 서술) 및 전학년 성적증명서 이메일\n                ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:ahnsihun@snu.ac.kr",
+                "text": "ahnsihun@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")제출\n    나. 제출기한: 2022년 5월 11일(수)\n  6. 문의처: 국제협력본부 안시헌 ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:ahnsihun@snu.ac.kr",
+                "text": "ahnsihun@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ", 내선 8636)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "client_msg_id": "872e5d64-71cd-4764-a88a-74cbd7f1599d",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "아직 위의 홈페이지 학생소개 작성을 안하신 2기 분들은 오늘까지 해주시면 감사하겠습니다~",
+    "ts": "1616737028.034000",
+    "thread_ts": "1616737028.034000",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01Q386CMKQ",
+        "ts": "1616756149.034600"
+      }
+    ],
+    "latest_reply": "1616756149.034600",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U01QAE573J7",
+          "U01QNSM488Z",
+          "U01Q386CMKQ"
+        ]
+      },
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U01QGKD09K5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uJR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아직 위의 홈페이지 학생소개 작성을 안하신 2기 분들은 오늘까지 해주시면 감사하겠습니다~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01Q386CMKQ"
+    ]
+  },
+  {
+    "client_msg_id": "5359B123-0CFA-4879-B39B-CE020891793C",
+    "type": "message",
+    "user": "U01Q386CMKQ",
+    "text": "리마인드 감사합니다 :)",
+    "ts": "1616756149.034600",
+    "thread_ts": "1616737028.034000",
+    "parent_user_id": "U01Q3A8TXU6",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BRTLp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "리마인드 감사합니다 :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826260082339_3eb2f7686c0824cf17e0_72.jpg",
+      "first_name": "Na",
+      "real_name": "Na Yeon Kim",
+      "display_name": "1기_김나연",
+      "team": "T01QA5S537V",
+      "name": "nayeonkim1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

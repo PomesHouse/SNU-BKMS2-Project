@@ -1,0 +1,203 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt; 제 1회 SNU Talk Concert 개최 안내 \u0026gt;\n\n서울대 구성원의 공감과 배려 마음 기르기 노력의 일환으로 코로나19가 야기한 사회적, 심리적 피로감을 인권 차원에서 돌아보고 다양한 구성원의 참여와 토론을 통해 공감대를 형성하는 장을 마련하고자 아래와 같이 제1회「SNU Talk Concert」를 개최하니 관심있는 학생분들의 많은 참여 바랍니다 :slightly_smiling_face:\n\n   ○ 일시: 2021. 5. 20.(목) 16:00\n   ○ 장소: 문화관 중강당 \u0026amp; 유튜브 생중계\n   ○ 주제: 서울대인이 바라본 코로나19와 인권-공감과 배려의 마음 기르기\n   ○ 참여방법: Youtube '서울대학교' 검색 또는 \u003chttp://www.snutalk.co.kr|www.snutalk.co.kr\u003e 접속\n      ※ 오프라인 방청 사전신청(선착순 20명)자에게 기프티콘 및 도서 증정\n   ○ 문의: 학생지원과(02-880-6868)",
+    "ts": "1620786151.076000",
+    "files": [
+      {
+        "id": "F02206APTED",
+        "created": 1620786148,
+        "timestamp": 1620786148,
+        "name": "SNU Talk Concert 안내 포스터.jpg",
+        "title": "SNU Talk Concert 안내 포스터.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 558805,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02206APTED-SNU Talk Concert 안내 포스터.jpg",
+        "url_private_download": "attachments/F02206APTED-SNU Talk Concert 안내 포스터.jpg",
+        "original_h": 1415,
+        "original_w": 1000,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02206APTED-7adef72213/snu_talk_concert__________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02206APTED-7adef72213/snu_talk_concert__________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02206APTED-7adef72213/snu_talk_concert__________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02206APTED-7adef72213/snu_talk_concert__________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 254,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02206APTED-7adef72213/snu_talk_concert__________________480.jpg",
+        "thumb_480_w": 339,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02206APTED-7adef72213/snu_talk_concert__________________720.jpg",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02206APTED-7adef72213/snu_talk_concert__________________960.jpg",
+        "thumb_960_w": 678,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02206APTED-7adef72213/snu_talk_concert__________________1024.jpg",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02206APTED/snu_talk_concert_________________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02206APTED-4eac660cac",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7tkr+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 제 1회 SNU Talk Concert 개최 안내 \u003e\n\n서울대 구성원의 공감과 배려 마음 기르기 노력의 일환으로 코로나19가 야기한 사회적, 심리적 피로감을 인권 차원에서 돌아보고 다양한 구성원의 참여와 토론을 통해 공감대를 형성하는 장을 마련하고자 아래와 같이 제1회「SNU Talk Concert」를 개최하니 관심있는 학생분들의 많은 참여 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n   ○ 일시: 2021. 5. 20.(목) 16:00\n   ○ 장소: 문화관 중강당 \u0026 유튜브 생중계\n   ○ 주제: 서울대인이 바라본 코로나19와 인권-공감과 배려의 마음 기르기\n   ○ 참여방법: Youtube '서울대학교' 검색 또는 "
+              },
+              {
+                "type": "link",
+                "url": "http://www.snutalk.co.kr",
+                "text": "www.snutalk.co.kr"
+              },
+              {
+                "type": "text",
+                "text": " 접속\n      ※ 오프라인 방청 사전신청(선착순 20명)자에게 기프티콘 및 도서 증정\n   ○ 문의: 학생지원과(02-880-6868)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b9fbac47-6a7c-41e1-9f3a-fda3a5f62644",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt; 냉방기 가동 알림 \u0026gt;*\n\n안녕하세요. 아직 하절기 냉방기 가동기간은 아니지만, 연구공간이 덥다는 의견이 있어서 별도 요청을 드렸습니다.\n이에 오늘 부터 냉방기 가동이 가능하오니 참고하시기 바랍니다. :slightly_smiling_face:\n\n• 냉방기 가동시간: 09:00 ~ 18:00\n※ 하절기 냉방기 가동 시 일정은 변경 될 수 있음 (6월 초~중순)\n\n아울러 연구공간에서 마스크를 안쓰고 있는 학생분들이 종종 계시는데, 우리 모두의 위생을 위해 답답하더라도 마스크를 꼭 착용하시기 바랍니다.",
+    "ts": "1620806859.078300",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QaSsN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 냉방기 가동 알림 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요. 아직 하절기 냉방기 가동기간은 아니지만, 연구공간이 덥다는 의견이 있어서 별도 요청을 드렸습니다.\n이에 오늘 부터 냉방기 가동이 가능하오니 참고하시기 바랍니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub0c9\\ubc29\\uae30 \\uac00\\ub3d9\\uc2dc\\uac04: 09:00 ~ 18:00\"}]}],\"style\":\"bullet\",\"indent\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "※ 하절기 냉방기 가동 시 일정은 변경 될 수 있음 (6월 초~중순)\n\n아울러 연구공간에서 마스크를 안쓰고 있는 학생분들이 종종 계시는데, 우리 모두의 위생을 위해 답답하더라도 마스크를 꼭 착용하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "client_msg_id": "69e7430a-9bd6-4c17-88c2-458e81d9df2c",
+    "type": "message",
+    "user": "U040C40QE6T",
+    "text": "*[GSDS 생활 공지 및 교내 (음식물) 쓰레기 처리에 관한 당부]*\n\n안녕하세요, 학생회에서 알려드립니다.\n\n대학원 및 학생 규모가 점차적으로 커짐에 따라 교내에서 생기는 (음식물) 쓰레기의 양도 많아졌습니다.\n특히, 주말에는 처리되지 않은 (음식물) 쓰레기가 3,4층 복도 쪽 분리수거 쓰레기통을 채우고도 넘치거나, 음식물이 복도에 흘러나오는 일이 잦아졌습니다.\n이로 인해 교내 위생 및 청결과 관련해서 청소하시는 여사님, 행정실 및 학우분들로부터 지속적인 건의가 들어와 생활 관련 공지를 올리게 되었습니다.\n*서로 배려하면서 깨끗한 환경에서 연구할 수 있도록 아래 사항 협조 부탁드립니다.*\n\n*1. 탕비실 사용*에 관한 당부\n• 해당 공간은 따로 청소 아주머니께서 청소해주시지 않고 랩 차원에서 돌아가면서 청소를 하고 있습니다. 사용하신 뒤 항상 깨끗하게 뒤처리 부탁드립니다.\n• 커피 머신은 3층 탕비실에 있는 드롱기 커피머신을 사용하시면 됩니다. *그 외의 머신들은 랩실 소유입니다*.\n*2. 음식물 처리 및 분리수거에 관한 당부* :pray:\n• *음식물 처리* : *최대한 물기를 제거하여 밀폐된 용기*에 보관 후 *쓰레기통 옆*에 두시면 됩니다.\n• *배달 및 플라스틱 용기* : 깨끗이 물로 헹궈서 넣기 (*일반 쓰레기에 플라스틱 넣지 말 것*. 플라스틱이 씻기 번거로워서 일반 쓰레기에 버릴 경우 일반 쓰레기통의 부피가 불필요하게 커지고, 아주머니께서 정리하시는 데 어려움을 겪으십니다.)\n• *음료 플라스틱 컵* : *얼음까지 제거 후* 플라스틱 통에 버릴 것\n• *스티로폼* : 일반쓰레기로 처리하되, 부피가 일반 쓰레기 봉지 크기를 넘을 경우, *딱지를 구매한 뒤 이를 부착해서 버리셔야 합니다*.\n*3. 냉장고*\n•  냉장고 또한 랩 차원에서 한달에 한 번씩 청소하고 있습니다.\n• 보관하실 때 *냉장고 옆 네임택에 이름과 유통기한을 꼭! 적어서 보관해주세요*.\n• 냉장고 청소할 때 유통기한이 지난 음식은 폐기처리 하고 있습니다.\n• 냉동실은 *매너있게 적당량만* 사용해주세요(냉동식품 대량 구매해서 전체 공간 이용하는 등의 행위는 삼가해주세요\n4. 화장실 사용\n•  화장실도 모두가 사용하는 공간이니 청결하게 사용합시다\n• 손 닦은 휴지 혹은 일반 휴지도 바닥에 버리지 말아주세요.\n*약간은 번거롭더라도 청결한 학내 환경을 위한 조치이오니 많은 협조 부탁드립니다.*\n\n감사합니다.",
+    "ts": "1698298888.824529",
+    "edited": {
+      "user": "U040C40QE6T",
+      "ts": "1698299026.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 21,
+        "users": [
+          "U01QV1SQJ57",
+          "U041B24C16U",
+          "U040C40QE6T",
+          "U02P4QDPG2W",
+          "U0406PM050F",
+          "U05Q2AYCQ8M",
+          "U04R6NRPJC8",
+          "U040ZVCNVU1",
+          "U040ENMTCEA",
+          "U0302PLQ34Y",
+          "U040M7VULN7",
+          "U02V5LT4DLZ",
+          "U04QVM5RKNV",
+          "U02V5LS84JV",
+          "U05QHT3DEDP",
+          "U01QGKC4BM1",
+          "U04R6NS3924",
+          "U04QVM3QD41",
+          "U02ULBJR9GE",
+          "U04QVLEGY3B",
+          "U040MB432JW"
+        ]
+      },
+      {
+        "name": "pray::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U01QGD17SUU"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U0302PLQ34Y",
+          "U02V5LS84JV",
+          "U02ULBHV58W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "29DpR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 생활 공지 및 교내 (음식물) 쓰레기 처리에 관한 당부]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요, 학생회에서 알려드립니다.\n\n대학원 및 학생 규모가 점차적으로 커짐에 따라 교내에서 생기는 (음식물) 쓰레기의 양도 많아졌습니다.\n특히, 주말에는 처리되지 않은 (음식물) 쓰레기가 3,4층 복도 쪽 분리수거 쓰레기통을 채우고도 넘치거나, 음식물이 복도에 흘러나오는 일이 잦아졌습니다.\n이로 인해 교내 위생 및 청결과 관련해서 청소하시는 여사님, 행정실 및 학우분들로부터 지속적인 건의가 들어와 생활 관련 공지를 올리게 되었습니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "서로 배려하면서 깨끗한 환경에서 연구할 수 있도록 아래 사항 협조 부탁드립니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "1. 탕비실 사용",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 관한 당부\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud574\\ub2f9 \\uacf5\\uac04\\uc740 \\ub530\\ub85c \\uccad\\uc18c \\uc544\\uc8fc\\uba38\\ub2c8\\uaed8\\uc11c \\uccad\\uc18c\\ud574\\uc8fc\\uc2dc\\uc9c0 \\uc54a\\uace0 \\ub7a9 \\ucc28\\uc6d0\\uc5d0\\uc11c \\ub3cc\\uc544\\uac00\\uba74\\uc11c \\uccad\\uc18c\\ub97c \\ud558\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4. \\uc0ac\\uc6a9\\ud558\\uc2e0 \\ub4a4 \\ud56d\\uc0c1 \\uae68\\ub057\\ud558\\uac8c \\ub4a4\\ucc98\\ub9ac \\ubd80\\ud0c1\\ub4dc\\ub9bd\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucee4\\ud53c \\uba38\\uc2e0\\uc740 3\\uce35 \\ud0d5\\ube44\\uc2e4\\uc5d0 \\uc788\\ub294 \\ub4dc\\ub871\\uae30 \\ucee4\\ud53c\\uba38\\uc2e0\\uc744 \\uc0ac\\uc6a9\\ud558\\uc2dc\\uba74 \\ub429\\ub2c8\\ub2e4. \"},{\"type\":\"text\",\"text\":\"\\uadf8 \\uc678\\uc758 \\uba38\\uc2e0\\ub4e4\\uc740 \\ub7a9\\uc2e4 \\uc18c\\uc720\\uc785\\ub2c8\\ub2e4\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\".\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "2. 음식물 처리 및 분리수거에 관한 당부 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc74c\\uc2dd\\ubb3c \\ucc98\\ub9ac \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\": \"},{\"type\":\"text\",\"text\":\"\\ucd5c\\ub300\\ud55c \\ubb3c\\uae30\\ub97c \\uc81c\\uac70\\ud558\\uc5ec \\ubc00\\ud3d0\\ub41c \\uc6a9\\uae30\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc5d0 \\ubcf4\\uad00 \\ud6c4 \"},{\"type\":\"text\",\"text\":\"\\uc4f0\\ub808\\uae30\\ud1b5 \\uc606\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc5d0 \\ub450\\uc2dc\\uba74 \\ub429\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc30\\ub2ec \\ubc0f \\ud50c\\ub77c\\uc2a4\\ud2f1 \\uc6a9\\uae30\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" : \\uae68\\ub057\\uc774 \\ubb3c\\ub85c \\ud5f9\\uad88\\uc11c \\ub123\\uae30 (\"},{\"type\":\"text\",\"text\":\"\\uc77c\\ubc18 \\uc4f0\\ub808\\uae30\\uc5d0 \\ud50c\\ub77c\\uc2a4\\ud2f1 \\ub123\\uc9c0 \\ub9d0 \\uac83\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\". \\ud50c\\ub77c\\uc2a4\\ud2f1\\uc774 \\uc53b\\uae30 \\ubc88\\uac70\\ub85c\\uc6cc\\uc11c \\uc77c\\ubc18 \\uc4f0\\ub808\\uae30\\uc5d0 \\ubc84\\ub9b4 \\uacbd\\uc6b0 \\uc77c\\ubc18 \\uc4f0\\ub808\\uae30\\ud1b5\\uc758 \\ubd80\\ud53c\\uac00 \\ubd88\\ud544\\uc694\\ud558\\uac8c \\ucee4\\uc9c0\\uace0, \\uc544\\uc8fc\\uba38\\ub2c8\\uaed8\\uc11c \\uc815\\ub9ac\\ud558\\uc2dc\\ub294 \\ub370 \\uc5b4\\ub824\\uc6c0\\uc744 \\uacaa\\uc73c\\uc2ed\\ub2c8\\ub2e4.)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc74c\\ub8cc \\ud50c\\ub77c\\uc2a4\\ud2f1 \\ucef5 \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\": \"},{\"type\":\"text\",\"text\":\"\\uc5bc\\uc74c\\uae4c\\uc9c0 \\uc81c\\uac70 \\ud6c4\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\ud50c\\ub77c\\uc2a4\\ud2f1 \\ud1b5\\uc5d0 \\ubc84\\ub9b4 \\uac83\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2a4\\ud2f0\\ub85c\\ud3fc\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" : \\uc77c\\ubc18\\uc4f0\\ub808\\uae30\\ub85c \\ucc98\\ub9ac\\ud558\\ub418, \\ubd80\\ud53c\\uac00 \\uc77c\\ubc18 \\uc4f0\\ub808\\uae30 \\ubd09\\uc9c0 \\ud06c\\uae30\\ub97c \\ub118\\uc744 \\uacbd\\uc6b0, \"},{\"type\":\"text\",\"text\":\"\\ub531\\uc9c0\\ub97c \\uad6c\\ub9e4\\ud55c \\ub4a4 \\uc774\\ub97c \\ubd80\\ucc29\\ud574\\uc11c \\ubc84\\ub9ac\\uc154\\uc57c \\ud569\\ub2c8\\ub2e4\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\".\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "3. 냉장고",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\ub0c9\\uc7a5\\uace0 \\ub610\\ud55c \\ub7a9 \\ucc28\\uc6d0\\uc5d0\\uc11c \\ud55c\\ub2ec\\uc5d0 \\ud55c \\ubc88\\uc529 \\uccad\\uc18c\\ud558\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubcf4\\uad00\\ud558\\uc2e4 \\ub54c \"},{\"type\":\"text\",\"text\":\"\\ub0c9\\uc7a5\\uace0 \\uc606 \\ub124\\uc784\\ud0dd\\uc5d0 \\uc774\\ub984\\uacfc \\uc720\\ud1b5\\uae30\\ud55c\\uc744 \\uaf2d! \\uc801\\uc5b4\\uc11c \\ubcf4\\uad00\\ud574\\uc8fc\\uc138\\uc694\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\".\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub0c9\\uc7a5\\uace0 \\uccad\\uc18c\\ud560 \\ub54c \\uc720\\ud1b5\\uae30\\ud55c\\uc774 \\uc9c0\\ub09c \\uc74c\\uc2dd\\uc740 \\ud3d0\\uae30\\ucc98\\ub9ac \\ud558\\uace0 \\uc788\\uc2b5\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub0c9\\ub3d9\\uc2e4\\uc740\"},{\"type\":\"text\",\"text\":\" \\ub9e4\\ub108\\uc788\\uac8c \\uc801\\ub2f9\\ub7c9\\ub9cc\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\uc0ac\\uc6a9\\ud574\\uc8fc\\uc138\\uc694(\\ub0c9\\ub3d9\\uc2dd\\ud488 \\ub300\\ub7c9 \\uad6c\\ub9e4\\ud574\\uc11c \\uc804\\uccb4 \\uacf5\\uac04 \\uc774\\uc6a9\\ud558\\ub294 \\ub4f1\\uc758 \\ud589\\uc704\\ub294 \\uc0bc\\uac00\\ud574\\uc8fc\\uc138\\uc694\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n4. 화장실 사용\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\ud654\\uc7a5\\uc2e4\\ub3c4 \\ubaa8\\ub450\\uac00 \\uc0ac\\uc6a9\\ud558\\ub294 \\uacf5\\uac04\\uc774\\ub2c8 \\uccad\\uacb0\\ud558\\uac8c \\uc0ac\\uc6a9\\ud569\\uc2dc\\ub2e4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc190 \\ub2e6\\uc740 \\ud734\\uc9c0 \\ud639\\uc740 \\uc77c\\ubc18 \\ud734\\uc9c0\\ub3c4 \\ubc14\\ub2e5\\uc5d0 \\ubc84\\ub9ac\\uc9c0 \\ub9d0\\uc544\\uc8fc\\uc138\\uc694.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "약간은 번거롭더라도 청결한 학내 환경을 위한 조치이오니 많은 협조 부탁드립니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김채윤",
+      "real_name": "김채윤",
+      "display_name": "3.5기_김채윤",
+      "team": "T01QA5S537V",
+      "name": "golddohyun",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

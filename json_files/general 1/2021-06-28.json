@@ -1,0 +1,195 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;성균관대 양자컴퓨터 클라우드 시스템 활용 안내\u0026gt;\n\n성균과대학교 양자정보연구지원센터에서 양자컴퓨팅 클라우드 시스템을 도입하여 연구자들이 연구 및 교육에 활용가능하도록 안내하여 공유해 드립니다.\n\n1. 지원사양: IBM Q 양자컴퓨터 클라우드 (최대 65큐비트급 하드웨어를 포함한 20개 이상 양자 컴퓨터 백앤드 제공)\n2. 지원대상: 서울대학교 소속 재학(재직) 중인 모든 구성원\n3. 신청방법: \u003cmailto:q.cloud@skku.edu|q.cloud@skku.edu\u003e (신청서 및 재학(재직)증명서 제출)\n4. 문의: 성균관대 양자정보연구지원센터 \u003ctel:0312994197|031-299-4197\u003e\n\n관련하여 자세한 내용은 첨부의 공문 및 안내문 참고 바랍니다 :slightly_smiling_face:",
+    "ts": "1624846546.093200",
+    "files": [
+      {
+        "id": "F026Q6NN3BK",
+        "created": 1624846530,
+        "timestamp": 1624846530,
+        "name": "[공문] 성균관대 양자컴퓨터 클라우드 시스템 활용 안내.pdf",
+        "title": "[공문] 성균관대 양자컴퓨터 클라우드 시스템 활용 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 152602,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F026Q6NN3BK-[공문] 성균관대 양자컴퓨터 클라우드 시스템 활용 안내.pdf",
+        "url_private_download": "attachments/F026Q6NN3BK-[공문] 성균관대 양자컴퓨터 클라우드 시스템 활용 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F026Q6NN3BK/__________________________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F026Q6NN3BK-b96531e0b4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F026HNSSUA0",
+        "created": 1624846543,
+        "timestamp": 1624846543,
+        "name": "성균관대 양자컴퓨터 클라우드 시스템 활용 안내.zip",
+        "title": "성균관대 양자컴퓨터 클라우드 시스템 활용 안내.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 833472,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F026HNSSUA0-성균관대 양자컴퓨터 클라우드 시스템 활용 안내.zip",
+        "url_private_download": "attachments/F026HNSSUA0-성균관대 양자컴퓨터 클라우드 시스템 활용 안내.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F026HNSSUA0/_________________________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F026HNSSUA0-981ceb8404",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "90AQd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c성균관대 양자컴퓨터 클라우드 시스템 활용 안내\u003e\n\n성균과대학교 양자정보연구지원센터에서 양자컴퓨팅 클라우드 시스템을 도입하여 연구자들이 연구 및 교육에 활용가능하도록 안내하여 공유해 드립니다.\n\n1. 지원사양: IBM Q 양자컴퓨터 클라우드 (최대 65큐비트급 하드웨어를 포함한 20개 이상 양자 컴퓨터 백앤드 제공)\n2. 지원대상: 서울대학교 소속 재학(재직) 중인 모든 구성원\n3. 신청방법: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:q.cloud@skku.edu",
+                "text": "q.cloud@skku.edu"
+              },
+              {
+                "type": "text",
+                "text": " (신청서 및 재학(재직)증명서 제출)\n4. 문의: 성균관대 양자정보연구지원센터 "
+              },
+              {
+                "type": "link",
+                "url": "tel:0312994197",
+                "text": "031-299-4197"
+              },
+              {
+                "type": "text",
+                "text": "\n\n관련하여 자세한 내용은 첨부의 공문 및 안내문 참고 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "client_msg_id": "431d651d-3513-468b-8c45-8ceeaad55008",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;중앙도서관 관정미디어플렉스 시설 이용 안내\u0026gt;\n비대면 수업 및 온라인 행사를 진행 할 수 있는 도서관의 고화질 영상 촬영 공간과 실감 미디어 콘텐츠를 체험하고 교육할 수 있는 공간을 안내드립니다.\n\n1. 이용장소: 관정관(6층) 관정미디어플렉스\n2. 이용시간: (평일) 09:00~17:00\n3. 이용대상: 학내 구성원\n4. 신청방법: 도서관 홈페이지(\u003chttps://lib.snu.ac.kr/\u003e) 또는 모바일 앱을 통한 시설 예약\n5. 세부구성: 붙임파일 참고 \n6. 문의: 관정미디어플렉스(내선: 1159) ",
+    "ts": "1647249172.688689",
+    "files": [
+      {
+        "id": "F036FQE0W5D",
+        "created": 1647249164,
+        "timestamp": 1647249164,
+        "name": "중앙도서관 관정미디어플렉스 시설 현황.hwp",
+        "title": "중앙도서관 관정미디어플렉스 시설 현황.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 9212416,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F036FQE0W5D-중앙도서관 관정미디어플렉스 시설 현황.hwp",
+        "url_private_download": "attachments/F036FQE0W5D-중앙도서관 관정미디어플렉스 시설 현황.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F036FQE0W5D/______________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F036FQE0W5D-3dfdb229b7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lGR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c중앙도서관 관정미디어플렉스 시설 이용 안내\u003e\n비대면 수업 및 온라인 행사를 진행 할 수 있는 도서관의 고화질 영상 촬영 공간과 실감 미디어 콘텐츠를 체험하고 교육할 수 있는 공간을 안내드립니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc6a9\\uc7a5\\uc18c: \\uad00\\uc815\\uad00(6\\uce35) \\uad00\\uc815\\ubbf8\\ub514\\uc5b4\\ud50c\\ub809\\uc2a4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc6a9\\uc2dc\\uac04: (\\ud3c9\\uc77c) 09:00~17:00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc6a9\\ub300\\uc0c1: \\ud559\\ub0b4 \\uad6c\\uc131\\uc6d0\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ubc29\\ubc95: \\ub3c4\\uc11c\\uad00 \\ud648\\ud398\\uc774\\uc9c0(\"},{\"type\":\"link\",\"url\":\"https:\\/\\/lib.snu.ac.kr\\/\"},{\"type\":\"text\",\"text\":\") \\ub610\\ub294 \\ubaa8\\ubc14\\uc77c \\uc571\\uc744 \\ud1b5\\ud55c \\uc2dc\\uc124 \\uc608\\uc57d\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc138\\ubd80\\uad6c\\uc131: \\ubd99\\uc784\\ud30c\\uc77c \\ucc38\\uace0 \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubb38\\uc758: \\uad00\\uc815\\ubbf8\\ub514\\uc5b4\\ud50c\\ub809\\uc2a4(\\ub0b4\\uc120: 1159) \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

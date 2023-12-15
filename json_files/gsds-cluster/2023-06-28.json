@@ -1,0 +1,85 @@
+[
+  {
+    "client_msg_id": "4dab1c87-662c-43d4-9826-970a4072585f",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "\u003c!channel\u003e\n*[서버 이용 공지]*\n7월 1일 (토요일) 오전 8시에서 12시까지 4시간 동안 942동 건물 전체 정전이 예정되어있습니다.\n때문에 942에 설치된 GSDS 모든 서버는 해당 시간동안에 꺼지게 됩니다.\n\n진행 중이던 작업 모두 중단되는 것이니, 주의해서 사용하시기 바랍니다.",
+    "ts": "1687930733.368199",
+    "edited": {
+      "user": "U01R67PKD7S",
+      "ts": "1687930744.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 10,
+        "users": [
+          "U0302PLQ34Y",
+          "U02V5LTUGGH",
+          "U01QGG6A5LJ",
+          "U04QGUFBFR9",
+          "U02B19BV9ST",
+          "U02UVAT3BPW",
+          "U02V5LT4DLZ",
+          "U02ULBH3TEJ",
+          "U040MB432JW",
+          "U01PVEU1A07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BfW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "[서버 이용 공지]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n7월 1일 (토요일) 오전 8시에서 12시까지 4시간 동안 942동 건물 전체 정전이 예정되어있습니다.\n때문에 942에 설치된 GSDS 모든 서버는 해당 시간동안에 꺼지게 됩니다.\n\n진행 중이던 작업 모두 중단되는 것이니, 주의해서 사용하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

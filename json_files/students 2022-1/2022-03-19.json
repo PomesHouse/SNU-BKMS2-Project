@@ -1,0 +1,293 @@
+[
+  {
+    "client_msg_id": "c784bb01-daaf-4709-8acc-9ff109c77dbc",
+    "type": "message",
+    "user": "U01PVEU1A07",
+    "text": "주말에 죄송합니다만 혹시 지금 942동 4층에 계신분 계실까요...?",
+    "ts": "1647668286.993439",
+    "thread_ts": "1647668286.993439",
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U01QZRUNBA4",
+        "ts": "1647668298.535639"
+      },
+      {
+        "user": "U01QZRUNBA4",
+        "ts": "1647668328.579669"
+      },
+      {
+        "user": "U01QGKCT067",
+        "ts": "1647668343.571789"
+      },
+      {
+        "user": "U01PVEU1A07",
+        "ts": "1647668365.771899"
+      }
+    ],
+    "latest_reply": "1647668365.771899",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "01ik",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "주말에 죄송합니다만 혹시 지금 942동 4층에 계신분 계실까요...?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "1기_남기성",
+      "real_name": "1기_남기성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kisung.nam",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U01PVEU1A07",
+      "U01QGKCT067",
+      "U01QZRUNBA4"
+    ]
+  },
+  {
+    "client_msg_id": "26a492a9-2c34-4117-a540-fe94f7c20df3",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": "형 저 3층에 있어요",
+    "ts": "1647668298.535639",
+    "thread_ts": "1647668286.993439",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U01PVEU1A07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0ZRQV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "형 저 3층에 있어요"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "84f6d69e-e4e3-40f9-bd0a-7fcab9d560d7",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": "넹",
+    "ts": "1647668328.579669",
+    "thread_ts": "1647668286.993439",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2QV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넹"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "031f44d3-65d8-45b6-ac9a-6f4bc6d0c161",
+    "type": "message",
+    "user": "U01QGKCT067",
+    "text": "저 4층에 있습니다",
+    "ts": "1647668343.571789",
+    "thread_ts": "1647668286.993439",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 2,
+        "users": [
+          "U01PVEU1A07",
+          "U01QV1PBKUZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2XDOE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저 4층에 있습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c6966545056a08d1f4311a48cc662172.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-72.png",
+      "first_name": "2기_김주현",
+      "real_name": "2기_김주현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kimjoohyoen",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "6a12e79e-1b7f-4985-81a9-423aba12f7fb",
+    "type": "message",
+    "user": "U01PVEU1A07",
+    "text": "아, 잘 해결 되었습니다! 감사합니다",
+    "ts": "1647668365.771899",
+    "thread_ts": "1647668286.993439",
+    "parent_user_id": "U01PVEU1A07",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01QGKCT067"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BT+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아, 잘 해결 되었습니다! 감사합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/c3d0b5eaa2dfd565c5b7c352902a1086.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "1기_남기성",
+      "real_name": "1기_남기성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kisung.nam",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

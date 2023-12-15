@@ -1,0 +1,92 @@
+[
+  {
+    "type": "message",
+    "user": "USLACKBOT",
+    "text": "This message was deleted.",
+    "ts": "1675913915.694709",
+    "thread_ts": "1675913915.694709",
+    "subtype": "tombstone",
+    "hidden": true,
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U02UT2VQ9NF",
+        "ts": "1675914055.203709"
+      }
+    ],
+    "parent_user_id": "USLACKBOT",
+    "latest_reply": "1675914055.203709",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://a.slack-edge.com/80588/img/slackbot_72.png",
+      "first_name": "slackbot",
+      "real_name": "Slackbot",
+      "display_name": "Slackbot",
+      "team": "T01QA5S537V",
+      "name": "slackbot",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02UT2VQ9NF"
+    ]
+  },
+  {
+    "client_msg_id": "2568d538-eb82-4f95-b643-affa37962cee",
+    "type": "message",
+    "user": "U02UT2VQ9NF",
+    "text": "감사합니다~",
+    "ts": "1675914055.203709",
+    "thread_ts": "1675913915.694709",
+    "parent_user_id": "USLACKBOT",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mrZ6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "감사합니다~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+      "first_name": "3기_송종현",
+      "real_name": "3기_송종현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "hyeongoon",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

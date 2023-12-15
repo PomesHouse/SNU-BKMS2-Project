@@ -1,0 +1,172 @@
+[
+  {
+    "client_msg_id": "182d5523-eba3-4b3d-a565-f2d7b6c3e472",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;[주식회사 모레] 2023 채용 설명회 (11/29 13시, 301동 203호)\u0026gt;*\n\n안녕하세요. AI 인프라 소프트웨어를 개발 회사 '주식회사 모레'에서 채용설명회를 개최합니다.\n\n모레는 AI 인프라 소프트웨어 스택의 새로운 개발을 통해 기존 레거시를 대체하며, 초거대 AI 산업의 새로운 표준을 만들고자 하는 회사입니다.\n현재까지 KT, AMD 등으로부터 투자를 받았으며, 다양한 글로벌 탑티어 회사들과 협업하며 빠르게 성장하고 있습니다.\n\n저희의 비전인 The Enabler of future AI와 같이 여정을 함께 떠나고자하는 분들의 많은 참여 바랍니다.\n또한 참여 인원 중 추첨을 통하여 사은품도 증정할 예정이오니 많은 관심 부탁드립니다.\n[* 사은품 : 아이패드, 에어팟3세대, 로지텍 MX3 마스터 무소음 마우스 / 참가자 전원에게 소정의 기념품 증정]\n\n* 일  정 : 2023.11.29(수) 13:00~14:00\n* 장  소 : 301동 203호\n* 대  상 : 초거대 AI를 위한 인프라 소프트웨어 및 클라우드 플랫폼 개발을 통해 AI 산업의 새로운 표준이 되는 여정에 함께하고 싶은 분\n\n모레 대하여 보다 자세한 내용을 알고싶으시다면 홈페이지(\u003chttps://moreh.io/\u003e) 확인 바라며, 문의사항이 있으신 경우 \u003cmailto:contact@moreh.io|contact@moreh.io\u003e로 부탁드립니다.\n감사합니다.",
+    "ts": "1700196856.664619",
+    "attachments": [
+      {
+        "fallback": "Moreh",
+        "id": 1,
+        "title": "Moreh",
+        "title_link": "https://moreh.io/",
+        "text": "The enabler of future AI - making hyperscale AI infrastructure more accessible for scaling any AI model and application",
+        "image_url": "https://moreh.io/static/img/seo-img.png",
+        "service_name": "moreh.io",
+        "service_icon": "https://moreh.io/static/icon/fa.png",
+        "from_url": "https://moreh.io/",
+        "original_url": "https://moreh.io/",
+        "blocks": null
+      }
+    ],
+    "files": [
+      {
+        "id": "F066K265SRF",
+        "created": 1700196851,
+        "timestamp": 1700196851,
+        "name": "모레_채용 포스터(A3)_채용설명회_최종.pdf",
+        "title": "모레_채용 포스터(A3)_채용설명회_최종.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2671567,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F066K265SRF-모레_채용 포스터(A3)_채용설명회_최종.pdf",
+        "url_private_download": "attachments/F066K265SRF-모레_채용 포스터(A3)_채용설명회_최종.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F066K265SRF/________________________a3________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F066K265SRF-8d6724c19f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 5,
+        "users": [
+          "U02V5LT4DLZ",
+          "U01R67PKD7S",
+          "U02V5LU4ED7",
+          "U04Q2G465SB",
+          "U02UVAT3BPW"
+        ]
+      },
+      {
+        "name": "pray",
+        "count": 2,
+        "users": [
+          "U02V5LU4ED7",
+          "U02UVAT3BPW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UQm55",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c[주식회사 모레] 2023 채용 설명회 (11/29 13시, 301동 203호)\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요. AI 인프라 소프트웨어를 개발 회사 '주식회사 모레'에서 채용설명회를 개최합니다.\n\n모레는 AI 인프라 소프트웨어 스택의 새로운 개발을 통해 기존 레거시를 대체하며, 초거대 AI 산업의 새로운 표준을 만들고자 하는 회사입니다.\n현재까지 KT, AMD 등으로부터 투자를 받았으며, 다양한 글로벌 탑티어 회사들과 협업하며 빠르게 성장하고 있습니다.\n\n저희의 비전인 The Enabler of future AI와 같이 여정을 함께 떠나고자하는 분들의 많은 참여 바랍니다.\n또한 참여 인원 중 추첨을 통하여 사은품도 증정할 예정이오니 많은 관심 부탁드립니다.\n[* 사은품 : 아이패드, 에어팟3세대, 로지텍 MX3 마스터 무소음 마우스 / 참가자 전원에게 소정의 기념품 증정]\n\n* 일  정 : 2023.11.29(수) 13:00~14:00\n* 장  소 : 301동 203호\n* 대  상 : 초거대 AI를 위한 인프라 소프트웨어 및 클라우드 플랫폼 개발을 통해 AI 산업의 새로운 표준이 되는 여정에 함께하고 싶은 분\n\n모레 대하여 보다 자세한 내용을 알고싶으시다면 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "https://moreh.io/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ") 확인 바라며, 문의사항이 있으신 경우 "
+              },
+              {
+                "type": "link",
+                "url": "mailto:contact@moreh.io",
+                "text": "contact@moreh.io"
+              },
+              {
+                "type": "text",
+                "text": "로 부탁드립니다.\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

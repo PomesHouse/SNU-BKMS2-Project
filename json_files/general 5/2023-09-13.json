@@ -1,0 +1,670 @@
+[
+  {
+    "client_msg_id": "ffbb033d-e5f3-4438-884f-4c8f7eef62b9",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;*75동 앞 순환도로 교통통제 안내(9.16.(토) 07~17시)*\u0026gt;\n\n시설기획과-5316(2023.9.13.) 관련, *75동 앞 순환도로 교통 통제*를 안내드리오니, 이번주 토요일에 학교에 나오시는 경우 확인하여 주시기 바랍니다.\n\nㅇ 교통 통제 일시: *2023. 9. 16.(토) 오전 7시 ~ 오후 5시*\n\nㅇ 교통 통제 사유: 75동 재건축 공사 타워크레인 해체 및 반출\n\nㅇ 협조 사항\n - *통제 시간 중 75동 전면 순환도로 구간은 차량 교대통행(신호수 배치)*\n - 차량 및 보행자 불편에 대한 양해",
+    "ts": "1694564508.929309",
+    "files": [
+      {
+        "id": "F05SRUDPXLG",
+        "created": 1694564503,
+        "timestamp": 1694564503,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 671381,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05SRUDPXLG-image.png",
+        "url_private_download": "attachments/F05SRUDPXLG-image.png",
+        "original_h": 810,
+        "original_w": 1413,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05SRUDPXLG-57dbbfec90/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05SRUDPXLG-57dbbfec90/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05SRUDPXLG-57dbbfec90/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05SRUDPXLG-57dbbfec90/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 206,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05SRUDPXLG-57dbbfec90/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 275,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05SRUDPXLG-57dbbfec90/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 413,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05SRUDPXLG-57dbbfec90/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 550,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05SRUDPXLG-57dbbfec90/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 587,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SRUDPXLG/image.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05SRUDPXLG-c5c617a840",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "X6Q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c"
+              },
+              {
+                "type": "text",
+                "text": "75동 앞 순환도로 교통통제 안내(9.16.(토) 07~17시)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\u003e\n\n시설기획과-5316(2023.9.13.) 관련, "
+              },
+              {
+                "type": "text",
+                "text": "75동 앞 순환도로 교통 통제",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "를 안내드리오니, 이번주 토요일에 학교에 나오시는 경우 확인하여 주시기 바랍니다.\n\nㅇ 교통 통제 일시: "
+              },
+              {
+                "type": "text",
+                "text": "2023. 9. 16.(토) 오전 7시 ~ 오후 5시",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nㅇ 교통 통제 사유: 75동 재건축 공사 타워크레인 해체 및 반출\n\nㅇ 협조 사항\n - "
+              },
+              {
+                "type": "text",
+                "text": "통제 시간 중 75동 전면 순환도로 구간은 차량 교대통행(신호수 배치)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n - 차량 및 보행자 불편에 대한 양해"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "82f46b5f-c9b8-4636-a0b9-ad7b03c30fae",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023 가을 축제 폐막제 입장 관련 알림\u0026gt;\n\n2023 가을 축제 폐막제 입장 안내사항 및 관련 유의사항을 아래와 같이 안내하여 드리오니 참고하시기 바랍니다.\n\nㅇ*입장 안내사항*\n     입장대상: 관람구역(A, B구역: [붙임] 참조)에 대하여 *구성원만 입장 가능*\n     입장시간: *폐막제 당일 15시부터 입장*\n     인원제한: A구역 만석 시 B구역으로 입장하며, B구역 만석 시 관람구역 입장 통제\n     ※ 세부 사항: 서울대학교 축제하는 사람들 인스타그램(\u003chttps://www.instagram.com/snufestival/\u003e) 참조\n\nㅇ*관련 유의사항*\n     관람구역(A, B구역) 퇴장 후 재입장 불가\n     *버들골 인근 차량 통행 통제*(마을버스 관악02 포함)\n      - 통제 일시: 2023. 9. 14.(목) 21:30 ~ 23:00\n      - 통제 구역: 풍산마당 진출입로 ~ 파스쿠찌 인근",
+    "ts": "1694568299.245419",
+    "files": [
+      {
+        "id": "F05SFNU2T4Z",
+        "created": 1694568295,
+        "timestamp": 1694568295,
+        "name": "2023 가을축제 폐막제 입장 안내.pdf",
+        "title": "2023 가을축제 폐막제 입장 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 786885,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05SFNU2T4Z-2023 가을축제 폐막제 입장 안내.pdf",
+        "url_private_download": "attachments/F05SFNU2T4Z-2023 가을축제 폐막제 입장 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SFNU2T4Z/2023_____________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05SFNU2T4Z-c4b31beac6",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8cEz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023 가을 축제 폐막제 입장 관련 알림\u003e\n\n2023 가을 축제 폐막제 입장 안내사항 및 관련 유의사항을 아래와 같이 안내하여 드리오니 참고하시기 바랍니다.\n\nㅇ"
+              },
+              {
+                "type": "text",
+                "text": "입장 안내사항",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n     입장대상: 관람구역(A, B구역: [붙임] 참조)에 대하여 "
+              },
+              {
+                "type": "text",
+                "text": "구성원만 입장 가능",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n     입장시간:"
+              },
+              {
+                "type": "text",
+                "text": " 폐막제 당일 15시부터 입장",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n     인원제한: A구역 만석 시 B구역으로 입장하며, B구역 만석 시 관람구역 입장 통제\n     ※ 세부 사항: 서울대학교 축제하는 사람들 인스타그램("
+              },
+              {
+                "type": "link",
+                "url": "https://www.instagram.com/snufestival/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ") 참조\n\nㅇ"
+              },
+              {
+                "type": "text",
+                "text": "관련 유의사항",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n     관람구역(A, B구역) 퇴장 후 재입장 불가\n    "
+              },
+              {
+                "type": "text",
+                "text": " 버들골 인근 차량 통행 통제",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "(마을버스 관악02 포함)\n      - 통제 일시: 2023. 9. 14.(목) 21:30 ~ 23:00\n      - 통제 구역: 풍산마당 진출입로 ~ 파스쿠찌 인근"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1dcec9e3-246a-4e14-8321-8280c0c915a1",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023학년도 2학기 개설 교양 교과목 성적평가방법 변경 안내\u0026gt;\n\n2023학년도 2학기 개설 교양 교과목 중 성적평가방법 변경이 가능한 교과목의 변경 기간 및 방법을 안내드리니 평가방법 변경을 원하는 학생들이 기간 내 변경해주시기 바랍니다.\nㅇ대상과목: 붙임 참조\n ※ 기본 성적평가방법은 “A~F”이며, 성적평가방법 변경 선택시 “S/U”로 변경\n   (단,‘산과 인생’,‘융합주제강좌‘, '창의와 탐구’교과목의 기본 성적평가방법은 “S/U”이며, 변경 선택시 “A~F”로 변경됨)\nㅇ선택기한: 2023. 9. 25.(월) 23:59까지\nㅇ 성적평가방법 변경은 정해진 기간동안만 가능(추가조치 불가)하니, 기간내에 꼭 신청 완료하여 주시기 바랍니다.",
+    "ts": "1694580889.936439",
+    "files": [
+      {
+        "id": "F05SG8TEA01",
+        "created": 1694580880,
+        "timestamp": 1694580880,
+        "name": "교양교과목 성적평가방법 변경 매뉴얼.hwp",
+        "title": "교양교과목 성적평가방법 변경 매뉴얼.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 202240,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05SG8TEA01-교양교과목 성적평가방법 변경 매뉴얼.hwp",
+        "url_private_download": "attachments/F05SG8TEA01-교양교과목 성적평가방법 변경 매뉴얼.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05SG8TEA01/___________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05SG8TEA01-de62a00a37",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05RP3R7NR5",
+        "created": 1694580883,
+        "timestamp": 1694580883,
+        "name": "성적평가방법 변경 가능 교양 교과목(강좌) 목록 (2023학년도 2학기).xlsx",
+        "title": "성적평가방법 변경 가능 교양 교과목(강좌) 목록 (2023학년도 2학기).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "image_exif_rotation": 0,
+        "filetype": "xlsx",
+        "pretty_type": "Excel 스프레드시트",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 21041,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05RP3R7NR5-성적평가방법 변경 가능 교양 교과목(강좌) 목록 (2023학년도 2학기).xlsx",
+        "url_private_download": "attachments/F05RP3R7NR5-성적평가방법 변경 가능 교양 교과목(강좌) 목록 (2023학년도 2학기).xlsx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05RP3R7NR5/__________________________________________________________________2023__________2_______.xlsx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05RP3R7NR5-ea77cf6c85",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sMg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 2학기 개설 교양 교과목 성적평가방법 변경 안내\u003e\n\n2023학년도 2학기 개설 교양 교과목 중 성적평가방법 변경이 가능한 교과목의 변경 기간 및 방법을 안내드리니 평가방법 변경을 원하는 학생들이 기간 내 변경해주시기 바랍니다.\nㅇ대상과목: 붙임 참조\n ※ 기본 성적평가방법은 “A~F”이며, 성적평가방법 변경 선택시 “S/U”로 변경\n   (단,‘산과 인생’,‘융합주제강좌‘, '창의와 탐구’교과목의 기본 성적평가방법은 “S/U”이며, 변경 선택시 “A~F”로 변경됨)\nㅇ선택기한: 2023. 9. 25.(월) 23:59까지\nㅇ 성적평가방법 변경은 정해진 기간동안만 가능(추가조치 불가)하니, 기간내에 꼭 신청 완료하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1984ee29-e44b-4b04-b769-273618373f10",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023년도 후기 전문연구요원 편입대상자 선발 공고 안내\u0026gt;\n\n2023학년도 후기 자연계 대학원 전문연구요원 편입대상자 선발계획을 알려드리니 신청기간 내에 온란인으로 신청 후 관련 서류 일체를 출력하여 행정실로 제출해주시기 바랍니다.\n가. 서울대 지원자 온라인 신청기간: 2023. 9. 20.(수) ~ 10. 10.(화) 18:00\n나. 신청대상: 자연계 대학원 박사학위과정 수학 중에 있는 자\n다. 행정실 제출 기한: 2023. 10. 10.(화) 18:00",
+    "ts": "1694591715.454439",
+    "files": [
+      {
+        "id": "F05S6NP0XE0",
+        "created": 1694591709,
+        "timestamp": 1694591709,
+        "name": "붙임2. 제출서류_양식 및 온라인 신청 매뉴얼.zip",
+        "title": "붙임2. 제출서류_양식 및 온라인 신청 매뉴얼.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 825585,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05S6NP0XE0-붙임2. 제출서류_양식 및 온라인 신청 매뉴얼.zip",
+        "url_private_download": "attachments/F05S6NP0XE0-붙임2. 제출서류_양식 및 온라인 신청 매뉴얼.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05S6NP0XE0/______2.___________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05S6NP0XE0-248c317b21",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05S49H4S2E",
+        "created": 1694591713,
+        "timestamp": 1694591713,
+        "name": "붙임1. [공고문] 2023년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
+        "title": "붙임1. [공고문] 2023년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 259072,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05S49H4S2E-붙임1. [공고문] 2023년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
+        "url_private_download": "attachments/F05S49H4S2E-붙임1. [공고문] 2023년도 후기 자연계대학원 전문연구요원 편입대상자 선발공고.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05S49H4S2E/______1._____________2023________________________________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05S49H4S2E-378742677c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cemqj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023년도 후기 전문연구요원 편입대상자 선발 공고 안내\u003e\n\n2023학년도 후기 자연계 대학원 전문연구요원 편입대상자 선발계획을 알려드리니 신청기간 내에 온란인으로 신청 후 관련 서류 일체를 출력하여 행정실로 제출해주시기 바랍니다.\n가. 서울대 지원자 온라인 신청기간: 2023. 9. 20.(수) ~ 10. 10.(화) 18:00\n나. 신청대상: 자연계 대학원 박사학위과정 수학 중에 있는 자\n다. 행정실 제출 기한: 2023. 10. 10.(화) 18:00"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

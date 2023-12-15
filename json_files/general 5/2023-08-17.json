@@ -1,0 +1,701 @@
+[
+  {
+    "client_msg_id": "0bacd958-962f-4765-968e-6a1b496a6c7a",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023학년도 2학기 대학문화예술활동 지원사업 신청 안내\u0026gt;\n\n「2023학년도 2학기 대학문화예술활동」지원 계획을 붙임과 같이 알려드리오니 관심 있는 학생께서는 신청하시기 바랍니다.\n  가. 활동시기: 2023학년도 2학기(2023. 9. 1. ∼ 2024. 2. 16.) 약 6개월\n  나. 지원분야: 문학, 미술, 음악, 무용, 연극, 영화, 사진 등 문화·예술분야의 행사\n  다. 신청자격: 학내 문화예술활동 단체[학과(부), 동아리 등]\n  라. 신청기한: 2023. 8. 23.(수)까지 신청서 작성 후 메일 회신(\u003cmailto:changdae@snu.ac.kr|changdae@snu.ac.kr\u003e)",
+    "ts": "1692244406.426589",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1692244443.000000"
+    },
+    "files": [
+      {
+        "id": "F05N3E13U13",
+        "created": 1692244396,
+        "timestamp": 1692244396,
+        "name": "붙임 1. 2023학년도 2학기 대학문화예술활동 지원 계획(안)_발송.pdf",
+        "title": "붙임 1. 2023학년도 2학기 대학문화예술활동 지원 계획(안)_발송.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 256610,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05N3E13U13-붙임 1. 2023학년도 2학기 대학문화예술활동 지원 계획(안)_발송.pdf",
+        "url_private_download": "attachments/F05N3E13U13-붙임 1. 2023학년도 2학기 대학문화예술활동 지원 계획(안)_발송.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05N3E13U13/_______1._2023__________2_________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05N3E13U13-b8741e3005",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05N3E17M7F",
+        "created": 1692244399,
+        "timestamp": 1692244399,
+        "name": "붙임 2. 2023학년도 2학기 대학문화예술활동 지원 신청서(양식).hwp",
+        "title": "붙임 2. 2023학년도 2학기 대학문화예술활동 지원 신청서(양식).hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 47104,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05N3E17M7F-붙임 2. 2023학년도 2학기 대학문화예술활동 지원 신청서(양식).hwp",
+        "url_private_download": "attachments/F05N3E17M7F-붙임 2. 2023학년도 2학기 대학문화예술활동 지원 신청서(양식).hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05N3E17M7F/_______2._2023__________2________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05N3E17M7F-8a4641f6f9",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05N6BJ54LA",
+        "created": 1692244401,
+        "timestamp": 1692244401,
+        "name": "붙임 3. 2023학년도 2학기 대학문화예술활동 지원 신청 명단(단과대학명).xlsx",
+        "title": "붙임 3. 2023학년도 2학기 대학문화예술활동 지원 신청 명단(단과대학명).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "image_exif_rotation": 0,
+        "filetype": "xlsx",
+        "pretty_type": "Excel 스프레드시트",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 12852,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05N6BJ54LA-붙임 3. 2023학년도 2학기 대학문화예술활동 지원 신청 명단(단과대학명).xlsx",
+        "url_private_download": "attachments/F05N6BJ54LA-붙임 3. 2023학년도 2학기 대학문화예술활동 지원 신청 명단(단과대학명).xlsx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05N6BJ54LA/_______3._2023__________2_____________________________________________________________________.xlsx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05N6BJ54LA-87459773ca",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5GQQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 2학기 대학문화예술활동 지원사업 신청 안내\u003e\n\n「2023학년도 2학기 대학문화예술활동」지원 계획을 붙임과 같이 알려드리오니 관심 있는 학생께서는 신청하시기 바랍니다.\n  가. 활동시기: 2023학년도 2학기(2023. 9. 1. ∼ 2024. 2. 16.) 약 6개월\n  나. 지원분야: 문학, 미술, 음악, 무용, 연극, 영화, 사진 등 문화·예술분야의 행사\n  다. 신청자격: 학내 문화예술활동 단체[학과(부), 동아리 등]\n  라. 신청기한: 2023. 8. 23.(수)까지 신청서 작성 후 메일 회신("
+              },
+              {
+                "type": "link",
+                "url": "mailto:changdae@snu.ac.kr",
+                "text": "changdae@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "87fd7ec9-df01-42f8-86ec-33e8da31b56c",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023학년도 2학기 지역사회봉사활동 지원사업 신청 안내\u0026gt;\n\n「2023학년도 2학기 지역사회봉사활동」지원 계획을 붙임과 같이 알려드리오니 관심 있는 학생께서는 신청하시기 바랍니다.\n  가. 활동시기: 2023학년도 2학기(2023. 9. 1. ∼ 2024. 2. 16.) 약 6개월\n  나. 지원분야: 지역사회주민을 위한 학생 봉사활동\n  다. 신청자격: 학내 봉사사 단체[학과(부), 동아리 등]\n라. 신청기한: 2023. 8. 23.(수)까지 신청서 작성 후 메일 회신(\u003cmailto:changdae@snu.ac.kr|changdae@snu.ac.kr\u003e)",
+    "ts": "1692244569.982079",
+    "files": [
+      {
+        "id": "F05N8QQ2752",
+        "created": 1692244552,
+        "timestamp": 1692244552,
+        "name": "붙임 1. 2023학년도 2학기 지역사회봉사활동 지원 계획_발송.pdf",
+        "title": "붙임 1. 2023학년도 2학기 지역사회봉사활동 지원 계획_발송.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 252436,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05N8QQ2752-붙임 1. 2023학년도 2학기 지역사회봉사활동 지원 계획_발송.pdf",
+        "url_private_download": "attachments/F05N8QQ2752-붙임 1. 2023학년도 2학기 지역사회봉사활동 지원 계획_발송.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05N8QQ2752/_______1._2023__________2____________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05N8QQ2752-4404df510f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05NW2ZJNRW",
+        "created": 1692244562,
+        "timestamp": 1692244562,
+        "name": "붙임 2. 2023학년도 2학기 지역사회봉사단체 봉사활동 계획서(양식).hwp",
+        "title": "붙임 2. 2023학년도 2학기 지역사회봉사단체 봉사활동 계획서(양식).hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 55296,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05NW2ZJNRW-붙임 2. 2023학년도 2학기 지역사회봉사단체 봉사활동 계획서(양식).hwp",
+        "url_private_download": "attachments/F05NW2ZJNRW-붙임 2. 2023학년도 2학기 지역사회봉사단체 봉사활동 계획서(양식).hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05NW2ZJNRW/_______2._2023__________2______________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05NW2ZJNRW-5cc379d341",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05NK0YU5G9",
+        "created": 1692244564,
+        "timestamp": 1692244564,
+        "name": "붙임 3. 2023학년도 2학기 지역사회봉사활동 지원금 신청 명단(단과대학명)(양식).xlsx",
+        "title": "붙임 3. 2023학년도 2학기 지역사회봉사활동 지원금 신청 명단(단과대학명)(양식).xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "image_exif_rotation": 0,
+        "filetype": "xlsx",
+        "pretty_type": "Excel 스프레드시트",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 12236,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05NK0YU5G9-붙임 3. 2023학년도 2학기 지역사회봉사활동 지원금 신청 명단(단과대학명)(양식).xlsx",
+        "url_private_download": "attachments/F05NK0YU5G9-붙임 3. 2023학년도 2학기 지역사회봉사활동 지원금 신청 명단(단과대학명)(양식).xlsx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05NK0YU5G9/_______3._2023__________2________________________________________________________________________________.xlsx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05NK0YU5G9-4bf6a412ce",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DJH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 2학기 지역사회봉사활동 지원사업 신청 안내\u003e\n\n「2023학년도 2학기 지역사회봉사활동」지원 계획을 붙임과 같이 알려드리오니 관심 있는 학생께서는 신청하시기 바랍니다.\n  가. 활동시기: 2023학년도 2학기(2023. 9. 1. ∼ 2024. 2. 16.) 약 6개월\n  나. 지원분야: 지역사회주민을 위한 학생 봉사활동\n  다. 신청자격: 학내 봉사사 단체[학과(부), 동아리 등]\n라. 신청기한: 2023. 8. 23.(수)까지 신청서 작성 후 메일 회신("
+              },
+              {
+                "type": "link",
+                "url": "mailto:changdae@snu.ac.kr",
+                "text": "changdae@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "80a85257-5dad-476d-b512-c5264aa3909c",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt; 데이터사이언스대학원 행정실 43동 이전에 따른 연락처 안내 \u0026gt;*\n   \n데이터사이언스대학원에서는 *43동 및 43-2동*(데이터사이언스대학원 및 공과대학 강의동) 준공에 따라 *행정실이 다음과 같이 이전*하여 위치 및 연락처를 재차 안내드립니다.\n\n1. *행정실 위치*\n ○ 행정실1(교무, 학생, 서무. (구)942동 317호): *43동 402호*\n ○ 행정실2(연구, BK21 교육연구단. (구) 942동 406호): *43동 501호*\n ○ 942동 행정실(순환근무): 942동 317호(현재와 동일)\n\n*2. 행정실 연락처(전화번호, 이메일)*\n ○ 교원인사: 880-9767 / \u003cmailto:hsi00@snu.ac.kr|hsi00@snu.ac.kr\u003e\n ○ 학생, 수업, 학적 졸업: 880-9768  / \u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e\n ○ 입학, 교과인증과정, 장학, 강사, 홍보: 880-9770 / \u003cmailto:seungchul91@snu.ac.kr|seungchul91@snu.ac.kr\u003e\n ○ 서무, 회계, 물품 및 시설 관리: 880-9769 /  \u003cmailto:changdae@snu.ac.kr|changdae@snu.ac.kr\u003e\n ○ 연구행정 업무, 연구원 발령: 880-9764 /  \u003cmailto:jungeun0331@snu.ac.kr|jungeun0331@snu.ac.kr\u003e\n ○ BK21 교육연구단: 880-9766 /  \u003cmailto:cy1218@snu.ac.kr|cy1218@snu.ac.kr\u003e\n ○ 학(원)장단 업무 지원: 880-9762 / \u003cmailto:aoverme@snu.ac.kr|aoverme@snu.ac.kr\u003e\nㅇ 942동 행정실(순환근무): 880-1350\n\n*3. 참고 연락처*\nㅇ학내 시설물 고장 신고: 바로처리센터(880-2000) / 마이스누-'시설고장신고'에서도 가능\nㅇIT서비스 문의 등 요청: 정보화본부 IT서비스센터(880-8282)\nㅇ긴급신고(화재 등 기타사고): 캠퍼스안전반 \u003ctel:8808118119|880-8112, 8119\u003e",
+    "ts": "1692244967.362299",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FWs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 데이터사이언스대학원 행정실 43동 이전에 따른 연락처 안내 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "   ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n데이터사이언스대학원에서는 "
+              },
+              {
+                "type": "text",
+                "text": "43동 및 43-2동",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "(데이터사이언스대학원 및 공과대학 강의동) 준공에 따라 "
+              },
+              {
+                "type": "text",
+                "text": "행정실이 다음과 같이 이전",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여 위치 및 연락처를 재차 안내드립니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud589\\uc815\\uc2e4 \\uc704\\uce58\",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": " ○ 행정실1(교무, 학생, 서무. (구)942동 317호): "
+              },
+              {
+                "type": "text",
+                "text": "43동 402호",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 행정실2(연구, BK21 교육연구단. (구) 942동 406호): "
+              },
+              {
+                "type": "text",
+                "text": "43동 501호",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 942동 행정실(순환근무): 942동 317호(현재와 동일)\n\n"
+              },
+              {
+                "type": "text",
+                "text": "2. 행정실 연락처(전화번호, 이메일)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 교원인사: 880-9767 / "
+              },
+              {
+                "type": "link",
+                "url": "mailto:hsi00@snu.ac.kr",
+                "text": "hsi00@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 학생, 수업, 학적 졸업: 880-9768  / "
+              },
+              {
+                "type": "link",
+                "url": "mailto:cylim@snu.ac.kr",
+                "text": "cylim@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 입학, 교과인증과정, 장학, 강사, 홍보: 880-9770 / "
+              },
+              {
+                "type": "link",
+                "url": "mailto:seungchul91@snu.ac.kr",
+                "text": "seungchul91@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 서무, 회계, 물품 및 시설 관리: 880-9769 /  "
+              },
+              {
+                "type": "link",
+                "url": "mailto:changdae@snu.ac.kr",
+                "text": "changdae@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 연구행정 업무, 연구원 발령: 880-9764 /  "
+              },
+              {
+                "type": "link",
+                "url": "mailto:jungeun0331@snu.ac.kr",
+                "text": "jungeun0331@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ BK21 교육연구단: 880-9766 /  "
+              },
+              {
+                "type": "link",
+                "url": "mailto:cy1218@snu.ac.kr",
+                "text": "cy1218@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 학(원)장단 업무 지원: 880-9762 / "
+              },
+              {
+                "type": "link",
+                "url": "mailto:aoverme@snu.ac.kr",
+                "text": "aoverme@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\nㅇ 942동 행정실(순환근무): 880-1350\n\n"
+              },
+              {
+                "type": "text",
+                "text": "3. 참고 연락처",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nㅇ학내 시설물 고장 신고: 바로처리센터(880-2000) / 마이스누-'시설고장신고'에서도 가능\nㅇIT서비스 문의 등 요청: 정보화본부 IT서비스센터(880-8282)\nㅇ긴급신고(화재 등 기타사고): 캠퍼스안전반 "
+              },
+              {
+                "type": "link",
+                "url": "tel:8808118119",
+                "text": "880-8112, 8119"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

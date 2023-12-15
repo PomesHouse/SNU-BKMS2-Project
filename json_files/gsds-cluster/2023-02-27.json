@@ -1,0 +1,421 @@
+[
+  {
+    "client_msg_id": "f57121d8-9153-4118-b457-01da18bce0d3",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "업체측에서 서버 저장장치와의 연결을 잠시 끊어야된다고 합니다.\n\n10분뒤 연결이 끊어질 예정이니 진행중이신 작업은 안전한게 중단해주시기 바랍니다.\n\n급하게 연락드려 죄송합니다",
+    "ts": "1677473495.679419",
+    "thread_ts": "1677143304.651299",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d/Sg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "업체측에서 서버 저장장치와의 연결을 잠시 끊어야된다고 합니다.\n\n10분뒤 연결이 끊어질 예정이니 진행중이신 작업은 안전한게 중단해주시기 바랍니다.\n\n급하게 연락드려 죄송합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f57121d8-9153-4118-b457-01da18bce0d3",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "업체측에서 서버 저장장치와의 연결을 잠시 끊어야된다고 합니다.\n\n10분뒤 연결이 끊어질 예정이니 진행중이신 작업은 안전한게 중단해주시기 바랍니다.\n\n급하게 연락드려 죄송합니다",
+    "ts": "1677473495.679419",
+    "thread_ts": "1677143304.651299",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d/Sg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "업체측에서 서버 저장장치와의 연결을 잠시 끊어야된다고 합니다.\n\n10분뒤 연결이 끊어질 예정이니 진행중이신 작업은 안전한게 중단해주시기 바랍니다.\n\n급하게 연락드려 죄송합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9d0637e7-baee-4a72-9623-6409a497fd8d",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "\u003c!channel\u003e \n업체측에서 서버 저장장치와의 연결을 잠시 끊어야된다고 합니다.\n\n10분뒤 연결이 끊어질 예정이니 진행중이신 작업은 안전한게 중단해주시기 바랍니다.\n\n급하게 연락드려 죄송합니다\n(C클러스터만 해당됩니다)",
+    "ts": "1677473529.385879",
+    "thread_ts": "1677473529.385879",
+    "edited": {
+      "user": "U01R67PKD7S",
+      "ts": "1677474076.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01R67PKD7S",
+        "ts": "1677475745.684339"
+      }
+    ],
+    "latest_reply": "1677475745.684339",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U0302PLQ34Y",
+          "U02ULBH3TEJ",
+          "U02UT2VQ9NF",
+          "U02UVAT3BPW"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yKHCw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " \n업체측에서 서버 저장장치와의 연결을 잠시 끊어야된다고 합니다.\n\n10분뒤 연결이 끊어질 예정이니 진행중이신 작업은 안전한게 중단해주시기 바랍니다.\n\n급하게 연락드려 죄송합니다\n(C클러스터만 해당됩니다)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01R67PKD7S"
+    ]
+  },
+  {
+    "client_msg_id": "2f0c0bd1-56b5-42e4-8b6a-58b9dab8c709",
+    "type": "message",
+    "user": "U02ULBJR9GE",
+    "text": "넵 혹시 작업 종료되면 공지해주실 수 있을까요?",
+    "ts": "1677474186.617369",
+    "thread_ts": "1677143304.651299",
+    "parent_user_id": "U01R67PKD7S",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u5L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵 혹시 작업 종료되면 공지해주실 수 있을까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-01-20/2983638894100_12df02be1c8e75168865_72.png",
+      "first_name": "Yeo",
+      "real_name": "Yeo Kwangeun",
+      "display_name": "3기_여광은",
+      "team": "T01QA5S537V",
+      "name": "y.kai.main",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d473a9da-45fc-460c-92d2-20ce3ca18bb8",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "넵, 알겠습니다",
+    "ts": "1677474513.602449",
+    "thread_ts": "1677143304.651299",
+    "parent_user_id": "U01R67PKD7S",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U02ULBJR9GE"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WhRI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "넵, 알겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c3f6c543-92b6-4f84-a5e9-01605ae70205",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "작업 완료하였습니다!",
+    "ts": "1677475745.684339",
+    "thread_ts": "1677473529.385879",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U040ENMBB1C",
+          "U0302PLQ34Y",
+          "U0406PM050F",
+          "U02ULBJR9GE",
+          "U01R678KWP2",
+          "U02V5LSARR7"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aWjVv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "작업 완료하였습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c3f6c543-92b6-4f84-a5e9-01605ae70205",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "작업 완료하였습니다!",
+    "ts": "1677475745.684339",
+    "thread_ts": "1677473529.385879",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U040ENMBB1C",
+          "U0302PLQ34Y",
+          "U0406PM050F",
+          "U02ULBJR9GE",
+          "U01R678KWP2",
+          "U02V5LSARR7"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aWjVv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "작업 완료하였습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

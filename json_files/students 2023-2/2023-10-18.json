@@ -1,0 +1,75 @@
+[
+  {
+    "client_msg_id": "d0a99c3e-28d5-48a7-a460-157bfc47e4cd",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "오늘 43-2동 형광등과 정수기 전원이 나가는 문제가 있었습니다.\n\n시설 기사님께서 말씀하시기로는 형광등 전선과 정수기 전원을 같이 사용하면 안되는데,\n시공사에서 잘못 설계해서 차단기 문제로 이어진거 같다고 하십니다.\n\n결론적으로 형광등은 정상적으로 들어오나 정수기!는 사용이 불가한 상태입니다.\n빠른 시일 내에 조치해주신다고 합니다.\n감사합니다~",
+    "ts": "1697598148.040339",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 11,
+        "users": [
+          "U02ULBHV58W",
+          "U04QKG4K12Q",
+          "U01QAE573J7",
+          "U02BD3EV4DQ",
+          "U02UQ4CMR7X",
+          "U02UQ4D8L2Z",
+          "U0406PM050F",
+          "U01QNSM488Z",
+          "U0302PLQ34Y",
+          "U01PVEU1A07",
+          "U0302PHUHME"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 2,
+        "users": [
+          "U02V5LTRU2V",
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "62ZQs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘 43-2동 형광등과 정수기 전원이 나가는 문제가 있었습니다.\n\n시설 기사님께서 말씀하시기로는 형광등 전선과 정수기 전원을 같이 사용하면 안되는데,\n시공사에서 잘못 설계해서 차단기 문제로 이어진거 같다고 하십니다.\n\n결론적으로 형광등은 정상적으로 들어오나 정수기!는 사용이 불가한 상태입니다.\n빠른 시일 내에 조치해주신다고 합니다.\n감사합니다~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "client_msg_id": "1be0f738-c37d-4599-ae25-ba6746578b46",
+    "type": "message",
+    "user": "U02V5LTUGGH",
+    "text": "안녕하세요. 인과랩 운영위원 3기 박정섭입니다.\n1월 탕비실 청소를 저희 연구실이 맡게 되어 공지드립니다.\n\n1월 31일(화) 오후 3시 30분에 냉장고 및 탕비실 청소를 진행하겠습니다.\n지난달과 마찬가지로 아래 링크의 가이드라인을 참고하셔서 사전에 정리해주시면 감사하겠습니다.\n\n*[사용 및 정리 가이드라인]*\n\u003chttps://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799\u003e\n1. 개인 및 랩실 단위로 사용하는 물품의 경우, 사용자 이름과 유통기한을 적시해주셔야합니다. 하나라도 없는 경우 폐기처분 할 예정입니다.\n2. 사용자 이름과 유통기한을 쓰셔도 과도하게 대량구매하여 냉장고 큰 부분을 차지하는 경우도 폐기처분 대상입니다.\n3. 탕비실 내 보관 장소 또한 개인이나 랩이 사용할 수 없습니다. 정리 대상입니다.\n혹시 청소 전까지 물품을 옮기지 못하는 경우 개인적으로 연락주시거나 아래 댓글 부탁드립니다.",
+    "ts": "1674635162.545659",
+    "attachments": [
+      {
+        "fallback": "[July 25th, 2022 10:52 PM] kimjoohyoen: 안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+        "id": 1,
+        "author_id": "U01QGKCT067",
+        "author_name": "2기_김주현",
+        "author_subname": "2기_김주현",
+        "author_link": "https://snugsds.slack.com/team/U01QGKCT067",
+        "author_icon": "https://secure.gravatar.com/avatar/c6966545056a08d1f4311a48cc662172.jpg?s=48\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-48.png",
+        "text": "안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+        "from_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+        "original_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "Slack Conversation",
+        "ts": 1658814777.571799
+      }
+    ],
+    "edited": {
+      "user": "U02V5LTUGGH",
+      "ts": "1674786196.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 7,
+        "users": [
+          "U0302PK342C",
+          "U02ULBHV58W",
+          "U01QGKD09K5",
+          "U01Q1KFN4JK",
+          "U0302PLQ34Y",
+          "U02UQ4CE0AH",
+          "U02ULBGNF7G"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02UVAT3BPW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zWiay",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 인과랩 운영위원 3기 박정섭입니다.\n1월 탕비실 청소를 저희 연구실이 맡게 되어 공지드립니다.\n\n1월 31일(화) 오후 3시 30분에 냉장고 및 탕비실 청소를 진행하겠습니다.\n지난달과 마찬가지로 아래 링크의 가이드라인을 참고하셔서 사전에 정리해주시면 감사하겠습니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "[사용 및 정리 가이드라인]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac1c\\uc778 \\ubc0f \\ub7a9\\uc2e4 \\ub2e8\\uc704\\ub85c \\uc0ac\\uc6a9\\ud558\\ub294 \\ubb3c\\ud488\\uc758 \\uacbd\\uc6b0, \\uc0ac\\uc6a9\\uc790 \\uc774\\ub984\\uacfc \\uc720\\ud1b5\\uae30\\ud55c\\uc744 \\uc801\\uc2dc\\ud574\\uc8fc\\uc154\\uc57c\\ud569\\ub2c8\\ub2e4. \\ud558\\ub098\\ub77c\\ub3c4 \\uc5c6\\ub294 \\uacbd\\uc6b0 \\ud3d0\\uae30\\ucc98\\ubd84 \\ud560 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc6a9\\uc790 \\uc774\\ub984\\uacfc \\uc720\\ud1b5\\uae30\\ud55c\\uc744 \\uc4f0\\uc154\\ub3c4 \\uacfc\\ub3c4\\ud558\\uac8c \\ub300\\ub7c9\\uad6c\\ub9e4\\ud558\\uc5ec \\ub0c9\\uc7a5\\uace0 \\ud070 \\ubd80\\ubd84\\uc744 \\ucc28\\uc9c0\\ud558\\ub294 \\uacbd\\uc6b0\\ub3c4 \\ud3d0\\uae30\\ucc98\\ubd84 \\ub300\\uc0c1\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud0d5\\ube44\\uc2e4 \\ub0b4 \\ubcf4\\uad00 \\uc7a5\\uc18c \\ub610\\ud55c \\uac1c\\uc778\\uc774\\ub098 \\ub7a9\\uc774 \\uc0ac\\uc6a9\\ud560 \\uc218 \\uc5c6\\uc2b5\\ub2c8\\ub2e4. \\uc815\\ub9ac \\ub300\\uc0c1\\uc785\\ub2c8\\ub2e4.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 청소 전까지 물품을 옮기지 못하는 경우 개인적으로 연락주시거나 아래 댓글 부탁드립니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9ba908df968017d01ea257d95f6b43ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "3기_박정섭",
+      "real_name": "3기_박정섭",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "jeongsup.park.3731",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

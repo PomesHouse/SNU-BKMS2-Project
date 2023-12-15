@@ -1,0 +1,55 @@
+[
+  {
+    "client_msg_id": "63730c82-eb5e-474f-a3c9-795c691fbe74",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;2023학년도 후기 신입생 모집 면접 및 구술고사 보조위원 모집 안내\u0026gt;*\n\n11목, 12금 양일: 김채윤, 김유연, 박수영\n12금만: 김도윤, 한상빈\n\n선착순 마감 완료 감사합니다!",
+    "ts": "1683505489.036449",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NYV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 후기 신입생 모집 면접 및 구술고사 보조위원 모집 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n11목, 12금 양일: 김채윤, 김유연, 박수영\n12금만: 김도윤, 한상빈\n\n선착순 마감 완료 감사합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

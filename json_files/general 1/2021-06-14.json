@@ -1,0 +1,57 @@
+[
+  {
+    "client_msg_id": "771b53ad-efda-49d4-acc4-2b6da0b99ce4",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "오늘 (6월 14일 월요일)  15:30 - 17:00  앰비언트 ai 수업 기말발표가 있습니다. 김형신 교수님께서 시간 되시는 GSDS 분들 302호 오셔서 보셔도 되고 아래 Zoom링크 들어오셔서 보셔도 된다고 하시네요 ^^\n\u003chttps://snu-ac-kr.zoom.us/j/81672291244\u003e",
+    "ts": "1623651145.054700",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1623651215.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vQoP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "오늘 (6월 14일 월요일)  15:30 - 17:00  앰비언트 ai 수업 기말발표가 있습니다. 김형신 교수님께서 시간 되시는 GSDS 분들 302호 오셔서 보셔도 되고 아래 Zoom링크 들어오셔서 보셔도 된다고 하시네요 ^^\n"
+              },
+              {
+                "type": "link",
+                "url": "https://snu-ac-kr.zoom.us/j/81672291244",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

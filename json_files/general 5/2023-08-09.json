@@ -1,0 +1,526 @@
+[
+  {
+    "client_msg_id": "b3d4ea7b-2c80-4473-852c-c9352a6e53d5",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*(중요) \u0026lt; 데이터사이언스대학원 교수실 및 행정실 43동 이전 안내 \u0026gt;*\n    \n데이터사이언스대학원에서는 *43동 및 43-2동*(데이터사이언스대학원 및 공과대학 강의동) 준공에 따라 *교수실 및 행정실이 다음과 같이 이전*하여 안내하오니 학생 여러분께서는 반드시 확인하여 주시기 바랍니다.\n\n1. 이전 일시\n ○ *행정실: 8월 18일(금)*\n ○ *교수실: 8월 18일(금) 이후 개별적으로 이전*\n\n2.  이전 장소\n ○ 행정실1(교무, 학생, 서무. (구)942동 317호): *43동 402호*\n ○ 행정실2(연구, BK21 교육연구단. (구) 942동 406호): *43동 501호*\n ○ 교수실: *43동 4층 및 5층*\n\n3. 안내사항\n ○ 이전 작업에 따라 *8.17.(목)~8.18.(금) 양일간 행정실 민원 응대 등 업무 불가*\n ○ 8.18.(금) 이후 면담 등 교수실 방문 이전에 교수님께 사전 연락하여 교수실 위치 확인\n ○ 8.18.(금) 이후에도 942동 317호 행정실에 직원 근무 예정\n ○ 942동 3층 및 4층 공간은 현재와 같이 계속 사용\n\n4. 업무 연락처: 전화번호는 구내전화 개통하여 이전일 전까지 안내 예정\n ○ 교원인사: \u003cmailto:hsi00@snu.ac.kr|hsi00@snu.ac.kr\u003e\n ○ 학생, 수업, 학적 졸업: \u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e\n ○ 입학, 교과인증과정, 장학, 강사, 홍보: \u003cmailto:seungchul91@snu.ac.kr|seungchul91@snu.ac.kr\u003e\n ○ 서무, 회계, 물품 및 시설 관리: \u003cmailto:changdae@snu.ac.kr|changdae@snu.ac.kr\u003e\n ○ 연구행정 업무, 연구원 발령: \u003cmailto:jungeun0331@snu.ac.kr|jungeun0331@snu.ac.kr\u003e\n ○ BK21 교육연구단: \u003cmailto:cy1218@snu.ac.kr|cy1218@snu.ac.kr\u003e\n ○ 학(원)장단 업무 지원: \u003cmailto:aoverme@snu.ac.kr|aoverme@snu.ac.kr\u003e\n\n5. 43동 및 43-2동 데이터사이언스대학원 사용 공간\n ○ 43동 4~5층: 원장실, 회의실, 휴게실, 교수실, 행정실 등\n ○ 43-2동 지하 1층 및 1층: 계단식 강의실(B102호, 148석), 학생연구공간(101호, 117호, 118호(총 50석)) → 향후 공간 사용에 대해 별도 안내 예정\n ※ 그 밖에 공간은 공과대학 사용 공간임\n\n붙임 43동 및 43-2동 위치 안내도 1부. 끝.",
+    "ts": "1691550627.374959",
+    "files": [
+      {
+        "id": "F05LYJG7QBC",
+        "created": 1691550587,
+        "timestamp": 1691550587,
+        "name": "43동 및 43-2동 위치 안내도.png",
+        "title": "43동 및 43-2동 위치 안내도.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 7521222,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05LYJG7QBC-43동 및 43-2동 위치 안내도.png",
+        "url_private_download": "attachments/F05LYJG7QBC-43동 및 43-2동 위치 안내도.png",
+        "original_h": 1920,
+        "original_w": 1484,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05LYJG7QBC-6cde85b6a0/43________43-2_____________________64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05LYJG7QBC-6cde85b6a0/43________43-2_____________________80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05LYJG7QBC-6cde85b6a0/43________43-2_____________________160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05LYJG7QBC-6cde85b6a0/43________43-2_____________________360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 278,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05LYJG7QBC-6cde85b6a0/43________43-2_____________________480.png",
+        "thumb_480_w": 371,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05LYJG7QBC-6cde85b6a0/43________43-2_____________________720.png",
+        "thumb_720_w": 557,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05LYJG7QBC-6cde85b6a0/43________43-2_____________________960.png",
+        "thumb_960_w": 742,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05LYJG7QBC-6cde85b6a0/43________43-2_____________________1024.png",
+        "thumb_1024_w": 791,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05LYJG7QBC/43________43-2____________________.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05LYJG7QBC-d30001318e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kmm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(중요) \u003c 데이터사이언스대학원 교수실 및 행정실 43동 이전 안내 \u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "    ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n데이터사이언스대학원에서는 "
+              },
+              {
+                "type": "text",
+                "text": "43동 및 43-2동",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "(데이터사이언스대학원 및 공과대학 강의동) 준공에 따라 "
+              },
+              {
+                "type": "text",
+                "text": "교수실 및 행정실이 다음과 같이 이전",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여 안내하오니 학생 여러분께서는 반드시 확인하여 주시기 바랍니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc804 \\uc77c\\uc2dc\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": " ○"
+              },
+              {
+                "type": "text",
+                "text": " 행정실: 8월 18일(금)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n ○ "
+              },
+              {
+                "type": "text",
+                "text": "교수실: 8월 18일(금) 이후 개별적으로 이전",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n2.  이전 장소\n ○ 행정실1(교무, 학생, 서무. (구)942동 317호): "
+              },
+              {
+                "type": "text",
+                "text": "43동 402호",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 행정실2(연구, BK21 교육연구단. (구) 942동 406호): "
+              },
+              {
+                "type": "text",
+                "text": "43동 501호",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 교수실: "
+              },
+              {
+                "type": "text",
+                "text": "43동 4층 및 5층",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n3. 안내사항\n ○ 이전 작업에 따라"
+              },
+              {
+                "type": "text",
+                "text": " 8.17.(목)~8.18.(금) 양일간 행정실 민원 응대 등 업무 불가",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 8.18.(금) 이후 면담 등 교수실 방문 이전에 교수님께 사전 연락하여 교수실 위치 확인\n ○ 8.18.(금) 이후에도 942동 317호 행정실에 직원 근무 예정\n ○ 942동 3층 및 4층 공간은 현재와 같이 계속 사용\n\n4. 업무 연락처: 전화번호는 구내전화 개통하여 이전일 전까지 안내 예정\n ○ 교원인사: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:hsi00@snu.ac.kr",
+                "text": "hsi00@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 학생, 수업, 학적 졸업: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:cylim@snu.ac.kr",
+                "text": "cylim@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 입학, 교과인증과정, 장학, 강사, 홍보: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:seungchul91@snu.ac.kr",
+                "text": "seungchul91@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 서무, 회계, 물품 및 시설 관리: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:changdae@snu.ac.kr",
+                "text": "changdae@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 연구행정 업무, 연구원 발령: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:jungeun0331@snu.ac.kr",
+                "text": "jungeun0331@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ BK21 교육연구단: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:cy1218@snu.ac.kr",
+                "text": "cy1218@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n ○ 학(원)장단 업무 지원: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:aoverme@snu.ac.kr",
+                "text": "aoverme@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n\n5. 43동 및 43-2동 데이터사이언스대학원 사용 공간\n ○ 43동 4~5층: 원장실, 회의실, 휴게실, 교수실, 행정실 등\n ○ 43-2동 지하 1층 및 1층: 계단식 강의실(B102호, 148석), 학생연구공간(101호, 117호, 118호(총 50석)) → 향후 공간 사용에 대해 별도 안내 예정\n ※ 그 밖에 공간은 공과대학 사용 공간임\n\n붙임 43동 및 43-2동 위치 안내도 1부. 끝."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4e4ceb56-90c6-47d1-b124-3d839b5f3f4a",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;Oracle VirtualBox Extension Pack 불법사용 주의안내\u0026gt;\n\n1. 최근 Oracle 사에서 학내 VirtualBox Extension Pack 다운로드 기록을 바탕으로 불법사용 관련 사용자 확인 요청이 지속적으로 발생하고 있습니다.\n\n2. VirtualBox Extension Pack 은, VirtualBox Extension Pack Personal Use and Evaluation License (PUEL) 라이선스 정책을 따르고 있습니다. 따라서 개인용으로는 사용할 수 있으나, *학교 및 기관내 네트워크에서 사용 시* *라이선스를 구입하여 사용*하여야 합니다.\n\n3. *연구 및 업무에 해당 소프트웨어가 필요한 경우 라이선스 구입을 진행*하여 주시고 그렇지 않은 경우, *대안 무료 소프트웨어를 사용해 주시기 바랍니다.*\n    - *대안 무료 소프트웨어: QEMU (Windows, Mac, Linux), Microsoft Hyper-V (Windows), Xen (Linux)*\n    ** SW 불법 이용의 책임은 사용자에 있으며 저작권법 136조 등에 따라 처벌을 받을 수 있습니다.*",
+    "ts": "1691554806.131779",
+    "files": [
+      {
+        "id": "F05LJ7T0007",
+        "created": 1691554801,
+        "timestamp": 1691554801,
+        "name": "붙임1_버추얼박스 확장팩 설치 확인 및 삭제 방법.hwp",
+        "title": "붙임1_버추얼박스 확장팩 설치 확인 및 삭제 방법.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 209408,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05LJ7T0007-붙임1_버추얼박스 확장팩 설치 확인 및 삭제 방법.hwp",
+        "url_private_download": "attachments/F05LJ7T0007-붙임1_버추얼박스 확장팩 설치 확인 및 삭제 방법.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05LJ7T0007/______1__________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05LJ7T0007-b97667af3a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05LYPS9U10",
+        "created": 1691554803,
+        "timestamp": 1691554803,
+        "name": "VirtualBox_PUEL – Oracle VM VirtualBox.pdf",
+        "title": "VirtualBox_PUEL – Oracle VM VirtualBox.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 94403,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05LYPS9U10-VirtualBox_PUEL – Oracle VM VirtualBox.pdf",
+        "url_private_download": "attachments/F05LYPS9U10-VirtualBox_PUEL – Oracle VM VirtualBox.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05LYPS9U10/virtualbox_puel_____oracle_vm_virtualbox.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05LYPS9U10-76fa4389f8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YVA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003cOracle VirtualBox Extension Pack 불법사용 주의안내\u003e\n\n1. 최근 Oracle 사에서 학내 VirtualBox Extension Pack 다운로드 기록을 바탕으로 불법사용 관련 사용자 확인 요청이 지속적으로 발생하고 있습니다.\n\n2. VirtualBox Extension Pack 은, VirtualBox Extension Pack Personal Use and Evaluation License (PUEL) 라이선스 정책을 따르고 있습니다. 따라서 개인용으로는 사용할 수 있으나, "
+              },
+              {
+                "type": "text",
+                "text": "학교 및 기관내 네트워크에서 사용 시",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "라이선스를 구입하여 사용",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여야 합니다.\n\n3. "
+              },
+              {
+                "type": "text",
+                "text": "연구 및 업무에 해당 소프트웨어가 필요한 경우 라이선스 구입을 진행",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여 주시고 그렇지 않은 경우,"
+              },
+              {
+                "type": "text",
+                "text": " 대안 무료 소프트웨어를 사용해 주시기 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    - "
+              },
+              {
+                "type": "text",
+                "text": "대안 무료 소프트웨어: QEMU (Windows, Mac, Linux), Microsoft Hyper-V (Windows), Xen (Linux)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "    * SW 불법 이용의 책임은 사용자에 있으며 저작권법 136조 등에 따라 처벌을 받을 수 있습니다.",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

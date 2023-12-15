@@ -1,0 +1,622 @@
+[
+  {
+    "client_msg_id": "73f3fd65-83b0-494b-85dc-cb01e56d3d19",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "성적증명서 4.0 및 4.5 환산 평점평균 표기 안내\n\n「서울대학교 학업성적 처리 규정」제11조(성적등급의 환산) 개정에 따라 성적증명서 발급 시 4.0 및 4.5 환산 평점기준 표기 기능이 신설되어 알려드립니다.\n\n□ 신청방법\n      - 메뉴: 학생 mySNU-학사정보-증명/확인서-증명/확인서발급-인터넷 발급\n      - 신청: 성적증명서 비고란에서 4.0 및 4.5 기준 평점평균 표시 체크",
+    "ts": "1667176448.147309",
+    "files": [
+      {
+        "id": "F048QR41RU2",
+        "created": 1667176436,
+        "timestamp": 1667176436,
+        "name": "성적증명서 4.0 및 4.5 환산 평점평균 표기 안내(Guidelines for Getiing an Academic Transcript with GPA on 4.0 \u0026 4. (1).pdf",
+        "title": "성적증명서 4.0 및 4.5 환산 평점평균 표기 안내(Guidelines for Getiing an Academic Transcript with GPA on 4.0 \u0026amp; 4. (1).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 312026,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048QR41RU2-성적증명서 4.0 및 4.5 환산 평점평균 표기 안내(Guidelines for Getiing an Academic Transcript with GPA on 4.0 \u0026 4. (1).pdf",
+        "url_private_download": "attachments/F048QR41RU2-성적증명서 4.0 및 4.5 환산 평점평균 표기 안내(Guidelines for Getiing an Academic Transcript with GPA on 4.0 \u0026 4. (1).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048QR41RU2/________________4.0_____4.5___________________________________guidelines_for_getiing_an_academic_transcript_with_gpa_on_4.0___4.__1_.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F048QR41RU2-20d7467059",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r=j7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "성적증명서 4.0 및 4.5 환산 평점평균 표기 안내\n\n「서울대학교 학업성적 처리 규정」제11조(성적등급의 환산) 개정에 따라 성적증명서 발급 시 4.0 및 4.5 환산 평점기준 표기 기능이 신설되어 알려드립니다.\n\n□ 신청방법\n      - 메뉴: 학생 mySNU-학사정보-증명/확인서-증명/확인서발급-인터넷 발급\n      - 신청: 성적증명서 비고란에서 4.0 및 4.5 기준 평점평균 표시 체크"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b7b695a4-dd5b-4f76-8db3-be65b6cb722c",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;세미나실 이용 관련 공지사항\u0026gt;\n\n세미나실은 예약 후에 이용해주시기 바라며,\n세미나실에서 예약한 분이 사용 중인 경우 노크 등 없이 문을 열어서 불편을 주는 일이 없도록 해주시기 바랍니다.\n\n세미나실 내부의 사용여부 확인이 어려워서 불가피하게 확인할 경우에도 노크 등으로 내부에서 방해받지 않도록 주의하여 주시기 바랍니다.",
+    "ts": "1667179101.626409",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eP==",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c세미나실 이용 관련 공지사항\u003e\n\n세미나실은 예약 후에 이용해주시기 바라며,\n세미나실에서 예약한 분이 사용 중인 경우 노크 등 없이 문을 열어서 불편을 주는 일이 없도록 해주시기 바랍니다.\n\n세미나실 내부의 사용여부 확인이 어려워서 불가피하게 확인할 경우에도 노크 등으로 내부에서 방해받지 않도록 주의하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "268f6ca2-8e9c-405d-bd5e-32a500d50a98",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022학년도 동계 Study Abroad Program [SAP] 참가자 추가모집 공고\n가. 일정\n    1. 신청서 제출: *2022. 11. 4.(금) 오후 4시까지* *\u0026lt;지원자 → 국제협력본부\u0026gt;*\n   2. 1차 합격자 발표: 2022. 11. 7.(월), 개별 안내\n    3. 면접: 2022. 11. 8. ~ 11. 11. 중 1일, 개별 안내\n    4. 최종 합격자 발표: 2022. 11월 내\n 나. 문의: 국제협력본부 김유리 (\u003cmailto:yrkim25@snu.ac.kr|yrkim25@snu.ac.kr\u003e/02-880-4357)",
+    "ts": "1667179801.710509",
+    "files": [
+      {
+        "id": "F048QTXPZTL",
+        "created": 1667179440,
+        "timestamp": 1667179440,
+        "name": "3. 양식 및 가이드라인.zip",
+        "title": "3. 양식 및 가이드라인.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 974362,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048QTXPZTL-3. 양식 및 가이드라인.zip",
+        "url_private_download": "attachments/F048QTXPZTL-3. 양식 및 가이드라인.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048QTXPZTL/3.___________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F048QTXPZTL-0542558053",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F048TC4A6RJ",
+        "created": 1667179443,
+        "timestamp": 1667179443,
+        "name": "1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 추가모집 공고문.hwp",
+        "title": "1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 추가모집 공고문.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 51712,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048TC4A6RJ-1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 추가모집 공고문.hwp",
+        "url_private_download": "attachments/F048TC4A6RJ-1. 2022학년도 동계 Study Abroad Program (SAP) 참가자 추가모집 공고문.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048TC4A6RJ/1._2022_________________study_abroad_program__sap__________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F048TC4A6RJ-4f9c87feb6",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F048JA9C3QW",
+        "created": 1667179444,
+        "timestamp": 1667179444,
+        "name": "2. 국제협력본부 지정 프로그램 리스트.xlsx",
+        "title": "2. 국제협력본부 지정 프로그램 리스트.xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "image_exif_rotation": 0,
+        "filetype": "xlsx",
+        "pretty_type": "Excel 스프레드시트",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 15404,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048JA9C3QW-2. 국제협력본부 지정 프로그램 리스트.xlsx",
+        "url_private_download": "attachments/F048JA9C3QW-2. 국제협력본부 지정 프로그램 리스트.xlsx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048JA9C3QW/2._________________________________________________.xlsx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F048JA9C3QW-7a0549b3dd",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W2v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022학년도 동계 Study Abroad Program [SAP] 참가자 추가모집 공고\n가. 일정\n    1. 신청서 제출: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 11. 4.(금) 오후 4시까지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "\u003c지원자 → 국제협력본부\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   2. 1차 합격자 발표: 2022. 11. 7.(월), 개별 안내\n    3. 면접: 2022. 11. 8. ~ 11. 11. 중 1일, 개별 안내\n    4. 최종 합격자 발표: 2022. 11월 내\n 나. 문의: 국제협력본부 김유리 ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:yrkim25@snu.ac.kr",
+                "text": "yrkim25@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": "/02-880-4357)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "238d6dcf-7648-45a6-a22f-82585b4143c6",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;이태원 사고 관련자 현황조사 재안내\u0026gt;\n\n2022. 10. 29. 발생한 이태원 사고와 관련하여\n우리 대학원 소속 학생의 부상을 포함한 사고 사례 및 관련된 사항에 대한 의심사례가 있는 경우, *즉시 행정실로 알려주시기 바랍니다.*\n*연락처: 임채연(\u003cmailto:cylim@snu.ac.kr|cylim@snu.ac.kr\u003e, 02-880-1131)*",
+    "ts": "1667180042.202839",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Iv7q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c이태원 사고 관련자 현황조사 재안내\u003e\n\n2022. 10. 29. 발생한 이태원 사고와 관련하여\n우리 대학원 소속 학생의 부상을 포함한 사고 사례 및 관련된 사항에 대한 의심사례가 있는 경우, "
+              },
+              {
+                "type": "text",
+                "text": "즉시 행정실로 알려주시기 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "연락처: 임채연(",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "mailto:cylim@snu.ac.kr",
+                "text": "cylim@snu.ac.kr",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ", 02-880-1131)",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d9534bbb-7fff-48fb-af67-9f94cf95edbf",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;제35회 항공우주전 개최 안내\u0026gt;\n\n공과대학 항공우주공학과에서는 매년 항공우주전을 개최하고 있으며, 제35회 항공우주전에서 항공공학관련 전시물을 선보이고자 하오니 관심 있는 학생들의 참여 부탁드립니다.\n\n  가. 행사명: 제35회 항공우주전\n  나. 행사일시: 2022.11. 2.(수) ~ 3.(목) 10:00 ~ 17:00\n  다. 행사장소: 서울대학교 제1공학관(301동) 1층 복도\n  라. 전시계획(각 동아리 전시 및 설명)\n    - 하나로: 로켓의 본체, 모터, 전자부 전시\n    - 불나비: 플라이트 시뮬레이터 체험 활동, 드론 비행 영상\n    - 3DP: 아두이노 기반 드론, 3D-printed 에어포일, 항공기 모형 등\n    - 인공위성 제작소: gk2A 위성 영상데이터 수신 프로젝트 결과물\n  마. 문의처: 항공우주전 준비위원장(\u003cmailto:ben020410@snu.ac.kr|ben020410@snu.ac.kr\u003e)",
+    "ts": "1667199175.215709",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1667199200.000000"
+    },
+    "files": [
+      {
+        "id": "F048RLQCKGA",
+        "created": 1667199166,
+        "timestamp": 1667199166,
+        "name": "제35회 항공우주전 초대장.pdf",
+        "title": "제35회 항공우주전 초대장.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 25087998,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F048RLQCKGA-제35회 항공우주전 초대장.pdf",
+        "url_private_download": "attachments/F048RLQCKGA-제35회 항공우주전 초대장.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F048RLQCKGA/___35_____________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F048RLQCKGA-21210cd992",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wtw4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c제35회 항공우주전 개최 안내\u003e\n\n공과대학 항공우주공학과에서는 매년 항공우주전을 개최하고 있으며, 제35회 항공우주전에서 항공공학관련 전시물을 선보이고자 하오니 관심 있는 학생들의 참여 부탁드립니다.\n\n  가. 행사명: 제35회 항공우주전\n  나. 행사일시: 2022.11. 2.(수) ~ 3.(목) 10:00 ~ 17:00\n  다. 행사장소: 서울대학교 제1공학관(301동) 1층 복도\n  라. 전시계획(각 동아리 전시 및 설명)\n    - 하나로: 로켓의 본체, 모터, 전자부 전시\n    - 불나비: 플라이트 시뮬레이터 체험 활동, 드론 비행 영상\n    - 3DP: 아두이노 기반 드론, 3D-printed 에어포일, 항공기 모형 등\n    - 인공위성 제작소: gk2A 위성 영상데이터 수신 프로젝트 결과물\n  마. 문의처: 항공우주전 준비위원장("
+              },
+              {
+                "type": "link",
+                "url": "mailto:ben020410@snu.ac.kr",
+                "text": "ben020410@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

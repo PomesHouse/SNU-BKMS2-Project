@@ -1,0 +1,60 @@
+[
+  {
+    "client_msg_id": "7474137b-c725-44a0-b231-cd92daaaa4ce",
+    "type": "message",
+    "user": "U01QAE5A9K5",
+    "text": "[수업용 계정 삭제 공지]\n2021-2학기 수업을 위해 생성했던\nmlvu / shpc / dsaa / spds  계정들을 이번 주말 일괄 삭제 예정입니다.\n\n관련하여 문의 사항 있으신 분은 DM 부탁드립니다!",
+    "ts": "1642134424.001700",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U01PVEU1A07",
+          "U01Q75KNV1T",
+          "U01Q386CMKQ",
+          "U01QAE5DERZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZGev",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[수업용 계정 삭제 공지]\n2021-2학기 수업을 위해 생성했던\nmlvu / shpc / dsaa / spds  계정들을 이번 주말 일괄 삭제 예정입니다.\n\n관련하여 문의 사항 있으신 분은 DM 부탁드립니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "3기_손영준",
+      "real_name": "3기_손영준",
+      "display_name": "3기_손영준",
+      "team": "T01QA5S537V",
+      "name": "jun041577",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "client_msg_id": "1cecd0fe-29ca-493d-8584-336790dcf6b9",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e \u0026lt;2021학년도 2학기 지도교수 배정일정\u0026gt;\n\n2021학년도 2학기 지도교수 배정 일정이 아래와 같이 진행되고 있습니다. 대상자분들께는 개별 연락드려 진행되고 있으나 혹시 누락된 분이 있을 수 있어 전체 공지 드리니 확인하시어 대상자인데 메일 받지 못한 경우 행정실로 연락 주시기 바랍니다.\n\n연구분야 소개 링크 전송\n◦일정: 2021년 12월 24일(금)\n\n면담 진행\n◦일정: 2021년 12월 27일(월) - 12월 30일(목)\n◦교수님 확인서 제출기간: 2021년 12월 31일 (금)\n\n미배정자 신청서 제출\n◦일정: 2021년 12월 31일(금)\n\n지도교수 확정 협의\n◦일정: 2021년 1월 3일(월)\n\n최종 공고\n◦일정: 2021년 1월 4일(화)",
+    "ts": "1640766479.152200",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7JUI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " \u003c2021학년도 2학기 지도교수 배정일정\u003e\n\n2021학년도 2학기 지도교수 배정 일정이 아래와 같이 진행되고 있습니다. 대상자분들께는 개별 연락드려 진행되고 있으나 혹시 누락된 분이 있을 수 있어 전체 공지 드리니 확인하시어 대상자인데 메일 받지 못한 경우 행정실로 연락 주시기 바랍니다.\n\n연구분야 소개 링크 전송\n◦일정: 2021년 12월 24일(금)\n\n면담 진행\n◦일정: 2021년 12월 27일(월) - 12월 30일(목)\n◦교수님 확인서 제출기간: 2021년 12월 31일 (금)\n\n미배정자 신청서 제출\n◦일정: 2021년 12월 31일(금)\n\n지도교수 확정 협의\n◦일정: 2021년 1월 3일(월)\n\n최종 공고\n◦일정: 2021년 1월 4일(화)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

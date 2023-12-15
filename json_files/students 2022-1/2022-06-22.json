@@ -1,0 +1,794 @@
+[
+  {
+    "client_msg_id": "be2a07c7-d9d4-4b0b-b789-19d55f16cf79",
+    "type": "message",
+    "user": "U0302PLQ34Y",
+    "text": "안녕하세요? 3기 채규병입니다.\n\n내일 오전 10시에 기숙사 삼거리에서 GSDS 인원끼리 풋살을 하려고 합니다. 같이 운동하고 싶어서 올려봅니다! 편하게 연락주세요!\n\n• 일시: 6월 23일(목) 오전 10시 \n• 장소: 기숙사 삼거리 풋살장\n• 연락처: \u003ctel:010-8926-0097|010-8926-0097\u003e (채규병)\n* 풋살화 없어도 되고 음료는 아이스 박스로 다 준비되어 있습니다!\n\n목요일 오후 연구실 소개 등 공식 일정 전에 *가볍게* 진행할 예정입니다.\n읽어주셔서 감사합니다.",
+    "ts": "1655862919.331369",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 11,
+        "users": [
+          "U01QAE5DERZ",
+          "U0302PJE83A",
+          "U0302PLQ34Y",
+          "U01Q1KFN4JK",
+          "U01QAE573J7",
+          "U01R689L5KJ",
+          "U02V5LTUGGH",
+          "U02V5LU4ED7",
+          "U02ULBJR9GE",
+          "U0302PKMR6C",
+          "U01Q9KXMSF8"
+        ]
+      },
+      {
+        "name": "soccer",
+        "count": 5,
+        "users": [
+          "U01QV1SQJ57",
+          "U02UVAT3BPW",
+          "U01Q1KFN4JK",
+          "U02V5LU4ED7",
+          "U01QGKD09K5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "s03T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요? 3기 채규병입니다.\n\n내일 오전 10시에 기숙사 삼거리에서 GSDS 인원끼리 풋살을 하려고 합니다. 같이 운동하고 싶어서 올려봅니다! 편하게 연락주세요!\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 6\\uc6d4 23\\uc77c(\\ubaa9) \\uc624\\uc804 10\\uc2dc \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: \\uae30\\uc219\\uc0ac \\uc0bc\\uac70\\ub9ac \\ud48b\\uc0b4\\uc7a5\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5f0\\ub77d\\ucc98: 010-8926-0097 (\\ucc44\\uaddc\\ubcd1)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n* 풋살화 없어도 되고 음료는 아이스 박스로 다 준비되어 있습니다!\n\n목요일 오후 연구실 소개 등 공식 일정 전에 "
+              },
+              {
+                "type": "text",
+                "text": "가볍게",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 진행할 예정입니다.\n읽어주셔서 감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5590776974256_ce997b79a8d558c5ccc5_72.jpg",
+      "first_name": "채규병",
+      "real_name": "채규병",
+      "display_name": "3기_채규병",
+      "team": "T01QA5S537V",
+      "name": "kyubyung91",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3e4770dd-1cba-4c84-a394-017d1e1cade0",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "*[2022-1 GSDS 종강 파티 안내]* \n\n학생회에서 알려드립니다. 내일 우천이 예상되는 관계로 종강 파티 장소가 변동될 예정이니 참고하시길 바랍니다. 종강 파티 세부 사항은 아래와 같습니다.\n\n*장소: 호암교수회관 건물(125동) 지하 1층 크리스탈룸* \n         *(*\u003chttps://hoam.ac.kr/seminar/main_building.php\u003e 참고\n         *우천이 아닐 경우에는 호암교수회관 야외 스누샤 카페에서)* \n\n\n*일자 및 시간: 6월 23일 목요일 18:00~21:00* \n         (3기는 연구실별 설명회가 끝난 뒤에 교수님들과 함께 이동하여 합류 \u0026amp;\n          3.5기 중 참가 희망자는 행정실의 안내에 따라 따로 안내를 받아 참석)\n\n\n*테이블 배치: 총 180석으로 12개씩 15 테이블이 배치됨* \n                    (테이블 별로 편의상 T1, T2,… T10… 로 지정)\n\n\n*입장 절차: 자기 소개용 스티커와 앉을 테이블 스티커 두 개를 교부 받아 입장* \n             (e.g. 3기 손흥민 / T7, T10 : 손흥민 학생은 3기이며,\n             첫 번째 자리 배치 시에는 T7에, 두 번째 자리 배치 시에는 T10에 착석)\n\n\n*종강 파티 일정*\n\n18:00~18:30 - 1 ,2기 입장 / 연구실별 설명회 참석자는 설명회 종료 후 이동\n18:30~19:00 - 전체 참석 인원 자리 착석 및 자유롭게 대화 및 음주\n19:00~20:00 - 오후 7시 경에 첫 번째 전체 자리 이동 (이후에는 개별 이동)\n20:00~21:00 - 오후 8시 경에 두 번째 전체 자리 이동 (이후에는 개별 이동)\n21:00~ - 뒷 정리 (\u0026amp; 교수님들과의 뒷풀이?)\n\n\n*유의사항*\n- 우천이 예상되는 관계로 장소가 야외 카페에서 호암교수회관 실내 건물\n  (크리스탈룸)으로 변경되었습니다. :exclamation:\n- 장소 대관 관계로 *종강파티 시작은* 연구실 설명회와 상관없이 *오후 6시부터입니다.* :clock6:\n- *연구실 설명회 때 제공되는 음식(치킨, 피자*:pizza:*)는 종강파티 예산 중 일부를 나눠서 제공되는 것이므로 설명회 참석 여부와 상관없이 1,2기분들도 드실 수 있습니다.*\n- 우천시 우산을 챙기시되 실내 입장시에 우산의 빗물을 최대한 제거한 뒤에\n  보관 장소에 두고 입장하시길 바랍니다. :closed_umbrella:\n- SNU GSDS의 첫 전체 모임인 만큼 대화 에티켓을 잘 지켜주셔서 모두에게\n  즐겁고 유익한 시간이 될 수 있도록 각별히 신경 써주시길 바랍니다. :man-bowing:\n- *예산 관계상 연구실 설명회 때 제공되는 음식과 파티 때 제공되는 음식/음료가 한정되어 있는 점 양해바랍니다.* :cry:\n (안주의 경우에는 선주문한 음식 외에는 현재 추가 주문이 어려우며, *음료의 경우에는 모든 음식이 나온 뒤에도 개별 부담 하에 주문이 가능*합니다.) :woman-gesturing-no:\n- 가급적 여러 학생 및 교수님과의 교류를 위해서 여러 번에 걸쳐서 테이블을 이동하시는 것을 권장합니다. :running:\n  *(전체가 이동하는 시간은 오후 7시경, 8시경이며, BGM이 들리면 T1의 인원부터 차례로 이동하시면 됩니다.)* :bellhop_bell:\n- *(중요!)* :star2::star2::star2:*연구실이 있는 재학생의 경우 (다양한 교수님과의 교류를 위해서) 본인의 지도교수님과 같은 테이블에는 앉을 수 없는 점에 유의*하시길 바랍니다. *(From 부원장님)* :man-gesturing-no::skin-tone-3:\n- *2022학년도 후기 합격생(3.5기)들도 함께 하는 자리*이오니 이 점 참고해주시길 바랍니다. :raised_hands:\n- 모든 일정이 끝난 뒤에는 *경우에 따라 교수님들과 함께 하는 뒷풀이 자리가 낙성대 근처에서 있을 수도 있으니 참고하시길* 바랍니다. :beers:\n\n유의사항을 잘 살펴보시고 참석하셔서 SNU GSDS의 즐거운 첫 파티가 되길 바랍니다. 혹시 문의사항이 있는 경우에는 학생회(\u003c@U01Q1KFN4JK\u003e, \u003c@U01QGKD09K5\u003e, \u003c@U01QV1PBKUZ\u003e, \u003c@U01QGKCT067\u003e)에 DM을 주시거나 이 글 아래에 댓글로 달아주시면 답변해드리겠습니다. 여러분의 많은 참여와 성원을 부탁드립니다! 감사합니다! :smiley:",
+    "ts": "1655889585.988909",
+    "thread_ts": "1655889585.988909",
+    "attachments": [
+      {
+        "fallback": "서울대학교 호암교수회관",
+        "id": 1,
+        "title": "서울대학교 호암교수회관",
+        "title_link": "https://hoam.ac.kr/seminar/main_building.php",
+        "text": "품격있는 다목적 공간, 서울대학교 호암교수회관을 방문해주셔서 감사합니다.",
+        "service_name": "hoam.ac.kr",
+        "from_url": "https://hoam.ac.kr/seminar/main_building.php",
+        "original_url": "https://hoam.ac.kr/seminar/main_building.php",
+        "blocks": null
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01QV1SQJ57",
+        "ts": "1655899159.509809"
+      }
+    ],
+    "latest_reply": "1655899159.509809",
+    "files": [
+      {
+        "id": "F03LKSDDDEH",
+        "created": 1655889465,
+        "timestamp": 1655889465,
+        "name": "호암교수회관_실내장소.png",
+        "title": "호암교수회관_실내장소.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01Q1KFN4JK",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 890496,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03LKSDDDEH-호암교수회관_실내장소.png",
+        "url_private_download": "attachments/F03LKSDDDEH-호암교수회관_실내장소.png",
+        "original_h": 1804,
+        "original_w": 1590,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03LKSDDDEH-74f405ddd4/__________________________________________________________________________64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03LKSDDDEH-74f405ddd4/__________________________________________________________________________80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03LKSDDDEH-74f405ddd4/__________________________________________________________________________160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03LKSDDDEH-74f405ddd4/__________________________________________________________________________360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 317,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03LKSDDDEH-74f405ddd4/__________________________________________________________________________480.png",
+        "thumb_480_w": 423,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03LKSDDDEH-74f405ddd4/__________________________________________________________________________720.png",
+        "thumb_720_w": 635,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03LKSDDDEH-74f405ddd4/__________________________________________________________________________960.png",
+        "thumb_960_w": 846,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03LKSDDDEH-74f405ddd4/__________________________________________________________________________1024.png",
+        "thumb_1024_w": 903,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F03LKSDDDEH/_________________________________________________________________________.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03LKSDDDEH-93fae7541d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03LNQ5L33L",
+        "created": 1655889483,
+        "timestamp": 1655889483,
+        "name": "크리스탈룸 실내 배치도.png",
+        "title": "크리스탈룸 실내 배치도.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01Q1KFN4JK",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 429487,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03LNQ5L33L-크리스탈룸 실내 배치도.png",
+        "url_private_download": "attachments/F03LNQ5L33L-크리스탈룸 실내 배치도.png",
+        "original_h": 778,
+        "original_w": 1168,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03LNQ5L33L-9a67fe26e6/________________________________________________________________________64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03LNQ5L33L-9a67fe26e6/________________________________________________________________________80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03LNQ5L33L-9a67fe26e6/________________________________________________________________________160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03LNQ5L33L-9a67fe26e6/________________________________________________________________________360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 240,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03LNQ5L33L-9a67fe26e6/________________________________________________________________________480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 320,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03LNQ5L33L-9a67fe26e6/________________________________________________________________________720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 480,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03LNQ5L33L-9a67fe26e6/________________________________________________________________________960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 639,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03LNQ5L33L-9a67fe26e6/________________________________________________________________________1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 682,
+        "permalink": "https://snugsds.slack.com/files/U01Q1KFN4JK/F03LNQ5L33L/_______________________________________________________________________.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03LNQ5L33L-74dc393a8a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 13,
+        "users": [
+          "U01QGKCT067",
+          "U02ULBHV58W",
+          "U01QAE5DERZ",
+          "U01QV1PBKUZ",
+          "U01QGKD09K5",
+          "U02UVAUFSRJ",
+          "U02UT1XABT4",
+          "U02UT1XUGFL",
+          "U02V5LT4DLZ",
+          "U01R689L5KJ",
+          "U01R688KH6U",
+          "U0302PKMR6C",
+          "U01Q75KNV1T"
+        ]
+      },
+      {
+        "name": "star-struck",
+        "count": 2,
+        "users": [
+          "U01QV1SQJ57",
+          "U01R689L5KJ"
+        ]
+      },
+      {
+        "name": "blob-clap",
+        "count": 3,
+        "users": [
+          "U02UVAUFSRJ",
+          "U01R689L5KJ",
+          "U01Q1KQ03PZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n291",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[2022-1 GSDS 종강 파티 안내] ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n학생회에서 알려드립니다. 내일 우천이 예상되는 관계로 종강 파티 장소가 변동될 예정이니 참고하시길 바랍니다. 종강 파티 세부 사항은 아래와 같습니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "장소: 호암교수회관 건물(125동) 지하 1층 크리스탈룸 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "         (",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://hoam.ac.kr/seminar/main_building.php",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " 참고\n         "
+              },
+              {
+                "type": "text",
+                "text": "우천이 아닐 경우에는 호암교수회관 야외 스누샤 카페에서) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n"
+              },
+              {
+                "type": "text",
+                "text": "일자 및 시간: 6월 23일 목요일 18:00~21:00 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n         (3기는 연구실별 설명회가 끝난 뒤에 교수님들과 함께 이동하여 합류 \u0026\n          3.5기 중 참가 희망자는 행정실의 안내에 따라 따로 안내를 받아 참석)\n\n\n"
+              },
+              {
+                "type": "text",
+                "text": "테이블 배치: 총 180석으로 12개씩 15 테이블이 배치됨 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n                    (테이블 별로 편의상 T1, T2,… T10… 로 지정)\n\n\n"
+              },
+              {
+                "type": "text",
+                "text": "입장 절차: 자기 소개용 스티커와 앉을 테이블 스티커 두 개를 교부 받아 입장 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n             (e.g. 3기 손흥민 / T7, T10 : 손흥민 학생은 3기이며,\n             첫 번째 자리 배치 시에는 T7에, 두 번째 자리 배치 시에는 T10에 착석)\n\n\n"
+              },
+              {
+                "type": "text",
+                "text": "종강 파티 일정",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n18:00~18:30 - 1 ,2기 입장 / 연구실별 설명회 참석자는 설명회 종료 후 이동\n18:30~19:00 - 전체 참석 인원 자리 착석 및 자유롭게 대화 및 음주\n19:00~20:00 - 오후 7시 경에 첫 번째 전체 자리 이동 (이후에는 개별 이동)\n20:00~21:00 - 오후 8시 경에 두 번째 전체 자리 이동 (이후에는 개별 이동)\n21:00~ - 뒷 정리 (\u0026 교수님들과의 뒷풀이?)\n\n\n"
+              },
+              {
+                "type": "text",
+                "text": "유의사항",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n- 우천이 예상되는 관계로 장소가 야외 카페에서 호암교수회관 실내 건물\n  (크리스탈룸)으로 변경되었습니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "exclamation",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n- 장소 대관 관계로"
+              },
+              {
+                "type": "text",
+                "text": " 종강파티 시작은",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 연구실 설명회와 상관없이 "
+              },
+              {
+                "type": "text",
+                "text": "오후 6시부터입니다. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "clock6",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n- "
+              },
+              {
+                "type": "text",
+                "text": "연구실 설명회 때 제공되는 음식(치킨, 피자",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ")는 종강파티 예산 중 일부를 나눠서 제공되는 것이므로 설명회 참석 여부와 상관없이 1,2기분들도 드실 수 있습니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n- 우천시 우산을 챙기시되 실내 입장시에 우산의 빗물을 최대한 제거한 뒤에\n  보관 장소에 두고 입장하시길 바랍니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "closed_umbrella",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n- SNU GSDS의 첫 전체 모임인 만큼 대화 에티켓을 잘 지켜주셔서 모두에게\n  즐겁고 유익한 시간이 될 수 있도록 각별히 신경 써주시길 바랍니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "man-bowing",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n- "
+              },
+              {
+                "type": "text",
+                "text": "예산 관계상 연구실 설명회 때 제공되는 음식과 파티 때 제공되는 음식/음료가 한정되어 있는 점 양해바랍니다. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "cry",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n (안주의 경우에는 선주문한 음식 외에는 현재 추가 주문이 어려우며, "
+              },
+              {
+                "type": "text",
+                "text": "음료의 경우에는 모든 음식이 나온 뒤에도 개별 부담 하에 주문이 가능",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "합니다.) "
+              },
+              {
+                "type": "emoji",
+                "name": "woman-gesturing-no",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n- 가급적 여러 학생 및 교수님과의 교류를 위해서 여러 번에 걸쳐서 테이블을 이동하시는 것을 권장합니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "running",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n "
+              },
+              {
+                "type": "text",
+                "text": " (전체가 이동하는 시간은 오후 7시경, 8시경이며, BGM이 들리면 T1의 인원부터 차례로 이동하시면 됩니다.) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "bellhop_bell",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n- "
+              },
+              {
+                "type": "text",
+                "text": "(중요!) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "star2",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "star2",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "star2",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "연구실이 있는 재학생의 경우 (다양한 교수님과의 교류를 위해서) 본인의 지도교수님과 같은 테이블에는 앉을 수 없는 점에 유의",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하시길 바랍니다. "
+              },
+              {
+                "type": "text",
+                "text": "(From 부원장님)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "man-gesturing-no",
+                "skin_tone": 3
+              },
+              {
+                "type": "text",
+                "text": "\n- "
+              },
+              {
+                "type": "text",
+                "text": "2022학년도 후기 합격생(3.5기)들도 함께 하는 자리",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "이오니 이 점 참고해주시길 바랍니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n- 모든 일정이 끝난 뒤에는 "
+              },
+              {
+                "type": "text",
+                "text": "경우에 따라 교수님들과 함께 하는 뒷풀이 자리가 낙성대 근처에서 있을 수도 있으니 참고하시길",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 바랍니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "beers",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n유의사항을 잘 살펴보시고 참석하셔서 SNU GSDS의 즐거운 첫 파티가 되길 바랍니다. 혹시 문의사항이 있는 경우에는 학생회("
+              },
+              {
+                "type": "user",
+                "user_id": "U01Q1KFN4JK"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U01QGKD09K5"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U01QV1PBKUZ"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U01QGKCT067"
+              },
+              {
+                "type": "text",
+                "text": ")에 DM을 주시거나 이 글 아래에 댓글로 달아주시면 답변해드리겠습니다. 여러분의 많은 참여와 성원을 부탁드립니다! 감사합니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01QV1SQJ57"
+    ]
+  },
+  {
+    "client_msg_id": "F5EF7987-4725-4BC5-8696-78DC772CE328",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "우와아아아아아아 :heart:",
+    "ts": "1655899159.509809",
+    "thread_ts": "1655889585.988909",
+    "edited": {
+      "user": "U01QV1SQJ57",
+      "ts": "1655899176.000000"
+    },
+    "parent_user_id": "U01Q1KFN4JK",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "grinning",
+        "count": 1,
+        "users": [
+          "U01QV1PBKUZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TANUR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "우와아아아아아아"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

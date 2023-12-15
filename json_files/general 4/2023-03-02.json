@@ -1,0 +1,847 @@
+[
+  {
+    "client_msg_id": "62679f52-4567-44af-ba79-23ad12774c78",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;신입생 지문 등록 관련 안내\u0026gt;\n\n신입생 여러분께서는 942동 3층 및 4층 출입을 위한 지문등록을 원하시는 경우, 아래 시간에 3층 행정실에 방문하여 주시기 바랍니다. (자동문은 평일 오전 8시부터 오후 7시까지 상시 개방되어 있으며,  그 밖의 시간대에 들어오는 경우 지문 인식 필요합니다.)\n\nㅇ2023. 3. 2.(목) 13시 ~ 15시\nㅇ2023. 3. 3.(금) 13시 ~ 17시 30분",
+    "ts": "1677716237.248799",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1677825610.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U0U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c신입생 지문 등록 관련 안내\u003e\n\n신입생 여러분께서는 942동 3층 및 4층 출입을 위한 지문등록을 원하시는 경우, 아래 시간에 3층 행정실에 방문하여 주시기 바랍니다. (자동문은 평일 오전 8시부터 오후 7시까지 상시 개방되어 있으며,  그 밖의 시간대에 들어오는 경우 지문 인식 필요합니다.)\n\nㅇ2023. 3. 2.(목) 13시 ~ 15시\nㅇ2023. 3. 3.(금) 13시 ~ 17시 30분"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eab96cad-602b-40ad-b820-a46b7f4933a9",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;출판물 불법복제 예방 협조 요청\u0026gt;\n\n문화체육관광부에서는 출판물 불법복제 근절을 위하여 지속적으로 홍보 및 단속을 시행하고 있는바 2023학년도 1학기 개강을 맞이하여 *「출판물 불법복제 예방활동」*을 실시할 예정임을 알려와 저작권법 위반 사례가 발생하지 않도록 다음과 같이 안내드립니다.\n\n1) 저작권자의 허락 없이 도서를 복제(복사, 스캔, PDF파일 공유 등)하는 행위는 저작권법 위반입니다.\n    2) 불법복제물(스캔, PDF파일) 공유, 교재 등 출판물 복사를 통한 일괄배부 행위를 금하여 주시기 바랍니다.",
+    "ts": "1677718023.666639",
+    "files": [
+      {
+        "id": "F04RYSM2W1Y",
+        "created": 1677718003,
+        "timestamp": 1677718003,
+        "name": "출판물 불법복제 예방 협조 요청.pdf",
+        "title": "출판물 불법복제 예방 협조 요청.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 162660,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04RYSM2W1Y-출판물 불법복제 예방 협조 요청.pdf",
+        "url_private_download": "attachments/F04RYSM2W1Y-출판물 불법복제 예방 협조 요청.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04RYSM2W1Y/___________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04RYSM2W1Y-68074bfdb8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04RVUFLHHB",
+        "created": 1677718005,
+        "timestamp": 1677718005,
+        "name": "[붙임1] 불법스캔방지_포스터_최종.pdf",
+        "title": "[붙임1] 불법스캔방지_포스터_최종.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2604508,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04RVUFLHHB-[붙임1] 불법스캔방지_포스터_최종.pdf",
+        "url_private_download": "attachments/F04RVUFLHHB-[붙임1] 불법스캔방지_포스터_최종.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04RVUFLHHB/_______1_____________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04RVUFLHHB-e0742f50f7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04RVUFSVSR",
+        "created": 1677718009,
+        "timestamp": 1677718009,
+        "name": "[붙임2] 수업목적보상금 제도 이용안내 자료집.pdf",
+        "title": "[붙임2] 수업목적보상금 제도 이용안내 자료집.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 6750605,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04RVUFSVSR-[붙임2] 수업목적보상금 제도 이용안내 자료집.pdf",
+        "url_private_download": "attachments/F04RVUFSVSR-[붙임2] 수업목적보상금 제도 이용안내 자료집.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04RVUFSVSR/_______2_____________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04RVUFSVSR-1deda2cc43",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=lxOI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c출판물 불법복제 예방 협조 요청\u003e\n\n문화체육관광부에서는 출판물 불법복제 근절을 위하여 지속적으로 홍보 및 단속을 시행하고 있는바 2023학년도 1학기 개강을 맞이하여 "
+              },
+              {
+                "type": "text",
+                "text": "「출판물 불법복제 예방활동」",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "을 실시할 예정임을 알려와 저작권법 위반 사례가 발생하지 않도록 다음과 같이 안내드립니다.\n\n1) 저작권자의 허락 없이 도서를 복제(복사, 스캔, PDF파일 공유 등)하는 행위는 저작권법 위반입니다.\n    2) 불법복제물(스캔, PDF파일) 공유, 교재 등 출판물 복사를 통한 일괄배부 행위를 금하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5d6c7bb1-4f0f-4287-be4e-d8fa93faa14e",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023학년도 1학기 지역사회봉사활동 및 대학문화예술활동 지원 계획 알림\u0026gt;\n\n1. 지역사회봉사활동 지원\n  가. 활동시기: 2023학년도 1학기(2023. 3. 2. ~ 2023. 8. 31.), 6개월\n  나. 지원분야: 지역사회 주민을 위한 학생 자원봉사 활동\n  다. 봉사지역: 대학이 소재하고 있는 지역사회(서울시, 시흥시, 평창군 등)\n  라. 신청자격: 학내 봉사단체[학과(부), 동아리 등]\n  마. 신청기한: *2023. 3. 8.(수)*\n  바. 신청방법: 활동 계획서(붙임2)를 작성하여 지도교수 소속 대학(원) 행정실에 제출\n  사. 지 원 금: *2023. 3. 17.(금)* 신청한 대학(원) 예산 재배정 ※지급 시기는 변경될 수 있음\n\n2.  대학문화예술활동 지원\n가. 활동시기: 2023학년도 1학기(2023. 3. 2. ∼ 2023. 8. 31.), 6개월\n  나. 지원분야: 문학, 미술, 음악, 무용, 연극, 영화, 사진 등 문화·예술분야의 행사\n  다. 신청자격: 학내 문화예술활동 단체[학과(부), 동아리 등]\n  라. 신청기한: *2023. 3. 8.(수)*\n  마. 신청방법: 지원 신청서(붙임2)를 작성하여 지도교수 소속 대학(원) 행정실에 제출\n  바. 지 원 금: *2023. 3. 17.(금)* 신청한 대학(원)에 예산 재배정 ※지급 시기는 변경될 수 있음\n\n세부사항은 첨부 계획(안)을 참고하여 주시기 바랍니다.",
+    "ts": "1677718423.059419",
+    "files": [
+      {
+        "id": "F04RVV3ED7X",
+        "created": 1677718399,
+        "timestamp": 1677718399,
+        "name": "2023학년도 1학기 지역사회봉사활동 지원 계획 알림.zip",
+        "title": "2023학년도 1학기 지역사회봉사활동 지원 계획 알림.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 268868,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04RVV3ED7X-2023학년도 1학기 지역사회봉사활동 지원 계획 알림.zip",
+        "url_private_download": "attachments/F04RVV3ED7X-2023학년도 1학기 지역사회봉사활동 지원 계획 알림.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04RVV3ED7X/2023__________1____________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04RVV3ED7X-57d8c4a2c8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04S1BLR9K6",
+        "created": 1677718401,
+        "timestamp": 1677718401,
+        "name": "2023학년도 1학기 대학문화예술활동 지원 계획 알림.zip",
+        "title": "2023학년도 1학기 대학문화예술활동 지원 계획 알림.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 353365,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04S1BLR9K6-2023학년도 1학기 대학문화예술활동 지원 계획 알림.zip",
+        "url_private_download": "attachments/F04S1BLR9K6-2023학년도 1학기 대학문화예술활동 지원 계획 알림.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04S1BLR9K6/2023__________1____________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04S1BLR9K6-b93a9ee31b",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mgS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 1학기 지역사회봉사활동 및 대학문화예술활동 지원 계획 알림\u003e\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c0\\uc5ed\\uc0ac\\ud68c\\ubd09\\uc0ac\\ud65c\\ub3d9 \\uc9c0\\uc6d0\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "  가. 활동시기: 2023학년도 1학기(2023. 3. 2. ~ 2023. 8. 31.), 6개월\n  나. 지원분야: 지역사회 주민을 위한 학생 자원봉사 활동\n  다. 봉사지역: 대학이 소재하고 있는 지역사회(서울시, 시흥시, 평창군 등)\n  라. 신청자격: 학내 봉사단체[학과(부), 동아리 등]\n  마. 신청기한: "
+              },
+              {
+                "type": "text",
+                "text": "2023. 3. 8.(수)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  바. 신청방법: 활동 계획서(붙임2)를 작성하여 지도교수 소속 대학(원) 행정실에 제출\n  사. 지 원 금: "
+              },
+              {
+                "type": "text",
+                "text": "2023. 3. 17.(금)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 신청한 대학(원) 예산 재배정 ※지급 시기는 변경될 수 있음\n\n2.  대학문화예술활동 지원\n가. 활동시기: 2023학년도 1학기(2023. 3. 2. ∼ 2023. 8. 31.), 6개월\n  나. 지원분야: 문학, 미술, 음악, 무용, 연극, 영화, 사진 등 문화·예술분야의 행사\n  다. 신청자격: 학내 문화예술활동 단체[학과(부), 동아리 등]\n  라. 신청기한: "
+              },
+              {
+                "type": "text",
+                "text": "2023. 3. 8.(수)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  마. 신청방법: 지원 신청서(붙임2)를 작성하여 지도교수 소속 대학(원) 행정실에 제출\n  바. 지 원 금: "
+              },
+              {
+                "type": "text",
+                "text": "2023. 3. 17.(금)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 신청한 대학(원)에 예산 재배정 ※지급 시기는 변경될 수 있음\n\n세부사항은 첨부 계획(안)을 참고하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1b471af1-f599-49ad-b6bd-85859bef8a2c",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023학년도 1학기 대학원 신입생 연구윤리 교육 실시 안내\u0026gt;\n\n*※ 본 교육은 연구활동종사자 안전환경 신규교육과는 다른 교육 입니다 ※*\n\n학내 구성원의 연구윤리 의식 제고를 위하여『2023학년도 1학기 대학원 신입생 연구윤리』 교육을 아래와 같이 시행하오니, 대학원 신입생 및 BK21 참여대학원생 등이 수강하시길 바랍니다.\n *가. 강좌명*\n   - 2023-1) 대학원생을 위한 연구윤리(인문사회계/이공계)\n   - 2023-1) Research ethics for graduate students(Humanities and Social Sciences/Science and Engineering)\n *나. 수강 대상:* 2023학년도 1학기 대학원 신입생, BK21 참여대학원생, 교육수강 희망자 등\n *다. 수강 기간:* 2023.3.2.(목) ~ 3.31.(금)\n ※ 2023학년도 1학기 대학원 신입생이 아닌 BK21 참여대학원생의 경우 8월까지 수강 가능하며, 대학원 신입생은 3월 내 수강\n *라. 수강 방법*\n   - eTL 접속(\u003chttp://etl.snu.ac.kr\u003e) → 좌측 ‘SNUON-강좌목록' 클릭 → ‘연구윤리 / ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강(약 3시간 소요)\n\n ※ 모든 동영상 100% 수강 및 학습자료 열람시 이수 인정되며, 수강자 본인이 이수증 출력 가능\n  ※ 대학원 신입생 이수에 대해서는 대학(원)별 수강실적 통보 예정",
+    "ts": "1677720780.320169",
+    "files": [
+      {
+        "id": "F04RJFLAW6T",
+        "created": 1677720775,
+        "timestamp": 1677720775,
+        "name": "2023-1st semester Research Ethics course sign-up Guide for Graduate School Freshmen.pdf",
+        "title": "2023-1st semester Research Ethics course sign-up Guide for Graduate School Freshmen.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 76482,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04RJFLAW6T-2023-1st semester Research Ethics course sign-up Guide for Graduate School Freshmen.pdf",
+        "url_private_download": "attachments/F04RJFLAW6T-2023-1st semester Research Ethics course sign-up Guide for Graduate School Freshmen.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04RJFLAW6T/2023-1st_semester_research_ethics_course_sign-up_guide_for_graduate_school_freshmen.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04RJFLAW6T-9a8b1fa1b7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04RSDHL45U",
+        "created": 1677720777,
+        "timestamp": 1677720777,
+        "name": "2023학년도 1학기 대학원 신입생 연구윤리 교육 수강 안내(국문).pdf",
+        "title": "2023학년도 1학기 대학원 신입생 연구윤리 교육 수강 안내(국문).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 64880,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04RSDHL45U-2023학년도 1학기 대학원 신입생 연구윤리 교육 수강 안내(국문).pdf",
+        "url_private_download": "attachments/F04RSDHL45U-2023학년도 1학기 대학원 신입생 연구윤리 교육 수강 안내(국문).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04RSDHL45U/2023__________1____________________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04RSDHL45U-37a9754b08",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Mr53P",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 1학기 대학원 신입생 연구윤리 교육 실시 안내\u003e\n\n"
+              },
+              {
+                "type": "text",
+                "text": "※ 본 교육은 연구활동종사자 안전환경 신규교육과는 다른 교육 입니다 ※",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n학내 구성원의 연구윤리 의식 제고를 위하여『2023학년도 1학기 대학원 신입생 연구윤리』 교육을 아래와 같이 시행하오니, 대학원 신입생 및 BK21 참여대학원생 등이 수강하시길 바랍니다.\n"
+              },
+              {
+                "type": "text",
+                "text": " 가. 강좌명",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   - 2023-1) 대학원생을 위한 연구윤리(인문사회계/이공계)\n   - 2023-1) Research ethics for graduate students(Humanities and Social Sciences/Science and Engineering)\n "
+              },
+              {
+                "type": "text",
+                "text": "나. 수강 대상:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 2023학년도 1학기 대학원 신입생, BK21 참여대학원생, 교육수강 희망자 등\n"
+              },
+              {
+                "type": "text",
+                "text": " 다. 수강 기간:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 2023.3.2.(목) ~ 3.31.(금)\n ※ 2023학년도 1학기 대학원 신입생이 아닌 BK21 참여대학원생의 경우 8월까지 수강 가능하며, 대학원 신입생은 3월 내 수강\n"
+              },
+              {
+                "type": "text",
+                "text": " 라. 수강 방법",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   - eTL 접속("
+              },
+              {
+                "type": "link",
+                "url": "http://etl.snu.ac.kr",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ") → 좌측 ‘SNUON-강좌목록' 클릭 → ‘연구윤리 / ethics’ 검색 → 계열에 맞는 강좌 수강신청 → 수강(약 3시간 소요)\n\n ※ 모든 동영상 100% 수강 및 학습자료 열람시 이수 인정되며, 수강자 본인이 이수증 출력 가능\n  ※ 대학원 신입생 이수에 대해서는 대학(원)별 수강실적 통보 예정"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f89a2a79-4478-4ea5-b051-267c7129e187",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;942동 계단 및 주차장 청소로 인한 사용 제한 협조 요청\u0026gt;\n\n942동 건물의 위생 및 방역을 위하여 공용공간인 계단과 주차장 청소를 다음과 같이 실시하오니 협조하여 주시기 바랍니다.\n\n1. 청소구역\n  ㅇ 942동 계단: 2023. 3. 9.(목) 08:00 ~ 16:00\n  ㅇ 지상 1층 및 지하 1층 주차장: 2023. 3. 11.(토) 08:00 ~ 16:00\n\n2.  협조 요청사항\n ㅇ *2023. 3. 10.(금) 18:20까지 주차장 내 차량 출차 완료(출입구 봉쇄 예정)*하여야 하며, *3.11.(토) ~ 3.12.(일) 중 주차 불가*\n ㅇ *2023. 3. 13.(월) 08:00부터 주차 가능*",
+    "ts": "1677800896.063959",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ojO/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c942동 계단 및 주차장 청소로 인한 사용 제한 협조 요청\u003e\n\n942동 건물의 위생 및 방역을 위하여 공용공간인 계단과 주차장 청소를 다음과 같이 실시하오니 협조하여 주시기 바랍니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uccad\\uc18c\\uad6c\\uc5ed\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "  ㅇ 942동 계단: 2023. 3. 9.(목) 08:00 ~ 16:00\n  ㅇ 지상 1층 및 지하 1층 주차장: 2023. 3. 11.(토) 08:00 ~ 16:00\n\n2.  협조 요청사항\n ㅇ "
+              },
+              {
+                "type": "text",
+                "text": "2023. 3. 10.(금) 18:20까지 주차장 내 차량 출차 완료(출입구 봉쇄 예정)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여야 하며,"
+              },
+              {
+                "type": "text",
+                "text": " 3.11.(토) ~ 3.12.(일) 중 주차 불가",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n ㅇ"
+              },
+              {
+                "type": "text",
+                "text": " 2023. 3. 13.(월) 08:00부터 주차 가능",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

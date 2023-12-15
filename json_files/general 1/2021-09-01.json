@@ -1,0 +1,52 @@
+[
+  {
+    "client_msg_id": "20f6952b-6feb-49b0-b7f6-c52c493bdd66",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e\n안녕하세요. 2021학년도 2학기 자리 배치 관련하여 자리에 '모니터'가 없다는 민원이 발생하고 있습니다.\n모니터는 자리마다 1대 제공되며, 모든 좌석에 맞게 모니터를 구매 완료 하였기에 혹시 모니터를 두개(혹은 그이상)  사용하고 계신 학생분들은 행정실 앞 300호 세미나실에 반납 부탁 드립니다.\n모두에게 제공되는 기본 물품이므로 공평하게 사용 할 수 있도록 학생분들의 협조 바랍니다.",
+    "ts": "1630470520.037600",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l26PG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n안녕하세요. 2021학년도 2학기 자리 배치 관련하여 자리에 '모니터'가 없다는 민원이 발생하고 있습니다.\n모니터는 자리마다 1대 제공되며, 모든 좌석에 맞게 모니터를 구매 완료 하였기에 혹시 모니터를 두개(혹은 그이상)  사용하고 계신 학생분들은 행정실 앞 300호 세미나실에 반납 부탁 드립니다.\n모두에게 제공되는 기본 물품이므로 공평하게 사용 할 수 있도록 학생분들의 협조 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

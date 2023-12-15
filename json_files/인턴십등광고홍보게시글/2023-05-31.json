@@ -1,0 +1,247 @@
+[
+  {
+    "client_msg_id": "9e9bc534-bba2-4a0f-ac89-4a86bd95ea1d",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt; 국가정보원 '2023 사이버공격방어대회' 개최 안내 \u0026gt;\n\n국가정보원에서 '2023 사이버공격방어대회'를 아래와 같이 개최하오니 관심 있는 학생들은 참고하시기 바랍니다.\n\n 가. 대회 일정\n    1) 예선: 2023.6.10.(토), 온라인\n    2) 본선: 2023.7.12.(수), 롯데호텔 서울(소공동)\n  나. 참가 신청: 6.5.(월)까지 대회 홈페이지(\u003chttp://cce.cstec.kr|cce.cstec.kr\u003e) 신청\n  다. 시상: 총 상금 7천만원, 국가정보원장상, 국가보안기술연구소장상\n  라. 문의: 사이버공방대회 사무국(\u003ctel:0269597957|02-6959-7957\u003e, \u003cmailto:cce@nsr.re.kr|cce@nsr.re.kr\u003e)\n\n붙임 2023 사이버공격방어대회 참가 안내문 1부",
+    "ts": "1685519623.429669",
+    "files": [
+      {
+        "id": "F05AAJXJUTW",
+        "created": 1685519618,
+        "timestamp": 1685519618,
+        "name": "[붙임] 2023 사이버공격방어대회 참가 안내.hwpx",
+        "title": "[붙임] 2023 사이버공격방어대회 참가 안내.hwpx",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 45368,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05AAJXJUTW-[붙임] 2023 사이버공격방어대회 참가 안내.hwpx",
+        "url_private_download": "attachments/F05AAJXJUTW-[붙임] 2023 사이버공격방어대회 참가 안내.hwpx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05AAJXJUTW/_________2023__________________________________________.hwpx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05AAJXJUTW-b0cc438e8d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rN+Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 국가정보원 '2023 사이버공격방어대회' 개최 안내 \u003e\n\n국가정보원에서 '2023 사이버공격방어대회'를 아래와 같이 개최하오니 관심 있는 학생들은 참고하시기 바랍니다.\n\n 가. 대회 일정\n    1) 예선: 2023.6.10.(토), 온라인\n    2) 본선: 2023.7.12.(수), 롯데호텔 서울(소공동)\n  나. 참가 신청: 6.5.(월)까지 대회 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "http://cce.cstec.kr",
+                "text": "cce.cstec.kr"
+              },
+              {
+                "type": "text",
+                "text": ") 신청\n  다. 시상: 총 상금 7천만원, 국가정보원장상, 국가보안기술연구소장상\n  라. 문의: 사이버공방대회 사무국("
+              },
+              {
+                "type": "link",
+                "url": "tel:0269597957",
+                "text": "02-6959-7957"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "link",
+                "url": "mailto:cce@nsr.re.kr",
+                "text": "cce@nsr.re.kr"
+              },
+              {
+                "type": "text",
+                "text": ")\n\n붙임 2023 사이버공격방어대회 참가 안내문 1부"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "045f400d-0840-46cb-88a9-1f57a6d28b97",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;관악구 청년들을 위한 Chat GPT 활용법 특강 안내\u0026gt;\n\nㅇ일시: 2023.6.30.(금) 오후 2~5시\nㅇ대상: 관악구 청년 30명(선착순)\nㅇ장소: 청룡동주민센터 2층 '뜨락'\nㅇ강사: 서울디지털재단 노희숙 팀장\nㅇ신청 방법 및 준비물은 첨부 포스터 참고",
+    "ts": "1685519789.641549",
+    "files": [
+      {
+        "id": "F059TL8S47R",
+        "created": 1685519781,
+        "timestamp": 1685519781,
+        "name": "(최종)청년특강 홍보 포스터.pdf",
+        "title": "(최종)청년특강 홍보 포스터.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 245346,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F059TL8S47R-(최종)청년특강 홍보 포스터.pdf",
+        "url_private_download": "attachments/F059TL8S47R-(최종)청년특강 홍보 포스터.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F059TL8S47R/_____________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F059TL8S47R-bd902d17cf",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0kzl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c관악구 청년들을 위한 Chat GPT 활용법 특강 안내\u003e\n\nㅇ일시: 2023.6.30.(금) 오후 2~5시\nㅇ대상: 관악구 청년 30명(선착순)\nㅇ장소: 청룡동주민센터 2층 '뜨락'\nㅇ강사: 서울디지털재단 노희숙 팀장\nㅇ신청 방법 및 준비물은 첨부 포스터 참고"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

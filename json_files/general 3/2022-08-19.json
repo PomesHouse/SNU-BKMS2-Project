@@ -1,0 +1,268 @@
+[
+  {
+    "client_msg_id": "0430173f-53a1-43ec-8456-3d3894909fba",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "[2022학년도 2학기 신입생 학생증(S-CARD) 배부 안내]\n\n2022학년도 2학기 *온라인 S-CARD 발급 신청 학생* 및 *S-CARD 발급이 필요한 구성원*의 방문 수령 방법을 아래와 같이 안내드립니다.\n\n 가. *S-CARD 온라인 신청자: 2022. 9. 2.(금) 이후* 본인 신분증 지참하여 방문\n관악캠퍼스: 인문대 등 대학(원) (공대제외) -\u0026gt; 우리은행 서울대학교지점 (신양학술정보관 인문대 4동)\n                      공과대학: 우리은행 공대영업소(38동 지하1층)\n\n ※ 모바일 및 USIM S-CARD의 경우 한달 이내 카드형 S-CARD 발급 시 지속 이용 가능\n\n 나. *외국인학생, 온라인 미신청자 및 추가합격자:* *2022. 9. 13.(화)* 이후 교내 우리은행지점 또는\n 학생지원센터(NH농협두레문예관 67동 2층) 방문 신청\n 다. *재학생 및 교직원:* 상시 발급\n ※ 67동 2층 학생지원센터 내 우리은행 임시영업소 운영: *2022. 9. 2.(금) ~ 9. 8.(목)*",
+    "ts": "1660893950.783249",
+    "files": [
+      {
+        "id": "F03UATY0WLS",
+        "created": 1660893945,
+        "timestamp": 1660893945,
+        "name": "1-1. 모바일 및 유심 S-CARD 발급 방법.pdf",
+        "title": "1-1. 모바일 및 유심 S-CARD 발급 방법.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 91472,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03UATY0WLS-1-1. 모바일 및 유심 S-CARD 발급 방법.pdf",
+        "url_private_download": "attachments/F03UATY0WLS-1-1. 모바일 및 유심 S-CARD 발급 방법.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03UATY0WLS/1-1.______________________s-card______________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03UATY0WLS-9346776296",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F03U49ZSP54",
+        "created": 1660893947,
+        "timestamp": 1660893947,
+        "name": "1. 2022년 2학기 단과대별 S-CARD(금융기능) 배부 계획.pdf",
+        "title": "1. 2022년 2학기 단과대별 S-CARD(금융기능) 배부 계획.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 72585,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03U49ZSP54-1. 2022년 2학기 단과대별 S-CARD(금융기능) 배부 계획.pdf",
+        "url_private_download": "attachments/F03U49ZSP54-1. 2022년 2학기 단과대별 S-CARD(금융기능) 배부 계획.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03U49ZSP54/1._2022____2____________________s-card____________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03U49ZSP54-8300212005",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vl=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[2022학년도 2학기 신입생 학생증(S-CARD) 배부 안내]\n\n2022학년도 2학기 "
+              },
+              {
+                "type": "text",
+                "text": "온라인 S-CARD 발급 신청 학생",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 및 "
+              },
+              {
+                "type": "text",
+                "text": "S-CARD 발급이 필요한 구성원",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "의 방문 수령 방법을 아래와 같이 안내드립니다.\n\n 가. "
+              },
+              {
+                "type": "text",
+                "text": "S-CARD 온라인 신청자: 2022. 9. 2.(금) 이후",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 본인 신분증 지참하여 방문\n관악캠퍼스: 인문대 등 대학(원) (공대제외) -\u003e 우리은행 서울대학교지점 (신양학술정보관 인문대 4동)\n                      공과대학: 우리은행 공대영업소(38동 지하1층)\n\n"
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "※"
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "모바일 및 USIM S-CARD의 경우 한달 이내 카드형 S-CARD 발급 시 지속 이용 가능\n\n 나. "
+              },
+              {
+                "type": "text",
+                "text": "외국인학생, 온라인 미신청자 및 추가합격자:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "2022. 9. 13.(화)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 이후 교내 우리은행지점 또는\n 학생지원센터(NH농협두레문예관 67동 2층) 방문 신청\n 다. "
+              },
+              {
+                "type": "text",
+                "text": "재학생 및 교직원:",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 상시 발급\n ※ 67동 2층 학생지원센터 내 우리은행 임시영업소 운영: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 9. 2.(금) ~ 9. 8.(목)",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

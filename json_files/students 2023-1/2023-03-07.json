@@ -1,0 +1,245 @@
+[
+  {
+    "client_msg_id": "d403e377-0cd2-4332-a7a1-f4b8f868b2cf",
+    "type": "message",
+    "user": "U0406PM050F",
+    "text": ":books: SKI-ML Lab NLP Seminar :books:\n\n안녕하세요, 이재윤 교수님 연구실 (Structure and Knowledge Injection into ML Lab) 에서\n학기중 자연어처리 및 Structure \u0026amp; Knowledge Injection 주제로 Weekly *논문 세미나*를 개최합니다.\n(매주 수 오후 5-7시, 942동 회의실)\n\n\u0026gt; *세미나에 대한 소식과 calendar invitation을 받아보고 싶으신 분은* \n\u0026gt; *\u003chttps://forms.gle/6YdtLRgLT9GU92MD7|Google Form\u003e으로 sign-up 해주시면 이메일 리스트에 추가하겠습니다.*\n아울러, *내일* 첫 세미나가 있을 예정입니다.\n음식과 장소 관계로 총 *10분 정도 선착순* 참석자를 모집하오니\n참석을 원하시는 경우 위 Signup Form 작성 부탁드립니다~! :relaxed:\n\n\u0026gt; • 일시: 내일 (3/8) 저녁 5-7시\n\u0026gt; • 장소: 942동 308호\n\u0026gt; • 주제(발표논문):\n\u0026gt;     ◦ \u003chttps://aclanthology.org/2022.acl-long.177/|ExtEnD: Extractive Entity Disambiguation (E. Barba et al. 2022 ACL)\u003e\n\u0026gt;     ◦ \u003chttps://papers.nips.cc/paper/2019/hash/2c601ad9d2ff9bc8b282670cdd54f69f-Abstract.html|Are Sixteen Heads Really Better than One? (P. Michel et al., 2019 NIPS)\u003e\n\u0026gt; • 발표자: 3기 송종현 (\u003cmailto:hyeongoon11@snu.ac.kr|hyeongoon11@snu.ac.kr\u003e)\n\u0026gt; • Sign-up form: *\u003chttps://forms.gle/6YdtLRgLT9GU92MD7|Google Form\u003e*\n감사합니다!\n\n--\n\nHello, we are the SKI-ML Lab (Structure and Knowledge Injection into ML) led by Professor Jay-yoon Lee.\nWe will be hosting a weekly offline paper reading seminar on NLP and the injection of structure and knowledge into ML models.\n(Wednesdays 5-7PM at a conference room located in building 942)\n\n\u0026gt; *If you are interested in receiving weekly event information and invitations for the seminar,* \n\u0026gt; *please sign up via \u003chttps://forms.gle/6YdtLRgLT9GU92MD7|Google Form\u003e, and we will add you to our email list.*\nMoreover, there will be our first seminar *tomorrow* (more details below).\nIf you would like to attend, please also write the signup form.\nDue to limited seats and refreshments, we will accommodate the *first 10 individuals* who register. :relaxed:\n\n\u0026gt; • Date/Time: Tomorrow (3/8) 5-7PM\n\u0026gt; • Location: Building 942 Room 308\n\u0026gt; • Topics(papers):\n\u0026gt;     ◦ \u003chttps://aclanthology.org/2022.acl-long.177/|ExtEnD: Extractive Entity Disambiguation (E. Barba et al. 2022 ACL)\u003e\n\u0026gt;     ◦ \u003chttps://papers.nips.cc/paper/2019/hash/2c601ad9d2ff9bc8b282670cdd54f69f-Abstract.html|Are Sixteen Heads Really Better than One? (P. Michel et al., 2019 NIPS)\u003e\n\u0026gt; • Speaker: Jong Song (\u003cmailto:hyeongoon11@snu.ac.kr|hyeongoon11@snu.ac.kr\u003e)\n\u0026gt; • Sign-up form: *\u003chttps://forms.gle/6YdtLRgLT9GU92MD7|Google Form\u003e*\nThank you!",
+    "ts": "1678166171.812709",
+    "attachments": [
+      {
+        "fallback": "Google Forms: Sign-in",
+        "id": 1,
+        "title": "Google Forms: Sign-in",
+        "title_link": "https://forms.gle/6YdtLRgLT9GU92MD7",
+        "text": "Access Google Forms with a personal Google account or Google Workspace account (for business use).",
+        "service_name": "accounts.google.com",
+        "service_icon": "https://accounts.google.com/favicon.ico",
+        "from_url": "https://forms.gle/6YdtLRgLT9GU92MD7",
+        "original_url": "https://forms.gle/6YdtLRgLT9GU92MD7",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U0406PM050F",
+      "ts": "1678166878.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 16,
+        "users": [
+          "U041B24HMFS",
+          "U02V5LT2XFB",
+          "U04QKG4K12Q",
+          "U040MB432JW",
+          "U02V5LTUGGH",
+          "U02ULBG7ZGE",
+          "U040ENLD4QN",
+          "U02UQ4BAMB7",
+          "U01Q1KFN4JK",
+          "U04QGUEEHJ7",
+          "U04QAE6H5N2",
+          "U0302PLQ34Y",
+          "U040ENMBB1C",
+          "U02UCD2C9V5",
+          "U04R6NQT0SC",
+          "U040C40QE6T"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tzk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "books",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " SKI-ML Lab NLP Seminar "
+              },
+              {
+                "type": "emoji",
+                "name": "books",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요, 이재윤 교수님 연구실 (Structure and Knowledge Injection into ML Lab) 에서\n학기중 자연어처리 및 Structure \u0026 Knowledge Injection 주제로 Weekly "
+              },
+              {
+                "type": "text",
+                "text": "논문 세미나",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "를 개최합니다.\n(매주 수 오후 5-7시, 942동 회의실)\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_quote",
+            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc138\\ubbf8\\ub098\\uc5d0 \\ub300\\ud55c \\uc18c\\uc2dd\\uacfc calendar invitation\\uc744 \\ubc1b\\uc544\\ubcf4\\uace0 \\uc2f6\\uc73c\\uc2e0 \\ubd84\\uc740 \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/6YdtLRgLT9GU92MD7\",\"text\":\"Google Form\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc73c\\ub85c sign-up \\ud574\\uc8fc\\uc2dc\\uba74 \\uc774\\uba54\\uc77c \\ub9ac\\uc2a4\\ud2b8\\uc5d0 \\ucd94\\uac00\\ud558\\uaca0\\uc2b5\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}}]}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n아울러, "
+              },
+              {
+                "type": "text",
+                "text": "내일",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 첫 세미나가 있을 예정입니다.\n음식과 장소 관계로 총 "
+              },
+              {
+                "type": "text",
+                "text": "10분 정도 선착순",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 참석자를 모집하오니\n참석을 원하시는 경우 위 Signup Form 작성 부탁드립니다~! "
+              },
+              {
+                "type": "emoji",
+                "name": "relaxed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: \\ub0b4\\uc77c (3\\/8) \\uc800\\ub141 5-7\\uc2dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: 942\\ub3d9 308\\ud638\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc81c(\\ubc1c\\ud45c\\ub17c\\ubb38):\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/aclanthology.org\\/2022.acl-long.177\\/\",\"text\":\"ExtEnD: Extractive Entity Disambiguation (E. Barba et al. 2022 ACL)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/papers.nips.cc\\/paper\\/2019\\/hash\\/2c601ad9d2ff9bc8b282670cdd54f69f-Abstract.html\",\"text\":\"Are Sixteen Heads Really Better than One? (P. Michel et al., 2019 NIPS)\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":1}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc1c\\ud45c\\uc790: 3\\uae30 \\uc1a1\\uc885\\ud604 (\"},{\"type\":\"link\",\"url\":\"mailto:hyeongoon11@snu.ac.kr\",\"text\":\"hyeongoon11@snu.ac.kr\",\"unsafe\":true},{\"type\":\"text\",\"text\":\")\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Sign-up form: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/6YdtLRgLT9GU92MD7\",\"text\":\"Google Form\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n감사합니다!\n\n--\n\nHello, we are the SKI-ML Lab (Structure and Knowledge Injection into ML) led by Professor Jay-yoon Lee.\nWe will be hosting a weekly offline paper reading seminar on NLP and the injection of structure and knowledge into ML models.\n(Wednesdays 5-7PM at a conference room located in building 942)\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_quote",
+            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"If you are interested in receiving weekly event information and invitations for the seminar, \",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"text\",\"text\":\"please sign up via \",\"style\":{\"bold\":true}},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/6YdtLRgLT9GU92MD7\",\"text\":\"Google Form\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\", and we will add you to our email list.\",\"style\":{\"bold\":true}}]}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nMoreover, there will be our first seminar "
+              },
+              {
+                "type": "text",
+                "text": "tomorrow",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " (more details below).\nIf you would like to attend, please also write the signup form.\nDue to limited seats and refreshments, we will accommodate the "
+              },
+              {
+                "type": "text",
+                "text": "first 10 individuals",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " who register. "
+              },
+              {
+                "type": "emoji",
+                "name": "relaxed",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Date\\/Time: Tomorrow (3\\/8) 5-7PM\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Location: Building 942 Room 308\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Topics(papers):\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/aclanthology.org\\/2022.acl-long.177\\/\",\"text\":\"ExtEnD: Extractive Entity Disambiguation (E. Barba et al. 2022 ACL)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"link\",\"url\":\"https:\\/\\/papers.nips.cc\\/paper\\/2019\\/hash\\/2c601ad9d2ff9bc8b282670cdd54f69f-Abstract.html\",\"text\":\"Are Sixteen Heads Really Better than One? (P. Michel et al., 2019 NIPS)\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":1}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Speaker: Jong Song (\"},{\"type\":\"link\",\"url\":\"mailto:hyeongoon11@snu.ac.kr\",\"text\":\"hyeongoon11@snu.ac.kr\",\"unsafe\":true},{\"type\":\"text\",\"text\":\")\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Sign-up form: \"},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/6YdtLRgLT9GU92MD7\",\"text\":\"Google Form\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":1}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nThank you!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-11-08/4360699869840_c05147c8c7dbead948b5_72.png",
+      "first_name": "3.5기_손혜령",
+      "real_name": "3.5기_손혜령",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "hyeryung.son",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

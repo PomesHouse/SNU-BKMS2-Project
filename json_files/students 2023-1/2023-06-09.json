@@ -1,0 +1,117 @@
+[
+  {
+    "client_msg_id": "71040087-269E-4C45-9001-D552287383AE",
+    "type": "message",
+    "user": "U02V5LS84JV",
+    "text": "피자 세팅 완료되었습니다! :pizza: \n먼저 와서 드실 분들 드세요~",
+    "ts": "1686279882.546609",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3wbnx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "피자"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "세팅"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "완료되었습니다"
+              },
+              {
+                "type": "text",
+                "text": "! "
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " \n"
+              },
+              {
+                "type": "text",
+                "text": "먼저"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "와서"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "드실"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "분들"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "드세요"
+              },
+              {
+                "type": "text",
+                "text": "~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "이효진",
+      "real_name": "이효진",
+      "display_name": "3기_이효진",
+      "team": "T01QA5S537V",
+      "name": "sarahhyojin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

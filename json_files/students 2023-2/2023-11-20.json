@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "4863c6e9-d8f5-4904-87be-088a7af3d3f6",
+    "type": "message",
+    "user": "U040C40QE6T",
+    "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar\n\n안녕하세요 GSDS 학생회 입니다.\n금주 11월 24일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 11월 24일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제:\n- 김우진 (이재진 교수님 연구실): Korean Text De-identification with De-identified Dataset\n- 김동근 (김태섭 교수님 연구실): Joint Embedding of Unimodal Pretrained Models for Missing Modality Prediction\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!",
+    "ts": "1700450308.671849",
+    "edited": {
+      "user": "U040C40QE6T",
+      "ts": "1700716310.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pizza",
+        "count": 47,
+        "users": [
+          "U04QH2E4V5Y",
+          "U02UVAT3BPW",
+          "U04QAE84G5U",
+          "U040ENLD4QN",
+          "U05PYK5EUK0",
+          "U04Q2G5JZ2B",
+          "U02UT1Y2UJW",
+          "U01R67PKD7S",
+          "U02UQ4CMR7X",
+          "U04QE49RZ37",
+          "U05Q58MM9L2",
+          "U040ZVCKKND",
+          "U04QE49RPV3",
+          "U02V5LU4ED7",
+          "U040PQCGCQL",
+          "U040MB3TGSE",
+          "U04QE4ASJP7",
+          "U05Q2AYCQ8M",
+          "U05PYK5L2FQ",
+          "U0302PK342C",
+          "U0406PLJWCX",
+          "U04R6NS3924",
+          "U01QAE5A9K5",
+          "U04Q2G35DTR",
+          "U05QHT3DEDP",
+          "U05Q2AYAVEH",
+          "U02V5LS84JV",
+          "U0302PHUHME",
+          "U02V5LT4DLZ",
+          "U0302PJRNTA",
+          "U040ZVCNVU1",
+          "U040C40QE6T",
+          "U05QHT64657",
+          "U02UCD2C9V5",
+          "U02V5LTRU2V",
+          "U05PQN7CM8F",
+          "U02V5LTPGRX",
+          "U05Q2AZ2DRB",
+          "U05Q7MJUTLL",
+          "U05QUV5KBMW",
+          "U04131QR6MA",
+          "U05Q7MKR7GC",
+          "U01QAE573J7",
+          "U040M7VCS2X",
+          "U04Q2G4KNTZ",
+          "U02ULBG7ZGE",
+          "U04R20KG9JM"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qNiYz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar\n\n안녕하세요 GSDS 학생회 입니다.\n금주 11월 24일 금요일에 피자 세미나가 진행됩니다.\n\n#################################\n일시: 11월 24일 금요일, 12시 30분 - 1시 30분\n장소: 942동 302호\n발표자 및 발표 주제:\n- 김우진 (이재진 교수님 연구실): Korean Text De-identification with De-identified Dataset\n- 김동근 (김태섭 교수님 연구실): Joint Embedding of Unimodal Pretrained Models for Missing Modality Prediction\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김채윤",
+      "real_name": "김채윤",
+      "display_name": "3.5기_김채윤",
+      "team": "T01QA5S537V",
+      "name": "golddohyun",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

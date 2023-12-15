@@ -1,0 +1,236 @@
+[
+  {
+    "type": "message",
+    "user": "U01QAE5DERZ",
+    "text": "[공지]\n안녕하세요 1기 장우석입니다.\n밤낮으로 공부에 매진하느라 건강 관리가 쉽지 않은 학우분들을 위해 풀업바를 4층 탕비실에 가져다 두었습니다.\n물 뜨러 오실 때 등 한번 씩 편하게 이용해주시면 될 것 같습니다.  모두 건강 잘 챙기면서 공부하세요~. 감사합니다.\n\n(다른 학우분들을 위해 이용 전후에는 손 소독제 이용을 부탁드리겠습니다.)\n(탕비실 이용에 불편 사항 발생 시에는 빠르게 철거할 수 있도록 하겠습니다. 편하게 말씀주세요!)",
+    "ts": "1628555809.016800",
+    "thread_ts": "1628555809.016800",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01QNSM488Z",
+        "ts": "1628562329.019000"
+      }
+    ],
+    "latest_reply": "1628562329.019000",
+    "files": [
+      {
+        "id": "F02A8CNA1RD",
+        "created": 1628554934,
+        "timestamp": 1628554934,
+        "name": "KakaoTalk_Photo_2021-08-10-09-20-25 001.jpeg",
+        "title": "KakaoTalk_Photo_2021-08-10-09-20-25 001.jpeg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QAE5DERZ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2446749,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02A8CNA1RD-KakaoTalk_Photo_2021-08-10-09-20-25 001.jpeg",
+        "url_private_download": "attachments/F02A8CNA1RD-KakaoTalk_Photo_2021-08-10-09-20-25 001.jpeg",
+        "original_h": 2880,
+        "original_w": 2160,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F02A8CNA1RD-04e042ad51/kakaotalk_photo_2021-08-10-09-20-25_001_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F02A8CNA1RD-04e042ad51/kakaotalk_photo_2021-08-10-09-20-25_001_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F02A8CNA1RD-04e042ad51/kakaotalk_photo_2021-08-10-09-20-25_001_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F02A8CNA1RD-04e042ad51/kakaotalk_photo_2021-08-10-09-20-25_001_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F02A8CNA1RD-04e042ad51/kakaotalk_photo_2021-08-10-09-20-25_001_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F02A8CNA1RD-04e042ad51/kakaotalk_photo_2021-08-10-09-20-25_001_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F02A8CNA1RD-04e042ad51/kakaotalk_photo_2021-08-10-09-20-25_001_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F02A8CNA1RD-04e042ad51/kakaotalk_photo_2021-08-10-09-20-25_001_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QAE5DERZ/F02A8CNA1RD/kakaotalk_photo_2021-08-10-09-20-25_001.jpeg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02A8CNA1RD-c6b5a7b6c6",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "man-lifting-weights",
+        "count": 23,
+        "users": [
+          "U01R678KWP2",
+          "U01QAE58QV9",
+          "U01PVEU1A07",
+          "U01QAE573J7",
+          "U01PVETPES3",
+          "U01QAE5A9K5",
+          "U01QNSM488Z",
+          "U01Q3A8TXU6",
+          "U01Q75K6FB7",
+          "U01Q1KFN4JK",
+          "U01QV1WAPL1",
+          "U01Q3EPDBAA",
+          "U01QGG6A5LJ",
+          "U01QV1SQJ57",
+          "U01QGD03WUC",
+          "U01QDANUYVB",
+          "U01Q75KNV1T",
+          "U01R67PKD7S",
+          "U01QGJL6SP5",
+          "U01QV1TE2UR",
+          "U01QV28FG4R",
+          "U01Q1KQ03PZ",
+          "U01QNMUAUKW"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U01PVETPES3",
+          "U01Q1KFN4JK"
+        ]
+      },
+      {
+        "name": "black_heart",
+        "count": 1,
+        "users": [
+          "U01QAE5A9K5"
+        ]
+      },
+      {
+        "name": "muscle",
+        "count": 1,
+        "users": [
+          "U01Q1KFN4JK"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XnJW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[공지]\n안녕하세요 1기 장우석입니다.\n밤낮으로 공부에 매진하느라 건강 관리가 쉽지 않은 학우분들을 위해 풀업바를 4층 탕비실에 가져다 두었습니다.\n물 뜨러 오실 때 등 한번 씩 편하게 이용해주시면 될 것 같습니다.  모두 건강 잘 챙기면서 공부하세요~. 감사합니다.\n\n(다른 학우분들을 위해 이용 전후에는 손 소독제 이용을 부탁드리겠습니다.)\n(탕비실 이용에 불편 사항 발생 시에는 빠르게 철거할 수 있도록 하겠습니다. 편하게 말씀주세요!)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-09/1847548809364_34c58a403222aee8100b_72.png",
+      "first_name": "1기_장우석",
+      "real_name": "1기_장우석",
+      "display_name": "1기_장우석",
+      "team": "T01QA5S537V",
+      "name": "wscwsc92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01QNSM488Z"
+    ]
+  },
+  {
+    "client_msg_id": "e2038623-6ca0-430a-8840-c7460603544a",
+    "type": "message",
+    "user": "U01QNSM488Z",
+    "text": "체력이 곧 학력 :muscle:",
+    "ts": "1628562329.019000",
+    "thread_ts": "1628555809.016800",
+    "parent_user_id": "U01QAE5DERZ",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "muscle",
+        "count": 1,
+        "users": [
+          "U01QAE5DERZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WmGQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "체력이 곧 학력 "
+              },
+              {
+                "type": "emoji",
+                "name": "muscle",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "1기_황태현",
+      "real_name": "1기_황태현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "th.hwang",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

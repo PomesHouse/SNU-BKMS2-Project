@@ -1,0 +1,580 @@
+[
+  {
+    "client_msg_id": "62d3b8b6-2fbf-458e-87f1-2dc29a785890",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;폭염 재난 위기경보 '주의' 단계 발령 알림\u0026gt;*\n\n행정안전부에서는 온열질환자가 증가하는 상황을 고려하고, \"2023 새만금 세계잼버리 행사\" (2023. 8. 1. ~ 8. 12.)가 폭염으로 인한 인명피해 없이 성공적으로 개최될 수 있도록 2023. 6. 21.(수) 12:00부로 위기경보 '주의' 단계를 발령하였습니다.\n   ※ 2023. 5. 20. ~ 6. 19. 집계된 온열질환자는 총 149명(잠정)으로 지난 해 같은 기간 대비 45명 증가(질병관리청 온열질환 응급실감시체계 기준)\n이와 관련하여 학생 여러분께서는 폭염으로 인한 피해가 발생하지 않도록  대비하여 주시기 바랍니다.",
+    "ts": "1687396539.483299",
+    "files": [
+      {
+        "id": "F05DG4QJTQW",
+        "created": 1687396530,
+        "timestamp": 1687396530,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 333449,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05DG4QJTQW-image.png",
+        "url_private_download": "attachments/F05DG4QJTQW-image.png",
+        "original_h": 770,
+        "original_w": 800,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05DG4QJTQW-df212e3d9b/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05DG4QJTQW-df212e3d9b/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05DG4QJTQW-df212e3d9b/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05DG4QJTQW-df212e3d9b/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 347,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05DG4QJTQW-df212e3d9b/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 462,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05DG4QJTQW-df212e3d9b/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 693,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05DG4QJTQW/image.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05DG4QJTQW-883cac9a96",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P3h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c폭염 재난 위기경보 '주의' 단계 발령 알림\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n행정안전부에서는 온열질환자가 증가하는 상황을 고려하고, \"2023 새만금 세계잼버리 행사\" (2023. 8. 1. ~ 8. 12.)가 폭염으로 인한 인명피해 없이 성공적으로 개최될 수 있도록 2023. 6. 21.(수) 12:00부로 위기경보 '주의' 단계를 발령하였습니다.\n   ※ 2023. 5. 20. ~ 6. 19. 집계된 온열질환자는 총 149명(잠정)으로 지난 해 같은 기간 대비 45명 증가(질병관리청 온열질환 응급실감시체계 기준)\n이와 관련하여 학생 여러분께서는 폭염으로 인한 피해가 발생하지 않도록  대비하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "474e8459-20dd-4e01-9492-f2ad2fc3a708",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;2023년 온라인 인권/성평등 교육(법정의무교육) 이수 재안내\u0026gt;*\n\n4대 폭력예방교육(성희롱·성폭력·가정폭력·성매매)은 관련 법령에 따라 실시되는 법정의무교육으로 대학 전 구성원은 매년 1회 이상 교육을 이수하여야 합니다(본교에서는 *\"인권/성평등 교육\"으로 통합·운영).* 이에, *모든 구성원은 다음과 같이 인권/성평등 교육을 이수*하여 주시기 바랍니다. 특별히, 데이터사이언스대학원 학생 이수율이 36%(6.5. 기준)에 그치고 있어 인권센터에서 재차 독려를 안내해왔으므로, 아직 이수하지 않으신 학생분들은 꼭 이수해주시면 감사하겠습니다.\n\nㅇ 이수 대상: 교원(전임 및 비전임), 재학생(휴학생 제외), 직원(전체)\nㅇ 이수 방법: *온라인 인권/성평등 교육 시스템(\u003chttp://helplms.snu.ac.kr\u003e)에서 이수*",
+    "ts": "1687415506.941809",
+    "files": [
+      {
+        "id": "F05E2AF482V",
+        "created": 1687415492,
+        "timestamp": 1687415492,
+        "name": "붙임1. 2023년 폭력예방교육 운영 안내.pdf",
+        "title": "붙임1. 2023년 폭력예방교육 운영 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2962182,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05E2AF482V-붙임1. 2023년 폭력예방교육 운영 안내.pdf",
+        "url_private_download": "attachments/F05E2AF482V-붙임1. 2023년 폭력예방교육 운영 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05E2AF482V/______1._2023____________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05E2AF482V-2846608f71",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DZlf9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023년 온라인 인권/성평등 교육(법정의무교육) 이수 재안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n4대 폭력예방교육(성희롱·성폭력·가정폭력·성매매)은 관련 법령에 따라 실시되는 법정의무교육으로 대학 전 구성원은 매년 1회 이상 교육을 이수하여야 합니다(본교에서는 "
+              },
+              {
+                "type": "text",
+                "text": "\"인권/성평등 교육\"으로 통합·운영). ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "이에, "
+              },
+              {
+                "type": "text",
+                "text": "모든 구성원은 다음과 같이 인권/성평등 교육을 이수",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여 주시기 바랍니다. 특별히, 데이터사이언스대학원 학생 이수율이 36%(6.5. 기준)에 그치고 있어 인권센터에서 재차 독려를 안내해왔으므로, 아직 이수하지 않으신 학생분들은 꼭 이수해주시면 감사하겠습니다.\n\nㅇ 이수 대상: 교원(전임 및 비전임), 재학생(휴학생 제외), 직원(전체)\nㅇ 이수 방법: "
+              },
+              {
+                "type": "text",
+                "text": "온라인 인권/성평등 교육 시스템(",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "http://helplms.snu.ac.kr",
+                "text": "",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ")에서 이수",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "f89f2368-0f01-4d92-80f2-066dc3d9099f",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;2023년 2학기 글로벌 초우수 장학금 장학생 모집공고\u0026gt;*\n\n글로벌 초우수 장학금 장학생 모집일정을 다음과 같이 공고합니다. (첨부파일 참조)\nWe are pleased to announce the call for the SNU Global Scholarship of Fall 2023.(Refer attached files)",
+    "ts": "1687418927.642789",
+    "files": [
+      {
+        "id": "F05DH9LRE6A",
+        "created": 1687418913,
+        "timestamp": 1687418913,
+        "name": "ENG) SNU Global Scholarship(GS) for Fall 2023.pdf",
+        "title": "ENG) SNU Global Scholarship(GS) for Fall 2023.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 296967,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05DH9LRE6A-ENG) SNU Global Scholarship(GS) for Fall 2023.pdf",
+        "url_private_download": "attachments/F05DH9LRE6A-ENG) SNU Global Scholarship(GS) for Fall 2023.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05DH9LRE6A/eng__snu_global_scholarship_gs__for_fall_2023.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05DH9LRE6A-c7bddce6b9",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05DSCB54EQ",
+        "created": 1687418915,
+        "timestamp": 1687418915,
+        "name": "KOR) 2023년 2학기 글로벌 초우수 장학금 장학생 모집공고.pdf",
+        "title": "KOR) 2023년 2학기 글로벌 초우수 장학금 장학생 모집공고.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 148804,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05DSCB54EQ-KOR) 2023년 2학기 글로벌 초우수 장학금 장학생 모집공고.pdf",
+        "url_private_download": "attachments/F05DSCB54EQ-KOR) 2023년 2학기 글로벌 초우수 장학금 장학생 모집공고.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05DSCB54EQ/kor__2023____2___________________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05DSCB54EQ-2d8aebc7c5",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05EDLC9RJL",
+        "created": 1687418921,
+        "timestamp": 1687418921,
+        "name": "2023학년도 2학기 글로벌 초우수 장학금(SNU Global Scholarship, GS) 신청 안내.pdf",
+        "title": "2023학년도 2학기 글로벌 초우수 장학금(SNU Global Scholarship, GS) 신청 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 206152,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05EDLC9RJL-2023학년도 2학기 글로벌 초우수 장학금(SNU Global Scholarship, GS) 신청 안내.pdf",
+        "url_private_download": "attachments/F05EDLC9RJL-2023학년도 2학기 글로벌 초우수 장학금(SNU Global Scholarship, GS) 신청 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05EDLC9RJL/2023__________2_____________________________________snu_global_scholarship__gs_______________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05EDLC9RJL-fd1d22842c",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05DPUYL4FL",
+        "created": 1687418924,
+        "timestamp": 1687418924,
+        "name": "How to Create an SNU_ID in Steps.pdf",
+        "title": "How to Create an SNU_ID in Steps.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 717976,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05DPUYL4FL-How to Create an SNU_ID in Steps.pdf",
+        "url_private_download": "attachments/F05DPUYL4FL-How to Create an SNU_ID in Steps.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05DPUYL4FL/how_to_create_an_snu_id_in_steps.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05DPUYL4FL-29f54836af",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QhUX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023년 2학기 글로벌 초우수 장학금 장학생 모집공고\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n글로벌 초우수 장학금 장학생 모집일정을 다음과 같이 공고합니다. (첨부파일 참조)\nWe are pleased to announce the call for the SNU Global Scholarship of Fall 2023.(Refer attached files)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "client_msg_id": "fb166c6c-8f80-4ba2-aad6-19ce86911220",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*[카카오] 카카오 데이터 경력개발자 대규모 영입*\n\n이번 영입은 파편화되어있던 카카오 Data 분야의 공고들을 현 트렌드 및 팀 별 방향성에 맞추어 업데이트하여 집중적으로 경력 개발자 분들을 모집하는 영입입니다.\n\n해당 공고는 경력 개발자를 대상으로 진행되나, 석/박사 재학중인 분들께도 좋은 기회가 될 것입니다.\n\n공고명: \u003chttps://careers.kakao.com/jobs/P-12703|[Up-data!] 2022 kakao Data 경력 개발자 영입\u003e\n공고 게재 기간: 6/17 (금) ~ 7/8 (금) 15:00",
+    "ts": "1655711122.839309",
+    "attachments": [
+      {
+        "fallback": "카카오 영입",
+        "id": 1,
+        "title": "카카오 영입",
+        "title_link": "https://careers.kakao.com/jobs/P-12703",
+        "text": "[Up-data!] 2022 kakao Data 경력 개발자 영입 / 테크 / 정규직",
+        "image_url": "http://t1.daumcdn.net/comis/jobs/images/logo/meta_career.png",
+        "service_name": "careers.kakao.com",
+        "service_icon": "https://t1.daumcdn.net/comis/common/images/favicon_64x64.ico",
+        "from_url": "https://careers.kakao.com/jobs/P-12703",
+        "original_url": "https://careers.kakao.com/jobs/P-12703",
+        "blocks": null
+      }
+    ],
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ruvpm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[카카오] 카카오 데이터 경력개발자 대규모 영입",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n이번 영입은 파편화되어있던 카카오 Data 분야의 공고들을 현 트렌드 및 팀 별 방향성에 맞추어 업데이트하여 집중적으로 경력 개발자 분들을 모집하는 영입입니다.\n\n해당 공고는 경력 개발자를 대상으로 진행되나, 석/박사 재학중인 분들께도 좋은 기회가 될 것입니다.\n\n공고명: "
+              },
+              {
+                "type": "link",
+                "url": "https://careers.kakao.com/jobs/P-12703",
+                "text": "[Up-data!] 2022 kakao Data 경력 개발자 영입"
+              },
+              {
+                "type": "text",
+                "text": "\n공고 게재 기간: 6/17 (금) ~ 7/8 (금) 15:00"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "client_msg_id": "11332ced-61f0-43e3-804b-20fc35e5bb12",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "*[서버 작업 공지]*\n\n현재부로 C 클러스터 사용하셔도 됩니다.\n\n~(c01,03,06 노드는 문제가 생겨 작업 중 입니다.)~\n문제 생긴 노드 모두 작업완료하였습니다",
+    "ts": "1675754687.919519",
+    "thread_ts": "1675400646.083529",
+    "edited": {
+      "user": "U01R67PKD7S",
+      "ts": "1675758656.000000"
+    },
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "party_blob-2",
+        "count": 7,
+        "users": [
+          "U02UVAT3BPW",
+          "U01R678KWP2",
+          "U02UT2VQ9NF",
+          "U0302PLQ34Y",
+          "U02UT1XUGFL",
+          "U01QV1SQJ57",
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p1/=v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[서버 작업 공지]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n현재부로 C 클러스터 사용하셔도 됩니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "(c01,03,06 노드는 문제가 생겨 작업 중 입니다.)",
+                "style": {
+                  "strike": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n문제 생긴 노드 모두 작업완료하였습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "11332ced-61f0-43e3-804b-20fc35e5bb12",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "*[서버 작업 공지]*\n\n현재부로 C 클러스터 사용하셔도 됩니다.\n\n~(c01,03,06 노드는 문제가 생겨 작업 중 입니다.)~\n문제 생긴 노드 모두 작업완료하였습니다",
+    "ts": "1675754687.919519",
+    "thread_ts": "1675400646.083529",
+    "edited": {
+      "user": "U01R67PKD7S",
+      "ts": "1675758656.000000"
+    },
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "party_blob-2",
+        "count": 7,
+        "users": [
+          "U02UVAT3BPW",
+          "U01R678KWP2",
+          "U02UT2VQ9NF",
+          "U0302PLQ34Y",
+          "U02UT1XUGFL",
+          "U01QV1SQJ57",
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p1/=v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[서버 작업 공지]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n현재부로 C 클러스터 사용하셔도 됩니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "(c01,03,06 노드는 문제가 생겨 작업 중 입니다.)",
+                "style": {
+                  "strike": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n문제 생긴 노드 모두 작업완료하였습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

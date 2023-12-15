@@ -1,0 +1,528 @@
+[
+  {
+    "client_msg_id": "db1eda8d-ef2f-40ed-b1f5-b0f17b2c5aab",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "[GSDS 풋살 동아리:soccer: - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n방학에도 공을 차는 FC Layers입니다! 오늘은 기계과?!  학생분들과 함께 했습니다!!!\n점점 실력이 올라오고 있는데요~ :sunglasses:\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n\n*FC Layers*와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다",
+    "ts": "1689164355.870309",
+    "thread_ts": "1689164355.870309",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0302PLQ34Y",
+        "ts": "1689164445.484049"
+      }
+    ],
+    "latest_reply": "1689164445.484049",
+    "files": [
+      {
+        "id": "F05GREQ2TUL",
+        "created": 1689164328,
+        "timestamp": 1689164328,
+        "name": "EF0E839B-7917-44C1-819D-B91AF7B93120.jpeg",
+        "title": "EF0E839B-7917-44C1-819D-B91AF7B93120.jpeg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QV1SQJ57",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 938963,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05GREQ2TUL-EF0E839B-7917-44C1-819D-B91AF7B93120.jpeg",
+        "url_private_download": "attachments/F05GREQ2TUL-EF0E839B-7917-44C1-819D-B91AF7B93120.jpeg",
+        "original_h": 1081,
+        "original_w": 1440,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05GREQ2TUL-c13182e848/ef0e839b-7917-44c1-819d-b91af7b93120_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05GREQ2TUL-c13182e848/ef0e839b-7917-44c1-819d-b91af7b93120_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05GREQ2TUL-c13182e848/ef0e839b-7917-44c1-819d-b91af7b93120_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05GREQ2TUL-c13182e848/ef0e839b-7917-44c1-819d-b91af7b93120_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05GREQ2TUL-c13182e848/ef0e839b-7917-44c1-819d-b91af7b93120_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05GREQ2TUL-c13182e848/ef0e839b-7917-44c1-819d-b91af7b93120_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 541,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05GREQ2TUL-c13182e848/ef0e839b-7917-44c1-819d-b91af7b93120_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 721,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05GREQ2TUL-c13182e848/ef0e839b-7917-44c1-819d-b91af7b93120_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 769,
+        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F05GREQ2TUL/ef0e839b-7917-44c1-819d-b91af7b93120.jpeg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GREQ2TUL-13dada1761",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05GGBL86AJ",
+        "created": 1689164336,
+        "timestamp": 1689164336,
+        "name": "4A5436FD-581D-4E25-B2D9-9960802F000F_1_105_c.jpeg",
+        "title": "4A5436FD-581D-4E25-B2D9-9960802F000F_1_105_c.jpeg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QV1SQJ57",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 367147,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05GGBL86AJ-4A5436FD-581D-4E25-B2D9-9960802F000F_1_105_c.jpeg",
+        "url_private_download": "attachments/F05GGBL86AJ-4A5436FD-581D-4E25-B2D9-9960802F000F_1_105_c.jpeg",
+        "original_h": 768,
+        "original_w": 1024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05GGBL86AJ-702b7743f3/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05GGBL86AJ-702b7743f3/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05GGBL86AJ-702b7743f3/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05GGBL86AJ-702b7743f3/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05GGBL86AJ-702b7743f3/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05GGBL86AJ-702b7743f3/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05GGBL86AJ-702b7743f3/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05GGBL86AJ-702b7743f3/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U01QV1SQJ57/F05GGBL86AJ/4a5436fd-581d-4e25-b2d9-9960802f000f_1_105_c.jpeg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GGBL86AJ-f547debfc5",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "soccer",
+        "count": 15,
+        "users": [
+          "U01QV1SQJ57",
+          "U040MB3TGSE",
+          "U0302PHUHME",
+          "U04QE4ASJP7",
+          "U0302PLQ34Y",
+          "U04QVM3TUD7",
+          "U02V5LU4ED7",
+          "U02V5LTRU2V",
+          "U01R689L5KJ",
+          "U0302PJE83A",
+          "U02UCD2C9V5",
+          "U0406PM050F",
+          "U01Q1KFN4JK",
+          "U04R6NRBD1N",
+          "U04QKG4K12Q"
+        ]
+      },
+      {
+        "name": "muscle",
+        "count": 11,
+        "users": [
+          "U01QV1SQJ57",
+          "U0302PLQ34Y",
+          "U0302PHUHME",
+          "U04QE4ASJP7",
+          "U04QVM3TUD7",
+          "U04QKG4QTS8",
+          "U02V5LU4ED7",
+          "U0302PJE83A",
+          "U02UCD2C9V5",
+          "U0406PM050F",
+          "U01Q1KFN4JK"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 15,
+        "users": [
+          "U01QV1SQJ57",
+          "U0302PLQ34Y",
+          "U0302PHUHME",
+          "U04QE4ASJP7",
+          "U04QVM3TUD7",
+          "U02V5LU4ED7",
+          "U04R6NS3924",
+          "U0302PJE83A",
+          "U04QE496FTP",
+          "U02UCD2C9V5",
+          "U0406PM050F",
+          "U01Q1KFN4JK",
+          "U0302PK342C",
+          "U040JBW6THT",
+          "U041GBXK5A4"
+        ]
+      },
+      {
+        "name": "tada",
+        "count": 11,
+        "users": [
+          "U01QV1SQJ57",
+          "U0302PLQ34Y",
+          "U0302PHUHME",
+          "U04QE4ASJP7",
+          "U04QVM3TUD7",
+          "U02V5LU4ED7",
+          "U02V5LTRU2V",
+          "U0302PJE83A",
+          "U02UCD2C9V5",
+          "U01Q1KFN4JK",
+          "U04R6NRBD1N"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 11,
+        "users": [
+          "U0302PLQ34Y",
+          "U04QE4ASJP7",
+          "U01QV1SQJ57",
+          "U04QVM3TUD7",
+          "U02UT1YNY6N",
+          "U02V5LU4ED7",
+          "U02V5LTRU2V",
+          "U0302PJE83A",
+          "U02UCD2C9V5",
+          "U01Q1KFN4JK",
+          "U04R6NRBD1N"
+        ]
+      },
+      {
+        "name": "muscle::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTRU2V"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTRU2V"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U04R6NRBD1N"
+        ]
+      },
+      {
+        "name": "muscle::skin-tone-3",
+        "count": 1,
+        "users": [
+          "U04R6NRBD1N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h17",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 풋살 동아리"
+              },
+              {
+                "type": "emoji",
+                "name": "soccer",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " - FC Layers]\n안녕하세요. 박사과정 4기 김병찬입니다.\n\n방학에도 공을 차는 FC Layers입니다! 오늘은 기계과?!  학생분들과 함께 했습니다!!!\n점점 실력이 올라오고 있는데요~ "
+              },
+              {
+                "type": "emoji",
+                "name": "sunglasses",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n다음에는 더 많은 학생분들이 함께 했으면 좋겠습니다!!!\n\n"
+              },
+              {
+                "type": "text",
+                "text": "FC Layers",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "와 함께할 관심있는 GSDS 모두모두 환영합니다~\n못해도 괜찮고 잘해도 괜찮습니다~\n\n댓글 달아주시면 감사하겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0302PLQ34Y"
+    ]
+  },
+  {
+    "client_msg_id": "1d09b4f6-4b5c-4fdc-946f-3882194e9f6b",
+    "type": "message",
+    "user": "U0302PLQ34Y",
+    "text": "승리의 단무지 :+1:",
+    "ts": "1689164445.484049",
+    "thread_ts": "1689164355.870309",
+    "parent_user_id": "U01QV1SQJ57",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U01QV1SQJ57"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "depG4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "승리의 단무지 "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2023-07-12/5590776974256_ce997b79a8d558c5ccc5_72.jpg",
+      "first_name": "채규병",
+      "real_name": "채규병",
+      "display_name": "3기_채규병",
+      "team": "T01QA5S537V",
+      "name": "kyubyung91",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "38e1759b-741c-44ee-9712-2f9a2b4c5cd0",
+    "type": "message",
+    "user": "U0302PK342C",
+    "text": "안녕하세요. 7월 탕비실 청소를 천둥 연구실이 맡게 되어 공지드립니다.\n\n7월 14일(금) 오후 3시 30분에 냉장고 및 탕비실 청소를 진행하겠습니다.\n지난달과 마찬가지로 아래 링크의 가이드라인을 참고하셔서 사전에 정리해주시면 감사하겠습니다.\n\n*[사용 및 정리 가이드라인]*\n\u003chttps://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799\u003e\n1. 식품\n    a. 이름(또는 랩실명)과 보존기간이 명시되지 않은 식품의 경우, 폐기 처리\n    b. 명시된 보존기간이 지난 경우, 폐기 처리\n2. 식품 외 물품: 이름(또는 랩실명)이 명시되어 있지 않은 식품 외 물품의 경우, 폐기 처리\n3. 공통: 과도한 공간을 차지하고 있다고 판단되는 물품은 소유자에게 반환 처리 (이름이 없을 경우 전량 폐기 처리)\n추가적으로 냉동고에 위치한 탄산 음료는 터질 우려가 있어 냉장실로 옮기도록 하겠습니다.\n\n혹시 청소 전까지 물품을 옮기지 못하시는 경우 아래 댓글 부탁드립니다.\n감사합니다.",
+    "ts": "1689175970.739889",
+    "thread_ts": "1689175970.739889",
+    "attachments": [
+      {
+        "fallback": "[July 25th, 2022 10:52 PM] kimjoohyoen: 안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+        "id": 1,
+        "author_id": "U01QGKCT067",
+        "author_name": "2기_김주현",
+        "author_subname": "2기_김주현",
+        "author_link": "https://snugsds.slack.com/team/U01QGKCT067",
+        "author_icon": "https://secure.gravatar.com/avatar/c6966545056a08d1f4311a48cc662172.jpg?s=48\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-48.png",
+        "text": "안녕하세요 학생회 총무 2기 김주현입니다.\n이제 3.5기 학생들도 입학을 앞두고 있어 지속적으로 문제가 제기되어오던 냉장고 및 탕비실 수납공간에 대한 정리를 오는 *수요일(27일) 오후 4시 30분*에 하겠습니다.\n\n이미 두 번의 청소를 통해 공지드렸던 사항이지만 다시 한번 구체적인 냉장고 사용 및 정리 가이드를 알려드리겠습니다.\n\n1. 냉장고에 식품을 보관할 시 반드시 *이름과 보존기간*을 명시해주세요. *이름이나 보존기간 둘 중 하나라도 미비되어 있는 경우 모두 버리도록 하겠습니다.*\n2. 냉장고에 과도하게 공간을 차지하는(특히, 냉동실에 보관하는 대량의 닭가슴살, 밀키트)  식품의 경우 타인의 사용을 제한할 수 있기에 지금까지는 경고 수준에서 그쳤지만, *내일 정리를 포함한 향후 모든 정리 일정에서 이름과 보존기간이 명시되어있다하더라도, 과도하게 자리를 차지하고 있다고 판단할 시 해당 물품의 소유주에게 돌려주거나 이름이 없을 경우 전량 폐기처리하겠습니다.*\n3. 내일 정리에서는 싱크대 서랍장에 보관되어있는 식품, 물품 모두 이름과 보존기간이 명시되어있지 않은 경우 버리겠습니다. *서랍장에 칫솔 등을 포함한 세면도구, 농구공 등도 있는데 식품, 물품 관계없이 모두 폐기처리하겠습니다.* 배달음식을 먹을 때 사용할만한 일회용품 등의 경우는 저희가 따로 보관장소를 추후 말씀드리거나 구역을 제한하겠습니다.\n학교에 등교하시지 않는 분들이라면 정리 기한을 말씀드렸기에 급하게 보관해야하는 물건이 있다면, 학교에 등교한 다른 분들이나 저에게 이름과 보존기간을 명기해달라고 부탁드리는 경우, 이번에는 기입해드리도록 하겠습니다. 다만, 앞으로 각 연구실 별로 청소를 담당하게 될텐데 그 경우에는 더 이상 공지하지 않고 위의 사항을 그대로 실천하겠습니다.\n저희 대학원 학생 수가 더 늘어나지만 저장 공간에 한계가 있는 만큼 원우 여러분들의 적극적인 협조 부탁드립니다.\n\n감사합니다.",
+        "from_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+        "original_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "Slack Conversation",
+        "ts": 1658814777.571799
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U0302PK342C",
+        "ts": "1689316506.623869"
+      }
+    ],
+    "latest_reply": "1689316506.623869",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U02ULBHV58W",
+          "U01Q1KFN4JK",
+          "U0302PLQ34Y",
+          "U02V5LT4DLZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B7U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 7월 탕비실 청소를 천둥 연구실이 맡게 되어 공지드립니다.\n\n7월 14일(금) 오후 3시 30분에 냉장고 및 탕비실 청소를 진행하겠습니다.\n지난달과 마찬가지로 아래 링크의 가이드라인을 참고하셔서 사전에 정리해주시면 감사하겠습니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "[사용 및 정리 가이드라인]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1658814777571799",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2dd\\ud488\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\ub984(\\ub610\\ub294 \\ub7a9\\uc2e4\\uba85)\\uacfc \\ubcf4\\uc874\\uae30\\uac04\\uc774 \\uba85\\uc2dc\\ub418\\uc9c0 \\uc54a\\uc740 \\uc2dd\\ud488\\uc758 \\uacbd\\uc6b0, \\ud3d0\\uae30 \\ucc98\\ub9ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uba85\\uc2dc\\ub41c \\ubcf4\\uc874\\uae30\\uac04\\uc774 \\uc9c0\\ub09c \\uacbd\\uc6b0, \\ud3d0\\uae30 \\ucc98\\ub9ac\"}]}],\"style\":\"ordered\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2dd\\ud488 \\uc678 \\ubb3c\\ud488: \\uc774\\ub984(\\ub610\\ub294 \\ub7a9\\uc2e4\\uba85)\\uc774 \\uba85\\uc2dc\\ub418\\uc5b4 \\uc788\\uc9c0 \\uc54a\\uc740 \\uc2dd\\ud488 \\uc678 \\ubb3c\\ud488\\uc758 \\uacbd\\uc6b0, \\ud3d0\\uae30 \\ucc98\\ub9ac\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uacf5\\ud1b5: \\uacfc\\ub3c4\\ud55c \\uacf5\\uac04\\uc744 \\ucc28\\uc9c0\\ud558\\uace0 \\uc788\\ub2e4\\uace0 \\ud310\\ub2e8\\ub418\\ub294 \\ubb3c\\ud488\\uc740 \\uc18c\\uc720\\uc790\\uc5d0\\uac8c \\ubc18\\ud658 \\ucc98\\ub9ac (\\uc774\\ub984\\uc774 \\uc5c6\\uc744 \\uacbd\\uc6b0 \\uc804\\ub7c9 \\ud3d0\\uae30 \\ucc98\\ub9ac)\"}]}],\"style\":\"ordered\",\"indent\":0,\"offset\":1,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "추가적으로 냉동고에 위치한 탄산 음료는 터질 우려가 있어 냉장실로 옮기도록 하겠습니다.\n\n혹시 청소 전까지 물품을 옮기지 못하시는 경우 아래 댓글 부탁드립니다.\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8dfc94767f5ee19594e0ce897e2418db.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "3기_이규성",
+      "real_name": "3기_이규성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ksnannaya",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U0302PK342C"
+    ]
+  }
+]

@@ -1,0 +1,120 @@
+[
+  {
+    "client_msg_id": "5a53db4d-bcfa-4e35-b335-b96024c9dc25",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u003c!channel\u003e* \n\u0026lt;대학원 홈페이지 내 「공간예약」시스템 재안내\u0026gt;\n\n우리 대학원내 공용공간 관련 「공간예약」 시스템에 대한 재안내드립니다.\n주요내용을 숙지하여 주시기 바랍니다.\n\n\u0026lt;주요내용\u0026gt;\n1. *이용약관*\n• 우리 모두가 사용하는 공용공간이므로 공간 이용 후 정리정돈 및 청결한 뒷마무리 부탁 드립니다. (음식물 취식 금지)\n• 독점예약을 방지하고자 *호실별 1일 1인, 1회(최대 3시간, 1회 연장 가능)로 제한합니다.*  \n      ※ *주기적 행사(랩미팅 또는 스터디 등)는 매주 예약 부탁 드립니다.* (한꺼번에 한달 또는 한학기 예약 지양)\n• *사전예약제로 운영되며 예약을 취소할 경우 예약자가 직접 취소해 주시기 바랍니다. (예약승인처리: 매일 오전 처리)*\n*2. 홈페이지 예약 메뉴*\n우리 대학원 홈페이지(\u003chttp://gsds.snu.ac.kr|gsds.snu.ac.kr\u003e) → 위쪽 상단 메뉴 「ABOUT」 → 공간예약\n※ 서울대학교 포털 ID로 로그인 후 예약 가능",
+    "ts": "1656982474.083299",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wA77",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\u003c대학원 홈페이지 내 「공간예약」시스템 재안내\u003e\n\n우리 대학원내 공용공간 관련 「공간예약」 시스템에 대한 재안내드립니다.\n주요내용을 숙지하여 주시기 바랍니다.\n\n\u003c주요내용\u003e\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc774\\uc6a9\\uc57d\\uad00\",\"style\":{\"bold\":true}}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc6b0\\ub9ac \\ubaa8\\ub450\\uac00 \\uc0ac\\uc6a9\\ud558\\ub294 \\uacf5\\uc6a9\\uacf5\\uac04\\uc774\\ubbc0\\ub85c \\uacf5\\uac04 \\uc774\\uc6a9 \\ud6c4 \\uc815\\ub9ac\\uc815\\ub3c8 \\ubc0f \\uccad\\uacb0\\ud55c \\ub4b7\\ub9c8\\ubb34\\ub9ac \\ubd80\\ud0c1 \\ub4dc\\ub9bd\\ub2c8\\ub2e4. (\\uc74c\\uc2dd\\ubb3c \\ucde8\\uc2dd \\uae08\\uc9c0)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub3c5\\uc810\\uc608\\uc57d\\uc744 \\ubc29\\uc9c0\\ud558\\uace0\\uc790 \"},{\"type\":\"text\",\"text\":\"\\ud638\\uc2e4\\ubcc4 1\\uc77c 1\\uc778, 1\\ud68c(\\ucd5c\\ub300 3\\uc2dc\\uac04, 1\\ud68c \\uc5f0\\uc7a5 \\uac00\\ub2a5)\\ub85c \\uc81c\\ud55c\\ud569\\ub2c8\\ub2e4.  \",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "      ※"
+              },
+              {
+                "type": "text",
+                "text": " 주기적 행사(랩미팅 또는 스터디 등)는 매주 예약 부탁 드립니다. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "(한꺼번에 한달 또는 한학기 예약 지양)\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc0ac\\uc804\\uc608\\uc57d\\uc81c\\ub85c \\uc6b4\\uc601\\ub418\\uba70 \\uc608\\uc57d\\uc744 \\ucde8\\uc18c\\ud560 \\uacbd\\uc6b0 \\uc608\\uc57d\\uc790\\uac00 \\uc9c1\\uc811 \\ucde8\\uc18c\\ud574 \\uc8fc\\uc2dc\\uae30 \\ubc14\\ub78d\\ub2c8\\ub2e4. (\\uc608\\uc57d\\uc2b9\\uc778\\ucc98\\ub9ac: \\ub9e4\\uc77c \\uc624\\uc804 \\ucc98\\ub9ac)\",\"style\":{\"bold\":true}}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "2. 홈페이지 예약 메뉴",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n우리 대학원 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "http://gsds.snu.ac.kr",
+                "text": "gsds.snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ") → 위쪽 상단 메뉴 「ABOUT」 → 공간예약\n※ 서울대학교 포털 ID로 로그인 후 예약 가능"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

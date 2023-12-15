@@ -1,0 +1,61 @@
+[
+  {
+    "client_msg_id": "e5f44897-722c-4194-aafb-d11756d18039",
+    "type": "message",
+    "user": "U04R6NRBD1N",
+    "text": "[프론트 개발자 구인]\n안녕하세요, 4기 석사과정 이찬규입니다. KAIST+NYU+SNU 학생이 함께 창업한 블록체인 스타트업에서 Part time Front 한 분 모십니다! 관심 있으신 분 DM 부탁드려요~ :slightly_smiling_face:\n• React 능숙자 (학력무관)\n• Web3에 관심있다면 Perfect\n• 주업무 : NFT Marketplace 개발\n• 근무형태 : 비대면(재택) + 자율\n• 페이 : ~ 세후 4백",
+    "ts": "1685335090.481409",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6BG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[프론트 개발자 구인]\n안녕하세요, 4기 석사과정 이찬규입니다. KAIST+NYU+SNU 학생이 함께 창업한 블록체인 스타트업에서 Part time Front 한 분 모십니다! 관심 있으신 분 DM 부탁드려요~ "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"React \\ub2a5\\uc219\\uc790 (\\ud559\\ub825\\ubb34\\uad00)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Web3\\uc5d0 \\uad00\\uc2ec\\uc788\\ub2e4\\uba74 Perfect\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\uc5c5\\ubb34 : NFT Marketplace \\uac1c\\ubc1c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uadfc\\ubb34\\ud615\\ud0dc : \\ube44\\ub300\\uba74(\\uc7ac\\ud0dd) + \\uc790\\uc728\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud398\\uc774 : ~ \\uc138\\ud6c4 4\\ubc31\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8a2e1f976155af343926370e44a1810a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0011-72.png",
+      "first_name": "ChanGyu",
+      "real_name": "ChanGyu Lee",
+      "display_name": "4기_이찬규",
+      "team": "T01QA5S537V",
+      "name": "changyu6036",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

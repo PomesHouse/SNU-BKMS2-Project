@@ -1,0 +1,140 @@
+[
+  {
+    "client_msg_id": "5896f297-eb2b-4d20-bbf1-7de055f36ced",
+    "type": "message",
+    "user": "U01QUKKQ8GH",
+    "text": "DataRobot이 Zepl을 인수했다는 소식입니다. 차상균 교수님은 \"Zepl은 한국에서 개발한 훌륭한 data science visualization software였는데 리더십의 한계 때문에 크게 꽃을 피우지 못한 아쉬운 케이스입니다.\"라고 평하셨습니다. 기사 첨부합니다.\n\n\u003chttps://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/\u003e",
+    "ts": "1621049663.106500",
+    "thread_ts": "1621049663.106500",
+    "attachments": [
+      {
+        "fallback": "TechCrunch: DataRobot expands platform and announces Zepl acquisition – TechCrunch",
+        "id": 1,
+        "title": "DataRobot expands platform and announces Zepl acquisition – TechCrunch",
+        "title_link": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
+        "text": "DataRobot, the Boston-based automated machine learning startup, had a bushel of announcements this morning as it expanded its platform to give technical and nontechnical users alike something new. It also announced it has acquired Zepl, giving it an advanced development environment where data scien…",
+        "image_url": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-1299482894.jpg?w=700",
+        "service_name": "TechCrunch",
+        "service_icon": "https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=180",
+        "from_url": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
+        "original_url": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
+        "blocks": null
+      }
+    ],
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01QGKD09K5",
+        "ts": "1621049917.106900"
+      }
+    ],
+    "latest_reply": "1621049917.106900",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 5,
+        "users": [
+          "U01PVET2C31",
+          "U01Q386CMKQ",
+          "U01Q1KFN4JK",
+          "U01Q75KNV1T",
+          "U01QDANUYVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gu20M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "DataRobot이 Zepl을 인수했다는 소식입니다. 차상균 교수님은 \"Zepl은 한국에서 개발한 훌륭한 data science visualization software였는데 리더십의 한계 때문에 크게 꽃을 피우지 못한 아쉬운 케이스입니다.\"라고 평하셨습니다. 기사 첨부합니다.\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://techcrunch.com/2021/05/11/datarobot-expands-platform-and-announces-zepl-acquisition/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김호현",
+      "real_name": "김호현",
+      "display_name": "2기_김호현",
+      "team": "T01QA5S537V",
+      "name": "waterdream",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01QGKD09K5"
+    ]
+  },
+  {
+    "client_msg_id": "8d1ac759-649d-40cd-a964-633b2fe596d1",
+    "type": "message",
+    "user": "U01QGKD09K5",
+    "text": "Apache Zeppelin 관련된 곳이로군요. 새로운 소식 감사합니다",
+    "ts": "1621049917.106900",
+    "thread_ts": "1621049663.106500",
+    "parent_user_id": "U01QUKKQ8GH",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p3b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Apache Zeppelin 관련된 곳이로군요. 새로운 소식 감사합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "어경선",
+      "real_name": "어경선",
+      "display_name": "2기_어경선",
+      "team": "T01QA5S537V",
+      "name": "eks104",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

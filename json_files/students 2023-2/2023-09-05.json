@@ -1,0 +1,586 @@
+[
+  {
+    "client_msg_id": "8f305446-876e-47c7-9be1-8e76aba03d28",
+    "type": "message",
+    "user": "U040C40QE6T",
+    "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar :pizza:\n안녕하세요 GSDS 학생회 입니다. :smiley:\n금주 9월 8일 금요일에 :tada:피자 세미나:tada:가 진행됩니다.\n\n#################################\n일시: 9월 8일 금요일, 12시 30분 - 1시 30분\n장소: *43-2동 B102호*\n발표자 및 발표 주제:\n•  김주현 (이상학 교수님 연구실): Can we utilize Pre-trained Language Models within Causal Discovery Algorithms?\n•  이승훈 (이준석 교수님 연구실): Towards Physically Reliable Molecular Representation Learning\n#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!",
+    "ts": "1693898609.177699",
+    "thread_ts": "1693898609.177699",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U04QE49RPV3",
+        "ts": "1694070364.456699"
+      }
+    ],
+    "latest_reply": "1694070364.456699",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pizza",
+        "count": 51,
+        "users": [
+          "U02C3D2T0BS",
+          "U041B24HMFS",
+          "U01QGD17SUU",
+          "U02V5LTRU2V",
+          "U01PVEU1A07",
+          "U04Q2G3LS15",
+          "U01QV1SQJ57",
+          "U01QAE573J7",
+          "U01QA82PZFU",
+          "U04QGUFBFR9",
+          "U0302PK342C",
+          "U02UT2UPB2P",
+          "U0406PLJWCX",
+          "U040PQB9R1A",
+          "U04QE49RPV3",
+          "U02UQ4CE0AH",
+          "U040MB3TGSE",
+          "U040M7VULN7",
+          "U01QNSM488Z",
+          "U04QH2D7YMQ",
+          "U01R67PKD7S",
+          "U02UQ4CMR7X",
+          "U04QE48M2UV",
+          "U02V5LTUGGH",
+          "U02ULBGNF7G",
+          "U040ZVCKKND",
+          "U04QAE84G5U",
+          "U02ULBH3TEJ",
+          "U0302PLQ34Y",
+          "U02ULBKA8DU",
+          "U04QE4AFJ69",
+          "U02UT1XUGFL",
+          "U04QAE6FHV4",
+          "U040ZVDSA0H",
+          "U01QAE5A9K5",
+          "U04Q2G4KNTZ",
+          "U04R6NSR66L",
+          "U02BD3EV4DQ",
+          "U01QZRUNBA4",
+          "U01PVEU98KH",
+          "U02UCD1RBNK",
+          "U04R6NS3924",
+          "U04QE49LL6R",
+          "U02V5LRB5S5",
+          "U02UCD2C9V5",
+          "U02UT2TFZ8B",
+          "U02B19BV9ST",
+          "U041B24C16U",
+          "U041GBXK5A4",
+          "U040M7VCS2X"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rmgz/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar "
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n안녕하세요 GSDS 학생회 입니다. "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n금주 9월 8일 금요일에 "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "피자 세미나"
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "가 진행됩니다.\n\n#################################\n일시: 9월 8일 금요일, 12시 30분 - 1시 30분\n장소: "
+              },
+              {
+                "type": "text",
+                "text": "43-2동 B102호",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n발표자 및 발표 주제:\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\uae40\\uc8fc\\ud604 (\\uc774\\uc0c1\\ud559 \\uad50\\uc218\\ub2d8 \\uc5f0\\uad6c\\uc2e4): Can we utilize Pre-trained Language Models within Causal Discovery Algorithms?\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \\uc774\\uc2b9\\ud6c8 (\\uc774\\uc900\\uc11d \\uad50\\uc218\\ub2d8 \\uc5f0\\uad6c\\uc2e4): Towards Physically Reliable Molecular Representation Learning\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "#################################\n\n피자 수량 수요조사를 위해 참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.\n많은 참여 부탁드립니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김채윤",
+      "real_name": "김채윤",
+      "display_name": "3.5기_김채윤",
+      "team": "T01QA5S537V",
+      "name": "golddohyun",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U04QE49RPV3"
+    ]
+  },
+  {
+    "client_msg_id": "a536c5ef-6202-4f25-a51f-1b8f4cc95913",
+    "type": "message",
+    "user": "U040M7VULN7",
+    "text": "*[2023년도 2학기 942동 사물함 배정결과]*\n안녕하세요. GSDS 학생회입니다.\n4.5기 신입생 포함 72명의 재학생 분들이 지원해주셔서 랜덤 배정했습니다.\n확인 부탁드립니다:pray:",
+    "ts": "1693900758.035159",
+    "files": [
+      {
+        "id": "F05R0NTHE7N",
+        "created": 1693900645,
+        "timestamp": 1693900645,
+        "name": "232boxes_assigned.xlsx",
+        "title": "232boxes_assigned.xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "image_exif_rotation": 0,
+        "filetype": "xlsx",
+        "pretty_type": "Excel 스프레드시트",
+        "user": "U040M7VULN7",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 6721,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05R0NTHE7N-232boxes_assigned.xlsx",
+        "url_private_download": "attachments/F05R0NTHE7N-232boxes_assigned.xlsx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U040M7VULN7/F05R0NTHE7N/232boxes_assigned.xlsx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05R0NTHE7N-b96ea8b8e4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U02ULBHV58W",
+          "U02UT1XABT4",
+          "U04QVM3QD41",
+          "U040ENMBB1C",
+          "U04R6NS3924",
+          "U0406PM050F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wSQi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[2023년도 2학기 942동 사물함 배정결과]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n안녕하세요. GSDS 학생회입니다.\n4.5기 신입생 포함 72명의 재학생 분들이 지원해주셔서 랜덤 배정했습니다.\n확인 부탁드립니다"
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "허상우",
+      "real_name": "허상우",
+      "display_name": "3.5기_허상우",
+      "team": "T01QA5S537V",
+      "name": "sh10hsw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d14c869-1288-482b-a561-6f668f460667",
+    "type": "message",
+    "user": "U040M7VULN7",
+    "text": "(배치도입니다)",
+    "ts": "1693900822.807619",
+    "files": [
+      {
+        "id": "F05QRLU2RGE",
+        "created": 1693900813,
+        "timestamp": 1693900813,
+        "name": "사물함배치도.png",
+        "title": "사물함배치도.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U040M7VULN7",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 184108,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05QRLU2RGE-사물함배치도.png",
+        "url_private_download": "attachments/F05QRLU2RGE-사물함배치도.png",
+        "original_h": 843,
+        "original_w": 1501,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05QRLU2RGE-a8c958cc6f/___________________________________________64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05QRLU2RGE-a8c958cc6f/___________________________________________80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05QRLU2RGE-a8c958cc6f/___________________________________________160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05QRLU2RGE-a8c958cc6f/___________________________________________360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 202,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05QRLU2RGE-a8c958cc6f/___________________________________________480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 270,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05QRLU2RGE-a8c958cc6f/___________________________________________720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 404,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05QRLU2RGE-a8c958cc6f/___________________________________________960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 539,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05QRLU2RGE-a8c958cc6f/___________________________________________1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 575,
+        "permalink": "https://snugsds.slack.com/files/U040M7VULN7/F05QRLU2RGE/__________________________________________.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QRLU2RGE-bac9c6f47b",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N0f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(배치도입니다)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a42d5634decd5aaaafd726b6152f9c4e.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "허상우",
+      "real_name": "허상우",
+      "display_name": "3.5기_허상우",
+      "team": "T01QA5S537V",
+      "name": "sh10hsw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "AE354095-2B28-4FD1-8523-AAE16CEED7A4",
+    "type": "message",
+    "user": "U04Q2G465SB",
+    "text": "지난학기 942동 407 자리 앉으신 분 세로 모니터랑 모니터 받침대 등 물건 있습니다. 혹시 주인 있으시면 저한테 연락 주시고 오셔서 가져가세요.!! ",
+    "ts": "1693904533.561729",
+    "files": [
+      {
+        "id": "F05QYGNPXMZ",
+        "created": 1693904505,
+        "timestamp": 1693904505,
+        "name": "IMG_4384.jpg",
+        "title": "IMG_4384",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U04Q2G465SB",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1585900,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05QYGNPXMZ-IMG_4384.jpg",
+        "url_private_download": "attachments/F05QYGNPXMZ-IMG_4384.jpg",
+        "original_h": 3024,
+        "original_w": 4032,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05QYGNPXMZ-b51f22842c/img_4384_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05QYGNPXMZ-b51f22842c/img_4384_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05QYGNPXMZ-b51f22842c/img_4384_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05QYGNPXMZ-b51f22842c/img_4384_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05QYGNPXMZ-b51f22842c/img_4384_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05QYGNPXMZ-b51f22842c/img_4384_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05QYGNPXMZ-b51f22842c/img_4384_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05QYGNPXMZ-b51f22842c/img_4384_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "permalink": "https://snugsds.slack.com/files/U04Q2G465SB/F05QYGNPXMZ/img_4384.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QYGNPXMZ-79df924c14",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aXs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "지난학기 942동 407 자리 앉으신 분 세로 모니터랑 모니터 받침대 등 물건 있"
+              },
+              {
+                "type": "text",
+                "text": "습니다"
+              },
+              {
+                "type": "text",
+                "text": ". "
+              },
+              {
+                "type": "text",
+                "text": "혹시"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "주인"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "있으시면"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "저한테"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "연락"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "주시고"
+              },
+              {
+                "type": "text",
+                "text": " 오셔서 가져가세요.!! "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/595fdd399f0417b5171d54440f8db9b0.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "4기_안예림",
+      "real_name": "4기_안예림",
+      "display_name": "4기_안예림",
+      "team": "T01QA5S537V",
+      "name": "amy2511",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

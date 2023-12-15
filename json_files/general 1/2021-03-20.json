@@ -1,0 +1,222 @@
+[
+  {
+    "client_msg_id": "9e3750da-a3c1-4319-b488-1be33a13f478",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": ":mega: 내일은 InnoJam 투표 *마지막 날*입니다!\n\n:heavy_check_mark: *6pm 까지* *모두 빠짐없이* 투표해주시기 바랍니다!\n\n\u003chttps://docs.google.com/forms/d/e/1FAIpQLSe_g9gYIiBKbITtgyTNoVWE5xWoq2W_yAPUeVWjgFbwl6MwPA/viewform\u003e",
+    "ts": "1616199879.013700",
+    "thread_ts": "1615453048.002500",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "woman-gesturing-ok",
+        "count": 3,
+        "users": [
+          "U01R719DKK2",
+          "U01Q75KNV1T",
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "380D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "mega",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 내일은 InnoJam 투표 "
+              },
+              {
+                "type": "text",
+                "text": "마지막 날",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "입니다!\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "heavy_check_mark",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "6pm 까지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "모두 빠짐없이",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 투표해주시기 바랍니다!\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_g9gYIiBKbITtgyTNoVWE5xWoq2W_yAPUeVWjgFbwl6MwPA/viewform",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9e3750da-a3c1-4319-b488-1be33a13f478",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": ":mega: 내일은 InnoJam 투표 *마지막 날*입니다!\n\n:heavy_check_mark: *6pm 까지* *모두 빠짐없이* 투표해주시기 바랍니다!\n\n\u003chttps://docs.google.com/forms/d/e/1FAIpQLSe_g9gYIiBKbITtgyTNoVWE5xWoq2W_yAPUeVWjgFbwl6MwPA/viewform\u003e",
+    "ts": "1616199879.013700",
+    "thread_ts": "1615453048.002500",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "woman-gesturing-ok",
+        "count": 3,
+        "users": [
+          "U01R719DKK2",
+          "U01Q75KNV1T",
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "380D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "mega",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 내일은 InnoJam 투표 "
+              },
+              {
+                "type": "text",
+                "text": "마지막 날",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "입니다!\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "heavy_check_mark",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "6pm 까지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "모두 빠짐없이",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 투표해주시기 바랍니다!\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSe_g9gYIiBKbITtgyTNoVWE5xWoq2W_yAPUeVWjgFbwl6MwPA/viewform",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

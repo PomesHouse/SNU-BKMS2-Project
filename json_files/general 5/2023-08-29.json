@@ -1,0 +1,354 @@
+[
+  {
+    "client_msg_id": "91c3840d-2da8-4fa8-924a-be99305ad5d4",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;제2공학관 하교 셔틀버스 시범운행 안내\u0026gt;\n\n제2공학관 하교 셔틀버스를 아래와 같이 시범운행한다 하오니 학생여러분께서는 참고하시기 바랍니다.\n\n ○ 기 간: 2023. 9. 1.(금) ~ 10. 31.(화) (주말 및 공휴일 제외)\n ○ 시 간: 17:00 ~ 19:00 (배차간격 15~20분 / 총 8회) ※ 세부 시간표 붙임 참조\n ○ 노 선: 제2공학관(302동)→38동(공대)→농대→서울대입구역 7번 출구\n ○ 참고사항\n  - 각 승차지점별 탑승인원 제한(제2공학관 및 38동 각 15명, 농대 14명)\n\n붙임 302동 하교 셔틀버스 시범운행 안내 1부. 끝.",
+    "ts": "1693287743.796469",
+    "files": [
+      {
+        "id": "F05QNFVN6EL",
+        "created": 1693287733,
+        "timestamp": 1693287733,
+        "name": "302동 하교셔틀 시범운행.pdf",
+        "title": "302동 하교셔틀 시범운행.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 925080,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05QNFVN6EL-302동 하교셔틀 시범운행.pdf",
+        "url_private_download": "attachments/F05QNFVN6EL-302동 하교셔틀 시범운행.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05QNFVN6EL/302_____________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QNFVN6EL-7168e88652",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/ls",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c제2공학관 하교 셔틀버스 시범운행 안내\u003e\n\n제2공학관 하교 셔틀버스를 아래와 같이 시범운행한다 하오니 학생여러분께서는 참고하시기 바랍니다.\n\n ○ 기 간: 2023. 9. 1.(금) ~ 10. 31.(화) (주말 및 공휴일 제외)\n ○ 시 간: 17:00 ~ 19:00 (배차간격 15~20분 / 총 8회) ※ 세부 시간표 붙임 참조\n ○ 노 선: 제2공학관(302동)→38동(공대)→농대→서울대입구역 7번 출구\n ○ 참고사항\n  - 각 승차지점별 탑승인원 제한(제2공학관 및 38동 각 15명, 농대 14명)\n\n붙임 302동 하교 셔틀버스 시범운행 안내 1부. 끝."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "db5560cc-d7bf-4f22-bc28-e8e4eb01ad39",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;각 군 현역병 모집일정('23년 9월) 안내\u0026gt;*\n\n병무청에서는 병역의무자의 전공, 자격ㆍ면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 하는 현역병 모집제도를 운영하고 있습니다. *2023년 9월 지원하여 2023년 12월 입영예정*인 각 군 현역병 모집일정을 안내하오니 학생 여러분께서는 병역의무 이행에 참고하시기 바랍니다.",
+    "ts": "1693289241.380709",
+    "files": [
+      {
+        "id": "F05Q1B0N6KW",
+        "created": 1693289227,
+        "timestamp": 1693289227,
+        "name": "2023년 9월 각 군 현역병 모집계획.hwpx",
+        "title": "2023년 9월 각 군 현역병 모집계획.hwpx",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 45962,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05Q1B0N6KW-2023년 9월 각 군 현역병 모집계획.hwpx",
+        "url_private_download": "attachments/F05Q1B0N6KW-2023년 9월 각 군 현역병 모집계획.hwpx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05Q1B0N6KW/2023____9__________________________________.hwpx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05Q1B0N6KW-5d26d2e609",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Hfq/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c각 군 현역병 모집일정('23년 9월) 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n병무청에서는 병역의무자의 전공, 자격ㆍ면허, 경력 등과 관련 있는 군사특기에 지원하여 해당분야에서 복무할 수 있도록 하는 현역병 모집제도를 운영하고 있습니다. "
+              },
+              {
+                "type": "text",
+                "text": "2023년 9월 지원하여 2023년 12월 입영예정",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "인 각 군 현역병 모집일정을 안내하오니 학생 여러분께서는 병역의무 이행에 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a4c73730-2d49-4b56-8089-170ef3708dc2",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;데이터사이언스대학원 행정실 운영 안내\u0026gt;*\n\n2023학년도 2학기부터 행정실이 43동으로 이동함에 따라 각 선생님들 담당 업무와 연락처 그리고 942동 근무 요일을 알려드리오니, 참고바랍니다. 해당 사항은 추후 변동될 수 있습니다.",
+    "ts": "1693296691.347379",
+    "files": [
+      {
+        "id": "F05QC4Q307K",
+        "created": 1693296663,
+        "timestamp": 1693296663,
+        "name": "★GSDS 행정실 운영 현황(2023.9.1.).pdf",
+        "title": "★GSDS 행정실 운영 현황(2023.9.1.).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 70163,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05QC4Q307K-★GSDS 행정실 운영 현황(2023.9.1.).pdf",
+        "url_private_download": "attachments/F05QC4Q307K-★GSDS 행정실 운영 현황(2023.9.1.).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05QC4Q307K/___gsds_________________________2023.9.1._.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QC4Q307K-e9b126215f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UgQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c데이터사이언스대학원 행정실 운영 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n2023학년도 2학기부터 행정실이 43동으로 이동함에 따라 각 선생님들 담당 업무와 연락처 그리고 942동 근무 요일을 알려드리오니, 참고바랍니다. 해당 사항은 추후 변동될 수 있습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "client_msg_id": "09C0461A-54FB-49F6-A54C-7E7C26EFBCD3",
+    "type": "message",
+    "user": "U01QNSMDGF3",
+    "text": "zenerate에서 여름 인턴을 모집한다고 합니다.\nGeospatial 데이터 분석에 관심 많으신 분 있으면 아래 링크로 지원해보시면 좋을 것 같습니다.  zenerate은 실력있는 건축가, AI 개발자, 소프트웨어 개발자가 모여서 부동산 개발/건축디자인 문제를 수학, 알고리즘, 데이터를 활용하여 해결하는 회사입니다. 자세한 정보는 홈페이지 \u003chttps://www.zenerate.ai/|https://www.zenerate.ai/\u003e 를 참조해주세요.\n\n지원링크: \u003chttps://docs.google.com/forms/d/1poAA0R2ZpVIgo22jaRwR3RmjIXZwKiZAoc7lusY2Gc4/edit|https://docs.google.com/forms/d/1poAA0R2ZpVIgo22jaRwR3RmjIXZwKiZAoc7lusY2Gc4/edit\u003e",
+    "ts": "1623813203.055300",
+    "attachments": [
+      {
+        "fallback": "Zenerate",
+        "id": 1,
+        "title": "Zenerate",
+        "title_link": "https://www.zenerate.ai/",
+        "text": "Zenerate All Possibilities",
+        "image_url": "https://zenerate.ai/img/logo_color.png",
+        "service_name": "zenerate.ai",
+        "from_url": "https://www.zenerate.ai/",
+        "original_url": "https://www.zenerate.ai/",
+        "blocks": null
+      }
+    ],
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "i_love_you_hand_sign",
+        "count": 3,
+        "users": [
+          "U01Q3A8TXU6",
+          "U01Q75KNV1T",
+          "U01QAE5A9K5"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wwy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "zenerate에서 여름 인턴을 모집한다고 합니다.\nGeospatial 데이터 분석에 관심 많으신 분 있으면 아래 링크로 지원해보시면 좋을 것 같습니다.  zenerate은 실력있는 건축가, AI 개발자, 소프트웨어 개발자가 모여서 부동산 개발/건축디자인 문제를 수학, 알고리즘, 데이터를 활용하여 해결하는 회사입니다. 자세한 정보는 홈페이지 "
+              },
+              {
+                "type": "link",
+                "url": "https://www.zenerate.ai/",
+                "text": "https://www.zenerate.ai/"
+              },
+              {
+                "type": "text",
+                "text": " 를 참조해주세요.\n\n지원링크: "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/1poAA0R2ZpVIgo22jaRwR3RmjIXZwKiZAoc7lusY2Gc4/edit",
+                "text": "https://docs.google.com/forms/d/1poAA0R2ZpVIgo22jaRwR3RmjIXZwKiZAoc7lusY2Gc4/edit"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/359dc98921adc6a6f1279b431734408c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "박민혜",
+      "real_name": "박민혜",
+      "display_name": "1기_박민혜",
+      "team": "T01QA5S537V",
+      "name": "minhye11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

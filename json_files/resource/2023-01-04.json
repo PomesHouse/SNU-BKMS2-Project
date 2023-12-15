@@ -1,0 +1,139 @@
+[
+  {
+    "client_msg_id": "91886705-9b60-4fb4-a1dd-6402ad74d142",
+    "type": "message",
+    "user": "U01QGG6A5LJ",
+    "text": "1월 18일 14시부터 16시까지 고등과학원 AI기초과학 센터에서 Statistical Methodologies based on Asymmetric Losses를 주제로 AI seminar 진행할 예정입니다. 관심 있는 분들은 아래 줌 링크를 통해 참석하실 수 있습니다.\n\u003chttps://us02web.zoom.us/j/89828363832?pwd=YzhRREYreUFJNDUwZi8xMVlORTZjdz09\u003e",
+    "ts": "1672825558.863989",
+    "edited": {
+      "user": "U01QGG6A5LJ",
+      "ts": "1672825613.000000"
+    },
+    "files": [
+      {
+        "id": "F04HGVDSZRS",
+        "created": 1672825209,
+        "timestamp": 1672825209,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QGG6A5LJ",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 173771,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04HGVDSZRS-image.png",
+        "url_private_download": "attachments/F04HGVDSZRS-image.png",
+        "original_h": 1346,
+        "original_w": 1486,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04HGVDSZRS-c0574133ea/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04HGVDSZRS-c0574133ea/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04HGVDSZRS-c0574133ea/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04HGVDSZRS-c0574133ea/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 326,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04HGVDSZRS-c0574133ea/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 435,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04HGVDSZRS-c0574133ea/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 652,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04HGVDSZRS-c0574133ea/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 870,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04HGVDSZRS-c0574133ea/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 928,
+        "permalink": "https://snugsds.slack.com/files/U01QGG6A5LJ/F04HGVDSZRS/image.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04HGVDSZRS-33f630635f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 11,
+        "users": [
+          "U01PVEU7QKH",
+          "U02ULBHV58W",
+          "U01QGKCT067",
+          "U02P4QDPG2W",
+          "U01QGJL6SP5",
+          "U0406PM050F",
+          "U02V5LT2XFB",
+          "U02V5LT4DLZ",
+          "U02UQ4D8L2Z",
+          "U040MB432JW",
+          "U02ULBGNF7G"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nib",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "1월 18일 14시부터 16시까지 고등과학원 AI기초과학 센터에서 Statistical Methodologies based on Asymmetric Losses를 주제로 AI seminar 진행할 예정입니다. 관심 있는 분들은 아래 줌 링크를 통해 참석하실 수 있습니다.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us02web.zoom.us/j/89828363832?pwd=YzhRREYreUFJNDUwZi8xMVlORTZjdz09",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1845178163313_ec8016a9186a6e00037d_72.png",
+      "first_name": "2기_정석호",
+      "real_name": "2기_정석호",
+      "display_name": "2기_정석호",
+      "team": "T01QA5S537V",
+      "name": "seokho92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

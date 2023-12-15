@@ -1,0 +1,523 @@
+[
+  {
+    "client_msg_id": "080f2162-058b-4735-a609-059b2025ecd0",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2021학년도 동계 계절수업 수강신청\u0026gt;\n\n2021학년도 동계 계절수업 수강신청 관련사항을 알려드리니 관련사항을 알려드리니 관심있는 학생분들께서는 붙임파일의 일정을 확인하시기 바랍니다.",
+    "ts": "1635209506.011000",
+    "files": [
+      {
+        "id": "F02JKTUT363",
+        "created": 1635209493,
+        "timestamp": 1635209493,
+        "name": "(붙임3)수강신청 부정행위 관련 알림-복사.pdf",
+        "title": "(붙임3)수강신청 부정행위 관련 알림-복사.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 254875,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02JKTUT363-(붙임3)수강신청 부정행위 관련 알림-복사.pdf",
+        "url_private_download": "attachments/F02JKTUT363-(붙임3)수강신청 부정행위 관련 알림-복사.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02JKTUT363/_______3________________________________________-______.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02JKTUT363-7d82857def",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F02K2QNFXUL",
+        "created": 1635209496,
+        "timestamp": 1635209496,
+        "name": "(붙임2)서울대학교 수강신청 매뉴얼(SNU Course Registration Manual)(2021.10.)-복사.pdf",
+        "title": "(붙임2)서울대학교 수강신청 매뉴얼(SNU Course Registration Manual)(2021.10.)-복사.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 25781052,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02K2QNFXUL-(붙임2)서울대학교 수강신청 매뉴얼(SNU Course Registration Manual)(2021.10.)-복사.pdf",
+        "url_private_download": "attachments/F02K2QNFXUL-(붙임2)서울대학교 수강신청 매뉴얼(SNU Course Registration Manual)(2021.10.)-복사.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02K2QNFXUL/_______2________________________________________snu_course_registration_manual__2021.10._-______.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02K2QNFXUL-7e62b469b2",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F02JTSE4ZML",
+        "created": 1635209503,
+        "timestamp": 1635209503,
+        "name": "(붙임1)2021학년도 동계 계절수업 수강신청 안내(Winter 2021 Session Course Registration Guidelines)-복사.pdf",
+        "title": "(붙임1)2021학년도 동계 계절수업 수강신청 안내(Winter 2021 Session Course Registration Guidelines)-복사.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1194045,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02JTSE4ZML-(붙임1)2021학년도 동계 계절수업 수강신청 안내(Winter 2021 Session Course Registration Guidelines)-복사.pdf",
+        "url_private_download": "attachments/F02JTSE4ZML-(붙임1)2021학년도 동계 계절수업 수강신청 안내(Winter 2021 Session Course Registration Guidelines)-복사.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02JTSE4ZML/_______1_2021__________________________________________________winter_2021_session_course_registration_guidelines_-______.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02JTSE4ZML-6a4b8718b7",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8d50",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2021학년도 동계 계절수업 수강신청\u003e\n\n2021학년도 동계 계절수업 수강신청 관련사항을 알려드리니 관련사항을 알려드리니 관심있는 학생분들께서는 붙임파일의 일정을 확인하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4d49b44c-9f64-4566-b964-a37b61484ec5",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e \u0026lt;2021학년도 2학기 논문계획서 심사 일정 알림\u0026gt;\n\n2021학년도 2학기 데이터사이언스대학원 논문계획서 심사 일정을 아래와 같이 알려드리니 해당하시는 분들께서는 일정을 확인하시기 바랍니다.\n*더하여 논문심사원을 아직 제출 하지 않으신 분들께서는 서둘러 심사원을 제출해주시고 심사료 납부를 하지 않으신 분들께서는 26일 오늘까지 납부하신 후 마이스누에서 납부확인서를 발급받아 제출*하여 주시기 바랍니다.\n\n심사일정은 아래와 같습니다.\n\n*일시: 2021년 10월 29일 금요일 13:00 ~ 15:45* \n*장소: 942동 308호 309호* \n*대기실:  942동 302호 (12시 50분 부터 대기하여 주시기 바랍니다.)*\n\n※발표시 이용할 자료가 있는 경우 USB에 담아오시면 308, 309호에 설치된 노트북에 연결하여 사용하실 수 있도록 준비해놓겠습니다.",
+    "ts": "1635233835.015600",
+    "thread_ts": "1635233835.015600",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U01QNSMDGF3",
+        "ts": "1635234101.016800"
+      },
+      {
+        "user": "U01QNJ7PWRX",
+        "ts": "1635235136.017000"
+      },
+      {
+        "user": "U01Q3A8TXU6",
+        "ts": "1635248223.017900"
+      },
+      {
+        "user": "U01QNJ7PWRX",
+        "ts": "1635295386.018100"
+      },
+      {
+        "user": "U01QNJ7PWRX",
+        "ts": "1635304651.018300"
+      }
+    ],
+    "latest_reply": "1635304651.018300",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "03NF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " \u003c2021학년도 2학기 논문계획서 심사 일정 알림\u003e\n\n2021학년도 2학기 데이터사이언스대학원 논문계획서 심사 일정을 아래와 같이 알려드리니 해당하시는 분들께서는 일정을 확인하시기 바랍니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "더하여 논문심사원을 아직 제출 하지 않으신 분들께서는 서둘러 심사원을 제출해주시고 심사료 납부를 하지 않으신 분들께서는 26일 오늘까지 납부하신 후 마이스누에서 납부확인서를 발급받아 제출",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여 주시기 바랍니다.\n\n심사일정은 아래와 같습니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "일시: 2021년 10월 29일 금요일 13:00 ~ 15:45 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "장소: 942동 308호 309호 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "대기실:  942동 302호 (12시 50분 부터 대기하여 주시기 바랍니다.)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n※발표시 이용할 자료가 있는 경우 USB에 담아오시면 308, 309호에 설치된 노트북에 연결하여 사용하실 수 있도록 준비해놓겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U01Q3A8TXU6",
+      "U01QNJ7PWRX",
+      "U01QNSMDGF3"
+    ]
+  },
+  {
+    "client_msg_id": "7120993C-C9AA-4EEA-B581-C36BBF581240",
+    "type": "message",
+    "user": "U01QNSMDGF3",
+    "text": "논문계획서는 금요일 몇시까지 제출하면 될까요? 메일로도 제출하는걸로 알고있어서요~",
+    "ts": "1635234101.016800",
+    "thread_ts": "1635233835.015600",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01Q75KNV1T"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Klj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "논문계획서는 금요일 몇시까지 제출하면 될까요? 메일로도 제출하는걸로 알고있어서요~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/359dc98921adc6a6f1279b431734408c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "박민혜",
+      "real_name": "박민혜",
+      "display_name": "1기_박민혜",
+      "team": "T01QA5S537V",
+      "name": "minhye11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "8f39a6be-3f63-4d77-8dbe-06eea2b90099",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "네, 해당 날짜까지 제출하시면 됩니다. 행정실에서 출력을 원하시는 분께서는 금요일 11시까지 제출하여 주시고 이후 제출하시는 분들께서는심사위원 수 만큼 출력하셔서 오시면 됩니다.",
+    "ts": "1635235136.017000",
+    "thread_ts": "1635233835.015600",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 4,
+        "users": [
+          "U01QNSMDGF3",
+          "U01Q75KNV1T",
+          "U01Q1KFN4JK",
+          "U01PVEU69BR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rS+=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네, 해당 날짜까지 제출하시면 됩니다. 행정실에서 출력을 원하시는 분께서는 금요일 11시까지 제출하여 주시고 이후 제출하시는 분들께서는심사위원 수 만큼 출력하셔서 오시면 됩니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "feeb8107-a340-4a90-93d1-4270429afe5e",
+    "type": "message",
+    "user": "U01Q3A8TXU6",
+    "text": "발표 언어는 자유인가요~?",
+    "ts": "1635248223.017900",
+    "thread_ts": "1635233835.015600",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YT8I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "발표 언어는 자유인가요~?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-10/1853799680001_db08142d4c6d232bc3cc_72.png",
+      "first_name": "1기_성기홍",
+      "real_name": "1기_성기홍",
+      "display_name": "1기_성기홍",
+      "team": "T01QA5S537V",
+      "name": "kev94yo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

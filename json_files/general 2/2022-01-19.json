@@ -1,0 +1,77 @@
+[
+  {
+    "client_msg_id": "ba0ee8de-cfd0-4190-a8ab-aae1c6d6c6b0",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u003c!channel\u003e [공지] 강의실, 세미나실, 포커스룸, 이노베이션랩은 '예약제'로 운영되고 있습니다.*\n*4층 세미나실 포함 이노베이션랩 등 예약하지 않고 1인이 독점 이용하고 있다는 민원이 지속되어 학생여러분들께 재공지 드립니다.*\n*많은 학생들이 원내 공간을 편리하게 이용할 수 있도록 협조 부탁 드립니다.*",
+    "ts": "1642565684.005800",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8gR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " [공지] 강의실, 세미나실, 포커스룸, 이노베이션랩은 '예약제'로 운영되고 있습니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "4층 세미나실 포함 이노베이션랩 등 예약하지 않고 1인이 독점 이용하고 있다는 민원이 지속되어 학생여러분들께 재공지 드립니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "많은 학생들이 원내 공간을 편리하게 이용할 수 있도록 협조 부탁 드립니다.",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

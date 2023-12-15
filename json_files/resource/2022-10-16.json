@@ -1,0 +1,152 @@
+[
+  {
+    "client_msg_id": "940cf087-2a55-4011-999b-dc3cd19eb40b",
+    "type": "message",
+    "user": "U02ULBJGHF0",
+    "text": "안녕하세요.\n\n\n박현우 교수님께서 전달 요청하셔서 글 수정합니다. \n이번 금요일 10:30에 예정이었던 경영학자 Brian Uzzi의 세미나는 취소되었고, 이번 학기 중으로 다시 열린다고 하오니 착오 없으시길 바랍니다. 혹시 가시려 했던 분들께서 헷갈리시지 않으시도록 이 글은 원래 예정이었던 날인 21일 금요일 이후 내리도록 하겠습니다:). \n\n[전략 및 국제경영 Department Seminar Series]\n\n`연사` :  Brian Uzzi 교수 (Northwestern University)\n\n`주제` : “Human and Machine Conditions Favoring Innovation in Science and Business”\n\n`일시` : 추후 업데이트 예정\n\n`장소` : 추후 업데이트 예정\n\n`웹사이트` : \u003chttps://www.kellogg.northwestern.edu/faculty/uzzi/htm/|https://www.kellogg.northwestern.edu/faculty/uzzi/htm/\u003e\n\n`Abstract` :\n\nInnovation involves recombining past knowledge. The increasing rate at which scientific knowledge is expanding should bode well for innovation. Nevertheless, problems related to creating and appraising new ideas threaten innovation.  In study 1, we examine the role of mixed gender teams in the creation of high impact and novel research relative to same gender teams.  The study analyzes of over 26 million scientific papers.  We find that mixed gender teams across nearly all disciplines in science produce more highly cited and more novel research papers than same gender teams, a relationship that increases with the team’s gender balance.  Further, despite the value of mixed gender teams for research impact, mixed gender teams remain underrepresented in science.   In study 2, we use artificial intelligence to examine the replication problem in science.  We estimate a paper’s replicability using ground truth, manual replication data, and then test the model’s an extensive set of out-of-sample studies. The model predicts replicability better than reviewer base rates and on par with prediction markets. We then conduct a discipline-wide census of replicability. The analysis covers 14,129 papers, the near universe of papers published in the major subfields of Developmental, Social, Clinical, Cognitive, Organizational, and Personality psychology. We find replicability varies by subfield, methods, but not institutional prestige, and that social media coverage strongly predicts non-replication.   In study 3, we use AI to address science’s intensified goal of spotting breakthroughs early.  Using application data 6.5 international patents –- we develop a model that accurately predicts future hit technology in 95% of cases, a significant increase over the base rate and current models.  Further, we find that hit innovations are not identified based on their remarkable individual capabilities but their position in the innovation network.  First, hits are connected to inventions of a similar vintage, rather than historically strong patents.  Second, hits are connected to a network of diverse rather than similar inventions.  Third, while hit inventions have diverse networks, the networks are better integrated than non-hit networks.  In the case of both scientific papers and patents, AI appears to garner error-reducing information not from numerical information but from descriptive free-text, which machines quantify better than humans. We discuss how these findings can improve innovation, scientific training, and performance.",
+    "ts": "1665933983.756369",
+    "attachments": [
+      {
+        "fallback": "Brian Uzzi - Kellogg School of Management | Home",
+        "id": 1,
+        "title": "Brian Uzzi - Kellogg School of Management | Home",
+        "title_link": "https://www.kellogg.northwestern.edu/faculty/uzzi/htm/",
+        "text": "Brian Uzzi is a globally recognized scholar, teacher, consultant and speaker on leadership, social networks, and new media",
+        "service_name": "kellogg.northwestern.edu",
+        "service_icon": "https://www.kellogg.northwestern.edu/favicon.ico",
+        "from_url": "https://www.kellogg.northwestern.edu/faculty/uzzi/htm/",
+        "original_url": "https://www.kellogg.northwestern.edu/faculty/uzzi/htm/",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U02ULBJGHF0",
+      "ts": "1666264958.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 3,
+        "users": [
+          "U01Q1KQ03PZ",
+          "U01QV28FG4R",
+          "U02V5LT4DLZ"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PJR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요.\n\n\n박현우 교수님께서 전달 요청하셔서 글 수정합니다. \n이번 금요일 10:30에 예정이었던 경영학자 Brian Uzzi의 세미나는 취소되었고, 이번 학기 중으로 다시 열린다고 하오니 착오 없으시길 바랍니다. 혹시 가시려 했던 분들께서 헷갈리시지 않으시도록 이 글은 원래 예정이었던 날인 21일 금요일 이후 내리도록 하겠습니다:). \n\n[전략 및 국제경영 Department Seminar Series]\n\n"
+              },
+              {
+                "type": "text",
+                "text": "연사",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " :  Brian Uzzi 교수 (Northwestern University)\n\n"
+              },
+              {
+                "type": "text",
+                "text": "주제",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " : “Human and Machine Conditions Favoring Innovation in Science and Business”\n\n"
+              },
+              {
+                "type": "text",
+                "text": "일시",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " : 추후 업데이트 예정\n\n"
+              },
+              {
+                "type": "text",
+                "text": "장소",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " : 추후 업데이트 예정\n\n"
+              },
+              {
+                "type": "text",
+                "text": "웹사이트",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " : "
+              },
+              {
+                "type": "link",
+                "url": "https://www.kellogg.northwestern.edu/faculty/uzzi/htm/",
+                "text": "https://www.kellogg.northwestern.edu/faculty/uzzi/htm/"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "Abstract",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " :\n\nInnovation involves recombining past knowledge. The increasing rate at which scientific knowledge is expanding should bode well for innovation. Nevertheless, problems related to creating and appraising new ideas threaten innovation.  In study 1, we examine the role of mixed gender teams in the creation of high impact and novel research relative to same gender teams.  The study analyzes of over 26 million scientific papers.  We find that mixed gender teams across nearly all disciplines in science produce more highly cited and more novel research papers than same gender teams, a relationship that increases with the team’s gender balance.  Further, despite the value of mixed gender teams for research impact, mixed gender teams remain underrepresented in science.   In study 2, we use artificial intelligence to examine the replication problem in science.  We estimate a paper’s replicability using ground truth, manual replication data, and then test the model’s an extensive set of out-of-sample studies. The model predicts replicability better than reviewer base rates and on par with prediction markets. We then conduct a discipline-wide census of replicability. The analysis covers 14,129 papers, the near universe of papers published in the major subfields of Developmental, Social, Clinical, Cognitive, Organizational, and Personality psychology. We find replicability varies by subfield, methods, but not institutional prestige, and that social media coverage strongly predicts non-replication.   In study 3, we use AI to address science’s intensified goal of spotting breakthroughs early.  Using application data 6.5 international patents –- we develop a model that accurately predicts future hit technology in 95% of cases, a significant increase over the base rate and current models.  Further, we find that hit innovations are not identified based on their remarkable individual capabilities but their position in the innovation network.  First, hits are connected to inventions of a similar vintage, rather than historically strong patents.  Second, hits are connected to a network of diverse rather than similar inventions.  Third, while hit inventions have diverse networks, the networks are better integrated than non-hit networks.  In the case of both scientific papers and patents, AI appears to garner error-reducing information not from numerical information but from descriptive free-text, which machines quantify better than humans. We discuss how these findings can improve innovation, scientific training, and performance."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/5410a897c74f1ccdd90e53fcb3aff3dd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "3기_강민정",
+      "real_name": "3기_강민정",
+      "display_name": "3기_강민정",
+      "team": "T01QA5S537V",
+      "name": "loveandloved713",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

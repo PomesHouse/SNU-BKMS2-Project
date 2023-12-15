@@ -1,0 +1,196 @@
+[
+  {
+    "client_msg_id": "a23a01c0-a5de-499f-95f8-adda9ac6f8ea",
+    "type": "message",
+    "user": "U02UQ4BRJE9",
+    "text": "안녕하세요. 3기 박사과정 백은수 입니다.\n크래프톤 자회사인 렐루게임즈에서 Deep learning Engineer를 모집하고 있고 홍보요청을 받아 공유드리니 많은 관심부탁드립니다 :slightly_smiling_face:\n\n드디어, 렐루게임즈에서 채용을 시작합니다!\n\n[Deep Learning Programmer]\n\n:red_circle:우리 팀과 함께할 미션을 소개합니다.\n다양한 게임 장르, 플랫폼, 규모에 맞는 딥러닝 모델 구축, 학습, 서빙\n타 직군과의 커뮤니케이션 및 의견조율\n게임 개발 그 자체\n\n\n:red_circle:이런 경험을 가진 분과 함께 성장하고 싶습니다! (필수 요건)\n딥러닝에 대한 전문적, 수학적인 이해\n딥러닝 모델을 직접 개발, 학습한 경험\n각종 DL Framework에 대한 경험\n영문 논문 이해가 가능한 영어 실력\n\n\n:red_circle:이런 경험들이 있다면 저희가 찾는 그 분입니다! (우대요건)\n전체 게임 개발 프로세스 경험\n딥러닝과 게임의 융합에 대해 고민하는 분\n직군과 역할에 얽매이지 않고 게임 개발에 진심이신 분\n딥러닝 전공자\n\n[제출서류]\n입사지원서(자유 양식), 자기소개서, 경력기술서, 포트폴리오(필요 시)\n경력 사항 위주로 작성\n제출처: \u003cmailto:ReLU_recruit@relugames.com|ReLU_recruit@relugames.com\u003e\n\n[사이트]\n\u003chttps://krafton.com/careers/recruit-detail/?var_page=1\u0026amp;job=2653\u0026amp;search_list_cnt=10\u0026amp;search_keyword=ReLU%20Games\u003e\n\u003chttps://zdnet.co.kr/view/?no=20230614130126\u003e\n\u003chttps://www.relugames.com\u003e\n\u003chttps://kr.linkedin.com/jobs/view/deep-learning-engineer-at-relu-games-3700641185\u003e",
+    "ts": "1694411780.046349",
+    "attachments": [
+      {
+        "fallback": "KRAFTON | 크래프톤 공식 웹사이트: 채용공고",
+        "id": 1,
+        "title": "채용공고",
+        "title_link": "https://krafton.com/careers/recruit-detail/?var_page=1\u0026job=2653\u0026search_list_cnt=10\u0026search_keyword=ReLU%20Games",
+        "text": "크래프톤의 채용 공고를 확인하세요.",
+        "thumb_url": "https://krafton.com/wp-content/uploads/2021/07/KRAFTON_OG_Image.png",
+        "service_name": "KRAFTON | 크래프톤 공식 웹사이트",
+        "service_icon": "https://krafton.com/wp-content/themes/krafton/assets/img/logo/apple-touch-icon.png",
+        "from_url": "https://krafton.com/careers/recruit-detail/?var_page=1\u0026job=2653\u0026search_list_cnt=10\u0026search_keyword=ReLU%20Games",
+        "original_url": "https://krafton.com/careers/recruit-detail/?var_page=1\u0026amp;job=2653\u0026amp;search_list_cnt=10\u0026amp;search_keyword=ReLU%20Games",
+        "blocks": null,
+        "ts": 1631526003
+      },
+      {
+        "fallback": "크래프톤, 신규 스튜디오 렐루게임즈 설립",
+        "id": 2,
+        "title": "크래프톤, 신규 스튜디오 렐루게임즈 설립",
+        "title_link": "https://zdnet.co.kr/view/?no=20230614130126",
+        "text": "크래프톤(대표 김창한)은 1일 신규 독립 스튜디오 렐루게임즈(ReLU Games)를 설립하고, 크래프톤 스페셜 프로젝트 2를 총괄해온 김민정 실장을 대표이사로 선임...",
+        "thumb_url": "https://image.zdnet.co.kr/2023/06/14/c2e6550be17618402b81ce6a7077a594.jpg",
+        "service_name": "zdnet.co.kr",
+        "from_url": "https://zdnet.co.kr/view/?no=20230614130126",
+        "original_url": "https://zdnet.co.kr/view/?no=20230614130126",
+        "blocks": null,
+        "ts": 1686715293
+      },
+      {
+        "fallback": "ReLU Games",
+        "id": 3,
+        "title": "ReLU Games",
+        "title_link": "https://www.relugames.com/",
+        "text": "Relu Games",
+        "image_url": "https://oopy.lazyrockets.com/api/rest/cdn/image/ef6941ea-eb63-43de-8123-7a182ec6c354.jpeg",
+        "service_name": "relugames.com",
+        "service_icon": "https://oopy.lazyrockets.com/api/rest/cdn/image/f7a18c04-2ca8-413f-aaac-2425f7958c2c.png?d=16",
+        "from_url": "https://www.relugames.com/",
+        "original_url": "https://www.relugames.com",
+        "blocks": null
+      },
+      {
+        "fallback": "ReLU Games Deep Learning Engineer(대한민국 경기도 성남) 채용중 | LinkedIn",
+        "id": 4,
+        "title": "ReLU Games Deep Learning Engineer(대한민국 경기도 성남) 채용중 | LinkedIn",
+        "title_link": "https://kr.linkedin.com/jobs/view/deep-learning-engineer-at-relu-games-3700641185",
+        "text": "등록일: 오전 4:45:21 드디어, 렐루게임즈에서 채용을 시작합니다![Deep Learning Programmer]:red_circle:우리 팀과 함께할 미션을 소개합니다.다양한 게임 장르, 플랫폼, 규모에 맞는 딥러닝… - LinkedIn에서 보기",
+        "service_name": "kr.linkedin.com",
+        "service_icon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "from_url": "https://kr.linkedin.com/jobs/view/deep-learning-engineer-at-relu-games-3700641185",
+        "original_url": "https://kr.linkedin.com/jobs/view/deep-learning-engineer-at-relu-games-3700641185",
+        "blocks": null
+      }
+    ],
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U0302PLQ34Y",
+          "U02UQ4CKE2H"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uyB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 3기 박사과정 백은수 입니다.\n크래프톤 자회사인 렐루게임즈에서 Deep learning Engineer를 모집하고 있고 홍보요청을 받아 공유드리니 많은 관심부탁드립니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n드디어, 렐루게임즈에서 채용을 시작합니다!\n\n[Deep Learning Programmer]\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "red_circle",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "우리 팀과 함께할 미션을 소개합니다.\n다양한 게임 장르, 플랫폼, 규모에 맞는 딥러닝 모델 구축, 학습, 서빙\n타 직군과의 커뮤니케이션 및 의견조율\n게임 개발 그 자체\n\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "red_circle",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "이런 경험을 가진 분과 함께 성장하고 싶습니다! (필수 요건)\n딥러닝에 대한 전문적, 수학적인 이해\n딥러닝 모델을 직접 개발, 학습한 경험\n각종 DL Framework에 대한 경험\n영문 논문 이해가 가능한 영어 실력\n\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "red_circle",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "이런 경험들이 있다면 저희가 찾는 그 분입니다! (우대요건)\n전체 게임 개발 프로세스 경험\n딥러닝과 게임의 융합에 대해 고민하는 분\n직군과 역할에 얽매이지 않고 게임 개발에 진심이신 분\n딥러닝 전공자\n\n[제출서류]\n입사지원서(자유 양식), 자기소개서, 경력기술서, 포트폴리오(필요 시)\n경력 사항 위주로 작성\n제출처: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:ReLU_recruit@relugames.com",
+                "text": "ReLU_recruit@relugames.com"
+              },
+              {
+                "type": "text",
+                "text": "\n\n[사이트]\n"
+              },
+              {
+                "type": "link",
+                "url": "https://krafton.com/careers/recruit-detail/?var_page=1\u0026job=2653\u0026search_list_cnt=10\u0026search_keyword=ReLU%20Games",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://zdnet.co.kr/view/?no=20230614130126",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.relugames.com",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://kr.linkedin.com/jobs/view/deep-learning-engineer-at-relu-games-3700641185",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-01-19/2976152563749_4373772efe6a7f29395d_72.png",
+      "first_name": "3기_백은수",
+      "real_name": "3기_백은수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "beshu9407",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

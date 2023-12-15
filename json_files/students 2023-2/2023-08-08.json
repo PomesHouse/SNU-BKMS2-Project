@@ -1,0 +1,159 @@
+[
+  {
+    "client_msg_id": "fa7f5c2e-c916-4f63-84d2-1ddbc71e097e",
+    "type": "message",
+    "user": "U02ULBGNF7G",
+    "text": "본 물품을 분실한 학생은 4층 446번 책상에 있으니 가져가시기 바랍니다:)",
+    "ts": "1691465309.929889",
+    "files": [
+      {
+        "id": "F05LU20T9E0",
+        "created": 1691465255,
+        "timestamp": 1691465255,
+        "name": "IMG_20230808_122727.jpg",
+        "title": "IMG_20230808_122727.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02ULBGNF7G",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 314059,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05LU20T9E0-IMG_20230808_122727.jpg",
+        "url_private_download": "attachments/F05LU20T9E0-IMG_20230808_122727.jpg",
+        "original_h": 4000,
+        "original_w": 3000,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05LU20T9E0-d956dd431d/img_20230808_122727_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05LU20T9E0-d956dd431d/img_20230808_122727_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05LU20T9E0-d956dd431d/img_20230808_122727_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05LU20T9E0-d956dd431d/img_20230808_122727_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05LU20T9E0-d956dd431d/img_20230808_122727_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05LU20T9E0-d956dd431d/img_20230808_122727_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05LU20T9E0-d956dd431d/img_20230808_122727_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05LU20T9E0-d956dd431d/img_20230808_122727_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U02ULBGNF7G/F05LU20T9E0/img_20230808_122727.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05LU20T9E0-9495916200",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JGbg1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "본 물품을 분실한 학생은 4층 446번 책상에 있으니 가져가시기 바랍니다:)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/23524cd4cca90e60ff797a0bbd5adbbc.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "3기_김정수",
+      "real_name": "3기_김정수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kimjs0619",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "b934ea92-b6c4-4d7f-ac84-a64de01dd00b",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "찬성율과 투표율을 혼동하여 정정하였습니다. 감사합니다.",
+    "ts": "1691500970.796119",
+    "thread_ts": "1691127067.471759",
+    "parent_user_id": "U02ULBH3TEJ",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XWj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "찬성율과 투표율을 혼동하여 정정하였습니다. 감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

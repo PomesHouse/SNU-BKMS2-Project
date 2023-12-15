@@ -1,0 +1,136 @@
+[
+  {
+    "client_msg_id": "7730a6e8-2d1a-4725-93de-1d1b39b22668",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": ":mega:[3기 학생회 재모집]:mega:\n\n3기 여러분 안녕하세요! :raised_hands:\n\n2023년을 맞이한지도 벌써 한 달 남짓 지났네요.\n\n이제 곧 새 학기가 시작될텐데요.\n\n이에 앞서서 전체 학생대표로 활동할 3기 분들을 모십니다.\n\n특별히 이번부터는 전체 학생대표의 경우 *학교측에서 소정의 장학금을 지급할 예정*이라고 하니 :slightly_smiling_face:\n\n이 점도 꼭 고려해주셨으면 합니다!\n\n입후보하고 싶으신 분들은 \u003c@U01Q1KFN4JK\u003e  에게 DM으로 연락 주세요~! :pray:\n\n또한 여러분을 대표할 학생회를 꾸리는 것인 만큼 많은 투표도 미리 부탁 드립니다~!!! :wink:\n\n읽어주셔서 감사합니다!\n\n\n*모집 일정 및 절차*\n• 후보자 등록 기간 : 2/8(공지시점)~2/11(금) 오후 3시\n• 지원 방법: \u003c@U01Q1KFN4JK\u003e 에게 학번과 이름을 적어서 DM으로 지원!!!\n• 모집 인원: 2명 (대표 1명, 부대표 1명)\n• 학생대표 임기: 당선일 ~ 8월 말까지 (기수대표 역할은 이후 조율) \n• 예정 선거 기간: 2/11(금) 오후 6시 ~ 2/14(월) 23:59\n• 석.박.석박 통합 과정 무관\n• 입후보자가 없을시 회칙에 따라서 대표 위촉 ",
+    "ts": "1675846554.912049",
+    "edited": {
+      "user": "U01Q1KFN4JK",
+      "ts": "1675995447.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hr6i",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "mega",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "[3기 학생회 재모집]"
+              },
+              {
+                "type": "emoji",
+                "name": "mega",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n3기 여러분 안녕하세요! "
+              },
+              {
+                "type": "emoji",
+                "name": "raised_hands",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n2023년을 맞이한지도 벌써 한 달 남짓 지났네요.\n\n이제 곧 새 학기가 시작될텐데요.\n\n이에 앞서서 전체 학생대표로 활동할 3기 분들을 모십니다.\n\n특별히 이번부터는 전체 학생대표의 경우 "
+              },
+              {
+                "type": "text",
+                "text": "학교측에서 소정의 장학금을 지급할 예정",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "이라고 하니 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n이 점도 꼭 고려해주셨으면 합니다!\n\n입후보하고 싶으신 분들은 "
+              },
+              {
+                "type": "user",
+                "user_id": "U01Q1KFN4JK"
+              },
+              {
+                "type": "text",
+                "text": "  에게 DM으로 연락 주세요~! "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n또한 여러분을 대표할 학생회를 꾸리는 것인 만큼 많은 투표도 미리 부탁 드립니다~!!! "
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n읽어주셔서 감사합니다!\n\n\n"
+              },
+              {
+                "type": "text",
+                "text": "모집 일정 및 절차",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud6c4\\ubcf4\\uc790 \\ub4f1\\ub85d \\uae30\\uac04 : 2\\/8(\\uacf5\\uc9c0\\uc2dc\\uc810)~2\\/11(\\uae08) \\uc624\\ud6c4 3\\uc2dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc9c0\\uc6d0 \\ubc29\\ubc95: \"},{\"type\":\"user\",\"user_id\":\"U01Q1KFN4JK\"},{\"type\":\"text\",\"text\":\" \\uc5d0\\uac8c \\ud559\\ubc88\\uacfc \\uc774\\ub984\\uc744 \\uc801\\uc5b4\\uc11c DM\\uc73c\\ub85c \\uc9c0\\uc6d0!!!\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1 \\uc778\\uc6d0: 2\\uba85 (\\ub300\\ud45c 1\\uba85, \\ubd80\\ub300\\ud45c 1\\uba85)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc0dd\\ub300\\ud45c \\uc784\\uae30: \\ub2f9\\uc120\\uc77c ~ 8\\uc6d4 \\ub9d0\\uae4c\\uc9c0 (\\uae30\\uc218\\ub300\\ud45c \\uc5ed\\ud560\\uc740 \\uc774\\ud6c4 \\uc870\\uc728) \"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc608\\uc815 \\uc120\\uac70 \\uae30\\uac04: 2\\/11(\\uae08) \\uc624\\ud6c4 6\\uc2dc ~ 2\\/14(\\uc6d4) 23:59\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc11d.\\ubc15.\\uc11d\\ubc15 \\ud1b5\\ud569 \\uacfc\\uc815 \\ubb34\\uad00\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc785\\ud6c4\\ubcf4\\uc790\\uac00 \\uc5c6\\uc744\\uc2dc \\ud68c\\uce59\\uc5d0 \\ub530\\ub77c\\uc11c \\ub300\\ud45c \\uc704\\ucd09 \"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

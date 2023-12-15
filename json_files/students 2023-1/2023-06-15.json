@@ -1,0 +1,134 @@
+[
+  {
+    "client_msg_id": "1d145bc8-a7f9-4aeb-a97f-9ebb8cf38a73",
+    "type": "message",
+    "user": "U02V5LS84JV",
+    "text": "안녕하세요, 학생회에서 안내드립니다.\n\n요즘 여름이 되면서 아이스 음료를 많이 드시게 되는 것 같은데\n*다 드신 음료는 반드시 탕비실 싱크대에 얼음과 음료를 버리고 플라스틱 컵을 한 번 씻어서 버려주시기 바랍니다.*\n*얼음과 음료가 있는 채로 일반 쓰레기통에 버리는 일이 잦아 이를 처리하는 데 매우 번거롭다고 하십니다.*\n음료가 바닥이나 쓰레기통에 묻어서 굳으면 아주머니께서 청소하는데 힘이 많이 드신다고 합니다.\n그리고 원래 탕비실 청소까지 안해주시지만 여름이라 벌레 등 때문에 탕비실 바닥 청소까지 해 주고 계신데,\n정수기 근처 바닥에 초코/커피 등과 같은 검은 액체가 튀고 굳어서 이것도 오늘 닦아주시느라 수고해주셨습니다.\n부디 음료가 있는 상태로 정수기 혹은 얼음을 사용할 때 *주변에 튀지 않도록 주의해주시고, 튀었다면 바로 닦아주시기 바랍니다.*\n그리고 요즘 음식물 버리실 때 밀봉 하지 않고 그냥 음식물이 노출되도록 용기에 담아서 놓기만 하는 경우가 있던데, 벌레가 생기지 않도록 꼭 뚜껑을 덮거나 봉지에 넣어서 밀봉해주시기 바랍니다.\n\n감사합니다:woman-bowing:",
+    "ts": "1686824661.300289",
+    "edited": {
+      "user": "U02V5LS84JV",
+      "ts": "1686824753.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 29,
+        "users": [
+          "U01R678KWP2",
+          "U01QAE573J7",
+          "U01QGKCT067",
+          "U04R20KG9JM",
+          "U02V5LRSE2V",
+          "U0302PJE83A",
+          "U01Q1KFN4JK",
+          "U040PQB9R1A",
+          "U02UT1XUGFL",
+          "U02UCD2C9V5",
+          "U01QV1SQJ57",
+          "U0406PM050F",
+          "U040ENMTCEA",
+          "U02ULBGNF7G",
+          "U02ULBHV58W",
+          "U02V5LT2XFB",
+          "U04QH2E4V5Y",
+          "U02UT1YNY6N",
+          "U04RD26CJ5N",
+          "U02V5LT4DLZ",
+          "U0302PLQ34Y",
+          "U02UQ4D8L2Z",
+          "U02ULBJR9GE",
+          "U02ULBH3TEJ",
+          "U04R6NS3924",
+          "U0302PHUHME",
+          "U02V5LTKMPT",
+          "U040ZVDSA0H",
+          "U02C3D2T0BS"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U01QGD17SUU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b2s8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요, 학생회에서 안내드립니다.\n\n요즘 여름이 되면서 아이스 음료를 많이 드시게 되는 것 같은데\n"
+              },
+              {
+                "type": "text",
+                "text": "다 드신 음료는 반드시 탕비실 싱크대에 얼음과 음료를 버리고 플라스틱 컵을 한 번 씻어서 버려주시기 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "얼음과 음료가 있는 채로 일반 쓰레기통에 버리는 일이 잦아 이를 처리하는 데 매우 번거롭다고 하십니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n음료가 바닥이나 쓰레기통에 묻어서 굳으면 아주머니께서 청소하는데 힘이 많이 드신다고 합니다.\n그리고 원래 탕비실 청소까지 안해주시지만 여름이라 벌레 등 때문에 탕비실 바닥 청소까지 해 주고 계신데,\n정수기 근처 바닥에 초코/커피 등과 같은 검은 액체가 튀고 굳어서 이것도 오늘 닦아주시느라 수고해주셨습니다.\n부디 음료가 있는 상태로 정수기 혹은 얼음을 사용할 때"
+              },
+              {
+                "type": "text",
+                "text": " 주변에 튀지 않도록 주의해주시고, 튀었다면 바로 닦아주시기 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n그리고 요즘 음식물 버리실 때 밀봉 하지 않고 그냥 음식물이 노출되도록 용기에 담아서 놓기만 하는 경우가 있던데, 벌레가 생기지 않도록 꼭 뚜껑을 덮거나 봉지에 넣어서 밀봉해주시기 바랍니다.\n\n감사합니다"
+              },
+              {
+                "type": "emoji",
+                "name": "woman-bowing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "이효진",
+      "real_name": "이효진",
+      "display_name": "3기_이효진",
+      "team": "T01QA5S537V",
+      "name": "sarahhyojin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

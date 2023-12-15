@@ -1,0 +1,269 @@
+[
+  {
+    "client_msg_id": "2924f49e-cbe0-4cc7-8fb5-d122657c060e",
+    "type": "message",
+    "user": "U02UT1Y2UJW",
+    "text": "`카카오톡챗봇 beta test!!`\n\n안녕하세요. 챗봇 개발이 어느정도 마무리가 되어 베타테스트를 진행하려 합니다(~5/20)\n(*매일 23:00~24:00는 점검을 위해 챗봇 사용이 중단 될 예정)*\n\n\u003chttp://pf.kakao.com/_eBFkb\u003e   \u0026lt;\u0026lt; 챗봇채널링크\n\n간단히 기능 설명을 드리자면 (seminar 알람 기능을 구현하려면 *메시지 1건당 15원의 사용료*를 카카오측에 제공해야해서.. 포기했습니다:sweat:)\n챗봇 채널에 입장하게 될 경우 하단의 메뉴바에\n\n```# 식당메뉴 확인\n# 메뉴추천\n# 로그인\n# (로그인 후) 과제보기\n# 사용법\n# 랜덤 메뉴추천 목록```\n가 뜰텐데요 차례대로 기능 설명을 드리면 다음과 같습니다.\n\n\u0026gt; ## *식당메뉴 확인* : 919동, 901동 식당 메뉴를 보여줍니다  -\u0026gt; 연구공원 식단 메뉴도 추가하려는데, 인터넷 상에서 찾을 수가 없네요.. 어디서 볼 수 있는지 아시는 분 있으신가요?\n\u0026gt; ## *메뉴추천* : 메뉴추천 버튼을 누를 경우, 챗봇이 \"한식, 중식, 일식, 양식, 그외, 랜덤\" 중 하나를 선택하라고 합니다. 선택한 카테고리에 따라 챗봇이 랜덤으로 메뉴를 추천해줍니다.\n\u0026gt; ## *로그인* : 과제크롤링을 위한 기능으로, etl 사이트에 본인의 계정을 로그인 하는 기능입니다. *`하단의 과제보기 기능을 사용하시려면 반드시 먼저 로그인을 해야 합니다.`*\n\u0026gt; ## *(로그인 후) 과제보기* : 로그인이 성공한 상태에서 누를 경우 현재 수강 중인 모든 과목의 과제 현황이 나타납니다. 기능 실행 후 자동으로 로그아웃되니 `한번 더 실행하기 위해서는 재로그인이 필요`합니다.\n\u0026gt; ## *사용법* : 사용법을 보여줍니다\n\u0026gt; ## *랜덤 메뉴추천 목록* : 메뉴추천에서 추천하는 메뉴의 목록을 보여줍니다.\n```+ 로그인/과제보기 버튼을 눌렀는데, 반응도 없고 1이 계속해서 사라지지 않는 경우가 있습니다. 그럴 경우에는 채팅방에 quit을 입력하고 다시 로그인하시면 됩니다.```\n*사용하시면서 문제점이나 보완이 필요한 부분, 아니면 추가되었으면 하는 기능이 있으면*\n*카카오톡 athjk3, 슬랙 DM... 여러분이 편한 연락 수단을 통해서 말씀해주시면 즉시 수정하겠습니다.*\n\n\n:memo: QnA\n1. 챗봇에게 아이디와 패스워드를 입력하는게 부담스럽네요. 보안상의 문제는 없나요? \n-\u0026gt; 많은 분들이 궁금해하실 내용인데요. 우선 제 서버에는 DB도 없고 log도 남기지 않고 있습니다. 또한 과제보기 명령어 실행 직후 내부에서 데이터를 전부 삭제합니다. 즉 여러분의 id와 패스워드는 어디에도 보관되지 않으니 안심하셔도 됩니다.\n\n2. 기능이 이것밖에 없나요?\n-\u0026gt; 네.....:sob:\n\n3. 정식 배포는 언제할 계획이신가요?\n-\u0026gt; 이번 베타테스트 기간 동안 발생하는 문제점들을 취합 후 수정을 거친 뒤에 최종배포할 계획입니다. 사용 중에 문제가 발생하면 언제든지 연락해주세요!\n\n4. 어떤 stack을 사용하셨나요?\n-\u0026gt; 전 파이썬밖에 할 줄 몰라요..:wink: 정식 배포 이후 코드는 제 `github`에 올릴 예정이니 궁금하면 놀러오세요~",
+    "ts": "1652465268.665629",
+    "thread_ts": "1652465268.665629",
+    "attachments": [
+      {
+        "fallback": "카카오톡채널 - HelpiFy: HelpiFy",
+        "id": 1,
+        "title": "HelpiFy",
+        "title_link": "http://pf.kakao.com/_eBFkb",
+        "text": "안녕하세요.",
+        "thumb_url": "http://k.kakaocdn.net/dn/bosz2a/btrBjYehwAU/LNttwwTEQVGDv260Um63Rk/img_m.jpg",
+        "service_name": "카카오톡채널 - HelpiFy",
+        "service_icon": "https://pf.kakao.com/logo192.png",
+        "from_url": "http://pf.kakao.com/_eBFkb",
+        "original_url": "http://pf.kakao.com/_eBFkb",
+        "blocks": null
+      }
+    ],
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U02V5LTPGRX",
+        "ts": "1652517579.810739"
+      },
+      {
+        "user": "U02UT1Y2UJW",
+        "ts": "1652541012.104799"
+      },
+      {
+        "user": "U01QNSKMEDP",
+        "ts": "1652839026.851419"
+      }
+    ],
+    "latest_reply": "1652839026.851419",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 18,
+        "users": [
+          "U02UVATUSLU",
+          "U01Q1KFN4JK",
+          "U01QV1WAPL1",
+          "U02UT1YNY6N",
+          "U02UT1XUGFL",
+          "U01QGKC5W03",
+          "U02UQ4CE0AH",
+          "U0302PHUHME",
+          "U02V5LTPGRX",
+          "U0302PKMR6C",
+          "U02V5LRB5S5",
+          "U02ULBG7ZGE",
+          "U01R689L5KJ",
+          "U02UQ4D8L2Z",
+          "U02V5LT4DLZ",
+          "U01Q9KXMSF8",
+          "U01QGD03WUC",
+          "U01QGKC4BM1"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vYW0o",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "카카오톡챗봇 beta test!!",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요. 챗봇 개발이 어느정도 마무리가 되어 베타테스트를 진행하려 합니다(~5/20)\n("
+              },
+              {
+                "type": "text",
+                "text": "매일 23:00~24:00는 점검을 위해 챗봇 사용이 중단 될 예정)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "http://pf.kakao.com/_eBFkb",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "   \u003c\u003c 챗봇채널링크\n\n간단히 기능 설명을 드리자면 (seminar 알람 기능을 구현하려면 "
+              },
+              {
+                "type": "text",
+                "text": "메시지 1건당 15원의 사용료",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "를 카카오측에 제공해야해서.. 포기했습니다"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": ")\n챗봇 채널에 입장하게 될 경우 하단의 메뉴바에\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"# \\uc2dd\\ub2f9\\uba54\\ub274 \\ud655\\uc778\\n# \\uba54\\ub274\\ucd94\\ucc9c\\n# \\ub85c\\uadf8\\uc778\\n# (\\ub85c\\uadf8\\uc778 \\ud6c4) \\uacfc\\uc81c\\ubcf4\\uae30\\n# \\uc0ac\\uc6a9\\ubc95\\n# \\ub79c\\ub364 \\uba54\\ub274\\ucd94\\ucc9c \\ubaa9\\ub85d\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n가 뜰텐데요 차례대로 기능 설명을 드리면 다음과 같습니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_quote",
+            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"## \"},{\"type\":\"text\",\"text\":\"\\uc2dd\\ub2f9\\uba54\\ub274 \\ud655\\uc778\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" : 919\\ub3d9, 901\\ub3d9 \\uc2dd\\ub2f9 \\uba54\\ub274\\ub97c \\ubcf4\\uc5ec\\uc90d\\ub2c8\\ub2e4  -\u003e \\uc5f0\\uad6c\\uacf5\\uc6d0 \\uc2dd\\ub2e8 \\uba54\\ub274\\ub3c4 \\ucd94\\uac00\\ud558\\ub824\\ub294\\ub370, \\uc778\\ud130\\ub137 \\uc0c1\\uc5d0\\uc11c \\ucc3e\\uc744 \\uc218\\uac00 \\uc5c6\\ub124\\uc694.. \\uc5b4\\ub514\\uc11c \\ubcfc \\uc218 \\uc788\\ub294\\uc9c0 \\uc544\\uc2dc\\ub294 \\ubd84 \\uc788\\uc73c\\uc2e0\\uac00\\uc694?\\n## \"},{\"type\":\"text\",\"text\":\"\\uba54\\ub274\\ucd94\\ucc9c\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" : \\uba54\\ub274\\ucd94\\ucc9c \\ubc84\\ud2bc\\uc744 \\ub204\\ub97c \\uacbd\\uc6b0, \\ucc57\\ubd07\\uc774 \\\"\\ud55c\\uc2dd, \\uc911\\uc2dd, \\uc77c\\uc2dd, \\uc591\\uc2dd, \\uadf8\\uc678, \\ub79c\\ub364\\\" \\uc911 \\ud558\\ub098\\ub97c \\uc120\\ud0dd\\ud558\\ub77c\\uace0 \\ud569\\ub2c8\\ub2e4. \\uc120\\ud0dd\\ud55c \\uce74\\ud14c\\uace0\\ub9ac\\uc5d0 \\ub530\\ub77c \\ucc57\\ubd07\\uc774 \\ub79c\\ub364\\uc73c\\ub85c \\uba54\\ub274\\ub97c \\ucd94\\ucc9c\\ud574\\uc90d\\ub2c8\\ub2e4.\\n## \"},{\"type\":\"text\",\"text\":\"\\ub85c\\uadf8\\uc778\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" : \\uacfc\\uc81c\\ud06c\\ub864\\ub9c1\\uc744 \\uc704\\ud55c \\uae30\\ub2a5\\uc73c\\ub85c, etl \\uc0ac\\uc774\\ud2b8\\uc5d0 \\ubcf8\\uc778\\uc758 \\uacc4\\uc815\\uc744 \\ub85c\\uadf8\\uc778 \\ud558\\ub294 \\uae30\\ub2a5\\uc785\\ub2c8\\ub2e4. \"},{\"type\":\"text\",\"text\":\"\\ud558\\ub2e8\\uc758 \\uacfc\\uc81c\\ubcf4\\uae30 \\uae30\\ub2a5\\uc744 \\uc0ac\\uc6a9\\ud558\\uc2dc\\ub824\\uba74 \\ubc18\\ub4dc\\uc2dc \\uba3c\\uc800 \\ub85c\\uadf8\\uc778\\uc744 \\ud574\\uc57c \\ud569\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true,\"code\":true}},{\"type\":\"text\",\"text\":\"\\n## \"},{\"type\":\"text\",\"text\":\"(\\ub85c\\uadf8\\uc778 \\ud6c4) \\uacfc\\uc81c\\ubcf4\\uae30\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" : \\ub85c\\uadf8\\uc778\\uc774 \\uc131\\uacf5\\ud55c \\uc0c1\\ud0dc\\uc5d0\\uc11c \\ub204\\ub97c \\uacbd\\uc6b0 \\ud604\\uc7ac \\uc218\\uac15 \\uc911\\uc778 \\ubaa8\\ub4e0 \\uacfc\\ubaa9\\uc758 \\uacfc\\uc81c \\ud604\\ud669\\uc774 \\ub098\\ud0c0\\ub0a9\\ub2c8\\ub2e4. \\uae30\\ub2a5 \\uc2e4\\ud589 \\ud6c4 \\uc790\\ub3d9\\uc73c\\ub85c \\ub85c\\uadf8\\uc544\\uc6c3\\ub418\\ub2c8 \"},{\"type\":\"text\",\"text\":\"\\ud55c\\ubc88 \\ub354 \\uc2e4\\ud589\\ud558\\uae30 \\uc704\\ud574\\uc11c\\ub294 \\uc7ac\\ub85c\\uadf8\\uc778\\uc774 \\ud544\\uc694\",\"style\":{\"code\":true}},{\"type\":\"text\",\"text\":\"\\ud569\\ub2c8\\ub2e4.\\n## \"},{\"type\":\"text\",\"text\":\"\\uc0ac\\uc6a9\\ubc95\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" : \\uc0ac\\uc6a9\\ubc95\\uc744 \\ubcf4\\uc5ec\\uc90d\\ub2c8\\ub2e4\\n## \"},{\"type\":\"text\",\"text\":\"\\ub79c\\ub364 \\uba54\\ub274\\ucd94\\ucc9c \\ubaa9\\ub85d\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" : \\uba54\\ub274\\ucd94\\ucc9c\\uc5d0\\uc11c \\ucd94\\ucc9c\\ud558\\ub294 \\uba54\\ub274\\uc758 \\ubaa9\\ub85d\\uc744 \\ubcf4\\uc5ec\\uc90d\\ub2c8\\ub2e4.\"}]}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_preformatted",
+            "Raw": "{\"type\":\"rich_text_preformatted\",\"elements\":[{\"type\":\"text\",\"text\":\"+ \\ub85c\\uadf8\\uc778\\/\\uacfc\\uc81c\\ubcf4\\uae30 \\ubc84\\ud2bc\\uc744 \\ub20c\\ub800\\ub294\\ub370, \\ubc18\\uc751\\ub3c4 \\uc5c6\\uace0 1\\uc774 \\uacc4\\uc18d\\ud574\\uc11c \\uc0ac\\ub77c\\uc9c0\\uc9c0 \\uc54a\\ub294 \\uacbd\\uc6b0\\uac00 \\uc788\\uc2b5\\ub2c8\\ub2e4. \\uadf8\\ub7f4 \\uacbd\\uc6b0\\uc5d0\\ub294 \\ucc44\\ud305\\ubc29\\uc5d0 quit\\uc744 \\uc785\\ub825\\ud558\\uace0 \\ub2e4\\uc2dc \\ub85c\\uadf8\\uc778\\ud558\\uc2dc\\uba74 \\ub429\\ub2c8\\ub2e4.\"}],\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "사용하시면서 문제점이나 보완이 필요한 부분, 아니면 추가되었으면 하는 기능이 있으면",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "카카오톡 athjk3, 슬랙 DM... 여러분이 편한 연락 수단을 통해서 말씀해주시면 즉시 수정하겠습니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n"
+              },
+              {
+                "type": "emoji",
+                "name": "memo",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " QnA\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc57\\ubd07\\uc5d0\\uac8c \\uc544\\uc774\\ub514\\uc640 \\ud328\\uc2a4\\uc6cc\\ub4dc\\ub97c \\uc785\\ub825\\ud558\\ub294\\uac8c \\ubd80\\ub2f4\\uc2a4\\ub7fd\\ub124\\uc694. \\ubcf4\\uc548\\uc0c1\\uc758 \\ubb38\\uc81c\\ub294 \\uc5c6\\ub098\\uc694? \"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "-\u003e 많은 분들이 궁금해하실 내용인데요. 우선 제 서버에는 DB도 없고 log도 남기지 않고 있습니다. 또한 과제보기 명령어 실행 직후 내부에서 데이터를 전부 삭제합니다. 즉 여러분의 id와 패스워드는 어디에도 보관되지 않으니 안심하셔도 됩니다.\n\n2. 기능이 이것밖에 없나요?\n-\u003e 네....."
+              },
+              {
+                "type": "emoji",
+                "name": "sob",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n3. 정식 배포는 언제할 계획이신가요?\n-\u003e 이번 베타테스트 기간 동안 발생하는 문제점들을 취합 후 수정을 거친 뒤에 최종배포할 계획입니다. 사용 중에 문제가 발생하면 언제든지 연락해주세요!\n\n4. 어떤 stack을 사용하셨나요?\n-\u003e 전 파이썬밖에 할 줄 몰라요.."
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 정식 배포 이후 코드는 제 "
+              },
+              {
+                "type": "text",
+                "text": "github",
+                "style": {
+                  "code": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 올릴 예정이니 궁금하면 놀러오세요~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/32f847ec32c79ee2beb412338ef86d76.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "3기_박성일",
+      "real_name": "3기_박성일",
+      "display_name": "3기_박성일",
+      "team": "T01QA5S537V",
+      "name": "athjk3",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 3,
+    "reply_users": [
+      "U01QNSKMEDP",
+      "U02UT1Y2UJW",
+      "U02V5LTPGRX"
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "type": "message",
+    "user": "U040C40QE6T",
+    "text": "안녕하세요! 아직 참여가 많이 이루어지지 않은 관계로 마감 하루 전에 다시 리마인드 설문 공지 올립니다! 최대한 많은 분들께 소정의 기프티콘을 드리고자 합니다. 기한은 4일에서 5일 넘어가는 자정 전까지입니다. 참여해 주시면 진심으로 감사하겠습니다 :slightly_smiling_face:",
+    "ts": "1670048557.806579",
+    "attachments": [
+      {
+        "color": "D0D0D0",
+        "fallback": "[November 30th, 2022 9:07 AM] golddohyun: 안녕하십니까? 데이터사이언스 석사과정 3.5기 김채윤, 김영훈, 손혜령, 박민우, 박지후 입니다.\n\n저희는 BKMS 1 과목의 Group Project의 일환으로, *GSDS 학생들을 위한 졸업요건 이수여부 검사 및 사용자/해시태그 기반 과목 추천 시스템*을 구현하고자 합니다. 다만, 보다 정밀한 추천 프로그램을 구현하기 위하여 선배님들과 동기분들의 *실제 데이터를 수집할 필요성이 있어*, 부득이하게 해당 공지를 드리게 되었습니다. \n\n*[참여 방법]*\n\u0026gt; *[수강이력_공유_가이드라인.pdf]* 에 따라 [*수강 과목 이력 (20XX-XXXXX).xlsx]* 파일에 데이터를 입력해 주시고, 하단의 구글폼 주소로 업로드해 주시면 감사하겠습니다! \n\u0026gt; (기한: 2022-12-04 23:59)\n\u0026gt; \n\u0026gt; ★1★ 설문에 참여하신 분들 중에서 추첨을 통해 소정의 상품을 증정할 예정입니다.\n\u0026gt; \n\u0026gt; ★2★ 구글폼 업로드 링크 : \n\u0026gt; \u003chttps://docs.google.com/forms/d/e/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw/viewform\u003e\n\u0026gt; \n\u0026gt; ★3★ 설문 및 데이터 입력 관련 문의는 \u003cmailto:golddohyun@snu.ac.kr|golddohyun@snu.ac.kr\u003e 혹은 slack dm (3.5기_김채윤) 을 통해 주시면 감사하겠습니다.\n-------------------------------------------------------------------\nHello, this is Chaeyun Kim, Younghoon Kim, Hyeryeong Son, Minwoo Park, Jihoo Park in the Data Science master's course.\n\nOur team is currently envisioning 'SNU GSDS Graduation Requirement Test and Subject Recommendation System' for the BKMS 1 Group Project. In order to implement a more precise recommendation program, we would like to collect actual data from seniors and classmates.\n\n\u0026gt; *[How to Participate]*\n\u0026gt; We would appreciate it if you could enter the course history data in the given excel format (*수강 과목 이력 (20XX-XXXXX).xlsx)* according to the course history sharing guidelines (*수강이력_공유_가이드라인.pdf*) and upload it to the Google Form link below.\n\u0026gt; \n\u0026gt; ★1★  Among those who participated in the survey, some of you will be randomly selected to receive a small reward :) \n\u0026gt; \n\u0026gt; ★2★ Excel File Upload link (Google Form Survey)  : \n\u0026gt; \u003chttps://docs.google.com/forms/d/e/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw/viewform\u003e\n\u0026gt; \n\u0026gt; ★3★  If you have any questions about the survey, please contact us at \u003cmailto:golddohyun@snu.ac.kr|golddohyun@snu.ac.kr\u003e (Chaeyun Kim) or my Slack dm (3.5기_김채윤).",
+        "author_id": "U040C40QE6T",
+        "author_name": "김채윤",
+        "author_subname": "김채윤",
+        "author_link": "https://snugsds.slack.com/team/U040C40QE6T",
+        "author_icon": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=48\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-48.png",
+        "text": "안녕하십니까? 데이터사이언스 석사과정 3.5기 김채윤, 김영훈, 손혜령, 박민우, 박지후 입니다.\n\n저희는 BKMS 1 과목의 Group Project의 일환으로, *GSDS 학생들을 위한 졸업요건 이수여부 검사 및 사용자/해시태그 기반 과목 추천 시스템*을 구현하고자 합니다. 다만, 보다 정밀한 추천 프로그램을 구현하기 위하여 선배님들과 동기분들의 *실제 데이터를 수집할 필요성이 있어*, 부득이하게 해당 공지를 드리게 되었습니다. \n\n*[참여 방법]*\n\u0026gt; *[수강이력_공유_가이드라인.pdf]* 에 따라 [*수강 과목 이력 (20XX-XXXXX).xlsx]* 파일에 데이터를 입력해 주시고, 하단의 구글폼 주소로 업로드해 주시면 감사하겠습니다! \n\u0026gt; (기한: 2022-12-04 23:59)\n\u0026gt; \n\u0026gt; ★1★ 설문에 참여하신 분들 중에서 추첨을 통해 소정의 상품을 증정할 예정입니다.\n\u0026gt; \n\u0026gt; ★2★ 구글폼 업로드 링크 : \n\u0026gt; \u003chttps://docs.google.com/forms/d/e/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw/viewform\u003e\n\u0026gt; \n\u0026gt; ★3★ 설문 및 데이터 입력 관련 문의는 \u003cmailto:golddohyun@snu.ac.kr|golddohyun@snu.ac.kr\u003e 혹은 slack dm (3.5기_김채윤) 을 통해 주시면 감사하겠습니다.\n-------------------------------------------------------------------\nHello, this is Chaeyun Kim, Younghoon Kim, Hyeryeong Son, Minwoo Park, Jihoo Park in the Data Science master's course.\n\nOur team is currently envisioning 'SNU GSDS Graduation Requirement Test and Subject Recommendation System' for the BKMS 1 Group Project. In order to implement a more precise recommendation program, we would like to collect actual data from seniors and classmates.\n\n\u0026gt; *[How to Participate]*\n\u0026gt; We would appreciate it if you could enter the course history data in the given excel format (*수강 과목 이력 (20XX-XXXXX).xlsx)* according to the course history sharing guidelines (*수강이력_공유_가이드라인.pdf*) and upload it to the Google Form link below.\n\u0026gt; \n\u0026gt; ★1★  Among those who participated in the survey, some of you will be randomly selected to receive a small reward :) \n\u0026gt; \n\u0026gt; ★2★ Excel File Upload link (Google Form Survey)  : \n\u0026gt; \u003chttps://docs.google.com/forms/d/e/1FAIpQLScle14jO7-QjGCNcIaovQr6KaZqmSV9csagY_wCpYhpT7YpZw/viewform\u003e\n\u0026gt; \n\u0026gt; ★3★  If you have any questions about the survey, please contact us at \u003cmailto:golddohyun@snu.ac.kr|golddohyun@snu.ac.kr\u003e (Chaeyun Kim) or my Slack dm (3.5기_김채윤).",
+        "from_url": "https://snugsds.slack.com/archives/C01Q37T9JLW/p1669766879881279",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "blocks": null,
+        "footer": "Slack Conversation",
+        "ts": 1669766879.881279
+      }
+    ],
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U0406PM050F",
+          "U040ENMBB1C",
+          "U0302PLQ34Y",
+          "U02ULBJGHF0"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G0uaI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! 아직 참여가 많이 이루어지지 않은 관계로 마감 하루 전에 다시 리마인드 설문 공지 올립니다! 최대한 많은 분들께 소정의 기프티콘을 드리고자 합니다. 기한은 4일에서 5일 넘어가는 자정 전까지입니다. 참여해 주시면 진심으로 감사하겠습니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3a2e0ecd5b63d53de4948d32e26051ad.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김채윤",
+      "real_name": "김채윤",
+      "display_name": "3.5기_김채윤",
+      "team": "T01QA5S537V",
+      "name": "golddohyun",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U02UVAT3BPW",
+    "text": " set up a reminder “https://snugsds.slack.com/archives/C01Q37T9JLW/p1669976533091539” in this channel at 3PM tomorrow, Korea Standard Time.",
+    "ts": "1670063409.701039",
+    "subtype": "reminder_add",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8d3dccbcfc97e9223bb50960535dbc54.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "최광호",
+      "real_name": "최광호",
+      "display_name": "3기_최광호",
+      "team": "T01QA5S537V",
+      "name": "chlrhkdgh93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U02UVAT3BPW",
+    "text": " set up a reminder “https://snugsds.slack.com/archives/C01Q37T9JLW/p1669976533091539” in this channel at 1PM Monday, December 5th, Korea Standard Time.",
+    "ts": "1670063439.015019",
+    "subtype": "reminder_add",
+    "reactions": [
+      {
+        "name": "mia",
+        "count": 1,
+        "users": [
+          "U0302PK342C"
+        ]
+      },
+      {
+        "name": "zzangoo",
+        "count": 1,
+        "users": [
+          "U01R678KWP2"
+        ]
+      },
+      {
+        "name": "짱구s",
+        "count": 1,
+        "users": [
+          "U040ENMBB1C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8d3dccbcfc97e9223bb50960535dbc54.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "최광호",
+      "real_name": "최광호",
+      "display_name": "3기_최광호",
+      "team": "T01QA5S537V",
+      "name": "chlrhkdgh93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

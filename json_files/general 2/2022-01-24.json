@@ -1,0 +1,111 @@
+[
+  {
+    "client_msg_id": "18f57ee7-9688-4f92-8f3e-011b76e2e69f",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022학년도 1학기 시흥캠퍼스 주택 대학원생 입주자 모집 안내\u0026gt;\n\n시흥캠퍼스 주택의 대학원생 및 전일제 연구생 입주자를 아래와 같이 모집하오니, 관심있는 학생분들께서는 첨부된 자료를 확인하여 주시기 바랍니다.",
+    "ts": "1642984943.033100",
+    "files": [
+      {
+        "id": "F02V823SW3C",
+        "created": 1642984941,
+        "timestamp": 1642984941,
+        "name": "시흥캠퍼스 주택 대학원생 입주자 선발 안내.hwp",
+        "title": "시흥캠퍼스 주택 대학원생 입주자 선발 안내.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1169408,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02V823SW3C-시흥캠퍼스 주택 대학원생 입주자 선발 안내.hwp",
+        "url_private_download": "attachments/F02V823SW3C-시흥캠퍼스 주택 대학원생 입주자 선발 안내.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02V823SW3C/___________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02V823SW3C-dec7dab5ce",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e=jx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022학년도 1학기 시흥캠퍼스 주택 대학원생 입주자 모집 안내\u003e\n\n시흥캠퍼스 주택의 대학원생 및 전일제 연구생 입주자를 아래와 같이 모집하오니, 관심있는 학생분들께서는 첨부된 자료를 확인하여 주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

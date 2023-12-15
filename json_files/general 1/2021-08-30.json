@@ -1,0 +1,1201 @@
+[
+  {
+    "client_msg_id": "24eff474-7530-4a80-b0d2-f01cf818292f",
+    "type": "message",
+    "user": "U01QNMUAUKW",
+    "text": "혹시 아직 접속 안되는걸까요?",
+    "ts": "1630282376.016100",
+    "thread_ts": "1629707264.034600",
+    "parent_user_id": "U01QAE5A9K5",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G2n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 아직 접속 안되는걸까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2b1495435b2113be4f58e565cb3a27ae.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "",
+      "real_name": "2기_김도균",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "dokyunkim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "5d8273b3-9607-4a0f-a77b-99fe27e29dd2",
+    "type": "message",
+    "user": "U01QAE573J7",
+    "text": "네, 재발 방지를 위해 몇 가지 조치를 취하고 점검하는 중입니다. 복구되는대로 안내해드리겠습니다.",
+    "ts": "1630287999.016700",
+    "thread_ts": "1629707264.034600",
+    "parent_user_id": "U01QAE5A9K5",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01QNMUAUKW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OMm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네, 재발 방지를 위해 몇 가지 조치를 취하고 점검하는 중입니다. 복구되는대로 안내해드리겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "1기_안규수",
+      "real_name": "1기_안규수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kyusu.ahn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;서울대학교 학생 예비군 전입신고 안내\u0026gt;\n\n2021학년도 2학기 학생 예비군 자원관리를 위한 전입신고 관련하여 안내 드리니, 신고대상에 해당하는 학생분들의 협조 바랍니다.\n\n가. 신고대상: 병역을 필한 신입 및 복학생, 대학원 입학생, 학사편입학생 중 병역을 필한 남학생\n나. 신고방법: mysnu학사정보 → 대학생활 → 예비군 신고 → 신청\n다. 신고기간: 2021.9.1. ~ 9.24.\n라. 문의: 서울대학교 예비군 연대 880-4025(전입), 5066(훈련)\n\n관련하여 자세한 내용은 첨부파일 참고 바랍니다 :slightly_smiling_face:",
+    "ts": "1630288863.019000",
+    "files": [
+      {
+        "id": "F02CJ67QJ5U",
+        "created": 1630288850,
+        "timestamp": 1630288850,
+        "name": "학생예비군 전입신고안내(게시용).hwp",
+        "title": "학생예비군 전입신고안내(게시용).hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 73728,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02CJ67QJ5U-학생예비군 전입신고안내(게시용).hwp",
+        "url_private_download": "attachments/F02CJ67QJ5U-학생예비군 전입신고안내(게시용).hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02CJ67QJ5U/_____________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02CJ67QJ5U-67165796ac",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GDu2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c서울대학교 학생 예비군 전입신고 안내\u003e\n\n2021학년도 2학기 학생 예비군 자원관리를 위한 전입신고 관련하여 안내 드리니, 신고대상에 해당하는 학생분들의 협조 바랍니다.\n\n가. 신고대상: 병역을 필한 신입 및 복학생, 대학원 입학생, 학사편입학생 중 병역을 필한 남학생\n나. 신고방법: mysnu학사정보 → 대학생활 → 예비군 신고 → 신청\n다. 신고기간: 2021.9.1. ~ 9.24.\n라. 문의: 서울대학교 예비군 연대 880-4025(전입), 5066(훈련)\n\n관련하여 자세한 내용은 첨부파일 참고 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2021년 유엔세계식량계획 인터십 프로그램 참가자 모잡\u0026gt;\n\n국제협력본부에서 유엔세계식량계획과의 협정에 따라 WFP 국가 및 지역사무소에서 인턴으로 근무할 프로그램 참가자를 모집하고 있습니다.\n관심있는 학생분들의 많은 참여 바랍니다.\n\n  가. 선발인원: 2명(기니 1명, 수단 1명)\n  나. 인턴기간: 2021년 10월 ~ 2022년 2월(5개월 간)\n  다. 근무형태: 재택근무\n\n관련하여 지원자격 및 지원방법 등 자세한 내용은 첨부의 공문 및 안내문 참고 바랍니다.",
+    "ts": "1630290862.021600",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1630297642.000000"
+    },
+    "files": [
+      {
+        "id": "F02CX65G1MJ",
+        "created": 1630290844,
+        "timestamp": 1630290844,
+        "name": "[공문] 2021년 유엔세계식량계획(World Food Programme) 인턴십 프로그램 참가자 모집 안내.pdf",
+        "title": "[공문] 2021년 유엔세계식량계획(World Food Programme) 인턴십 프로그램 참가자 모집 안내.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 183437,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02CX65G1MJ-[공문] 2021년 유엔세계식량계획(World Food Programme) 인턴십 프로그램 참가자 모집 안내.pdf",
+        "url_private_download": "attachments/F02CX65G1MJ-[공문] 2021년 유엔세계식량계획(World Food Programme) 인턴십 프로그램 참가자 모집 안내.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02CX65G1MJ/_________2021_____________________________world_food_programme________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02CX65G1MJ-3bdc2dc3e2",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F02DEJLPMUY",
+        "created": 1630290855,
+        "timestamp": 1630290855,
+        "name": "2021년 유엔세계식량계획(World Food Programme) 인턴십 프로그램 참가자 모집 안내.zip",
+        "title": "2021년 유엔세계식량계획(World Food Programme) 인턴십 프로그램 참가자 모집 안내.zip",
+        "mimetype": "application/zip",
+        "image_exif_rotation": 0,
+        "filetype": "zip",
+        "pretty_type": "Zip",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 884132,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02DEJLPMUY-2021년 유엔세계식량계획(World Food Programme) 인턴십 프로그램 참가자 모집 안내.zip",
+        "url_private_download": "attachments/F02DEJLPMUY-2021년 유엔세계식량계획(World Food Programme) 인턴십 프로그램 참가자 모집 안내.zip",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02DEJLPMUY/2021_____________________________world_food_programme________________________________________________.zip",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02DEJLPMUY-dcba5c70fb",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0AFMX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2021년 유엔세계식량계획 인터십 프로그램 참가자 모잡\u003e\n\n국제협력본부에서 유엔세계식량계획과의 협정에 따라 WFP 국가 및 지역사무소에서 인턴으로 근무할 프로그램 참가자를 모집하고 있습니다.\n관심있는 학생분들의 많은 참여 바랍니다.\n\n  가. 선발인원: 2명(기니 1명, 수단 1명)\n  나. 인턴기간: 2021년 10월 ~ 2022년 2월(5개월 간)\n  다. 근무형태: 재택근무\n\n관련하여 지원자격 및 지원방법 등 자세한 내용은 첨부의 공문 및 안내문 참고 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01R688N9BJ",
+    "text": "자리배정 결과 csv 파일입니다. 기타 자리이동 등 자세한 공지는 저녁에 올리도록 하겠습니다.",
+    "ts": "1630304997.022700",
+    "thread_ts": "1630304997.022700",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01R719DKK2",
+        "ts": "1630305287.023500"
+      },
+      {
+        "user": "U01QGKD09K5",
+        "ts": "1630305952.024500"
+      }
+    ],
+    "latest_reply": "1630305952.024500",
+    "files": [
+      {
+        "id": "F02D40U1UEM",
+        "created": 1630304965,
+        "timestamp": 1630304965,
+        "name": "result_2021_2_seat_final.csv",
+        "title": "result_2021_2_seat_final.csv",
+        "mimetype": "text/csv",
+        "image_exif_rotation": 0,
+        "filetype": "csv",
+        "pretty_type": "CSV",
+        "user": "U01R688N9BJ",
+        "mode": "snippet",
+        "editable": true,
+        "is_external": false,
+        "external_type": "",
+        "size": 3329,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02D40U1UEM-result_2021_2_seat_final.csv",
+        "url_private_download": "attachments/F02D40U1UEM-result_2021_2_seat_final.csv",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01R688N9BJ/F02D40U1UEM/result_2021_2_seat_final.csv",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02D40U1UEM-5b192e94d2",
+        "edit_link": "https://snugsds.slack.com/files/U01R688N9BJ/F02D40U1UEM/result_2021_2_seat_final.csv/edit",
+        "preview": "ID,NAME,SEAT,LOCKER\n2020-39***,남기성,332,32\n2020-30***,박진원,336,36\n2020-35***,안규수,441,107\n2020-31***,황태현,347,47\n2020-21***,강동식,317,17\n2020-27***,김석기,322,22\n2020-28***,김선유,358,58\n2020-23***,김우중,353,53\n2020-21***,김유진,406,72",
+        "preview_highlight": "\u003cdiv class=\"CodeMirror cm-s-default CodeMirrorServer cm-csv-tsv-wrapper\" oncopy='if(event.clipboardData){event.clipboardData.setData(\"text/plain\",window.getSelection().toString().replace(/\\u200b/g,\"\").replace(/[\t]/g, this.getAttribute(\"data-item-key\") === \"csv\" ? \",\" : \"\t\"));event.preventDefault();event.stopPropagation();}' data-item-key=\"csv\"\u003e\n\u003cdiv class=\"CodeMirror-code\"\u003e\n\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003eID\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003eNAME\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003eSEAT\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003eLOCKER\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-39***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e남기성\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e332\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e32\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-30***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e박진원\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e336\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e36\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-35***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e안규수\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e441\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e107\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-31***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e황태현\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e347\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e47\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-21***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e강동식\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e317\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e17\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-27***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e김석기\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e322\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e22\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-28***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e김선유\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e358\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e58\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-23***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e김우중\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e353\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e53\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-21***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e김유진\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e406\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e72\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+        "lines": 119,
+        "lines_more": 109,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U01R678KWP2",
+          "U01QDANUYVB"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "un4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "자리배정 결과 csv 파일입니다. 기타 자리이동 등 자세한 공지는 저녁에 올리도록 하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+      "first_name": "Jinwoong",
+      "real_name": "Jinwoong Kim",
+      "display_name": "2기_김진웅",
+      "team": "T01QA5S537V",
+      "name": "qazcde.k",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01QGKD09K5",
+      "U01R719DKK2"
+    ]
+  },
+  {
+    "type": "message",
+    "user": "U01R688N9BJ",
+    "text": "최종 자리배치 전 진행된 테스트 자리배치입니다. 참고하시기 바랍니다.",
+    "ts": "1630305200.023400",
+    "thread_ts": "1630305200.023400",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01PVETPES3",
+        "ts": "1630306987.025700"
+      },
+      {
+        "user": "U01R688N9BJ",
+        "ts": "1630329584.028900"
+      }
+    ],
+    "latest_reply": "1630329584.028900",
+    "files": [
+      {
+        "id": "F02CRJ9A9RR",
+        "created": 1630305155,
+        "timestamp": 1630305155,
+        "name": "result_2021_2_test1.csv",
+        "title": "result_2021_2_test1.csv",
+        "mimetype": "text/csv",
+        "image_exif_rotation": 0,
+        "filetype": "csv",
+        "pretty_type": "CSV",
+        "user": "U01R688N9BJ",
+        "mode": "snippet",
+        "editable": true,
+        "is_external": false,
+        "external_type": "",
+        "size": 3329,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02CRJ9A9RR-result_2021_2_test1.csv",
+        "url_private_download": "attachments/F02CRJ9A9RR-result_2021_2_test1.csv",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01R688N9BJ/F02CRJ9A9RR/result_2021_2_test1.csv",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02CRJ9A9RR-ffda78e467",
+        "edit_link": "https://snugsds.slack.com/files/U01R688N9BJ/F02CRJ9A9RR/result_2021_2_test1.csv/edit",
+        "preview": "ID,NAME,SEAT,LOCKER\n2020-39***,남기성,436,102\n2020-30***,박진원,402,68\n2020-35***,안규수,320,20\n2020-31***,황태현,449,115\n2020-21***,강동식,336,36\n2020-27***,김석기,325,25\n2020-28***,김선유,445,111\n2020-23***,김우중,339,39\n2020-21***,김유진,350,50",
+        "preview_highlight": "\u003cdiv class=\"CodeMirror cm-s-default CodeMirrorServer cm-csv-tsv-wrapper\" oncopy='if(event.clipboardData){event.clipboardData.setData(\"text/plain\",window.getSelection().toString().replace(/\\u200b/g,\"\").replace(/[\t]/g, this.getAttribute(\"data-item-key\") === \"csv\" ? \",\" : \"\t\"));event.preventDefault();event.stopPropagation();}' data-item-key=\"csv\"\u003e\n\u003cdiv class=\"CodeMirror-code\"\u003e\n\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003eID\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003eNAME\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003eSEAT\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003eLOCKER\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-39***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e남기성\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e436\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e102\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-30***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e박진원\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e402\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e68\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-35***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e안규수\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e320\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e20\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-31***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e황태현\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e449\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e115\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-21***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e강동식\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e336\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e36\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-27***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e김석기\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e325\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e25\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-28***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e김선유\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e445\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e111\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-23***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e김우중\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e339\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e39\u003c/div\u003e\u003c/div\u003e\u003cdiv class=\"cm-row cm-hide-line-num\"\u003e\u003cdiv class=\"cm-col\"\u003e2020-21***\u003c/div\u003e\u003cdiv class=\"cm-col\"\u003e김유진\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e350\u003c/div\u003e\u003cdiv class=\"cm-col cm-num\"\u003e50\u003c/div\u003e\u003c/div\u003e\u003c/div\u003e\n\u003c/div\u003e\n",
+        "lines": 119,
+        "lines_more": 109,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01R678KWP2"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jhZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "최종 자리배치 전 진행된 테스트 자리배치입니다. 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+      "first_name": "Jinwoong",
+      "real_name": "Jinwoong Kim",
+      "display_name": "2기_김진웅",
+      "team": "T01QA5S537V",
+      "name": "qazcde.k",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01PVETPES3",
+      "U01R688N9BJ"
+    ]
+  },
+  {
+    "client_msg_id": "f17c29a4-9c73-48f1-b001-b7d713bf41ea",
+    "type": "message",
+    "user": "U01R719DKK2",
+    "text": "감사합니다! 혹시 층별 좌석배치도 파일도 올려주실 수 있을까요 ? 이전에 올려주셨던 것 같은데 찾지 못하여 재차 요청드립니다 :pray:",
+    "ts": "1630305287.023500",
+    "thread_ts": "1630304997.022700",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "man-lifting-weights",
+        "count": 2,
+        "users": [
+          "U01R678KWP2",
+          "U01PVEU69BR"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yjRRM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "감사합니다! 혹시 층별 좌석배치도 파일도 올려주실 수 있을까요 ? 이전에 올려주셨던 것 같은데 찾지 못하여 재차 요청드립니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1830130142149_2a7ef82e3f4173451b1c_72.jpg",
+      "first_name": "나두리",
+      "real_name": "나두리",
+      "display_name": "2기_나두리",
+      "team": "T01QA5S537V",
+      "name": "ndr0419",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKD09K5",
+    "text": "2021-1 기준 좌석배치도입니다.",
+    "ts": "1630305952.024500",
+    "thread_ts": "1630304997.022700",
+    "subtype": "thread_broadcast",
+    "parent_user_id": "U01R688N9BJ",
+    "files": [
+      {
+        "id": "F02CAMAA7P1",
+        "created": 1630305936,
+        "timestamp": 1630305936,
+        "name": "seats_2021_1.pdf",
+        "title": "seats_2021_1.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QGKD09K5",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 176207,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02CAMAA7P1-seats_2021_1.pdf",
+        "url_private_download": "attachments/F02CAMAA7P1-seats_2021_1.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F02CAMAA7P1/seats_2021_1.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02CAMAA7P1-0c32f42381",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 4,
+        "users": [
+          "U01QNSM488Z",
+          "U01R719DKK2",
+          "U01QGKC5W03",
+          "U01Q386CMKQ"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 5,
+        "users": [
+          "U01Q9KXMSF8",
+          "U01QNSKMEDP",
+          "U01R719DKK2",
+          "U01QGJUT403",
+          "U01QGD03WUC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kZL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2021-1 기준 좌석배치도입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "어경선",
+      "real_name": "어경선",
+      "display_name": "2기_어경선",
+      "team": "T01QA5S537V",
+      "name": "eks104",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "type": "message",
+    "user": "U01QGKD09K5",
+    "text": "2021-1 기준 좌석배치도입니다.",
+    "ts": "1630305952.024500",
+    "thread_ts": "1630304997.022700",
+    "subtype": "thread_broadcast",
+    "parent_user_id": "U01R688N9BJ",
+    "files": [
+      {
+        "id": "F02CAMAA7P1",
+        "created": 1630305936,
+        "timestamp": 1630305936,
+        "name": "seats_2021_1.pdf",
+        "title": "seats_2021_1.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QGKD09K5",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 176207,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02CAMAA7P1-seats_2021_1.pdf",
+        "url_private_download": "attachments/F02CAMAA7P1-seats_2021_1.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QGKD09K5/F02CAMAA7P1/seats_2021_1.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02CAMAA7P1-0c32f42381",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 4,
+        "users": [
+          "U01QNSM488Z",
+          "U01R719DKK2",
+          "U01QGKC5W03",
+          "U01Q386CMKQ"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 5,
+        "users": [
+          "U01Q9KXMSF8",
+          "U01QNSKMEDP",
+          "U01R719DKK2",
+          "U01QGJUT403",
+          "U01QGD03WUC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kZL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "2021-1 기준 좌석배치도입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "어경선",
+      "real_name": "어경선",
+      "display_name": "2기_어경선",
+      "team": "T01QA5S537V",
+      "name": "eks104",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e46c56d2-1923-4d71-b795-fa0e130b9c77",
+    "type": "message",
+    "user": "U01PVETPES3",
+    "text": "테스트 자리배치는 뭔가요?",
+    "ts": "1630306987.025700",
+    "thread_ts": "1630305200.023400",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8x4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "테스트 자리배치는 뭔가요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6d4af6f3e3e21d0a44226adf5e309361.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+      "first_name": "1기_박진원",
+      "real_name": "1기_박진원",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "jwpark127",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4adca853-918f-453d-92d5-87e84fca9efd",
+    "type": "message",
+    "user": "U01QAE5A9K5",
+    "text": "[서버 공지]\nGSDS 서버 외부망 접속 복구되었습니다!!\n\n향후 비슷한 이슈가 발생하지 않도록 계정 비밀번호 보안에 신경써주시길 바랍니다! ( 알파벳, 숫자, 특수문자 혼용 권장)",
+    "ts": "1630312496.027200",
+    "thread_ts": "1630312496.027200",
+    "reply_count": 7,
+    "replies": [
+      {
+        "user": "U01QDANUYVB",
+        "ts": "1630633410.046700"
+      },
+      {
+        "user": "U01QAE5A9K5",
+        "ts": "1630634615.048500"
+      },
+      {
+        "user": "U01QDANUYVB",
+        "ts": "1630634974.048700"
+      },
+      {
+        "user": "U01QDANUYVB",
+        "ts": "1630637072.049000"
+      },
+      {
+        "user": "U01QAE5A9K5",
+        "ts": "1630651372.049200"
+      },
+      {
+        "user": "U01QAE5A9K5",
+        "ts": "1630653888.050900"
+      },
+      {
+        "user": "U01QDANUYVB",
+        "ts": "1630654936.051100"
+      }
+    ],
+    "latest_reply": "1630654936.051100",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 19,
+        "users": [
+          "U01PVEU1A07",
+          "U01QNSKMEDP",
+          "U01QGJL6SP5",
+          "U01QNSMDGF3",
+          "U01R67PKD7S",
+          "U01QNSM8WNM",
+          "U01Q75KNV1T",
+          "U01QAE5BVEX",
+          "U01QNSM5STT",
+          "U01QNSMC29X",
+          "U01PVEU69BR",
+          "U01QDANUYVB",
+          "U01QV1WAPL1",
+          "U01QNMUAUKW",
+          "U01Q386CMKQ",
+          "U01QGD03WUC",
+          "U01QNJ7PWRX",
+          "U01R678KWP2",
+          "U01Q3A8TXU6"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MPy31",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[서버 공지]\nGSDS 서버 외부망 접속 복구되었습니다!!\n\n향후 비슷한 이슈가 발생하지 않도록 계정 비밀번호 보안에 신경써주시길 바랍니다! ( 알파벳, 숫자, 특수문자 혼용 권장)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/4216f3e95036d443d67e0b9e482cd14a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-72.png",
+      "first_name": "3기_손영준",
+      "real_name": "3기_손영준",
+      "display_name": "3기_손영준",
+      "team": "T01QA5S537V",
+      "name": "jun041577",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01QAE5A9K5",
+      "U01QDANUYVB"
+    ]
+  },
+  {
+    "client_msg_id": "52f79744-5c56-4ba9-b679-f12739ba420b",
+    "type": "message",
+    "user": "U01R688N9BJ",
+    "text": "\u003c@U01PVETPES3\u003e 오늘 있었던 줌 회의 중에 정식 자리배정 하기 전에 테스트로 진행한 자리배치입니다. 실제로 코드가 잘 돌아가는지 확인 및 정식 자리배정 과정을 미리 보여주는 차원에서 진행하였습니다.",
+    "ts": "1630329584.028900",
+    "thread_ts": "1630305200.023400",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xpd7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U01PVETPES3"
+              },
+              {
+                "type": "text",
+                "text": " 오늘 있었던 줌 회의 중에 정식 자리배정 하기 전에 테스트로 진행한 자리배치입니다. 실제로 코드가 잘 돌아가는지 확인 및 정식 자리배정 과정을 미리 보여주는 차원에서 진행하였습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+      "first_name": "Jinwoong",
+      "real_name": "Jinwoong Kim",
+      "display_name": "2기_김진웅",
+      "team": "T01QA5S537V",
+      "name": "qazcde.k",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

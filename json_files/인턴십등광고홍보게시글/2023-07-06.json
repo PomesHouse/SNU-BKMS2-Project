@@ -1,0 +1,338 @@
+[
+  {
+    "client_msg_id": "96c82684-c30d-4217-9dd4-7797ab30a42b",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "이 메시지는 상호작용 요소가 포함되어 있습니다.",
+    "ts": "1688617549.505809",
+    "files": [
+      {
+        "id": "F05FN163UNR",
+        "created": 1688610939,
+        "timestamp": 1688610939,
+        "name": "접수양식(★해당서류+작성+후+제출).hwp",
+        "title": "접수양식(★해당서류+작성+후+제출).hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 55296,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05FN163UNR-접수양식(★해당서류+작성+후+제출).hwp",
+        "url_private_download": "attachments/F05FN163UNR-접수양식(★해당서류+작성+후+제출).hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05FN163UNR/_______________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05FN163UNR-f5100cf8d4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05GEL22MBJ",
+        "created": 1688610941,
+        "timestamp": 1688610941,
+        "name": "공모요강(연장안내).hwp",
+        "title": "공모요강(연장안내).hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 179712,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05GEL22MBJ-공모요강(연장안내).hwp",
+        "url_private_download": "attachments/F05GEL22MBJ-공모요강(연장안내).hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GEL22MBJ/__________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GEL22MBJ-e3458aa77d",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05G3HSATK3",
+        "created": 1688610943,
+        "timestamp": 1688610943,
+        "name": "포스터.jpg",
+        "title": "포스터.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 221985,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05G3HSATK3-포스터.jpg",
+        "url_private_download": "attachments/F05G3HSATK3-포스터.jpg",
+        "original_h": 1197,
+        "original_w": 848,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05G3HSATK3-77f97e5b15/__________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05G3HSATK3-77f97e5b15/__________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05G3HSATK3-77f97e5b15/__________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05G3HSATK3-77f97e5b15/__________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 255,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05G3HSATK3-77f97e5b15/__________480.jpg",
+        "thumb_480_w": 340,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05G3HSATK3-77f97e5b15/__________720.jpg",
+        "thumb_720_w": 510,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05G3HSATK3-77f97e5b15/__________960.jpg",
+        "thumb_960_w": 680,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05G3HSATK3-77f97e5b15/__________1024.jpg",
+        "thumb_1024_w": 725,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05G3HSATK3/_________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05G3HSATK3-63ae671643",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sQMq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[협조요청] 문화체육관광부 주최, 제3회 KOPIS 빅데이터 공모전 홍보 요청의건 (~7/14 (금) 접수기간 연장)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요, 2023 예술경영지원센터 KOPIS 빅데이터 공모전 운영사무국입니다.\n재)예술경영지원센터에서 공연예술통합전산망(KOPIS) 빅데이터를 활용하여 공연시장 활성화 및 고도화 방안을 모색하고자\n"
+              },
+              {
+                "type": "text",
+                "text": "[제3회 공연예술통합전산망(KOPIS) 빅데이터 공모전]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "을 개최합니다.\n공연예술 빅데이터 분석, 서비스 개발 등에 관심 있는 전 국민 모두 참여할 수 있으니 해당 분야에 관심 있으신 많은 분들이 참여하실 수 있도록 아래와 같이 협조 요청 드립니다.\n감사합니다.\n\n[협조 요청 사항]\n"
+              },
+              {
+                "type": "text",
+                "text": "- 내부 커뮤니티 (홈페이지, 네이버 밴드, 카카오톡 단체 채팅 등)에 포스터 및 행사 개요, 신청 양식 업로드",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n[행사 개요]\n■ 행사명 : 제3회 KOPIS 빅데이터 공모전\n■ 주최/주관: 문화체육관광부/예술경영지원센터\n\n■ 공모주제: 공연 소비, 유통 등의 측면에서 시장 문제점을 해결 및 발전시킬 수 있는 범주 내 자유주제\n■ 공모대상:\n1) 빅데이터 분석 : Python, R, SQL 등으로 데이터 분석이 가능한 "
+              },
+              {
+                "type": "text",
+                "text": "전국 대학(원)생",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n2) 서비스개발 : 데이터 활용 제품 및 서비스 개발이 가능한 "
+              },
+              {
+                "type": "text",
+                "text": "전 국민",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n* 개인 또는 팀 (최대 4인) 참여 가능\n\n"
+              },
+              {
+                "type": "text",
+                "text": "■ 접수 기간: 2023년 6월 1일(월) ~ 7월 14일(금) 16시까지",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n■ 접수 방법: KOPIS 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "http://www.kopis.or.kr",
+                "text": "www.kopis.or.kr"
+              },
+              {
+                "type": "link",
+                "url": "https://streaklinks.com/BiHmhvbXF2P_57IMIAxRLqZF/http%3A%2F%2Fwww.kopis.or.kr%29",
+                "text": ")"
+              },
+              {
+                "type": "text",
+                "text": " \u003e 고객센터 \u003e 공지사항 \u003e 접수 양식 다운로드 및 내용을 작성 \u003e 이메일 ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:kopisbigdata@gmail.com",
+                "text": "kopisbigdata@gmail.com"
+              },
+              {
+                "type": "text",
+                "text": ") 제출\n\n■ 시상규모:\n1. 빅데이터 분석 부문\n- 혁신상(1등) 1팀 500만원\n- 진흥상(2등) 2팀 300만원\n- 돋움상(3등) 2팀 200만원\n\n2. 서비스 개발\n- 혁신상(1등) 1팀 600만원\n- 진흥상(2등) 2팀 500만원\n- 돋움상(3등) 2팀 400만원\n■ 온라인 사전설명회 영상 다시보기 : 예술경영지원센터 유튜브 채널에서 확인 가능\n\n*문의\nKOPIS 빅데이터 공모전 운영사무국\nTel: "
+              },
+              {
+                "type": "link",
+                "url": "tel:07075752353",
+                "text": "070-7575-2353"
+              },
+              {
+                "type": "text",
+                "text": " (10:00~17:00)\nE-mail: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:kopisbigdata@gmail.com",
+                "text": "kopisbigdata@gmail.com"
+              },
+              {
+                "type": "text",
+                "text": "\n\n[붙임]\n1. (포스터) 제3회 공연예술통합전산망(KOPIS) 빅데이터 공모전\n2. (공고문) 제3회 공연예술통합전산망(KOPIS) 빅데이터 공모전\n3. (제출양식) 제3회 공연예술통합전산망(KOPIS) 빅데이터 공모전"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

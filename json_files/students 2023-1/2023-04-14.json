@@ -1,0 +1,254 @@
+[
+  {
+    "client_msg_id": "18a50981-370b-4873-a464-fc17e28bf7c8",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "금요일 피자 세미나 곧 시작합니다! 피자 넉넉하게 시켰으니 투표 안하셨어도 많이 와주세요~",
+    "ts": "1681441819.612829",
+    "thread_ts": "1680766373.240979",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U01PVEU1A07",
+          "U040MB432JW"
+        ]
+      },
+      {
+        "name": "짱구s",
+        "count": 2,
+        "users": [
+          "U040ENMBB1C",
+          "U040MB432JW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kWhaD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "금요일 피자 세미나 곧 시작합니다! 피자 넉넉하게 시켰으니 투표 안하셨어도 많이 와주세요~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "18a50981-370b-4873-a464-fc17e28bf7c8",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "금요일 피자 세미나 곧 시작합니다! 피자 넉넉하게 시켰으니 투표 안하셨어도 많이 와주세요~",
+    "ts": "1681441819.612829",
+    "thread_ts": "1680766373.240979",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U01PVEU1A07",
+          "U040MB432JW"
+        ]
+      },
+      {
+        "name": "짱구s",
+        "count": 2,
+        "users": [
+          "U040ENMBB1C",
+          "U040MB432JW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kWhaD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "금요일 피자 세미나 곧 시작합니다! 피자 넉넉하게 시켰으니 투표 안하셨어도 많이 와주세요~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3f9c3d9c-143d-4007-8e2c-cd334e816f8d",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": ":rotating_light: 오늘 프로필 제출 마감일입니다!!",
+    "ts": "1681458112.798089",
+    "thread_ts": "1681200408.093919",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "짱구s",
+        "count": 1,
+        "users": [
+          "U040ENMBB1C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ugAx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "rotating_light",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 오늘 프로필 제출 마감일입니다!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3f9c3d9c-143d-4007-8e2c-cd334e816f8d",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": ":rotating_light: 오늘 프로필 제출 마감일입니다!!",
+    "ts": "1681458112.798089",
+    "thread_ts": "1681200408.093919",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "짱구s",
+        "count": 1,
+        "users": [
+          "U040ENMBB1C"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ugAx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "rotating_light",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 오늘 프로필 제출 마감일입니다!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

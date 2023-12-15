@@ -1,0 +1,158 @@
+[
+  {
+    "client_msg_id": "5036ee05-3a4f-49e0-b64f-bc85a25f533e",
+    "type": "message",
+    "user": "U01QUKKQ8GH",
+    "text": "연구공원 식당 주간 메뉴 메뉴 올리니 참고해주세요",
+    "ts": "1684212791.769389",
+    "files": [
+      {
+        "id": "F057H2SQBGX",
+        "created": 1684212702,
+        "timestamp": 1684212702,
+        "name": "주간메뉴.png",
+        "title": "주간메뉴.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QUKKQ8GH",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 668178,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F057H2SQBGX-주간메뉴.png",
+        "url_private_download": "attachments/F057H2SQBGX-주간메뉴.png",
+        "original_h": 595,
+        "original_w": 810,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F057H2SQBGX-7c09aa0f67/____________________________64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F057H2SQBGX-7c09aa0f67/____________________________80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F057H2SQBGX-7c09aa0f67/____________________________160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F057H2SQBGX-7c09aa0f67/____________________________360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 264,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F057H2SQBGX-7c09aa0f67/____________________________480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 353,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F057H2SQBGX-7c09aa0f67/____________________________720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 529,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QUKKQ8GH/F057H2SQBGX/___________________________.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F057H2SQBGX-e89de05069",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "man-lifting-weights",
+        "count": 6,
+        "users": [
+          "U01R678KWP2",
+          "U02B19BV9ST",
+          "U02UQ4D8L2Z",
+          "U01Q1KFN4JK",
+          "U02V5LT2XFB",
+          "U01QNMUAUKW"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 20,
+        "users": [
+          "U04QKG4K12Q",
+          "U04QGUFBFR9",
+          "U040ENMBB1C",
+          "U04QE4ASJP7",
+          "U01QGKCT067",
+          "U01QV1SQJ57",
+          "U02UVATUSLU",
+          "U02UQ4D8L2Z",
+          "U040M7VULN7",
+          "U01Q1KFN4JK",
+          "U02V5LT2XFB",
+          "U01QNMUAUKW",
+          "U02V5LT4DLZ",
+          "U01PVEU1A07",
+          "U0302PK342C",
+          "U01Q386CMKQ",
+          "U01QGJL6SP5",
+          "U040MB432JW",
+          "U04RD26CJ5N",
+          "U04QVLEGY3B"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U04QH9CASRG"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "K05c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "연구공원 식당 주간 메뉴 메뉴 올리니 참고해주세요"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/1811297efe16255889b264ceb88876cd.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "김호현",
+      "real_name": "김호현",
+      "display_name": "2기_김호현",
+      "team": "T01QA5S537V",
+      "name": "waterdream",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

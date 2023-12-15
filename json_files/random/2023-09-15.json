@@ -1,0 +1,59 @@
+[
+  {
+    "client_msg_id": "f8a4d9a6-665e-43b6-9b4e-9bafacb4f160",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "안녕하세요. 평소 행정실에서 스레드 기능을 잘 사용하지 않아서 확인이 늦었습니다.\n43-2동 101호, 117호, 118호 연구공간 출입리더기 알림음을 줄여달라고 학교 통합경비 상황실(880-9112)에 요청하였습니다. 오늘 중 처리될 것 같은데, 제대로 처리되지 않았다면 통합경비 상황실로 직접 연락하셔도 됩니다!\n평일 상시개방 건의 경우, 942동 3층과 4층처럼 데이터사이언스대학원 학생들만의 공간이 아니라, 강의실과 스터디룸을 인근에서 사용하는 공과대학 등 타 대학 학생들이 많아서 연구공간을 사용하는 다수의 학생들이 동의한다는 전제로 평일 일과시간 중 상시 개방을 진행할 수 있을 것 같습니다! 필요 시 학생회 대표단에 건의하여 학생회에서 요청주시면 개방 조치하겠습니다.\n아울러, 문의사항 확인이 늦어질 수 있어 가급적 스레드 보다는 메일이나 전화, 슬랙 DM을 활용해주시면 감사하겠습니다!",
+    "ts": "1694738072.528499",
+    "thread_ts": "1693808026.021129",
+    "parent_user_id": "U02UT1XUGFL",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 1,
+        "users": [
+          "U02UT1XUGFL"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=G5fp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요. 평소 행정실에서 스레드 기능을 잘 사용하지 않아서 확인이 늦었습니다.\n43-2동 101호, 117호, 118호 연구공간 출입리더기 알림음을 줄여달라고 학교 통합경비 상황실(880-9112)에 요청하였습니다. 오늘 중 처리될 것 같은데, 제대로 처리되지 않았다면 통합경비 상황실로 직접 연락하셔도 됩니다!\n평일 상시개방 건의 경우, 942동 3층과 4층처럼 데이터사이언스대학원 학생들만의 공간이 아니라, 강의실과 스터디룸을 인근에서 사용하는 공과대학 등 타 대학 학생들이 많아서 연구공간을 사용하는 다수의 학생들이 동의한다는 전제로 평일 일과시간 중 상시 개방을 진행할 수 있을 것 같습니다! 필요 시 학생회 대표단에 건의하여 학생회에서 요청주시면 개방 조치하겠습니다.\n아울러, 문의사항 확인이 늦어질 수 있어 가급적 스레드 보다는 메일이나 전화, 슬랙 DM을 활용해주시면 감사하겠습니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

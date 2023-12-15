@@ -1,0 +1,238 @@
+[
+  {
+    "client_msg_id": "cde93366-e211-4c24-9b47-2e20bf0a5a02",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;자연과학대학 물리천문학부 김철수 물리관(56-1동) 신축사업 시행 안내\u0026gt;\n\n「자연과학대학 물리천문학부 김철수 물리관(56-1동) 신축사업」이 아래와 같이 시행될 예정이오니 공사 중 불편하시더라도 양해하여 주시고 적극 협조하여 주시기 바랍니다.\n\n  가. 공사개요\n    1) 공 사 명: 서울대학교 자연과학대학 물리천문학부 김철수 물리관(56-1동) 신축사업\n    2) 공사기간: 2023. 11. 13.(월) ~ 2025. 8. 3.(일)(착공일로부터 630일)\n    3) 공사내용: 자연과학관10(56동)과 관정관(62-1동) 사이 녹지 공간 건물 신축\n    4) 시공회사: 거현산업(주)\n\n  나. 공사 중 협조 사항\n    1) *공사 중 불가피하게 발생되는 소음 및 분진에 대한 양해와 협조*\n    2) *공사 중 기존 56동 측면 외부 계단 사용 불가로 인해 주변 계단 이용 협조*\n    3) *공사부지 주변 공사 차량 진출입으로 인한 차량 및 보행자 통행 주의*\n\n붙임 가설휀스 설치계획도 및 조감도 1부. 끝.",
+    "ts": "1699316877.898609",
+    "files": [
+      {
+        "id": "F0643MTMXKR",
+        "created": 1699316847,
+        "timestamp": 1699316847,
+        "name": "가설휀스 설치계획도 및 조감도.pdf",
+        "title": "가설휀스 설치계획도 및 조감도.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 656746,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0643MTMXKR-가설휀스 설치계획도 및 조감도.pdf",
+        "url_private_download": "attachments/F0643MTMXKR-가설휀스 설치계획도 및 조감도.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F0643MTMXKR/__________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F0643MTMXKR-e88681e482",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xMn30",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c자연과학대학 물리천문학부 김철수 물리관(56-1동) 신축사업 시행 안내\u003e\n\n「자연과학대학 물리천문학부 김철수 물리관(56-1동) 신축사업」이 아래와 같이 시행될 예정이오니 공사 중 불편하시더라도 양해하여 주시고 적극 협조하여 주시기 바랍니다.\n\n  가. 공사개요\n    1) 공 사 명: 서울대학교 자연과학대학 물리천문학부 김철수 물리관(56-1동) 신축사업\n    2) 공사기간: 2023. 11. 13.(월) ~ 2025. 8. 3.(일)(착공일로부터 630일)\n    3) 공사내용: 자연과학관10(56동)과 관정관(62-1동) 사이 녹지 공간 건물 신축\n    4) 시공회사: 거현산업(주)\n\n  나. 공사 중 협조 사항\n    1) "
+              },
+              {
+                "type": "text",
+                "text": "공사 중 불가피하게 발생되는 소음 및 분진에 대한 양해와 협조",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    2)"
+              },
+              {
+                "type": "text",
+                "text": " 공사 중 기존 56동 측면 외부 계단 사용 불가로 인해 주변 계단 이용 협조",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    3) "
+              },
+              {
+                "type": "text",
+                "text": "공사부지 주변 공사 차량 진출입으로 인한 차량 및 보행자 통행 주의",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n붙임 가설휀스 설치계획도 및 조감도 1부. 끝."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "783de40a-4bbd-42a5-a565-e4aaff276ecc",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "정수기가 오늘 중 수리 완료되어 내일 다시 설치될 예정이오니 참고하시기 바랍니다.",
+    "ts": "1699316999.150729",
+    "thread_ts": "1697699322.921029",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/y2J3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "정수기가 오늘 중 수리 완료되어 내일 다시 설치될 예정이오니 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "783de40a-4bbd-42a5-a565-e4aaff276ecc",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "정수기가 오늘 중 수리 완료되어 내일 다시 설치될 예정이오니 참고하시기 바랍니다.",
+    "ts": "1699316999.150729",
+    "thread_ts": "1697699322.921029",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/y2J3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "정수기가 오늘 중 수리 완료되어 내일 다시 설치될 예정이오니 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

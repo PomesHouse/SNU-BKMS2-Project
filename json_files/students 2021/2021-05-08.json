@@ -1,0 +1,50 @@
+[
+  {
+    "client_msg_id": "70bc7f41-feca-400b-a89c-40d43989b034",
+    "type": "message",
+    "user": "U01R688N9BJ",
+    "text": "제가요? 암튼 잘 놔주셔서 감사합니다!",
+    "ts": "1620460321.096200",
+    "thread_ts": "1619767770.094200",
+    "parent_user_id": "U01Q1KFN4JK",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nGN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "제가요? 암튼 잘 놔주셔서 감사합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+      "first_name": "Jinwoong",
+      "real_name": "Jinwoong Kim",
+      "display_name": "2기_김진웅",
+      "team": "T01QA5S537V",
+      "name": "qazcde.k",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

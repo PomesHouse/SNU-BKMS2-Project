@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "99786AA2-3954-44F4-BC32-4DDB32771167",
+    "type": "message",
+    "user": "U01QGD03WUC",
+    "text": "건도형 해피뉴이어입니다!!!",
+    "ts": "1642467393.000500",
+    "thread_ts": "1642046115.004900",
+    "parent_user_id": "U01QA85T90A",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YL92",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "건도형 해피뉴이어입니다!!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1850465314224_d80690ecb59c4004c2a6_72.png",
+      "first_name": "woochulee",
+      "real_name": "woochulee",
+      "display_name": "1기_이우철",
+      "team": "T01QA5S537V",
+      "name": "woochulee",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "72451fba-666f-4aba-b94e-59ec1b2a472e",
+    "type": "message",
+    "user": "U01QA85T90A",
+    "text": "해피뉴이어!!",
+    "ts": "1642468584.001000",
+    "thread_ts": "1642046115.004900",
+    "parent_user_id": "U01QA85T90A",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "man-gesturing-ok",
+        "count": 1,
+        "users": [
+          "U01QGD03WUC"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "To2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "해피뉴이어!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+      "first_name": "gundo0102",
+      "real_name": "gundo0102",
+      "display_name": "3기_박건도",
+      "team": "T01QA5S537V",
+      "name": "gundo0102",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

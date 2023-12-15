@@ -1,0 +1,143 @@
+[
+  {
+    "client_msg_id": "7a97f03a-4cb1-49e0-bf0f-5274e993c678",
+    "type": "message",
+    "user": "U02UT2VQ9NF",
+    "text": "*9시 반에 302호에서 세미나가 있으니 관심있으신 분들의 많은 참여부탁드립니다!!!*\n\nBK21 데이터사이언스 혁신인재양성 사업단에서는 미국 Michigan State University, Computer Science \u0026amp; Engineering의 Kordjamshidi, Parisa 교수님을 모시고,\n“Exploiting Domain Knowledge and Modular Semantics in Deep Learning for Natural Language Comprehension and Grounding” 세미나를 진행할 예정입니다.\n\n이번 초청 세미나는 대면과 비대면 모두 진행하게 되었습니다.\n대면 강연으로 참석하는 경우, 세미나 이후 간단한 다과와 함께 강연자와 대화할 수 있는 시간을 가질 예정입니다.\n\n1. 행사: BK21 데이터사이언스 해외학자 초청특강\n2. 연사: Kordjamshidi, Parisa 교수 (Michigan State University, Computer Science \u0026amp; Engineering)\n3. 일시: 2022년 10월 17일(월) 오전 9시30분\n4. 진행 및 참여방법\n- 오프라인: 942동 302호\n- 온라인(Zoom) : \u003chttps://snu-ac-kr.zoom.us/j/93756706136|https://snu-ac-kr.zoom.us/j/93756706136\u003e\n5. 주관: BK21 데이터사이언스 혁신인재양성 사업단\n\n[Seminar 추가 정보]\nPraisa 교수님은 2019년에 NSF career award를 받았으며, 비전과 언어를 동시에 다루는, 특히 공간을 지각할 수 있는 자연어 처리를 연구합니다.\n또한 머신러닝이 실생활에 복잡한 태스크에서도 쓰일 수 있도록 symbolic reasoning과 머신러닝을 결합하는 연구를 수행하고 있습니다.\n\n최근의 black-box approach의 한계점을 해결하기 위해 머신러닝 모델의 interpretability, controllability 같은 주제들이 대두되고 있습니다.\n이런 주제들에 대해 직간접적으로 생각해 볼 수 있는 좋은 기회가 될 것이니 많은 참여 부탁드립니다.\n\n앞서 말씀드렸듯 이번 초청 세미나는 대면과 비대면 모두 진행되며,\n강연 이후에는 간단한 다과와 함께 강연자와 대화할 수 있는 시간을 가질 예정입니다.",
+    "ts": "1665965658.755899",
+    "edited": {
+      "user": "U02UT2VQ9NF",
+      "ts": "1665965735.000000"
+    },
+    "files": [
+      {
+        "id": "F0473QG6C1X",
+        "created": 1665965637,
+        "timestamp": 1665965637,
+        "name": "Screenshot_20221017-091351_Gmail.jpg",
+        "title": "Screenshot_20221017-091351_Gmail.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02UT2VQ9NF",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 184045,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F0473QG6C1X-Screenshot_20221017-091351_Gmail.jpg",
+        "url_private_download": "attachments/F0473QG6C1X-Screenshot_20221017-091351_Gmail.jpg",
+        "original_h": 1406,
+        "original_w": 982,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F0473QG6C1X-efaab50f45/screenshot_20221017-091351_gmail_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F0473QG6C1X-efaab50f45/screenshot_20221017-091351_gmail_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F0473QG6C1X-efaab50f45/screenshot_20221017-091351_gmail_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F0473QG6C1X-efaab50f45/screenshot_20221017-091351_gmail_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 251,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F0473QG6C1X-efaab50f45/screenshot_20221017-091351_gmail_480.jpg",
+        "thumb_480_w": 335,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F0473QG6C1X-efaab50f45/screenshot_20221017-091351_gmail_720.jpg",
+        "thumb_720_w": 503,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F0473QG6C1X-efaab50f45/screenshot_20221017-091351_gmail_960.jpg",
+        "thumb_960_w": 670,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F0473QG6C1X-efaab50f45/screenshot_20221017-091351_gmail_1024.jpg",
+        "thumb_1024_w": 715,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U02UT2VQ9NF/F0473QG6C1X/screenshot_20221017-091351_gmail.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F0473QG6C1X-cd522a2281",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U02UQ4BAMB7",
+          "U02UT1XUGFL",
+          "U02ULBHV58W",
+          "U01QV28FG4R"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qv4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "9시 반에 302호에서 세미나가 있으니 관심있으신 분들의 많은 참여부탁드립니다!!!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nBK21 데이터사이언스 혁신인재양성 사업단에서는 미국 Michigan State University, Computer Science \u0026 Engineering의 Kordjamshidi, Parisa 교수님을 모시고,\n“Exploiting Domain Knowledge and Modular Semantics in Deep Learning for Natural Language Comprehension and Grounding” 세미나를 진행할 예정입니다.\n\n이번 초청 세미나는 대면과 비대면 모두 진행하게 되었습니다.\n대면 강연으로 참석하는 경우, 세미나 이후 간단한 다과와 함께 강연자와 대화할 수 있는 시간을 가질 예정입니다.\n\n1. 행사: BK21 데이터사이언스 해외학자 초청특강\n2. 연사: Kordjamshidi, Parisa 교수 (Michigan State University, Computer Science \u0026 Engineering)\n3. 일시: 2022년 10월 17일(월) 오전 9시30분\n4. 진행 및 참여방법\n- 오프라인: 942동 302호\n- 온라인(Zoom) : "
+              },
+              {
+                "type": "link",
+                "url": "https://snu-ac-kr.zoom.us/j/93756706136",
+                "text": "https://snu-ac-kr.zoom.us/j/93756706136"
+              },
+              {
+                "type": "text",
+                "text": "\n5. 주관: BK21 데이터사이언스 혁신인재양성 사업단\n\n[Seminar 추가 정보]\nPraisa 교수님은 2019년에 NSF career award를 받았으며, 비전과 언어를 동시에 다루는, 특히 공간을 지각할 수 있는 자연어 처리를 연구합니다.\n또한 머신러닝이 실생활에 복잡한 태스크에서도 쓰일 수 있도록 symbolic reasoning과 머신러닝을 결합하는 연구를 수행하고 있습니다.\n\n최근의 black-box approach의 한계점을 해결하기 위해 머신러닝 모델의 interpretability, controllability 같은 주제들이 대두되고 있습니다.\n이런 주제들에 대해 직간접적으로 생각해 볼 수 있는 좋은 기회가 될 것이니 많은 참여 부탁드립니다.\n\n앞서 말씀드렸듯 이번 초청 세미나는 대면과 비대면 모두 진행되며,\n강연 이후에는 간단한 다과와 함께 강연자와 대화할 수 있는 시간을 가질 예정입니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+      "first_name": "3기_송종현",
+      "real_name": "3기_송종현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "hyeongoon",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

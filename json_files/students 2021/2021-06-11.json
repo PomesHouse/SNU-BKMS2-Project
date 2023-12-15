@@ -1,0 +1,960 @@
+[
+  {
+    "client_msg_id": "9c4b858c-2cdb-45c2-a4aa-62e6c57e9db9",
+    "type": "message",
+    "user": "U01R688N9BJ",
+    "text": "[공지]\n안녕하세요 21학번 김진웅입니다.\n한 학기가 마무리되어 가는데 다들 지내셨나요 ㅎㅎ\n\n다름이 아니라 금일(6.11.) 학생회분들이 대학원 관계자분들과의 1시간*(15~16시)* 가량의 짧은 *간담회*에 참석할 예정입니다. 간담회 중 *학생분들의 의견을 전달*하는 일정도 포함되어 있습니다.\n\n*대학원 운영 및 정책과 관련*하여 그동안 생각하신 아쉬운 부분, 궁금하셨던 부분, 기타 건의사항에 대해 *답글로 의견*주시면 감사하겠습니다.\n\n의견 있으신 내용은 자유롭게 작성하여 주시고, 혹여나 앞서 다른 분들이 먼저 건의를 하셨더라도 중복해서 적어주시면 얼마나 많은 분들이 공감하고 계신지 파악하기에 수월할 것으로 보이니 주저하지 마시고 *앞선 내용과 유사, 중복 내용도  빠짐없이 작성*해주시면 감사하겠습니다.",
+    "ts": "1623380954.023000",
+    "thread_ts": "1623380954.023000",
+    "reply_count": 5,
+    "replies": [
+      {
+        "user": "U01QV1WAPL1",
+        "ts": "1623382971.029200"
+      },
+      {
+        "user": "U01QV1SQJ57",
+        "ts": "1623383096.029700"
+      },
+      {
+        "user": "U01QAE573J7",
+        "ts": "1623384212.032700"
+      },
+      {
+        "user": "U01QV1WAPL1",
+        "ts": "1623384440.034500"
+      },
+      {
+        "user": "U01QNSMDGF3",
+        "ts": "1623384451.034800"
+      }
+    ],
+    "latest_reply": "1623384451.034800",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 13,
+        "users": [
+          "U01QV1WAPL1",
+          "U01Q3A8TXU6",
+          "U01QV1SQJ57",
+          "U01QGCLCLRY",
+          "U01QAE5BVEX",
+          "U01Q9KJL8MC",
+          "U01QDA01NN9",
+          "U01Q1KFN4JK",
+          "U01QGJUT403",
+          "U01Q75KNV1T",
+          "U01Q3EPDBAA",
+          "U01R719DKK2",
+          "U02UQ4D8L2Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QoQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[공지]\n안녕하세요 21학번 김진웅입니다.\n한 학기가 마무리되어 가는데 다들 지내셨나요 ㅎㅎ\n\n다름이 아니라 금일(6.11.) 학생회분들이 대학원 관계자분들과의 1시간"
+              },
+              {
+                "type": "text",
+                "text": "(15~16시)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 가량의 짧은 "
+              },
+              {
+                "type": "text",
+                "text": "간담회",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 참석할 예정입니다. 간담회 중 "
+              },
+              {
+                "type": "text",
+                "text": "학생분들의 의견을 전달",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하는 일정도 포함되어 있습니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "대학원 운영 및 정책과 관련",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하여 그동안 생각하신 아쉬운 부분, 궁금하셨던 부분, 기타 건의사항에 대해 "
+              },
+              {
+                "type": "text",
+                "text": "답글로 의견",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "주시면 감사하겠습니다.\n\n의견 있으신 내용은 자유롭게 작성하여 주시고, 혹여나 앞서 다른 분들이 먼저 건의를 하셨더라도 중복해서 적어주시면 얼마나 많은 분들이 공감하고 계신지 파악하기에 수월할 것으로 보이니 주저하지 마시고 "
+              },
+              {
+                "type": "text",
+                "text": "앞선 내용과 유사, 중복 내용도  빠짐없이 작성",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "해주시면 감사하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856386959120_91450f647a687e65f60c_72.png",
+      "first_name": "Jinwoong",
+      "real_name": "Jinwoong Kim",
+      "display_name": "2기_김진웅",
+      "team": "T01QA5S537V",
+      "name": "qazcde.k",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 4,
+    "reply_users": [
+      "U01QAE573J7",
+      "U01QNSMDGF3",
+      "U01QV1SQJ57",
+      "U01QV1WAPL1"
+    ]
+  },
+  {
+    "client_msg_id": "9E81BFBC-5A3A-4DE3-91E2-F87FF213B975",
+    "type": "message",
+    "user": "U01QNMUAUKW",
+    "text": "일부수업 학사 일정의 부재 체계없음 \n부트캠프 대신 차라리 컴퓨팅 수업을 1,2월에 \n교수님 랩 학기초중반 사전에 공고 한학기 생각할 시간 필요 \n데이터사이언스 세부전공(혹은 분야?) 가이드라인 있으면 좋을것 같은... \n데사 수업 외에도 타과와의 수업 교류같은것 졸업시 인정 혹은 유사 수업에 대한 가이드라인 있으면... ",
+    "ts": "1623382691.027000",
+    "thread_ts": "1623382691.027000",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01QGKCUAJX",
+        "ts": "1623383860.031700"
+      },
+      {
+        "user": "U01QDANUYVB",
+        "ts": "1623390117.041200"
+      }
+    ],
+    "latest_reply": "1623390117.041200",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U01QV1TE2UR",
+          "U01Q1KQ03PZ",
+          "U01Q3EPDBAA",
+          "U02UQ4D8L2Z"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "656a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "일부수업 학사 일정의 부재 체계없음 \n부트캠프 대신 차라리 컴퓨팅 수업을 1,2월에 \n교수님 랩 학기초중반 사전에 공고 한학기 생각할 시간 필요 \n데이터사이언스 세부전공(혹은 분야?) 가이드라인 있으면 좋을것 같은... \n데사 수업 외에도 타과와의 수업 교류같은것 졸업시 인정 혹은 유사 수업에 대한 가이드라인 있으면... "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2b1495435b2113be4f58e565cb3a27ae.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "",
+      "real_name": "2기_김도균",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "dokyunkim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01QDANUYVB",
+      "U01QGKCUAJX"
+    ]
+  },
+  {
+    "client_msg_id": "6c477e8e-95d3-4a17-8ba3-09952faf15a5",
+    "type": "message",
+    "user": "U01QA85T90A",
+    "text": "프린터 무료화\n식당 대학원생 할인",
+    "ts": "1623382777.027600",
+    "thread_ts": "1623382777.027600",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01Q386CMKQ",
+        "ts": "1623382831.028500"
+      },
+      {
+        "user": "U01QNSM488Z",
+        "ts": "1623384887.037600"
+      }
+    ],
+    "latest_reply": "1623384887.037600",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 15,
+        "users": [
+          "U01Q386CMKQ",
+          "U01Q3A8TXU6",
+          "U01QV1WAPL1",
+          "U01PVETJY87",
+          "U01QNSMDGF3",
+          "U01PVETSAGP",
+          "U01QNHRHY0L",
+          "U01QNSM488Z",
+          "U01QDA36FJR",
+          "U01Q1KFN4JK",
+          "U01PVEU3007",
+          "U01Q75KNV1T",
+          "U01QNSMEY0Z",
+          "U01QGD03WUC",
+          "U01Q3EPDBAA"
+        ]
+      },
+      {
+        "name": "star-struck",
+        "count": 1,
+        "users": [
+          "U01Q3EP0E14"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 2,
+        "users": [
+          "U01QAE5DERZ",
+          "U01QNMUAUKW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jhO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "프린터 무료화\n식당 대학원생 할인"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-07/1831683627602_d581c1677689d8a8a26d_72.png",
+      "first_name": "gundo0102",
+      "real_name": "gundo0102",
+      "display_name": "3기_박건도",
+      "team": "T01QA5S537V",
+      "name": "gundo0102",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01Q386CMKQ",
+      "U01QNSM488Z"
+    ]
+  },
+  {
+    "client_msg_id": "87D4CF7D-51A8-4CE7-B4FF-89C9FDE145E1",
+    "type": "message",
+    "user": "U01Q386CMKQ",
+    "text": "저도 프린터 무료화는 필요하다고 느껴집니다",
+    "ts": "1623382831.028500",
+    "thread_ts": "1623382777.027600",
+    "parent_user_id": "U01QA85T90A",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 6,
+        "users": [
+          "U01QGD17SUU",
+          "U01QNSMDGF3",
+          "U01QNSM488Z",
+          "U01QV1WAPL1",
+          "U01Q1KFN4JK",
+          "U01Q3A8TXU6"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 1,
+        "users": [
+          "U01QGD17SUU"
+        ]
+      },
+      {
+        "name": "clap",
+        "count": 1,
+        "users": [
+          "U01QGD17SUU"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8u9sM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저도 프린터 무료화는 필요하다고 느껴집니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826260082339_3eb2f7686c0824cf17e0_72.jpg",
+      "first_name": "Na",
+      "real_name": "Na Yeon Kim",
+      "display_name": "1기_김나연",
+      "team": "T01QA5S537V",
+      "name": "nayeonkim1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3a196730-1563-4731-8f04-ccaa37c218a5",
+    "type": "message",
+    "user": "U01QV1WAPL1",
+    "text": "안녕하세요? 수고 많으십니다.\n주차장이 협소하여 현시점에도 주차 공간을 찾지 못할 때가 자주 있는데, 대면 수업이 본격화되면 훨씬 심해지리라 예상됩니다. 이에 대해 여러 대책을 강구하도록 건의 부탁드립니다. 예를 들면, 연구공원  주차장의 유료 정기권 등을 이용할 수 있다면 주차 수요를 분산할 수도 있을 것 같고요.\n감사합니다.",
+    "ts": "1623382971.029200",
+    "thread_ts": "1623380954.023000",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "utJvo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요? 수고 많으십니다.\n주차장이 협소하여 현시점에도 주차 공간을 찾지 못할 때가 자주 있는데, 대면 수업이 본격화되면 훨씬 심해지리라 예상됩니다. 이에 대해 여러 대책을 강구하도록 건의 부탁드립니다. 예를 들면, 연구공원  주차장의 유료 정기권 등을 이용할 수 있다면 주차 수요를 분산할 수도 있을 것 같고요.\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1825660672566_06f8689d1fa538401ca7_72.jpg",
+      "first_name": "Jongwon",
+      "real_name": "Jongwon Kim",
+      "display_name": "2기_김종원",
+      "team": "T01QA5S537V",
+      "name": "kjwon21",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4477989a-473e-4df1-8b1e-03b6e058ebfd",
+    "type": "message",
+    "user": "U01QV1SQJ57",
+    "text": "학생들 휴식 공간이 절실합니다!!! 가능하다면 빈백 같이 잠시 누워서 쉴 수 있는 것들도 있으면 좋겠네요 ㅎㅎ",
+    "ts": "1623383096.029700",
+    "thread_ts": "1623380954.023000",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 16,
+        "users": [
+          "U01Q3EP0E14",
+          "U01QAE5BVEX",
+          "U01QV1WAPL1",
+          "U01QV1PBKUZ",
+          "U01QDA01NN9",
+          "U01QNSMDGF3",
+          "U01QNMUAUKW",
+          "U01R719DKK2",
+          "U01PVEU3007",
+          "U01QNJ9BB60",
+          "U01QNSM488Z",
+          "U01QV1TE2UR",
+          "U01Q1KFN4JK",
+          "U01Q3A8TXU6",
+          "U01Q3EPDBAA",
+          "U01PVEU1A07"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "O7Mz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "학생들 휴식 공간이 절실합니다!!! 가능하다면 빈백 같이 잠시 누워서 쉴 수 있는 것들도 있으면 좋겠네요 ㅎㅎ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1829347092037_2bead640f86fc4b55a82_72.png",
+      "first_name": "김병찬",
+      "real_name": "김병찬",
+      "display_name": "4기_김병찬",
+      "team": "T01QA5S537V",
+      "name": "bckim97",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "edb0b504-c485-41ca-a3ba-7d720355a183",
+    "type": "message",
+    "user": "U01QGKCUAJX",
+    "text": "특히 저희 2기는 일부러 다양한 백그라운드 분들을 뽑으신것 같은데.. 좀더 세밀한 가이드라인이 필요할듯 합니다. 특히 technical한 부분들 중에서 다들 똑같은 수준의 역량을 요구하신다면 좀 무리이지 않을까 싶고요.. 일부 수업의 경우 다양한 토픽과 많은것을 가르쳐주시고픈 교수님의 좋은(?) 취지가 있으신것 같은데.. 사실 무엇을 배웠는지 모르겠습니다 ^^;;",
+    "ts": "1623383860.031700",
+    "thread_ts": "1623382691.027000",
+    "parent_user_id": "U01QNMUAUKW",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 12,
+        "users": [
+          "U01QV1WAPL1",
+          "U01Q1KQ03PZ",
+          "U01QNHEAS0L",
+          "U01QGJUT403",
+          "U01Q1KFN4JK",
+          "U01PVEU3007",
+          "U01QNSM488Z",
+          "U01QGCLCLRY",
+          "U01QV1TE2UR",
+          "U01Q3EPDBAA",
+          "U01QNSMDGF3",
+          "U01R0307KEU"
+        ]
+      },
+      {
+        "name": "raised_hands",
+        "count": 1,
+        "users": [
+          "U01QNMUAUKW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "//U",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "특히 저희 2기는 일부러 다양한 백그라운드 분들을 뽑으신것 같은데.. 좀더 세밀한 가이드라인이 필요할듯 합니다. 특히 technical한 부분들 중에서 다들 똑같은 수준의 역량을 요구하신다면 좀 무리이지 않을까 싶고요.. 일부 수업의 경우 다양한 토픽과 많은것을 가르쳐주시고픈 교수님의 좋은(?) 취지가 있으신것 같은데.. 사실 무엇을 배웠는지 모르겠습니다 ^^;;"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856850722064_b0db75079ec8fe5ad451_72.png",
+      "first_name": "2기_조민수",
+      "real_name": "2기_조민수",
+      "display_name": "2기_조민수",
+      "team": "T01QA5S537V",
+      "name": "chominsoo",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "00263060-c7fe-4cd1-b975-3206d357941d",
+    "type": "message",
+    "user": "U01QAE573J7",
+    "text": "주차장 관련해서는 원장님께 제가 건의드린 적이 있는데 아예 학교차원의 제도를 만드는건 쉽지 않은가봅니다. 코웨이 직원들이 우리 공간에 주차를 하는데 건물 관계자에게 스티커를 배부하고 스티커 없으면 찍찍이 강력안 딱지를 붙이는 거라도 하면 좋겠네요ㅋㅋ",
+    "ts": "1623384212.032700",
+    "thread_ts": "1623380954.023000",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 8,
+        "users": [
+          "U01QNSMDGF3",
+          "U01QV1WAPL1",
+          "U01R719DKK2",
+          "U01QDA36FJR",
+          "U01QNSM488Z",
+          "U01Q1KFN4JK",
+          "U01Q3EPDBAA",
+          "U01PVEU4GMV"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Haoy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "주차장 관련해서는 원장님께 제가 건의드린 적이 있는데 아예 학교차원의 제도를 만드는건 쉽지 않은가봅니다. 코웨이 직원들이 우리 공간에 주차를 하는데 건물 관계자에게 스티커를 배부하고 스티커 없으면 찍찍이 강력안 딱지를 붙이는 거라도 하면 좋겠네요ㅋㅋ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/472c67d97eaad5ef219db6b888a87515.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-72.png",
+      "first_name": "1기_안규수",
+      "real_name": "1기_안규수",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "kyusu.ahn",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a04ffb62-0f9f-4cac-94eb-face4b4051ab",
+    "type": "message",
+    "user": "U01QV1WAPL1",
+    "text": "아침에 등교할 때 데사에 주차를 하고 다른 건물로 걸어가시는 분을 여러 번 보기는 했어요...",
+    "ts": "1623384440.034500",
+    "thread_ts": "1623380954.023000",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "expressionless",
+        "count": 2,
+        "users": [
+          "U01QNSM488Z",
+          "U01Q3EPDBAA"
+        ]
+      },
+      {
+        "name": "face_with_raised_eyebrow",
+        "count": 2,
+        "users": [
+          "U01Q1KFN4JK",
+          "U01Q3EPDBAA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FMuY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "아침에 등교할 때 데사에 주차를 하고 다른 건물로 걸어가시는 분을 여러 번 보기는 했어요..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1825660672566_06f8689d1fa538401ca7_72.jpg",
+      "first_name": "Jongwon",
+      "real_name": "Jongwon Kim",
+      "display_name": "2기_김종원",
+      "team": "T01QA5S537V",
+      "name": "kjwon21",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "B4BE44FA-8F97-488E-A868-1F0EECE4CC27",
+    "type": "message",
+    "user": "U01QNSMDGF3",
+    "text": "저도 휴식공간 작년부터 건의해보긴했는데, 공간이 부족하다는 피드백만 들었네요ㅠ\n하지만 계속 요청드려보는건 좋은듯합니다!",
+    "ts": "1623384451.034800",
+    "thread_ts": "1623380954.023000",
+    "parent_user_id": "U01R688N9BJ",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rEnlW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "저도 휴식공간 작년부터 건의해보긴했는데, 공간이 부족하다는 피드백만 들었네요ㅠ\n하지만 계속 요청드려보는건 좋은듯합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/359dc98921adc6a6f1279b431734408c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "박민혜",
+      "real_name": "박민혜",
+      "display_name": "1기_박민혜",
+      "team": "T01QA5S537V",
+      "name": "minhye11",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af25ef77-6d7e-4c50-ba2f-5b14bd0b43e7",
+    "type": "message",
+    "user": "U01QNSM488Z",
+    "text": "프린터 완전 무료화를 건의해서 까이면,  학기별(?)로 사용할 수 있는 크레딧을 줘서 그 한도내에서라도 프린터를 사용할 수 있게 해달라고 딜을 하면 어떨까 생각합니다.",
+    "ts": "1623384887.037600",
+    "thread_ts": "1623382777.027600",
+    "parent_user_id": "U01QA85T90A",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 5,
+        "users": [
+          "U01PVEU3007",
+          "U01QAE5BVEX",
+          "U01Q1KFN4JK",
+          "U01Q3A8TXU6",
+          "U01Q3EPDBAA"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rWho",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "프린터 완전 무료화를 건의해서 까이면,  학기별(?)로 사용할 수 있는 크레딧을 줘서 그 한도내에서라도 프린터를 사용할 수 있게 해달라고 딜을 하면 어떨까 생각합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/80105b18e970e2b2154e220398cb49c2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "1기_황태현",
+      "real_name": "1기_황태현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "th.hwang",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "9f4c8b4b-df51-4fa3-8ce5-20283d1c3775",
+    "type": "message",
+    "user": "U01QDANUYVB",
+    "text": "*[1] 트랙이 세분화되면 좋겠습니다. 가령 테크/응용 이렇게요.*\n-\u0026gt; 원천 기술에 집중해서 탑티어 논문내고 기술 차별성 만들기를 원하는 사람이 있을거고, 나온 기술들을 산업에 잘 응용해서 비즈니스 기회를 만들어내길 원하는 사람들이 있을 것입니다. 카이스트 AI대학원 같은 곳과는 다르게 저희 GSDS는 다양한 분야의 사람들이 모인 만큼, 이런 세분화가 꼭 필요하다고 생각합니다. 테크 트랙을 택한 학생들에게는 강도 높은 기술 교육을 제공하고(지금 원장님이 BKMS 수업에서 추구하시는 것 처럼요), 응용 트랙을 택한 학생들에게는 다양한 기업들과의 산학 협력 기회를 제공하면 좋겠습니다.\n\n*[2] 교내 다른 학과 및 국내외 기업들과의 교류 기회가 많아지면 좋겠습니다.*\n-\u0026gt; 테크 관련해서는 교내 전기과, 컴과에 좋은 수업들이 참 많습니다. 응용 관련해서는 경영/경제과, 도시과, 농생대, 사범대, 의대에 좋은 수업들이 많겠고요. 타과 수업 인정 조건을 완화하거나 GSDS 개설 강좌에 대한 필수 수강 조건을 완화하는 등 방식으로 저희가 타과 수업을 보다 자유롭게 들을 수 있다면 좋을 것 같습니다.\n특정 몇개 과와는 긴밀하게 협업해서 공동으로 수업을 개설하거나 공동 연구를 진행하는 것도 매우 좋을 것 같습니다. 협력교수님들께서 큰 도움이 되어주실 수 있을 것 같습니다.\n또, 최근 서울대와 NAVER가 수백억 규모 산학협력을 한다는 말을 들었는데요. 저희 학생들에게도 NAVER와의 산학협력을 포함해 이런저런 기업들의 프로젝트를 경험하고 현업자와 코웍을 해볼 수 있는 기회가 주어진다면 참 좋겠습니다.\n\n\n\n+ 제 지인한테 들은 말인데요, 테크에 집중하는 대표적인 곳인 카이스트 AI대학원의 탑 연구실 지도 교수님 조차도 \"우리 연구는 Practical하지 못하다. 매우 Academic하다\" 라는 말씀을 하셨다고 합니다.\n현재까지 나온 AI 기술들로도 해결할 수 있는 현장의 문제들이 정말 많을 것이라 생각합니다. 다양한 백그라운드 사람들이 모인 것이 저희의 가장 큰 강점이라고 생각하는데요. 학과에서 테크를 깊이 있게 교육하는 것도 너무 좋지만, 이들의 경력을 십분 활용해서 다양한 실제 사회와 산업의 문제들을 풀어낼 수 있는 기회를 제공하고 그런 능력을 강화해주는 것도 저희의 강점을 극대화할 수 있는 좋은 방법일 것이라 생각합니다. 산업이 돌아가는 구조 및 본질적인 문제점을 이해하고 이를 해결하기 위한 가장 최적의 기술을 선택하는 능력 또한 사회에서 매우 필요로 하는 것이고, 저희가 잘 할 수 있는 것이기 때문입니다. 그리고 이런 능력 함양에 집중하려는 사람들에게는 탑클래스 엔지니어 수준의 기술 이해도까지는 필요하지 않을 수 있다 생각합니다.",
+    "ts": "1623390117.041200",
+    "thread_ts": "1623382691.027000",
+    "edited": {
+      "user": "U01QDANUYVB",
+      "ts": "1623392237.000000"
+    },
+    "parent_user_id": "U01QNMUAUKW",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 25,
+        "users": [
+          "U01QGKCUAJX",
+          "U01QV1WAPL1",
+          "U01QNMUAUKW",
+          "U01PVEU69BR",
+          "U01Q1KQ03PZ",
+          "U01QV1PBKUZ",
+          "U01Q1KFN4JK",
+          "U01QGKCT067",
+          "U01Q9KXMSF8",
+          "U01Q9KJL8MC",
+          "U01QNHEAS0L",
+          "U01QV1SQJ57",
+          "U01Q75KNV1T",
+          "U01QNSMEY0Z",
+          "U01QDA01NN9",
+          "U01QNSM488Z",
+          "U01QNJ98FA8",
+          "U01QGD03WUC",
+          "U01Q3EPDBAA",
+          "U01QGJUT403",
+          "U01PVEU3007",
+          "U01R719DKK2",
+          "U01QNSMDGF3",
+          "U01R0307KEU",
+          "U01PVETHKF1"
+        ]
+      },
+      {
+        "name": "clap",
+        "count": 2,
+        "users": [
+          "U01QNSMEY0Z",
+          "U01PVEU3007"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bI+hy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[1] 트랙이 세분화되면 좋겠습니다. 가령 테크/응용 이렇게요.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n-\u003e 원천 기술에 집중해서 탑티어 논문내고 기술 차별성 만들기를 원하는 사람이 있을거고, 나온 기술들을 산업에 잘 응용해서 비즈니스 기회를 만들어내길 원하는 사람들이 있을 것입니다. 카이스트 AI대학원 같은 곳과는 다르게 저희 GSDS는 다양한 분야의 사람들이 모인 만큼, 이런 세분화가 꼭 필요하다고 생각합니다. 테크 트랙을 택한 학생들에게는 강도 높은 기술 교육을 제공하고(지금 원장님이 BKMS 수업에서 추구하시는 것 처럼요), 응용 트랙을 택한 학생들에게는 다양한 기업들과의 산학 협력 기회를 제공하면 좋겠습니다.\n\n"
+              },
+              {
+                "type": "text",
+                "text": "[2] 교내 다른 학과 및 국내외 기업들과의 교류 기회가 많아지면 좋겠습니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n-\u003e 테크 관련해서는 교내 전기과, 컴과에 좋은 수업들이 참 많습니다. 응용 관련해서는 경영/경제과, 도시과, 농생대, 사범대, 의대에 좋은 수업들이 많겠고요. 타과 수업 인정 조건을 완화하거나 GSDS 개설 강좌에 대한 필수 수강 조건을 완화하는 등 방식으로 저희가 타과 수업을 보다 자유롭게 들을 수 있다면 좋을 것 같습니다.\n특정 몇개 과와는 긴밀하게 협업해서 공동으로 수업을 개설하거나 공동 연구를 진행하는 것도 매우 좋을 것 같습니다. 협력교수님들께서 큰 도움이 되어주실 수 있을 것 같습니다.\n또, 최근 서울대와 NAVER가 수백억 규모 산학협력을 한다는 말을 들었는데요. 저희 학생들에게도 NAVER와의 산학협력을 포함해 이런저런 기업들의 프로젝트를 경험하고 현업자와 코웍을 해볼 수 있는 기회가 주어진다면 참 좋겠습니다.\n\n\n\n+ 제 지인한테 들은 말인데요, 테크에 집중하는 대표적인 곳인 카이스트 AI대학원의 탑 연구실 지도 교수님 조차도 \"우리 연구는 Practical하지 못하다. 매우 Academic하다\" 라는 말씀을 하셨다고 합니다.\n현재까지 나온 AI 기술들로도 해결할 수 있는 현장의 문제들이 정말 많을 것이라 생각합니다. 다양한 백그라운드 사람들이 모인 것이 저희의 가장 큰 강점이라고 생각하는데요. 학과에서 테크를 깊이 있게 교육하는 것도 너무 좋지만, 이들의 경력을 십분 활용해서 다양한 실제 사회와 산업의 문제들을 풀어낼 수 있는 기회를 제공하고 그런 능력을 강화해주는 것도 저희의 강점을 극대화할 수 있는 좋은 방법일 것이라 생각합니다. 산업이 돌아가는 구조 및 본질적인 문제점을 이해하고 이를 해결하기 위한 가장 최적의 기술을 선택하는 능력 또한 사회에서 매우 필요로 하는 것이고, 저희가 잘 할 수 있는 것이기 때문입니다. 그리고 이런 능력 함양에 집중하려는 사람들에게는 탑클래스 엔지니어 수준의 기술 이해도까지는 필요하지 않을 수 있다 생각합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1838647050660_b1bd76665a8f44fe54f9_72.jpg",
+      "first_name": "박성찬",
+      "real_name": "박성찬",
+      "display_name": "2기_박성찬",
+      "team": "T01QA5S537V",
+      "name": "warld2234",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

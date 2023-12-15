@@ -1,0 +1,372 @@
+[
+  {
+    "client_msg_id": "04348e54-9e1c-432d-aaea-87974c2118ea",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;3월 26일 금요일 InnoJam 행사 관련 안내\u0026gt;*\n\n○ Zoom link: 17시 부터 시작되는 발표회 줌링크는 아래와 같습니다.\n  \u003chttps://snu-ac-kr.zoom.us/j/89807347806?pwd=enlMeDBWRUhlVXhGM1FLc2JWNldidz09\u003e\n  회의 ID: 898 0734 7806\n  암호: 1331\n\n○발표순서는 아래와 같습니다.\n1. Getting Hands Dirty to Clean Dishes AI and Data Science Approach for Dishwasher Performance Enhancement\n2. Finding Pathological Patterns of Brain Aging\n3. Restoration of Degraded Images Taken by Under Display Camera\n4. Combinatorial Neural Bandits\n5. Private and Personalized Learning for Mobile Applications\n6. Transfer Learning between Visual-Linguistic Multimodal Tasks\n7. LuxMea: Object Localization Aid for Blind\n8. Efficient Uncertainty Quantification for Deep Learning Models\n9. Split Federated Learning with Semantic Hashing – Communication Efficient Distributed Learning\n○ 발표자료\n17시부터 시작되는 발표 관련하여 9명의 발표자 분들은 *16시까지 김형신 교수님께 발표자료를 보내주시기 바랍니다.* \n(김형신 교수님 메일주소: \u003cmailto:hyungkim@snu.ac.kr|hyungkim@snu.ac.kr\u003e)",
+    "ts": "1616732869.031400",
+    "thread_ts": "1616732869.031400",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1616733846.000000"
+    },
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U01PVET2C31",
+        "ts": "1616749232.034500"
+      },
+      {
+        "user": "U01PVET2C31",
+        "ts": "1616753864.035300"
+      }
+    ],
+    "latest_reply": "1616753864.035300",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MXK+Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c3월 26일 금요일 InnoJam 행사 관련 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n○ Zoom link: 17시 부터 시작되는 발표회 줌링크는 아래와 같습니다.\n  "
+              },
+              {
+                "type": "link",
+                "url": "https://snu-ac-kr.zoom.us/j/89807347806?pwd=enlMeDBWRUhlVXhGM1FLc2JWNldidz09",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n  회의 ID: 898 0734 7806\n  암호: 1331\n\n○발표순서는 아래와 같습니다.\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Getting Hands Dirty to Clean Dishes AI and Data Science Approach for Dishwasher Performance Enhancement\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Finding Pathological Patterns of Brain Aging\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Restoration of Degraded Images Taken by Under Display Camera\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Combinatorial Neural Bandits\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Private and Personalized Learning for Mobile Applications\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Transfer Learning between Visual-Linguistic Multimodal Tasks\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"LuxMea: Object Localization Aid for Blind\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Efficient Uncertainty Quantification for Deep Learning Models\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"Split Federated Learning with Semantic Hashing \\u2013 Communication Efficient Distributed Learning\"}]}],\"style\":\"ordered\",\"indent\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n○ 발표자료\n17시부터 시작되는 발표 관련하여 9명의 발표자 분들은 "
+              },
+              {
+                "type": "text",
+                "text": "16시까지 김형신 교수님께 발표자료를 보내주시기 바랍니다. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n(김형신 교수님 메일주소: "
+              },
+              {
+                "type": "link",
+                "url": "mailto:hyungkim@snu.ac.kr",
+                "text": "hyungkim@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01PVET2C31"
+    ]
+  },
+  {
+    "client_msg_id": "367b63b1-6547-428c-94d5-fb3b9fafed63",
+    "type": "message",
+    "user": "U01PVET2C31",
+    "text": "이노잼 발표이후 바로 럭키드로우가 있습니다. 참석학생 (오프라인 / 온라인 줌으로) 대상으로 하는데, 오프라인 명단에 체크하신 분들 중  누락되셨거나, 줌에 일찍 왔다가 나가셨거나 늦게 들어오셔서 포함되지 않으신 분은 아래 구글시트 확인하시고 적어주시면 (럭키드로우 전 까지) 럭키드로우 후보에 포함하겠습니다. 감사합니다. \u003chttps://docs.google.com/spreadsheets/d/1rRIffKpdYV774yb11tdYXvgnpQ9k-gpM_Wlck0apIYM/edit?usp=sharing\u003e",
+    "ts": "1616749232.034500",
+    "thread_ts": "1616732869.031400",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oDi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이노잼 발표이후 바로 럭키드로우가 있습니다. 참석학생 (오프라인 / 온라인 줌으로) 대상으로 하는데, 오프라인 명단에 체크하신 분들 중  누락되셨거나, 줌에 일찍 왔다가 나가셨거나 늦게 들어오셔서 포함되지 않으신 분은 아래 구글시트 확인하시고 적어주시면 (럭키드로우 전 까지) 럭키드로우 후보에 포함하겠습니다. 감사합니다. "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1rRIffKpdYV774yb11tdYXvgnpQ9k-gpM_Wlck0apIYM/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "1기_장창섭",
+      "real_name": "1기_장창섭",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "charlie9007",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "367b63b1-6547-428c-94d5-fb3b9fafed63",
+    "type": "message",
+    "user": "U01PVET2C31",
+    "text": "이노잼 발표이후 바로 럭키드로우가 있습니다. 참석학생 (오프라인 / 온라인 줌으로) 대상으로 하는데, 오프라인 명단에 체크하신 분들 중  누락되셨거나, 줌에 일찍 왔다가 나가셨거나 늦게 들어오셔서 포함되지 않으신 분은 아래 구글시트 확인하시고 적어주시면 (럭키드로우 전 까지) 럭키드로우 후보에 포함하겠습니다. 감사합니다. \u003chttps://docs.google.com/spreadsheets/d/1rRIffKpdYV774yb11tdYXvgnpQ9k-gpM_Wlck0apIYM/edit?usp=sharing\u003e",
+    "ts": "1616749232.034500",
+    "thread_ts": "1616732869.031400",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oDi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이노잼 발표이후 바로 럭키드로우가 있습니다. 참석학생 (오프라인 / 온라인 줌으로) 대상으로 하는데, 오프라인 명단에 체크하신 분들 중  누락되셨거나, 줌에 일찍 왔다가 나가셨거나 늦게 들어오셔서 포함되지 않으신 분은 아래 구글시트 확인하시고 적어주시면 (럭키드로우 전 까지) 럭키드로우 후보에 포함하겠습니다. 감사합니다. "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1rRIffKpdYV774yb11tdYXvgnpQ9k-gpM_Wlck0apIYM/edit?usp=sharing",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "1기_장창섭",
+      "real_name": "1기_장창섭",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "charlie9007",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FA94912C-BBDC-4537-A905-A3F5AB936E60",
+    "type": "message",
+    "user": "U01PVET2C31",
+    "text": "럭키드로우 당첨자는 행정실에서 수령하시면 됩니다! :star:\n\n텀블러 : 박진원, 김호현, 김석기\n배터리 : 장창섭, 백유빈, 박승준",
+    "ts": "1616753864.035300",
+    "thread_ts": "1616732869.031400",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U01Q386CMKQ"
+        ]
+      },
+      {
+        "name": "tada",
+        "count": 5,
+        "users": [
+          "U01Q75KNV1T",
+          "U01QGKD09K5",
+          "U01QNSM488Z",
+          "U01Q9KJL8MC",
+          "U01QAE573J7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rVY7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "럭키드로우 당첨자는 행정실에서 수령하시면 됩니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "star",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n텀블러 : 박진원, 김호현, 김석기\n배터리 : 장창섭, 백유빈, 박승준"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "1기_장창섭",
+      "real_name": "1기_장창섭",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "charlie9007",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "FA94912C-BBDC-4537-A905-A3F5AB936E60",
+    "type": "message",
+    "user": "U01PVET2C31",
+    "text": "럭키드로우 당첨자는 행정실에서 수령하시면 됩니다! :star:\n\n텀블러 : 박진원, 김호현, 김석기\n배터리 : 장창섭, 백유빈, 박승준",
+    "ts": "1616753864.035300",
+    "thread_ts": "1616732869.031400",
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          "U01Q386CMKQ"
+        ]
+      },
+      {
+        "name": "tada",
+        "count": 5,
+        "users": [
+          "U01Q75KNV1T",
+          "U01QGKD09K5",
+          "U01QNSM488Z",
+          "U01Q9KJL8MC",
+          "U01QAE573J7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rVY7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "럭키드로우 당첨자는 행정실에서 수령하시면 됩니다! "
+              },
+              {
+                "type": "emoji",
+                "name": "star",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n텀블러 : 박진원, 김호현, 김석기\n배터리 : 장창섭, 백유빈, 박승준"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/3112cb3c9ba997925cca91c0cf6f638c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-72.png",
+      "first_name": "1기_장창섭",
+      "real_name": "1기_장창섭",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "charlie9007",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

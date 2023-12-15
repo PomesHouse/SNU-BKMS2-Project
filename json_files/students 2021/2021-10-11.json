@@ -1,0 +1,95 @@
+[
+  {
+    "client_msg_id": "5b5dbc4d-05a3-4460-aa9e-37a4e7c29bda",
+    "type": "message",
+    "user": "U01QZRUNBA4",
+    "text": "안녕하세요 1기 부대표 최현준입니다.\n\n다름아니라 탕비실 싱크대에 음식물 쓰레기\n남기지 말아주시기 바랍니다.\n\n싱크대 위에 써있듯이 싱크대는\n국물과 건더기 분리하는 용이지\n거기에 음식물 쓰레기를 둬도 된다는\n것은 아닙니다.\n\n본인이 먹은 걸 누군가가 치워야 합니다..\n\n혹시 저희 GSDS 구성원이 한 것이 \n아닐 수도 있기 때문에 \n\n각 랩장은 랩 구성원들에게\n\n3층 4층 탕비실 이용할 때\n싱크대에 음식물 쓰레기 방치하지 말라고\n전달해주시면 감사하겠습니다.",
+    "ts": "1633927844.054900",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 17,
+        "users": [
+          "U01PVEU1A07",
+          "U01Q75KNV1T",
+          "U01QNHRHY0L",
+          "U01PVETMX2T",
+          "U01QNSM488Z",
+          "U01QGKD09K5",
+          "U01QAE573J7",
+          "U01QNMUAUKW",
+          "U01Q386CMKQ",
+          "U01QV1WAPL1",
+          "U01Q3A8TXU6",
+          "U01QV1TE2UR",
+          "U01QAE5A9K5",
+          "U01QGD03WUC",
+          "U01R678KWP2",
+          "U01QV28FG4R",
+          "U01QNSMDGF3"
+        ]
+      },
+      {
+        "name": "cry",
+        "count": 5,
+        "users": [
+          "U01QAE5DERZ",
+          "U01QZRUNBA4",
+          "U01QV1SQJ57",
+          "U01QAE573J7",
+          "U01QNSMDGF3"
+        ]
+      },
+      {
+        "name": "man-gesturing-ok",
+        "count": 5,
+        "users": [
+          "U01PVETV83H",
+          "U01QAE573J7",
+          "U01QNMUAUKW",
+          "U01QNSMEY0Z",
+          "U01QNSMDGF3"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x63t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요 1기 부대표 최현준입니다.\n\n다름아니라 탕비실 싱크대에 음식물 쓰레기\n남기지 말아주시기 바랍니다.\n\n싱크대 위에 써있듯이 싱크대는\n국물과 건더기 분리하는 용이지\n거기에 음식물 쓰레기를 둬도 된다는\n것은 아닙니다.\n\n본인이 먹은 걸 누군가가 치워야 합니다..\n\n혹시 저희 GSDS 구성원이 한 것이 \n아닐 수도 있기 때문에 \n\n각 랩장은 랩 구성원들에게\n\n3층 4층 탕비실 이용할 때\n싱크대에 음식물 쓰레기 방치하지 말라고\n전달해주시면 감사하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1826259042947_e6e419799fbe89ffa42c_72.png",
+      "first_name": "3기_최현준",
+      "real_name": "3기_최현준",
+      "display_name": "3기_최현준",
+      "team": "T01QA5S537V",
+      "name": "nschj1",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

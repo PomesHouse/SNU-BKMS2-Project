@@ -1,0 +1,348 @@
+[
+  {
+    "client_msg_id": "59124d46-824c-4c9a-b990-c4ed6b99f04a",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "\u003c!channel\u003e\n*[수업용 계정 및 자원 할당 공지]*\n2023-2 학기 수업 계정 및 자원을 신청받습니다.\n*서버 자원이 필요한 수업의 대표 조교님들*께서는 \u003chttps://gsds.gitbook.io/gsds/templates/undefined-3|메뉴얼\u003e의 신청 양식에 맞춰 *9월 13일(수)*까지 관리자 메일(\u003cmailto:gsds-hpc1@aces.snu.ac.kr|gsds-hpc1@aces.snu.ac.kr\u003e)로 신청해주시기 바랍니다.\n수업에 할당되는 GPU 는 TITAN 이고, 따라서 수업용 자원 할당 이후(9월 15일 예정)로는 *서버에서 P1 파티션을 사용하지 못하게 되니* 참고하시기 바랍니다.",
+    "ts": "1694158478.303639",
+    "thread_ts": "1694158478.303639",
+    "attachments": [
+      {
+        "fallback": "수업용 계정 및 자원 할당 요청",
+        "id": 1,
+        "title": "수업용 계정 및 자원 할당 요청",
+        "title_link": "https://gsds.gitbook.io/gsds/templates/undefined-3",
+        "image_url": "https://app.gitbook.com/share/space/thumbnail/pQFbhWipIl1ErYR88f4g/page/sBLU5UXsUmYp3UGEKUx0.png?color=%23346DDB\u0026logo=\u0026theme=default",
+        "service_name": "gsds.gitbook.io",
+        "service_icon": "https://app.gitbook.com/public/images/icon-512.png",
+        "from_url": "https://gsds.gitbook.io/gsds/templates/undefined-3",
+        "original_url": "https://gsds.gitbook.io/gsds/templates/undefined-3",
+        "blocks": null
+      }
+    ],
+    "edited": {
+      "user": "U01R67PKD7S",
+      "ts": "1694408129.000000"
+    },
+    "reply_count": 4,
+    "replies": [
+      {
+        "user": "U02UT2VQ9NF",
+        "ts": "1694158685.576199"
+      },
+      {
+        "user": "U01R67PKD7S",
+        "ts": "1694158834.218329"
+      },
+      {
+        "user": "U02UT2VQ9NF",
+        "ts": "1694168083.732069"
+      },
+      {
+        "user": "U01R67PKD7S",
+        "ts": "1694171960.265269"
+      }
+    ],
+    "latest_reply": "1694171960.265269",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GHKB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "[수업용 계정 및 자원 할당 공지]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n2023-2 학기 수업 계정 및 자원을 신청받습니다.\n"
+              },
+              {
+                "type": "text",
+                "text": "서버 자원이 필요한 수업의 대표 조교님들",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "께서는 "
+              },
+              {
+                "type": "link",
+                "url": "https://gsds.gitbook.io/gsds/templates/undefined-3",
+                "text": "메뉴얼"
+              },
+              {
+                "type": "text",
+                "text": "의 신청 양식에 맞춰 "
+              },
+              {
+                "type": "text",
+                "text": "9월 13일(수)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "까지 관리자 메일("
+              },
+              {
+                "type": "link",
+                "url": "mailto:gsds-hpc1@aces.snu.ac.kr",
+                "text": "gsds-hpc1@aces.snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")로 신청해주시기 바랍니다.\n수업에 할당되는 GPU 는 TITAN 이고, 따라서 수업용 자원 할당 이후(9월 15일 예정)로는 "
+              },
+              {
+                "type": "text",
+                "text": "서버에서 P1 파티션을 사용하지 못하게 되니",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U01R67PKD7S",
+      "U02UT2VQ9NF"
+    ]
+  },
+  {
+    "client_msg_id": "302fc32e-5753-4543-90a1-d44a4ac61d96",
+    "type": "message",
+    "user": "U02UT2VQ9NF",
+    "text": "드랍 기간 즈음에 인원이 확정될 것 같은데 일단 대략적으로라도 적어서 낼까요?",
+    "ts": "1694158685.576199",
+    "thread_ts": "1694158478.303639",
+    "parent_user_id": "U01R67PKD7S",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "628",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "드랍 기간 즈음에 인원이 확정될 것 같은데 일단 대략적으로라도 적어서 낼까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+      "first_name": "3기_송종현",
+      "real_name": "3기_송종현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "hyeongoon",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "799f1a80-2c7e-4ea6-9c7c-ccfbe592eb92",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "드랍기간 이후로만 서버사용이 필요한 것일까요?",
+    "ts": "1694158834.218329",
+    "thread_ts": "1694158478.303639",
+    "parent_user_id": "U01R67PKD7S",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q/=93",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "드랍기간 이후로만 서버사용이 필요한 것일까요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "eac9ba0e-3010-4de5-99c3-c9564fcff2cd",
+    "type": "message",
+    "user": "U02UT2VQ9NF",
+    "text": "네 팀플용 계정인데 팀플을 드랍기간 전후로 시작할듯합니다.",
+    "ts": "1694168083.732069",
+    "thread_ts": "1694158478.303639",
+    "parent_user_id": "U01R67PKD7S",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tic9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "네 팀플용 계정인데 팀플을 드랍기간 전후로 시작할듯합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-04-13/3369506262759_d84194cce05275ccf940_72.png",
+      "first_name": "3기_송종현",
+      "real_name": "3기_송종현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "hyeongoon",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "cfc8c2be-23bc-453d-acac-788de336c2f9",
+    "type": "message",
+    "user": "U01R67PKD7S",
+    "text": "일단 전체 수업에 대해 자원 수요량을 조사해야 되서 현재 수강 인원 기준에 맞춰서 작성해 주시고, 추가 요청 사항에 말씀해주신 특이사항(예상 드랍자 수, 원하는 계정 생성 시기)등을 작성해주시면 참고하도록 하겠습니다.",
+    "ts": "1694171960.265269",
+    "thread_ts": "1694158478.303639",
+    "parent_user_id": "U01R67PKD7S",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6xS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "일단 전체 수업에 대해 자원 수요량을 조사해야 되서 현재 수강 인원 기준에 맞춰서 작성해 주시고, 추가 요청 사항에 말씀해주신 특이사항(예상 드랍자 수, 원하는 계정 생성 시기)등을 작성해주시면 참고하도록 하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1856261772976_2316b07157f2e8e8f36f_72.png",
+      "first_name": "조경제",
+      "real_name": "조경제",
+      "display_name": "4기_조경제",
+      "team": "T01QA5S537V",
+      "name": "avq159",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

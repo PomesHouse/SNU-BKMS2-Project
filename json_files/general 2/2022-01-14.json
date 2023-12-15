@@ -1,0 +1,48 @@
+[
+  {
+    "client_msg_id": "1e8d367a-8f3b-4499-9a91-0bfd7377198d",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;연구행정통합관리시스템(SRnD) 서비스 일시 중단 안내\u0026gt;\n\n연구행정통합관리시스템(SRnD) DB서버 용량 증설 및 서비스 점검 작업에 따라 아래와 같이 서비스가 일시 중단됨을 알려드리니 참고하시기 바랍니다.\n\n 가. 중단대상 : 연구행정통합관리시스템(SRnD) 전체 서비스\n 나. 중단일시 : 2022. 1. 18.(화) 19:00 ~ 22:00 (3시간)  ※ 작업 상황에 따라 중단시간은 변경될 수 있음\n 다. 중단사유 : DB서버 용량 증설 및 서비스 점검\n 라. 문 의 처 : 산학협력단 정보기획부(내선 5251)",
+    "ts": "1642127413.032400",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RLO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c연구행정통합관리시스템(SRnD) 서비스 일시 중단 안내\u003e\n\n연구행정통합관리시스템(SRnD) DB서버 용량 증설 및 서비스 점검 작업에 따라 아래와 같이 서비스가 일시 중단됨을 알려드리니 참고하시기 바랍니다.\n\n 가. 중단대상 : 연구행정통합관리시스템(SRnD) 전체 서비스\n 나. 중단일시 : 2022. 1. 18.(화) 19:00 ~ 22:00 (3시간)  ※ 작업 상황에 따라 중단시간은 변경될 수 있음\n 다. 중단사유 : DB서버 용량 증설 및 서비스 점검\n 라. 문 의 처 : 산학협력단 정보기획부(내선 5251)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

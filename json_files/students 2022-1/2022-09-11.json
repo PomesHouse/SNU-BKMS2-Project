@@ -1,0 +1,94 @@
+[
+  {
+    "client_msg_id": "44d6dd81-c57a-451b-a1d0-65cb4db6b5b7",
+    "type": "message",
+    "user": "U040ENMBB1C",
+    "text": "맥북 및 아이패드 세로 거치대 필요하신 분 연락주세요. 무료로 드리겠습니다. 하나 실수로 더 시켰네요 ㅠㅠ",
+    "ts": "1662887895.151899",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ttp1u",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "맥북 및 아이패드 세로 거치대 필요하신 분 연락주세요. 무료로 드리겠습니다. 하나 실수로 더 시켰네요 ㅠㅠ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-11/4194772773542_fc4d0df428680f769784_72.jpg",
+      "first_name": "Keon",
+      "real_name": "Keon Vin Park",
+      "display_name": "3.5기_박건빈",
+      "team": "T01QA5S537V",
+      "name": "kbpark16",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "1d7e766a-0c8c-46a6-acfc-cd6dea76751e",
+    "type": "message",
+    "user": "U040ENMBB1C",
+    "text": "마감되었습니다.",
+    "ts": "1662888208.128879",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eaRn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "마감되었습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2022-10-11/4194772773542_fc4d0df428680f769784_72.jpg",
+      "first_name": "Keon",
+      "real_name": "Keon Vin Park",
+      "display_name": "3.5기_박건빈",
+      "team": "T01QA5S537V",
+      "name": "kbpark16",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

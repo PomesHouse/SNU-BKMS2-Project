@@ -1,0 +1,873 @@
+[
+  {
+    "client_msg_id": "34ccdff1-a0b3-433a-8ec7-4c75444c1270",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;학내 포털(마이스누) 계정 보안 강화 안내\u0026gt;\n\n최근 학내 구성원의 계정 정보를 노리는 피싱메일 유입이 증가되고 있으며, 이로 인한 마이스누 계정 탈취 사고가 빈번하게 발생하고 있습니다. 추가 피해 예방을 위해 ‘해킹메일 대처법’과 ‘포털 계정 이용수칙’을 안내하오니 계정 보안 관리를 철저히 하여 주시기 바랍니다.\n  가. *해킹메일 대처법* : [붙임] 참고\n  나. *포털 계정 이용수칙*\n    - 타 사이트에서 사용하지 않는 비밀번호로 설정\n    - 비밀번호는 3개월마다 주기적으로 변경\n    - 신뢰할 수 없는 사이트에서 ID/PW 입력 및 본인인증 금지\n    - *해외 로그인 차단*(마이스누 \u0026gt; 마이페이지 \u0026gt; 통합인증관리 \u0026gt; 인증수단 설정 內)\n    - 백신 보안프로그램 설치를 통해 PC 보안 강화(마이스누 \u0026gt; SW다운로드 \u0026gt; V3 백신)",
+    "ts": "1679270781.367649",
+    "files": [
+      {
+        "id": "F04UG8WGV46",
+        "created": 1679270770,
+        "timestamp": 1679270770,
+        "name": "(붙임)해킹메일 대처법.pdf",
+        "title": "(붙임)해킹메일 대처법.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 41602847,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04UG8WGV46-(붙임)해킹메일 대처법.pdf",
+        "url_private_download": "attachments/F04UG8WGV46-(붙임)해킹메일 대처법.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04UG8WGV46/______________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04UG8WGV46-9eaf86578e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uFEAA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c학내 포털(마이스누) 계정 보안 강화 안내\u003e\n\n최근 학내 구성원의 계정 정보를 노리는 피싱메일 유입이 증가되고 있으며, 이로 인한 마이스누 계정 탈취 사고가 빈번하게 발생하고 있습니다. 추가 피해 예방을 위해 ‘해킹메일 대처법’과 ‘포털 계정 이용수칙’을 안내하오니 계정 보안 관리를 철저히 하여 주시기 바랍니다.\n  가. "
+              },
+              {
+                "type": "text",
+                "text": "해킹메일 대처법",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " : [붙임] 참고\n  나. "
+              },
+              {
+                "type": "text",
+                "text": "포털 계정 이용수칙",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    - 타 사이트에서 사용하지 않는 비밀번호로 설정\n    - 비밀번호는 3개월마다 주기적으로 변경\n    - 신뢰할 수 없는 사이트에서 ID/PW 입력 및 본인인증 금지\n    - "
+              },
+              {
+                "type": "text",
+                "text": "해외 로그인 차단",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "(마이스누 \u003e 마이페이지 \u003e 통합인증관리 \u003e 인증수단 설정 內)\n    - 백신 보안프로그램 설치를 통해 PC 보안 강화(마이스누 \u003e SW다운로드 \u003e V3 백신)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "7351cec6-280c-4c9a-b06a-867b9409d6be",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;관악 청년 1인 가구 무료 건강검진 시행 안내\u0026gt;\n\n관악구청에서 평소 건강 관리에 소홀하기 쉬운 관악구 청년 1인 가구의 건강을 지키고자 *「관악 청년 1인 가구 무료 건강검진*」을 아래와 같이 시행하오니 대상자는 참고하시기 바랍니다.\n\n가. 사업기간: 2023. 4. 1.부터 상시 운영\n 나. 검진대상: 만 19 ~ 39세 관악구 거주 청년 1인 가구 (*주민등록등재기준)\n               ※ 생년월일기준(2023년 기준): 1983.1.1. ~ 2004.12.31.\n 다. 검진장소: 관악구 보건소 (접수처: 2층 건강관리센터)\n 라. 검진문의: 관악구보건소(:phone: 02-879-7121)",
+    "ts": "1679271915.737799",
+    "files": [
+      {
+        "id": "F04UG9V2E6S",
+        "created": 1679271909,
+        "timestamp": 1679271909,
+        "name": "청년 1인 가구 무료 건강검진 시행계획.pdf",
+        "title": "청년 1인 가구 무료 건강검진 시행계획.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1350689,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04UG9V2E6S-청년 1인 가구 무료 건강검진 시행계획.pdf",
+        "url_private_download": "attachments/F04UG9V2E6S-청년 1인 가구 무료 건강검진 시행계획.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04UG9V2E6S/_______1___________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04UG9V2E6S-01b378b977",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04VCJH888Y",
+        "created": 1679271912,
+        "timestamp": 1679271912,
+        "name": "홍보물(포스터).jpg",
+        "title": "홍보물(포스터).jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 261140,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04VCJH888Y-홍보물(포스터).jpg",
+        "url_private_download": "attachments/F04VCJH888Y-홍보물(포스터).jpg",
+        "original_h": 1123,
+        "original_w": 794,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F04VCJH888Y-ab64b3328f/_____________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F04VCJH888Y-ab64b3328f/_____________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F04VCJH888Y-ab64b3328f/_____________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F04VCJH888Y-ab64b3328f/_____________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 255,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F04VCJH888Y-ab64b3328f/_____________________480.jpg",
+        "thumb_480_w": 339,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F04VCJH888Y-ab64b3328f/_____________________720.jpg",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F04VCJH888Y-ab64b3328f/_____________________960.jpg",
+        "thumb_960_w": 679,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F04VCJH888Y-ab64b3328f/_____________________1024.jpg",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04VCJH888Y/____________________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04VCJH888Y-3175670d64",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ign",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c관악 청년 1인 가구 무료 건강검진 시행 안내\u003e\n\n관악구청에서 평소 건강 관리에 소홀하기 쉬운 관악구 청년 1인 가구의 건강을 지키고자 "
+              },
+              {
+                "type": "text",
+                "text": "「관악 청년 1인 가구 무료 건강검진",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "」을 아래와 같이 시행하오니 대상자는 참고하시기 바랍니다.\n\n가. 사업기간: 2023. 4. 1.부터 상시 운영\n 나. 검진대상: 만 19 ~ 39세 관악구 거주 청년 1인 가구 (*주민등록등재기준)\n               ※ 생년월일기준(2023년 기준): 1983.1.1. ~ 2004.12.31.\n 다. 검진장소: 관악구 보건소 (접수처: 2층 건강관리센터)\n 라. 검진문의: 관악구보건소("
+              },
+              {
+                "type": "emoji",
+                "name": "phone",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " 02-879-7121)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "54b78aea-444d-4ba5-b03e-7ab4d0532778",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;Zoom 녹화 영상 삭제(예정)에 따른 중요자료 백업 권고\u0026gt;\n\nZoom 영상 보관용 클라우드 용량 제한 정책에 의해 *보관 이후 6개월 경과된 영상 삭제 및 향후 최대 보관 기간(6개월) 정책*이 일괄 적용될 예정이오니 보관이 필요한 경우 반드시 자료를 백업하여 주시기 바랍니다.\n\n  1. 삭제 대상: 보관 이후 6개월(180일)이 경과한 회의 영상 일체\n*(향후 모든 영상은 최대 6개월 간 보관*되며 기한 내 백업받지 않을 경우, *사용자 사전 공지 없이 영상이 삭제될 수 있으니 유의*하시기 바랍니다.)\n  2. 백업 기한: 2023. 4. 30.(일). / 6개월 초과 보관 영상('22. 12월 이전)은 5. 1. 일괄 삭제\n  3. 백업 방법: [붙임] 참고\n  4. 문 의: Zoom 업무 담당자 (\u003cmailto:zoom_admin@snu.ac.kr|zoom_admin@snu.ac.kr\u003e)",
+    "ts": "1679273487.786809",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1679273540.000000"
+    },
+    "files": [
+      {
+        "id": "F04U8DCF695",
+        "created": 1679273480,
+        "timestamp": 1679273480,
+        "name": "[붙임]서울대학교 Zoom 클라우드 저장공간 백업 매뉴얼.hwp",
+        "title": "[붙임]서울대학교 Zoom 클라우드 저장공간 백업 매뉴얼.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1198080,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04U8DCF695-[붙임]서울대학교 Zoom 클라우드 저장공간 백업 매뉴얼.hwp",
+        "url_private_download": "attachments/F04U8DCF695-[붙임]서울대학교 Zoom 클라우드 저장공간 백업 매뉴얼.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04U8DCF695/________________________zoom___________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04U8DCF695-b8e1d5002b",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fwl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003cZoom 녹화 영상 삭제(예정)에 따른 중요자료 백업 권고\u003e\n\nZoom 영상 보관용 클라우드 용량 제한 정책에 의해 "
+              },
+              {
+                "type": "text",
+                "text": "보관 이후 6개월 경과된 영상 삭제 및 향후 최대 보관 기간(6개월) 정책",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "이 일괄 적용될 예정이오니 보관이 필요한 경우 반드시 자료를 백업하여 주시기 바랍니다.\n\n  1. 삭제 대상: 보관 이후 6개월(180일)이 경과한 회의 영상 일체\n"
+              },
+              {
+                "type": "text",
+                "text": "(향후 모든 영상은 최대 6개월 간 보관",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "되며 기한 내 백업받지 않을 경우, "
+              },
+              {
+                "type": "text",
+                "text": "사용자 사전 공지 없이 영상이 삭제될 수 있으니 유의",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "하시기 바랍니다.)\n  2. 백업 기한: 2023. 4. 30.(일). / 6개월 초과 보관 영상('22. 12월 이전)은 5. 1. 일괄 삭제\n  3. 백업 방법: [붙임] 참고\n  4. 문 의: Zoom 업무 담당자 ("
+              },
+              {
+                "type": "link",
+                "url": "mailto:zoom_admin@snu.ac.kr",
+                "text": "zoom_admin@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c4baf0cd-c4bf-4096-8101-347c9168cbd3",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;National Health Insurance Service Guide for International Students\u0026gt;\n\nA new law in Korea regarding international students and health insurance has been implemented from March 1, 2021. *It is now mandatory for all international students to be enrolled in the NHIS.* Once you get your ARC(Alien registration Card), you’re automatically subscribed to NHIS. *It charges you monthly with the bill to your ARC adress.* Insurance fees are subject to change according to the nationality, VISA type and more. NHIS is one of the most inclusive health insurance in Korea. You can benefit from NHIS about various medical issue immediately. please check Insurance benefits in Guidebook file.",
+    "ts": "1679300760.095079",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1679300787.000000"
+    },
+    "files": [
+      {
+        "id": "F04V2QDU0JD",
+        "created": 1679300488,
+        "timestamp": 1679300488,
+        "name": "National Health Insurance Service Guide for International Students(English).pdf",
+        "title": "National Health Insurance Service Guide for International Students(English).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1479312,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04V2QDU0JD-National Health Insurance Service Guide for International Students(English).pdf",
+        "url_private_download": "attachments/F04V2QDU0JD-National Health Insurance Service Guide for International Students(English).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04V2QDU0JD/national_health_insurance_service_guide_for_international_students_english_.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04V2QDU0JD-cc119c12ee",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04VDSAKTUY",
+        "created": 1679300491,
+        "timestamp": 1679300491,
+        "name": "National Health Insurance Service Guide for International Students(English and Korean).pdf",
+        "title": "National Health Insurance Service Guide for International Students(English and Korean).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 2479977,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04VDSAKTUY-National Health Insurance Service Guide for International Students(English and Korean).pdf",
+        "url_private_download": "attachments/F04VDSAKTUY-National Health Insurance Service Guide for International Students(English and Korean).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04VDSAKTUY/national_health_insurance_service_guide_for_international_students_english_and_korean_.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04VDSAKTUY-2a5a11f643",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04UQ2AE0UB",
+        "created": 1679300494,
+        "timestamp": 1679300494,
+        "name": "1. Application Form for the Self-Employer Insured's Automatic Transfer Account.pdf",
+        "title": "1. Application Form for the Self-Employer Insured's Automatic Transfer Account.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 862189,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04UQ2AE0UB-1. Application Form for the Self-Employer Insured's Automatic Transfer Account.pdf",
+        "url_private_download": "attachments/F04UQ2AE0UB-1. Application Form for the Self-Employer Insured's Automatic Transfer Account.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04UQ2AE0UB/1._application_form_for_the_self-employer_insured_s_automatic_transfer_account.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04UQ2AE0UB-d0af51578a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04VDSB5E1W",
+        "created": 1679300498,
+        "timestamp": 1679300498,
+        "name": "2. Application Form for Electronic Notification Service(Register, Changes, Cancel).pdf",
+        "title": "2. Application Form for Electronic Notification Service(Register, Changes, Cancel).pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 237407,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04VDSB5E1W-2. Application Form for Electronic Notification Service(Register, Changes, Cancel).pdf",
+        "url_private_download": "attachments/F04VDSB5E1W-2. Application Form for Electronic Notification Service(Register, Changes, Cancel).pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04VDSB5E1W/2._application_form_for_electronic_notification_service_register__changes__cancel_.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04VDSB5E1W-4aa27f1fdf",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04V2QER1QR",
+        "created": 1679300500,
+        "timestamp": 1679300500,
+        "name": "붙임4_국민건강보험 안내 협조 요청 공문.pdf",
+        "title": "붙임4_국민건강보험 안내 협조 요청 공문.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 151676,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04V2QER1QR-붙임4_국민건강보험 안내 협조 요청 공문.pdf",
+        "url_private_download": "attachments/F04V2QER1QR-붙임4_국민건강보험 안내 협조 요청 공문.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04V2QER1QR/______4_______________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04V2QER1QR-55c28b2d9f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0fd/S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003cNational Health Insurance Service Guide for International Students\u003e\n\nA new law in Korea regarding international students and health insurance has been implemented from March 1, 2021. "
+              },
+              {
+                "type": "text",
+                "text": "It is now mandatory for all international students to be enrolled in the NHIS. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "Once you get your ARC(Alien registration Card), you’re automatically subscribed to NHIS. "
+              },
+              {
+                "type": "text",
+                "text": "It charges you monthly with the bill to your ARC adress. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "Insurance fees are subject to change according to the nationality, VISA type and more. NHIS is one of the most inclusive health insurance in Korea. You can benefit from NHIS about various medical issue immediately. please check Insurance benefits in Guidebook file."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

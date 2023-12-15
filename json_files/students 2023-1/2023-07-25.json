@@ -1,0 +1,274 @@
+[
+  {
+    "client_msg_id": "18657723-009F-4A46-B84A-9E4EE5C3B7D9",
+    "type": "message",
+    "user": "U02V5LRB5S5",
+    "text": "ERC 개소식때 문화관에 두고 가신 텀블러를 보관 중입니다. 주인께서는 연락주시기 바랍니다.",
+    "ts": "1690251559.816849",
+    "thread_ts": "1690251559.816849",
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U02V5LRB5S5",
+        "ts": "1690251583.549339"
+      }
+    ],
+    "latest_reply": "1690251583.549339",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PxwL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ERC 개소식때 문화관에 두고 가신 텀블러를 보관 중입니다. 주인께서는 연락주시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/042f1bf97a5ca109d24a6ad382c8e460.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "3기_김우진",
+      "real_name": "3기_김우진",
+      "display_name": "3기_김우진",
+      "team": "T01QA5S537V",
+      "name": "woojinkim118",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02V5LRB5S5"
+    ]
+  },
+  {
+    "client_msg_id": "9A4F0076-B71A-4176-A533-7BEC3328FFCD",
+    "type": "message",
+    "user": "U02V5LRB5S5",
+    "ts": "1690251583.549339",
+    "thread_ts": "1690251559.816849",
+    "parent_user_id": "U02V5LRB5S5",
+    "files": [
+      {
+        "id": "F05JCGW9N14",
+        "created": 1690251576,
+        "timestamp": 1690251576,
+        "name": "IMG_0415.jpg",
+        "title": "IMG_0415",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U02V5LRB5S5",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 631424,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05JCGW9N14-IMG_0415.jpg",
+        "url_private_download": "attachments/F05JCGW9N14-IMG_0415.jpg",
+        "original_h": 4032,
+        "original_w": 3024,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05JCGW9N14-e937e2323d/img_0415_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05JCGW9N14-e937e2323d/img_0415_80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05JCGW9N14-e937e2323d/img_0415_160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05JCGW9N14-e937e2323d/img_0415_360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05JCGW9N14-e937e2323d/img_0415_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05JCGW9N14-e937e2323d/img_0415_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05JCGW9N14-e937e2323d/img_0415_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05JCGW9N14-e937e2323d/img_0415_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U02V5LRB5S5/F05JCGW9N14/img_0415.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05JCGW9N14-e6f5308d10",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": false,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": null,
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/042f1bf97a5ca109d24a6ad382c8e460.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "3기_김우진",
+      "real_name": "3기_김우진",
+      "display_name": "3기_김우진",
+      "team": "T01QA5S537V",
+      "name": "woojinkim118",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "83386f40-141f-4b29-b724-e485fe8dd5ca",
+    "type": "message",
+    "user": "U02UVAT3BPW",
+    "text": ":sound:\u003chttp://DeepLearning.AI|DeepLearning.AI\u003e *번역 지원 모집 \u003c!channel\u003e* \n• ERC 개소식에서 소개된 DeepLearning.AI와의 협업에 참여할 분들을 모집합니다. 아래 모집 내용을 확인하시고 지원을 원하시는 분들은 아래 구글 폼을 작성해주시길 바랍니다.\n• 참여 자격: GSDS 재학생\n• 모집 기간: 23.07.25(화) ~ 23.07.27(목)\n• 모집인원: 00명\n• 업무\n    ◦ DeepLearning.AI에서 제공하는 course 번역 :clapper: \u003chttps://www.deeplearning.ai/short-courses/|예시\u003e\n    ◦ 현재 영어 대본이 chatGPT를 통해 초안으로 만들어진 상태\n    ◦ 초안을 기반으로 번역 검수 및 한국어 자막 싱크 맞추는 작업\n• 번역 업무에 따른 :coin: *크레딧*이 영상 자막으로 표기될 예정입니다.\n:link: \u003chttps://forms.gle/E8cyfPKt7qYbTMmi7|지원링크\u003e",
+    "ts": "1690271858.200529",
+    "edited": {
+      "user": "U02UVAT3BPW",
+      "ts": "1690271891.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U04Q2G4KNTZ",
+          "U02UT1YNY6N",
+          "U040MB432JW",
+          "U02ULBHV58W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "za1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "sound",
+                "skin_tone": 0
+              },
+              {
+                "type": "link",
+                "url": "http://DeepLearning.AI",
+                "text": "DeepLearning.AI"
+              },
+              {
+                "type": "text",
+                "text": " 번역 지원 모집 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"ERC \\uac1c\\uc18c\\uc2dd\\uc5d0\\uc11c \\uc18c\\uac1c\\ub41c DeepLearning.AI\\uc640\\uc758 \\ud611\\uc5c5\\uc5d0 \\ucc38\\uc5ec\\ud560 \\ubd84\\ub4e4\\uc744 \\ubaa8\\uc9d1\\ud569\\ub2c8\\ub2e4. \\uc544\\ub798 \\ubaa8\\uc9d1 \\ub0b4\\uc6a9\\uc744 \\ud655\\uc778\\ud558\\uc2dc\\uace0 \\uc9c0\\uc6d0\\uc744 \\uc6d0\\ud558\\uc2dc\\ub294 \\ubd84\\ub4e4\\uc740 \\uc544\\ub798 \\uad6c\\uae00 \\ud3fc\\uc744 \\uc791\\uc131\\ud574\\uc8fc\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucc38\\uc5ec \\uc790\\uaca9: GSDS \\uc7ac\\ud559\\uc0dd\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1 \\uae30\\uac04: 23.07.25(\\ud654) ~ 23.07.27(\\ubaa9)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubaa8\\uc9d1\\uc778\\uc6d0: 00\\uba85\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc5c5\\ubb34\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"DeepLearning.AI\\uc5d0\\uc11c \\uc81c\\uacf5\\ud558\\ub294 course \\ubc88\\uc5ed \"},{\"type\":\"emoji\",\"name\":\"clapper\",\"unicode\":\"1f3ac\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"link\",\"url\":\"https:\\/\\/www.deeplearning.ai\\/short-courses\\/\",\"text\":\"\\uc608\\uc2dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud604\\uc7ac \\uc601\\uc5b4 \\ub300\\ubcf8\\uc774 chatGPT\\ub97c \\ud1b5\\ud574 \\ucd08\\uc548\\uc73c\\ub85c \\ub9cc\\ub4e4\\uc5b4\\uc9c4 \\uc0c1\\ud0dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ucd08\\uc548\\uc744 \\uae30\\ubc18\\uc73c\\ub85c \\ubc88\\uc5ed \\uac80\\uc218 \\ubc0f \\ud55c\\uad6d\\uc5b4 \\uc790\\ub9c9 \\uc2f1\\ud06c \\ub9de\\ucd94\\ub294 \\uc791\\uc5c5\"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc88\\uc5ed \\uc5c5\\ubb34\\uc5d0 \\ub530\\ub978 \"},{\"type\":\"emoji\",\"name\":\"coin\",\"unicode\":\"1fa99\"},{\"type\":\"text\",\"text\":\" \"},{\"type\":\"text\",\"text\":\"\\ud06c\\ub808\\ub527\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\uc774 \\uc601\\uc0c1 \\uc790\\ub9c9\\uc73c\\ub85c \\ud45c\\uae30\\ub420 \\uc608\\uc815\\uc785\\ub2c8\\ub2e4.\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "link",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/E8cyfPKt7qYbTMmi7",
+                "text": "지원링크"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8d3dccbcfc97e9223bb50960535dbc54.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "최광호",
+      "real_name": "최광호",
+      "display_name": "3기_최광호",
+      "team": "T01QA5S537V",
+      "name": "chlrhkdgh93",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,124 @@
+[
+  {
+    "client_msg_id": "01fcb643-e8bc-4fb2-b3e9-59ee6956d985",
+    "type": "message",
+    "user": "U0302PK342C",
+    "text": "보관기간, 유통기한이 지났거나 먹을 수 없는 상태의 음식들은 모두 폐기했습니다. \n이름만 쓰여있는 경우에는 3층 탕비실, 4층 탕비실 냉장고에 그대로 두었습니다만, \n오늘 저녁 6시까지 보관기간을 명시하지 않으면 부득이 모두 폐기처분 하도록 하겠습니다",
+    "ts": "1689316506.623869",
+    "thread_ts": "1689175970.739889",
+    "edited": {
+      "user": "U0302PK342C",
+      "ts": "1689316647.000000"
+    },
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U02V5LT4DLZ",
+          "U0302PHUHME"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3kJB6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "보관기간, 유통기한이 지났거나 먹을 수 없는 상태의 음식들은 모두 폐기했습니다. \n이름만 쓰여있는 경우에는 3층 탕비실, 4층 탕비실 냉장고에 그대로 두었습니다만, \n오늘 저녁 6시까지 보관기간을 명시하지 않으면 부득이 모두 폐기처분 하도록 하겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8dfc94767f5ee19594e0ce897e2418db.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "3기_이규성",
+      "real_name": "3기_이규성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ksnannaya",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "01fcb643-e8bc-4fb2-b3e9-59ee6956d985",
+    "type": "message",
+    "user": "U0302PK342C",
+    "text": "보관기간, 유통기한이 지났거나 먹을 수 없는 상태의 음식들은 모두 폐기했습니다. \n이름만 쓰여있는 경우에는 3층 탕비실, 4층 탕비실 냉장고에 그대로 두었습니다만, \n오늘 저녁 6시까지 보관기간을 명시하지 않으면 부득이 모두 폐기처분 하도록 하겠습니다",
+    "ts": "1689316506.623869",
+    "thread_ts": "1689175970.739889",
+    "edited": {
+      "user": "U0302PK342C",
+      "ts": "1689316647.000000"
+    },
+    "subtype": "thread_broadcast",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U02V5LT4DLZ",
+          "U0302PHUHME"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3kJB6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "보관기간, 유통기한이 지났거나 먹을 수 없는 상태의 음식들은 모두 폐기했습니다. \n이름만 쓰여있는 경우에는 3층 탕비실, 4층 탕비실 냉장고에 그대로 두었습니다만, \n오늘 저녁 6시까지 보관기간을 명시하지 않으면 부득이 모두 폐기처분 하도록 하겠습니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/8dfc94767f5ee19594e0ce897e2418db.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "3기_이규성",
+      "real_name": "3기_이규성",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ksnannaya",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

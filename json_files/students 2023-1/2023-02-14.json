@@ -1,0 +1,325 @@
+[
+  {
+    "client_msg_id": "4e0bfd98-17b0-40fe-9503-12e43e4d47af",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "*[학생회] 2023학년도 전반기 3기 학생대표/부대표 선출 공고*\n\n안녕하세요? 학생회장 고의천입니다.\n\n어제(2/14, 월)까지 3기를 대상으로 진행된 온라인 투표에서\n\n*이효진/권유진 학생이* \n\n3기 재적인원 과반수의 투표와\n\n투표인원의 2/3를 넘어서는 찬성(98% 찬성률)으로\n\n학생회칙 제25조(당선)에 의거하여\n\n*학생대표/부대표로 선출되었음을 공고합니다.*\n\n당선된 두 학생에게 진심으로 축하의 말을 전하며\n\n다른 학생분들께서도 응원과 격려의 마음으로 앞으로 함께 해주시길 부탁드립니다!\n\n읽어주셔서 감사합니다!",
+    "ts": "1676344033.300429",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 35,
+        "users": [
+          "U01R678KWP2",
+          "U02V5LTPGRX",
+          "U02UT1XABT4",
+          "U0406PM050F",
+          "U01QV1SQJ57",
+          "U02UQ4BAMB7",
+          "U01QGG6A5LJ",
+          "U02V5LU4ED7",
+          "U01QGKD09K5",
+          "U02UVAUFSRJ",
+          "U02V5LRSE2V",
+          "U02V5LRB5S5",
+          "U0302PJE83A",
+          "U02UQ4D8L2Z",
+          "U02ULBKA8DU",
+          "U01QNHRHY0L",
+          "U02V5LTUGGH",
+          "U02UQ4CMR7X",
+          "U01QA85T90A",
+          "U02V5LTRU2V",
+          "U040PQB9R1A",
+          "U02ULBJGHF0",
+          "U02V5LT4DLZ",
+          "U02UVATUSLU",
+          "U040ENMBB1C",
+          "U02UVAT3BPW",
+          "U02UT2U1PFV",
+          "U02UT1XUGFL",
+          "U01R688KH6U",
+          "U0302PK342C",
+          "U0302PHUHME",
+          "U02ULBJR9GE",
+          "U02UT2TFZ8B",
+          "U02UQ4BRJE9",
+          "U01QV28FG4R"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 17,
+        "users": [
+          "U02V5LTPGRX",
+          "U02UT1XABT4",
+          "U01QV1SQJ57",
+          "U02V5LU4ED7",
+          "U02V5LRSE2V",
+          "U0302PJE83A",
+          "U02V5LS84JV",
+          "U02UQ4D8L2Z",
+          "U02UQ4CMR7X",
+          "U02V5LTRU2V",
+          "U02V5LT4DLZ",
+          "U02UVAT3BPW",
+          "U02UT2U1PFV",
+          "U02UT1XUGFL",
+          "U01R688KH6U",
+          "U02UQ4BRJE9",
+          "U01QV28FG4R"
+        ]
+      },
+      {
+        "name": "+1",
+        "count": 10,
+        "users": [
+          "U01QV1SQJ57",
+          "U02V5LU4ED7",
+          "U0302PJE83A",
+          "U02UQ4D8L2Z",
+          "U02UQ4CMR7X",
+          "U02ULBJGHF0",
+          "U02UT2U1PFV",
+          "U02UT1XUGFL",
+          "U01R688KH6U",
+          "U02UQ4BRJE9"
+        ]
+      },
+      {
+        "name": "among_us_voted",
+        "count": 7,
+        "users": [
+          "U02V5LU4ED7",
+          "U0302PJE83A",
+          "U02UQ4D8L2Z",
+          "U02UVAT3BPW",
+          "U02UT2U1PFV",
+          "U02UT1XUGFL",
+          "U02UQ4BRJE9"
+        ]
+      },
+      {
+        "name": "+1::skin-tone-2",
+        "count": 2,
+        "users": [
+          "U02V5LTRU2V",
+          "U02UVAT3BPW"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UoT88",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[학생회] 2023학년도 전반기 3기 학생대표/부대표 선출 공고",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요? 학생회장 고의천입니다.\n\n어제(2/14, 월)까지 3기를 대상으로 진행된 온라인 투표에서\n\n"
+              },
+              {
+                "type": "text",
+                "text": "이효진/권유진 학생이 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n3기 재적인원 과반수의 투표와\n\n투표인원의 2/3를 넘어서는 찬성(98% 찬성률)으로\n\n학생회칙 제25조(당선)에 의거하여\n\n"
+              },
+              {
+                "type": "text",
+                "text": "학생대표/부대표로 선출되었음을 공고합니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n당선된 두 학생에게 진심으로 축하의 말을 전하며\n\n다른 학생분들께서도 응원과 격려의 마음으로 앞으로 함께 해주시길 부탁드립니다!\n\n읽어주셔서 감사합니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "72cf6e8f-4853-42a9-bc23-16fd83e006ca",
+    "type": "message",
+    "user": "U02BD3EV4DQ",
+    "text": "[금융공학]\n\n이번 1학기에 최병선 교수님의 금융공학을 들으시는 분께서는 아래의 google form에 자신이 요약할 chapter를 \"Student Name\" 칸에 적어주시면 좋을 것 같습니다. 오늘 2시에 있었던 줌 미팅의 정리는 다음과 같습니다.\n\n• 강의는 사회과학대학 (16동) 107번 방에서 대면으로 진행합니다\n• 강의는 Financial Engineering이 아닌 Investment Science 기반입니다\n• 수업에서 사용할 책은 David G. Luenberger의 “Investment Science”입니다\n• 학생들은 James P. O’Shaughnessy의 챕터를 읽고 발표를 해야 합니다. 어떤 챕터를 발표할지는 저에게 Slack으로 알려주시거나 Google Forn에 바로 적어주시면 됩니다\n    ◦  \u003chttps://docs.google.com/spreadsheets/d/17hCQtFT00v-QcY43lkVan5qzbPEmGh4PYyN0b6G95yo/edit#gid=0\u003e \n• 학생 발표는 ppt 5장 정도로 5-10분 발표하시면 됩니다\n• 수업 강의 슬라이드는 \u003chttp://datalylab.com|datalylab.com\u003e 에 강의 슬라이드가 있으니 참고해주시길 바랍니다\n감사합니다.",
+    "ts": "1676353780.010489",
+    "edited": {
+      "user": "U02BD3EV4DQ",
+      "ts": "1676419386.000000"
+    },
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 2,
+        "users": [
+          "U01QV1SQJ57",
+          "U01QUKKQ8GH"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eteG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[금융공학]\n\n이번 1학기에 최병선 교수님의 금융공학을 들으시는 분께서는 아래의 google form에 자신이 요약할 chapter를 \"Student Name\" 칸에 적어주시면 좋을 것 같습니다. 오늘 2시에 있었던 줌 미팅의 정리는 다음과 같습니다.\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac15\\uc758\\ub294 \\uc0ac\\ud68c\\uacfc\\ud559\\ub300\\ud559 (16\\ub3d9) 107\\ubc88 \\ubc29\\uc5d0\\uc11c \\ub300\\uba74\\uc73c\\ub85c \\uc9c4\\ud589\\ud569\\ub2c8\\ub2e4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac15\\uc758\\ub294 Financial Engineering\\uc774 \\uc544\\ub2cc Investment Science \\uae30\\ubc18\\uc785\\ub2c8\\ub2e4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\uc5c5\\uc5d0\\uc11c \\uc0ac\\uc6a9\\ud560 \\ucc45\\uc740 David G. Luenberger\\uc758 \\u201cInvestment Science\\u201d\\uc785\\ub2c8\\ub2e4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc0dd\\ub4e4\\uc740 James P. O\\u2019Shaughnessy\\uc758 \\ucc55\\ud130\\ub97c \\uc77d\\uace0 \\ubc1c\\ud45c\\ub97c \\ud574\\uc57c \\ud569\\ub2c8\\ub2e4. \\uc5b4\\ub5a4 \\ucc55\\ud130\\ub97c \\ubc1c\\ud45c\\ud560\\uc9c0\\ub294 \\uc800\\uc5d0\\uac8c Slack\\uc73c\\ub85c \\uc54c\\ub824\\uc8fc\\uc2dc\\uac70\\ub098 Google Forn\\uc5d0 \\ubc14\\ub85c \\uc801\\uc5b4\\uc8fc\\uc2dc\\uba74 \\ub429\\ub2c8\\ub2e4\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\" \"},{\"type\":\"link\",\"url\":\"https:\\/\\/docs.google.com\\/spreadsheets\\/d\\/17hCQtFT00v-QcY43lkVan5qzbPEmGh4PYyN0b6G95yo\\/edit#gid=0\"},{\"type\":\"text\",\"text\":\" \"}]}],\"style\":\"bullet\",\"indent\":1,\"border\":0}"
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud559\\uc0dd \\ubc1c\\ud45c\\ub294 ppt 5\\uc7a5 \\uc815\\ub3c4\\ub85c 5-10\\ubd84 \\ubc1c\\ud45c\\ud558\\uc2dc\\uba74 \\ub429\\ub2c8\\ub2e4\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc218\\uc5c5 \\uac15\\uc758 \\uc2ac\\ub77c\\uc774\\ub4dc\\ub294 \"},{\"type\":\"link\",\"url\":\"http:\\/\\/datalylab.com\",\"text\":\"datalylab.com\"},{\"type\":\"text\",\"text\":\" \\uc5d0 \\uac15\\uc758 \\uc2ac\\ub77c\\uc774\\ub4dc\\uac00 \\uc788\\uc73c\\ub2c8 \\ucc38\\uace0\\ud574\\uc8fc\\uc2dc\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/947eb2a69263f1ae57843b4fac0f1b83.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "2기_문정현",
+      "real_name": "2기_문정현",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "jake122297",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c3052158-1c17-4c98-b1ff-ac629d4c8f3a",
+    "type": "message",
+    "user": "U02V5LTPGRX",
+    "text": "안녕하세요! 3기 석사 과정 이다예 학생입니다 :slightly_smiling_face:\n\n오늘 책상 옮기다가 focus room에서 행거와 옷걸이를 발견하였는데, 혹시 주인 있으시면 DM이나 댓글 남겨주시면 감사하겠습니다!!\n\n감사합니다!! (오늘 짐 옮기신 분들 모두 수고하셨습니다!!)",
+    "ts": "1676353830.498069",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U02UT1YNY6N"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jevWq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요! 3기 석사 과정 이다예 학생입니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n\n오늘 책상 옮기다가 focus room에서 행거와 옷걸이를 발견하였는데, 혹시 주인 있으시면 DM이나 댓글 남겨주시면 감사하겠습니다!!\n\n감사합니다!! (오늘 짐 옮기신 분들 모두 수고하셨습니다!!)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Daye",
+      "real_name": "Daye Lee",
+      "display_name": "3기_이다예",
+      "team": "T01QA5S537V",
+      "name": "gbyou1694",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

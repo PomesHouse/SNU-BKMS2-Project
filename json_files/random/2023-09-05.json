@@ -1,0 +1,528 @@
+[
+  {
+    "client_msg_id": "7c75acc9-1461-43b7-aad1-e2ee17039543",
+    "type": "message",
+    "user": "U05QHT3DEDP",
+    "text": "안녕하세요, 신입생 4.5기 한종욱이라고 합니다.\n\n다름이 아니라 제가 ip 주소를 신청하려고 하는데 신청할때 책임자를 설정하도록 되어 있어서 연락드립니다.\n보통 어떤 분을 책임자로 선택하는지 궁금합니다.\n\n신청 화면은 다음과 같습니다.\n감사합니다.",
+    "ts": "1693887324.164689",
+    "thread_ts": "1693887324.164689",
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U04RD26CJ5N",
+        "ts": "1693887738.979509"
+      },
+      {
+        "user": "U05QHT3DEDP",
+        "ts": "1693887932.224789"
+      }
+    ],
+    "latest_reply": "1693887932.224789",
+    "files": [
+      {
+        "id": "F05QXDUBXEF",
+        "created": 1693887212,
+        "timestamp": 1693887212,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U05QHT3DEDP",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 168900,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05QXDUBXEF-image.png",
+        "url_private_download": "attachments/F05QXDUBXEF-image.png",
+        "original_h": 842,
+        "original_w": 1778,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05QXDUBXEF-650f986fef/image_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05QXDUBXEF-650f986fef/image_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05QXDUBXEF-650f986fef/image_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05QXDUBXEF-650f986fef/image_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 170,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05QXDUBXEF-650f986fef/image_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 227,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05QXDUBXEF-650f986fef/image_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 341,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05QXDUBXEF-650f986fef/image_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 455,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05QXDUBXEF-650f986fef/image_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 485,
+        "permalink": "https://snugsds.slack.com/files/U05QHT3DEDP/F05QXDUBXEF/image.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05QXDUBXEF-0d8bc44884",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8qVR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요, 신입생 4.5기 한종욱이라고 합니다.\n\n다름이 아니라 제가 ip 주소를 신청하려고 하는데 신청할때 책임자를 설정하도록 되어 있어서 연락드립니다.\n보통 어떤 분을 책임자로 선택하는지 궁금합니다.\n\n신청 화면은 다음과 같습니다.\n감사합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6b7b39dd1b8515d254d672187aea944a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "4.5기_한종욱",
+      "real_name": "4.5기_한종욱",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "johnhan00",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U04RD26CJ5N",
+      "U05QHT3DEDP"
+    ]
+  },
+  {
+    "client_msg_id": "18d43914-a146-4dff-b5f6-b4f612ebac4c",
+    "type": "message",
+    "user": "U04RD26CJ5N",
+    "text": "이재진 교수님 쓰시면 될 것 같습니다. 지난 학기때 저도 비슷한 상황이었는데, 당시 행정실에서 학장님이신 이재진 교수님을 쓰도록 안내해주셨습니다.",
+    "ts": "1693887738.979509",
+    "thread_ts": "1693887324.164689",
+    "parent_user_id": "U05QHT3DEDP",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hDKjj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "이재진 교수님 쓰시면 될 것 같습니다. 지난 학기때 저도 비슷한 상황이었는데, 당시 행정실에서 학장님이신 이재진 교수님을 쓰도록 안내해주셨습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/450bb8233143f4f1a9ceb3d5ba9bbfb2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0024-72.png",
+      "first_name": "4기_김종민",
+      "real_name": "4기_김종민",
+      "display_name": "4기_김종민",
+      "team": "T01QA5S537V",
+      "name": "jongmin.dev",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "978d6f72-49b9-4f80-9b4f-fcf97e3e2b8f",
+    "type": "message",
+    "user": "U05QHT3DEDP",
+    "text": "답변주셔서 감사합니다. 이재진 교수님을 책임자로 하여 신청하도록 하겠습니다.",
+    "ts": "1693887932.224789",
+    "thread_ts": "1693887324.164689",
+    "parent_user_id": "U05QHT3DEDP",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "I19",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "답변주셔서 감사합니다. 이재진 교수님을 책임자로 하여 신청하도록 하겠습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/6b7b39dd1b8515d254d672187aea944a.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "4.5기_한종욱",
+      "real_name": "4.5기_한종욱",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "johnhan00",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "4550631F-4211-469A-A2E3-DF282B2684DC",
+    "type": "message",
+    "user": "U05QHT4D15F",
+    "text": "혹시 43-2동 위치가 어디인가요?? 지도에 안나와서요..",
+    "ts": "1693888086.047829",
+    "thread_ts": "1693888086.047829",
+    "reply_count": 3,
+    "replies": [
+      {
+        "user": "U02V5LTPGRX",
+        "ts": "1693888140.982199"
+      },
+      {
+        "user": "U02V5LTPGRX",
+        "ts": "1693888189.527459"
+      },
+      {
+        "user": "U05QHT4D15F",
+        "ts": "1693888497.311239"
+      }
+    ],
+    "latest_reply": "1693888497.311239",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05PYK5NMU6"
+        ]
+      },
+      {
+        "name": "sob",
+        "count": 1,
+        "users": [
+          "U05QHT4D15F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SUU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "혹시 43-2"
+              },
+              {
+                "type": "text",
+                "text": "동"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "위치가"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "어디인가요"
+              },
+              {
+                "type": "text",
+                "text": "?? "
+              },
+              {
+                "type": "text",
+                "text": "지도에"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "안나와서요"
+              },
+              {
+                "type": "text",
+                "text": ".."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/914b7e41793398e1862122b71efcb5d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "4.5기_박종연",
+      "real_name": "4.5기_박종연",
+      "display_name": "4.5기_박종연",
+      "team": "T01QA5S537V",
+      "name": "happyfran67",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 2,
+    "reply_users": [
+      "U02V5LTPGRX",
+      "U05QHT4D15F"
+    ]
+  },
+  {
+    "client_msg_id": "01a3c457-6431-4006-9271-199d7530887f",
+    "type": "message",
+    "user": "U02V5LTPGRX",
+    "text": "모두의 공간 (중국집) 옆에 있어요!",
+    "ts": "1693888140.982199",
+    "thread_ts": "1693888086.047829",
+    "edited": {
+      "user": "U02V5LTPGRX",
+      "ts": "1693888213.000000"
+    },
+    "parent_user_id": "U05QHT4D15F",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05QHT4D15F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/XgmQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "모두의 공간 (중국집) 옆에 있어요!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Daye",
+      "real_name": "Daye Lee",
+      "display_name": "3기_이다예",
+      "team": "T01QA5S537V",
+      "name": "gbyou1694",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "3ae8f1a2-918d-465c-9f5d-f1530da9d6e5",
+    "type": "message",
+    "user": "U02V5LTPGRX",
+    "text": "+ 공간은 농생대에서 버스타고 내리면 왼쪽으로 가시면 나와요!",
+    "ts": "1693888189.527459",
+    "thread_ts": "1693888086.047829",
+    "parent_user_id": "U05QHT4D15F",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U05QHT4D15F"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cylt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "+ 공간은 농생대에서 버스타고 내리면 왼쪽으로 가시면 나와요!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/a45ec252630344dbea2279b83289e589.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Daye",
+      "real_name": "Daye Lee",
+      "display_name": "3기_이다예",
+      "team": "T01QA5S537V",
+      "name": "gbyou1694",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "2EB5EE45-D38B-4123-9BB2-C3CDE92AE757",
+    "type": "message",
+    "user": "U05QHT4D15F",
+    "text": "정말 감사합니다",
+    "ts": "1693888497.311239",
+    "thread_ts": "1693888086.047829",
+    "parent_user_id": "U05QHT4D15F",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "count": 1,
+        "users": [
+          "U02V5LTPGRX"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jv/r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "정말"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "감사합니다"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/914b7e41793398e1862122b71efcb5d2.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0007-72.png",
+      "first_name": "4.5기_박종연",
+      "real_name": "4.5기_박종연",
+      "display_name": "4.5기_박종연",
+      "team": "T01QA5S537V",
+      "name": "happyfran67",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

@@ -1,0 +1,393 @@
+[
+  {
+    "client_msg_id": "0c6fa681-3cf8-444b-bb4d-116dc6fdbbbd",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*(재안내) \u0026lt;학생 연구공간 추가 조성을 위한 작업 협조 요청\u0026gt;*\n\n데이터사이언스대학원 학생 정원 증가에 따라 *학생 연구공간을 추가 확보하기 위해 책상과 의자 이동 작업을 다음과 같이 실시*합니다. 아울러, 작업으로 인한 좌석 이동 등에 따라 *당일 연구공간의 원활한 사용이 어려울 수 있으니 학생 여러분의 양해를 바랍니다.*\n\nㅇ 작업 일시(집합 장소): *2023. 2. 14.(화) 오후 1시 30분 ~ , 행정실 앞*\nㅇ 작업 필요 인력: *랩당 최소 2명 이상 (간식 제공)*\nㅇ 작업 내용: 상세 내용은 당일 업무 담당자가 직접 현장에서 안내할 예정\n1. 301호에 120도 책상 3개 세트(1개 세트당 3개 좌석)가 더 들어올 수 있도록 좌석 재배치\n 2. 3층 우측 연구공간에 120도 책상 2개 세트가 더 들어올 수 있도록 기존 좌석 재배치\n 3. 4층 중앙 연구공간에 120동 책상 1개 세트가 더 들어올 수 있도록 기존 좌석 재배치\n 4. 1~3에 따라 확보한 공간에 들어올 책상에 놓을 의자 비치(18개)\n 5. 3층 포커스룸 및 이노베이션룸(305, 307, 310, 311, 312, 313, 314, 315호) 물품을 창고로 이동\n 6. 3층 포커스룸 및 이노베이션룸에 책상과 의자 비치(총 24개 좌석)\nㅇ 문의사항: 행정실 장창대 주무관(02-880-1146)",
+    "ts": "1676270370.193049",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1676274192.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "miOZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "(재안내) \u003c학생 연구공간 추가 조성을 위한 작업 협조 요청\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n데이터사이언스대학원 학생 정원 증가에 따라 "
+              },
+              {
+                "type": "text",
+                "text": "학생 연구공간을 추가 확보하기 위해 책상과 의자 이동 작업을 다음과 같이 실시",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "합니다. 아울러, 작업으로 인한 좌석 이동 등에 따라 "
+              },
+              {
+                "type": "text",
+                "text": "당일 연구공간의 원활한 사용이 어려울 수 있으니 학생 여러분의 양해를 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nㅇ 작업 일시(집합 장소): "
+              },
+              {
+                "type": "text",
+                "text": "2023. 2. 14.(화) 오후 1시 30분 ~ , 행정실 앞",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nㅇ 작업 필요 인력: "
+              },
+              {
+                "type": "text",
+                "text": "랩당 최소 2명 이상 (간식 제공)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nㅇ 작업 내용: 상세 내용은 당일 업무 담당자가 직접 현장에서 안내할 예정\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"301\\ud638\\uc5d0 120\\ub3c4 \\ucc45\\uc0c1 3\\uac1c \\uc138\\ud2b8(1\\uac1c \\uc138\\ud2b8\\ub2f9 3\\uac1c \\uc88c\\uc11d)\\uac00 \\ub354 \\ub4e4\\uc5b4\\uc62c \\uc218 \\uc788\\ub3c4\\ub85d \\uc88c\\uc11d \\uc7ac\\ubc30\\uce58\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": " 2. 3층 우측 연구공간에 120도 책상 2개 세트가 더 들어올 수 있도록 기존 좌석 재배치\n 3. 4층 중앙 연구공간에 120동 책상 1개 세트가 더 들어올 수 있도록 기존 좌석 재배치\n 4. 1~3에 따라 확보한 공간에 들어올 책상에 놓을 의자 비치(18개)\n 5. 3층 포커스룸 및 이노베이션룸(305, 307, 310, 311, 312, 313, 314, 315호) 물품을 창고로 이동\n 6. 3층 포커스룸 및 이노베이션룸에 책상과 의자 비치(총 24개 좌석)\nㅇ 문의사항: 행정실 장창대 주무관(02-880-1146)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a8b7d426-d8c1-41e0-a69f-55d52d2ee144",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2023학년도 2학기 개도국 대학 교원 지원 프로그램(SPF)장학생 선발 안내\u0026gt;\n\n본교 교육 및 연구의 우수한 경험을 바탕으로 한국의 국제적 위상을 제고하고 국제협력강화에 기여하고자 다음과 같이 2023학년도 2학기 개도국 대학 교원 지원 프로그램(SNU President Fellowship, SPF)장학생을 선발하오니 관심있는 학생은 지원하시길 바랍니다.\n *□ 2023학년도 후기 SPF 장학생 지원 자격 (동시 충족)*\n    ① 개발도상국 주요 대학 교원 중 박사학위 미소지자(아시아, 아프리카, 남미 교원 우선선발)\n    ② 2023학년도 후기 글로벌인재특별전형 대학원 과정 온라인 지원 접수를 이상 없이 마친 자\n    ③ 2023학년도 후기 서울대학교 박사 학위과정에 지원하여 최종 합격된 자 (해당자만 2차 면접심사 가능)\n     ※ 해당 장학 프로그램에서의 교원의 자격 범위 및 상세한 교원의 자격 요건은 붙임 계획안 참조\n. *□ 지원내용: 등록금 전액, 생활비, 왕복항공료, 한국어 교육비, 건강보험료, 자녀보육료 등*\n  *□ 지원방법*\n   글로벌인재특별전형 대학원 온라인 지원 접수와 동시에 온라인 SPF 장학신청 → 지원자가 신청서류 국제협력본부로 제출 → 1차(서류) 심사 → 글로벌인재특별전형 대학원 합격발표 → 2차(면접)심사 → SPF 장학생 최종 선발\n    ※ 세부 장학 신청 및 장학생 선발과정은 붙임 안내문 참조\n *□ SPF 지원자 제출서류*\n    ① SNU President Fellowship Program 신청서 (수학계획서 포함)\n    ② 대학 교원 재직증명서(대학명, 대표자, 소재지, 근무부서, 직급, 재직기간 포함)\n    ③ 성적 및 졸업(예정)증명서(학, 석사 모두 제출)\n    ④ 교원으로 근무한 대학의 학과장, 학장 혹은 총장 추천서\n    ⑤ 현재 소속된 대학의 학장 혹은 총장 추천서 (가산점 부여)\n    ※ 국제협력본부에 이메일(PDF파일) 접수 및 원본서류 우편접수 필수\n\n붙임 1. 2023학년도 후기 SNU President Fellowship Program 선발 안내문(영문) 1부.\n      2. 2023학년도 후기 SPF 지원서류 양식 1부.\n      3. SNU President Fellowship Program 홍보 브로슈어 1부.",
+    "ts": "1676276504.395149",
+    "files": [
+      {
+        "id": "F04P9NJ1DDY",
+        "created": 1676276493,
+        "timestamp": 1676276493,
+        "name": "SNU President Fellowship Program 소개 브로슈어.pdf",
+        "title": "SNU President Fellowship Program 소개 브로슈어.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 408348,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04P9NJ1DDY-SNU President Fellowship Program 소개 브로슈어.pdf",
+        "url_private_download": "attachments/F04P9NJ1DDY-SNU President Fellowship Program 소개 브로슈어.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04P9NJ1DDY/snu_president_fellowship_program____________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04P9NJ1DDY-2e2e314b70",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04PC6YSJA0",
+        "created": 1676276495,
+        "timestamp": 1676276495,
+        "name": "★SPF Application form_Fall 2023.docx",
+        "title": "★SPF Application form_Fall 2023.docx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+        "image_exif_rotation": 0,
+        "filetype": "docx",
+        "pretty_type": "Word 문서",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 195540,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04PC6YSJA0-★SPF Application form_Fall 2023.docx",
+        "url_private_download": "attachments/F04PC6YSJA0-★SPF Application form_Fall 2023.docx",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04PC6YSJA0/___spf_application_form_fall_2023.docx",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04PC6YSJA0-7b2709e053",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F04PC6ZAL76",
+        "created": 1676276501,
+        "timestamp": 1676276501,
+        "name": "Application Guidelines for SNU President Fellowship Fall 2023.pdf",
+        "title": "Application Guidelines for SNU President Fellowship Fall 2023.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 106608,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F04PC6ZAL76-Application Guidelines for SNU President Fellowship Fall 2023.pdf",
+        "url_private_download": "attachments/F04PC6ZAL76-Application Guidelines for SNU President Fellowship Fall 2023.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F04PC6ZAL76/application_guidelines_for_snu_president_fellowship_fall_2023.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F04PC6ZAL76-b76102399b",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3pSd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2023학년도 2학기 개도국 대학 교원 지원 프로그램(SPF)장학생 선발 안내\u003e\n\n본교 교육 및 연구의 우수한 경험을 바탕으로 한국의 국제적 위상을 제고하고 국제협력강화에 기여하고자 다음과 같이 2023학년도 2학기 개도국 대학 교원 지원 프로그램(SNU President Fellowship, SPF)장학생을 선발하오니 관심있는 학생은 지원하시길 바랍니다.\n"
+              },
+              {
+                "type": "text",
+                "text": " □ 2023학년도 후기 SPF 장학생 지원 자격 (동시 충족)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    ① 개발도상국 주요 대학 교원 중 박사학위 미소지자(아시아, 아프리카, 남미 교원 우선선발)\n    ② 2023학년도 후기 글로벌인재특별전형 대학원 과정 온라인 지원 접수를 이상 없이 마친 자\n    ③ 2023학년도 후기 서울대학교 박사 학위과정에 지원하여 최종 합격된 자 (해당자만 2차 면접심사 가능)\n     ※ 해당 장학 프로그램에서의 교원의 자격 범위 및 상세한 교원의 자격 요건은 붙임 계획안 참조\n. "
+              },
+              {
+                "type": "text",
+                "text": "□ 지원내용: 등록금 전액, 생활비, 왕복항공료, 한국어 교육비, 건강보험료, 자녀보육료 등",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "  □ 지원방법",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   글로벌인재특별전형 대학원 온라인 지원 접수와 동시에 온라인 SPF 장학신청 → 지원자가 신청서류 국제협력본부로 제출 → 1차(서류) 심사 → 글로벌인재특별전형 대학원 합격발표 → 2차(면접)심사 → SPF 장학생 최종 선발\n    ※ 세부 장학 신청 및 장학생 선발과정은 붙임 안내문 참조\n "
+              },
+              {
+                "type": "text",
+                "text": "□ SPF 지원자 제출서류",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n    ① SNU President Fellowship Program 신청서 (수학계획서 포함)\n    ② 대학 교원 재직증명서(대학명, 대표자, 소재지, 근무부서, 직급, 재직기간 포함)\n    ③ 성적 및 졸업(예정)증명서(학, 석사 모두 제출)\n    ④ 교원으로 근무한 대학의 학과장, 학장 혹은 총장 추천서\n    ⑤ 현재 소속된 대학의 학장 혹은 총장 추천서 (가산점 부여)\n    ※ 국제협력본부에 이메일(PDF파일) 접수 및 원본서류 우편접수 필수\n\n붙임 1. 2023학년도 후기 SNU President Fellowship Program 선발 안내문(영문) 1부.\n      2. 2023학년도 후기 SPF 지원서류 양식 1부.\n      3. SNU President Fellowship Program 홍보 브로슈어 1부."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

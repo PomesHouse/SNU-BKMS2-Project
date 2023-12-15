@@ -1,0 +1,393 @@
+[
+  {
+    "client_msg_id": "407268da-8d26-4a2e-bfde-7b2e3d0febb3",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;제2회 통신망 안전성 확보를 위한 인공지능 해커톤\u0026gt;*\n\n한국전자통신연구원(ETRI)과 KT가 공동으로 주최 및 주관하는 ‘제2회 통신망 안정성 확보를 위한 인공지능 해커톤’ 이 아래와 같이 개최하오니 관심 있는 학생께서는 참고하시기 바랍니다.\n\n  가. 대회명 : 제2회 통신망 안정성 확보를 위한 인공지능 해커톤\n  나. 대회주제 : 통신망 안정성 확보를 위한 국내 네트워크 지능화 기술확산 및 교류의 장\n  다. 참가자 접수 및 팀 병합 기간 : 7/19 (수) ~ 8/18 (금)\n  라. 주최 및 주관 : 한국전자통신연구원(ETRI), KT\n  바. 참가대상 : 네트워크 데이터를 활용하여 인공지능을 통한 문제 해결에 관심있는 국내 대학(원)생 및 취업 준비생 누구나\n  사. 시상내역 : 총 상금 1,000만원, KT 입사 지원 시 채용특전 제공\n  아. 대회 운영 관련 인공지능팩토리 : cs@aifactory.page\n  자. 안내페이지 : \u003chttps://aifactory.space/competition/2513/discussion/508\u003e\n\n3. 세부 프로그램 : 포스터 참조",
+    "ts": "1690780408.100719",
+    "attachments": [
+      {
+        "fallback": ":information_desk_person::skin-tone-2::male_sign: 제2회 통신망 안정성 확보를 위한 인공지능 해커톤",
+        "id": 1,
+        "title": ":information_desk_person::skin-tone-2::male_sign: 제2회 통신망 안정성 확보를 위한 인공지능 해커톤",
+        "title_link": "https://aifactory.space/competition/2513/discussion/508",
+        "text": "작년에 이어 두 번째 통신망 안정성 확보를 위한 인공지능 해커톤을 개최합니다!\n\n \n\n🛜 대회 소개\n\n참가를 희망하는 분께서는 아래 설명을 참고하시어 통신망 안정성 분야에 대해",
+        "image_url": "http://aifactory.space/assets/images/logo.png",
+        "service_name": "aifactory.space",
+        "service_icon": "https://aifactory.space/favicon.ico",
+        "from_url": "https://aifactory.space/competition/2513/discussion/508",
+        "original_url": "https://aifactory.space/competition/2513/discussion/508",
+        "blocks": null
+      }
+    ],
+    "files": [
+      {
+        "id": "F05KCQ8BCUV",
+        "created": 1690780403,
+        "timestamp": 1690780403,
+        "name": "poster.png",
+        "title": "poster.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 348860,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05KCQ8BCUV-poster.png",
+        "url_private_download": "attachments/F05KCQ8BCUV-poster.png",
+        "original_h": 1684,
+        "original_w": 1191,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05KCQ8BCUV-0087dce845/poster_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05KCQ8BCUV-0087dce845/poster_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05KCQ8BCUV-0087dce845/poster_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05KCQ8BCUV-0087dce845/poster_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 255,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05KCQ8BCUV-0087dce845/poster_480.png",
+        "thumb_480_w": 339,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05KCQ8BCUV-0087dce845/poster_720.png",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05KCQ8BCUV-0087dce845/poster_960.png",
+        "thumb_960_w": 679,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05KCQ8BCUV-0087dce845/poster_1024.png",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05KCQ8BCUV/poster.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05KCQ8BCUV-955b4cbc1e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ctSI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c제2회 통신망 안전성 확보를 위한 인공지능 해커톤\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n한국전자통신연구원(ETRI)과 KT가 공동으로 주최 및 주관하는 ‘제2회 통신망 안정성 확보를 위한 인공지능 해커톤’ 이 아래와 같이 개최하오니 관심 있는 학생께서는 참고하시기 바랍니다.\n\n  가. 대회명 : 제2회 통신망 안정성 확보를 위한 인공지능 해커톤\n  나. 대회주제 : 통신망 안정성 확보를 위한 국내 네트워크 지능화 기술확산 및 교류의 장\n  다. 참가자 접수 및 팀 병합 기간 : 7/19 (수) ~ 8/18 (금)\n  라. 주최 및 주관 : 한국전자통신연구원(ETRI), KT\n  바. 참가대상 : 네트워크 데이터를 활용하여 인공지능을 통한 문제 해결에 관심있는 국내 대학(원)생 및 취업 준비생 누구나\n  사. 시상내역 : 총 상금 1,000만원, KT 입사 지원 시 채용특전 제공\n  아. 대회 운영 관련 인공지능팩토리 : cs@aifactory.page\n  자. 안내페이지 : "
+              },
+              {
+                "type": "link",
+                "url": "https://aifactory.space/competition/2513/discussion/508",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n\n3. 세부 프로그램 : 포스터 참조"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "d10c8269-e532-468a-b03b-a7e22ce82b59",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;제1회 에듀테크 데이터 분석 경진대회\u0026gt; 개최 안내\n\n이러닝학회에서 2023년 제1회 에듀테크 데이터 분석 경진대회를 다음과 같이 개최함을 알려와 안내하오니, 학생 여러분께서는 참고하시기 바랍니다.\n\n   가. 주제 : 제시된 분야 내 자유 주제\n       - 제1분야: 에듀테크 학습분석\n       - 제2분야: 메타버스 활용 수업 사례\n\n   나. 신청 : 첨부된 신청서를 이메일(\u003cmailto:s4edtech@naver.com|s4edtech@naver.com\u003e)로 제출\n\n   다. 일정 :\n       - 참가 접수 : 07. 10. ~ 09. 01.\n       - 포스터 제출 : 09. 04. ~ 09. 15.\n       - 포스터 발표 및 시상식(서울 코엑스) : 09. 23.\n\n   라. 문의처 : 이러닝학회 사무국\n       - 사무국장 이영준(\u003cmailto:s4edtech@naver.com|s4edtech@naver.com\u003e)",
+    "ts": "1690788420.165019",
+    "files": [
+      {
+        "id": "F05KD9N2UGM",
+        "created": 1690788404,
+        "timestamp": 1690788404,
+        "name": "제1회 에듀테크 데이터 분석 경진 대회 안내문.hwp",
+        "title": "제1회 에듀테크 데이터 분석 경진 대회 안내문.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 69632,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05KD9N2UGM-제1회 에듀테크 데이터 분석 경진 대회 안내문.hwp",
+        "url_private_download": "attachments/F05KD9N2UGM-제1회 에듀테크 데이터 분석 경진 대회 안내문.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05KD9N2UGM/___1_________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05KD9N2UGM-70cc7da030",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05KG4FS0LB",
+        "created": 1690788406,
+        "timestamp": 1690788406,
+        "name": "제1회 에듀테크 데이터 분석 경진 대회 신청서.hwp",
+        "title": "제1회 에듀테크 데이터 분석 경진 대회 신청서.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 33280,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05KG4FS0LB-제1회 에듀테크 데이터 분석 경진 대회 신청서.hwp",
+        "url_private_download": "attachments/F05KG4FS0LB-제1회 에듀테크 데이터 분석 경진 대회 신청서.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05KG4FS0LB/___1_________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05KG4FS0LB-5e753d22b4",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05KG7QGXEE",
+        "created": 1690788408,
+        "timestamp": 1690788408,
+        "name": "제1회 에듀테크 데이터 분석 경진 대회 개최 포스터.jpg",
+        "title": "제1회 에듀테크 데이터 분석 경진 대회 개최 포스터.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 1571636,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05KG7QGXEE-제1회 에듀테크 데이터 분석 경진 대회 개최 포스터.jpg",
+        "url_private_download": "attachments/F05KG7QGXEE-제1회 에듀테크 데이터 분석 경진 대회 개최 포스터.jpg",
+        "original_h": 3543,
+        "original_w": 2657,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05KG7QGXEE-1e41101345/___1_________________________________________________________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05KG7QGXEE-1e41101345/___1_________________________________________________________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05KG7QGXEE-1e41101345/___1_________________________________________________________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05KG7QGXEE-1e41101345/___1_________________________________________________________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05KG7QGXEE-1e41101345/___1_________________________________________________________________480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05KG7QGXEE-1e41101345/___1_________________________________________________________________720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05KG7QGXEE-1e41101345/___1_________________________________________________________________960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05KG7QGXEE-1e41101345/___1_________________________________________________________________1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05KG7QGXEE/___1________________________________________________________________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05KG7QGXEE-813f503ac2",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Co6r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c제1회 에듀테크 데이터 분석 경진대회\u003e 개최 안내\n\n이러닝학회에서 2023년 제1회 에듀테크 데이터 분석 경진대회를 다음과 같이 개최함을 알려와 안내하오니, 학생 여러분께서는 참고하시기 바랍니다.\n\n   가. 주제 : 제시된 분야 내 자유 주제\n       - 제1분야: 에듀테크 학습분석\n       - 제2분야: 메타버스 활용 수업 사례\n\n   나. 신청 : 첨부된 신청서를 이메일("
+              },
+              {
+                "type": "link",
+                "url": "mailto:s4edtech@naver.com",
+                "text": "s4edtech@naver.com"
+              },
+              {
+                "type": "text",
+                "text": ")로 제출\n\n   다. 일정 :\n       - 참가 접수 : 07. 10. ~ 09. 01.\n       - 포스터 제출 : 09. 04. ~ 09. 15.\n       - 포스터 발표 및 시상식(서울 코엑스) : 09. 23.\n\n   라. 문의처 : 이러닝학회 사무국\n       - 사무국장 이영준("
+              },
+              {
+                "type": "link",
+                "url": "mailto:s4edtech@naver.com",
+                "text": "s4edtech@naver.com"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

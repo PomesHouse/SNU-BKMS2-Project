@@ -1,0 +1,231 @@
+[
+  {
+    "client_msg_id": "0208d6d5-f280-46a6-911e-d456e98e46fc",
+    "type": "message",
+    "user": "U01Q1KFN4JK",
+    "text": "*[2022학년도 2학기 중복수강신청]*\n\n이미 알고 계신 분들도 많겠지만, 해당 정보가 필요하신 분들도 있을 것 같아 남깁니다.\n\n예컨대, 우리 대학원의 경우에는 데이터 사이언스 세미나를 최소 2번에서 3번 이상 들어야 하는데요.\n\n세미나 시간대가 화요일과 수요일에 걸쳐 있어서 다른 수업과 중복되는 경우가 생길 수 있습니다.\n\n본부에서는 이러한 경우를 대비하여 중복수강신청 제도를 운영하고 있으니\n\n본인의 시간표를 살펴보시고 중복수강을 신청하실 분은\n\n*오늘 수강신청 마감기한까지 한 과목을 수강신청 사이트에서 신청하신 뒤에* \n\n*2차 신청 마감기간인 9월13일(화)까지* \n\n*중복되는 다른 한 과목과 이미 신청한 과목의 담당교수님의 허락을 모두 얻어*\n\n*아래 주소에 들어가셔서 양식을 제출하시면 됩니다.* \n(\u003chttps://docs.google.com/forms/d/e/1FAIpQLSfSnCvERub4fuff6SI5QBRBpUDO_t9JRDGz_fDJhMJ3Lopgew/viewform\u003e)\n\n*중복 수강 신청 이후의 반영 결과는 장지원 주무관(02-880-5042)를 통해 확인하실 수 있습니다.*\n(\u003chttps://www.snu.ac.kr/about/overview/organization/academic_office/student\u003e)\n\n\n\n\n*단, 이 글은 참고용일 뿐, 중복 수강 신청은 필수가 아닌 해당되는 경우에 한하는 선택사항이오니 본인의 시간표를 고려하셔서 직접 판단하시고 선택하시길 바랍니다.*\n\n\n다들 이번학기도 화이팅하시고, 추석 명절도 잘 보내시길 바랍니다!",
+    "ts": "1662533614.564529",
+    "thread_ts": "1662533614.564529",
+    "edited": {
+      "user": "U01Q1KFN4JK",
+      "ts": "1662533684.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U01QNMUAUKW",
+        "ts": "1662554609.615129"
+      }
+    ],
+    "latest_reply": "1662554609.615129",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pray",
+        "count": 11,
+        "users": [
+          "U01PVETV83H",
+          "U01QGJUT403",
+          "U01QV1WAPL1",
+          "U01QGKCT067",
+          "U02UQ4CHX3P",
+          "U01QNHRHY0L",
+          "U01QNMUAUKW",
+          "U02UQ4D8L2Z",
+          "U0302PHUHME",
+          "U01QV1SQJ57",
+          "U02P4QDPG2W"
+        ]
+      },
+      {
+        "name": "heart",
+        "count": 4,
+        "users": [
+          "U01PVETV83H",
+          "U01R719DKK2",
+          "U0302PLQ34Y",
+          "U02P4QDPG2W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tGad",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[2022학년도 2학기 중복수강신청]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n이미 알고 계신 분들도 많겠지만, 해당 정보가 필요하신 분들도 있을 것 같아 남깁니다.\n\n예컨대, 우리 대학원의 경우에는 데이터 사이언스 세미나를 최소 2번에서 3번 이상 들어야 하는데요.\n\n세미나 시간대가 화요일과 수요일에 걸쳐 있어서 다른 수업과 중복되는 경우가 생길 수 있습니다.\n\n본부에서는 이러한 경우를 대비하여 중복수강신청 제도를 운영하고 있으니\n\n본인의 시간표를 살펴보시고 중복수강을 신청하실 분은\n\n"
+              },
+              {
+                "type": "text",
+                "text": "오늘 수강신청 마감기한까지 한 과목을 수강신청 사이트에서 신청하신 뒤에 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "2차 신청 마감기간인 9월13일(화)까지 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "중복되는 다른 한 과목과 이미 신청한 과목의 담당교수님의 허락을 모두 얻어",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "아래 주소에 들어가셔서 양식을 제출하시면 됩니다. ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n("
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/forms/d/e/1FAIpQLSfSnCvERub4fuff6SI5QBRBpUDO_t9JRDGz_fDJhMJ3Lopgew/viewform",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ")\n\n"
+              },
+              {
+                "type": "text",
+                "text": "중복 수강 신청 이후의 반영 결과는 장지원 주무관(02-880-5042)를 통해 확인하실 수 있습니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n("
+              },
+              {
+                "type": "link",
+                "url": "https://www.snu.ac.kr/about/overview/organization/academic_office/student",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": ")\n\n\n\n\n"
+              },
+              {
+                "type": "text",
+                "text": "단, 이 글은 참고용일 뿐, 중복 수강 신청은 필수가 아닌 해당되는 경우에 한하는 선택사항이오니 본인의 시간표를 고려하셔서 직접 판단하시고 선택하시길 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n다들 이번학기도 화이팅하시고, 추석 명절도 잘 보내시길 바랍니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/9cc2586c0459aa48f0ae339bb25f0663.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "고의천",
+      "real_name": "고의천",
+      "display_name": "2기_고의천",
+      "team": "T01QA5S537V",
+      "name": "hskoh87",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U01QNMUAUKW"
+    ]
+  },
+  {
+    "client_msg_id": "5f82883c-c6ab-4a78-8bc3-ae65dd5e8ab4",
+    "type": "message",
+    "user": "U01QNMUAUKW",
+    "text": "추석 잘보내세요~~",
+    "ts": "1662554609.615129",
+    "thread_ts": "1662533614.564529",
+    "parent_user_id": "U01Q1KFN4JK",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2=g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "추석 잘보내세요~~"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/2b1495435b2113be4f58e565cb3a27ae.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-72.png",
+      "first_name": "",
+      "real_name": "2기_김도균",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "dokyunkim",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

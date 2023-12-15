@@ -1,0 +1,45 @@
+[
+  {
+    "client_msg_id": "2062f8d0-1edd-4dd5-9c36-389cda779d0f",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "1. 신청대상에 해당하시면 3기 학생들도 대상입니다.\n2. 다음 학기에 신청할 경우, 이번학기에 프로포절 하지 않고 다음학기에 논문심사 신청하는 절차로 진행하셔도 괜찮습니다.",
+    "ts": "1681948512.111689",
+    "thread_ts": "1681689735.410789",
+    "parent_user_id": "U01QNJ7PWRX",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yFZY",
+        "elements": [
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc2e0\\uccad\\ub300\\uc0c1\\uc5d0 \\ud574\\ub2f9\\ud558\\uc2dc\\uba74 3\\uae30 \\ud559\\uc0dd\\ub4e4\\ub3c4 \\ub300\\uc0c1\\uc785\\ub2c8\\ub2e4.\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ub2e4\\uc74c \\ud559\\uae30\\uc5d0 \\uc2e0\\uccad\\ud560 \\uacbd\\uc6b0, \\uc774\\ubc88\\ud559\\uae30\\uc5d0 \\ud504\\ub85c\\ud3ec\\uc808 \\ud558\\uc9c0 \\uc54a\\uace0 \\ub2e4\\uc74c\\ud559\\uae30\\uc5d0 \\ub17c\\ubb38\\uc2ec\\uc0ac \\uc2e0\\uccad\\ud558\\ub294 \\uc808\\ucc28\\ub85c \\uc9c4\\ud589\\ud558\\uc154\\ub3c4 \\uad1c\\ucc2e\\uc2b5\\ub2c8\\ub2e4.\"}]}],\"style\":\"ordered\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

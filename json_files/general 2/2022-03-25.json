@@ -1,0 +1,174 @@
+[
+  {
+    "client_msg_id": "4687e524-9675-4ca8-9909-eb2742fee33d",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022년 1학기 안전환경 신규교육(온라인강좌) 추가 실시 안내\u0026gt;\n\n※ 본 교육은 정기교육이 아닌 신규교육입니다. 신규교육을 이수 했다면 수강할 필요 없습니다.\n※ 더 이상 추가 교육 없음\n\n이번 신규교육 온라인강좌 이수에 있어 *i)교육 신청을 못하였거나* *ii)온라인강좌 수강을 하더라도 수강 기간 내 이수(학습완료) 하지 못한 경우*에 대해서 아래와 같이 신규교육 추가로 실시 하고자 합니다.\n\n *가.* 교육 신청 방법\n - *(경우1)* 2월에 교육 미 신청자 =\u0026gt; 이메일 \u003cmailto:seungchul91@snu.ac.kr|seungchul91@snu.ac.kr\u003e 로 성명, 포탈아이디, 학번, 연락처 발송 (*3월 28일(월), 14:00*까지 시간엄수)\n - *(경우2)* 온라인강좌 수강기간 내 미이수자 =\u0026gt; 별도의 신청이 필요 없음 *(경우2)에 해당 하는자는 새로이 온라인(강좌)교육 수강이 아니고, 기존 개설강좌로 들어가 마지막에 마친 부분부터 이어서 수강하시면 됩니다.*  \n\n *나.* 수강 기간(경우 1, 2 동일): *2022.03.29.(화) ~ 2022.04.01.(금)*\n *다.* 최종 신규교육 이수증 발급: *4월 3주*",
+    "ts": "1648187094.415399",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vh1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022년 1학기 안전환경 신규교육(온라인강좌) 추가 실시 안내\u003e\n\n※ 본 교육은 정기교육이 아닌 신규교육입니다. 신규교육을 이수 했다면 수강할 필요 없습니다.\n※ 더 이상 추가 교육 없음\n\n이번 신규교육 온라인강좌 이수에 있어"
+              },
+              {
+                "type": "text",
+                "text": " i)교육 신청을 못하였거나",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "ii)온라인강좌 수강을 하더라도 수강 기간 내 이수(학습완료) 하지 못한 경우",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "에 대해서 아래와 같이 신규교육 추가로 실시 하고자 합니다.\n\n "
+              },
+              {
+                "type": "text",
+                "text": "가.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 교육 신청 방법\n - "
+              },
+              {
+                "type": "text",
+                "text": "(경우1)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 2월에 교육 미 신청자 =\u003e 이메일 "
+              },
+              {
+                "type": "link",
+                "url": "mailto:seungchul91@snu.ac.kr",
+                "text": "seungchul91@snu.ac.kr"
+              },
+              {
+                "type": "text",
+                "text": " 로 성명, 포탈아이디, 학번, 연락처 발송 ("
+              },
+              {
+                "type": "text",
+                "text": "3월 28일(월), 14:00",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "까지 시간엄수)\n - "
+              },
+              {
+                "type": "text",
+                "text": "(경우2) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "온라인강좌 수강기간 내 미이수자 =\u003e 별도의 신청이 필요 없음 "
+              },
+              {
+                "type": "text",
+                "text": "(경우2)에 해당 하는자는 새로이 온라인(강좌)교육 수강이 아니고, 기존 개설강좌로 들어가 마지막에 마친 부분부터 이어서 수강하시면 됩니다.  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n "
+              },
+              {
+                "type": "text",
+                "text": "나.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 수강 기간(경우 1, 2 동일): "
+              },
+              {
+                "type": "text",
+                "text": "2022.03.29.(화) ~ 2022.04.01.(금)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": " 다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " 최종 신규교육 이수증 발급: "
+              },
+              {
+                "type": "text",
+                "text": "4월 3주",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

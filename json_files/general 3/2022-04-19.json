@@ -1,0 +1,153 @@
+[
+  {
+    "client_msg_id": "3449fb45-70bd-4087-9a93-2e493c85d7bc",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e *제10회 산업통상자원부 공공데이터활용 공모전(공공데이터활용 BI 공모전) 안내*\n\n산업통상자원부에서 주최하고 한국전력공사에서 주관하는 제10회 산업통상자원부 공공데이터활용 공모전에 대해 안내드리오니 관심있는 학생 여러분의 많은 지원바랍니다.\n\n\u0026lt;대회 개요\u0026gt;\n• 기간: 2022. 4. 11. ~ 7. 3. (84일간)\n• 주최/주관: 산업통상자원부/한국전력공사(KOTRA 등 15개사 후원)\n• 공모부문: 1. 아이디어 기획 2. 제품 및 서비스 개발 3. 빅데이터 분석\n• 포상규모: 장관상 3점, 기관장상 25점, 상금 111백만원\n• 접수방법: 공모전 홈페이지(\u003chttp://www.datacontest.kr/\u003e) 온라인 접수\n• 문의: \u003ctel:07046524252|070-4652-4252\u003e, \u003cmailto:help@datacontest.kr|help@datacontest.kr\u003e\n* 2019년도부터 한전이 주관해 온 \"전력데이터 활용 신서비스 개발 경진대회\"가 금년부터 \"공공데이터활용 비즈니스아이디어 공모전\"으로 통합하여 운영",
+    "ts": "1650344565.126789",
+    "attachments": [
+      {
+        "fallback": "제10회 산업통상자원부 공공데이터 활용 BI 공모전",
+        "id": 1,
+        "title": "제10회 산업통상자원부 공공데이터 활용 BI 공모전",
+        "title_link": "http://www.datacontest.kr/",
+        "text": "산업통상자원부 공공데이터 활용 BI 공모전, 공모요강, 접수하기 정보 제공",
+        "thumb_url": "http://www.datacontest.kr/myimg.png",
+        "service_name": "datacontest.kr",
+        "from_url": "http://www.datacontest.kr/",
+        "original_url": "http://www.datacontest.kr/",
+        "blocks": null
+      }
+    ],
+    "files": [
+      {
+        "id": "F03CB9XUFCZ",
+        "created": 1650344555,
+        "timestamp": 1650344555,
+        "name": "데이터활용 공모전 포스터.jpg",
+        "title": "데이터활용 공모전 포스터.jpg",
+        "mimetype": "image/jpeg",
+        "image_exif_rotation": 0,
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 4577925,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F03CB9XUFCZ-데이터활용 공모전 포스터.jpg",
+        "url_private_download": "attachments/F03CB9XUFCZ-데이터활용 공모전 포스터.jpg",
+        "original_h": 4961,
+        "original_w": 3508,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F03CB9XUFCZ-fbb8db8a99/____________________________________64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F03CB9XUFCZ-fbb8db8a99/____________________________________80.jpg",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F03CB9XUFCZ-fbb8db8a99/____________________________________160.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F03CB9XUFCZ-fbb8db8a99/____________________________________360.jpg",
+        "thumb_360_gif": "",
+        "thumb_360_w": 255,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F03CB9XUFCZ-fbb8db8a99/____________________________________480.jpg",
+        "thumb_480_w": 339,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F03CB9XUFCZ-fbb8db8a99/____________________________________720.jpg",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F03CB9XUFCZ-fbb8db8a99/____________________________________960.jpg",
+        "thumb_960_w": 679,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F03CB9XUFCZ-fbb8db8a99/____________________________________1024.jpg",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F03CB9XUFCZ/___________________________________.jpg",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F03CB9XUFCZ-683efd91cb",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dAm4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "제10회 산업통상자원부 공공데이터활용 공모전(공공데이터활용 BI 공모전) 안내",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n산업통상자원부에서 주최하고 한국전력공사에서 주관하는 제10회 산업통상자원부 공공데이터활용 공모전에 대해 안내드리오니 관심있는 학생 여러분의 많은 지원바랍니다.\n\n\u003c대회 개요\u003e\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uae30\\uac04: 2022. 4. 11. ~ 7. 3. (84\\uc77c\\uac04)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc8fc\\ucd5c\\/\\uc8fc\\uad00: \\uc0b0\\uc5c5\\ud1b5\\uc0c1\\uc790\\uc6d0\\ubd80\\/\\ud55c\\uad6d\\uc804\\ub825\\uacf5\\uc0ac(KOTRA \\ub4f1 15\\uac1c\\uc0ac \\ud6c4\\uc6d0)\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uacf5\\ubaa8\\ubd80\\ubb38: 1. \\uc544\\uc774\\ub514\\uc5b4 \\uae30\\ud68d 2. \\uc81c\\ud488 \\ubc0f \\uc11c\\ube44\\uc2a4 \\uac1c\\ubc1c 3. \\ube45\\ub370\\uc774\\ud130 \\ubd84\\uc11d\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ud3ec\\uc0c1\\uaddc\\ubaa8: \\uc7a5\\uad00\\uc0c1 3\\uc810, \\uae30\\uad00\\uc7a5\\uc0c1 25\\uc810, \\uc0c1\\uae08 111\\ubc31\\ub9cc\\uc6d0\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc218\\ubc29\\ubc95: \\uacf5\\ubaa8\\uc804 \\ud648\\ud398\\uc774\\uc9c0(\"},{\"type\":\"link\",\"url\":\"http:\\/\\/www.datacontest.kr\\/\"},{\"type\":\"text\",\"text\":\") \\uc628\\ub77c\\uc778 \\uc811\\uc218\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubb38\\uc758: \"},{\"type\":\"link\",\"url\":\"tel:07046524252\",\"text\":\"070-4652-4252\"},{\"type\":\"text\",\"text\":\", \"},{\"type\":\"link\",\"url\":\"mailto:help@datacontest.kr\",\"text\":\"help@datacontest.kr\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "* 2019년도부터 한전이 주관해 온 \"전력데이터 활용 신서비스 개발 경진대회\"가 금년부터 \"공공데이터활용 비즈니스아이디어 공모전\"으로 통합하여 운영"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

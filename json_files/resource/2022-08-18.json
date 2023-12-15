@@ -1,0 +1,91 @@
+[
+  {
+    "client_msg_id": "1288ab1e-64eb-4d4a-a5a3-4b466d65d211",
+    "type": "message",
+    "user": "U01PVETV83H",
+    "text": "*[Ethical Implication of AI: Assessing Trustworthy AI in Practice]*\n\nThe max. number of seats is now 40 on the course registration website.\n*Course Website*: \u003chttp://z-inspection.org/ethical-implication-of-ai-assessing-trustworthy-ai-in-practice/\u003e\n*Course Intro*: \u003chttp://z-inspection.org/wp-content/uploads/2022/08/Zicari.SNUAIEthicsCourse.2022.pdf\u003e",
+    "ts": "1660788406.059279",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lq32",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[Ethical Implication of AI: Assessing Trustworthy AI in Practice]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\nThe max. number of seats is now 40 on the course registration website.\n"
+              },
+              {
+                "type": "text",
+                "text": "Course Website",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": "
+              },
+              {
+                "type": "link",
+                "url": "http://z-inspection.org/ethical-implication-of-ai-assessing-trustworthy-ai-in-practice/",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Course Intro",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": "
+              },
+              {
+                "type": "link",
+                "url": "http://z-inspection.org/wp-content/uploads/2022/08/Zicari.SNUAIEthicsCourse.2022.pdf",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-05/1832466060148_1534da1d255f371f185a_72.png",
+      "first_name": "James",
+      "real_name": "James Chang",
+      "display_name": "1기_장재원",
+      "team": "T01QA5S537V",
+      "name": "jaewon415",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

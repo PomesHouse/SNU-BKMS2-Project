@@ -1,0 +1,151 @@
+[
+  {
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u003c!channel\u003e  *[긴급공지] 얀센백신 자율접종 관련*\n*서울대학교 구성원(학생, 교원, 직원 등) 30세 이상(1991.12.31.이전 출생자) 얀센 백신 접종에 동의하여 희망하시는 학생분들은 2021.8.23. 오전 11:00까지 DM부탁 드립니다.*\n*DM 양식: 주민등록번호 / 성명 / 휴대전화번호 / SMS수신 동의여부 (Y/N)* \n• 접종횟수: 1회접종 완료\n• 접종기관: 관악구 보건소 및 관악구 위탁의료기관 10개소\n• 접종일: 2021.8.30.(월) ~ 예정시까지",
+    "ts": "1629446661.031200",
+    "files": [
+      {
+        "id": "F02CHL3RX96",
+        "created": 1629446607,
+        "timestamp": 1629446607,
+        "name": "[공문] 얀센백신 자율접종 명단 제출 요청.pdf",
+        "title": "[공문] 얀센백신 자율접종 명단 제출 요청.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 189909,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02CHL3RX96-[공문] 얀센백신 자율접종 명단 제출 요청.pdf",
+        "url_private_download": "attachments/F02CHL3RX96-[공문] 얀센백신 자율접종 명단 제출 요청.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02CHL3RX96/_______________________________________________________.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02CHL3RX96-2f9696d33f",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Lw9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": " [긴급공지] 얀센백신 자율접종 관련",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "서울대학교 구성원(학생, 교원, 직원 등) 30세 이상(1991.12.31.이전 출생자) 얀센 백신 접종에 동의하여 희망하시는 학생분들은 2021.8.23. 오전 11:00까지 DM부탁 드립니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "DM 양식: 주민등록번호 / 성명 / 휴대전화번호 / SMS수신 동의여부 (Y/N) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc885\\ud69f\\uc218: 1\\ud68c\\uc811\\uc885 \\uc644\\ub8cc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc885\\uae30\\uad00: \\uad00\\uc545\\uad6c \\ubcf4\\uac74\\uc18c \\ubc0f \\uad00\\uc545\\uad6c \\uc704\\ud0c1\\uc758\\ub8cc\\uae30\\uad00 10\\uac1c\\uc18c\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc811\\uc885\\uc77c: 2021.8.30.(\\uc6d4) ~ \\uc608\\uc815\\uc2dc\\uae4c\\uc9c0\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

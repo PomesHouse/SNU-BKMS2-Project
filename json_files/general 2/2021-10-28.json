@@ -1,0 +1,552 @@
+[
+  {
+    "client_msg_id": "4c789006-1d52-486a-9bb2-f93aacd0ba49",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;제49회 관악학생생활관 콜로키움 강연 안내\u0026gt;*\n\n 서울대학교 관악학생생활관에서는 학생들이 현 사회와 시대의 흐름을 올바르게 파악하고 교양 전반에 대한 폭넓은 이해를 도모할 수 있도록 매 학기 콜로키움을 주최하고 있습니다. 현재 사회 다방면에서 활동하고 계신 분들과 미래를 준비하는 학생들이 공감대를 형성하는 의미있는 자리에 관심있는 분들의 많은 참여 바랍니다 :slightly_smiling_face:\n1. 행사 개요\n  가. 행사명: 제49회 관악학생생활관 콜로키움\n  나. 대 상: 관악학생생활관 입주자 및 학내 구성원\n  다. 일 시: 2021. 11. 9(화) 20:00 ~ 21:30\n  라. 장 소: 관악학생생활관 900동 지하2층 가온홀, 유튜브 라이브\n  마. 연 사: 정상훈 국경없는의사회 활동가\n  바. 주 제:「코로나19가 드러낸 세계 - 갈라진 세상은 왜 위험한가?」\n\n2. 참석 및 문의방법\n  가. 포스터의 QR 코드를 통하여 참가, 강연 30분 전부터 입장 가능\n  나. 세부내용: 관악학생생활관 홈페이지(\u003chttps://snudorm.snu.ac.kr/)에서\u003e 확인 가능\n  다. 문의: 담당 조교의 이메일(\u003cmailto:snudorm123@gmail.com|snudorm123@gmail.com\u003e)로 연락",
+    "ts": "1635383176.024200",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YUFiv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c제49회 관악학생생활관 콜로키움 강연 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n 서울대학교 관악학생생활관에서는 학생들이 현 사회와 시대의 흐름을 올바르게 파악하고 교양 전반에 대한 폭넓은 이해를 도모할 수 있도록 매 학기 콜로키움을 주최하고 있습니다. 현재 사회 다방면에서 활동하고 계신 분들과 미래를 준비하는 학생들이 공감대를 형성하는 의미있는 자리에 관심있는 분들의 많은 참여 바랍니다 "
+              },
+              {
+                "type": "emoji",
+                "name": "slightly_smiling_face",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n1. 행사 개요\n  가. 행사명: 제49회 관악학생생활관 콜로키움\n  나. 대 상: 관악학생생활관 입주자 및 학내 구성원\n  다. 일 시: 2021. 11. 9(화) 20:00 ~ 21:30\n  라. 장 소: 관악학생생활관 900동 지하2층 가온홀, 유튜브 라이브\n  마. 연 사: 정상훈 국경없는의사회 활동가\n  바. 주 제:「코로나19가 드러낸 세계 - 갈라진 세상은 왜 위험한가?」\n\n2. 참석 및 문의방법\n  가. 포스터의 QR 코드를 통하여 참가, 강연 30분 전부터 입장 가능\n  나. 세부내용: 관악학생생활관 홈페이지("
+              },
+              {
+                "type": "link",
+                "url": "https://snudorm.snu.ac.kr/)에서",
+                "text": ""
+              },
+              {
+                "type": "text",
+                "text": " 확인 가능\n  다. 문의: 담당 조교의 이메일("
+              },
+              {
+                "type": "link",
+                "url": "mailto:snudorm123@gmail.com",
+                "text": "snudorm123@gmail.com"
+              },
+              {
+                "type": "text",
+                "text": ")로 연락"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a3c10fd8-e1eb-45a0-bbcf-dd7d87537272",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "[혁신공유대학 에너지신산업 분야] 2021학년도 강원대학교 동계 계절수업 교류 수학 안내\n\n*「디지털 혁신공유대학 사업 에너지신산업 분야」*강원대학교 2021학년도 동계 계절수업 교류 수학을 붙임과 같이 안내하오니, 관심있는 학생분들께서는 신청서를 작성하시어 행정실로 제출하시기 바랍니다.\n\n\n  가. 수업기간: 2021.12.27.(월) ~ 2022.01.14.(금) (3주간, 15일간)(토요일 및 공휴일 제외)\n  나. 추천기한: *2021. 10. 29.(금) 17:00까지* \n*[개인정보 수집 안내]*\n*○ 관련근거 : 교육기본법 제16조 제2항, 고등교육법시행령 제73조 제2항, 개인정보보호법 제15조 제1항*\n   - 개인정보 수집․이용 목적 : 대학간 학술교류협정에 따른 타대학생 학적 생성 기초자료 수집\n   - 개인정보 수집 항목 : 소속대학, 학과, 학번, 성명, 주민등록번호, 이메일주소, 연락처\n   - 개인정보 보유 및 이용기간 : 교육기본법 제23조의 3(학생정보의 보호원칙) 적용\n  다. 신청 방법: 학생이 온라인 신청([붙임3] 매뉴얼 참조) 후 소속 학과(부)에 제출",
+    "ts": "1635386531.024900",
+    "files": [
+      {
+        "id": "F02KPT8RUAD",
+        "created": 1635386526,
+        "timestamp": 1635386526,
+        "name": "붙임3) 국내교류(OUT)신청매뉴얼_학생용-복사.pdf",
+        "title": "붙임3) 국내교류(OUT)신청매뉴얼_학생용-복사.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 412692,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02KPT8RUAD-붙임3) 국내교류(OUT)신청매뉴얼_학생용-복사.pdf",
+        "url_private_download": "attachments/F02KPT8RUAD-붙임3) 국내교류(OUT)신청매뉴얼_학생용-복사.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02KPT8RUAD/______3_______________out__________________________-______.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02KPT8RUAD-3f64de66a8",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F02L0V7HV0Q",
+        "created": 1635386529,
+        "timestamp": 1635386529,
+        "name": "붙임1) 2021학년도 동계 강원대학교 계절수업 교류수학 안내.hwp",
+        "title": "붙임1) 2021학년도 동계 강원대학교 계절수업 교류수학 안내.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 74240,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02L0V7HV0Q-붙임1) 2021학년도 동계 강원대학교 계절수업 교류수학 안내.hwp",
+        "url_private_download": "attachments/F02L0V7HV0Q-붙임1) 2021학년도 동계 강원대학교 계절수업 교류수학 안내.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02L0V7HV0Q/______1__2021_________________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02L0V7HV0Q-19ab96a688",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sdG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[혁신공유대학 에너지신산업 분야] 2021학년도 강원대학교 동계 계절수업 교류 수학 안내\n\n"
+              },
+              {
+                "type": "text",
+                "text": "「디지털 혁신공유대학 사업 에너지신산업 분야」",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "강원대학교 2021학년도 동계 계절수업 교류 수학을 붙임과 같이 안내하오니, 관심있는 학생분들께서는 신청서를 작성하시어 행정실로 제출하시기 바랍니다.\n\n\n  가. 수업기간: 2021.12.27.(월) ~ 2022.01.14.(금) (3주간, 15일간)(토요일 및 공휴일 제외)\n  나. 추천기한: "
+              },
+              {
+                "type": "text",
+                "text": "2021. 10. 29.(금) 17:00까지 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "[개인정보 수집 안내]",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "○ 관련근거 : 교육기본법 제16조 제2항, 고등교육법시행령 제73조 제2항, 개인정보보호법 제15조 제1항",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n   - 개인정보 수집․이용 목적 : 대학간 학술교류협정에 따른 타대학생 학적 생성 기초자료 수집\n   - 개인정보 수집 항목 : 소속대학, 학과, 학번, 성명, 주민등록번호, 이메일주소, 연락처\n   - 개인정보 보유 및 이용기간 : 교육기본법 제23조의 3(학생정보의 보호원칙) 적용\n  다. 신청 방법: 학생이 온라인 신청([붙임3] 매뉴얼 참조) 후 소속 학과(부)에 제출"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "210546ae-8c22-498b-b61a-40415ca52630",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "[디지털혁신공유대학사업 차세대반도체분야] 2021학년도 강원대학교 동계 계절수업 교류 수학 안내\n\n*디지털 혁신공유대학 사업 차세대반도체 분야*」강원대학교 2021학년도 동계 계절수업 교류 수학을 붙임과 같이 안내하오니,  관심있는 학생분들께서는 신청서를 작성하시어 행정실로 제출하시기 바랍니다.\n\n\n  가. 수업기간: 2021. 12. 27.(월) ~ 2022. 01. 14.(금) (3주, 15일간)(토요일 및 공휴일 제외)\n  나. 추천기한: *2021. 10. 29.(금) 17:00까지* \n  다. 신청 방법: 학생이 온라인 신청([붙임3] 매뉴얼 참조) 후 소속 학과(부)에 제출",
+    "ts": "1635386701.025400",
+    "files": [
+      {
+        "id": "F02JWK39PLP",
+        "created": 1635386693,
+        "timestamp": 1635386693,
+        "name": "(붙임4) 국내교류(OUT)신청매뉴얼_학생용(서울대학교)-복사.pdf",
+        "title": "(붙임4) 국내교류(OUT)신청매뉴얼_학생용(서울대학교)-복사.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 412228,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02JWK39PLP-(붙임4) 국내교류(OUT)신청매뉴얼_학생용(서울대학교)-복사.pdf",
+        "url_private_download": "attachments/F02JWK39PLP-(붙임4) 국내교류(OUT)신청매뉴얼_학생용(서울대학교)-복사.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02JWK39PLP/_______4_______________out___________________________________________-______.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02JWK39PLP-a54a581744",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F02KDFVUK44",
+        "created": 1635386696,
+        "timestamp": 1635386696,
+        "name": "(붙임2) 2021학년도 동계 계절수업 강의계획서_논리회로(강원대학교)-복사.pdf",
+        "title": "(붙임2) 2021학년도 동계 계절수업 강의계획서_논리회로(강원대학교)-복사.pdf",
+        "mimetype": "application/pdf",
+        "image_exif_rotation": 0,
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 130561,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02KDFVUK44-(붙임2) 2021학년도 동계 계절수업 강의계획서_논리회로(강원대학교)-복사.pdf",
+        "url_private_download": "attachments/F02KDFVUK44-(붙임2) 2021학년도 동계 계절수업 강의계획서_논리회로(강원대학교)-복사.pdf",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02KDFVUK44/_______2__2021___________________________________________________________________________-______.pdf",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02KDFVUK44-680c74eba0",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F02KB9Y5PPV",
+        "created": 1635386699,
+        "timestamp": 1635386699,
+        "name": "(붙임1) 2021학년도 동계 강원대학교 계절수업 교류수학 안내.hwp",
+        "title": "(붙임1) 2021학년도 동계 강원대학교 계절수업 교류수학 안내.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 74240,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F02KB9Y5PPV-(붙임1) 2021학년도 동계 강원대학교 계절수업 교류수학 안내.hwp",
+        "url_private_download": "attachments/F02KB9Y5PPV-(붙임1) 2021학년도 동계 강원대학교 계절수업 교류수학 안내.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F02KB9Y5PPV/_______1__2021_________________________________________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F02KB9Y5PPV-c0617447b9",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "84mwp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[디지털혁신공유대학사업 차세대반도체분야] 2021학년도 강원대학교 동계 계절수업 교류 수학 안내\n\n"
+              },
+              {
+                "type": "text",
+                "text": "디지털 혁신공유대학 사업 차세대반도체 분야",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "」강원대학교 2021학년도 동계 계절수업 교류 수학을 붙임과 같이 안내하오니,  관심있는 학생분들께서는 신청서를 작성하시어 행정실로 제출하시기 바랍니다.\n\n\n  가. 수업기간: 2021. 12. 27.(월) ~ 2022. 01. 14.(금) (3주, 15일간)(토요일 및 공휴일 제외)\n  나. 추천기한: "
+              },
+              {
+                "type": "text",
+                "text": "2021. 10. 29.(금) 17:00까지 ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n  다. 신청 방법: 학생이 온라인 신청([붙임3] 매뉴얼 참조) 후 소속 학과(부)에 제출"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

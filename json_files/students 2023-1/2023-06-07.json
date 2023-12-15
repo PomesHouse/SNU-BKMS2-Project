@@ -1,0 +1,408 @@
+[
+  {
+    "client_msg_id": "560d5946-be9e-400d-91f5-285b9adcc79e",
+    "type": "message",
+    "user": "U02V5LS84JV",
+    "text": "*[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar* :pizza:\n\n안녕하세요 GSDS 학생회 입니다.\n6월 9일 이번주 금요일에 피자 세미나가 진행됩니다.\n\n#############################################################\n• 일시: 6월 9일 금요일, 12시 30분 - 1시 30분\n• 장소: 942동 302호\n• 발표자 및 발표 주제: 조원국(김태섭 교수님 연구실), 이서영(이준석 교수님 연구실)\n#############################################################\n\n피자 수량 수요조사를 위해 *참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.*\n많은 참여 부탁드립니다!:party_blob-2:",
+    "ts": "1686131676.025019",
+    "thread_ts": "1686131676.025019",
+    "edited": {
+      "user": "U02V5LS84JV",
+      "ts": "1686133233.000000"
+    },
+    "reply_count": 1,
+    "replies": [
+      {
+        "user": "U02ULBH3TEJ",
+        "ts": "1686246077.669199"
+      }
+    ],
+    "latest_reply": "1686246077.669199",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "pizza",
+        "count": 35,
+        "users": [
+          "U02V5LS84JV",
+          "U01QA85T90A",
+          "U04R6NQRDK2",
+          "U01QV28F01X",
+          "U04QKG4QTS8",
+          "U02V5LTRU2V",
+          "U02UQ4CE0AH",
+          "U0302PJE83A",
+          "U02V5LTPGRX",
+          "U01R67PKD7S",
+          "U01QV1SQJ57",
+          "U01QNSM488Z",
+          "U02UQ4CMR7X",
+          "U02ULBH3TEJ",
+          "U04QE49RPV3",
+          "U04QKG4K12Q",
+          "U04QGUFBFR9",
+          "U01QAE5A9K5",
+          "U02UT1XUGFL",
+          "U02UT1YMCDQ",
+          "U0302PJRNTA",
+          "U04QE4ASJP7",
+          "U02UVATUSLU",
+          "U02UT2TFZ8B",
+          "U04QAE6FHV4",
+          "U02V5LRSE2V",
+          "U01Q1KQ03PZ",
+          "U04QGUD1CMR",
+          "U0302PL7F7S",
+          "U04RD26CJ5N",
+          "U04Q2G4KNTZ",
+          "U02UQ4BRJE9",
+          "U040C40QE6T",
+          "U040ZVD3C0H",
+          "U02C3D2T0BS"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ceapd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[GSDS 학생회] 금요일 피자 세미나 | Friday Pizza Seminar ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "pizza",
+                "skin_tone": 0,
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n안녕하세요 GSDS 학생회 입니다.\n6월 9일 이번주 금요일에 피자 세미나가 진행됩니다.\n\n#############################################################\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 6\\uc6d4 9\\uc77c \\uae08\\uc694\\uc77c, 12\\uc2dc 30\\ubd84 - 1\\uc2dc 30\\ubd84\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: 942\\ub3d9 302\\ud638\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\ubc1c\\ud45c\\uc790 \\ubc0f \\ubc1c\\ud45c \\uc8fc\\uc81c: \\uc870\\uc6d0\\uad6d(\\uae40\\ud0dc\\uc12d \\uad50\\uc218\\ub2d8 \\uc5f0\\uad6c\\uc2e4), \\uc774\\uc11c\\uc601(\\uc774\\uc900\\uc11d \\uad50\\uc218\\ub2d8 \\uc5f0\\uad6c\\uc2e4)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "#############################################################\n\n피자 수량 수요조사를 위해 "
+              },
+              {
+                "type": "text",
+                "text": "참여하실 분들은 피자 이모티콘을 눌러주시기 바랍니다.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n많은 참여 부탁드립니다!"
+              },
+              {
+                "type": "emoji",
+                "name": "party_blob-2",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/29cb1f72596c97242d862268a3baf61c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "이효진",
+      "real_name": "이효진",
+      "display_name": "3기_이효진",
+      "team": "T01QA5S537V",
+      "name": "sarahhyojin",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02ULBH3TEJ"
+    ]
+  },
+  {
+    "client_msg_id": "c669bcb6-7e45-4a80-8b46-b2b8b4101192",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "*[종강파티 수요조사]*\n\n• 일시: 6/23 금요일 오후 7시\n• 장소: 두꺼비 포차 예정\n안녕하세요 학생 여러분!\n\n이번학기 종강파티 일정이 나와 수요조사를 하게 되었습니다. 이번 학기에는 엠티에서 랩별소개를 진행했기 때문에, 이와 저녁식사를 생략하고 술\u0026amp;안주부터 행사를 진행합니다:beers:\n참고로 교수님들은 전원 참석 예정이시고 학생분들은 자유롭게 참석하셔도 됩니다!\n\n참여 의사가 있으신 분들은 :tada:축하 이모티콘:tada:을 눌러주시기 바랍니다. 그럼 남은 종강까지 모두 파이팅하시기 바랍니다!:woman-bowing:",
+    "ts": "1686137864.101369",
+    "thread_ts": "1686137864.101369",
+    "edited": {
+      "user": "U02ULBH3TEJ",
+      "ts": "1686140517.000000"
+    },
+    "reply_count": 2,
+    "replies": [
+      {
+        "user": "U02ULBH3TEJ",
+        "ts": "1686138281.889789"
+      },
+      {
+        "user": "U02ULBH3TEJ",
+        "ts": "1687510204.059919"
+      }
+    ],
+    "latest_reply": "1687510204.059919",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "tada",
+        "count": 39,
+        "users": [
+          "U04R6NQRDK2",
+          "U02V5LS84JV",
+          "U04QKG4UWRJ",
+          "U04QGUFBFR9",
+          "U04QAE84G5U",
+          "U04QGUDP4DR",
+          "U04QE4ASJP7",
+          "U04RD26CJ5N",
+          "U040ENLD4QN",
+          "U04Q2G465SB",
+          "U04Q2G35DTR",
+          "U04Q2G4KNTZ",
+          "U04R6NT660Y",
+          "U04QE496FTP",
+          "U0302PKMR6C",
+          "U04QKG4QTS8",
+          "U04QVM5RKNV",
+          "U04QGUD1CMR",
+          "U04QVM3TUD7",
+          "U04QE49GV45",
+          "U02V5LTRU2V",
+          "U02UCD2C9V5",
+          "U01Q1KFN4JK",
+          "U02UT1XUGFL",
+          "U04QVM5P6PK",
+          "U04R6NS3924",
+          "U04QH2E4V5Y",
+          "U04Q2G49KEK",
+          "U04QE49RPV3",
+          "U04QKG52VFE",
+          "U04QGUET9U3",
+          "U040ZVCNVU1",
+          "U04QE4A8UMT",
+          "U02ULBH3TEJ",
+          "U04Q2G5MLMD",
+          "U02UVASLMRS",
+          "U02UQ4CMR7X",
+          "U04QKG4K12Q",
+          "U04R6NRPJC8"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hGg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "[종강파티 수요조사]\n",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc77c\\uc2dc: 6\\/23 \\uae08\\uc694\\uc77c \\uc624\\ud6c4 7\\uc2dc\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc7a5\\uc18c: \\ub450\\uaebc\\ube44 \\ud3ec\\ucc28 \\uc608\\uc815\"}]}],\"style\":\"bullet\",\"indent\":0,\"offset\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n안녕하세요 학생 여러분!\n\n이번학기 종강파티 일정이 나와 수요조사를 하게 되었습니다. 이번 학기에는 엠티에서 랩별소개를 진행했기 때문에, 이와 저녁식사를 생략하고 술\u0026안주부터 행사를 진행합니다"
+              },
+              {
+                "type": "emoji",
+                "name": "beers",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "\n참고로 교수님들은 전원 참석 예정이시고 학생분들은 자유롭게 참석하셔도 됩니다!\n\n참여 의사가 있으신 분들은 "
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "축하 이모티콘"
+              },
+              {
+                "type": "emoji",
+                "name": "tada",
+                "skin_tone": 0
+              },
+              {
+                "type": "text",
+                "text": "을 눌러주시기 바랍니다. 그럼 남은 종강까지 모두 파이팅하시기 바랍니다!"
+              },
+              {
+                "type": "emoji",
+                "name": "woman-bowing",
+                "skin_tone": 0
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 1,
+    "reply_users": [
+      "U02ULBH3TEJ"
+    ]
+  },
+  {
+    "client_msg_id": "ec52f70c-2245-4cb2-9a30-2f30acfd2bb0",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "신입생 포함 전체 학생 대상입니다!",
+    "ts": "1686138281.889789",
+    "thread_ts": "1686137864.101369",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pzx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "신입생 포함 전체 학생 대상입니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "ec52f70c-2245-4cb2-9a30-2f30acfd2bb0",
+    "type": "message",
+    "user": "U02ULBH3TEJ",
+    "text": "신입생 포함 전체 학생 대상입니다!",
+    "ts": "1686138281.889789",
+    "thread_ts": "1686137864.101369",
+    "subtype": "thread_broadcast",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pzx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "신입생 포함 전체 학생 대상입니다!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/294cf661515ab6903397cbb09e4a97d9.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "3기_권유진",
+      "real_name": "3기_권유진",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "ideastraw",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

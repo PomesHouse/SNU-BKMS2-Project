@@ -1,0 +1,107 @@
+[
+  {
+    "client_msg_id": "d9314e14-3711-4eb9-b853-99d98e96e852",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "신청방법 안내가 잘못나갔습니다^^;; 죄송해요~ 지금은 수정되어있습니다. 구술시험 2개 신청하시면됩니다.",
+    "ts": "1621320698.000200",
+    "thread_ts": "1621225456.012100",
+    "parent_user_id": "U01PVETHKF1",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 1,
+        "users": [
+          "U01PVETHKF1"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yzr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "신청방법 안내가 잘못나갔습니다^^;; 죄송해요~ 지금은 수정되어있습니다. 구술시험 2개 신청하시면됩니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "c9131988-1049-4b18-ad8d-3beabcbe104c",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "영어권 대학에서 학사이상의 학위를 취득하여 입학시 영어시험면제된 경우에는 논문자격시험 외국어시험을 면제받을 수 있습니다.",
+    "ts": "1621321506.000500",
+    "thread_ts": "1621225917.016600",
+    "parent_user_id": "U01PVETPES3",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0x7t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "영어권 대학에서 학사이상의 학위를 취득하여 입학시 영어시험면제된 경우에는 논문자격시험 외국어시험을 면제받을 수 있습니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

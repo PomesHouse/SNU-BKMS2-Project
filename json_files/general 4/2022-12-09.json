@@ -1,0 +1,64 @@
+[
+  {
+    "client_msg_id": "9f92b68b-e9fa-4772-9c73-7e5fb05db564",
+    "type": "message",
+    "user": "U01QGG6A5LJ",
+    "text": "302호에 아메리카노 있습니다~ 챙겨가세요 :)",
+    "ts": "1670554252.893729",
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "coffee",
+        "count": 8,
+        "users": [
+          "U01PVEU1A07",
+          "U02UVAT3BPW",
+          "U01Q75KNV1T",
+          "U01QNSM488Z",
+          "U01QGJL6SP5",
+          "U040ENMBB1C",
+          "U01QV1WAPL1",
+          "U02V5LU4ED7"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jn1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "302호에 아메리카노 있습니다~ 챙겨가세요 :)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://avatars.slack-edge.com/2021-03-08/1845178163313_ec8016a9186a6e00037d_72.png",
+      "first_name": "2기_정석호",
+      "real_name": "2기_정석호",
+      "display_name": "2기_정석호",
+      "team": "T01QA5S537V",
+      "name": "seokho92",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

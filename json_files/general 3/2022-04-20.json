@@ -1,0 +1,76 @@
+[
+  {
+    "client_msg_id": "a18b8799-0e14-4edf-a1ea-8838805f1073",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u003c!channel\u003e \u0026lt;2022학년도 하계 계절수업 수강신청 안내\u0026gt;*\n\n2022학년도 하계 계절수업 수강신청 일정을 안내드리니  해당사항이 있는 분들께서는 일정 확인하시기 바랍니다.\n\n○예비수강신청 2022. 5. 2.(월) ∼ 5. 6.(금) (공휴일(5.5.(수)) 제외)\n○수강신청 2022. 5. 10.(화) ∼ 5. 17.(화) 토·일요일 제외\n○수강신청 변경 2022. 5. 23.(월) ∼ 5. 26.(목)\n○수업료 고지서 출력 및 납부 (1차) 2022. 5. 30.(월) ∼ 6. 3.(금) 지방선거일(6.1.(수)) 제외\n• 은행 수납 및 가상계좌 납부 미납 시 수강신청 자동 취소  (최종) 2022. 6. 8.(수) ∼ 6. 9.(목)\n○수강 취소 2022. 6. 15.(수) ∼ 6. 21.(화) 개강전, 수업료 전액 환불\n• 2022. 6. 22.(수) ∼ 7. 5.(화) 수업료 2/3 환불\n• 2022. 7. 6.(수) ∼ 7. 12.(화) 수업료 1/2 환불",
+    "ts": "1650445333.629719",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4RkCb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " \u003c2022학년도 하계 계절수업 수강신청 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n2022학년도 하계 계절수업 수강신청 일정을 안내드리니  해당사항이 있는 분들께서는 일정 확인하시기 바랍니다.\n\n○예비수강신청 2022. 5. 2.(월) ∼ 5. 6.(금) (공휴일(5.5.(수)) 제외)\n○수강신청 2022. 5. 10.(화) ∼ 5. 17.(화) 토·일요일 제외\n○수강신청 변경 2022. 5. 23.(월) ∼ 5. 26.(목)\n○수업료 고지서 출력 및 납부 (1차) 2022. 5. 30.(월) ∼ 6. 3.(금) 지방선거일(6.1.(수)) 제외\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc740\\ud589 \\uc218\\ub0a9 \\ubc0f \\uac00\\uc0c1\\uacc4\\uc88c \\ub0a9\\ubd80 \\ubbf8\\ub0a9 \\uc2dc \\uc218\\uac15\\uc2e0\\uccad \\uc790\\ub3d9 \\ucde8\\uc18c  (\\ucd5c\\uc885) 2022. 6. 8.(\\uc218) \\u223c 6. 9.(\\ubaa9)\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "○수강 취소 2022. 6. 15.(수) ∼ 6. 21.(화) 개강전, 수업료 전액 환불\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2022. 6. 22.(\\uc218) \\u223c 7. 5.(\\ud654) \\uc218\\uc5c5\\ub8cc 2\\/3 \\ud658\\ubd88\"}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"2022. 7. 6.(\\uc218) \\u223c 7. 12.(\\ud654) \\uc218\\uc5c5\\ub8cc 1\\/2 \\ud658\\ubd88\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

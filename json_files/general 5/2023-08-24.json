@@ -1,0 +1,63 @@
+[
+  {
+    "client_msg_id": "cb4460ca-bb99-48b6-8b0d-c7cfdcd50854",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;942동 건물 누수 보수 작업에 따른 협조 요청\u0026gt;*\n\n942동 건물 누수 보수 작업을 다음과 같이 실시하오니 학생 여러분께서는 협조하여 주시기 바랍니다.\n\nㅇ 작업일: 2023. 8. 25.(금)\nㅇ 작업 내용: 942동 건물 누수 보수 작업\nㅇ 협조 요청사항\n• 작업자가 건물 외벽을 로프를 타고 누수 부위 확인 및 보수 작업을 실시하므로 *건물 외벽 인근 통행 시 주의* \n• 건물 내 *창문으로 로프를 탄 작업자가 보이더라도 당황하지 않도록* 작업 사실 사전 숙지",
+    "ts": "1692850165.714949",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1692850469.000000"
+    },
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sVc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c942동 건물 누수 보수 작업에 따른 협조 요청\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n942동 건물 누수 보수 작업을 다음과 같이 실시하오니 학생 여러분께서는 협조하여 주시기 바랍니다.\n\nㅇ 작업일: 2023. 8. 25.(금)\nㅇ 작업 내용: 942동 건물 누수 보수 작업\nㅇ 협조 요청사항\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_list",
+            "Raw": "{\"type\":\"rich_text_list\",\"elements\":[{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uc791\\uc5c5\\uc790\\uac00 \\uac74\\ubb3c \\uc678\\ubcbd\\uc744 \\ub85c\\ud504\\ub97c \\ud0c0\\uace0 \\ub204\\uc218 \\ubd80\\uc704 \\ud655\\uc778 \\ubc0f \\ubcf4\\uc218 \\uc791\\uc5c5\\uc744 \\uc2e4\\uc2dc\\ud558\\ubbc0\\ub85c \"},{\"type\":\"text\",\"text\":\"\\uac74\\ubb3c \\uc678\\ubcbd \\uc778\\uadfc \\ud1b5\\ud589 \\uc2dc \\uc8fc\\uc758 \",\"style\":{\"bold\":true}}]},{\"type\":\"rich_text_section\",\"elements\":[{\"type\":\"text\",\"text\":\"\\uac74\\ubb3c \\ub0b4 \"},{\"type\":\"text\",\"text\":\"\\ucc3d\\ubb38\\uc73c\\ub85c \\ub85c\\ud504\\ub97c \\ud0c4 \\uc791\\uc5c5\\uc790\\uac00 \\ubcf4\\uc774\\ub354\\ub77c\\ub3c4 \\ub2f9\\ud669\\ud558\\uc9c0 \\uc54a\\ub3c4\\ub85d\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\" \\uc791\\uc5c5 \\uc0ac\\uc2e4 \\uc0ac\\uc804 \\uc219\\uc9c0\"}]}],\"style\":\"bullet\",\"indent\":0,\"border\":0}"
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

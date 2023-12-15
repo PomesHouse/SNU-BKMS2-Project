@@ -1,0 +1,510 @@
+[
+  {
+    "client_msg_id": "2eb02da2-db30-4dd6-91c3-c0d79400719b",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;1:1 화상영어 링글 : 채용설명회 안내\u0026gt;\n\n\u0026gt; *1:1 화상영어플랫폼 링글에서 서울대 데이터 사이언스 대학원 학우분들을 대상으로 채용 설명회를 진행합니다.*\n\u0026gt; 가장 최근 링글에서 오픈 베타로 릴리즈한 CAF 영어진단모델 (AI 진단)을 중심으로 링글 프로덕트에 대한 설명을 드릴 예정이며,\n\u0026gt; 현재 링글에서 ML파트 인턴으로 근무 중인 데이터사이언스 대학원 22학번 학우의 생생한 스토리텔링도 함께 진행됩니다.\n\u0026gt; \n\u0026gt; 에듀테크, 스타트업, ML 등에 관심이 있는 분들이라면 참여하시어서 많은 정보 얻어가시면 좋겠습니다.\n\u0026gt; 당일 설명회에서 구체적인 포지션, 필요 스킬셋, 링글 Tech팀에 대한 추가적인 설명이 진행됩니다.\n\u0026gt; 간단한 식사도 제공되니 취업을 고민하고 계신 학우님들과 함께 많은 이야기 나누는 기회가 되길 바랍니다. \n\u0026gt; *사전 신청 URL : \u003chttps://forms.gle/JmzGiA4rEayNhzWX7\u003e*\n\u0026gt; *JD: \u003chttps://career.ringleplus.com/fd62fa9a-331d-4c12-a4ec-8540795b90a7\u003e*\n\u0026gt; \n\u0026gt; 일시: 7월 13일(목) 오후 5:30\n\u0026gt; 장소:  942동 3층 데이터사이언스대학원 302호 강의실\n",
+    "ts": "1689122834.838069",
+    "attachments": [
+      {
+        "fallback": "Google Docs: 링글 채용 설명회에 초대합니다.",
+        "id": 1,
+        "title": "링글 채용 설명회에 초대합니다.",
+        "title_link": "https://forms.gle/JmzGiA4rEayNhzWX7",
+        "text": "글로벌 에듀테크 스타트업 링글에서 서울대 석사 학우님들을 위한 채용 설명회를 진행합니다.\n\n글로벌로 성장하는 조직에서 개인의 성장까지 함께 이루고 싶다면 이번 채용 설명회, 놓치지 말고 참여해주세요.\n\n오프라인 참석자 분들과는 피자:pizza:를 먹으며 링글 굿즈, 링글 수업권 등 소정의 선물도 지급해 드릴 예정이니 많은 관심과 참여 부탁 드립니다!",
+        "image_url": "https://lh3.googleusercontent.com/T3Mr7iHpNjJ89AfeEzGPEg7yWnHLwqh3dkJoyAvR3_07AtGNhuQQWzNn72uDT48yKkMY5ImbZcs",
+        "service_name": "Google Docs",
+        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+        "from_url": "https://forms.gle/JmzGiA4rEayNhzWX7",
+        "original_url": "https://forms.gle/JmzGiA4rEayNhzWX7",
+        "blocks": null
+      },
+      {
+        "fallback": "[석/박사] ML Engineer",
+        "id": 2,
+        "title": "[석/박사] ML Engineer",
+        "title_link": "https://career.ringleplus.com/fd62fa9a-331d-4c12-a4ec-8540795b90a7",
+        "text": "Why Ringle",
+        "image_url": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F01cf1072-5ff1-409f-8cad-ef185f0517cf%2F%E1%84%82%E1%85%A9%E1%84%89%E1%85%A7%E1%86%AB_%E1%84%87%E1%85%A2%E1%84%82%E1%85%A5_%E1%84%8E%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC.png\u0026blockId=fd62fa9a-331d-4c12-a4ec-8540795b90a7\u0026width=2400",
+        "service_name": "career.ringleplus.com",
+        "service_icon": "https://oopy.lazyrockets.com/api/rest/cdn/image/8a106162-64d2-4036-9407-004b08aaf22f.png?d=16",
+        "from_url": "https://career.ringleplus.com/fd62fa9a-331d-4c12-a4ec-8540795b90a7",
+        "original_url": "https://career.ringleplus.com/fd62fa9a-331d-4c12-a4ec-8540795b90a7",
+        "blocks": null
+      }
+    ],
+    "files": [
+      {
+        "id": "F05GDKE041L",
+        "created": 1689122829,
+        "timestamp": 1689122829,
+        "name": "_SNUxRingle._005.png",
+        "title": "_SNUxRingle._005.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 605532,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05GDKE041L-_SNUxRingle._005.png",
+        "url_private_download": "attachments/F05GDKE041L-_SNUxRingle._005.png",
+        "original_h": 1920,
+        "original_w": 1920,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05GDKE041L-0fb27b752f/_snuxringle._005_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05GDKE041L-0fb27b752f/_snuxringle._005_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05GDKE041L-0fb27b752f/_snuxringle._005_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05GDKE041L-0fb27b752f/_snuxringle._005_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 360,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05GDKE041L-0fb27b752f/_snuxringle._005_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05GDKE041L-0fb27b752f/_snuxringle._005_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05GDKE041L-0fb27b752f/_snuxringle._005_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05GDKE041L-0fb27b752f/_snuxringle._005_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GDKE041L/_snuxringle._005.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GDKE041L-c23ea9b5d3",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YVi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c1:1 화상영어 링글 : 채용설명회 안내\u003e\n\n"
+              }
+            ]
+          },
+          {
+            "Type": "rich_text_quote",
+            "Raw": "{\"type\":\"rich_text_quote\",\"elements\":[{\"type\":\"text\",\"text\":\"1:1 \\ud654\\uc0c1\\uc601\\uc5b4\\ud50c\\ub7ab\\ud3fc \\ub9c1\\uae00\\uc5d0\\uc11c \\uc11c\\uc6b8\\ub300 \\ub370\\uc774\\ud130 \\uc0ac\\uc774\\uc5b8\\uc2a4 \\ub300\\ud559\\uc6d0 \\ud559\\uc6b0\\ubd84\\ub4e4\\uc744 \\ub300\\uc0c1\\uc73c\\ub85c \\ucc44\\uc6a9 \\uc124\\uba85\\ud68c\\ub97c \\uc9c4\\ud589\\ud569\\ub2c8\\ub2e4.\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\\uac00\\uc7a5 \\ucd5c\\uadfc \\ub9c1\\uae00\\uc5d0\\uc11c \\uc624\\ud508 \\ubca0\\ud0c0\\ub85c \\ub9b4\\ub9ac\\uc988\\ud55c CAF \\uc601\\uc5b4\\uc9c4\\ub2e8\\ubaa8\\ub378 (AI \\uc9c4\\ub2e8)\\uc744 \\uc911\\uc2ec\\uc73c\\ub85c \\ub9c1\\uae00 \\ud504\\ub85c\\ub355\\ud2b8\\uc5d0 \\ub300\\ud55c \\uc124\\uba85\\uc744 \\ub4dc\\ub9b4 \\uc608\\uc815\\uc774\\uba70,\\n\\ud604\\uc7ac \\ub9c1\\uae00\\uc5d0\\uc11c ML\\ud30c\\ud2b8 \\uc778\\ud134\\uc73c\\ub85c \\uadfc\\ubb34 \\uc911\\uc778 \\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4 \\ub300\\ud559\\uc6d0 22\\ud559\\ubc88 \\ud559\\uc6b0\\uc758 \\uc0dd\\uc0dd\\ud55c \\uc2a4\\ud1a0\\ub9ac\\ud154\\ub9c1\\ub3c4 \\ud568\\uaed8 \\uc9c4\\ud589\\ub429\\ub2c8\\ub2e4.\\n\\n\\uc5d0\\ub4c0\\ud14c\\ud06c, \\uc2a4\\ud0c0\\ud2b8\\uc5c5, ML \\ub4f1\\uc5d0 \\uad00\\uc2ec\\uc774 \\uc788\\ub294 \\ubd84\\ub4e4\\uc774\\ub77c\\uba74 \\ucc38\\uc5ec\\ud558\\uc2dc\\uc5b4\\uc11c \\ub9ce\\uc740 \\uc815\\ubcf4 \\uc5bb\\uc5b4\\uac00\\uc2dc\\uba74 \\uc88b\\uaca0\\uc2b5\\ub2c8\\ub2e4.\\n\\ub2f9\\uc77c \\uc124\\uba85\\ud68c\\uc5d0\\uc11c \\uad6c\\uccb4\\uc801\\uc778 \\ud3ec\\uc9c0\\uc158, \\ud544\\uc694 \\uc2a4\\ud0ac\\uc14b, \\ub9c1\\uae00 Tech\\ud300\\uc5d0 \\ub300\\ud55c \\ucd94\\uac00\\uc801\\uc778 \\uc124\\uba85\\uc774 \\uc9c4\\ud589\\ub429\\ub2c8\\ub2e4.\\n\\uac04\\ub2e8\\ud55c \\uc2dd\\uc0ac\\ub3c4 \\uc81c\\uacf5\\ub418\\ub2c8 \\ucde8\\uc5c5\\uc744 \\uace0\\ubbfc\\ud558\\uace0 \\uacc4\\uc2e0 \\ud559\\uc6b0\\ub2d8\\ub4e4\\uacfc \\ud568\\uaed8 \\ub9ce\\uc740 \\uc774\\uc57c\\uae30 \\ub098\\ub204\\ub294 \\uae30\\ud68c\\uac00 \\ub418\\uae38 \\ubc14\\ub78d\\ub2c8\\ub2e4. \\n\"},{\"type\":\"text\",\"text\":\"\\uc0ac\\uc804 \\uc2e0\\uccad URL : \",\"style\":{\"bold\":true}},{\"type\":\"link\",\"url\":\"https:\\/\\/forms.gle\\/JmzGiA4rEayNhzWX7\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\"},{\"type\":\"text\",\"text\":\"JD: \",\"style\":{\"bold\":true}},{\"type\":\"link\",\"url\":\"https:\\/\\/career.ringleplus.com\\/fd62fa9a-331d-4c12-a4ec-8540795b90a7\",\"style\":{\"bold\":true}},{\"type\":\"text\",\"text\":\"\\n\\n\\uc77c\\uc2dc: 7\\uc6d4 13\\uc77c(\\ubaa9) \\uc624\\ud6c4 5:30\\n\\uc7a5\\uc18c:  942\\ub3d9 3\\uce35 \\ub370\\uc774\\ud130\\uc0ac\\uc774\\uc5b8\\uc2a4\\ub300\\ud559\\uc6d0 302\\ud638 \\uac15\\uc758\\uc2e4\"}]}"
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "a6e3b046-681a-4f5d-a84c-8d94502390e5",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;국민권익위원회 공정채용 홍보영상 게시\u0026gt;\n\n국민권익위원회에서 공정채용 문화 확산을 위해 홍보영상을 제작하였으며, 해당 영상의 송출을 요청하여 공유하오니 참고하시기 바랍니다.",
+    "ts": "1689123182.430929",
+    "files": [
+      {
+        "id": "F05GL9VDJRG",
+        "created": 1689123129,
+        "timestamp": 1689123129,
+        "name": "붙임2. 국민권익위원회 공정채용 홍보영상 (1).mp4",
+        "title": "붙임2. 국민권익위원회 공정채용 홍보영상 (1).mp4",
+        "mimetype": "video/mp4",
+        "image_exif_rotation": 0,
+        "filetype": "mp4",
+        "pretty_type": "MPEG 4 비디오",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 3965404,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05GL9VDJRG-붙임2. 국민권익위원회 공정채용 홍보영상 (1).mp4",
+        "url_private_download": "attachments/F05GL9VDJRG-붙임2. 국민권익위원회 공정채용 홍보영상 (1).mp4",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GL9VDJRG/______2.__________________________________________________1_.mp4",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GL9VDJRG-4922f8c58e",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tub",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c국민권익위원회 공정채용 홍보영상 게시\u003e\n\n국민권익위원회에서 공정채용 문화 확산을 위해 홍보영상을 제작하였으며, 해당 영상의 송출을 요청하여 공유하오니 참고하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "76b81e0d-e6e8-40fe-9b72-369606ca5b96",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;캠퍼스 라이선스 제공 외 소프트웨어(Adobe, Virtualbox Extension Pack 등.) 사용 주의 및 대체 제품 안내\u0026gt;\n\n최근 소프트웨어 업체에서 정보화본부로 소프트에어 불법 사용에 대한 확인요청이 접수되고 있습니다. 이와 관련하여 캠퍼스 라이선스 제공 외 소프트웨어에 대하여 임의로 구매 없이 사용하지 않도록 주의하여 주시기 바랍니다.\n\nㅇ 주요 소프트웨어 사용 시 주의사항\n 가. 어도비(Adobe): 개인이 별도 라이선스를 구매하지 않은 경우 소프트웨어 삭제하고, 대체 무료 소프트웨어 사용(첨부)\n\n 나. Vitual Box Extension Pack: 공식 사이트에서 Extension Pack을 다운로드하는 것만으로도 IP가 수집되며, 학교 네트워크에서 다운로드 및 사용하는 경우 _PEUL 라이선스 정책*에 따라 유료 구입을 요구_받을 수 있음\n _*PEUL(VirtualBox Personal Use and Evaluation License) 라이선스 정책: 개인이 사용할 땐 무료로 사용할 수 있지만, 학교에서 사용하는 경우 구입이 필요한 라이선스_\n _※ 대체 무료소프트웨어 사용(QEMU, Microsoft Hyper-V, Xen)_\n\n소프트웨어 불법 이용의 1차 책임은 사용자에게 있으며, 저작권법 제136조 등에 따라 처벌받을 수 있으므로 학생 여러분께서는 불법 소프트웨어 사용에 각별히 유의하시기 바랍니다.",
+    "ts": "1689123746.025949",
+    "edited": {
+      "user": "U01QNJ7PWRX",
+      "ts": "1689123783.000000"
+    },
+    "files": [
+      {
+        "id": "F05G5PW6TSB",
+        "created": 1689123481,
+        "timestamp": 1689123481,
+        "name": "붙임1_Adobe 소프트웨어 삭제 안내.hwp",
+        "title": "붙임1_Adobe 소프트웨어 삭제 안내.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 114688,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05G5PW6TSB-붙임1_Adobe 소프트웨어 삭제 안내.hwp",
+        "url_private_download": "attachments/F05G5PW6TSB-붙임1_Adobe 소프트웨어 삭제 안내.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05G5PW6TSB/______1_adobe______________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05G5PW6TSB-dfc2a70082",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      },
+      {
+        "id": "F05GHCGLS4V",
+        "created": 1689123494,
+        "timestamp": 1689123494,
+        "name": "붙임3_Adobe 소프트웨어 대체 제품 안내.hwp",
+        "title": "붙임3_Adobe 소프트웨어 대체 제품 안내.hwp",
+        "mimetype": "application/octet-stream",
+        "image_exif_rotation": 0,
+        "filetype": "binary",
+        "pretty_type": "이진",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 131072,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05GHCGLS4V-붙임3_Adobe 소프트웨어 대체 제품 안내.hwp",
+        "url_private_download": "attachments/F05GHCGLS4V-붙임3_Adobe 소프트웨어 대체 제품 안내.hwp",
+        "original_h": 0,
+        "original_w": 0,
+        "thumb_64": "",
+        "thumb_80": "",
+        "thumb_160": "",
+        "thumb_360": "",
+        "thumb_360_gif": "",
+        "thumb_360_w": 0,
+        "thumb_360_h": 0,
+        "thumb_480": "",
+        "thumb_480_w": 0,
+        "thumb_480_h": 0,
+        "thumb_720": "",
+        "thumb_720_w": 0,
+        "thumb_720_h": 0,
+        "thumb_960": "",
+        "thumb_960_w": 0,
+        "thumb_960_h": 0,
+        "thumb_1024": "",
+        "thumb_1024_w": 0,
+        "thumb_1024_h": 0,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05GHCGLS4V/______3_adobe_____________________________________.hwp",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05GHCGLS4V-35e254e62a",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QVn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c캠퍼스 라이선스 제공 외 소프트웨어(Adobe, Virtualbox Extension Pack 등.) 사용 주의 및 대체 제품 안내\u003e\n\n최근 소프트웨어 업체에서 정보화본부로 소프트에어 불법 사용에 대한 확인요청이 접수되고 있습니다. 이와 관련하여 캠퍼스 라이선스 제공 외 소프트웨어에 대하여 임의로 구매 없이 사용하지 않도록 주의하여 주시기 바랍니다.\n\nㅇ 주요 소프트웨어 사용 시 주의사항\n 가. 어도비(Adobe): 개인이 별도 라이선스를 구매하지 않은 경우 소프트웨어 삭제하고, 대체 무료 소프트웨어 사용(첨부)\n\n 나. Vitual Box Extension Pack: 공식 사이트에서 Extension Pack을 다운로드하는 것만으로도 IP가 수집되며, 학교 네트워크에서 다운로드 및 사용하는 경우 "
+              },
+              {
+                "type": "text",
+                "text": "PEUL 라이선스 정책*에 따라 유료 구입을 요구",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "받을 수 있음\n"
+              },
+              {
+                "type": "text",
+                "text": " *PEUL(VirtualBox Personal Use and Evaluation License) 라이선스 정책: 개인이 사용할 땐 무료로 사용할 수 있지만, 학교에서 사용하는 경우 구입이 필요한 라이선스",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": " ※ 대체 무료소프트웨어 사용(QEMU, Microsoft Hyper-V, Xen)",
+                "style": {
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n소프트웨어 불법 이용의 1차 책임은 사용자에게 있으며, 저작권법 제136조 등에 따라 처벌받을 수 있으므로 학생 여러분께서는 불법 소프트웨어 사용에 각별히 유의하시기 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "04a785fa-235d-4c8e-bdd0-da5e22034011",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt; 2023년도 관악캠퍼스 소방시설 종합점검 관련 안내 \u0026gt;\n\n『소방시설 설치 및 관리에 관한 법률』제22조 (소방시설 등의 자체점검)에 따라 942동 소방시설에 대한 종합점검을 실시할 예정이오니  학생 여러분께서는 다음 사항에 대하여 협조하여 주시면 감사하겠습니다.\n\nㅁ 942동 점검일: 7월 17일(월)\n\nㅁ점검 내용\n ㅇ소화설비: 소화기구, 옥내소화전설비, 스프링쿨러설비, 소화가스 설비 등\n ㅇ경보설비: 자동화재탐지설비, 비상경보설비, 비상방송설비 등\n ㅇ피난설비: 유도등, 유도표지, 완강기, 비상조명등 등\n ㅇ소화활동 설비: 제연설비, 연결송수관설비 등\n ㅇ기타설비: 비상문, 방화셔터 등\n\nㅁ 협조 요청사항\n ㅇ건물 내 모든 실에 대한 개방 및 점검이 필요할 수 있으므로 점검 인력 출입에 대한 양해\n ㅇ점검 중 불가피하게 발생할 수 있는 사항(경종, 싸이렌, 비상방송) 등에 대한 양해",
+    "ts": "1689143064.011469",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QLMy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c 2023년도 관악캠퍼스 소방시설 종합점검 관련 안내 \u003e\n\n『소방시설 설치 및 관리에 관한 법률』제22조 (소방시설 등의 자체점검)에 따라 942동 소방시설에 대한 종합점검을 실시할 예정이오니  학생 여러분께서는 다음 사항에 대하여 협조하여 주시면 감사하겠습니다.\n\nㅁ 942동 점검일: 7월 17일(월)\n\nㅁ점검 내용\n ㅇ소화설비: 소화기구, 옥내소화전설비, 스프링쿨러설비, 소화가스 설비 등\n ㅇ경보설비: 자동화재탐지설비, 비상경보설비, 비상방송설비 등\n ㅇ피난설비: 유도등, 유도표지, 완강기, 비상조명등 등\n ㅇ소화활동 설비: 제연설비, 연결송수관설비 등\n ㅇ기타설비: 비상문, 방화셔터 등\n\nㅁ 협조 요청사항\n ㅇ건물 내 모든 실에 대한 개방 및 점검이 필요할 수 있으므로 점검 인력 출입에 대한 양해\n ㅇ점검 중 불가피하게 발생할 수 있는 사항(경종, 싸이렌, 비상방송) 등에 대한 양해"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

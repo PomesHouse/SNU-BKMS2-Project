@@ -1,0 +1,147 @@
+[
+  {
+    "client_msg_id": "4a656dc6-03c5-4e98-96f4-0c15abdeb4ae",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022학년도 제4기 용운장학재단 해외유학(박사과정)장학생 선발 안내\u0026gt;\n\n용운장학재단에서 2022년 제4기 해외유학(박사과정)장학생을 아래와 같이 선발함을 알려드리니 관련 내용 참고 하시길 바랍니다.\n\n가. 선발대상: 2022학년도 박사유학지원자(유학 국가 및 전공 무관)\n\n나. 선발기준\n    1) 2022년 해외 대학 박사 과정에 합격하여 유학 예정인 학생\n    2) 대학(원) 성적이 우수한 학생(3.6/4.3 또는 3.8/4.5 이상)\n    3) 봉사정신이 충만하여 장차 국가와 사회자의 지도자로 성장할 수 있는 유능한 학생\n    4) 경제적 도움이 필요한 학생\n\n다. 장학금액: 약 30,000,000원 (USD 25,000)\n\n라. 제출서류: 용운장학생 신청서/자기소개서, 입학허가서(사본), 학사/석사 성적증명서, 학업/연구계획서, 지도교수추천서, 논문(초록본 제출가능) 및 특허 등 연구실적 및 경력증명서, 주민등록등본, 개인정보수집·이용·제공동의서, 증명사진(3매)\n\n마. 접수안내\n    1) 접수기간: *2022. 5. 31.(화)*까지\n    2) 접수처: 용운장학재단 사무국*(04792 서울시 성동구 광나루로 230, 용운빌딩 6층)*\n               담당자(사무국장 02-499-0091)",
+    "ts": "1648706767.365819",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8f5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022학년도 제4기 용운장학재단 해외유학(박사과정)장학생 선발 안내\u003e\n\n용운장학재단에서 2022년 제4기 해외유학(박사과정)장학생을 아래와 같이 선발함을 알려드리니 관련 내용 참고 하시길 바랍니다.\n\n가. 선발대상: 2022학년도 박사유학지원자(유학 국가 및 전공 무관)\n\n나. 선발기준\n    1) 2022년 해외 대학 박사 과정에 합격하여 유학 예정인 학생\n    2) 대학(원) 성적이 우수한 학생(3.6/4.3 또는 3.8/4.5 이상)\n    3) 봉사정신이 충만하여 장차 국가와 사회자의 지도자로 성장할 수 있는 유능한 학생\n    4) 경제적 도움이 필요한 학생\n\n다. 장학금액: 약 30,000,000원 (USD 25,000)\n\n라. 제출서류: 용운장학생 신청서/자기소개서, 입학허가서(사본), 학사/석사 성적증명서, 학업/연구계획서, 지도교수추천서, 논문(초록본 제출가능) 및 특허 등 연구실적 및 경력증명서, 주민등록등본, 개인정보수집·이용·제공동의서, 증명사진(3매)\n\n마. 접수안내\n    1) 접수기간: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 5. 31.(화)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "까지\n    2) 접수처: 용운장학재단 사무국"
+              },
+              {
+                "type": "text",
+                "text": "(04792 서울시 성동구 광나루로 230, 용운빌딩 6층)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n               담당자(사무국장 02-499-0091)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "e17ce000-472e-4c28-9815-952a17a54c47",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "\u0026lt;2022학년도 생명보험협회 해외박사과정 생명보험사회공헌장학생 선발 안내\u0026gt;\n\n가. 지원자격\n   1) 해외 주요대학의 보험관련 전공 박사과정 재학생 및 2022년도 하반기 입학확정자, 2023년도 입학예정자\n    2) 대한민국 국적자 중 학부 및 석사과정 성적이 우수한 자\n    3) 생명보험 관련 논문 발표자, 보험계리사 자격소지자 등 우대\n    4) 타 장학금 수령자 신청불가\n\n나. 선발인원: 2명 내외\n\n다. 제출서류: 붙임 안내문 참조\n\n라. 접수기한: *2022. 4. 27.(수)까지 접수(등기우편 및 방문접수)* \n     ※ 제출처: 서울시 중구 퇴계로 173 남산스퀘어빌딩 16층, 생명보험협회 사회공헌실 사회공헌팀\n\n마. 지원내용: 1인당 연간 최대 70,000천원(등록금 실비전액 + USD 2,000/월), 최대 4년간 지원\n\n바. 문의처: Tel)02-2262-6574, 이메일)\u003cmailto:hana@klia.or.kr|hana@klia.or.kr\u003e\n\n사. 기타사항: 장학생 주요 의무사항 반드시 확인",
+    "ts": "1648707205.088069",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rrv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c2022학년도 생명보험협회 해외박사과정 생명보험사회공헌장학생 선발 안내\u003e\n\n가. 지원자격\n   1) 해외 주요대학의 보험관련 전공 박사과정 재학생 및 2022년도 하반기 입학확정자, 2023년도 입학예정자\n    2) 대한민국 국적자 중 학부 및 석사과정 성적이 우수한 자\n    3) 생명보험 관련 논문 발표자, 보험계리사 자격소지자 등 우대\n    4) 타 장학금 수령자 신청불가\n\n나. 선발인원: 2명 내외\n\n다. 제출서류: 붙임 안내문 참조\n\n라. 접수기한: "
+              },
+              {
+                "type": "text",
+                "text": "2022. 4. 27.(수)까지 접수(등기우편 및 방문접수) ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "     ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "※ 제출처: 서울시 중구 퇴계로 173 남산스퀘어빌딩 16층, 생명보험협회 사회공헌실 사회공헌팀\n\n마. 지원내용: 1인당 연간 최대 70,000천원(등록금 실비전액 + USD 2,000/월), 최대 4년간 지원\n\n바. 문의처: Tel)02-2262-6574, 이메일)"
+              },
+              {
+                "type": "link",
+                "url": "mailto:hana@klia.or.kr",
+                "text": "hana@klia.or.kr"
+              },
+              {
+                "type": "text",
+                "text": "\n\n사. 기타사항: 장학생 주요 의무사항 반드시 확인"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

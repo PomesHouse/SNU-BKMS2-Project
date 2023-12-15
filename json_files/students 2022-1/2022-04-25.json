@@ -1,0 +1,185 @@
+[
+  {
+    "client_msg_id": "f926c177-307f-46d5-969e-0278a49407bd",
+    "type": "message",
+    "user": "U01QV28F01X",
+    "text": "개인적인 서류가 아니라 연구실 관련 행정서류 처리할때도 4층 프린터는 사용 못하나요?",
+    "ts": "1650858619.383699",
+    "thread_ts": "1650526847.849049",
+    "parent_user_id": "U01QGKD09K5",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kfib",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "개인적인 서류가 아니라 연구실 관련 행정서류 처리할때도 4층 프린터는 사용 못하나요?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/b6bc5cf9640275389d0def700f0acea5.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-72.png",
+      "first_name": "2기_최유림",
+      "real_name": "2기_최유림",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "yrchoi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "0d4e815f-c8a5-4a14-8dab-c6e46b019885",
+    "type": "message",
+    "user": "U01QGKD09K5",
+    "text": "조교 및 연구실 업무와 같이 공적인 서류는 가능합니다.",
+    "ts": "1650858706.659399",
+    "thread_ts": "1650526847.849049",
+    "parent_user_id": "U01QGKD09K5",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PS+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "조교 및 연구실 업무와 같이 공적인 서류는 가능합니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/144d877f4e7e4ec4fe69dfb54e3ca941.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-72.png",
+      "first_name": "어경선",
+      "real_name": "어경선",
+      "display_name": "2기_어경선",
+      "team": "T01QA5S537V",
+      "name": "eks104",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "af7158dc-a783-4430-a403-be9dd77b7d3e",
+    "type": "message",
+    "user": "U01Q1KSQT1D",
+    "text": "안녕하세요 2기 석사생 박은재입니다.\n제 친구가 아래와 같이 SKT AI fellowship에 NLP 주제로 함께 지원하실 분을 찾고 있습니다.\n관심있으신 분은 아래 연락처로 연락주세요.\n감사합니다!\n---------------------------------------------------------------------------------------------------------------------------------------------\n안녕하세요.\n전기정보공학부 석사과정 3학기 안성관입니다.\n\n이번 SKT AI fellowship에 함께 지원하실 분을 모집하고 있습니다.\nSKT AI fellowship은 현업 개발자들의 멘토링과 연구비 지원을 받아 실무 과제를 경험할 수 있는 프로그램입니다.\n\n주요 일정\n- 지원 접수  22. 4. 13.(수) - 5. 8.(일) 오후 11:59 까지\n- 서류 전형 발표  5. 17.(화)\n- 온라인 PT/심사  5. 24.(화)\n- 최종 합격자 발표 5. 27.(금)\n- 4기 오리엔테이션  5. 31.(화)\n- 중간 리뷰  8월\n- 프로젝트 최종 발표/심사  10월 말\n\n해당 프로그램의 장점으로는 재학 중에도 병행 가능하며, 과제 수행 연구비도 받는 점이라고 생각합니다.\n\n\n저는 NLP 쪽에 관심이 있어, 관련 주제들을 함께 지원하실 분을 찾고 있습니다.\n아래 링크에 제시된 과제 중 여러 가지를 동시에 지원할 수 있어 함께 주제를 선정하고, 계획안을 쓰면 될 것 같습니다.\n\n제 NLP 관련 연구/프로젝트 경험은 다음과 같습니다.\n- BERT \u0026amp; Few-shot learning을 이용한 보안 논문 작성\n- 한국어 Pretrained Language Model 개발중\n- 신효필교수님 수업 수강하여 KoGLUE, 한국어 전처리 등의 경험 有\n\n관심있으시면 010-2970-2640, 또는 \u003cmailto:policean95@gmail.com|policean95@gmail.com\u003e 으로 연락 주시면 감사하겠습니다.\n\n참고하실 링크는 다음과 같습니다.\n\u003chttps://www.sktaifellowship.com/\u003e",
+    "ts": "1650865460.088329",
+    "attachments": [
+      {
+        "fallback": "SKT AI Fellowship",
+        "id": 1,
+        "title": "SKT AI Fellowship",
+        "title_link": "https://www.sktaifellowship.com/",
+        "text": ":female-technologist: SKT AI Fellowship을 통해 무엇을 할 수 있나요?",
+        "image_url": "https://oopy.lazyrockets.com/api/v2/notion/image?src=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd794b85a-8357-449b-b1bf-b98075f0823b%2FMicrosoftTeams-image_(16)_(1).png\u0026blockId=b5b41517-eff8-4cf9-970b-ac99d1ead057\u0026width=2400",
+        "service_name": "sktaifellowship.com",
+        "service_icon": "https://oopy.lazyrockets.com/api/rest/cdn/image/714ceabb-2db0-4937-9c3c-980805bab698.png?d=16",
+        "from_url": "https://www.sktaifellowship.com/",
+        "original_url": "https://www.sktaifellowship.com/",
+        "blocks": null
+      }
+    ],
+    "team": "T01QA5S537V",
+    "reactions": [
+      {
+        "name": "+1",
+        "count": 4,
+        "users": [
+          "U01QV28FG4R",
+          "U01Q1KFN4JK",
+          "U02V5LT4DLZ",
+          "U02P4QDPG2W"
+        ]
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+S6Eo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "안녕하세요 2기 석사생 박은재입니다.\n제 친구가 아래와 같이 SKT AI fellowship에 NLP 주제로 함께 지원하실 분을 찾고 있습니다.\n관심있으신 분은 아래 연락처로 연락주세요.\n감사합니다!\n---------------------------------------------------------------------------------------------------------------------------------------------\n안녕하세요.\n전기정보공학부 석사과정 3학기 안성관입니다.\n\n이번 SKT AI fellowship에 함께 지원하실 분을 모집하고 있습니다.\nSKT AI fellowship은 현업 개발자들의 멘토링과 연구비 지원을 받아 실무 과제를 경험할 수 있는 프로그램입니다.\n\n주요 일정\n- 지원 접수  22. 4. 13.(수) - 5. 8.(일) 오후 11:59 까지\n- 서류 전형 발표  5. 17.(화)\n- 온라인 PT/심사  5. 24.(화)\n- 최종 합격자 발표 5. 27.(금)\n- 4기 오리엔테이션  5. 31.(화)\n- 중간 리뷰  8월\n- 프로젝트 최종 발표/심사  10월 말\n\n해당 프로그램의 장점으로는 재학 중에도 병행 가능하며, 과제 수행 연구비도 받는 점이라고 생각합니다.\n\n\n저는 NLP 쪽에 관심이 있어, 관련 주제들을 함께 지원하실 분을 찾고 있습니다.\n아래 링크에 제시된 과제 중 여러 가지를 동시에 지원할 수 있어 함께 주제를 선정하고, 계획안을 쓰면 될 것 같습니다.\n\n제 NLP 관련 연구/프로젝트 경험은 다음과 같습니다.\n- BERT \u0026 Few-shot learning을 이용한 보안 논문 작성\n- 한국어 Pretrained Language Model 개발중\n- 신효필교수님 수업 수강하여 KoGLUE, 한국어 전처리 등의 경험 有\n\n관심있으시면 010-2970-2640, 또는 "
+              },
+              {
+                "type": "link",
+                "url": "mailto:policean95@gmail.com",
+                "text": "policean95@gmail.com"
+              },
+              {
+                "type": "text",
+                "text": " 으로 연락 주시면 감사하겠습니다.\n\n참고하실 링크는 다음과 같습니다.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.sktaifellowship.com/",
+                "text": ""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/584434049821cd020994e3e384829d15.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "2기_박은재",
+      "real_name": "2기_박은재",
+      "display_name": "",
+      "team": "T01QA5S537V",
+      "name": "parkej951",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

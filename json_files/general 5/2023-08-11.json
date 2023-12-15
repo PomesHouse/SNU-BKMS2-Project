@@ -1,0 +1,189 @@
+[
+  {
+    "client_msg_id": "29958461-28b8-4314-9edb-4541ab0d35cb",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;NH 투자증권: 빅데이터센터 채용 공고\u0026gt;*\n\n수행업무 - 빅데이터\n수행업무\n- 빅데이터 분석 (AI, 머신러닝, 데이터마이닝, 통계, 최적화 등)\n- 데이터 핸들링 (Data Gathering, Cleansing, Mart 구성)\n- 데이터 시각화 및 대시보드 구성\n- 자연어처리 알고리즘 개발\n\n필요역량\n- Python 및 SQL을 이용한 데이터 추출 및 가공 능력\n- 분석 방법론에 대한 이해 및 알고리즘 기반 분석 모델 개발/적용 경험\n- 개발자, 업무담당자 등 원활한 과제수행을 위한 커뮤니케이션 능력\n\n자격요건\n- 컴퓨터 공학, 통계, 전산, 산업공학, 경영 등 기타 유사 전공자 선호\n- Analytics, Machine Learning, AI, Language Model 개발 경력자\n- 분석, 시각화, SQL 등 컴퓨터 프로그래밍 능력 선호\n- 애널리틱스/AI 관련 석사, 박사 학위 우대\n\n문의) NH투자증권 빅데이터센터 안성문 과장\n       (\u003ctel:0222296271|02-2229-6271\u003e, \u003ctel:010-6425-5248|010-6425-5248\u003e, \u003cmailto:sungmoon@nhqv.com|sungmoon@nhqv.com\u003e)",
+    "ts": "1691742185.373969",
+    "team": "T01QA5S537V",
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MH1sw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003cNH 투자증권: 빅데이터센터 채용 공고\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n수행업무 - 빅데이터\n수행업무\n- 빅데이터 분석 (AI, 머신러닝, 데이터마이닝, 통계, 최적화 등)\n- 데이터 핸들링 (Data Gathering, Cleansing, Mart 구성)\n- 데이터 시각화 및 대시보드 구성\n- 자연어처리 알고리즘 개발\n\n필요역량\n- Python 및 SQL을 이용한 데이터 추출 및 가공 능력\n- 분석 방법론에 대한 이해 및 알고리즘 기반 분석 모델 개발/적용 경험\n- 개발자, 업무담당자 등 원활한 과제수행을 위한 커뮤니케이션 능력\n\n자격요건\n- 컴퓨터 공학, 통계, 전산, 산업공학, 경영 등 기타 유사 전공자 선호\n- Analytics, Machine Learning, AI, Language Model 개발 경력자\n- 분석, 시각화, SQL 등 컴퓨터 프로그래밍 능력 선호\n- 애널리틱스/AI 관련 석사, 박사 학위 우대\n\n문의) NH투자증권 빅데이터센터 안성문 과장\n       ("
+              },
+              {
+                "type": "link",
+                "url": "tel:0222296271",
+                "text": "02-2229-6271"
+              },
+              {
+                "type": "text",
+                "text": ", 010-6425-5248, "
+              },
+              {
+                "type": "link",
+                "url": "mailto:sungmoon@nhqv.com",
+                "text": "sungmoon@nhqv.com"
+              },
+              {
+                "type": "text",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "T01QA5S537V",
+    "source_team": "T01QA5S537V",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  },
+  {
+    "client_msg_id": "958c65d7-b743-4de9-a716-904977f7f7c0",
+    "type": "message",
+    "user": "U01QNJ7PWRX",
+    "text": "*\u0026lt;삼성전자 DS부문 Tech \u0026amp; Career Forum(8.24 목요일) 안내\u0026gt;*\n\n- 일정 : 8월 24일 목요일 13시~18시\n- 위치 : 서울대학교 교수회관 (65동)\n\n본 행사는 'Connect the future - 사람과 사람, 사람과 미래를 연결하는 시간' 이라는 컨셉 아래\nDS부문의 기술을 소개하고, 석/박사생의 커리어에 대한 궁금증을 해결할 수 있는 소통의 장을 마련하는데 그 의미가 있습니다.\n\nTech Session에서는 DS부문 기술임원들의 강연이 있을 예정이며,\nCareer Session에서는 현직 Engineer와의 1on1 직무상담 시간이 준비되어 있습니다.\n\n관심있는 학생은 참여 바랍니다.",
+    "ts": "1691742512.360129",
+    "files": [
+      {
+        "id": "F05MRUM1NEM",
+        "created": 1691742482,
+        "timestamp": 1691742482,
+        "name": "attachment_3.png",
+        "title": "attachment_3.png",
+        "mimetype": "image/png",
+        "image_exif_rotation": 0,
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U01QNJ7PWRX",
+        "mode": "hosted",
+        "editable": false,
+        "is_external": false,
+        "external_type": "",
+        "size": 411665,
+        "url": "",
+        "url_download": "",
+        "url_private": "attachments/F05MRUM1NEM-attachment_3.png",
+        "url_private_download": "attachments/F05MRUM1NEM-attachment_3.png",
+        "original_h": 3271,
+        "original_w": 1025,
+        "thumb_64": "https://files.slack.com/files-tmb/T01QA5S537V-F05MRUM1NEM-b53eec2459/attachment_3_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T01QA5S537V-F05MRUM1NEM-b53eec2459/attachment_3_80.png",
+        "thumb_160": "https://files.slack.com/files-tmb/T01QA5S537V-F05MRUM1NEM-b53eec2459/attachment_3_160.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T01QA5S537V-F05MRUM1NEM-b53eec2459/attachment_3_360.png",
+        "thumb_360_gif": "",
+        "thumb_360_w": 113,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T01QA5S537V-F05MRUM1NEM-b53eec2459/attachment_3_480.png",
+        "thumb_480_w": 150,
+        "thumb_480_h": 480,
+        "thumb_720": "https://files.slack.com/files-tmb/T01QA5S537V-F05MRUM1NEM-b53eec2459/attachment_3_720.png",
+        "thumb_720_w": 226,
+        "thumb_720_h": 720,
+        "thumb_960": "https://files.slack.com/files-tmb/T01QA5S537V-F05MRUM1NEM-b53eec2459/attachment_3_960.png",
+        "thumb_960_w": 301,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T01QA5S537V-F05MRUM1NEM-b53eec2459/attachment_3_1024.png",
+        "thumb_1024_w": 321,
+        "thumb_1024_h": 1024,
+        "permalink": "https://snugsds.slack.com/files/U01QNJ7PWRX/F05MRUM1NEM/attachment_3.png",
+        "permalink_public": "https://slack-files.com/T01QA5S537V-F05MRUM1NEM-4ead2348ff",
+        "edit_link": "",
+        "preview": "",
+        "preview_highlight": "",
+        "lines": 0,
+        "lines_more": 0,
+        "is_public": true,
+        "public_url_shared": false,
+        "channels": null,
+        "groups": null,
+        "ims": null,
+        "initial_comment": {},
+        "comments_count": 0,
+        "num_stars": 0,
+        "is_starred": false,
+        "shares": {
+          "public": null,
+          "private": null
+        }
+      }
+    ],
+    "replace_original": false,
+    "delete_original": false,
+    "metadata": {
+      "event_type": "",
+      "event_payload": null
+    },
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fyeVV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\u003c삼성전자 DS부문 Tech \u0026 Career Forum(8.24 목요일) 안내\u003e",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n\n- 일정 : 8월 24일 목요일 13시~18시\n- 위치 : 서울대학교 교수회관 (65동)\n\n본 행사는 'Connect the future - 사람과 사람, 사람과 미래를 연결하는 시간' 이라는 컨셉 아래\nDS부문의 기술을 소개하고, 석/박사생의 커리어에 대한 궁금증을 해결할 수 있는 소통의 장을 마련하는데 그 의미가 있습니다.\n\nTech Session에서는 DS부문 기술임원들의 강연이 있을 예정이며,\nCareer Session에서는 현직 Engineer와의 1on1 직무상담 시간이 준비되어 있습니다.\n\n관심있는 학생은 참여 바랍니다."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user_team": "",
+    "source_team": "",
+    "user_profile": {
+      "avatar_hash": "",
+      "image_72": "https://secure.gravatar.com/avatar/f81e0af3f0233b60131463158e3f434c.jpg?s=72\u0026d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0019-72.png",
+      "first_name": "GSDS행정실",
+      "real_name": "GSDS행정실",
+      "display_name": "GSDS행정실",
+      "team": "T01QA5S537V",
+      "name": "snu.gsds",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reply_users_count": 0,
+    "reply_users": null
+  }
+]

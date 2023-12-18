@@ -9,45 +9,38 @@ from langchain.vectorstores import FAISS
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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"
 index_base_dir = './faiss_index'
 
 embeddings = OpenAIEmbeddings(model = 'text-embedding-ada-002' )
 vectordb = FAISS.load_local(index_base_dir, embeddings)
 
 #Question and answering
-# chatbot_chain = RetrievalQA.from_chain_type(
-#     llm = ChatOpenAI(
-#         temperature = 0.5, model_name = 'gpt-3.5-turbo', max_tokens = 500
-#     ),
-#     chain_type = "stuff",
-#     retriever = vectordb.as_retriever(search_kwargs={"k" : 2})
-# )
-chatbot_chain = RetrievalQA.from_chain_type(
-		llm = ChatOpenAI(
-        temperature = 0.5, model_name = 'gpt-3.5-turbo', max_tokens = 500
-        ),
-		retriever = db.as_retriever(search_kwargs={"k" : 2}),
-		verbose=True, 
-		chain_type_kwargs={
-		        'document_prompt': PromptTemplate(
-		            input_variables=["page_content", "sender_name", "source", "Date"], 
-		            template="Context:\n{page_content}\nSender:{sender_name}\nSource:{source}\nDate:{date}"
-		        ),
-		    },
-		)
-
 template = """
-{query}. Check page_content of Document whether it contains reliable contents.
-You also have to check source from metadata whether it can help you answer.
-If you cannot find related information, just answer you don't have any related info.
-Answer in Korean.
+{query} page_content에서 필요한 정보를 찾으세요.
+metadata 정보를 가지고 보낸 사람과 출처를 활용하세요. 해당 정보를 출력할 필요는 없습니다.
+관련 정보를 자세하게 알려주세요.
 """
 
 prompt = PromptTemplate(
     input_variables=["query"],
     template = template,
 )
+
+chatbot_chain = RetrievalQA.from_chain_type(
+		llm = ChatOpenAI(
+        temperature = 0.5, model_name = 'gpt-3.5-turbo', max_tokens = 2000
+        ),
+		retriever = db.as_retriever(search_kwargs={"k" : 3}),
+		verbose=True,
+        chain_type = "stuff",
+		chain_type_kwargs={
+		        'document_prompt': PromptTemplate(
+		            input_variables=["page_content", "sender_name", "source", "Date"], 
+		            template="내용:\n{page_content}\n보낸 사람:{sender_name}\n출처:{source}\n보낸 날짜:{date}"
+		        )
+		    },
+		)
 
 print('Enter e or exit to quit chatting...')
 query = input('Question: ')
